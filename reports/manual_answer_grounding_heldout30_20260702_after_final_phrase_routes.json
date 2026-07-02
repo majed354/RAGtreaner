@@ -1,0 +1,1755 @@
+{
+  "summary": {
+    "evaluated_at": "2026-07-02T08:03:52.304990+00:00",
+    "benchmark_id": "manual_answer_grounding_heldout30_20260702_after_final_phrase_routes",
+    "answer_mode": "consultation",
+    "retrieval_profile": "jamia_recall",
+    "cases_total": 30,
+    "non_operational_cases": 30,
+    "answer_grounding_score_100": 100.0,
+    "pass_rate": 1.0,
+    "failed_cases": 0,
+    "transport_error_cases": 0,
+    "article_number_recall": 1.0,
+    "regulation_presence_rate": 1.0,
+    "retrieval_direct_article_recall": 1.0,
+    "retrieval_context_entry_rate": 1.0,
+    "retrieval_mean_context_position": 14.037,
+    "domain_counts": {
+      "aviation_law": 1,
+      "zakat_collection": 1,
+      "real_estate_financing": 1,
+      "labor_law": 1,
+      "nzam_sndwq_alastthmarat_alaamh": 1,
+      "intellectual_property_law": 1,
+      "legal_rag_test": 1,
+      "sports_law": 1,
+      "environmental_protection": 1,
+      "commercial_law": 1,
+      "civil_registration": 1,
+      "legal_rag_saudi_arabic_citizenship": 1,
+      "private_laboratories": 1,
+      "criminal_law": 1,
+      "nzam_alzraah": 1,
+      "universities_law": 1,
+      "nzam_almwad_albtrwlyh_walbtrwkymawyh": 1,
+      "civil_service_law": 1,
+      "nzam_mjls_alwzraa": 1,
+      "execution_law": 1,
+      "mining_investment_law": 1,
+      "execution_procedure": 1,
+      "agricultural_regulation": 1,
+      "nzam_darh_almlk_abd_alazyz": 1,
+      "nzam_dman_alhqwq_balamwal_almnqwlh": 1,
+      "criminal_procedure": 1,
+      "nzam_alaymh_walmwdhnyn_wkhdm_almsajd": 1,
+      "personal_status": 1,
+      "nzam_alathar_walmtahf_waltrath_alamrany": 1,
+      "veterinary_quarantine": 1
+    },
+    "by_domain": {
+      "agricultural_regulation": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "aviation_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "civil_registration": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "civil_service_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "commercial_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "criminal_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "criminal_procedure": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "environmental_protection": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "execution_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "execution_procedure": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "intellectual_property_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "labor_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "legal_rag_saudi_arabic_citizenship": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "legal_rag_test": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "mining_investment_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_alathar_walmtahf_waltrath_alamrany": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_alaymh_walmwdhnyn_wkhdm_almsajd": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_almwad_albtrwlyh_walbtrwkymawyh": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_alzraah": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_darh_almlk_abd_alazyz": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_dman_alhqwq_balamwal_almnqwlh": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_mjls_alwzraa": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "nzam_sndwq_alastthmarat_alaamh": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "personal_status": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "private_laboratories": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "real_estate_financing": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "sports_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "universities_law": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "veterinary_quarantine": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      },
+      "zakat_collection": {
+        "cases": 1,
+        "score": 100.0,
+        "pass_rate": 1.0,
+        "failed": 0
+      }
+    },
+    "worst_cases": [
+      {
+        "question_id": "autopilot_article_precision_0779fc09321d",
+        "domain": "criminal_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_1501ee40de3c",
+        "domain": "commercial_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_308e013c5c84",
+        "domain": "legal_rag_test",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_3cd4898494de",
+        "domain": "intellectual_property_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_410844a3d369",
+        "domain": "private_laboratories",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_444ab2e87c96",
+        "domain": "sports_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_58826964a5fd",
+        "domain": "mining_investment_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_5a62c170ffb5",
+        "domain": "environmental_protection",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_5c21c32f31d9",
+        "domain": "nzam_alaymh_walmwdhnyn_wkhdm_almsajd",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_5e4ad18bf618",
+        "domain": "veterinary_quarantine",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_6472aa81edd7",
+        "domain": "execution_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      },
+      {
+        "question_id": "autopilot_article_precision_6995a2ea74a2",
+        "domain": "civil_service_law",
+        "grounded_article_points": 100.0,
+        "missing_answer_bound_article_pairs": [],
+        "article_number_hits_without_binding": [],
+        "failed_axes": [],
+        "retrieval_direct_article_recall": 1.0
+      }
+    ]
+  },
+  "rows": [
+    {
+      "question_id": "autopilot_article_precision_fbed6a1582c9",
+      "domain": "aviation_law",
+      "question": "تقوم شركة طيران أجنبية بإجراء رحلات نقل ركاب دولية من وإلى المملكة، حيث تهبط طائراتها في مطار الملك خالد الدولي، وتقوم الهيئة باستيفاء أجور الهبوط والإيواء والملاحة الجوية، كما يتم تحصيل رسم المغادرة من كل راكب يغادر المملكة. هل يستوفي رسم المغادرة من الطائرات المواصلة في رحلات دولية؟ وما هي الأجور التي يجب على الشركة دفعها وفق النظام؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-taryfh-altyran-almdny:2",
+        "nzam-taryfh-altyran-almdny:5",
+        "nzam-taryfh-altyran-almdny:8"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-taryfh-altyran-almdny:2",
+        "nzam-taryfh-altyran-almdny:5",
+        "nzam-taryfh-altyran-almdny:8"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "aviation_fees_collection": {
+          "expected_article_pairs": [
+            "nzam-taryfh-altyran-almdny:2",
+            "nzam-taryfh-altyran-almdny:5",
+            "nzam-taryfh-altyran-almdny:8"
+          ],
+          "bound_article_pairs": [
+            "nzam-taryfh-altyran-almdny:2",
+            "nzam-taryfh-altyran-almdny:5",
+            "nzam-taryfh-altyran-almdny:8"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الطيران المدني؛ نظام المراقبة الصحية في منافذ الدخول؛ نظام تعريفة الطيران المدني؛ نظام الجمارك الموحد لدول مجلس التعاون؛ نظام مكافحة جرائم الإرهاب وتمويله؛ نظام الشركات؛ نظام حماية البيانات الشخصية؛ نظام المسؤولية المدنية عن الأضرار النووية؛ النظام التجاري ( نظام المحكمة التجارية)؛ النظام البحري التجاري\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الطيران المدني: المادة 7، المادة 21، المادة 22، المادة 25، المادة 28، المادة 29، المادة 35، المادة 46، المادة 47، المادة 53، المادة 59، المادة 73\n- نظام المراقبة الصحية في منافذ الدخول: المادة 1، المادة 2، المادة 17، المادة 18، المادة 22\n- نظام تعريفة الطيران المدني: المادة 2، المادة 5، المادة 8\n- نظام (قانون) الجمارك الموحد لدول مجلس التعاون لدول الخليج العربية: المادة 34، المادة 37، المادة 38\n- نظام مكافحة جرائم الإرهاب وتمويله: المادة 41، المادة 42، المادة 44\n- نظام الشركات: المادة 3، المادة 5، المادة 17، المادة 71، المادة 91، المادة 112، المادة 231، المادة 237، المادة 238، المادة 239، المادة 265، المادة 271\n- نظام حماية البيانات الشخصية: المادة 3، المادة 5، المادة 8، المادة 9، المادة 13، المادة 16، المادة 20، المادة 33، المادة 39\n- نظام المسؤولية المدنية عن الأضرار النووية: المادة 2، المادة 9، المادة 15، المادة 16، المادة 23، المادة 24، المادة 27، المادة 29، المادة 30\n- النظام التجاري ( نظام المحكمة التجارية): المادة 198، المادة 267، المادة 288، المادة 292، المادة 293، المادة 294، المادة 296، المادة 297\n- النظام البحري التجاري: المادة 225، المادة 228، المادة 231، المادة 233، المادة 234، المادة 238، المادة 240، المادة 248\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر ل",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 18.5,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_763359867b97",
+      "domain": "zakat_collection",
+      "question": "تستوفي الزكاة من الأفراد والشركات الحاملين للرعوية السعودية وفقاً لأحكام الشريعة الإسلامية، بينما تخضع أحكام المرسوم رقم (17/2/28/3321) وتاريخ 21 المحرم 1370 للأفراد والشركات غير الحاملين للرعوية السعودية، وتكون أحكام هذا المرسوم نافذة اعتباراً من تاريخ تطبيق المرسوم المذكور.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-jbayh-alzkah:1",
+        "nzam-jbayh-alzkah:2",
+        "nzam-jbayh-alzkah:3"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-jbayh-alzkah:1",
+        "nzam-jbayh-alzkah:2",
+        "nzam-jbayh-alzkah:3"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "zakat_liability_scope": {
+          "expected_article_pairs": [
+            "nzam-jbayh-alzkah:1",
+            "nzam-jbayh-alzkah:2",
+            "nzam-jbayh-alzkah:3"
+          ],
+          "bound_article_pairs": [
+            "nzam-jbayh-alzkah:1",
+            "nzam-jbayh-alzkah:2",
+            "nzam-jbayh-alzkah:3"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام جباية الزكاة؛ نظام ضريبة القيمة المضافة؛ اللائحة التنفيذية لنظام ضريبة القيمة المضافة؛ نظام الإثبات؛ نظام الاستــثمار التعديني.؛ نظام الأحوال المدنية؛ نظام الشركات؛ نظام البيئة؛ اللائحة التنفيذية لنظام التجارة الإلكترونية؛ نظام التجارة الإلكترونية؛ النظام الصحي؛ نظام الهيئة العامة للغذاء والدواء؛ اللائحة التنفيذية لنظام الإفلاس؛ نظام المجالس البلدية؛ نظام حماية البيانات الشخصية؛ نظام التكاليف القضائية؛ اللائحة التنفيذية لنظام حماية البيانات الشخصية؛ نظام حماية حقوق المؤلف\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام جباية الزكاة: المادة 1، المادة 2، المادة 3، المادة 4\n- نظام الاستــثمار التعديني.: المادة 4، المادة 14، المادة 15، المادة 16، المادة 50\n- نظام ضريبة القيمة المضافة: المادة 1، المادة 2، المادة 3، المادة 10، المادة 13، المادة 14، المادة 22، المادة 40، المادة 41، المادة 42، المادة 52\n- اللائحة التنفيذية لنظام ضريبة القيمة المضافة: المادة 15، المادة 16، المادة 17، المادة 18، المادة 25، المادة 26، المادة 33، المادة 53، المادة 54، المادة 70\n- نظام الأحوال المدنية: المادة 5، المادة 18، المادة 20، المادة 21، المادة 34، المادة 35، المادة 54، المادة 76، المادة 83، المادة 85، المادة 93، المادة 95\n- نظام الشركات: المادة 14، المادة 22، المادة 85، المادة 125، المادة 175، المادة 230، المادة 231، المادة 239، المادة 242، المادة 265، المادة 266، المادة 280\n- نظام البيئة: المادة 36، المادة 39\n- اللائحة التنفيذية لنظام التجارة الإلكترونية: المادة 9، المادة 19\n- نظام التجارة الإلكترونية: المادة 17، المادة 20\n- النظام الصحي: المادة 19\n- نظام الإثبات: المادة 59، المادة 128\n- نظام الهيئة العامة للغذاء والدواء: المادة 19\n- اللائحة التنفيذية لنظام الإفلاس: المادة 91\n- نظام المجالس البلدية: المادة 3\n- نظام حماية البيانات الشخصية: المادة",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 17.8,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_cd0c3040ecc5",
+      "domain": "real_estate_financing",
+      "question": "توفي الراهن الذي سجل رهنًا عقاريًا لضمان قرض، وتنازل الدائن المرتهن الأول عن مرتبة رهنه للدائن المرتهن الثاني، ثم هلك العقار المرهون كليًا بسبب حريق. ما هي الأحكام النظامية التي تحكم استمرار الرهن بعد وفاة الراهن، وجواز التنازل عن المرتبة، وحكم انقضاء الرهن بهلاك المحل؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alrhn-alaqary-almsjl:25",
+        "nzam-alrhn-alaqary-almsjl:42",
+        "nzam-alrhn-alaqary-almsjl:44"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alrhn-alaqary-almsjl:25",
+        "nzam-alrhn-alaqary-almsjl:42",
+        "nzam-alrhn-alaqary-almsjl:44"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "mortgage_transfer_and_extinguishment": {
+          "expected_article_pairs": [
+            "nzam-alrhn-alaqary-almsjl:25",
+            "nzam-alrhn-alaqary-almsjl:42",
+            "nzam-alrhn-alaqary-almsjl:44"
+          ],
+          "bound_article_pairs": [
+            "nzam-alrhn-alaqary-almsjl:25",
+            "nzam-alrhn-alaqary-almsjl:42",
+            "nzam-alrhn-alaqary-almsjl:44"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الرهن العقاري المسجل؛ نظام الرهن التجاري؛ النظام البحري التجاري؛ نظام الاستــثمار التعديني.؛ نظام المعاملات المدنية؛ النظام التجاري ( نظام المحكمة التجارية)؛ اللائحة التنفيذية لنظام التنفيذ؛ نظام التنفيذ\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الرهن العقاري المسجل: المادة 9، المادة 10، المادة 11، المادة 23، المادة 25، المادة 26، المادة 29، المادة 40، المادة 41، المادة 42، المادة 43، المادة 44\n- نظام الرهن التجاري: المادة 3، المادة 5، المادة 6، المادة 8، المادة 14، المادة 15، المادة 19، المادة 21، المادة 22، المادة 26، المادة 45، المادة 46\n- النظام البحري التجاري: المادة 61، المادة 68، المادة 69، المادة 70، المادة 72، المادة 73، المادة 96، المادة 134، المادة 168، المادة 237، المادة 357، المادة 366\n- نظام الاستــثمار التعديني.: المادة 22، المادة 28، المادة 31، المادة 62\n- نظام المعاملات المدنية: المادة 191، المادة 211، المادة 231، المادة 259، المادة 271، المادة 273، المادة 275، المادة 489، المادة 588، المادة 604، المادة 671، المادة 716\n- النظام التجاري ( نظام المحكمة التجارية): المادة 197، المادة 198، المادة 301، المادة 306، المادة 311، المادة 313، المادة 314، المادة 317، المادة 425\n- اللائحة التنفيذية لنظام التنفيذ: المادة 24\n- نظام التنفيذ 1433هـ: المادة 24\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 18.2,
+      "retrieval_pollution_rate": 0.125
+    },
+    {
+      "question_id": "autopilot_article_precision_b64957aa5cc8",
+      "domain": "labor_law",
+      "question": "تعرض صاحب عمل لغرامة إدارية من وزارة الموارد البشرية بسبب مخالفته لأحكام نظام العمل ولائحته التنفيذية، حيث تم تعديل عقوبات المخالفات لتصل إلى مائة ألف ريال بموجب المرسوم الملكي رقم (م/46)، فما هي المواد النظامية التي تُستند إليها في فرض هذه العقوبة وإجراءاتها؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "labor-law:238",
+        "labor-law:239",
+        "labor-law:240"
+      ],
+      "answer_bound_article_pairs": [
+        "labor-law:238",
+        "labor-law:239",
+        "labor-law:240"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "penalty_procedure_deadline": {
+          "expected_article_pairs": [
+            "labor-law:238",
+            "labor-law:239",
+            "labor-law:240"
+          ],
+          "bound_article_pairs": [
+            "labor-law:238",
+            "labor-law:239",
+            "labor-law:240"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام العمل؛ اللائحة التنفيذية لنظام العمل؛ قواعد/برنامج حماية الأجور؛ قواعد توثيق عقود العمل؛ جدول المخالفات والعقوبات لنظام العمل؛ نظام المؤسسات الصحفية؛ نظام وظائف مباشرة الأموال العامة؛ نظام الأعلاف؛ نظام وحدات الإخصاب والأجنة وعلاج العقم؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام مكافحة الرشوة؛ نظام مزاولة المهن الصحية؛ نظام مراقبة شركات التأمين التعاوني؛ نظام التنفيذ أمام ديوان المظالم؛ نظام التوثيق؛ نظام التعاملات الإلكترونية؛ نظام مطاحن إنتاج الدقيق؛ نظام جباية الزكاة\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام العمل: المادة 50، المادة 67، المادة 133، المادة 138، المادة 230، المادة 232، المادة 233، المادة 234، المادة 236، المادة 238، المادة 239، المادة 240\n- جدول المخالفات والعقوبات لنظام العمل ولائحته التنفيذية: المادة 1، المادة 2، المادة 3، المادة 4\n- نظام المؤسسات الصحفية: المادة 10، المادة 12، المادة 13، المادة 14، المادة 15، المادة 26، المادة 30\n- نظام وظائف مباشرة الأموال العامة: المادة 8، المادة 9، المادة 10، المادة 13\n- نظام الأعلاف: المادة 23، المادة 25، المادة 30، المادة 32\n- نظام وحدات الإخصاب والأجنة وعلاج العقم: المادة 6، المادة 7، المادة 33\n- النظام التجاري ( نظام المحكمة التجارية): المادة 122، المادة 133، المادة 137، المادة 139، المادة 140، المادة 154، المادة 377، المادة 396، المادة 413، المادة 417، المادة 418، المادة 422\n- نظام مكافحة الرشوة: المادة 4\n- نظام مزاولة المهن الصحية: المادة 30\n- نظام مراقبة شركات التأمين التعاوني: المادة 22\n- نظام التنفيذ أمام ديوان المظالم: المادة 30\n- نظام التوثيق: المادة 50\n- نظام التعاملات الإلكترونية: المادة 24\n- نظام مطاحن إنتاج الدقيق: المادة 26\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 3، المادة 5\n- نظام جباية الزكاة: المادة 2\n\n4. القيود أو الاستثناءات\nيلزم الت",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 17.0,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_acc29bfee4e8",
+      "domain": "nzam_sndwq_alastthmarat_alaamh",
+      "question": "أثناء مراجعة الجهات الرقابية المختصة لعمليات الصندوق وحساباته، اكتشبت أن أحد أعضاء مجلس الإدارة لم يفصح عن استثماراته الشخصية كما هو مطلوب، بينما كان يتصرف بحسن نية وبالعناية الواجبة في مهامه. هل تلتزم الجهة الرقابية بأحكام النظام والسياسات الداخلية عند إجراء مراجعتها؟ وما هي الالتزامات المفروضة على عضو المجلس فيما يتعلق بالإفصاح والتصرف بحسن النية؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-sndwq-alastthmarat-alaamh:14",
+        "nzam-sndwq-alastthmarat-alaamh:16",
+        "nzam-sndwq-alastthmarat-alaamh:23"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-sndwq-alastthmarat-alaamh:14",
+        "nzam-sndwq-alastthmarat-alaamh:16",
+        "nzam-sndwq-alastthmarat-alaamh:23"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_sndwq_alastthmarat_alaamh": {
+          "expected_article_pairs": [
+            "nzam-sndwq-alastthmarat-alaamh:14",
+            "nzam-sndwq-alastthmarat-alaamh:16",
+            "nzam-sndwq-alastthmarat-alaamh:23"
+          ],
+          "bound_article_pairs": [
+            "nzam-sndwq-alastthmarat-alaamh:14",
+            "nzam-sndwq-alastthmarat-alaamh:16",
+            "nzam-sndwq-alastthmarat-alaamh:23"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام صندوق الاستثمارات العامة؛ لائحة حوكمة الشركات؛ نظام الشركات؛ نظام سلامة المنتجات؛ نظام تركيز مسؤوليات القضاء الشرعي؛ نظام العمل؛ نظام السوق المالية؛ نظام المعاملات المدنية؛ نظام الرقابة المالية؛ نظام الاستثمار؛ نظام بنك المنشآت الصغيرة والمتوسطة؛ نظام الطيران المدني؛ قواعد توثيق عقود العمل؛ قواعد/برنامج حماية الأجور\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام صندوق الاستثمارات العامة: المادة 11، المادة 14، المادة 16، المادة 23\n- لائحة حوكمة الشركات: المادة 18، المادة 20، المادة 24، المادة 30، المادة 31، المادة 41، المادة 48، المادة 51، المادة 52، المادة 59، المادة 90\n- نظام الشركات: المادة 18، المادة 68، المادة 71، المادة 76، المادة 77، المادة 102، المادة 164، المادة 169، المادة 231، المادة 239، المادة 265، المادة 274\n- نظام سلامة المنتجات: المادة 1، المادة 14، المادة 16، المادة 19، المادة 20، المادة 21، المادة 22، المادة 24، المادة 25، المادة 26، المادة 27، المادة 33\n- نظام تركيز مسؤوليات القضاء الشرعي: المادة 2، المادة 19، المادة 25، المادة 28، المادة 68، المادة 75، المادة 164، المادة 168، المادة 198، المادة 214، المادة 221، المادة 231\n- نظام العمل: المادة 12، المادة 15، المادة 20، المادة 51، المادة 72، المادة 73، المادة 81، المادة 133، المادة 138، المادة 167، المادة 205\n- نظام السوق المالية: المادة 7\n- نظام المعاملات المدنية: المادة 652\n- نظام الرقابة المالية: المادة 4\n- نظام الاستثمار: المادة 4\n- نظام بنك المنشآت الصغيرة والمتوسطة: المادة 5\n- نظام الطيران المدني: المادة 125\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 3\n- قواعد وبرنامج حماية الأجور: المادة 4\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة ق",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 17.0,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_3cd4898494de",
+      "domain": "intellectual_property_law",
+      "question": "تقوم شركة 'تيك فلو' السعودية بتصنيع دوائر متكاملة (ICs) تُستخدم في أجهزة التحكم المنزلية، وقد حصلت على شهادة تصميم لدائرة متكاملة جديدة تميزها عن المنافسين. اكتشفت أن شركة 'إلكترونيات الخليج' تقوم باستيراد وبيع أجهزة تحكم تحتوي على دوائر متكاملة مطابقة لتصميمها المسجل دون إذن، حيث استنسخوا التصميم بالكامل داخل الدارة المدمجة في الجهاز. عند مقاضاة 'إلكترونيات الخليج' أمام اللجنة المختصة، تدعي الأخيرة أنها لم تكن تعلم أن الدارات المتضمنة لأجهزتها تحتوي على تصميم منسوخ بطريقة غير مشروعة عند حصولها عليها، وأن الأجهزة كانت بحوزتها قبل تلقي إشعار صريح بالتعدي. كما يدعي مالك البراءة (في حال وجود براءة اختراع لعملية صنع المنتج) أن المنتج الجديد تم صنعه بعملية صناعية محمية، مما يوجب على المدعى عليه إثبات عدم استخدام تلك العملية.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:48",
+        "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:51",
+        "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:53"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:48",
+        "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:51",
+        "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:53"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "infringement_and_defenses": {
+          "expected_article_pairs": [
+            "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:48",
+            "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:51",
+            "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:53"
+          ],
+          "bound_article_pairs": [
+            "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:48",
+            "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:51",
+            "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa:53"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام براءات الاختراع والتصميمات التخطيطية والنماذج الصناعية؛ نظام التجارة الإلكترونية؛ نظام مكافحة الغش التجاري؛ نظام سلامة المنتجات؛ نظام براءات الاختراع لدول مجلس التعاون لدول الخليج العربية؛ نظام الإثبات؛ نظام المرافعات الشرعية؛ نظام المنافسات و المشتريات الحكومية؛ نظام المعاملات المدنية؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام العمل؛ قواعد توثيق عقود العمل؛ جدول المخالفات والعقوبات لنظام العمل؛ قواعد/برنامج حماية الأجور؛ اللائحة التنفيذية لنظام العمل\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام التجارة الإلكترونية: المادة 3، المادة 19\n- نظام براءات الاختراع والتصميمات التخطيطية للدارات المتكاملة والأصناف النباتية والنماذج الصناعية: المادة 24، المادة 48، المادة 51، المادة 53\n- نظام براءات الاختراع لدول مجلس التعاون لدول الخليج العربية: المادة 1، المادة 2، المادة 3، المادة 7، المادة 12، المادة 15، المادة 17، المادة 19، المادة 25، المادة 30، المادة 31، المادة 33\n- نظام الإثبات: المادة 81، المادة 96، المادة 97، المادة 98\n- نظام المرافعات الشرعية: المادة 109، المادة 112، المادة 114، المادة 179\n- نظام المنافسات و المشتريات الحكومية: المادة 32، المادة 44، المادة 47، المادة 50، المادة 61، المادة 76، المادة 78، المادة 82، المادة 83، المادة 88، المادة 89، المادة 91\n- نظام المعاملات المدنية: المادة 11، المادة 19، المادة 22، المادة 23، المادة 171، المادة 186، المادة 332، المادة 419، المادة 429، المادة 467، المادة 486، المادة 686\n- النظام التجاري ( نظام المحكمة التجارية): المادة 10، المادة 16، المادة 86، المادة 155، المادة 173، المادة 174، المادة 175، المادة 268، المادة 454، المادة 455، المادة 508، المادة 509\n- نظام العمل: المادة 155\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 4\n- نظام مكافحة الغش التجاري: المادة 3، المادة 7\n- جد",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 18.7,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_308e013c5c84",
+      "domain": "legal_rag_test",
+      "question": "أثناء التحقيق في قضية فساد إداري، حاول أحد الوزراء التدخل في سير التحقيقات التي تجريها هيئة التحقيق والادعاء العام، كما طالب بتعيين أحد مساعديه كرئيس للهيئة دون استيفاء الشروط النظامية. ما هي الأحكام النظامية التي تحمي استقلال الهيئة وتحدد إجراءات التعيين الصحيحة؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:5",
+        "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:6",
+        "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:10"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:10",
+        "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:5",
+        "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:6"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "independence_and_appointment_procedures": {
+          "expected_article_pairs": [
+            "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:10",
+            "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:5",
+            "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:6"
+          ],
+          "bound_article_pairs": [
+            "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:10",
+            "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:5",
+            "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh:6"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام هيئة التحقيق والادعاء العام ( نظام النيابة العامة )؛ نظام الإجراءات الجزائية؛ نظام حماية المبلغين والشهود والخبراء والضحايا؛ نظام هيئة الرقابة ومكافحة الفساد؛ نظام الإيداع في المخازن العامة؛ نظام الآثار والمتاحف والتراث العمراني؛ نظام مكافحة جرائم المعلوماتية؛ النظام البحري التجاري؛ نظام الرقابة على الاستخدامات النووية والاشعاعية؛ النظام التجاري ( نظام المحكمة التجارية)\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام هيئة التحقيق والادعاء العام ( نظام النيابة العامة ): المادة 1، المادة 5، المادة 6، المادة 8، المادة 9، المادة 10، المادة 25، المادة 26، المادة 28\n- نظام الإجراءات الجزائية: المادة 13، المادة 15، المادة 21، المادة 26، المادة 32، المادة 38، المادة 39، المادة 40، المادة 42، المادة 67، المادة 92، المادة 112\n- نظام حماية المبلغين والشهود والخبراء والضحايا: المادة 1، المادة 3، المادة 4، المادة 7، المادة 8، المادة 10، المادة 11، المادة 12، المادة 14، المادة 16، المادة 32، المادة 35\n- نظام هيئة الرقابة ومكافحة الفساد: المادة 12، المادة 17، المادة 21\n- نظام الإيداع في المخازن العامة: المادة 1، المادة 25، المادة 26\n- نظام الآثار والمتاحف والتراث العمراني: المادة 20، المادة 91، المادة 93\n- نظام مكافحة جرائم المعلوماتية: المادة 5، المادة 12، المادة 14، المادة 15، المادة 16\n- النظام البحري التجاري: المادة 15، المادة 30، المادة 63، المادة 76، المادة 111\n- نظام الرقابة على الاستخدامات النووية والاشعاعية: المادة 6، المادة 8، المادة 15، المادة 19، المادة 23، المادة 27، المادة 30، المادة 31، المادة 33\n- النظام التجاري ( نظام المحكمة التجارية): المادة 134، المادة 156، المادة 206، المادة 220، المادة 222، المادة 265، المادة 269، المادة 400، المادة 418، المادة 421\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحا",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 19.3,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_444ab2e87c96",
+      "domain": "sports_law",
+      "question": "تأسس نادي رياضي على شكل شركة مساهمة، ثم تم حله قضائياً. بعد الحل، قام أحد الأشخاص باستخدام شعار النادي القديم في حملة تجارية دون إذن من اللجنة الأولمبية السعودية، بينما حاول وزير الرياضة تصريف أموال النادي المتبقية وفقاً لأهداف النظام. وفي وقت سابق، كان هناك لاعب يمارس التدريب بانتظام مع النادي بموجب عقد مكتوب مقابل أجر شهري، مما أثار جدلاً حول ما إذا كان يُعتبر محترفاً وفقاً لنظام الرياضة.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alryadh:12",
+        "nzam-alryadh:33",
+        "nzam-alryadh:41"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alryadh:12",
+        "nzam-alryadh:33",
+        "nzam-alryadh:41"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "club_liquidation_and_professional_status": {
+          "expected_article_pairs": [
+            "nzam-alryadh:12",
+            "nzam-alryadh:33",
+            "nzam-alryadh:41"
+          ],
+          "bound_article_pairs": [
+            "nzam-alryadh:12",
+            "nzam-alryadh:33",
+            "nzam-alryadh:41"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الرياضة؛ النظام الأساسي للاتحادات الرياضية واللجنة الأولمبية العربية السعودية؛ النظام البحري التجاري؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام المعاملات المدنية؛ نظام الآثار والمتاحف والتراث العمراني؛ نظام حماية حقوق المؤلف؛ نظام المناطق؛ نظام المياه؛ نظام الرهن التجاري؛ نظام أمن الحدود\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الرياضة: المادة 5، المادة 9، المادة 12، المادة 23، المادة 33، المادة 38، المادة 41، المادة 42، المادة 47، المادة 49، المادة 51، المادة 73\n- النظام الأساسي للاتحادات الرياضية واللجنة الأولمبية العربية السعودية: المادة 1، المادة 4، المادة 5، المادة 9، المادة 11، المادة 12، المادة 13، المادة 14، المادة 17\n- النظام البحري التجاري: المادة 41، المادة 104، المادة 130، المادة 150، المادة 254، المادة 258، المادة 264، المادة 269، المادة 355، المادة 381\n- النظام التجاري ( نظام المحكمة التجارية): المادة 2، المادة 93، المادة 114، المادة 120، المادة 122، المادة 131، المادة 137، المادة 197، المادة 295، المادة 302، المادة 303، المادة 350\n- نظام المعاملات المدنية: المادة 17، المادة 142، المادة 392، المادة 465، المادة 471، المادة 555، المادة 558، المادة 559، المادة 594، المادة 642\n- نظام الآثار والمتاحف والتراث العمراني: المادة 5، المادة 18، المادة 20، المادة 21، المادة 29، المادة 38، المادة 41، المادة 43، المادة 55، المادة 80، المادة 90\n- نظام حماية حقوق المؤلف: المادة 17\n- نظام المناطق: المادة 38\n- نظام المياه: المادة 30\n- نظام الرهن التجاري: المادة 4\n- نظام أمن الحدود: المادة 6\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن الن",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 17.1,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_5a62c170ffb5",
+      "domain": "environmental_protection",
+      "question": "قامت شركة بتصدير أجهزة تبريد مستعملة تحتوي على مواد مستنفدة لطبقة الأوزون دون الحصول على ترخيص، وبعد صدور حكم ضدها استمرت في المخالفة لمدة أسبوعين، كما تم ضبط كائنات فطرية حيوانية نادرة بحوزتها لعرضها في فعالية سياحية دون ترخيص. ما هي الإجراءات والعقوبات التي يجوز للمحكمة تطبيقها بناءً على المواد ذات الصلة؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-albyyh:10",
+        "nzam-albyyh:24",
+        "nzam-albyyh:41"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-albyyh:10",
+        "nzam-albyyh:24",
+        "nzam-albyyh:41"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "environmental_penalties_and_procedures": {
+          "expected_article_pairs": [
+            "nzam-albyyh:10",
+            "nzam-albyyh:24",
+            "nzam-albyyh:41"
+          ],
+          "bound_article_pairs": [
+            "nzam-albyyh:10",
+            "nzam-albyyh:24",
+            "nzam-albyyh:41"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام البيئة؛ النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل)؛ نظام مكافحة الغش التجاري؛ نظام مطاحن إنتاج الدقيق؛ نظام الأرصاد؛ نظام الشركات؛ نظام المعاملات المدنية؛ نظام مكافحة جرائم الإرهاب وتمويله\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام البيئة: المادة 9، المادة 10، المادة 17، المادة 21، المادة 24، المادة 27، المادة 35، المادة 37، المادة 38، المادة 39، المادة 41، المادة 47\n- النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل): المادة 3، المادة 6، المادة 8، المادة 11، المادة 12، المادة 16، المادة 19\n- نظام مكافحة الغش التجاري: المادة 23، المادة 24، المادة 25\n- نظام مطاحن إنتاج الدقيق: المادة 8، المادة 12، المادة 23، المادة 25\n- نظام الأرصاد: المادة 14، المادة 16، المادة 17، المادة 18\n- نظام الشركات: المادة 136، المادة 150، المادة 151، المادة 211، المادة 244، المادة 260، المادة 261، المادة 262، المادة 263، المادة 264، المادة 266، المادة 267\n- نظام المعاملات المدنية: المادة 173، المادة 275، المادة 304، المادة 305، المادة 330، المادة 386، المادة 436، المادة 617، المادة 623، المادة 710، المادة 714، المادة 715\n- نظام مكافحة جرائم الإرهاب وتمويله: المادة 7، المادة 18، المادة 40، المادة 42، المادة 49، المادة 53، المادة 56، المادة 57، المادة 82، المادة 90\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 16.2,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_1501ee40de3c",
+      "domain": "commercial_law",
+      "question": "قامت شركة بتصنيع وتوزيع منتجات تحمل علامة تجارية مطابقة لعلامة مسجلة لشركة أخرى دون إذن، مما تسبب في خسائر مادية كبيرة للشركة صاحبة العلامة. كما أن النظام الجديد الذي ينظم هذه المخالفات قد صدر ونشر في الجريدة الرسمية قبل وقوع الواقعة بفترة وجيزة، وبدأ العمل به بعد انقضاء مدة التسعين يوماً المحددة للنشر. تود الشركة المتضررة رفع دعوى جزائية لمطالبة المسؤول عن المخالفة بالتعويض المناسب، مع الاستفسار عن الجهة المختصة بتمثيل الحق العام في هذه الدعوى الجزائية وفقاً لأحكام النظام المعمول به.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alalamat-altjaryh:48",
+        "nzam-alalamat-altjaryh:54",
+        "nzam-alalamat-altjaryh:58"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alalamat-altjaryh:48",
+        "nzam-alalamat-altjaryh:54",
+        "nzam-alalamat-altjaryh:58"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "trademark_infringement_procedures": {
+          "expected_article_pairs": [
+            "nzam-alalamat-altjaryh:48",
+            "nzam-alalamat-altjaryh:54",
+            "nzam-alalamat-altjaryh:58"
+          ],
+          "bound_article_pairs": [
+            "nzam-alalamat-altjaryh:48",
+            "nzam-alalamat-altjaryh:54",
+            "nzam-alalamat-altjaryh:58"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام العلامات التجارية؛ قانون نظام العلامات التجارية لدول مجلس التعاون لدول الخليج العربية؛ نظام التجارة الإلكترونية؛ اللائحة التنفيذية لنظام التجارة الإلكترونية؛ نظام مكافحة الغش التجاري؛ نظام الإثبات؛ نظام الانضباط الوظيفي؛ النظام البحري التجاري؛ نظام الشركات؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام مكافحة الاحتيال المالي وخيانة الأمانة؛ نظام حماية المؤشرات الجغرافية؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ نظام الملابس والتجهيزات العسكرية الفردية؛ نظام مراقبة البنوك؛ نظام البنك المركزي السعودي؛ لائحة حوكمة الشركات\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام العلامات التجارية: المادة 36، المادة 43، المادة 45، المادة 46، المادة 48، المادة 52، المادة 54، المادة 55، المادة 57، المادة 58\n- نظام الانضباط الوظيفي: المادة 12، المادة 21، المادة 22، المادة 23، المادة 25\n- النظام البحري التجاري: المادة 21، المادة 104، المادة 356، المادة 373، المادة 376، المادة 377، المادة 379، المادة 381، المادة 383، المادة 387، المادة 388\n- نظام الشركات: المادة 4، المادة 10، المادة 40، المادة 194، المادة 260، المادة 261، المادة 262، المادة 264، المادة 266، المادة 267، المادة 268، المادة 269\n- النظام التجاري ( نظام المحكمة التجارية): المادة 10، المادة 16، المادة 41، المادة 154، المادة 369، المادة 416، المادة 454، المادة 455، المادة 508، المادة 509، المادة 510، المادة 625\n- نظام مكافحة الاحتيال المالي وخيانة الأمانة: المادة 8\n- نظام حماية المؤشرات الجغرافية: المادة 20\n- نظام التجارة الإلكترونية: المادة 19، المادة 21\n- قانون (نظام) العلامات التجارية لدول مجلس التعاون لدول الخليج العربية: المادة 41، المادة 43، المادة 44\n- نظام الإثبات: المادة 49، المادة 113\n- نظام مكافحة الغش التجاري: المادة ",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 14.0,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_6bb6187a01ca",
+      "domain": "civil_registration",
+      "question": "قدم مواطن طعنًا أمام هيئة الأحوال المدنية المركزية ضد قرار لجنة فرعية في المنطقة، وطلب الهيئة رأيًا رسميًا من وزير الداخلية بشأن تفسير جديد لأحد بنود النظام، وفي نفس الوقت استفسر عن تاريخ بدء سريان هذا النظام الجديد الذي صدر حديثًا.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alahwal-almdnyh:82",
+        "nzam-alahwal-almdnyh:87",
+        "nzam-alahwal-almdnyh:96"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alahwal-almdnyh:82",
+        "nzam-alahwal-almdnyh:87",
+        "nzam-alahwal-almdnyh:96"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "jurisdiction_and_procedure": {
+          "expected_article_pairs": [
+            "nzam-alahwal-almdnyh:82",
+            "nzam-alahwal-almdnyh:87",
+            "nzam-alahwal-almdnyh:96"
+          ],
+          "bound_article_pairs": [
+            "nzam-alahwal-almdnyh:82",
+            "nzam-alahwal-almdnyh:87",
+            "nzam-alahwal-almdnyh:96"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الأحوال المدنية؛ نظام مزاولة نقل النقود والمعادن الثمينة والمستندات ذات القيمة؛ نظام الكليات العسكرية؛ نظام الأحداث؛ نظام وحدات الإخصاب والأجنة وعلاج العقم؛ نظام تركيز مسؤوليات القضاء الشرعي؛ نظام الاتصالات وتقنية المعلومات؛ نظام المنافسات و المشتريات الحكومية\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الأحوال المدنية: المادة 2، المادة 18، المادة 20، المادة 21، المادة 39، المادة 82، المادة 84، المادة 85، المادة 87، المادة 90، المادة 95، المادة 96\n- نظام مزاولة نقل النقود والمعادن الثمينة والمستندات ذات القيمة: المادة 11، المادة 14، المادة 17\n- نظام الكليات العسكرية: المادة 4، المادة 38، المادة 41\n- نظام الأحداث: المادة 21، المادة 22، المادة 23، المادة 24\n- نظام وحدات الإخصاب والأجنة وعلاج العقم: المادة 12، المادة 15، المادة 17، المادة 28، المادة 31، المادة 34، المادة 35، المادة 36، المادة 37، المادة 39، المادة 41\n- نظام تركيز مسؤوليات القضاء الشرعي: المادة 19، المادة 24، المادة 25، المادة 29، المادة 30، المادة 34، المادة 36، المادة 164، المادة 168، المادة 214، المادة 224، المادة 257\n- نظام الاتصالات وتقنية المعلومات: المادة 2، المادة 7، المادة 11، المادة 15، المادة 25، المادة 27، المادة 28، المادة 29، المادة 34، المادة 40\n- نظام المنافسات و المشتريات الحكومية: المادة 41، المادة 43، المادة 44، المادة 45، المادة 58، المادة 61، المادة 71، المادة 86، المادة 87، المادة 88، المادة 95، المادة 99\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، و",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 16.2,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_87ed928e714c",
+      "domain": "legal_rag_saudi_arabic_citizenship",
+      "question": "قدم مواطن عربي طلبًا للحصول على الجنسية السعودية بعد إقامته في المملكة لمدة عشر سنوات، وتمت الموافقة عليه مبدئيًا. قبل استلام الجواز السعودي، سافر إلى بلده الأصلي بجنسيته القديمة لمدة تسعة أشهر دون التقدم بطلب الجنسية خلال هذه الفترة. بعد عودته، اكتشف أن طلبه قد رُفض بناءً على المادة (20) من نظام الجنسية العربية السعودية. كما علم لاحقًا أن أحد المسؤولين في وزارة الداخلية الذي كان يدعم ملفه قد تم سحب جنسيته العربية السعودية قبل عامين بحكم جنائي لجريمة أخلاقية لمدة تزيد عن سنة، وذلك استنادًا إلى المادة (21). هل يمكن الطعن في رفض طلبه بناءً على عدم رجعية النظام الجديد وفقًا للمادة (2)؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-aljnsyh-alarbyh-alsawdyh:2",
+        "nzam-aljnsyh-alarbyh-alsawdyh:20",
+        "nzam-aljnsyh-alarbyh-alsawdyh:21"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-aljnsyh-alarbyh-alsawdyh:2",
+        "nzam-aljnsyh-alarbyh-alsawdyh:20",
+        "nzam-aljnsyh-alarbyh-alsawdyh:21"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "citizenship_revocation_and_procedural_validity": {
+          "expected_article_pairs": [
+            "nzam-aljnsyh-alarbyh-alsawdyh:2",
+            "nzam-aljnsyh-alarbyh-alsawdyh:20",
+            "nzam-aljnsyh-alarbyh-alsawdyh:21"
+          ],
+          "bound_article_pairs": [
+            "nzam-aljnsyh-alarbyh-alsawdyh:2",
+            "nzam-aljnsyh-alarbyh-alsawdyh:20",
+            "nzam-aljnsyh-alarbyh-alsawdyh:21"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الجنسية العربية السعودية؛ نظام الاتصالات وتقنية المعلومات؛ نظام الإقامة المميزة؛ نظام محاكمة الوزراء؛ النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل)؛ نظام الأحوال المدنية؛ نظام وحدات الإخصاب والأجنة وعلاج العقم؛ نظام العمل؛ اللائحة التنفيذية لنظام التنفيذ\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الجنسية العربية السعودية: المادة 2، المادة 8، المادة 14، المادة 18، المادة 20، المادة 21، المادة 22، المادة 23، المادة 24\n- نظام الاتصالات وتقنية المعلومات: المادة 2، المادة 6، المادة 7، المادة 20، المادة 21، المادة 31، المادة 41\n- نظام الإقامة المميزة: المادة 10، المادة 11، المادة 12\n- نظام محاكمة الوزراء: المادة 23، المادة 25، المادة 26\n- النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل): المادة 1، المادة 2، المادة 4، المادة 5، المادة 6، المادة 9، المادة 12، المادة 13، المادة 16، المادة 18، المادة 19\n- نظام الأحوال المدنية: المادة 2، المادة 6، المادة 18، المادة 20، المادة 21، المادة 35، المادة 50، المادة 60، المادة 61، المادة 75، المادة 92\n- نظام وحدات الإخصاب والأجنة وعلاج العقم: المادة 2، المادة 3، المادة 8، المادة 19، المادة 20، المادة 21، المادة 23، المادة 28، المادة 33\n- نظام العمل: المادة 2، المادة 20، المادة 21، المادة 74، المادة 91، المادة 154، المادة 230، المادة 232، المادة 233\n- اللائحة التنفيذية لنظام التنفيذ: المادة 2، المادة 9، المادة 11، المادة 19، المادة 20، المادة 21، المادة 34، المادة 44، المادة 46، المادة 92\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة ",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 14.1,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_410844a3d369",
+      "domain": "private_laboratories",
+      "question": "تأسست شركة متخصصة في فحص المواد الغذائية في الرياض، وتخطط لافتتاح فرع في جدة، وتريد معرفة الشروط الفنية التي يجب توافرها لكل فرع بناءً على توصية الهيئة، والإجراءات والمدة الزمنية اللازمة للحصول على الترخيص من الوزارة، بالإضافة إلى الرسوم المطلوبة للمختبر الرئيسي والفرع.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-almkhtbrat-alkhash:4",
+        "nzam-almkhtbrat-alkhash:5",
+        "nzam-almkhtbrat-alkhash:7"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-almkhtbrat-alkhash:4",
+        "nzam-almkhtbrat-alkhash:5",
+        "nzam-almkhtbrat-alkhash:7"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "licensing_requirements_and_procedures": {
+          "expected_article_pairs": [
+            "nzam-almkhtbrat-alkhash:4",
+            "nzam-almkhtbrat-alkhash:5",
+            "nzam-almkhtbrat-alkhash:7"
+          ],
+          "bound_article_pairs": [
+            "nzam-almkhtbrat-alkhash:4",
+            "nzam-almkhtbrat-alkhash:5",
+            "nzam-almkhtbrat-alkhash:7"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الجمارك الموحد لدول مجلس التعاون؛ نظام ضريبة القيمة المضافة؛ اللائحة التنفيذية لنظام ضريبة القيمة المضافة؛ نظام الإيداع في المخازن العامة؛ نظام مقدمي خدمة حجاج الخارج؛ نظام المختبرات الخاصة؛ نظام المواصفات والجودة؛ نظام المؤسسات الصحية الخاصة؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام الحرف والصناعات اليدوية؛ نظام مراقبة شركات التمويل؛ نظام مزاولة المهن الصحية؛ نظام التنفيذ أمام ديوان المظالم؛ نظام الإفلاس؛ نظام التمويل العقاري؛ النظام الصحي؛ نظام مزاولة نقل النقود والمعادن الثمينة والمستندات ذات القيمة؛ نظام ملكية الوحدات العقارية وفرزها وإدارتها\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الإيداع في المخازن العامة: المادة 2، المادة 3، المادة 4، المادة 6، المادة 27\n- نظام مقدمي خدمة حجاج الخارج: المادة 5، المادة 7، المادة 9، المادة 10\n- نظام المختبرات الخاصة: المادة 3، المادة 4، المادة 5، المادة 6، المادة 7، المادة 8، المادة 9، المادة 11، المادة 12، المادة 13، المادة 15\n- نظام المواصفات والجودة: المادة 5، المادة 7، المادة 15، المادة 20، المادة 24\n- نظام المؤسسات الصحية الخاصة: المادة 2، المادة 3، المادة 4، المادة 5، المادة 6، المادة 8، المادة 12، المادة 13، المادة 14، المادة 18، المادة 26، المادة 34\n- النظام التجاري ( نظام المحكمة التجارية): المادة 14، المادة 15، المادة 31، المادة 39، المادة 109، المادة 190، المادة 198، المادة 235، المادة 267، المادة 269، المادة 297، المادة 299\n- نظام الحرف والصناعات اليدوية: المادة 6\n- نظام مراقبة شركات التمويل: المادة 6\n- نظام (قانون) الجمارك الموحد لدول مجلس التعاون لدول الخليج العربية: المادة 96، المادة 105، المادة 115\n- نظام مزاولة المهن الصحية: المادة 15\n- اللائحة التنفيذية لنظام ضريبة القيمة المضافة: المادة 44، المادة 185\n- نظام التنفيذ أمام ديوان المظالم: المادة 23\n- نظام ضر",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 13.5,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_0779fc09321d",
+      "domain": "criminal_law",
+      "question": "قام المتهم (أ) بالاتجار في شخص (ب) ونقله عبر الحدود، وقام المتهم (ج) بمساعدة (أ) في تنظيم العملية، بينما حاول المتهم (د) تنفيذ عملية مماثلة لكنه لم يكملها بسبب تدخل الشرطة. ما هي العقوبات المنطبقة على كل من (أ) و(ج) و(د) وفقًا لنظام مكافحة جرائم الاتجار بالأشخاص؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-mkafhh-jraym-alatjar-balashkhas:3",
+        "nzam-mkafhh-jraym-alatjar-balashkhas:8",
+        "nzam-mkafhh-jraym-alatjar-balashkhas:10"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-mkafhh-jraym-alatjar-balashkhas:10",
+        "nzam-mkafhh-jraym-alatjar-balashkhas:3",
+        "nzam-mkafhh-jraym-alatjar-balashkhas:8"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "atjar_by_alashkhas_penalties": {
+          "expected_article_pairs": [
+            "nzam-mkafhh-jraym-alatjar-balashkhas:10",
+            "nzam-mkafhh-jraym-alatjar-balashkhas:3",
+            "nzam-mkafhh-jraym-alatjar-balashkhas:8"
+          ],
+          "bound_article_pairs": [
+            "nzam-mkafhh-jraym-alatjar-balashkhas:10",
+            "nzam-mkafhh-jraym-alatjar-balashkhas:3",
+            "nzam-mkafhh-jraym-alatjar-balashkhas:8"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام مكافحة جرائم الاتجار بالأشخاص؛ نظام مكافحة جرائم المعلوماتية؛ نظام مكافحة الاحتيال المالي وخيانة الأمانة؛ نظام الرقابة على الاستخدامات النووية والاشعاعية؛ النظام الجزائي لجرائم التزوير؛ نظام الأسلحة والذخائر؛ نظام الأوراق التجارية؛ نظام المعاملات المدنية؛ نظام المحاكم التجارية؛ لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية؛ نظام ضريبة القيمة المضافة؛ لائحة سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية؛ اللائحة التنفيذية لنظام ضريبة القيمة المضافة؛ نظام التنفيذ أمام ديوان المظالم؛ نظام ضريبة التصرفات العقارية؛ نظام مراقبة شركات التمويل؛ نظام التكاليف القضائية\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام مكافحة جرائم الاتجار بالأشخاص: المادة 2، المادة 3، المادة 4، المادة 6، المادة 8، المادة 10، المادة 11، المادة 14، المادة 15، المادة 16\n- نظام مكافحة جرائم المعلوماتية: المادة 2، المادة 9، المادة 10، المادة 11\n- نظام مكافحة الاحتيال المالي وخيانة الأمانة: المادة 3، المادة 4، المادة 5، المادة 8\n- نظام الرقابة على الاستخدامات النووية والاشعاعية: المادة 23، المادة 25، المادة 26، المادة 27\n- النظام الجزائي لجرائم التزوير: المادة 19، المادة 20، المادة 21، المادة 25\n- نظام الأسلحة والذخائر: المادة 21، المادة 39، المادة 40، المادة 57\n- نظام الأوراق التجارية: المادة 7، المادة 12، المادة 18، المادة 40، المادة 68، المادة 71، المادة 76، المادة 83، المادة 98، المادة 118، المادة 119، المادة 120\n- نظام المعاملات المدنية: المادة 83، المادة 119، المادة 170، المادة 171، المادة 221، المادة 227، المادة 351، المادة 469، المادة 470، المادة 500، المادة 714، المادة 715\n- نظام المحاكم التجارية: المادة 3، المادة 13، المادة 17، المادة 21، المادة 22، المادة 26، المادة 63، المادة 65، ا",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 14.5,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_bbc44f0a5041",
+      "domain": "nzam_alzraah",
+      "question": "تقدم شركة خدمات زراعية بطلب ترخيص، ثم تنازل عن جزء من حقوق الترخيص لشركة أخرى دون موافقة الوزارة. كما تم ضبط سفينة صيد أجنبية تمارس نشاط استخراج الثروة المائية في المياه الإقليمية السعودية بدون ترخيص، مما يستدعي تدخل حرس الحدود للضبط.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alzraah:11",
+        "nzam-alzraah:18",
+        "nzam-alzraah:19"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alzraah:11",
+        "nzam-alzraah:18",
+        "nzam-alzraah:19"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_alzraah_compliance": {
+          "expected_article_pairs": [
+            "nzam-alzraah:11",
+            "nzam-alzraah:18",
+            "nzam-alzraah:19"
+          ],
+          "bound_article_pairs": [
+            "nzam-alzraah:11",
+            "nzam-alzraah:18",
+            "nzam-alzraah:19"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام المطبوعات والنشر؛ نظام الإعلام المرئي والمسموع؛ نظام الزراعة؛ نظام مطاحن إنتاج الدقيق؛ نظام المسؤولية المدنية عن الأضرار النووية؛ نظام المعاملات المدنية؛ النظام البحري التجاري؛ نظام الآثار والمتاحف والتراث العمراني؛ نظام الرقابة على الاستخدامات النووية والاشعاعية؛ النظام التجاري ( نظام المحكمة التجارية)\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام المطبوعات والنشر: المادة 4، المادة 11، المادة 12، المادة 17، المادة 39\n- نظام الإعلام المرئي والمسموع: المادة 9، المادة 21، المادة 23\n- نظام الزراعة: المادة 11، المادة 18، المادة 19\n- نظام مطاحن إنتاج الدقيق: المادة 5، المادة 6، المادة 7\n- نظام المسؤولية المدنية عن الأضرار النووية: المادة 1، المادة 15، المادة 17، المادة 21، المادة 22، المادة 24، المادة 25، المادة 26، المادة 27، المادة 29\n- نظام المعاملات المدنية: المادة 201، المادة 203، المادة 297، المادة 335، المادة 400، المادة 469، المادة 560، المادة 562، المادة 666، المادة 714، المادة 715\n- النظام البحري التجاري: المادة 37، المادة 99، المادة 356، المادة 373، المادة 376، المادة 380، المادة 381، المادة 382، المادة 383\n- نظام الآثار والمتاحف والتراث العمراني: المادة 24، المادة 29، المادة 70، المادة 72، المادة 73، المادة 76، المادة 77، المادة 80، المادة 81، المادة 90\n- نظام الرقابة على الاستخدامات النووية والاشعاعية: المادة 1، المادة 5، المادة 7، المادة 22، المادة 23، المادة 24، المادة 25، المادة 28، المادة 29، المادة 30\n- النظام التجاري ( نظام المحكمة التجارية): المادة 154، المادة 200، المادة 201، المادة 412، المادة 416، المادة 419، المادة 420، المادة 430\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ض",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 14.5,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_fcdfc8eebca7",
+      "domain": "universities_law",
+      "question": "تواجه جامعة خاصة نزاعًا داخليًا حول شرعية القرارات الإدارية الأخيرة، حيث يطالب أحد الأطراف بمراجعة هيكل الحوكمة الحالي للجامعة، بينما يطالب آخر بتعديل الهيكل الإداري بما يتوافق مع التحديثات الوزارية الأخيرة في وزارة التعليم، كما يطالب طرف ثالث بوضوح بشأن مصدر تمويل الأمانة العامة لمجلس شؤون الجامعات الذي يُفترض أن يشرف على هذا التعديل.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "universities-law:5",
+        "universities-law:6",
+        "universities-law:9"
+      ],
+      "answer_bound_article_pairs": [
+        "universities-law:5",
+        "universities-law:6",
+        "universities-law:9"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "governance_structure_and_funding": {
+          "expected_article_pairs": [
+            "universities-law:5",
+            "universities-law:6",
+            "universities-law:9"
+          ],
+          "bound_article_pairs": [
+            "universities-law:5",
+            "universities-law:6",
+            "universities-law:9"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الجامعات؛ النظام الأساس لمستشفى الملك خالد التخصصي للعيون ومركز الأبحاث (مؤسسة مستقلة ذات طبيعة خاصة وغير هادفة للربح)؛ النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث (مؤسسة مستقلة ذات طبيعة خاصة وغير هادفة للربح)؛ نظام الشركات؛ نظام المعاملات المدنية؛ نظام الهيئة العامة للغذاء والدواء؛ نظام المؤسسة العامة للخطوط الجوية العربية السعودية؛ النظام الأساسي للمركز الإحصائي لدول مجلس التعاون لدول الخليج العربية؛ النظام الأساسي للاتحادات الرياضية واللجنة الأولمبية العربية السعودية؛ اللائحة التنفيذية لنظام الشركات؛ نظام الكليات العسكرية؛ نظام البنك السعودي للتسليف والادخار ( بنك التنمية الاجتماعية )؛ نظام المرور؛ اللائحة التنفيذية لنظام التنفيذ؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ نظام الوساطة العقارية؛ نظام معالجة المنشآت المالية المهمة؛ قواعد/برنامج حماية الأجور\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الجامعات: المادة 4، المادة 5، المادة 6، المادة 8، المادة 9، المادة 10، المادة 14، المادة 17، المادة 18، المادة 22، المادة 25، المادة 36\n- النظام الأساس لمستشفى الملك خالد التخصصي للعيون ومركز الأبحاث (مؤسسة مستقلة ذات طبيعة خاصة وغير هادفة للربح): المادة 3، المادة 5، المادة 7، المادة 10، المادة 18\n- النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث (مؤسسة مستقلة ذات طبيعة خاصة وغير هادفة للربح): المادة 3، المادة 7، المادة 8، المادة 10، المادة 20\n- نظام الشركات: المادة 78، المادة 82، المادة 84، المادة 88، المادة 102، المادة 110، المادة 130، المادة 134، المادة 139، المادة 143، المادة 187، المادة 274\n- نظام المعاملات المدنية: المادة 16، المادة 30، المادة 107، المادة 150، المادة 301، المادة 339، المادة 442، المادة 471، المادة 589، المادة 683، المادة 720\n- نظام الهيئة العامة للغذاء والدواء: المادة 7، الماد",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 12.9,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_fdf3d63435d1",
+      "domain": "nzam_almwad_albtrwlyh_walbtrwkymawyh",
+      "question": "تسعى شركة كيميائية سعودية لتأسيس مصنع لتعبئة وتغليف المواد البتروكيماوية وتحويلها إلى منتجات استهلاكية جاهزة للبيع، وتود معرفة ما إذا كانت أنشطتها تخضع لنظام المواد البترولية والبتروكيماوية، وما هي الرسوم المالية المستحقة على ترخيصها، وهل يلغي هذا النظام النظام القديم للتجارة بالمنتجات البترولية؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-almwad-albtrwlyh-walbtrwkymawyh:3",
+        "nzam-almwad-albtrwlyh-walbtrwkymawyh:6",
+        "nzam-almwad-albtrwlyh-walbtrwkymawyh:21"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-almwad-albtrwlyh-walbtrwkymawyh:21",
+        "nzam-almwad-albtrwlyh-walbtrwkymawyh:3",
+        "nzam-almwad-albtrwlyh-walbtrwkymawyh:6"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_almwad_albtrwlyh_walbtrwkymawyh": {
+          "expected_article_pairs": [
+            "nzam-almwad-albtrwlyh-walbtrwkymawyh:21",
+            "nzam-almwad-albtrwlyh-walbtrwkymawyh:3",
+            "nzam-almwad-albtrwlyh-walbtrwkymawyh:6"
+          ],
+          "bound_article_pairs": [
+            "nzam-almwad-albtrwlyh-walbtrwkymawyh:21",
+            "nzam-almwad-albtrwlyh-walbtrwkymawyh:3",
+            "nzam-almwad-albtrwlyh-walbtrwkymawyh:6"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام المواد البترولية والبتروكيماوية؛ نظام الجمارك الموحد لدول مجلس التعاون؛ نظام ضريبة القيمة المضافة؛ اللائحة التنفيذية لنظام ضريبة القيمة المضافة؛ نظام المنشآت والمستحضرات الصيدلانية والعشبية؛ نظام التسجيل العيني للعقار؛ نظام البنك المركزي السعودي؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ نظام الزراعة؛ النظام البحري التجاري؛ النظام الصحي؛ نظام المواصفات والجودة؛ نظام التمويل العقاري؛ نظام التنفيذ؛ قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية؛ نظام الرعاية الصحية النفسية؛ نظام ملكية الوحدات العقارية وفرزها وإدارتها؛ نظام الوساطة العقارية\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام المواد البترولية والبتروكيماوية: المادة 2، المادة 3، المادة 5، المادة 6، المادة 7، المادة 11، المادة 13، المادة 15، المادة 16، المادة 19، المادة 20، المادة 21\n- نظام المنشآت والمستحضرات الصيدلانية والعشبية: المادة 6، المادة 8، المادة 18، المادة 30\n- نظام التسجيل العيني للعقار: المادة 9، المادة 14، المادة 29، المادة 34\n- نظام البنك المركزي السعودي: المادة 2، المادة 5، المادة 7، المادة 10، المادة 17\n- قواعد طرح الأوراق المالية والالتزامات المستمرة: المادة 6، المادة 10، المادة 60، المادة 66، المادة 79، المادة 80، المادة 92، المادة 104، المادة 109، المادة 110، المادة 226\n- نظام الزراعة: المادة 1، المادة 3، المادة 4، المادة 7، المادة 11، المادة 14، المادة 15، المادة 17، المادة 20، المادة 24، المادة 27، المادة 31\n- النظام البحري التجاري: المادة 254\n- اللائحة التنفيذية لنظام ضريبة القيمة المضافة: المادة 182، المادة 211\n- النظام الصحي: المادة 13\n- نظام (قانون) الجمارك الموحد لدول مجلس التعاون لدول الخليج العربية: المادة 47، المادة 145، المادة 152\n- نظام المواصفات والجودة: المادة 9\n- نظام التمويل العقاري: المادة 2\n- نظام التنفيذ",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 14.1,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_6995a2ea74a2",
+      "domain": "civil_service_law",
+      "question": "أصدرت وزارة التعليم قرار تعيين للموظف أحمد محمد في وظيفة 'معلم' بتاريخ 1/3/2024، وبموجب نظام الخدمة المدنية. لم يباشر أحمد مهامه دون عذر مشروع لمدة 20 يومًا من تاريخ إبلاغه القرار. بعد مرور الشهر، صدر قرار بترقيته إلى وظيفة 'رئيس قسم' بناءً على مؤهلاته وشروط شغل الوظيفة، لكن القرار لم يُنشر رسميًا بعد. في اليوم التالي لنشر القرار، استقال أحمد من الخدمة. هل يعتبر قرار تعيينه ملغيًا؟ وهل تكون ترقيته نافذة عند الاستقالة؟ وما هي الأسباب النظامية لإنهاء خدمته في هذه الحالة؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alkhdmh-almdnyh:8",
+        "nzam-alkhdmh-almdnyh:10",
+        "nzam-alkhdmh-almdnyh:32"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alkhdmh-almdnyh:10",
+        "nzam-alkhdmh-almdnyh:32",
+        "nzam-alkhdmh-almdnyh:8"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "appointment_termination_and_promotion_conditions": {
+          "expected_article_pairs": [
+            "nzam-alkhdmh-almdnyh:10",
+            "nzam-alkhdmh-almdnyh:32",
+            "nzam-alkhdmh-almdnyh:8"
+          ],
+          "bound_article_pairs": [
+            "nzam-alkhdmh-almdnyh:10",
+            "nzam-alkhdmh-almdnyh:32",
+            "nzam-alkhdmh-almdnyh:8"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الخدمة المدنية؛ نظام مجلس الخدمة المدنية؛ نظام مجلس الشورى؛ نظام التقاعد المدني؛ نظام الشركات؛ نظام المعاملات المدنية؛ نظام وحدات الإخصاب والأجنة وعلاج العقم؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام مكافحة جرائم الإرهاب وتمويله\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الخدمة المدنية: المادة 8، المادة 10، المادة 32، المادة 33\n- نظام مجلس الخدمة المدنية: المادة 1، المادة 3، المادة 5، المادة 6، المادة 10\n- نظام مجلس الشورى: المادة 12، المادة 13، المادة 26\n- نظام التقاعد المدني: المادة 7، المادة 14، المادة 18، المادة 35\n- نظام الشركات: المادة 18، المادة 99، المادة 125، المادة 136، المادة 150، المادة 170، المادة 221، المادة 222، المادة 224، المادة 233، المادة 248، المادة 249\n- نظام المعاملات المدنية: المادة 68، المادة 195، المادة 240، المادة 344، المادة 386، المادة 390، المادة 481، المادة 666، المادة 667، المادة 721\n- نظام وحدات الإخصاب والأجنة وعلاج العقم: المادة 15، المادة 17، المادة 28، المادة 34، المادة 35، المادة 36، المادة 37، المادة 38، المادة 39، المادة 40، المادة 41\n- النظام التجاري ( نظام المحكمة التجارية): المادة 28، المادة 59، المادة 61، المادة 62، المادة 88، المادة 110، المادة 131، المادة 183، المادة 235، المادة 242، المادة 380، المادة 431\n- نظام مكافحة جرائم الإرهاب وتمويله: المادة 7، المادة 10، المادة 16، المادة 18، المادة 53، المادة 65، المادة 88، المادة 89، المادة 95، المادة 96\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط ال",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 14.4,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_b1c259b9fd19",
+      "domain": "nzam_mjls_alwzraa",
+      "question": "عند انعقاد مجلس الوزراء لمناقشة مشروع نظام جديد، هل يُقبل اجتماعه إذا حضر ثلث أعضائه فقط؟ وما هو الإجراء الصحيح لتصويتهم على مواد المشروع ثم على النظام ككل؟ وهل يجوز مناقشة موضوع يخص وزارة معينة دون حضور وزيرها أو من ينوب عنه؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-mjls-alwzraa:14",
+        "nzam-mjls-alwzraa:15",
+        "nzam-mjls-alwzraa:21"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-mjls-alwzraa:14",
+        "nzam-mjls-alwzraa:15",
+        "nzam-mjls-alwzraa:21"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_mjls_alwzraa_procedures_and_quorum": {
+          "expected_article_pairs": [
+            "nzam-mjls-alwzraa:14",
+            "nzam-mjls-alwzraa:15",
+            "nzam-mjls-alwzraa:21"
+          ],
+          "bound_article_pairs": [
+            "nzam-mjls-alwzraa:14",
+            "nzam-mjls-alwzraa:15",
+            "nzam-mjls-alwzraa:21"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام مجلس الوزراء؛ نظام محاكمة الوزراء؛ نظام الشركات؛ نظام المنافسات و المشتريات الحكومية؛ نظام الاتصالات وتقنية المعلومات؛ اللائحة التنفيذية لنظام الشركات؛ نظام مجلس الخدمة العسكرية؛ نظام مجلس الشورى؛ نظام الحماية من الإيذاء؛ قانون (نظام) التنظيم الصناعي الموحد لدول مجلس التعاون لدول الخليج العربية؛ لائحة سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية؛ نظام المناطق؛ نظام ديوان المظالم؛ نظام البنك المركزي السعودي؛ نظام التكاليف القضائية؛ نظام التنفيذ أمام ديوان المظالم؛ نظام المركز الوطني للوثائق والمحفوظات؛ لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام مجلس الوزراء: المادة 11، المادة 14، المادة 15، المادة 18، المادة 20، المادة 21، المادة 22، المادة 28\n- نظام محاكمة الوزراء: المادة 10، المادة 11، المادة 13، المادة 16\n- نظام الشركات: المادة 69، المادة 70، المادة 80، المادة 81، المادة 84، المادة 91، المادة 98، المادة 100، المادة 106، المادة 111، المادة 188، المادة 278\n- نظام المنافسات و المشتريات الحكومية: المادة 15، المادة 17، المادة 22، المادة 26، المادة 35، المادة 36، المادة 44، المادة 45، المادة 71، المادة 76، المادة 95، المادة 96\n- نظام الاتصالات وتقنية المعلومات: المادة 2، المادة 3، المادة 5، المادة 7، المادة 12، المادة 18، المادة 25، المادة 29، المادة 33، المادة 35، المادة 40، المادة 41\n- اللائحة التنفيذية لنظام الشركات الخاصة بشركات المساهمة المدرجة: المادة 1، المادة 4، المادة 5، المادة 6، المادة 7، المادة 10، المادة 13، المادة 29، المادة 38، المادة 56، المادة 64، المادة 69\n- نظام مجلس الخدمة العسكرية: المادة 4\n- نظام مجلس الشورى: المادة 23\n- نظام الحماية من الإيذاء: المادة 11\n- قانون (نظام) التنظيم الصناعي الم",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 9.4,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_6472aa81edd7",
+      "domain": "execution_law",
+      "question": "أصدر قاضي التنفيذ أمرًا بحجز مال منقول (مجوهرات) لدى المدين، وأندب مقومًا معتمدًا لتقدير قيمته بعد دخول العقار بحضور الشرطة، ثم أودع المقوم المجوهرات في خزانة البنك الذي لديه حسابات محكمة التنفيذ. ما هي الإجراءات النظامية التي يجب توثيقها في محضر الحجز وتحديد قيمة المال المحجوز وفقًا لنظام التنفيذ؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "execution-law:36",
+        "execution-law:40",
+        "execution-law:56"
+      ],
+      "answer_bound_article_pairs": [
+        "execution-law:36",
+        "execution-law:40",
+        "execution-law:56"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "execution_procedure_and_valuation": {
+          "expected_article_pairs": [
+            "execution-law:36",
+            "execution-law:40",
+            "execution-law:56"
+          ],
+          "bound_article_pairs": [
+            "execution-law:36",
+            "execution-law:40",
+            "execution-law:56"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام التنفيذ؛ اللائحة التنفيذية لنظام التنفيذ؛ نظام الإثبات؛ نظام التعاملات الإلكترونية؛ قانون (نظام) المبيدات في دول مجلس التعاون لدول الخليج العربية؛ نظام المعاملات المدنية؛ النظام البحري التجاري؛ نظام إيرادات الدولة؛ نظام الجمارك الموحد لدول مجلس التعاون؛ نظام مراقبة البنوك؛ قانون نظام العلامات التجارية لدول مجلس التعاون لدول الخليج العربية؛ نظام الأسماء التجارية؛ نظام تركيز مسؤوليات القضاء الشرعي؛ نظام حماية الطفل؛ لائحة حوكمة الشركات\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- اللائحة التنفيذية لنظام التنفيذ: المادة 20، المادة 22، المادة 33، المادة 35، المادة 36، المادة 38، المادة 44، المادة 52، المادة 56، المادة 64، المادة 79، المادة 82\n- نظام التنفيذ 1433هـ: المادة 31، المادة 36، المادة 40، المادة 41، المادة 50، المادة 56، المادة 60، المادة 61، المادة 62، المادة 65، المادة 72، المادة 77\n- قانون (نظام) المبيدات في دول مجلس التعاون لدول الخليج العربية: المادة 9، المادة 14\n- نظام المعاملات المدنية: المادة 386، المادة 477\n- النظام البحري التجاري: المادة 83، المادة 325\n- نظام إيرادات الدولة: المادة 16، المادة 24\n- نظام (قانون) الجمارك الموحد لدول مجلس التعاون لدول الخليج العربية: المادة 48، المادة 115\n- نظام مراقبة البنوك: المادة 7، المادة 10\n- قانون (نظام) العلامات التجارية لدول مجلس التعاون لدول الخليج العربية: المادة 34، المادة 41\n- نظام الأسماء التجارية: المادة 5، المادة 12\n- نظام تركيز مسؤوليات القضاء الشرعي: المادة 48، المادة 254\n- نظام الإثبات: المادة 66، المادة 92، المادة 123\n- نظام حماية الطفل: المادة 3، المادة 16\n- نظام التعاملات الإلكترونية: المادة 3، المادة 14، المادة 18\n- لائحة حوكمة الشركات: المادة 12، المادة 30\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم ب",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 8.6,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_58826964a5fd",
+      "domain": "mining_investment_law",
+      "question": "تقوم شركة تعدين بحيازة رخصة استكشاف، وتود التنازل عن جزء من موقع الرخصة لطرف آخر وفقاً للوائح، كما تباشر عمليات التعدين تحت إشرافها وإدارتها، مع العلم بأن اللوائح المنظمة لهذا الأمر صدرت مؤخراً ونشرت في الجريدة الرسمية.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alast-thmar-altadyny:28",
+        "nzam-alast-thmar-altadyny:31",
+        "nzam-alast-thmar-altadyny:62"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alast-thmar-altadyny:28",
+        "nzam-alast-thmar-altadyny:31",
+        "nzam-alast-thmar-altadyny:62"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "mining_license_transfer_and_compliance": {
+          "expected_article_pairs": [
+            "nzam-alast-thmar-altadyny:28",
+            "nzam-alast-thmar-altadyny:31",
+            "nzam-alast-thmar-altadyny:62"
+          ],
+          "bound_article_pairs": [
+            "nzam-alast-thmar-altadyny:28",
+            "nzam-alast-thmar-altadyny:31",
+            "nzam-alast-thmar-altadyny:62"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nالقانون (النظام) الموحد للتعدين لدول مجلس التعاون؛ نظام الاستــثمار التعديني.؛ نظام المحاكم التجارية؛ نظام المواد الهيدروكربونية؛ نظام الشركات؛ نظام الحماية من الإيذاء؛ نظام توزيع الغاز الجاف وغاز البترول السائل للأغراض السكنية والتجارية؛ نظام السوق المالية؛ قانون نظام العلامات التجارية لدول مجلس التعاون لدول الخليج العربية؛ اللائحة التنفيذية لنظام الإفلاس؛ نظام الأسلحة والذخائر؛ نظام الأسماء التجارية؛ نظام حماية الطفل؛ نظام جمع التبرعات؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ نظام الإفلاس؛ نظام مزاولة نقل النقود والمعادن الثمينة والمستندات ذات القيمة؛ نظام مكافحة الاحتيال المالي وخيانة الأمانة\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- القانون (النظام) الموحد للتعدين لدول مجلس التعاون: المادة 3، المادة 4، المادة 8، المادة 13، المادة 14، المادة 16، المادة 18، المادة 55، المادة 57، المادة 58، المادة 60، المادة 61\n- نظام الاستــثمار التعديني.: المادة 12، المادة 28، المادة 31، المادة 32، المادة 39، المادة 41، المادة 44، المادة 45، المادة 47، المادة 56، المادة 57، المادة 62\n- نظام المحاكم التجارية: المادة 21، المادة 95، المادة 96\n- نظام المواد الهيدروكربونية: المادة 2، المادة 13، المادة 18، المادة 26، المادة 30\n- نظام الشركات: المادة 17، المادة 50، المادة 56، المادة 130، المادة 147، المادة 178، المادة 200، المادة 234، المادة 235، المادة 262، المادة 274، المادة 281\n- نظام الحماية من الإيذاء: المادة 5، المادة 17\n- نظام توزيع الغاز الجاف وغاز البترول السائل للأغراض السكنية والتجارية: المادة 19\n- نظام السوق المالية: المادة 19، المادة 52\n- قانون (نظام) العلامات التجارية لدول مجلس التعاون لدول الخليج العربية: المادة 9\n- اللائحة التنفيذية لنظام الإفلاس: المادة 74، المادة 88\n- نظام الأسلحة والذخائر: المادة 23، المادة 63\n- نظام الأسم",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 13.0,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_7ce34b3b68dd",
+      "domain": "execution_procedure",
+      "question": "في إطار تنفيذ حكم بتعويضات مالية لصالح الدائن، تم ضبط حصص ملكية للمدين في شركة مساهمة وأموال مستحقة له من طرف ثالث، كما تبين أن الحصيلة المادية المتاحة غير كافية لسداد الدين بالكامل. ما الإجراءات النظامية الواجب اتباعها لحجز الأسهم والأموال المستقبلية، وما الآلية القانونية لتسوية توزيع الحصيلة الناقصة بين الدائنين؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "execution-implementing-regulation:59",
+        "execution-implementing-regulation:61",
+        "execution-implementing-regulation:63"
+      ],
+      "answer_bound_article_pairs": [
+        "execution-implementing-regulation:59",
+        "execution-implementing-regulation:61",
+        "execution-implementing-regulation:63"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "execution_procedure": {
+          "expected_article_pairs": [
+            "execution-implementing-regulation:59",
+            "execution-implementing-regulation:61",
+            "execution-implementing-regulation:63"
+          ],
+          "bound_article_pairs": [
+            "execution-implementing-regulation:59",
+            "execution-implementing-regulation:61",
+            "execution-implementing-regulation:63"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الإفلاس؛ نظام تركيز مسؤوليات القضاء الشرعي؛ اللائحة التنفيذية لنظام التنفيذ؛ نظام الشركات؛ لائحة حوكمة الشركات؛ نظام المعاملات المدنية؛ النظام التجاري ( نظام المحكمة التجارية)؛ النظام البحري التجاري\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الإفلاس: المادة 21، المادة 63، المادة 85، المادة 92، المادة 151، المادة 174، المادة 180، المادة 184، المادة 194، المادة 195، المادة 197، المادة 198\n- نظام تركيز مسؤوليات القضاء الشرعي: المادة 2، المادة 19، المادة 25، المادة 75، المادة 95، المادة 164، المادة 168، المادة 176، المادة 211، المادة 226، المادة 227، المادة 230\n- اللائحة التنفيذية لنظام التنفيذ: المادة 59، المادة 61، المادة 63\n- نظام الشركات: المادة 25، المادة 34، المادة 103، المادة 105، المادة 107، المادة 125، المادة 136، المادة 150، المادة 151، المادة 225، المادة 261، المادة 271\n- لائحة حوكمة الشركات: المادة 9، المادة 18، المادة 19، المادة 20، المادة 24، المادة 27، المادة 41، المادة 59، المادة 173\n- نظام المعاملات المدنية: المادة 110، المادة 164، المادة 171، المادة 176، المادة 221، المادة 227، المادة 477، المادة 478، المادة 500، المادة 651\n- النظام التجاري ( نظام المحكمة التجارية): المادة 154، المادة 162، المادة 301، المادة 314\n- النظام البحري التجاري: المادة 79، المادة 97، المادة 256، المادة 280\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 12.8,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_73c4757ae727",
+      "domain": "agricultural_regulation",
+      "question": "تقوم شركة بتوزيع أسمدة زراعية في المملكة العربية السعودية دون ترخيص، وتُوقفها إحدى الجهات الرقابية، مما يثير تساؤلات حول الجهة المخولة بتحصيل الرسوم المستحقة على هذه الأسمدة، والصلاحيات الممنوحة للموظفين لضبط المخالفات، وآلية تحديد العقوبات والغرامات المستهدفة للشركة المخالفة.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5",
+        "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:10",
+        "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:11"
+      ],
+      "answer_bound_article_pairs": [
+        "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:10",
+        "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:11",
+        "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "fertilizer_regulation_enforcement": {
+          "expected_article_pairs": [
+            "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:10",
+            "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:11",
+            "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5"
+          ],
+          "bound_article_pairs": [
+            "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:10",
+            "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:11",
+            "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الجمارك الموحد لدول مجلس التعاون؛ نظام ضريبة القيمة المضافة؛ اللائحة التنفيذية لنظام ضريبة القيمة المضافة؛ قانون (نظام) الأسمدة ومحسنات التربة الزراعية في دول مجلس التعاون لدول الخليج العربية؛ نظام الرقابة المالية؛ نظام مجلس الخدمة العسكرية؛ النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل)؛ نظام حماية البيانات الشخصية؛ اللائحة التنفيذية لنظام التنفيذ؛ القانون (النظام) الموحد للتعدين لدول مجلس التعاون؛ نظام الشركات\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- قانون (نظام) الأسمدة ومحسنات التربة الزراعية في دول مجلس التعاون لدول الخليج العربية: المادة 4، المادة 5، المادة 10، المادة 11\n- نظام الرقابة المالية: المادة 4، المادة 12، المادة 16، المادة 25\n- نظام مجلس الخدمة العسكرية: المادة 1، المادة 2، المادة 3، المادة 9\n- النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل): المادة 1، المادة 2، المادة 5، المادة 6، المادة 8، المادة 9، المادة 10، المادة 12، المادة 13، المادة 14، المادة 15، المادة 16\n- نظام حماية البيانات الشخصية: المادة 8، المادة 13، المادة 29، المادة 31، المادة 32، المادة 33، المادة 35، المادة 36، المادة 37، المادة 38\n- اللائحة التنفيذية لنظام التنفيذ: المادة 7، المادة 9، المادة 11، المادة 21، المادة 34، المادة 69، المادة 73، المادة 78، المادة 86، المادة 87، المادة 93\n- القانون (النظام) الموحد للتعدين لدول مجلس التعاون: المادة 4، المادة 14، المادة 16، المادة 30، المادة 32، المادة 43، المادة 57، المادة 58، المادة 59، المادة 62\n- نظام الشركات: المادة 27، المادة 71، المادة 211، المادة 230، المادة 231، المادة 239، المادة 261، المادة 262، المادة 264، المادة 265، المادة 266، المادة 267\n- نظام (قانون) الجمارك الموحد لدول مجلس التعاون",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 12.6,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_d47194f66677",
+      "domain": "nzam_darh_almlk_abd_alazyz",
+      "question": "تسعى الدارة إلى عقد اجتماعها الدوري لمناقشة خطة إنشاء المكتبة المركزية والمراجع التاريخية، حيث يحضر الاجتماع ثلاثة أعضاء فقط من مجلس الإدارة، ويطلب رئيس المجلس استشارة الهيئة الاستشارية لترشيح مستشارين جدد لمساعدتها في إعداد الدراسات والأبحاث عن سيرة الملك عبد العزيز، مع العلم أن الدارة لم تقم بعد بإنشاء القاعة التذكارية أو منح الجائزة السنوية.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-darh-almlk-abd-alazyz:3",
+        "nzam-darh-almlk-abd-alazyz:5",
+        "nzam-darh-almlk-abd-alazyz:8"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-darh-almlk-abd-alazyz:3",
+        "nzam-darh-almlk-abd-alazyz:5",
+        "nzam-darh-almlk-abd-alazyz:8"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_darh_almlk_abd_alazyz": {
+          "expected_article_pairs": [
+            "nzam-darh-almlk-abd-alazyz:3",
+            "nzam-darh-almlk-abd-alazyz:5",
+            "nzam-darh-almlk-abd-alazyz:8"
+          ],
+          "bound_article_pairs": [
+            "nzam-darh-almlk-abd-alazyz:3",
+            "nzam-darh-almlk-abd-alazyz:5",
+            "nzam-darh-almlk-abd-alazyz:8"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام دارة الملك عبد العزيز؛ النظام الأساس لجمعية الكشافة العربية السعودية؛ نظام المركز الوطني للوثائق والمحفوظات؛ نظام مجلس الشورى؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ لائحة حوكمة الشركات؛ نظام البلديات والقرى؛ نظام الهيئة السعودية للمهندسين؛ النظام الأساسي لهيئة المحاسبة والمراجعة لدول مجلس التعاون؛ نظام مكتبة الملك فهد الوطنية؛ نظام المؤسسات الصحفية؛ نظام المؤسسة العامة للخطوط الجوية العربية السعودية\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام دارة الملك عبد العزيز: المادة 3، المادة 4، المادة 5، المادة 6، المادة 7، المادة 8، المادة 9، المادة 10، المادة 11، المادة 13، المادة 14، المادة 17\n- النظام الأساس لجمعية الكشافة العربية السعودية: المادة 1، المادة 14، المادة 15، المادة 25\n- نظام المركز الوطني للوثائق والمحفوظات: المادة 2، المادة 5، المادة 6، المادة 9\n- نظام مجلس الشورى: المادة 1، المادة 3، المادة 5، المادة 7، المادة 15، المادة 17، المادة 20، المادة 21، المادة 23، المادة 24، المادة 25\n- قواعد طرح الأوراق المالية والالتزامات المستمرة: المادة 18، المادة 37، المادة 66، المادة 67، المادة 68، المادة 71، المادة 96، المادة 98، المادة 109، المادة 226\n- لائحة حوكمة الشركات: المادة 17، المادة 18، المادة 24، المادة 26، المادة 30، المادة 35، المادة 39، المادة 51، المادة 58، المادة 108، المادة 173\n- نظام البلديات والقرى: المادة 2، المادة 3، المادة 6، المادة 8، المادة 15، المادة 16، المادة 17، المادة 20، المادة 29، المادة 36، المادة 38، المادة 46\n- نظام الهيئة السعودية للمهندسين: المادة 6\n- النظام الأساسي لهيئة المحاسبة والمراجعة لدول مجلس التعاون: المادة 26\n- نظام مكتبة الملك فهد الوطنية: المادة 3\n- نظام المؤسسات الصحفية: المادة 9\n- نظام المؤسسة العامة للخطوط الجوية العربية السعودية: المادة 4\n\n4. القيود أو الاستثناءات\nيل",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 12.3,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_996f0f15805f",
+      "domain": "nzam_dman_alhqwq_balamwal_almnqwlh",
+      "question": "أود تسجيل رهن على مخزون بضائع لدي في مستودعي كضمان لقرض، وأحتاج إلى معرفة ما إذا كان هذا النوع من الأموال المنقولة مسموحًا به كضمانة بموجب النظام، وما هي الإجراءات والإشهار المطلوب اتباعه لتسجيل هذا الرهن في السجل الرسمي؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-dman-alhqwq-balamwal-almnqwlh:1",
+        "nzam-dman-alhqwq-balamwal-almnqwlh:3",
+        "nzam-dman-alhqwq-balamwal-almnqwlh:28"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-dman-alhqwq-balamwal-almnqwlh:1",
+        "nzam-dman-alhqwq-balamwal-almnqwlh:28",
+        "nzam-dman-alhqwq-balamwal-almnqwlh:3"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_dman_alhqwq_balamwal_almnqwlh": {
+          "expected_article_pairs": [
+            "nzam-dman-alhqwq-balamwal-almnqwlh:1",
+            "nzam-dman-alhqwq-balamwal-almnqwlh:28",
+            "nzam-dman-alhqwq-balamwal-almnqwlh:3"
+          ],
+          "bound_article_pairs": [
+            "nzam-dman-alhqwq-balamwal-almnqwlh:1",
+            "nzam-dman-alhqwq-balamwal-almnqwlh:28",
+            "nzam-dman-alhqwq-balamwal-almnqwlh:3"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الإيجار التمويلي؛ نظام ضمان الحقوق بالأموال المنقولة؛ نظام المعاملات المدنية؛ نظام الإثبات؛ نظام التنفيذ؛ النظام البحري التجاري؛ نظام الإيداع في المخازن العامة؛ نظام الرهن التجاري؛ نظام التعاملات الإلكترونية؛ نظام المرور؛ نظام الطرق والمباني؛ نظام السوق المالية؛ نظام منتجات التجميل؛ قانون (نظام) التنظيم الصناعي الموحد لدول مجلس التعاون لدول الخليج العربية؛ لائحة حوكمة الشركات؛ نظام ملكية الوحدات العقارية وفرزها وإدارتها؛ نظام التكاليف القضائية؛ نظام التمويل العقاري\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام ضمان الحقوق بالأموال المنقولة: المادة 1، المادة 3، المادة 9، المادة 10، المادة 11، المادة 13، المادة 16، المادة 17، المادة 22، المادة 23، المادة 27، المادة 28\n- نظام المعاملات المدنية: المادة 94، المادة 95، المادة 120، المادة 128، المادة 136، المادة 137، المادة 138، المادة 204، المادة 281\n- نظام التنفيذ 1433هـ: المادة 1، المادة 2، المادة 3، المادة 9، المادة 33، المادة 34، المادة 46، المادة 90\n- نظام الإثبات: المادة 2، المادة 3، المادة 25، المادة 26، المادة 52، المادة 55، المادة 67\n- النظام البحري التجاري: المادة 28، المادة 54، المادة 63، المادة 64، المادة 78، المادة 105، المادة 195، المادة 213، المادة 254، المادة 311، المادة 337، المادة 377\n- نظام الإيداع في المخازن العامة: المادة 4، المادة 19\n- نظام الرهن التجاري: المادة 4، المادة 38\n- نظام التعاملات الإلكترونية: المادة 6\n- نظام المرور: المادة 70\n- نظام الايجار التمويلي: المادة 12، المادة 20، المادة 25\n- نظام الطرق والمباني: المادة 7، المادة 14\n- نظام السوق المالية: المادة 14، المادة 27\n- نظام منتجات التجميل: المادة 24، المادة 35\n- قانون (نظام) التنظيم الصناعي الموحد لدول مجلس التعاون لدول الخليج العربية: المادة 15، المادة 30\n- لائحة حوكمة الشركات: المادة 4\n- نظام م",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 11.9,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_f73c1a920a87",
+      "domain": "criminal_procedure",
+      "question": "أصدرت النيابة العامة أمراً بتوقيف المشتبه به في قضية تتعلق بجريمة تمس الأمن الوطني، وتم نقله إلى سجن تابع لوزارة الداخلية. أثناء فترة التوقيف، راجع أحد المحامين حالة السجن من حيث الإشراف على تنفيذ العقوبة، واختصاصات وزير الداخلية في تحديد أماكن تنفيذ السجن والتوقيف للجرائم التي تمس الأمن الوطني، بالإضافة إلى طبيعة التفتيش الذي تخضع له دور التوقيف.",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alsjn-waltwqyf:3",
+        "nzam-alsjn-waltwqyf:4",
+        "nzam-alsjn-waltwqyf:5"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alsjn-waltwqyf:3",
+        "nzam-alsjn-waltwqyf:4",
+        "nzam-alsjn-waltwqyf:5"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "suspension_and_imprisonment_execution": {
+          "expected_article_pairs": [
+            "nzam-alsjn-waltwqyf:3",
+            "nzam-alsjn-waltwqyf:4",
+            "nzam-alsjn-waltwqyf:5"
+          ],
+          "bound_article_pairs": [
+            "nzam-alsjn-waltwqyf:3",
+            "nzam-alsjn-waltwqyf:4",
+            "nzam-alsjn-waltwqyf:5"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام السجن والتوقيف؛ نظام الإجراءات الجزائية؛ نظام خدمة الأفراد؛ نظام مكافحة جرائم الإرهاب وتمويله؛ نظام هيئة التحقيق والادعاء العام ( نظام النيابة العامة )؛ نظام العمل؛ نظام مكافحة غسل الأموال؛ نظام حماية الطفل؛ نظام الأحداث؛ اللائحة التنفيذية لنظام الإفلاس؛ النظام الجزائي لجرائم التزوير؛ نظام البنك المركزي السعودي؛ نظام مكافحة جرائم المعلوماتية؛ نظام حماية المبلغين والشهود والخبراء والضحايا؛ نظام التكاليف القضائية؛ نظام مكافحة الاحتيال المالي وخيانة الأمانة؛ نظام المواصفات والجودة\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام السجن والتوقيف: المادة 1، المادة 2، المادة 3، المادة 4، المادة 5، المادة 6، المادة 7، المادة 17، المادة 20، المادة 22، المادة 23، المادة 28\n- نظام الإجراءات الجزائية: المادة 50، المادة 53، المادة 54، المادة 56، المادة 92، المادة 111، المادة 113، المادة 115، المادة 125، المادة 183، المادة 206، المادة 215\n- نظام خدمة الأفراد: المادة 13، المادة 15، المادة 20، المادة 25، المادة 28\n- نظام مكافحة جرائم الإرهاب وتمويله: المادة 13، المادة 18، المادة 29، المادة 44، المادة 49، المادة 53، المادة 56، المادة 57، المادة 82، المادة 83، المادة 90\n- نظام هيئة التحقيق والادعاء العام ( نظام النيابة العامة ): المادة 3، المادة 26\n- نظام العمل: المادة 39، المادة 245\n- نظام مكافحة غسل الأموال: المادة 24، المادة 49\n- نظام حماية الطفل: المادة 24\n- نظام الأحداث: المادة 15\n- اللائحة التنفيذية لنظام الإفلاس: المادة 86\n- النظام الجزائي لجرائم التزوير: المادة 17، المادة 25\n- نظام البنك المركزي السعودي: المادة 22\n- نظام مكافحة جرائم المعلوماتية: المادة 2، المادة 8\n- نظام حماية المبلغين والشهود والخبراء والضحايا: المادة 14، المادة 16\n- نظام التكاليف القضائية: المادة 10\n- نظام مكافحة الاحتيال المالي وخيانة الأمانة: المادة 5\n\n4. القيود أ",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 12.3,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_5c21c32f31d9",
+      "domain": "nzam_alaymh_walmwdhnyn_wkhdm_almsajd",
+      "question": "عُيّن موظف في مسجد كمؤذن في عام 1435هـ، وقد كان عمره عند التعيين 25 عامًا، واستمر في الخدمة حتى تقاعد من الخدمة لأسباب صحية غير تأديبية بعد مرور 7 سنوات من تاريخ سريان هذا النظام، فما هي الأحكام النظامية التي تحكم معاملة هذا الموظف عند انتهاء خدماته وحساب مكافآته؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:2",
+        "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:3",
+        "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:25"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:2",
+        "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:25",
+        "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:3"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_alaymh_walmwdhnyn_wkhdm_almsajd": {
+          "expected_article_pairs": [
+            "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:2",
+            "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:25",
+            "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:3"
+          ],
+          "bound_article_pairs": [
+            "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:2",
+            "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:25",
+            "nzam-alaymh-walmwdhnyn-wkhdm-almsajd:3"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الأئمة والمؤذنين وخدم المساجد؛ نظام الشركات؛ نظام الخدمة المدنية؛ نظام العلامات التجارية؛ نظام المؤسسات الصحية الخاصة؛ قانون نظام العلامات التجارية لدول مجلس التعاون لدول الخليج العربية؛ نظام المعاملات المدنية؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ نظام التقاعد العسكري؛ النظام البحري التجاري؛ نظام الملابس والتجهيزات العسكرية الفردية؛ نظام المطبوعات والنشر؛ نظام جوازات السفر السياسية والخاصة؛ اللائحة التنفيذية لنظام التنفيذ؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام التعاملات الإلكترونية؛ نظام الإعلام المرئي والمسموع؛ اللائحة التنفيذية لنظام الشركات\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الأئمة والمؤذنين وخدم المساجد: المادة 2، المادة 3، المادة 12، المادة 13، المادة 15، المادة 17، المادة 19، المادة 21، المادة 22، المادة 23، المادة 24، المادة 25\n- نظام الشركات: المادة 30، المادة 69، المادة 94، المادة 105، المادة 136، المادة 141، المادة 150، المادة 151، المادة 257، المادة 259، المادة 263، المادة 281\n- نظام الخدمة المدنية: المادة 4، المادة 8، المادة 10، المادة 17، المادة 18، المادة 30، المادة 32، المادة 37، المادة 38، المادة 39، المادة 40\n- نظام العلامات التجارية: المادة 20، المادة 27، المادة 28، المادة 34، المادة 35، المادة 37، المادة 45، المادة 46، المادة 47، المادة 50، المادة 51، المادة 58\n- نظام المؤسسات الصحية الخاصة: المادة 4، المادة 5، المادة 7، المادة 18، المادة 19، المادة 20، المادة 21، المادة 29، المادة 32، المادة 34، المادة 35\n- قانون (نظام) العلامات التجارية لدول مجلس التعاون لدول الخليج العربية: المادة 25\n- نظام المعاملات المدنية: المادة 188\n- قواعد طرح الأوراق المالية والالتزامات المستمرة: المادة 105\n- نظام التقاعد العسكري: المادة 3\n- النظام البحري التجاري: المادة 65\n- نظام الملابس والتجهيزات",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 11.0,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_d43145831414",
+      "domain": "personal_status",
+      "question": "أب يُعيّن أخاه وليًا على أولاده القُصّر بعد وفاة الزوجة، ثم يطلب الأب من المحكمة عزله لاحقًا بحجة إهماله، بينما يقدم الأخ نفسه طلب تنحي عن الولاية، وفي الأثناء تطلب المدرسة موافقة ولي الأمر لإجراء عملية جراحية طارئة للطفل الأكبر. ما هي الإجراءات القانونية المتاحة للأب ولأخيه (الولي) فيما يتعلق بإنهاء أو تغيير ولاية الأبوة، وما الصلاحية التي تملكها المحكمة لتعيين من يدير شؤون الطفل العاجلة حتى الفصل في النزاع؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "personal-status-law:151",
+        "personal-status-law:153",
+        "personal-status-law:154"
+      ],
+      "answer_bound_article_pairs": [
+        "personal-status-law:151",
+        "personal-status-law:153",
+        "personal-status-law:154"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "guardianship_modification_and_temporary_measures": {
+          "expected_article_pairs": [
+            "personal-status-law:151",
+            "personal-status-law:153",
+            "personal-status-law:154"
+          ],
+          "bound_article_pairs": [
+            "personal-status-law:151",
+            "personal-status-law:153",
+            "personal-status-law:154"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام الأحوال الشخصية؛ نظام المرافعات الشرعية؛ نظام الإثبات؛ نظام حماية الطفل؛ نظام الإجراءات الجزائية؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام الهيئة العامة للولاية على أموال القاصرين ومن فى حكمهم؛ نظام الإفلاس؛ نظام المعاملات المدنية؛ لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية؛ نظام مراقبة البنوك؛ نظام التحكيم؛ نظام التكاليف القضائية؛ نظام التنفيذ؛ نظام المحاكم التجارية؛ نظام الأحداث؛ نظام البنك المركزي السعودي؛ نظام الحراسة الأمنية المدنية الخاصة\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الأحوال الشخصية: المادة 108، المادة 111، المادة 139، المادة 143، المادة 145، المادة 148، المادة 151، المادة 153، المادة 154، المادة 156، المادة 157، المادة 159\n- نظام الإجراءات الجزائية: المادة 9، المادة 22، المادة 25، المادة 101، المادة 128، المادة 149، المادة 172، المادة 175، المادة 194، المادة 197، المادة 199، المادة 217\n- النظام التجاري ( نظام المحكمة التجارية): المادة 10، المادة 16، المادة 38، المادة 162، المادة 281، المادة 454، المادة 455، المادة 508، المادة 509، المادة 510، المادة 517، المادة 518\n- نظام الهيئة العامة للولاية على أموال القاصرين ومن فى حكمهم: المادة 30\n- نظام الإفلاس: المادة 6، المادة 132\n- نظام المعاملات المدنية: المادة 349\n- لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية: المادة 8\n- نظام حماية الطفل: المادة 2، المادة 23\n- نظام المرافعات الشرعية: المادة 83، المادة 185\n- نظام الإثبات: المادة 35، المادة 106\n- نظام مراقبة البنوك: المادة 18\n- نظام التحكيم: المادة 23، المادة 55\n- نظام التكاليف القضائية: المادة 2\n- نظام التنفيذ 1433هـ: المادة 33\n- نظام المحاكم التجارية: المادة 38، المادة 72\n- نظام الأحداث: المادة 22\n\n4. القيود أو ا",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 8.0,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_89cc01fcef7a",
+      "domain": "nzam_alathar_walmtahf_waltrath_alamrany",
+      "question": "أقامت وزارة النقل مشروعًا لتوسعة طريق سريع يمر بالقرب من قرية تراثية مصنفة، واثناء الحفر ظهرت آثار عمرانية قديمة في موقع المشروع، كما أن أحد المستثمرين يرغب في استثمار مبنى تاريخي يقع ضمن منطقة حماية التراث العمراني المحددة بمسافة مائتي متر حول الموقع المصنف، فما هي الإجراءات والالتزامات النظامية الواجب اتباعها من قبل الوزارة والمستثمر؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-alathar-walmtahf-waltrath-alamrany:12",
+        "nzam-alathar-walmtahf-waltrath-alamrany:18",
+        "nzam-alathar-walmtahf-waltrath-alamrany:46"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-alathar-walmtahf-waltrath-alamrany:12",
+        "nzam-alathar-walmtahf-waltrath-alamrany:18",
+        "nzam-alathar-walmtahf-waltrath-alamrany:46"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "nzam_alathar_walmtahf_waltrath_alamrany": {
+          "expected_article_pairs": [
+            "nzam-alathar-walmtahf-waltrath-alamrany:12",
+            "nzam-alathar-walmtahf-waltrath-alamrany:18",
+            "nzam-alathar-walmtahf-waltrath-alamrany:46"
+          ],
+          "bound_article_pairs": [
+            "nzam-alathar-walmtahf-waltrath-alamrany:12",
+            "nzam-alathar-walmtahf-waltrath-alamrany:18",
+            "nzam-alathar-walmtahf-waltrath-alamrany:46"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام حماية حقوق المؤلف؛ نظام الإثبات؛ نظام المحاكم التجارية؛ نظام التجارة الإلكترونية؛ اللائحة التنفيذية لنظام التجارة الإلكترونية؛ نظام الآثار والمتاحف والتراث العمراني؛ نظام الطرق والمباني؛ نظام تملك غير السعوديين للعقار واستثماره؛ نظام المطبوعات والنشر؛ نظام تركيز مسؤوليات القضاء الشرعي؛ نظام المؤسسات الصحية الخاصة؛ النظام البحري التجاري\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الآثار والمتاحف والتراث العمراني: المادة 1، المادة 9، المادة 12، المادة 18، المادة 24، المادة 46، المادة 48، المادة 49، المادة 52، المادة 74، المادة 80، المادة 92\n- نظام الطرق والمباني: المادة 8، المادة 9، المادة 10\n- نظام تملك غير السعوديين للعقار واستثماره: المادة 4، المادة 6\n- نظام المطبوعات والنشر: المادة 9، المادة 10، المادة 13، المادة 14، المادة 17، المادة 22، المادة 35، المادة 38، المادة 44، المادة 45\n- نظام تركيز مسؤوليات القضاء الشرعي: المادة 19، المادة 25، المادة 34، المادة 69، المادة 71، المادة 95، المادة 114، المادة 164، المادة 168، المادة 170، المادة 214، المادة 224\n- نظام المؤسسات الصحية الخاصة: المادة 3، المادة 4، المادة 5، المادة 6، المادة 8، المادة 13، المادة 14، المادة 20، المادة 25، المادة 26، المادة 27، المادة 28\n- النظام البحري التجاري: المادة 54، المادة 116، المادة 122، المادة 210، المادة 240، المادة 264، المادة 280، المادة 308، المادة 346، المادة 369\n- نظام حماية حقوق المؤلف: المادة 7\n- اللائحة التنفيذية لنظام التجارة الإلكترونية: المادة 6\n- نظام التجارة الإلكترونية: المادة 21\n- نظام الإثبات: المادة 21\n- نظام المحاكم التجارية: المادة 10\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعر",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 10.7,
+      "retrieval_pollution_rate": 0.0
+    },
+    {
+      "question_id": "autopilot_article_precision_5e4ad18bf618",
+      "domain": "veterinary_quarantine",
+      "question": "أريد استيراد شحنة من الأعلاف الحيوانية والماشية من دولة خارج دول مجلس التعاون الخليجي إلى المملكة العربية السعودية، فما هي التراخيص المطلوبة للحصول على هذه الشحنة وإذا كانت هذه الإرسالية تتوفرت فيها الشروط الصحية والبيطرية، فما هي المستندات التي يجب أنفعها عن طريق طريق السحابة السحابية أو الورقية؟",
+      "transport_error": false,
+      "service_status": "ok",
+      "confidence": "high",
+      "expected_article_pairs": [
+        "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:3",
+        "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5",
+        "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:20"
+      ],
+      "answer_bound_article_pairs": [
+        "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:20",
+        "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:3",
+        "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5"
+      ],
+      "missing_answer_bound_article_pairs": [],
+      "article_number_hits_without_binding": [],
+      "grounded_article_recall": 1.0,
+      "grounded_article_points": 100.0,
+      "article_number_recall": 1.0,
+      "regulation_presence_rate": 1.0,
+      "axis_coverage": {
+        "import_export_requirements": {
+          "expected_article_pairs": [
+            "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:20",
+            "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:3",
+            "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5"
+          ],
+          "bound_article_pairs": [
+            "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:20",
+            "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:3",
+            "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh:5"
+          ],
+          "missing_bound_article_pairs": [],
+          "passed": true
+        }
+      },
+      "failed_axes": [],
+      "passed": true,
+      "answer_preview": "1. النظام المنطبق\nنظام (قانون) الحجر البيطري لدول مجلس التعاون لدول الخليج العربية؛ القانون (النظام) الموحد للتعدين لدول مجلس التعاون؛ نظام حماية البيانات الشخصية؛ نظام الشركات؛ اللائحة التنفيذية لنظام التنفيذ؛ اللائحة التنفيذية لنظام ضريبة القيمة المضافة؛ نظام (قانون) الحجر الزراعي لدول مجلس التعاون لدول الخليج العربية؛ قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية؛ النظام الأساسي لهيئة التقييس لدول مجلس التعاون لدول الخليج العربية؛ قانون (نظام) التنظيم الصناعي الموحد لدول مجلس التعاون لدول الخليج العربية؛ النظام الأساسي لهيئة المحاسبة والمراجعة لدول مجلس التعاون؛ لائحة سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية؛ قواعد توثيق عقود العمل؛ جدول المخالفات والعقوبات لنظام العمل\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام (قانون) الحجر البيطري لدول مجلس التعاون لدول الخليج العربية: المادة 3، المادة 5، المادة 20\n- القانون (النظام) الموحد للتعدين لدول مجلس التعاون: المادة 7، المادة 9، المادة 11، المادة 22، المادة 23، المادة 28، المادة 30، المادة 33، المادة 36، المادة 62\n- نظام حماية البيانات الشخصية: المادة 13، المادة 18، المادة 20، المادة 21، المادة 23، المادة 29، المادة 30، المادة 31، المادة 33، المادة 36\n- نظام الشركات: المادة 20، المادة 61، المادة 71، المادة 77، المادة 140، المادة 142، المادة 178، المادة 231، المادة 239، المادة 261، المادة 262، المادة 265\n- اللائحة التنفيذية لنظام التنفيذ: المادة 5، المادة 9، المادة 11، المادة 21، المادة 22، المادة 29، المادة 32، المادة 34، المادة 39، المادة 53، المادة 59\n- اللائحة التنفيذية لنظام ضريبة القيمة المضافة: المادة 22، ",
+      "retrieval_direct_article_recall": 1.0,
+      "retrieval_expected_article_entered_context_rate": 1.0,
+      "retrieval_mean_context_position": 10.5,
+      "retrieval_pollution_rate": 0.0
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "084b1387f384e00064123a129cbdbaa077400bdc31009b09a3e4ead48aa99ce29478799bde68c62ccb837f45ad66d2a2bcde29cd4c5c3978ba6e225baff2289de70c2008f18a0ee08954d46a43f5e98cbf555f8359a64a7a9db32df9e7aa2c4b43f06063f3bdde3d441a7496e4c778c4443fd8b33842d5b226eaa3fca408a1c15ae32aababe57622bb42aeb5cd1c0d4851bf2d3c4afde90a5ae7048afb48477ecef43c73f6e320132e4594b3a1e002130285002d73ffbca7231400b6ad4fc3939d16c09beaf5e4d5fbeae54b03a096dade0e0e80b34fcd645b4640e8002ed3199100bfb3a893d398";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab20007276be85ccd1c6c269f5fb900baa5e4d8e2cb7aa9d1abaa92c954c81f50dcdc6?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام حماية المرافق العامة
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام حماية المرافق العامة</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الخدمات البلدية والتخطيط والتطوير الحضري</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام حماية المرافق العامة</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام حماية المرافق العامة</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>228995</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="70405759-cf34-4260-a81e-a9a700f21241">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <big> يتضمن النظام:</big><br> 
+المرافق التي يطبق عليها النظام – ضرورة الحصول على المخططات والتعليمات الخاصة بكل مرفق قبل القيام بأي عمل من شأنه التأثير على شبكات ومنشآت المرفق – واجبات إدارات وشركات المرافق العامة – عقوبة تعمد إتلاف أي من تمديدات أو منشآت المرافق العامة أو قطعها أو تعطيلها – ضبط المخالفات وإثباتها والتحقيق فيها.
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام حماية المرافق العامة</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1405/01/01 هـ  الموافق : 26/09/1984 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1405/01/01  هـ الموافق : 26/09/1984 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/5ae24b08-f406-4e71-a820-0fed0f9ec608?lawId=70405759-cf34-4260-a81e-a9a700f21241">مرسوم ملكي رقم م/62 بتاريخ 20 / 12 / 1405</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/5f9d61b5-cffa-4ff0-9a8c-f31e99e66740?lawId=70405759-cf34-4260-a81e-a9a700f21241">قرار مجلس الوزراء رقم 225 بتاريخ 26 / 11 / 1405</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="70405759-cf34-4260-a81e-a9a700f21241" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/6eddb3b9-855f-4ac9-924e-be3b7022c9f1?lawId=70405759-cf34-4260-a81e-a9a700f21241" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="70405759-cf34-4260-a81e-a9a700f21241">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="70405759-cf34-4260-a81e-a9a700f21241" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+<option value="2">الإنجليزية  (English)</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام حماية المرافق العامة</h3>
+        <h3 class="center">1405 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم م/62 بتاريخ 20 / 12 / 1405</h4>
+            <div class="HTMLContainer">
+                <p><p>بعون الله تعالى<br />
+نحن فهد بن عبد العزيز آل سعود<br />
+ملك المملكة العربية السعودية&nbsp;<br />
+بعد الاطلاع على المادتين التاسعة عشرة والعشرين من نظام مجلس الوزراء الصادر بالمرسوم الملكي رقم (٣٨) وتاريخ ٢٢ / ١٠ / ١٣٧٧ هـ.<br />
+وبعد الاطلاع على نظام مرفق الهاتف الصادر بالمرسوم الملكي رقم (م/١٦) وتاريخ ١٦ / ٣ / ١٣٩٨ هـ.<br />
+وبعد الاطلاع على نظام مصالح المياه والمجاري الصادر بالمرسوم الملكي رقم (م/٢٢) وتاريخ ٢٣ / ٦ / ١٣٩١ هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (٢٢٥) وتاريخ ٢٦ / ١١ / ١٤٠٥ هـ.<br />
+<strong>رسمنا بما هو آت</strong><br />
+أولاً - الموافقة على نظام حماية المرافق العامة بالصيغة المرفقة لهذا.<br />
+ثانياً - على سمو نائب رئيس مجلس الوزراء والوزراء كل فيما يخصه تنفيذ مرسومنا هذا ، ، ،&nbsp;</p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم 225 بتاريخ 26 / 11 / 1405</h4>
+            <p><p>إن مجلس الوزراء&nbsp;<br />
+بعد الاطلاع على المعاملة المرفقة بهذا الواردة من ديوان رئاسة مجلس الوزراء برقم (٧/ د/ ٢١٥٥٢) وتاريخ ١٥ / ٩ / ١٣٩٨ هـ، بشأن ما رفعه سمو وزير الشؤون البلدية والقروية بخطابه رقم (٩٣٤ / ٢/ ف) وتاريخ ١ / ٩ / ١٣٩٨ هـ، المتضمن طلبه رفع الغرامة المنصوص عليها في المادة الخامسة عشرة من نظام مصالح المياه والمجاري الصادر بالمرسوم الملكي رقم (م/٢٢) وتاريخ ٢٣ / ٦ / ٩١ هـ، وتعديل لائحة الجزاءات الصادرة بناء على هذه المادة بقرار مجلس الوزراء رقم (٨١١) وتاريخ ٢٨ / ٧ / ٩٢ هـ، بحيث ترفع الغرامات المنصوص عليها فيها.<br />
+وبعد الاطلاع على المعاملة المرفقة بهذا أيضا، الواردة من ديوان رئاسة مجلس الوزراء برقم (٧/ع/٢٦٤٤٤) وتاريخ ١٢ / ١٢ / ٩٨ هـ، بشأن ما رفعه سمو وزير الداخلية بخطابه رقم (٢٦ /٢٥٥٠٠) وتاريخ ١٦ / ١١ / ٩٨ هـ، المتضمن طلبه اقتراحا لحماية مرفق الكهرباء من تكرار الانقطاع بسبب الحفريات.<br />
+وبعد الاطلاع على مذكرة اللجنة العامة لمجلس الوزراء رقم (٢٠) وتاريخ ٢٧ / ١ / ١٣٩٩ هـ بالموافقة على ما رأته شعبة الخبراء بخطابها رقم (٨٣) وتاريخ ١٩ / ١ / ٩٩ هـ، من مناسبة إعداد مشروع نظام يكفل حماية جميع المرافق العامة .<br />
+وبعد الاطلاع على مشروع نظام حماية المرافق العامة المعد في شعبة الخبراء بمشاركة مندوبين عن الجهات المعنية والمرفق بخطاب الشعبة إلى الأمانة العامة لمجلس الوزراء رقم (٧٨١) وتاريخ ٢٣ / ٨ / ١٣٩٩ هـ، وعلى ما ورد بشأنه من ملاحظات لأصحاب السمو والمعالي الوزراء.<br />
+وبعد الاطلاع على المعاملة المرفقة بهذا أيضا، الواردة من ديوان رئاسة مجلس الوزراء برقم (٧/هـ/١٢٩٠٥) وتاريخ ٧ / ٦ / ١٤٠١ هـ، بشأن طلب معالي وزير المواصلات الموافقة على مشروع نظام حماية الطرق العامة بخطابه المرفوع إلى المقام السامي رقم (١٠٠٩) وتاريخ ٢٢ / ٥ / ١٤٠١ هـ.<br />
+وبعد الاطلاع على المحضر المعد في شعبة الخبراء برقم (١٠٩) وتاريخ ٢٢ / ٩ / ١٤٠٥ هـ، بمشاركة مندوب عن وزارة المواصلات المتضمن الاتفاق على الاكتفاء بمشروع نظام حماية المرافق العامة عن مشروع نظام حماية الطرق، في حال موافقة مجلس الوزراء على مشروع نظام حماية المرافق العامة لتضمنه أهم الأحكام الواردة في مشروع نظام حماية الطرق العامة.<br />
+وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم (٨٠) وتاريخ ١٣ / ١١ / ١٤٠٥ هـ، وتوصيتها رقم (٧٤) وتاريخ ١٢ / ١١ / ١٤٠٥ هـ&nbsp;<br />
+<strong>يقرر ما يلي:</strong><br />
+١ - الموافقة على نظام حماية المرافق العامة بالصيغة المرفقة بهذا.<br />
+٢ - نظم مشروع مرسوم ملكي بذلك صيغته مرفقة بهذا.</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام حماية المرافق العامة</h1></div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الأولى: 
+</h3>
+                <div class="HTMLContainer">
+                     يطبق هذا النظام على  المرافق العامة    التالية: المياه والمجاري وتصريف السيول والكهرباء والهاتف والطرق العامة    والسكك الحديدية والمرافق الأخرى التي يصدر بتحديدها قرار من  مجلس الوزراء .
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="478d0fcf-4f3e-4006-8751-a9a700f212f3" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="478d0fcf-4f3e-4006-8751-a9a700f212f3 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الأولى:</h3>
+                                    <div class="HTMLContainer">
+                                        تم تعديل هذه المادة بموجب قرار مجلس الوزراء رقم (46) وتاريخ 30 / 2 / 1420 هـ ، <big>بحيث يضاف اليها النص الآتي:</big><br>
+أضيفت منشآت مدينة الملك عبد العزيز للعلوم والتقنية إلى المرافق التي يشملها هذا النظام.
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/e56f5af0-82dd-49d6-9354-de1884786d47?attachmentTitle=المادة الأولى:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية: 
+</h3>
+                <div class="HTMLContainer">
+                     يتعين قبل القيام بأي عمل من شأنه التأثير على شبكات ومنشآت أي مرفق من  المرافق العامة     الحصول من الجهة المختصة على المخططات والتعليمات الخاصة بذلك المرفق، وأخذ أقصى الاحتياطات التي تضمن حمايته وعدم توقف خدماته عن أي مستفيد منه. وفي حال إلحاق ضرر بأي مرفق يجب على المتسبب إشعار الجهة المعنية بهذا المرفق .
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة: 
+</h3>
+                <div class="HTMLContainer">
+                     على الإدارات والشركات المعنية بإدارة كل مرفق اتخاذ الاحتياطات اللازمة لحمايته وتوعية الغير بما يجب عمله لضمان سلامة شبكات المرفق ومنشآته. وعليها تقديم مخططات المرفق والتعليمات المعدة لحمايته إلى من يطلبها من ذوي العلاقة خلال مدة لا تتعدى خمسة عشر يوما من ورود الطلب إليها، وتكون مسؤولة عن صحة التعليمات والمخططات التي تقدمها. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة: 
+</h3>
+                <div class="HTMLContainer">
+                     على إدارات وشركات  المرافق العامة    التنسيق فيما بينها بما يخدم حماية كل مرفق وضمان إصلاح أي ضرر يتعرض له بأقصى سرعة ممكنة، وعليها من أجل ذلك الإعلام عن المسؤول لديها الذي يمكن الاتصال به في أي وقت .
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الخامسة: 
+</h3>
+                <div class="HTMLContainer">
+                     يعاقب بالسجن مدة لا تزيد عن سنتين وبغرامة لا تتجاوز مائة ألف ريال، أو بإحدى هاتين العقوبتين كل من تعمد إتلاف أي من تمديدات أو منشآت  المرافق العامة    أو تعمد قطعها أو تعطيلها سواء كان الفاعل أصليا أو شريكا.
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="fa966ccc-9412-444c-9111-a9a700f21319" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="fa966ccc-9412-444c-9111-a9a700f21319 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الخامسة:</h3>
+                                    <div class="HTMLContainer">
+                                        تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/38) بتاريخ 19/ 4/ 1438هـ، <big>لتصبح بالنص الآتي:</big><br>
+"يعاقب بالسجن مدة لا تزيد على سنتين وبغرامة لا تتجاوز مائة ألف ريال، أو بإحدى هاتين العقوبتين؛ كل من تعمد إتلاف أي من تمديدات أو منشآت المرافق العامة، أو تعمد قطعها أو تعطيلها، سواء كان الفاعل أصلياً أو شريكاً، ويجوز تضمين قرار أو حكم العقوبة النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مكان إقامته، فإن لم يكن في مكان إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وآثارها، على أن يكون النشر بعد تحصن القرار بمضي المدة المحددة نظاماً أو تأييده من المحكمة المختصة، أو باكتساب الحكم الصفة النهائية".
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/c8014f15-5c06-443c-91e9-7ea157d2dc55?attachmentTitle=المادة الخامسة:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة: 
+</h3>
+                <div class="HTMLContainer">
+                     يعاقب بغرامة لا تتجاوز مائة ألف ريال كل من تسبب في إتلاف أي من تمديدات  المرافق العامة    أو قطعها أو تعطيلها. فإن كان المتسبب في ذلك مقاولا فإنه يجوز منع التعاقد معه مستقبلا مدة لا تزيد على ستة أشهر، كما يجوز في حالة العود أن يحكم بمنع التعاقد مدة تزيد على الحد الأقصى المقرر على ألا تتجاوز المدة المحكوم بها ضعف هذا الحد. وتنشر في الصحف المحلية العقوبات المحكوم بها على نفقة المحكوم عليه.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة: 
+</h3>
+                <div class="HTMLContainer">
+                     يعاقب بغرامة لا تتجاوز خمسين ألف ريال كل من يتعدى على منشآت  المرافق العامة     أو شبكاتها بقصد الاستفادة من خدماتها بطريقة غير مشروعة، وكذا كل من يتعدى على السكك الحديدية أو   الطرق العامة     أو حرمها باغتصاب جزء منها أو إقامة منشآت عليها من أي نوع كانت أو إحداث قطع أو حفر في سطحها أو أكتافها أو ميولها أو مواقفها أو أخذ أتربة منها أو إتلاف الإشارات أو العلامات الكيلومترية الموجودة بها أو الأعمال الصناعية المنفذة لها كالجسور والأنفاق وغيرها .
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة: 
+</h3>
+                <div class="HTMLContainer">
+                     يعاقب بغرامة لا تزيد عن ثلاثة آلاف ريال كل من يعبث بعدادات المياه أو الكهرباء أو أجهزة الهاتف العامة أو تمديداتها بقصد تعطيل وظيفتها أو الإخلال بها، وكذا كل من يتعدى على السكك الحديدية أو   الطرق العامة     أو حرمها بإغراقها بمياه الري والصرف أو غيرها أو يحدث فيها عملا يترتب عليه تعطيلها أو عدم الاستفادة منها كلها أو جزء منها أو تعريض حركة المرور للخطر. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة: 
+</h3>
+                <div class="HTMLContainer">
+                     يعاقب بغرامة لا تزيد عن ألفي ريال كل مستفيد من خدمات  المرافق العامة    يسهل للغير الاستفادة منها بطريقة غير مشروعة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     في حالة العود إلى ارتكاب أي من المخالفات المنصوص عليها في هذا النظام، يجوز أن يحكم بأكثر من الحد الأقصى المقرر للغرامة، على ألا يتجاوز ضعف هذا الحد. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الحادية عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     أ - يلزم مرتكب المخالفة   بالتعويض     عن جميع الأضرار التي لحقت بالمرفق أو الغير بما في ذلك تكاليف إصلاح التلف الذي تسبب في حدوثه والتعويض عن المنفعة التي فقدها المرفق أو الغير، ويحتسب التعويض للمتر المكعب عن المياه الضائعة بسبب المخالفة وفق قواعد تضعها لجنة تشكل من   وزارة المالية والاقتصاد الوطني  ووزارة الشئون البلدية والقروية  ووزارة الزراعة والمياه .<br />وللجهة المختصة أن تلزم مرتكب المخالفة بإصلاح ما ينتج عن مخالفته أو أن تقوم بالإصلاح على نفقة المخالف، ويرجع عليه في هذه الحالة بكافة المصاريف والنفقات اللازمة لإزالة التعدي وإصلاح الأضرار التي ترتبت عليها، وتحدد مصاريف الإزالة والإصلاح بقرار من الوزير المختص فإن لم يقم بدفعها استوفيت من مستحقاته لدى أية جهة حكومية وإلا تم تحصيلها وفقا لقواعد جباية أموال الدولة.
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="53b3e9ed-0e3c-4b9a-9dc1-a9a700f2134a" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="53b3e9ed-0e3c-4b9a-9dc1-a9a700f2134a popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الحادية عشرة:</h3>
+                                    <div class="HTMLContainer">
+                                        تم تعديل الفقرة (أ) من هذه المادة بموجب المرسوم الملكي رقم (م/54) وتاريخ 5 / 6 / 1428 هـ ،<big> لتكون بالنص الآتي:</big><br>
+" أ‌ - يلزم مرتكب المخالفة بالتعويض عن جميع الأضرار التي لحقت بالمرفق أو الغير، بما في ذلك تكاليف إصلاح التلف الذي تسبب في حدوثه و التعويض عن المنفعة التي فقدها المرفق أو الغير ويحتسب التعويض للمتر المكعب عن المياه الضائعة بسبب المخالفة وفق قواعد تضعها لجنة تشكل من وزارة المالية ، ووزارة الشؤون البلدية والقروية ووزارة المياه والكهرباء وللجهة المختصة أن تلزم مرتكب المخالفة بإصلاح ما ينتج من مخالفته أو أن تقوم بالإصلاح على نفقة المخالف ويرجع عليه في مياه الحالة بجميع المصاريف  والنفقات اللازمة لإزالة التعدي وإصلاح الأضرار التي ترتبت عليها فإن لم يدفعها فإنها تستوفي من مستحقاته لدى جهة حكومية أوتحصل وفقا لقواعد جباية أموال الدولة."
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/9dd67b6e-f4c5-45a1-9d27-12d7b80eeb74?attachmentTitle=المادة الحادية عشرة:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الثانية عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     يتم ضبط مخالفات هذا النظام وإثباتها والتحقيق فيها وفق الإجراءات التي تضعها لجنة تشكل من   وزارة الداخلية    ،   ووزارة الشؤون البلدية والقروية    ،   ووزارة الزراعة والمياه    ،   ووزارة المواصلات    ،   ووزارة الصناعة والكهرباء       ووزارة البرق والبريد والهاتف    ، ويعتمدها   وزير الداخلية  .   
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="217341b7-6bc8-4893-9287-a9a700f2137d" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="217341b7-6bc8-4893-9287-a9a700f2137d popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الثانية عشرة: 
+</h3>
+                                    <div class="HTMLContainer">
+                                        <p><strong>- إحلال عبارة &quot;الهيئة العامة للطرق&quot; محل عبارة &quot;وزارة النقل والخدمات اللوجستية&quot; وذلك بموجب قرار مجلس الوزراء رقم (586) وتاريخ 1444/8/22هـ</strong></p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/51e025c5-0bed-481e-b263-afd200b1e920?attachmentTitle=المادة الثانية عشرة: 
+" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الثالثة عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     أ- يختص  ديوان المظالم    بتوقيع عقوبة السجن المنصوص عليها في هذا النظام.<br />ب- يتم تقدير  التعويضات    وتوقيع  الغرامات    وتحديد مقدار  الغرامة    عن كل مخالفة ضمن حدها الأعلى المنصوص عليه في هذا النظام وفق قواعد يصدرها الوزير المختص.
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="e5a54b4d-5a19-4e87-8fc6-a9a700f2137d" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="e5a54b4d-5a19-4e87-8fc6-a9a700f2137d popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الثالثة عشرة:</h3>
+                                    <div class="HTMLContainer">
+                                        تم  تعديل الفقرة (ب) من هذه المادة بموجب المرسوم الملكي رقم (م/54) وتاريخ 5 / 6 / 1428 هـ ، <big>لتكون بالنص الآتي:</big><br>
+" ب - تقدر التعويضات ويحدد مقدار الغرامة عن كل مخالفة ضمن حدها المنصوص عليه في هذا النظام وفق قواعد يصدرها الوزير المختص ويصدر قرار التعويض أو التعويض أو الغرامة الوزير المختص أو من يفوضه ويجوز التظلم منه أمام ديوان المظالم خلال (ستين ) يوما من تاريخ إبلاغ المخالف به."
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/9dd67b6e-f4c5-45a1-9d27-12d7b80eeb74?attachmentTitle=المادة الثالثة عشرة:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     يصدر الوزراء المعنيون بتنفيذ هذا النظام كل منهم في حدود اختصاصه القرارات اللازمة لتنفيذه. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     يلغي هذا النظام المواد (الرابعة، والخامسة، والسادسة، والسابعة، والثامنة، والتاسعة، والعاشرة والحادية عشرة) من نظام  مرفق الهاتف    الصادر  بالمرسوم الملكي    رقم (م/16) وتاريخ 16 / 3 / 1398 هـ. والمادة (الخامسة عشرة) من نظام مصالح المياه والمجاري الصادر  بالمرسوم الملكي     رقم (م/22) وتاريخ 23 / 6 / 1391 هـ، ولائحة الجزاءات الصادرة تنفيذا لها بقرار  مجلس الوزراء     رقم (811) وتاريخ 28 / 7 / 1392 هـ، وكل ما يتعارض مع أحكام هذا النظام. ويعمل به بعد شهرين من تاريخ نشره في الجريدة الرسمية.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="70405759-cf34-4260-a81e-a9a700f21241" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="478d0fcf-4f3e-4006-8751-a9a700f212f3">المادة الأولى: 
+ </option>
+<option value="8b03fe90-baa8-4479-88fd-a9a700f21319">المادة الثانية: 
+ </option>
+<option value="4699a45a-dd44-47be-94eb-a9a700f21319">المادة الثالثة: 
+ </option>
+<option value="f64baab1-bd30-40ae-9444-a9a700f21319">المادة الرابعة: 
+ </option>
+<option value="fa966ccc-9412-444c-9111-a9a700f21319">المادة الخامسة: 
+ </option>
+<option value="1b9caeca-d587-49ec-99e0-a9a700f2134a">المادة السادسة: 
+ </option>
+<option value="48dd0b12-9bb0-4825-831f-a9a700f2134a">المادة السابعة: 
+ </option>
+<option value="8fea55db-0da4-4da8-bdc2-a9a700f2134a">المادة الثامنة: 
+ </option>
+<option value="a533f889-ce28-4de3-b98c-a9a700f2134a">المادة التاسعة: 
+ </option>
+<option value="4dc92ec4-a37e-4ceb-9f9c-a9a700f2134a">المادة العاشرة: 
+ </option>
+<option value="53b3e9ed-0e3c-4b9a-9dc1-a9a700f2134a">المادة الحادية عشرة: 
+ </option>
+<option value="217341b7-6bc8-4893-9287-a9a700f2137d">المادة الثانية عشرة: 
+ </option>
+<option value="e5a54b4d-5a19-4e87-8fc6-a9a700f2137d">المادة الثالثة عشرة: 
+ </option>
+<option value="0587b763-7b49-4fdf-8e2a-a9a700f213a1">المادة الرابعة عشرة: 
+ </option>
+<option value="fc3cd7e2-5b34-4969-9afd-a9a700f213a1">المادة الخامسة عشرة: 
+ </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaXR6U' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaXR6U' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaXR6U = new CaptchaWidget('divCaptchaContainer_captchaXR6U', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaXR6U.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription70405759-cf34-4260-a81e-a9a700f21241" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="70405759-cf34-4260-a81e-a9a700f21241" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaSTVU' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaSTVU' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-70405759-cf34-4260-a81e-a9a700f21241">
+                    <input type="checkbox" id="agreement-70405759-cf34-4260-a81e-a9a700f21241" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='70405759-cf34-4260-a81e-a9a700f21241' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-70405759-cf34-4260-a81e-a9a700f21241"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-70405759-cf34-4260-a81e-a9a700f21241"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaXR6U = new CaptchaWidget('divCaptchaContainer_captchaXR6U', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaXR6U.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaSTVU = new CaptchaWidget('divCaptchaContainer_captchaSTVU', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaSTVU.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="70405759-cf34-4260-a81e-a9a700f21241">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaXR6U = new CaptchaWidget('divCaptchaContainer_captchaXR6U', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaXR6U.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaSTVU = new CaptchaWidget('divCaptchaContainer_captchaSTVU', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaSTVU.load(); 
+                    }); </script>
+</body>
+
+</html>

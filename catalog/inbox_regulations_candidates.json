@@ -1,0 +1,55 @@
+{
+  "generated_on": "2026-05-15T09:57:51.167199+00:00",
+  "entries": [
+    {
+      "candidate_id": "895725235295",
+      "source_filename": "government-procurement-implementing-regulation.txt",
+      "source_relpath": "documents/saudi_regulations/inbox/government-procurement-implementing-regulation.txt",
+      "file_type": ".txt",
+      "suggested_title_ar": "اللائحة التنفيذية لنظام المنافسات والمشتريات الحكومية",
+      "suggested_slug": "government-procurement-implementing-regulation",
+      "text_chars": 4116,
+      "article_count": 10,
+      "sample_article_labels": [
+        "ا",
+        "ا",
+        "ا",
+        "ا",
+        "ا"
+      ],
+      "quality_level": "strong",
+      "quality_flags": [],
+      "review_status": "approved",
+      "scanned_at": "2026-05-15T09:57:43.894203+00:00",
+      "approved_slug": "government-procurement-implementing-regulation",
+      "approved_title_ar": "اللائحة التنفيذية لنظام المنافسات والمشتريات الحكومية",
+      "approved_on": "2026-05-15T09:57:51.051395+00:00",
+      "target_relpath": "documents/saudi_regulations/onboarded/government-procurement-implementing-regulation.txt"
+    },
+    {
+      "candidate_id": "5db8cf1120a6",
+      "source_filename": "procurement-conduct-ethics-regulation.txt",
+      "source_relpath": "documents/saudi_regulations/inbox/procurement-conduct-ethics-regulation.txt",
+      "file_type": ".txt",
+      "suggested_title_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية",
+      "suggested_slug": "procurement-conduct-ethics-regulation",
+      "text_chars": 3835,
+      "article_count": 8,
+      "sample_article_labels": [
+        "ا",
+        "ا",
+        "ا",
+        "ا",
+        "ا"
+      ],
+      "quality_level": "strong",
+      "quality_flags": [],
+      "review_status": "approved",
+      "scanned_at": "2026-05-15T09:57:43.895238+00:00",
+      "approved_slug": "procurement-conduct-ethics-regulation",
+      "approved_title_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية",
+      "approved_on": "2026-05-15T09:57:51.167185+00:00",
+      "target_relpath": "documents/saudi_regulations/onboarded/procurement-conduct-ethics-regulation.txt"
+    }
+  ]
+}

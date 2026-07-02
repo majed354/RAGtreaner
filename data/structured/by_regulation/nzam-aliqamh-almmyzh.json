@@ -1,0 +1,1220 @@
+{
+  "metadata": {
+    "slug": "nzam-aliqamh-almmyzh",
+    "title_ar": "نظام الإقامة المميزة",
+    "status": "ساري",
+    "issue_date_hijri": "1440/09/10 هـ الموافق : 15/05/2019 مـ",
+    "issue_date_gregorian": "2019-05-15",
+    "publish_date_hijri": "1440/09/13 هـ الموافق : 18/05/2019 مـ",
+    "publish_date_gregorian": "2019-05-18",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5e9762df-2b15-4e66-8cdc-aa5200f62042/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-aliqamh-almmyzh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-aliqamh-almmyzh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1440/09/13 هـ الموافق : 18/05/2019 مـ",
+    "effective_date_gregorian": "2019-05-18",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 14,
+    "paragraph_count": 59,
+    "indexable_paragraph_count": 59,
+    "text_chars": 5447,
+    "verbatim_chars": 5449,
+    "citation_base_ar": "نظام الإقامة المميزة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5e9762df-2b15-4e66-8cdc-aa5200f62042/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-aliqamh-almmyzh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-aliqamh-almmyzh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الأولى",
+      "text_verbatim": "يُقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:\n\nالنظام: نظام الإقامة المميزة.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nغير السعودي: الشخص ذو الصفة الطبيعية الذي لا يحمل الجنسية السعودية.\n\nحامل الإقامة المميزة: غير السعودي الذي حصل على الإقامة المميزة وفقاً للنظام.\n\nالأسرة: من يعولهم حامل الإقامة المميزة من: الأزواج، والأولاد (ممن لم يتجاوز إحدى وعشرين سنة).\n\nالمركز: مركز الإقامة المميزة.\n\nاللجنة: اللجنة الإشرافية للمركز.",
+      "text_for_index": "يُقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:\n\nالنظام: نظام الإقامة المميزة.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nغير السعودي: الشخص ذو الصفة الطبيعية الذي لا يحمل الجنسية السعودية.\n\nحامل الإقامة المميزة: غير السعودي الذي حصل على الإقامة المميزة وفقاً للنظام.\n\nالأسرة: من يعولهم حامل الإقامة المميزة من: الأزواج، والأولاد (ممن لم يتجاوز إحدى وعشرين سنة).\n\nالمركز: مركز الإقامة المميزة.\n\nاللجنة: اللجنة الإشرافية للمركز.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:",
+          "text_for_index": "يُقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "النظام: نظام الإقامة المميزة.",
+          "text_for_index": "النظام: نظام الإقامة المميزة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "غير السعودي: الشخص ذو الصفة الطبيعية الذي لا يحمل الجنسية السعودية.",
+          "text_for_index": "غير السعودي: الشخص ذو الصفة الطبيعية الذي لا يحمل الجنسية السعودية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "حامل الإقامة المميزة: غير السعودي الذي حصل على الإقامة المميزة وفقاً للنظام.",
+          "text_for_index": "حامل الإقامة المميزة: غير السعودي الذي حصل على الإقامة المميزة وفقاً للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الأسرة: من يعولهم حامل الإقامة المميزة من: الأزواج، والأولاد (ممن لم يتجاوز إحدى وعشرين سنة).",
+          "text_for_index": "الأسرة: من يعولهم حامل الإقامة المميزة من: الأزواج، والأولاد (ممن لم يتجاوز إحدى وعشرين سنة).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "المركز: مركز الإقامة المميزة.",
+          "text_for_index": "المركز: مركز الإقامة المميزة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "اللجنة: اللجنة الإشرافية للمركز.",
+          "text_for_index": "اللجنة: اللجنة الإشرافية للمركز.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الثانية",
+      "text_verbatim": "• يتمتع حامل الإقامة المميزة بالحقوق والمزايا الآتية ويلتزم بما يترتب عليها من واجبات:\n\n\tأ- الإقامة في المملكة مع أسرته.\n\n\tب- تأشيرات زيارة للأقارب، وفق ما تحدده اللائحة.\n\n\tج- استقدام العمالة المنزلية بحسب احتياجاته.\n\n\tد- امتلاك العقارات للأغراض: السكنية، والتجارية، والصناعية، وذلك فيما عدا مدينتي مكة المكرمة والمدينة المنورة، والمناطق الحدودية وفقًا لما تحدده اللائحة.\n\n\tهـ- الانتفاع بالعقارات الواقعة في مدينتي مكة المكرمة والمدينة المنورة لمدة لا تتجاوز (تسعاً وتسعين) سنة، وتضع وزارة العدل ووزارة التجارة والاستثمار الآليات اللازمة لذلك، بما يكفل للمنتفع الحصول على صك حق انتفاع صادر من كتابة العدل.\n\n\tويكون هذا الحق قابلاً للتصرف بانتقاله إلى الغير وفق ضوابط تضعها اللجنة.\n\n\tو- امتلاك وسائل النقل الخاصة، وأي منقولات أخرى يسمح باقتنائها نظاماً في المملكة.\n\n\tز- العمل في منشآت القطاع الخاص والانتقال بينها ويشمل ذلك أي من أفراد أسرته، فيما عدا المهن والأعمال التي يحظر على غير السعودي الاشتغال بها، ودون إخلال بالرسوم المقررة على غير السعودي.\n\n\tح- حرية الخروج من المملكة والعودة إليها ذاتياً.\n\n\tط- استخدام الممرات المخصصة للسعوديين عند دخول المملكة عبر منافذها والخروج منها.\n\n\tي- مزاولة الأعمال التجارية، وفقاً لنظام الاستثمار الأجنبي.\n\n\t• تحدد اللائحة الأحكام الأخرى المنظمة لما ورد في الفقرة (1) من هذه المادة.",
+      "text_for_index": "• يتمتع حامل الإقامة المميزة بالحقوق والمزايا الآتية ويلتزم بما يترتب عليها من واجبات:\n\n أ- الإقامة في المملكة مع أسرته.\n\n ب- تأشيرات زيارة للأقارب، وفق ما تحدده اللائحة.\n\n ج- استقدام العمالة المنزلية بحسب احتياجاته.\n\n د- امتلاك العقارات للأغراض: السكنية، والتجارية، والصناعية، وذلك فيما عدا مدينتي مكة المكرمة والمدينة المنورة، والمناطق الحدودية وفقًا لما تحدده اللائحة.\n\n هـ- الانتفاع بالعقارات الواقعة في مدينتي مكة المكرمة والمدينة المنورة لمدة لا تتجاوز (تسعاً وتسعين) سنة، وتضع وزارة العدل ووزارة التجارة والاستثمار الآليات اللازمة لذلك، بما يكفل للمنتفع الحصول على صك حق انتفاع صادر من كتابة العدل.\n\n ويكون هذا الحق قابلاً للتصرف بانتقاله إلى الغير وفق ضوابط تضعها اللجنة.\n\n و- امتلاك وسائل النقل الخاصة، وأي منقولات أخرى يسمح باقتنائها نظاماً في المملكة.\n\n ز- العمل في منشآت القطاع الخاص والانتقال بينها ويشمل ذلك أي من أفراد أسرته، فيما عدا المهن والأعمال التي يحظر على غير السعودي الاشتغال بها، ودون إخلال بالرسوم المقررة على غير السعودي.\n\n ح- حرية الخروج من المملكة والعودة إليها ذاتياً.\n\n ط- استخدام الممرات المخصصة للسعوديين عند دخول المملكة عبر منافذها والخروج منها.\n\n ي- مزاولة الأعمال التجارية، وفقاً لنظام الاستثمار الأجنبي.\n\n • تحدد اللائحة الأحكام الأخرى المنظمة لما ورد في الفقرة (1) من هذه المادة.",
+      "paragraph_count": 13,
+      "indexable_paragraph_count": 13,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "• يتمتع حامل الإقامة المميزة بالحقوق والمزايا الآتية ويلتزم بما يترتب عليها من واجبات:",
+          "text_for_index": "• يتمتع حامل الإقامة المميزة بالحقوق والمزايا الآتية ويلتزم بما يترتب عليها من واجبات:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "أ- الإقامة في المملكة مع أسرته.",
+          "text_for_index": "أ- الإقامة في المملكة مع أسرته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ب- تأشيرات زيارة للأقارب، وفق ما تحدده اللائحة.",
+          "text_for_index": "ب- تأشيرات زيارة للأقارب، وفق ما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ج- استقدام العمالة المنزلية بحسب احتياجاته.",
+          "text_for_index": "ج- استقدام العمالة المنزلية بحسب احتياجاته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "د- امتلاك العقارات للأغراض: السكنية، والتجارية، والصناعية، وذلك فيما عدا مدينتي مكة المكرمة والمدينة المنورة، والمناطق الحدودية وفقًا لما تحدده اللائحة.",
+          "text_for_index": "د- امتلاك العقارات للأغراض: السكنية، والتجارية، والصناعية، وذلك فيما عدا مدينتي مكة المكرمة والمدينة المنورة، والمناطق الحدودية وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "هـ- الانتفاع بالعقارات الواقعة في مدينتي مكة المكرمة والمدينة المنورة لمدة لا تتجاوز (تسعاً وتسعين) سنة، وتضع وزارة العدل ووزارة التجارة والاستثمار الآليات اللازمة لذلك، بما يكفل للمنتفع الحصول على صك حق انتفاع صادر من كتابة العدل.",
+          "text_for_index": "هـ- الانتفاع بالعقارات الواقعة في مدينتي مكة المكرمة والمدينة المنورة لمدة لا تتجاوز (تسعاً وتسعين) سنة، وتضع وزارة العدل ووزارة التجارة والاستثمار الآليات اللازمة لذلك، بما يكفل للمنتفع الحصول على صك حق انتفاع صادر من كتابة العدل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ويكون هذا الحق قابلاً للتصرف بانتقاله إلى الغير وفق ضوابط تضعها اللجنة.",
+          "text_for_index": "ويكون هذا الحق قابلاً للتصرف بانتقاله إلى الغير وفق ضوابط تضعها اللجنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "و- امتلاك وسائل النقل الخاصة، وأي منقولات أخرى يسمح باقتنائها نظاماً في المملكة.",
+          "text_for_index": "و- امتلاك وسائل النقل الخاصة، وأي منقولات أخرى يسمح باقتنائها نظاماً في المملكة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ز- العمل في منشآت القطاع الخاص والانتقال بينها ويشمل ذلك أي من أفراد أسرته، فيما عدا المهن والأعمال التي يحظر على غير السعودي الاشتغال بها، ودون إخلال بالرسوم المقررة على غير السعودي.",
+          "text_for_index": "ز- العمل في منشآت القطاع الخاص والانتقال بينها ويشمل ذلك أي من أفراد أسرته، فيما عدا المهن والأعمال التي يحظر على غير السعودي الاشتغال بها، ودون إخلال بالرسوم المقررة على غير السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ح- حرية الخروج من المملكة والعودة إليها ذاتياً.",
+          "text_for_index": "ح- حرية الخروج من المملكة والعودة إليها ذاتياً.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "ط- استخدام الممرات المخصصة للسعوديين عند دخول المملكة عبر منافذها والخروج منها.",
+          "text_for_index": "ط- استخدام الممرات المخصصة للسعوديين عند دخول المملكة عبر منافذها والخروج منها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ي- مزاولة الأعمال التجارية، وفقاً لنظام الاستثمار الأجنبي.",
+          "text_for_index": "ي- مزاولة الأعمال التجارية، وفقاً لنظام الاستثمار الأجنبي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-2::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تحدد اللائحة الأحكام الأخرى المنظمة لما ورد في الفقرة (1) من هذه المادة.",
+          "text_for_index": "• تحدد اللائحة الأحكام الأخرى المنظمة لما ورد في الفقرة (1) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الثالثة",
+      "text_verbatim": "تكون أنواع الإقامة المميزة وفقاً للآتي:\n\nأ- غير محددة المدة.\n\nب- لسنة واحدة قابلة للتجديد.\n\nوتحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+      "text_for_index": "تكون أنواع الإقامة المميزة وفقاً للآتي:\n\nأ- غير محددة المدة.\n\nب- لسنة واحدة قابلة للتجديد.\n\nوتحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تكون أنواع الإقامة المميزة وفقاً للآتي:",
+          "text_for_index": "تكون أنواع الإقامة المميزة وفقاً للآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ- غير محددة المدة.",
+          "text_for_index": "أ- غير محددة المدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ب- لسنة واحدة قابلة للتجديد.",
+          "text_for_index": "ب- لسنة واحدة قابلة للتجديد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "وتحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+          "text_for_index": "وتحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الرابعة",
+      "text_verbatim": "•  يشترط للتقدم بطلب الحصول على الإقامة المميزة ما يأتي:\n\n\tأ- تقديم جواز سفر ساري المفعول.\n\n\tب- ألاّ يقل سن المتقدم عن إحدى وعشرين سنة.\n\n\tج- تقديم ما يثبت الملاءة المالية للمتقدم.\n\n\tد- تقديم سجل جنائي يثبت خلو المتقدم من السوابق.\n\n\tهـ- تقديم تقرير صحي عن حالة المتقدم الصحية يثبت خلوه من الأمراض المعدية، لا يزيد تاريخه على ستة أشهر من تاريخ التقدم.\n\n\tو- أن تكون إقامة المتقدم نظامية في حال كان متقدماً من داخل المملكة.\n\n\t• للجنة -عند الاقتضاء- إضافة شروط خاصة في الحالات التي تتطلب ذلك.\n\n\t• تحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+      "text_for_index": "• يشترط للتقدم بطلب الحصول على الإقامة المميزة ما يأتي:\n\n أ- تقديم جواز سفر ساري المفعول.\n\n ب- ألاّ يقل سن المتقدم عن إحدى وعشرين سنة.\n\n ج- تقديم ما يثبت الملاءة المالية للمتقدم.\n\n د- تقديم سجل جنائي يثبت خلو المتقدم من السوابق.\n\n هـ- تقديم تقرير صحي عن حالة المتقدم الصحية يثبت خلوه من الأمراض المعدية، لا يزيد تاريخه على ستة أشهر من تاريخ التقدم.\n\n و- أن تكون إقامة المتقدم نظامية في حال كان متقدماً من داخل المملكة.\n\n • للجنة -عند الاقتضاء- إضافة شروط خاصة في الحالات التي تتطلب ذلك.\n\n • تحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "•  يشترط للتقدم بطلب الحصول على الإقامة المميزة ما يأتي:",
+          "text_for_index": "• يشترط للتقدم بطلب الحصول على الإقامة المميزة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ- تقديم جواز سفر ساري المفعول.",
+          "text_for_index": "أ- تقديم جواز سفر ساري المفعول.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب- ألاّ يقل سن المتقدم عن إحدى وعشرين سنة.",
+          "text_for_index": "ب- ألاّ يقل سن المتقدم عن إحدى وعشرين سنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "ج- تقديم ما يثبت الملاءة المالية للمتقدم.",
+          "text_for_index": "ج- تقديم ما يثبت الملاءة المالية للمتقدم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "د- تقديم سجل جنائي يثبت خلو المتقدم من السوابق.",
+          "text_for_index": "د- تقديم سجل جنائي يثبت خلو المتقدم من السوابق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "هـ- تقديم تقرير صحي عن حالة المتقدم الصحية يثبت خلوه من الأمراض المعدية، لا يزيد تاريخه على ستة أشهر من تاريخ التقدم.",
+          "text_for_index": "هـ- تقديم تقرير صحي عن حالة المتقدم الصحية يثبت خلوه من الأمراض المعدية، لا يزيد تاريخه على ستة أشهر من تاريخ التقدم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "و- أن تكون إقامة المتقدم نظامية في حال كان متقدماً من داخل المملكة.",
+          "text_for_index": "و- أن تكون إقامة المتقدم نظامية في حال كان متقدماً من داخل المملكة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• للجنة -عند الاقتضاء- إضافة شروط خاصة في الحالات التي تتطلب ذلك.",
+          "text_for_index": "• للجنة -عند الاقتضاء- إضافة شروط خاصة في الحالات التي تتطلب ذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-4::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• تحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+          "text_for_index": "• تحدد اللائحة الإجراءات والضوابط المتعلقة بما ورد في هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الخامسة",
+      "text_verbatim": "يدرس المركز الطلب، بعد استكمال المتطلبات المشار إليها في المادة (الرابعة) من النظام؛ للنظر في الموافقة على منح المتقدم الإقامة المميزة، وتصدر بقرار من رئيس المركز، وذلك وفقاً للأحكام الواردة في النظام واللائحة.",
+      "text_for_index": "يدرس المركز الطلب، بعد استكمال المتطلبات المشار إليها في المادة (الرابعة) من النظام؛ للنظر في الموافقة على منح المتقدم الإقامة المميزة، وتصدر بقرار من رئيس المركز، وذلك وفقاً للأحكام الواردة في النظام واللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يدرس المركز الطلب، بعد استكمال المتطلبات المشار إليها في المادة (الرابعة) من النظام؛ للنظر في الموافقة على منح المتقدم الإقامة المميزة، وتصدر بقرار من رئيس المركز، وذلك وفقاً للأحكام الواردة في النظام واللائحة.",
+          "text_for_index": "يدرس المركز الطلب، بعد استكمال المتطلبات المشار إليها في المادة (الرابعة) من النظام؛ للنظر في الموافقة على منح المتقدم الإقامة المميزة، وتصدر بقرار من رئيس المركز، وذلك وفقاً للأحكام الواردة في النظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة السادسة",
+      "text_verbatim": "• على المتقدم -خلال (ثلاثين) يوماً من إبلاغه بصدور الموافقة المشار إليها في المادة (الخامسة) من النظام- القيام بالآتي:\n\n\t أ- سداد المقابل المالي الذي تحدده اللائحة.\n\n\tب- تقديم وثيقة تأمين طبي وفقاً لنظام الضمان الصحي التعاوني، ولائحته التنفيذية.\n\n\t• يعد الطلب المقدم وفقاً للمادة (الرابعة) من النظام ملغى إذا لم تستوفَ المتطلبات المشار إليها في الفقرة (1) من هذه المادة خلال المدة المحددة.\n\n\t• تبدأ الإقامة المميزة -بالنسبة إلى من يقيم داخل المملكة وقت التقدم بطلب الحصول على الإقامة المميزة- من تاريخ حصوله عليها، على أن تستكمل الإجراءات اللازمة لإنهاء العلاقة المتعلقة بالإقامة السابقة.",
+      "text_for_index": "• على المتقدم -خلال (ثلاثين) يوماً من إبلاغه بصدور الموافقة المشار إليها في المادة (الخامسة) من النظام- القيام بالآتي:\n\n أ- سداد المقابل المالي الذي تحدده اللائحة.\n\n ب- تقديم وثيقة تأمين طبي وفقاً لنظام الضمان الصحي التعاوني، ولائحته التنفيذية.\n\n • يعد الطلب المقدم وفقاً للمادة (الرابعة) من النظام ملغى إذا لم تستوفَ المتطلبات المشار إليها في الفقرة (1) من هذه المادة خلال المدة المحددة.\n\n • تبدأ الإقامة المميزة -بالنسبة إلى من يقيم داخل المملكة وقت التقدم بطلب الحصول على الإقامة المميزة- من تاريخ حصوله عليها، على أن تستكمل الإجراءات اللازمة لإنهاء العلاقة المتعلقة بالإقامة السابقة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• على المتقدم -خلال (ثلاثين) يوماً من إبلاغه بصدور الموافقة المشار إليها في المادة (الخامسة) من النظام- القيام بالآتي:",
+          "text_for_index": "• على المتقدم -خلال (ثلاثين) يوماً من إبلاغه بصدور الموافقة المشار إليها في المادة (الخامسة) من النظام- القيام بالآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "أ- سداد المقابل المالي الذي تحدده اللائحة.",
+          "text_for_index": "أ- سداد المقابل المالي الذي تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ب- تقديم وثيقة تأمين طبي وفقاً لنظام الضمان الصحي التعاوني، ولائحته التنفيذية.",
+          "text_for_index": "ب- تقديم وثيقة تأمين طبي وفقاً لنظام الضمان الصحي التعاوني، ولائحته التنفيذية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يعد الطلب المقدم وفقاً للمادة (الرابعة) من النظام ملغى إذا لم تستوفَ المتطلبات المشار إليها في الفقرة (1) من هذه المادة خلال المدة المحددة.",
+          "text_for_index": "• يعد الطلب المقدم وفقاً للمادة (الرابعة) من النظام ملغى إذا لم تستوفَ المتطلبات المشار إليها في الفقرة (1) من هذه المادة خلال المدة المحددة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تبدأ الإقامة المميزة -بالنسبة إلى من يقيم داخل المملكة وقت التقدم بطلب الحصول على الإقامة المميزة- من تاريخ حصوله عليها، على أن تستكمل الإجراءات اللازمة لإنهاء العلاقة المتعلقة بالإقامة السابقة.",
+          "text_for_index": "• تبدأ الإقامة المميزة -بالنسبة إلى من يقيم داخل المملكة وقت التقدم بطلب الحصول على الإقامة المميزة- من تاريخ حصوله عليها، على أن تستكمل الإجراءات اللازمة لإنهاء العلاقة المتعلقة بالإقامة السابقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة السابعة",
+      "text_verbatim": "يلتزم حامل الإقامة المميزة بالتقيد بالنظام واللائحة، وغيرهما من الأنظمة والتعليمات المعمول بها في المملكة، وذلك دون إخلال بالأحكام المنصوص عليها في النظام.",
+      "text_for_index": "يلتزم حامل الإقامة المميزة بالتقيد بالنظام واللائحة، وغيرهما من الأنظمة والتعليمات المعمول بها في المملكة، وذلك دون إخلال بالأحكام المنصوص عليها في النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يلتزم حامل الإقامة المميزة بالتقيد بالنظام واللائحة، وغيرهما من الأنظمة والتعليمات المعمول بها في المملكة، وذلك دون إخلال بالأحكام المنصوص عليها في النظام.",
+          "text_for_index": "يلتزم حامل الإقامة المميزة بالتقيد بالنظام واللائحة، وغيرهما من الأنظمة والتعليمات المعمول بها في المملكة، وذلك دون إخلال بالأحكام المنصوص عليها في النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الثامنة",
+      "text_verbatim": "يعتبر حامل الإقامة المميزة في حكم المقيم لغرض تطبيق الأحكام النظامية الأخرى وبخاصة الأحكام الضريبية، وذلك بصرف النظر عن المدة التي يقضيها خارج المملكة خلال السنة.",
+      "text_for_index": "يعتبر حامل الإقامة المميزة في حكم المقيم لغرض تطبيق الأحكام النظامية الأخرى وبخاصة الأحكام الضريبية، وذلك بصرف النظر عن المدة التي يقضيها خارج المملكة خلال السنة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعتبر حامل الإقامة المميزة في حكم المقيم لغرض تطبيق الأحكام النظامية الأخرى وبخاصة الأحكام الضريبية، وذلك بصرف النظر عن المدة التي يقضيها خارج المملكة خلال السنة.",
+          "text_for_index": "يعتبر حامل الإقامة المميزة في حكم المقيم لغرض تطبيق الأحكام النظامية الأخرى وبخاصة الأحكام الضريبية، وذلك بصرف النظر عن المدة التي يقضيها خارج المملكة خلال السنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة التاسعة",
+      "text_verbatim": "• تلغى الإقامة المميزة في الحالات الآتية:\n\n\tأ- إدانة حامل الإقامة المميزة بجريمة يعاقب عليها بالسجن لمدة لا تقل عن (ستين) يوماً، أو بغرامة لا تقل عن (مائة) ألف ريال أو ما يعادلها.\n\n\tب- صدور قرار أو حكم قضائي بإبعاد حامل الإقامة المميزة عن المملكة.\n\n\tج- ثبوت أن طلب الحصول على الإقامة المميزة قد تضمن معلومة غير صحيحة.\n\n\tد- عدم تقيّد حامل الإقامة المميزة بالتزاماته الواردة في المادة (السابعة) من النظام.\n\n\tهـ- تنازل حامل الإقامة المميزة عنها.\n\n\tو- وفاة حامل الإقامة المميزة أو فقدانه الأهلية.\n\n\t• لا يخل ما ورد في الفقرة (1) من هذه المادة بحق اللجنة في إنهاء الإقامة المميزة إن اقتضت المصلحة العامة ذلك.",
+      "text_for_index": "• تلغى الإقامة المميزة في الحالات الآتية:\n\n أ- إدانة حامل الإقامة المميزة بجريمة يعاقب عليها بالسجن لمدة لا تقل عن (ستين) يوماً، أو بغرامة لا تقل عن (مائة) ألف ريال أو ما يعادلها.\n\n ب- صدور قرار أو حكم قضائي بإبعاد حامل الإقامة المميزة عن المملكة.\n\n ج- ثبوت أن طلب الحصول على الإقامة المميزة قد تضمن معلومة غير صحيحة.\n\n د- عدم تقيّد حامل الإقامة المميزة بالتزاماته الواردة في المادة (السابعة) من النظام.\n\n هـ- تنازل حامل الإقامة المميزة عنها.\n\n و- وفاة حامل الإقامة المميزة أو فقدانه الأهلية.\n\n • لا يخل ما ورد في الفقرة (1) من هذه المادة بحق اللجنة في إنهاء الإقامة المميزة إن اقتضت المصلحة العامة ذلك.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• تلغى الإقامة المميزة في الحالات الآتية:",
+          "text_for_index": "• تلغى الإقامة المميزة في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ- إدانة حامل الإقامة المميزة بجريمة يعاقب عليها بالسجن لمدة لا تقل عن (ستين) يوماً، أو بغرامة لا تقل عن (مائة) ألف ريال أو ما يعادلها.",
+          "text_for_index": "أ- إدانة حامل الإقامة المميزة بجريمة يعاقب عليها بالسجن لمدة لا تقل عن (ستين) يوماً، أو بغرامة لا تقل عن (مائة) ألف ريال أو ما يعادلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ب- صدور قرار أو حكم قضائي بإبعاد حامل الإقامة المميزة عن المملكة.",
+          "text_for_index": "ب- صدور قرار أو حكم قضائي بإبعاد حامل الإقامة المميزة عن المملكة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ج- ثبوت أن طلب الحصول على الإقامة المميزة قد تضمن معلومة غير صحيحة.",
+          "text_for_index": "ج- ثبوت أن طلب الحصول على الإقامة المميزة قد تضمن معلومة غير صحيحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "د- عدم تقيّد حامل الإقامة المميزة بالتزاماته الواردة في المادة (السابعة) من النظام.",
+          "text_for_index": "د- عدم تقيّد حامل الإقامة المميزة بالتزاماته الواردة في المادة (السابعة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "هـ- تنازل حامل الإقامة المميزة عنها.",
+          "text_for_index": "هـ- تنازل حامل الإقامة المميزة عنها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "و- وفاة حامل الإقامة المميزة أو فقدانه الأهلية.",
+          "text_for_index": "و- وفاة حامل الإقامة المميزة أو فقدانه الأهلية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-9::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• لا يخل ما ورد في الفقرة (1) من هذه المادة بحق اللجنة في إنهاء الإقامة المميزة إن اقتضت المصلحة العامة ذلك.",
+          "text_for_index": "• لا يخل ما ورد في الفقرة (1) من هذه المادة بحق اللجنة في إنهاء الإقامة المميزة إن اقتضت المصلحة العامة ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة العاشرة",
+      "text_verbatim": "• تكون الحقوق والمزايا الممنوحة لحامل الإقامة المميزة وفقاً للنظام على سبيل الحصر.\n\n\t• تحدد اللائحة الحقوق والمزايا الأخرى التي تتمتع بها الأسرة، وذلك في حدود ما ورد في المادة (الثانية) من النظام.\n\n\t• فيما عدا ما نصت عليه الفقرتان (1) و(2) من هذه المادة، تسري على حامل الإقامة المميزة وأسرته جميع الأنظمة والتعليمات التي تسري على المقيم غير السعودي.",
+      "text_for_index": "• تكون الحقوق والمزايا الممنوحة لحامل الإقامة المميزة وفقاً للنظام على سبيل الحصر.\n\n • تحدد اللائحة الحقوق والمزايا الأخرى التي تتمتع بها الأسرة، وذلك في حدود ما ورد في المادة (الثانية) من النظام.\n\n • فيما عدا ما نصت عليه الفقرتان (1) و(2) من هذه المادة، تسري على حامل الإقامة المميزة وأسرته جميع الأنظمة والتعليمات التي تسري على المقيم غير السعودي.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تكون الحقوق والمزايا الممنوحة لحامل الإقامة المميزة وفقاً للنظام على سبيل الحصر.",
+          "text_for_index": "• تكون الحقوق والمزايا الممنوحة لحامل الإقامة المميزة وفقاً للنظام على سبيل الحصر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تحدد اللائحة الحقوق والمزايا الأخرى التي تتمتع بها الأسرة، وذلك في حدود ما ورد في المادة (الثانية) من النظام.",
+          "text_for_index": "• تحدد اللائحة الحقوق والمزايا الأخرى التي تتمتع بها الأسرة، وذلك في حدود ما ورد في المادة (الثانية) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• فيما عدا ما نصت عليه الفقرتان (1) و(2) من هذه المادة، تسري على حامل الإقامة المميزة وأسرته جميع الأنظمة والتعليمات التي تسري على المقيم غير السعودي.",
+          "text_for_index": "• فيما عدا ما نصت عليه الفقرتان (1) و(2) من هذه المادة، تسري على حامل الإقامة المميزة وأسرته جميع الأنظمة والتعليمات التي تسري على المقيم غير السعودي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الحادية عشرة",
+      "text_verbatim": "• لا يترتب على إلغاء الإقامة المميزة أو إنهائها انتقال الحقوق والمزايا -التي كان يحصل عليها وفقاً للمادة (الثانية) من النظام- إلى أسرته، على أنه إذا تحققت في أي منهم الشروط الواردة في هذا النظام ولائحته فله التقدم للحصول على الإقامة المميزة.\n\n\t• لا تخوِّل الإقامة المميزة حاملها الحق في الحصول على الجنسية السعودية.",
+      "text_for_index": "• لا يترتب على إلغاء الإقامة المميزة أو إنهائها انتقال الحقوق والمزايا -التي كان يحصل عليها وفقاً للمادة (الثانية) من النظام- إلى أسرته، على أنه إذا تحققت في أي منهم الشروط الواردة في هذا النظام ولائحته فله التقدم للحصول على الإقامة المميزة.\n\n • لا تخوِّل الإقامة المميزة حاملها الحق في الحصول على الجنسية السعودية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "• لا يترتب على إلغاء الإقامة المميزة أو إنهائها انتقال الحقوق والمزايا -التي كان يحصل عليها وفقاً للمادة (الثانية) من النظام- إلى أسرته، على أنه إذا تحققت في أي منهم الشروط الواردة في هذا النظام ولائحته فله التقدم للحصول على الإقامة المميزة.",
+          "text_for_index": "• لا يترتب على إلغاء الإقامة المميزة أو إنهائها انتقال الحقوق والمزايا -التي كان يحصل عليها وفقاً للمادة (الثانية) من النظام- إلى أسرته، على أنه إذا تحققت في أي منهم الشروط الواردة في هذا النظام ولائحته فله التقدم للحصول على الإقامة المميزة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• لا تخوِّل الإقامة المميزة حاملها الحق في الحصول على الجنسية السعودية.",
+          "text_for_index": "• لا تخوِّل الإقامة المميزة حاملها الحق في الحصول على الجنسية السعودية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الثانية عشرة",
+      "text_verbatim": "في حال إلغاء الإقامة المميزة أو إنهائها، لحاملها أو أي من أفراد أسرته، فيتولى المركز -بالتنسيق مع الجهات المعنية- النظر فيما قد يترتب على ذلك من آثار، ومعالجتها، وذلك وفق ما ورد في النظام وما تحدده اللائحة.",
+      "text_for_index": "في حال إلغاء الإقامة المميزة أو إنهائها، لحاملها أو أي من أفراد أسرته، فيتولى المركز -بالتنسيق مع الجهات المعنية- النظر فيما قد يترتب على ذلك من آثار، ومعالجتها، وذلك وفق ما ورد في النظام وما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "في حال إلغاء الإقامة المميزة أو إنهائها، لحاملها أو أي من أفراد أسرته، فيتولى المركز -بالتنسيق مع الجهات المعنية- النظر فيما قد يترتب على ذلك من آثار، ومعالجتها، وذلك وفق ما ورد في النظام وما تحدده اللائحة.",
+          "text_for_index": "في حال إلغاء الإقامة المميزة أو إنهائها، لحاملها أو أي من أفراد أسرته، فيتولى المركز -بالتنسيق مع الجهات المعنية- النظر فيما قد يترتب على ذلك من آثار، ومعالجتها، وذلك وفق ما ورد في النظام وما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الثالثة عشرة",
+      "text_verbatim": "• يعد المركز -بالتنسيق مع الجهات المعنية- اللائحة، وتصدر بقرار من اللجنة.\n\n\t• يصدر المركز القرارات والتعليمات اللازمة لتنفيذ أحكام النظام.",
+      "text_for_index": "• يعد المركز -بالتنسيق مع الجهات المعنية- اللائحة، وتصدر بقرار من اللجنة.\n\n • يصدر المركز القرارات والتعليمات اللازمة لتنفيذ أحكام النظام.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يعد المركز -بالتنسيق مع الجهات المعنية- اللائحة، وتصدر بقرار من اللجنة.",
+          "text_for_index": "• يعد المركز -بالتنسيق مع الجهات المعنية- اللائحة، وتصدر بقرار من اللجنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-13::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "• يصدر المركز القرارات والتعليمات اللازمة لتنفيذ أحكام النظام.",
+          "text_for_index": "• يصدر المركز القرارات والتعليمات اللازمة لتنفيذ أحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الإقامة المميزة، المادة الرابعة عشرة",
+      "text_verbatim": "يعمل بالنظام اعتباراً من اليوم التالي لنشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بالنظام اعتباراً من اليوم التالي لنشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aliqamh-almmyzh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بالنظام اعتباراً من اليوم التالي لنشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بالنظام اعتباراً من اليوم التالي لنشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

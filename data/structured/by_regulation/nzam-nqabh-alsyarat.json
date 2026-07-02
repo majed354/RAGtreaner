@@ -1,0 +1,2561 @@
+{
+  "metadata": {
+    "slug": "nzam-nqabh-alsyarat",
+    "title_ar": "نظام نقابة السيارات",
+    "status": "ساري",
+    "issue_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+    "issue_date_gregorian": "1952-09-20",
+    "publish_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+    "publish_date_gregorian": "1952-09-20",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cddb94e2-167b-4158-af5f-a9a700f2de58/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-nqabh-alsyarat.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-nqabh-alsyarat.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+    "effective_date_gregorian": "1952-09-20",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 64,
+    "paragraph_count": 76,
+    "indexable_paragraph_count": 76,
+    "text_chars": 13442,
+    "verbatim_chars": 13547,
+    "citation_base_ar": "نظام نقابة السيارات",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cddb94e2-167b-4158-af5f-a9a700f2de58/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-nqabh-alsyarat.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-nqabh-alsyarat.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الأولى",
+      "text_verbatim": "تؤسس في المملكة العربية السعودية إدارة تكون مهمتها ترتيب وتنظيم نقل الحجاج وتسمى ( نقابة السيارات ) إنفاذا لأمر حضرة صاحب السمو الملكي ولي العهد المعظم الصادر برقم (142) في 11 / 2 / 1372 هـ.",
+      "text_for_index": "تؤسس في المملكة العربية السعودية إدارة تكون مهمتها ترتيب وتنظيم نقل الحجاج وتسمى ( نقابة السيارات ) إنفاذا لأمر حضرة صاحب السمو الملكي ولي العهد المعظم الصادر برقم (142) في 11 / 2 / 1372 هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تؤسس في المملكة العربية السعودية إدارة تكون مهمتها ترتيب وتنظيم نقل الحجاج وتسمى ( نقابة السيارات ) إنفاذا لأمر حضرة صاحب السمو الملكي ولي العهد المعظم الصادر برقم (142) في 11 / 2 / 1372 هـ.",
+          "text_for_index": "تؤسس في المملكة العربية السعودية إدارة تكون مهمتها ترتيب وتنظيم نقل الحجاج وتسمى ( نقابة السيارات ) إنفاذا لأمر حضرة صاحب السمو الملكي ولي العهد المعظم الصادر برقم (142) في 11 / 2 / 1372 هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية",
+      "text_verbatim": "مرجع هذه النقابة   المديرية العامة للحج والإذاعة    .",
+      "text_for_index": "مرجع هذه النقابة المديرية العامة للحج والإذاعة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "مرجع هذه النقابة   المديرية العامة للحج والإذاعة    .",
+          "text_for_index": "مرجع هذه النقابة المديرية العامة للحج والإذاعة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة",
+      "text_verbatim": "مركز النقابة الرئيس بمكة المكرمة وتؤسس لها فروع في المدينة المنورة وفي جدة وفي غيرها من المدن حسب اللزوم وتبعا لاقتضاء ضرورة العمل.",
+      "text_for_index": "مركز النقابة الرئيس بمكة المكرمة وتؤسس لها فروع في المدينة المنورة وفي جدة وفي غيرها من المدن حسب اللزوم وتبعا لاقتضاء ضرورة العمل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مركز النقابة الرئيس بمكة المكرمة وتؤسس لها فروع في المدينة المنورة وفي جدة وفي غيرها من المدن حسب اللزوم وتبعا لاقتضاء ضرورة العمل.",
+          "text_for_index": "مركز النقابة الرئيس بمكة المكرمة وتؤسس لها فروع في المدينة المنورة وفي جدة وفي غيرها من المدن حسب اللزوم وتبعا لاقتضاء ضرورة العمل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "company_management",
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة",
+      "text_verbatim": "يعين للنقابة رئيس عام يتولى إدارة أعمالها ومسؤولياتها المدرجة في هذا النظام بمعاونة الموظفين التابعين له. ويتم تعيينه بترشيح من   المديرية العامة للحج والإذاعة     وموافقة المقام السامي عليه، ويجب ألا يكون من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+      "text_for_index": "يعين للنقابة رئيس عام يتولى إدارة أعمالها ومسؤولياتها المدرجة في هذا النظام بمعاونة الموظفين التابعين له. ويتم تعيينه بترشيح من المديرية العامة للحج والإذاعة وموافقة المقام السامي عليه، ويجب ألا يكون من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يعين للنقابة رئيس عام يتولى إدارة أعمالها ومسؤولياتها المدرجة في هذا النظام بمعاونة الموظفين التابعين له. ويتم تعيينه بترشيح من   المديرية العامة للحج والإذاعة     وموافقة المقام السامي عليه، ويجب ألا يكون من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+          "text_for_index": "يعين للنقابة رئيس عام يتولى إدارة أعمالها ومسؤولياتها المدرجة في هذا النظام بمعاونة الموظفين التابعين له. ويتم تعيينه بترشيح من المديرية العامة للحج والإذاعة وموافقة المقام السامي عليه، ويجب ألا يكون من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخامسة",
+      "text_verbatim": "تم تعديل هذه المادة بموجب   المرسوم الملكي  رقم (47) وتاريخ 22 / 12 / 1404 هـ ، لتصبح بالنص التالى :\n\n\"تكون للنقابة هيئة تتضامن مع الرئيس في الأعمال والمسؤوليات وتعمل تحت رئاسته تتألف من :\nأ - مندوب عن   وزارة الحج والأوقاف     يعينه   وزير الحج والأوقاف    .\nب - ممثلين للشركات الناقلة للحجاج بعدد هذه الشركات، يتم اختيار كل منهم عن طريق التعيين من قبل الشركة التي يمثلها وفقا لنظامها.\"",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (47) وتاريخ 22 / 12 / 1404 هـ ، لتصبح بالنص التالى :\n\n\"تكون للنقابة هيئة تتضامن مع الرئيس في الأعمال والمسؤوليات وتعمل تحت رئاسته تتألف من :\nأ - مندوب عن وزارة الحج والأوقاف يعينه وزير الحج والأوقاف .\nب - ممثلين للشركات الناقلة للحجاج بعدد هذه الشركات، يتم اختيار كل منهم عن طريق التعيين من قبل الشركة التي يمثلها وفقا لنظامها.\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تم تعديل هذه المادة بموجب   المرسوم الملكي  رقم (47) وتاريخ 22 / 12 / 1404 هـ ، لتصبح بالنص التالى :",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (47) وتاريخ 22 / 12 / 1404 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "\"تكون للنقابة هيئة تتضامن مع الرئيس في الأعمال والمسؤوليات وتعمل تحت رئاسته تتألف من :\nأ - مندوب عن   وزارة الحج والأوقاف     يعينه   وزير الحج والأوقاف    .\nب - ممثلين للشركات الناقلة للحجاج بعدد هذه الشركات، يتم اختيار كل منهم عن طريق التعيين من قبل الشركة التي يمثلها وفقا لنظامها.\"",
+          "text_for_index": "\"تكون للنقابة هيئة تتضامن مع الرئيس في الأعمال والمسؤوليات وتعمل تحت رئاسته تتألف من :\nأ - مندوب عن وزارة الحج والأوقاف يعينه وزير الحج والأوقاف .\nب - ممثلين للشركات الناقلة للحجاج بعدد هذه الشركات، يتم اختيار كل منهم عن طريق التعيين من قبل الشركة التي يمثلها وفقا لنظامها.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السادسة",
+      "text_verbatim": "تقوم النقابة بوضع الميزانية السنوية اللازمة لمركزها والفروع التابعة لها وتعرضها لمرجعها للتصديق عليها وفق الأصول.",
+      "text_for_index": "تقوم النقابة بوضع الميزانية السنوية اللازمة لمركزها والفروع التابعة لها وتعرضها لمرجعها للتصديق عليها وفق الأصول.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقوم النقابة بوضع الميزانية السنوية اللازمة لمركزها والفروع التابعة لها وتعرضها لمرجعها للتصديق عليها وفق الأصول.",
+          "text_for_index": "تقوم النقابة بوضع الميزانية السنوية اللازمة لمركزها والفروع التابعة لها وتعرضها لمرجعها للتصديق عليها وفق الأصول.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السابعة",
+      "text_verbatim": "تعين النقابة الموظفين اللازمين لأعمالها في حدود ميزانيتها المصدقة وبموافقة مرجعها على ذلك، على أن يتم تعيين المعاونين للرئيس العام بمعرفة الرئيس المذكور وبموافقة المقام السامي عليهم، ويجب ألا يكونوا من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+      "text_for_index": "تعين النقابة الموظفين اللازمين لأعمالها في حدود ميزانيتها المصدقة وبموافقة مرجعها على ذلك، على أن يتم تعيين المعاونين للرئيس العام بمعرفة الرئيس المذكور وبموافقة المقام السامي عليهم، ويجب ألا يكونوا من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تعين النقابة الموظفين اللازمين لأعمالها في حدود ميزانيتها المصدقة وبموافقة مرجعها على ذلك، على أن يتم تعيين المعاونين للرئيس العام بمعرفة الرئيس المذكور وبموافقة المقام السامي عليهم، ويجب ألا يكونوا من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+          "text_for_index": "تعين النقابة الموظفين اللازمين لأعمالها في حدود ميزانيتها المصدقة وبموافقة مرجعها على ذلك، على أن يتم تعيين المعاونين للرئيس العام بمعرفة الرئيس المذكور وبموافقة المقام السامي عليهم، ويجب ألا يكونوا من أصحاب الشركات ولا من المطوفين أو الوكلاء أو الأدلاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثامنة",
+      "text_verbatim": "يخضع جميع موظفي النقابة للتعليمات الداخلية الخاصة بهم ولا يسري عليهم نظام الموظفين العام ولا التقاعد.",
+      "text_for_index": "يخضع جميع موظفي النقابة للتعليمات الداخلية الخاصة بهم ولا يسري عليهم نظام الموظفين العام ولا التقاعد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يخضع جميع موظفي النقابة للتعليمات الداخلية الخاصة بهم ولا يسري عليهم نظام الموظفين العام ولا التقاعد.",
+          "text_for_index": "يخضع جميع موظفي النقابة للتعليمات الداخلية الخاصة بهم ولا يسري عليهم نظام الموظفين العام ولا التقاعد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة التاسعة",
+      "text_verbatim": "الإشراف التام على جميع السيارات الناقلة للحجاج.",
+      "text_for_index": "الإشراف التام على جميع السيارات الناقلة للحجاج.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الإشراف التام على جميع السيارات الناقلة للحجاج.",
+          "text_for_index": "الإشراف التام على جميع السيارات الناقلة للحجاج.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة العاشرة",
+      "text_verbatim": "تسجيل الشركات التي تعمل في نقل الحجاج لديها.",
+      "text_for_index": "تسجيل الشركات التي تعمل في نقل الحجاج لديها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تسجيل الشركات التي تعمل في نقل الحجاج لديها.",
+          "text_for_index": "تسجيل الشركات التي تعمل في نقل الحجاج لديها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الحادية عشرة",
+      "text_verbatim": "تعيين لجنة للكشف على سيارات الشركات المخصصة لنقل الحجاج باشتراك مندوبين من   إدارة الحج العامة       ومديرية الأمن العام     والنقابة مع مهندسين فنيين تنتخبهم للكشف على كل سيارة معدة لنقل الحجاج وإعطاء قرار بصلاحيتها للنقل أو عدم ذلك موقع عليه من كافة أعضاء لجنة الكشف، على ألا يتنافى مع الكشف المنصوص عليه في قرار   مجلس الشورى     رقم (161) في 26 / 8 / 368 .",
+      "text_for_index": "تعيين لجنة للكشف على سيارات الشركات المخصصة لنقل الحجاج باشتراك مندوبين من إدارة الحج العامة ومديرية الأمن العام والنقابة مع مهندسين فنيين تنتخبهم للكشف على كل سيارة معدة لنقل الحجاج وإعطاء قرار بصلاحيتها للنقل أو عدم ذلك موقع عليه من كافة أعضاء لجنة الكشف، على ألا يتنافى مع الكشف المنصوص عليه في قرار مجلس الشورى رقم (161) في 26 / 8 / 368 .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "التزام"
+          ],
+          "text_verbatim": "تعيين لجنة للكشف على سيارات الشركات المخصصة لنقل الحجاج باشتراك مندوبين من   إدارة الحج العامة       ومديرية الأمن العام     والنقابة مع مهندسين فنيين تنتخبهم للكشف على كل سيارة معدة لنقل الحجاج وإعطاء قرار بصلاحيتها للنقل أو عدم ذلك موقع عليه من كافة أعضاء لجنة الكشف، على ألا يتنافى مع الكشف المنصوص عليه في قرار   مجلس الشورى     رقم (161) في 26 / 8 / 368 .",
+          "text_for_index": "تعيين لجنة للكشف على سيارات الشركات المخصصة لنقل الحجاج باشتراك مندوبين من إدارة الحج العامة ومديرية الأمن العام والنقابة مع مهندسين فنيين تنتخبهم للكشف على كل سيارة معدة لنقل الحجاج وإعطاء قرار بصلاحيتها للنقل أو عدم ذلك موقع عليه من كافة أعضاء لجنة الكشف، على ألا يتنافى مع الكشف المنصوص عليه في قرار مجلس الشورى رقم (161) في 26 / 8 / 368 .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية عشرة",
+      "text_verbatim": "إعطاء كل سيارة صالحة للعمل تم الكشف عليها شهادة خاصة بموجب تقارير لجان الكشف موضح بها رقم السيارة والرقم المتسلسل للمكنة والشاسيه والكفرات بما في ذلك الكفر الاحتياطي وعدد الركاب، مع بيان نوعها وموديلها واسم الشركة التابعة لها ورقم وتاريخ تقرير لجنة الكشف عليها.",
+      "text_for_index": "إعطاء كل سيارة صالحة للعمل تم الكشف عليها شهادة خاصة بموجب تقارير لجان الكشف موضح بها رقم السيارة والرقم المتسلسل للمكنة والشاسيه والكفرات بما في ذلك الكفر الاحتياطي وعدد الركاب، مع بيان نوعها وموديلها واسم الشركة التابعة لها ورقم وتاريخ تقرير لجنة الكشف عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "إعطاء كل سيارة صالحة للعمل تم الكشف عليها شهادة خاصة بموجب تقارير لجان الكشف موضح بها رقم السيارة والرقم المتسلسل للمكنة والشاسيه والكفرات بما في ذلك الكفر الاحتياطي وعدد الركاب، مع بيان نوعها وموديلها واسم الشركة التابعة لها ورقم وتاريخ تقرير لجنة الكشف عليها.",
+          "text_for_index": "إعطاء كل سيارة صالحة للعمل تم الكشف عليها شهادة خاصة بموجب تقارير لجان الكشف موضح بها رقم السيارة والرقم المتسلسل للمكنة والشاسيه والكفرات بما في ذلك الكفر الاحتياطي وعدد الركاب، مع بيان نوعها وموديلها واسم الشركة التابعة لها ورقم وتاريخ تقرير لجنة الكشف عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة عشرة",
+      "text_verbatim": "اتخاذ سجل خاص لتسجيل شهادات السيارات الموضحة في المادة السابقة (12) يكتب فيه جميع الإيضاحات الخاصة بالسيارة المعطاة لها الشهادة ويعتبر هو (السجل الأساسي) لسيارات الشركات.",
+      "text_for_index": "اتخاذ سجل خاص لتسجيل شهادات السيارات الموضحة في المادة السابقة (12) يكتب فيه جميع الإيضاحات الخاصة بالسيارة المعطاة لها الشهادة ويعتبر هو (السجل الأساسي) لسيارات الشركات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "اتخاذ سجل خاص لتسجيل شهادات السيارات الموضحة في المادة السابقة (12) يكتب فيه جميع الإيضاحات الخاصة بالسيارة المعطاة لها الشهادة ويعتبر هو (السجل الأساسي) لسيارات الشركات.",
+          "text_for_index": "اتخاذ سجل خاص لتسجيل شهادات السيارات الموضحة في المادة السابقة (12) يكتب فيه جميع الإيضاحات الخاصة بالسيارة المعطاة لها الشهادة ويعتبر هو (السجل الأساسي) لسيارات الشركات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة عشرة",
+      "text_verbatim": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ،  لتصبح بالنص التالى :\n\n\" يكون توزيع الحجاج على الشركات بموجب تعليمات التوزيع الموضحة في الباب (الثاني) من هذا النظام.\"",
+      "text_for_index": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يكون توزيع الحجاج على الشركات بموجب تعليمات التوزيع الموضحة في الباب (الثاني) من هذا النظام.\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ،  لتصبح بالنص التالى :",
+          "text_for_index": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\" يكون توزيع الحجاج على الشركات بموجب تعليمات التوزيع الموضحة في الباب (الثاني) من هذا النظام.\"",
+          "text_for_index": "\" يكون توزيع الحجاج على الشركات بموجب تعليمات التوزيع الموضحة في الباب (الثاني) من هذا النظام.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخامسة عشرة",
+      "text_verbatim": "استيفاء أجور النقل المقررة، على أن تقوم بمحاسبة أصحاب الشركات على صافي استحقاقهم يوميا.",
+      "text_for_index": "استيفاء أجور النقل المقررة، على أن تقوم بمحاسبة أصحاب الشركات على صافي استحقاقهم يوميا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "استيفاء أجور النقل المقررة، على أن تقوم بمحاسبة أصحاب الشركات على صافي استحقاقهم يوميا.",
+          "text_for_index": "استيفاء أجور النقل المقررة، على أن تقوم بمحاسبة أصحاب الشركات على صافي استحقاقهم يوميا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السادسة عشرة",
+      "text_verbatim": "الاشتراك مع الجهات الحكومية ذات العلاقة في وضع وتحديد أجور النقل للحجاج في كل عام مع مراعاة الاعتدال في التحديد.",
+      "text_for_index": "الاشتراك مع الجهات الحكومية ذات العلاقة في وضع وتحديد أجور النقل للحجاج في كل عام مع مراعاة الاعتدال في التحديد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الاشتراك مع الجهات الحكومية ذات العلاقة في وضع وتحديد أجور النقل للحجاج في كل عام مع مراعاة الاعتدال في التحديد.",
+          "text_for_index": "الاشتراك مع الجهات الحكومية ذات العلاقة في وضع وتحديد أجور النقل للحجاج في كل عام مع مراعاة الاعتدال في التحديد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السابعة عشرة",
+      "text_verbatim": "ملاحظة كل ما يتعلق بمصلحة نقل الحجاج وترتيبه على أكمل وجه وفقا لهذا النظام والتعليمات الحكومية.",
+      "text_for_index": "ملاحظة كل ما يتعلق بمصلحة نقل الحجاج وترتيبه على أكمل وجه وفقا لهذا النظام والتعليمات الحكومية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ملاحظة كل ما يتعلق بمصلحة نقل الحجاج وترتيبه على أكمل وجه وفقا لهذا النظام والتعليمات الحكومية.",
+          "text_for_index": "ملاحظة كل ما يتعلق بمصلحة نقل الحجاج وترتيبه على أكمل وجه وفقا لهذا النظام والتعليمات الحكومية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثامنة عشرة",
+      "text_verbatim": "إعداد جداول تفصيلية عن الحجاج القادمين بالبواخر والطائرات تشمل تواريخ وصولهم، ومواعيد سفرهم من إلى مكة المكرمة والمدينة المنورة، مع تواريخ عودتهم من المدينة إلى مكة، وذلك بمعاونة القسم المختص في   إدارة الحج العامة    .",
+      "text_for_index": "إعداد جداول تفصيلية عن الحجاج القادمين بالبواخر والطائرات تشمل تواريخ وصولهم، ومواعيد سفرهم من إلى مكة المكرمة والمدينة المنورة، مع تواريخ عودتهم من المدينة إلى مكة، وذلك بمعاونة القسم المختص في إدارة الحج العامة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "إعداد جداول تفصيلية عن الحجاج القادمين بالبواخر والطائرات تشمل تواريخ وصولهم، ومواعيد سفرهم من إلى مكة المكرمة والمدينة المنورة، مع تواريخ عودتهم من المدينة إلى مكة، وذلك بمعاونة القسم المختص في   إدارة الحج العامة    .",
+          "text_for_index": "إعداد جداول تفصيلية عن الحجاج القادمين بالبواخر والطائرات تشمل تواريخ وصولهم، ومواعيد سفرهم من إلى مكة المكرمة والمدينة المنورة، مع تواريخ عودتهم من المدينة إلى مكة، وذلك بمعاونة القسم المختص في إدارة الحج العامة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة التاسعة عشرة",
+      "text_verbatim": "اتخاذ سجل خاص للحجاج المرحلين من قبلها يوضح فيه أجناسهم والشركات التي نقلتهم، مع التفصيلات اللازمة ويجب أن يتم ذلك حال ترحليهم فورا بدون تأخير.",
+      "text_for_index": "اتخاذ سجل خاص للحجاج المرحلين من قبلها يوضح فيه أجناسهم والشركات التي نقلتهم، مع التفصيلات اللازمة ويجب أن يتم ذلك حال ترحليهم فورا بدون تأخير.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "اتخاذ سجل خاص للحجاج المرحلين من قبلها يوضح فيه أجناسهم والشركات التي نقلتهم، مع التفصيلات اللازمة ويجب أن يتم ذلك حال ترحليهم فورا بدون تأخير.",
+          "text_for_index": "اتخاذ سجل خاص للحجاج المرحلين من قبلها يوضح فيه أجناسهم والشركات التي نقلتهم، مع التفصيلات اللازمة ويجب أن يتم ذلك حال ترحليهم فورا بدون تأخير.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة العشرون",
+      "text_verbatim": "وضع الترتيب اللازم لنقل الحجاج إلى عرفات والعودة منها، على أن يكون معدا في غرة ذي الحجة على أساس العدد الوارد منهم فعلا، مع تقدير العدد المحتمل وروده بنسبة تخمينية، ويعرض على لجنة مكونة من مندوب عن   وزارة الداخلية       ومدير الأمن العام       ومدير الحج العام     للنظر فيه وإقراره .",
+      "text_for_index": "وضع الترتيب اللازم لنقل الحجاج إلى عرفات والعودة منها، على أن يكون معدا في غرة ذي الحجة على أساس العدد الوارد منهم فعلا، مع تقدير العدد المحتمل وروده بنسبة تخمينية، ويعرض على لجنة مكونة من مندوب عن وزارة الداخلية ومدير الأمن العام ومدير الحج العام للنظر فيه وإقراره .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "وضع الترتيب اللازم لنقل الحجاج إلى عرفات والعودة منها، على أن يكون معدا في غرة ذي الحجة على أساس العدد الوارد منهم فعلا، مع تقدير العدد المحتمل وروده بنسبة تخمينية، ويعرض على لجنة مكونة من مندوب عن   وزارة الداخلية       ومدير الأمن العام       ومدير الحج العام     للنظر فيه وإقراره .",
+          "text_for_index": "وضع الترتيب اللازم لنقل الحجاج إلى عرفات والعودة منها، على أن يكون معدا في غرة ذي الحجة على أساس العدد الوارد منهم فعلا، مع تقدير العدد المحتمل وروده بنسبة تخمينية، ويعرض على لجنة مكونة من مندوب عن وزارة الداخلية ومدير الأمن العام ومدير الحج العام للنظر فيه وإقراره .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الحادية والعشرون",
+      "text_verbatim": "وضع تعليمات خاصة بالمهندسين والسائقين ومعاونيهم، تشمل ما لكل منهم وما عليه من واجبات وحقوق بالنسبة للجهات والشركات التي يعملون لديها وينتخبون من يمثلهم في النقابة حين وضع هذه التعليمات.",
+      "text_for_index": "وضع تعليمات خاصة بالمهندسين والسائقين ومعاونيهم، تشمل ما لكل منهم وما عليه من واجبات وحقوق بالنسبة للجهات والشركات التي يعملون لديها وينتخبون من يمثلهم في النقابة حين وضع هذه التعليمات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "وضع تعليمات خاصة بالمهندسين والسائقين ومعاونيهم، تشمل ما لكل منهم وما عليه من واجبات وحقوق بالنسبة للجهات والشركات التي يعملون لديها وينتخبون من يمثلهم في النقابة حين وضع هذه التعليمات.",
+          "text_for_index": "وضع تعليمات خاصة بالمهندسين والسائقين ومعاونيهم، تشمل ما لكل منهم وما عليه من واجبات وحقوق بالنسبة للجهات والشركات التي يعملون لديها وينتخبون من يمثلهم في النقابة حين وضع هذه التعليمات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية والعشرون",
+      "text_verbatim": "يعتبر رئيس النقابة والموظفون المرتبطون به في المركز الرئيسي والفروع التابعة له مع أعضاء هيئة النقابة مسؤولين بالتسلسل أمام الجهة الحكومية المختصة عن جميع الأعمال المناطة بهم فيما يتعلق بشئون نقل الحجاج المدرجة في هذا النظام، كل ضمن نطاق عمله واختصاصه الذي تحدده التعليمات الداخلية التي تضعها النقابة.",
+      "text_for_index": "يعتبر رئيس النقابة والموظفون المرتبطون به في المركز الرئيسي والفروع التابعة له مع أعضاء هيئة النقابة مسؤولين بالتسلسل أمام الجهة الحكومية المختصة عن جميع الأعمال المناطة بهم فيما يتعلق بشئون نقل الحجاج المدرجة في هذا النظام، كل ضمن نطاق عمله واختصاصه الذي تحدده التعليمات الداخلية التي تضعها النقابة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يعتبر رئيس النقابة والموظفون المرتبطون به في المركز الرئيسي والفروع التابعة له مع أعضاء هيئة النقابة مسؤولين بالتسلسل أمام الجهة الحكومية المختصة عن جميع الأعمال المناطة بهم فيما يتعلق بشئون نقل الحجاج المدرجة في هذا النظام، كل ضمن نطاق عمله واختصاصه الذي تحدده التعليمات الداخلية التي تضعها النقابة.",
+          "text_for_index": "يعتبر رئيس النقابة والموظفون المرتبطون به في المركز الرئيسي والفروع التابعة له مع أعضاء هيئة النقابة مسؤولين بالتسلسل أمام الجهة الحكومية المختصة عن جميع الأعمال المناطة بهم فيما يتعلق بشئون نقل الحجاج المدرجة في هذا النظام، كل ضمن نطاق عمله واختصاصه الذي تحدده التعليمات الداخلية التي تضعها النقابة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة والعشرون",
+      "text_verbatim": "تكون اجتماعات هيئة النقابة متصلة في موسم الحج للنظر في صالح نقل الحجاج ومسايرة حركات العمل، وتخضع هذه الاجتماعات لنظام الهيئات والمجالس الرسمية.",
+      "text_for_index": "تكون اجتماعات هيئة النقابة متصلة في موسم الحج للنظر في صالح نقل الحجاج ومسايرة حركات العمل، وتخضع هذه الاجتماعات لنظام الهيئات والمجالس الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكون اجتماعات هيئة النقابة متصلة في موسم الحج للنظر في صالح نقل الحجاج ومسايرة حركات العمل، وتخضع هذه الاجتماعات لنظام الهيئات والمجالس الرسمية.",
+          "text_for_index": "تكون اجتماعات هيئة النقابة متصلة في موسم الحج للنظر في صالح نقل الحجاج ومسايرة حركات العمل، وتخضع هذه الاجتماعات لنظام الهيئات والمجالس الرسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة والعشرون",
+      "text_verbatim": "تكون التبليغات والمخابرات بين مركز النقابة وفروعها وبينها وبين   إدارة الحج     بموجب تحارير ذات رقم مسلسل وقيد وتاريخ وما دعت سرعة العمل إلى تبليغه تليفونيا يجب أن يؤكد كتابيا.",
+      "text_for_index": "تكون التبليغات والمخابرات بين مركز النقابة وفروعها وبينها وبين إدارة الحج بموجب تحارير ذات رقم مسلسل وقيد وتاريخ وما دعت سرعة العمل إلى تبليغه تليفونيا يجب أن يؤكد كتابيا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تكون التبليغات والمخابرات بين مركز النقابة وفروعها وبينها وبين   إدارة الحج     بموجب تحارير ذات رقم مسلسل وقيد وتاريخ وما دعت سرعة العمل إلى تبليغه تليفونيا يجب أن يؤكد كتابيا.",
+          "text_for_index": "تكون التبليغات والمخابرات بين مركز النقابة وفروعها وبينها وبين إدارة الحج بموجب تحارير ذات رقم مسلسل وقيد وتاريخ وما دعت سرعة العمل إلى تبليغه تليفونيا يجب أن يؤكد كتابيا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخامسة والعشرون",
+      "text_verbatim": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يكون للشركة المسجلة في النقابة حق النقل وفقا لما ورد في المادة (السادسة والعشرين) من هذا النظام.\"",
+      "text_for_index": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يكون للشركة المسجلة في النقابة حق النقل وفقا لما ورد في المادة (السادسة والعشرين) من هذا النظام.\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "text_for_index": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-25::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\" يكون للشركة المسجلة في النقابة حق النقل وفقا لما ورد في المادة (السادسة والعشرين) من هذا النظام.\"",
+          "text_for_index": "\" يكون للشركة المسجلة في النقابة حق النقل وفقا لما ورد في المادة (السادسة والعشرين) من هذا النظام.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السادسة والعشرون",
+      "text_verbatim": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ،  لتصبح بالنص التالى :\n\n\" تتولى   وزارة الحج     وضع الآلية المناسبة لتوزيع الحجاج على شركات النقل المسجلة لدى النقابة بما يتناسب مع متطلبات كل موسم، وبما يضمن نقل الحجاج كافة ويوفر الراحة لهم.\"",
+      "text_for_index": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" تتولى وزارة الحج وضع الآلية المناسبة لتوزيع الحجاج على شركات النقل المسجلة لدى النقابة بما يتناسب مع متطلبات كل موسم، وبما يضمن نقل الحجاج كافة ويوفر الراحة لهم.\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ،  لتصبح بالنص التالى :",
+          "text_for_index": "عُدِّلت هذه المادة بموجب المرسوم الملكي رقم (م/21 ) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-26::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "\" تتولى   وزارة الحج     وضع الآلية المناسبة لتوزيع الحجاج على شركات النقل المسجلة لدى النقابة بما يتناسب مع متطلبات كل موسم، وبما يضمن نقل الحجاج كافة ويوفر الراحة لهم.\"",
+          "text_for_index": "\" تتولى وزارة الحج وضع الآلية المناسبة لتوزيع الحجاج على شركات النقل المسجلة لدى النقابة بما يتناسب مع متطلبات كل موسم، وبما يضمن نقل الحجاج كافة ويوفر الراحة لهم.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السابعة والعشرون",
+      "text_verbatim": "على النقابة قبل إحالة الحجاج إلى أية شركة أن تتأكد من استعداد تلك الشركة لنقل ما يحال إليها فورا، وفي حالة وقوع أي تأخير من تلك الشركة تسقط حصتها في النقل لتلك المرة فقط فيما عدا خط عرفات.",
+      "text_for_index": "على النقابة قبل إحالة الحجاج إلى أية شركة أن تتأكد من استعداد تلك الشركة لنقل ما يحال إليها فورا، وفي حالة وقوع أي تأخير من تلك الشركة تسقط حصتها في النقل لتلك المرة فقط فيما عدا خط عرفات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على النقابة قبل إحالة الحجاج إلى أية شركة أن تتأكد من استعداد تلك الشركة لنقل ما يحال إليها فورا، وفي حالة وقوع أي تأخير من تلك الشركة تسقط حصتها في النقل لتلك المرة فقط فيما عدا خط عرفات.",
+          "text_for_index": "على النقابة قبل إحالة الحجاج إلى أية شركة أن تتأكد من استعداد تلك الشركة لنقل ما يحال إليها فورا، وفي حالة وقوع أي تأخير من تلك الشركة تسقط حصتها في النقل لتلك المرة فقط فيما عدا خط عرفات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثامنة والعشرون",
+      "text_verbatim": "على النقابة في حالة عجز أية شركة عن نقل بعض الحمولة المحالة إليها في خط عرفات أن تقوم باستئجار السيارات اللازمة لنقل تلك الحمولة وتعود بالأجرة المدفوعة مضاعفة على تلك الشركة، ويكون الفائض من ذلك ضمن واردات النقابة.",
+      "text_for_index": "على النقابة في حالة عجز أية شركة عن نقل بعض الحمولة المحالة إليها في خط عرفات أن تقوم باستئجار السيارات اللازمة لنقل تلك الحمولة وتعود بالأجرة المدفوعة مضاعفة على تلك الشركة، ويكون الفائض من ذلك ضمن واردات النقابة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "على النقابة في حالة عجز أية شركة عن نقل بعض الحمولة المحالة إليها في خط عرفات أن تقوم باستئجار السيارات اللازمة لنقل تلك الحمولة وتعود بالأجرة المدفوعة مضاعفة على تلك الشركة، ويكون الفائض من ذلك ضمن واردات النقابة.",
+          "text_for_index": "على النقابة في حالة عجز أية شركة عن نقل بعض الحمولة المحالة إليها في خط عرفات أن تقوم باستئجار السيارات اللازمة لنقل تلك الحمولة وتعود بالأجرة المدفوعة مضاعفة على تلك الشركة، ويكون الفائض من ذلك ضمن واردات النقابة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة التاسعة والعشرون",
+      "text_verbatim": "على كل شركة أن تقوم بنقل الحجاج المحالين إليها من النقابة في خلال مدة لا تتجاوز اثنتي عشرة ساعة على أكبر تقدير.",
+      "text_for_index": "على كل شركة أن تقوم بنقل الحجاج المحالين إليها من النقابة في خلال مدة لا تتجاوز اثنتي عشرة ساعة على أكبر تقدير.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على كل شركة أن تقوم بنقل الحجاج المحالين إليها من النقابة في خلال مدة لا تتجاوز اثنتي عشرة ساعة على أكبر تقدير.",
+          "text_for_index": "على كل شركة أن تقوم بنقل الحجاج المحالين إليها من النقابة في خلال مدة لا تتجاوز اثنتي عشرة ساعة على أكبر تقدير.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثلاثون",
+      "text_verbatim": "يتم نقل الحجاج من قبل الشركات بموجب اعتمادات مطبوعة متسلسلة تعطى من النقابة ويوضح فيها عدد الحجاج وأجناسهم وعدد الكبار منهم والأنصاف والأطفال ووجهة سفرهم وأسماء وكلائهم ومطوفهم مع إيضاح ما إذا كانت الرحلة مرجعة أو ذهابا فقط.",
+      "text_for_index": "يتم نقل الحجاج من قبل الشركات بموجب اعتمادات مطبوعة متسلسلة تعطى من النقابة ويوضح فيها عدد الحجاج وأجناسهم وعدد الكبار منهم والأنصاف والأطفال ووجهة سفرهم وأسماء وكلائهم ومطوفهم مع إيضاح ما إذا كانت الرحلة مرجعة أو ذهابا فقط.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يتم نقل الحجاج من قبل الشركات بموجب اعتمادات مطبوعة متسلسلة تعطى من النقابة ويوضح فيها عدد الحجاج وأجناسهم وعدد الكبار منهم والأنصاف والأطفال ووجهة سفرهم وأسماء وكلائهم ومطوفهم مع إيضاح ما إذا كانت الرحلة مرجعة أو ذهابا فقط.",
+          "text_for_index": "يتم نقل الحجاج من قبل الشركات بموجب اعتمادات مطبوعة متسلسلة تعطى من النقابة ويوضح فيها عدد الحجاج وأجناسهم وعدد الكبار منهم والأنصاف والأطفال ووجهة سفرهم وأسماء وكلائهم ومطوفهم مع إيضاح ما إذا كانت الرحلة مرجعة أو ذهابا فقط.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الحادية والثلاثون",
+      "text_verbatim": "يجب أن يتم ترتيب نقل الحجاج من مكة بعد انتهاء نسك الحج في خلال أيام التشريق حسب نظام الأفواج المتبع.",
+      "text_for_index": "يجب أن يتم ترتيب نقل الحجاج من مكة بعد انتهاء نسك الحج في خلال أيام التشريق حسب نظام الأفواج المتبع.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب أن يتم ترتيب نقل الحجاج من مكة بعد انتهاء نسك الحج في خلال أيام التشريق حسب نظام الأفواج المتبع.",
+          "text_for_index": "يجب أن يتم ترتيب نقل الحجاج من مكة بعد انتهاء نسك الحج في خلال أيام التشريق حسب نظام الأفواج المتبع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية والثلاثون",
+      "text_verbatim": "يجب على كل شركة ترغب في المساهمة في نقل الحجاج أن تتقدم أولا إلى النقابة بطلب تسجيلها وفق الشروط المنصوص عليها في هذا النظام على أن يسبق هذا الطلب تسجيلها لدى   كاتب العدل     بموجب نظام الشركات.",
+      "text_for_index": "يجب على كل شركة ترغب في المساهمة في نقل الحجاج أن تتقدم أولا إلى النقابة بطلب تسجيلها وفق الشروط المنصوص عليها في هذا النظام على أن يسبق هذا الطلب تسجيلها لدى كاتب العدل بموجب نظام الشركات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على كل شركة ترغب في المساهمة في نقل الحجاج أن تتقدم أولا إلى النقابة بطلب تسجيلها وفق الشروط المنصوص عليها في هذا النظام على أن يسبق هذا الطلب تسجيلها لدى   كاتب العدل     بموجب نظام الشركات.",
+          "text_for_index": "يجب على كل شركة ترغب في المساهمة في نقل الحجاج أن تتقدم أولا إلى النقابة بطلب تسجيلها وفق الشروط المنصوص عليها في هذا النظام على أن يسبق هذا الطلب تسجيلها لدى كاتب العدل بموجب نظام الشركات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة والثلاثون",
+      "text_verbatim": "يجب على الشركة طالبة التسجيل أن تقدم مع طلبها وثيقة تسجيل كاتب العدل    .",
+      "text_for_index": "يجب على الشركة طالبة التسجيل أن تقدم مع طلبها وثيقة تسجيل كاتب العدل .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على الشركة طالبة التسجيل أن تقدم مع طلبها وثيقة تسجيل كاتب العدل    .",
+          "text_for_index": "يجب على الشركة طالبة التسجيل أن تقدم مع طلبها وثيقة تسجيل كاتب العدل .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة والثلاثون",
+      "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يشترط لتسجيل أية شركة في  نقابة السيارات    أن يكون الحد الأدنى لسياراتها خمسين سيارة، مع مراعاة ألا تقل نسبة الحافلات الكبيرة من هذا العدد عن ثمانين بالمائة.\"",
+      "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يشترط لتسجيل أية شركة في نقابة السيارات أن يكون الحد الأدنى لسياراتها خمسين سيارة، مع مراعاة ألا تقل نسبة الحافلات الكبيرة من هذا العدد عن ثمانين بالمائة.\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-34::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "\" يشترط لتسجيل أية شركة في  نقابة السيارات    أن يكون الحد الأدنى لسياراتها خمسين سيارة، مع مراعاة ألا تقل نسبة الحافلات الكبيرة من هذا العدد عن ثمانين بالمائة.\"",
+          "text_for_index": "\" يشترط لتسجيل أية شركة في نقابة السيارات أن يكون الحد الأدنى لسياراتها خمسين سيارة، مع مراعاة ألا تقل نسبة الحافلات الكبيرة من هذا العدد عن ثمانين بالمائة.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخامسة والثلاثون",
+      "text_verbatim": "يحق لكل شركة مسجلة في النقابة استيراد سيارات جديدة علاوة على موجودها المسجل مع مراعاة ما جاء في المادة (34) وتطبق عليها شرائط الكشف المدرجة في هذا النظام.",
+      "text_for_index": "يحق لكل شركة مسجلة في النقابة استيراد سيارات جديدة علاوة على موجودها المسجل مع مراعاة ما جاء في المادة (34) وتطبق عليها شرائط الكشف المدرجة في هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يحق لكل شركة مسجلة في النقابة استيراد سيارات جديدة علاوة على موجودها المسجل مع مراعاة ما جاء في المادة (34) وتطبق عليها شرائط الكشف المدرجة في هذا النظام.",
+          "text_for_index": "يحق لكل شركة مسجلة في النقابة استيراد سيارات جديدة علاوة على موجودها المسجل مع مراعاة ما جاء في المادة (34) وتطبق عليها شرائط الكشف المدرجة في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السادسة والثلاثون",
+      "text_verbatim": "يجب على كل شركة أن تعين مديرا مسؤولا في مركزها الرئيسي ووكلاء في فروعها ابتداء من أول الموسم حتى نهايته وتقدم أسماءهم إلى النقابة ليكونوا معتمدين لديها.",
+      "text_for_index": "يجب على كل شركة أن تعين مديرا مسؤولا في مركزها الرئيسي ووكلاء في فروعها ابتداء من أول الموسم حتى نهايته وتقدم أسماءهم إلى النقابة ليكونوا معتمدين لديها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على كل شركة أن تعين مديرا مسؤولا في مركزها الرئيسي ووكلاء في فروعها ابتداء من أول الموسم حتى نهايته وتقدم أسماءهم إلى النقابة ليكونوا معتمدين لديها.",
+          "text_for_index": "يجب على كل شركة أن تعين مديرا مسؤولا في مركزها الرئيسي ووكلاء في فروعها ابتداء من أول الموسم حتى نهايته وتقدم أسماءهم إلى النقابة ليكونوا معتمدين لديها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السابعة والثلاثون",
+      "text_verbatim": "يشترط في المدير والوكلاء أن يكونوا سعوديين ويعتبرون مسئولين عن الشركات التي يمثلونها في جميع الإجراءات المتعلقة بنقل الحجاج.",
+      "text_for_index": "يشترط في المدير والوكلاء أن يكونوا سعوديين ويعتبرون مسئولين عن الشركات التي يمثلونها في جميع الإجراءات المتعلقة بنقل الحجاج.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يشترط في المدير والوكلاء أن يكونوا سعوديين ويعتبرون مسئولين عن الشركات التي يمثلونها في جميع الإجراءات المتعلقة بنقل الحجاج.",
+          "text_for_index": "يشترط في المدير والوكلاء أن يكونوا سعوديين ويعتبرون مسئولين عن الشركات التي يمثلونها في جميع الإجراءات المتعلقة بنقل الحجاج.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثامنة والثلاثون",
+      "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي  رقم (م/9) وتاريخ 20 / 4 / 1407 هـ ، لتصبح بالنص التالى :\n\n\"يجب على كل شركة أن تقدم للنقابة بيانا بعدد سياراتها موضحا به أصناف تلك السيارات وعدد المقاعد لكل سيارة في موعد لا يتجاوز نهاية شهر شوال من كل عام .\"",
+      "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/9) وتاريخ 20 / 4 / 1407 هـ ، لتصبح بالنص التالى :\n\n\"يجب على كل شركة أن تقدم للنقابة بيانا بعدد سياراتها موضحا به أصناف تلك السيارات وعدد المقاعد لكل سيارة في موعد لا يتجاوز نهاية شهر شوال من كل عام .\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي  رقم (م/9) وتاريخ 20 / 4 / 1407 هـ ، لتصبح بالنص التالى :",
+          "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/9) وتاريخ 20 / 4 / 1407 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-38::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "\"يجب على كل شركة أن تقدم للنقابة بيانا بعدد سياراتها موضحا به أصناف تلك السيارات وعدد المقاعد لكل سيارة في موعد لا يتجاوز نهاية شهر شوال من كل عام .\"",
+          "text_for_index": "\"يجب على كل شركة أن تقدم للنقابة بيانا بعدد سياراتها موضحا به أصناف تلك السيارات وعدد المقاعد لكل سيارة في موعد لا يتجاوز نهاية شهر شوال من كل عام .\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة التاسعة والثلاثون",
+      "text_verbatim": "يجب على كل شركة أن تعين مركزا لإسعاف السيارات في كل من رابغ والمسجيد في طريق المدينة المنورة مزودة بالوقود والأدوات الاحتياطية والكفرات واللساتك وبمهندس خاص للإصلاح مع سيارة احتياطية خالية على أن يتم ذلك بترتيب وإشراف النقابة.",
+      "text_for_index": "يجب على كل شركة أن تعين مركزا لإسعاف السيارات في كل من رابغ والمسجيد في طريق المدينة المنورة مزودة بالوقود والأدوات الاحتياطية والكفرات واللساتك وبمهندس خاص للإصلاح مع سيارة احتياطية خالية على أن يتم ذلك بترتيب وإشراف النقابة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على كل شركة أن تعين مركزا لإسعاف السيارات في كل من رابغ والمسجيد في طريق المدينة المنورة مزودة بالوقود والأدوات الاحتياطية والكفرات واللساتك وبمهندس خاص للإصلاح مع سيارة احتياطية خالية على أن يتم ذلك بترتيب وإشراف النقابة.",
+          "text_for_index": "يجب على كل شركة أن تعين مركزا لإسعاف السيارات في كل من رابغ والمسجيد في طريق المدينة المنورة مزودة بالوقود والأدوات الاحتياطية والكفرات واللساتك وبمهندس خاص للإصلاح مع سيارة احتياطية خالية على أن يتم ذلك بترتيب وإشراف النقابة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون",
+      "article_heading": "الأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الأربعون",
+      "text_verbatim": "يجب على كل شركة أن توجد لديها المراكز المؤقتة اللازمة في كل من عرفات ومنى وتكون مستعدة للعمل ابتداء من اليوم الخامس في شهر ذي الحجة ومزودة بكافة الاستعدادات اللازمة.",
+      "text_for_index": "يجب على كل شركة أن توجد لديها المراكز المؤقتة اللازمة في كل من عرفات ومنى وتكون مستعدة للعمل ابتداء من اليوم الخامس في شهر ذي الحجة ومزودة بكافة الاستعدادات اللازمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على كل شركة أن توجد لديها المراكز المؤقتة اللازمة في كل من عرفات ومنى وتكون مستعدة للعمل ابتداء من اليوم الخامس في شهر ذي الحجة ومزودة بكافة الاستعدادات اللازمة.",
+          "text_for_index": "يجب على كل شركة أن توجد لديها المراكز المؤقتة اللازمة في كل من عرفات ومنى وتكون مستعدة للعمل ابتداء من اليوم الخامس في شهر ذي الحجة ومزودة بكافة الاستعدادات اللازمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الحادية والأربعون",
+      "text_verbatim": "يجب على الشركات أن تزود كل قافلة من قوافل الحجاج إلى المدينة المنورة بسيارة أوتوبيس خالية للاحتياط بسيارة أخرى لوري للمهندس والمندوبين الرسميين على أن تضع النقابة الترتيب اللازم لذلك.",
+      "text_for_index": "يجب على الشركات أن تزود كل قافلة من قوافل الحجاج إلى المدينة المنورة بسيارة أوتوبيس خالية للاحتياط بسيارة أخرى لوري للمهندس والمندوبين الرسميين على أن تضع النقابة الترتيب اللازم لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على الشركات أن تزود كل قافلة من قوافل الحجاج إلى المدينة المنورة بسيارة أوتوبيس خالية للاحتياط بسيارة أخرى لوري للمهندس والمندوبين الرسميين على أن تضع النقابة الترتيب اللازم لذلك.",
+          "text_for_index": "يجب على الشركات أن تزود كل قافلة من قوافل الحجاج إلى المدينة المنورة بسيارة أوتوبيس خالية للاحتياط بسيارة أخرى لوري للمهندس والمندوبين الرسميين على أن تضع النقابة الترتيب اللازم لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية والأربعون",
+      "text_verbatim": "يجب على كل شركة أن تراعي تزويد كل سيارة مخصصة لنقل الحجاج بما يأتي:\n\nأ ) بأوعية الماء (القرب – والفناطيس).\nب ) بالكفر واللستك الاحتياطي والآلة الرافعة مع العدة الاحتياطية الضرورية.\nج ) بالحبال الثابتة ولوازمها الكاملة لربط الأمتعة.",
+      "text_for_index": "يجب على كل شركة أن تراعي تزويد كل سيارة مخصصة لنقل الحجاج بما يأتي:\n\nأ ) بأوعية الماء (القرب – والفناطيس).\nب ) بالكفر واللستك الاحتياطي والآلة الرافعة مع العدة الاحتياطية الضرورية.\nج ) بالحبال الثابتة ولوازمها الكاملة لربط الأمتعة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على كل شركة أن تراعي تزويد كل سيارة مخصصة لنقل الحجاج بما يأتي:",
+          "text_for_index": "يجب على كل شركة أن تراعي تزويد كل سيارة مخصصة لنقل الحجاج بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-42::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ ) بأوعية الماء (القرب – والفناطيس).\nب ) بالكفر واللستك الاحتياطي والآلة الرافعة مع العدة الاحتياطية الضرورية.\nج ) بالحبال الثابتة ولوازمها الكاملة لربط الأمتعة.",
+          "text_for_index": "أ ) بأوعية الماء (القرب – والفناطيس).\nب ) بالكفر واللستك الاحتياطي والآلة الرافعة مع العدة الاحتياطية الضرورية.\nج ) بالحبال الثابتة ولوازمها الكاملة لربط الأمتعة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة والأربعون",
+      "text_verbatim": "يجب على الشركات أن تخضع للأوامر الحكومية فيما يختص بأمتعة الحجاج وإقامتهم في المدينة المنورة، وفيما يختص بالأجور المستحقة إعادتها للحجاج، وتبديل درجات الركوب.",
+      "text_for_index": "يجب على الشركات أن تخضع للأوامر الحكومية فيما يختص بأمتعة الحجاج وإقامتهم في المدينة المنورة، وفيما يختص بالأجور المستحقة إعادتها للحجاج، وتبديل درجات الركوب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على الشركات أن تخضع للأوامر الحكومية فيما يختص بأمتعة الحجاج وإقامتهم في المدينة المنورة، وفيما يختص بالأجور المستحقة إعادتها للحجاج، وتبديل درجات الركوب.",
+          "text_for_index": "يجب على الشركات أن تخضع للأوامر الحكومية فيما يختص بأمتعة الحجاج وإقامتهم في المدينة المنورة، وفيما يختص بالأجور المستحقة إعادتها للحجاج، وتبديل درجات الركوب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة والأربعون",
+      "text_verbatim": "يجب أن تقدم كل شركة بيانا يوميا للنقابة بسيارات الحجاج المرحلين من قبلها إلى المدينة المنورة وعددهم وجنسياتهم للاحتفاظ به لدى النقابة والوقوف على حركات الحجاج من قبل جهات الاختصاص.",
+      "text_for_index": "يجب أن تقدم كل شركة بيانا يوميا للنقابة بسيارات الحجاج المرحلين من قبلها إلى المدينة المنورة وعددهم وجنسياتهم للاحتفاظ به لدى النقابة والوقوف على حركات الحجاج من قبل جهات الاختصاص.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن تقدم كل شركة بيانا يوميا للنقابة بسيارات الحجاج المرحلين من قبلها إلى المدينة المنورة وعددهم وجنسياتهم للاحتفاظ به لدى النقابة والوقوف على حركات الحجاج من قبل جهات الاختصاص.",
+          "text_for_index": "يجب أن تقدم كل شركة بيانا يوميا للنقابة بسيارات الحجاج المرحلين من قبلها إلى المدينة المنورة وعددهم وجنسياتهم للاحتفاظ به لدى النقابة والوقوف على حركات الحجاج من قبل جهات الاختصاص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخامسة والأربعون",
+      "text_verbatim": "يجري الكشف المنوه عنه في المادتين (11 و 12) سنويا من قبل النقابة ابتداء من شهر جمادى الأولى حتى نهاية رجب.",
+      "text_for_index": "يجري الكشف المنوه عنه في المادتين (11 و 12) سنويا من قبل النقابة ابتداء من شهر جمادى الأولى حتى نهاية رجب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجري الكشف المنوه عنه في المادتين (11 و 12) سنويا من قبل النقابة ابتداء من شهر جمادى الأولى حتى نهاية رجب.",
+          "text_for_index": "يجري الكشف المنوه عنه في المادتين (11 و 12) سنويا من قبل النقابة ابتداء من شهر جمادى الأولى حتى نهاية رجب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السادسة والأربعون",
+      "text_verbatim": "يكون الكشف في المركز الرئيسي لعمل كل شركة باشعار من النقابة بعد أن تتقدم الشركة إليها بطلب كتابي مسجل.",
+      "text_for_index": "يكون الكشف في المركز الرئيسي لعمل كل شركة باشعار من النقابة بعد أن تتقدم الشركة إليها بطلب كتابي مسجل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون الكشف في المركز الرئيسي لعمل كل شركة باشعار من النقابة بعد أن تتقدم الشركة إليها بطلب كتابي مسجل.",
+          "text_for_index": "يكون الكشف في المركز الرئيسي لعمل كل شركة باشعار من النقابة بعد أن تتقدم الشركة إليها بطلب كتابي مسجل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السابعة والأربعون",
+      "text_verbatim": "تقدم الشركة السابقة في الطلب على غيرها في الكشف، وفي حال ورود طلبات متعددة إلى النقابة في تاريخ واحد يقرع بينها في الأولية.",
+      "text_for_index": "تقدم الشركة السابقة في الطلب على غيرها في الكشف، وفي حال ورود طلبات متعددة إلى النقابة في تاريخ واحد يقرع بينها في الأولية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تقدم الشركة السابقة في الطلب على غيرها في الكشف، وفي حال ورود طلبات متعددة إلى النقابة في تاريخ واحد يقرع بينها في الأولية.",
+          "text_for_index": "تقدم الشركة السابقة في الطلب على غيرها في الكشف، وفي حال ورود طلبات متعددة إلى النقابة في تاريخ واحد يقرع بينها في الأولية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 48,
+      "article_label": "الثامنة والأربعون",
+      "article_label_raw": "الثامنة والأربعون",
+      "article_heading": "الثامنة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثامنة والأربعون",
+      "text_verbatim": "إذا ظهر للجنة الكشف عدم صلاح سيارة بعد الكشف عليها تحرر محضرا بذلك توضح فيه الأسباب، وما إذا كانت قابلة للإصلاح أم لا، وما يمكن إصلاحه تكلف الشركة بإصلاحه وإعادته للكشف قبل نهاية رجب.",
+      "text_for_index": "إذا ظهر للجنة الكشف عدم صلاح سيارة بعد الكشف عليها تحرر محضرا بذلك توضح فيه الأسباب، وما إذا كانت قابلة للإصلاح أم لا، وما يمكن إصلاحه تكلف الشركة بإصلاحه وإعادته للكشف قبل نهاية رجب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-48::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "إذا ظهر للجنة الكشف عدم صلاح سيارة بعد الكشف عليها تحرر محضرا بذلك توضح فيه الأسباب، وما إذا كانت قابلة للإصلاح أم لا، وما يمكن إصلاحه تكلف الشركة بإصلاحه وإعادته للكشف قبل نهاية رجب.",
+          "text_for_index": "إذا ظهر للجنة الكشف عدم صلاح سيارة بعد الكشف عليها تحرر محضرا بذلك توضح فيه الأسباب، وما إذا كانت قابلة للإصلاح أم لا، وما يمكن إصلاحه تكلف الشركة بإصلاحه وإعادته للكشف قبل نهاية رجب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 49,
+      "article_label": "التاسعة والأربعون",
+      "article_label_raw": "التاسعة والأربعون",
+      "article_heading": "التاسعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة التاسعة والأربعون",
+      "text_verbatim": "لا تحسب حمولة ما يكون تحت الإصلاح إلا بعد تصديق اللجنة على صلاحه في كشف ثاني تقرره اللجنة ضمن المدة المقررة واعتبارا من تاريخ هذا التصديق.",
+      "text_for_index": "لا تحسب حمولة ما يكون تحت الإصلاح إلا بعد تصديق اللجنة على صلاحه في كشف ثاني تقرره اللجنة ضمن المدة المقررة واعتبارا من تاريخ هذا التصديق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-49::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا تحسب حمولة ما يكون تحت الإصلاح إلا بعد تصديق اللجنة على صلاحه في كشف ثاني تقرره اللجنة ضمن المدة المقررة واعتبارا من تاريخ هذا التصديق.",
+          "text_for_index": "لا تحسب حمولة ما يكون تحت الإصلاح إلا بعد تصديق اللجنة على صلاحه في كشف ثاني تقرره اللجنة ضمن المدة المقررة واعتبارا من تاريخ هذا التصديق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 50,
+      "article_label": "الخمسون",
+      "article_label_raw": "الخمسون",
+      "article_heading": "الخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخمسون",
+      "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي  رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يستبعد من سجل النقابة نهائيا حمولة كل سيارة تقرر اللجنة عدم صلاحيتها في الكشف الثاني عليها، وتلزم الشركة بإكمال النصاب فيما دون الخمسين سيارة.\"",
+      "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :\n\n\" يستبعد من سجل النقابة نهائيا حمولة كل سيارة تقرر اللجنة عدم صلاحيتها في الكشف الثاني عليها، وتلزم الشركة بإكمال النصاب فيما دون الخمسين سيارة.\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-50::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي  رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/21) وتاريخ 11 / 4 / 1425 هـ ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-50::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\" يستبعد من سجل النقابة نهائيا حمولة كل سيارة تقرر اللجنة عدم صلاحيتها في الكشف الثاني عليها، وتلزم الشركة بإكمال النصاب فيما دون الخمسين سيارة.\"",
+          "text_for_index": "\" يستبعد من سجل النقابة نهائيا حمولة كل سيارة تقرر اللجنة عدم صلاحيتها في الكشف الثاني عليها، وتلزم الشركة بإكمال النصاب فيما دون الخمسين سيارة.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 51,
+      "article_label": "الحادية والخمسون",
+      "article_label_raw": "الحادية والخمسون",
+      "article_heading": "الحادية والخمسون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الحادية والخمسون",
+      "text_verbatim": "يجب أن يلاحظ في تسجيل السيارات الجديدة ما يأتي:\n\n( أ ) السيارات الجديدة التي يتعذر استيرادها قبل انتهاء مدة الكشف الرسمية تسجل حمولتها لشركاتها من تاريخ ورودها وإتمام الكشف عليها، على أن تقدم الشركة المستوردة للسيارات الجديدة ما يثبت طلبها الفعلي للسيارات وفتح اعتماداتها وأسباب التأخير بمستندات قانونية مقبولة لدى النقابة.\n\n( ب ) في حالة قيام الشركة المسجلة بطلب سيارات جديدة لا تحسب لها حمولة السيارات الجديدة إلا بعد ورودها فعلا، وبعد انتهاء الكشف عليها في موعد الكشف على السيارات الجديدة ولا تعطي حصتها من النقل إلا بعد استكمال دورة التوزيع على جميع الشركات، إن كان الدور الحالي للتوزيع قد تخطاها.\n\n( جـ ) أما الشبكات الجديدة التي تقدمت بطلب التسجيل في موعده الرسمي وطلبت بالفعل سياراتها ولم ترد تلك السيارات إلا بعد موعد الكشف الأول فلا تحسب حصتها في النقل بعد ورودها فعلاً إلا بعد إتمام الكشف عليها في استكمال دورة التوزيع على جميع الشركات بحيث يحسب تسلسلها في نهاية الدورة القائمة حينئذ.",
+      "text_for_index": "يجب أن يلاحظ في تسجيل السيارات الجديدة ما يأتي:\n\n( أ ) السيارات الجديدة التي يتعذر استيرادها قبل انتهاء مدة الكشف الرسمية تسجل حمولتها لشركاتها من تاريخ ورودها وإتمام الكشف عليها، على أن تقدم الشركة المستوردة للسيارات الجديدة ما يثبت طلبها الفعلي للسيارات وفتح اعتماداتها وأسباب التأخير بمستندات قانونية مقبولة لدى النقابة.\n\n( ب ) في حالة قيام الشركة المسجلة بطلب سيارات جديدة لا تحسب لها حمولة السيارات الجديدة إلا بعد ورودها فعلا، وبعد انتهاء الكشف عليها في موعد الكشف على السيارات الجديدة ولا تعطي حصتها من النقل إلا بعد استكمال دورة التوزيع على جميع الشركات، إن كان الدور الحالي للتوزيع قد تخطاها.\n\n( جـ ) أما الشبكات الجديدة التي تقدمت بطلب التسجيل في موعده الرسمي وطلبت بالفعل سياراتها ولم ترد تلك السيارات إلا بعد موعد الكشف الأول فلا تحسب حصتها في النقل بعد ورودها فعلاً إلا بعد إتمام الكشف عليها في استكمال دورة التوزيع على جميع الشركات بحيث يحسب تسلسلها في نهاية الدورة القائمة حينئذ.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-51::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن يلاحظ في تسجيل السيارات الجديدة ما يأتي:",
+          "text_for_index": "يجب أن يلاحظ في تسجيل السيارات الجديدة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-51::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "( أ ) السيارات الجديدة التي يتعذر استيرادها قبل انتهاء مدة الكشف الرسمية تسجل حمولتها لشركاتها من تاريخ ورودها وإتمام الكشف عليها، على أن تقدم الشركة المستوردة للسيارات الجديدة ما يثبت طلبها الفعلي للسيارات وفتح اعتماداتها وأسباب التأخير بمستندات قانونية مقبولة لدى النقابة.",
+          "text_for_index": "( أ ) السيارات الجديدة التي يتعذر استيرادها قبل انتهاء مدة الكشف الرسمية تسجل حمولتها لشركاتها من تاريخ ورودها وإتمام الكشف عليها، على أن تقدم الشركة المستوردة للسيارات الجديدة ما يثبت طلبها الفعلي للسيارات وفتح اعتماداتها وأسباب التأخير بمستندات قانونية مقبولة لدى النقابة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-51::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "( ب ) في حالة قيام الشركة المسجلة بطلب سيارات جديدة لا تحسب لها حمولة السيارات الجديدة إلا بعد ورودها فعلا، وبعد انتهاء الكشف عليها في موعد الكشف على السيارات الجديدة ولا تعطي حصتها من النقل إلا بعد استكمال دورة التوزيع على جميع الشركات، إن كان الدور الحالي للتوزيع قد تخطاها.",
+          "text_for_index": "( ب ) في حالة قيام الشركة المسجلة بطلب سيارات جديدة لا تحسب لها حمولة السيارات الجديدة إلا بعد ورودها فعلا، وبعد انتهاء الكشف عليها في موعد الكشف على السيارات الجديدة ولا تعطي حصتها من النقل إلا بعد استكمال دورة التوزيع على جميع الشركات، إن كان الدور الحالي للتوزيع قد تخطاها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-51::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "( جـ ) أما الشبكات الجديدة التي تقدمت بطلب التسجيل في موعده الرسمي وطلبت بالفعل سياراتها ولم ترد تلك السيارات إلا بعد موعد الكشف الأول فلا تحسب حصتها في النقل بعد ورودها فعلاً إلا بعد إتمام الكشف عليها في استكمال دورة التوزيع على جميع الشركات بحيث يحسب تسلسلها في نهاية الدورة القائمة حينئذ.",
+          "text_for_index": "( جـ ) أما الشبكات الجديدة التي تقدمت بطلب التسجيل في موعده الرسمي وطلبت بالفعل سياراتها ولم ترد تلك السيارات إلا بعد موعد الكشف الأول فلا تحسب حصتها في النقل بعد ورودها فعلاً إلا بعد إتمام الكشف عليها في استكمال دورة التوزيع على جميع الشركات بحيث يحسب تسلسلها في نهاية الدورة القائمة حينئذ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 52,
+      "article_label": "الثانية والخمسون",
+      "article_label_raw": "الثانية والخمسون",
+      "article_heading": "الثانية والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية والخمسون",
+      "text_verbatim": "يعتبر آخر موعد لقبول الكشف على السيارات الجديدة المستوردة من الخارج هو نهاية شوال بصفة قاطعة.",
+      "text_for_index": "يعتبر آخر موعد لقبول الكشف على السيارات الجديدة المستوردة من الخارج هو نهاية شوال بصفة قاطعة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-52::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعتبر آخر موعد لقبول الكشف على السيارات الجديدة المستوردة من الخارج هو نهاية شوال بصفة قاطعة.",
+          "text_for_index": "يعتبر آخر موعد لقبول الكشف على السيارات الجديدة المستوردة من الخارج هو نهاية شوال بصفة قاطعة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 53,
+      "article_label": "الثالثة والخمسون",
+      "article_label_raw": "الثالثة والخمسون",
+      "article_heading": "الثالثة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة والخمسون",
+      "text_verbatim": "يبدأ موسم حج كل عام من غرة شهر رجب.",
+      "text_for_index": "يبدأ موسم حج كل عام من غرة شهر رجب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-53::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يبدأ موسم حج كل عام من غرة شهر رجب.",
+          "text_for_index": "يبدأ موسم حج كل عام من غرة شهر رجب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 54,
+      "article_label": "الرابعة والخمسون",
+      "article_label_raw": "الرابعة والخمسون",
+      "article_heading": "الرابعة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة والخمسون",
+      "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي  رقم (م/9) وتاريخ 20 / 4 / 1407 هـ،  لتصبح بالنص التالى :\n\n\"تعتبر نهاية شهر شوال من كل عام آخر موعد لقبول تسجيل الشركات .\"",
+      "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/9) وتاريخ 20 / 4 / 1407 هـ، لتصبح بالنص التالى :\n\n\"تعتبر نهاية شهر شوال من كل عام آخر موعد لقبول تسجيل الشركات .\"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-54::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عدلت هذه المادة بموجب   المرسوم الملكي  رقم (م/9) وتاريخ 20 / 4 / 1407 هـ،  لتصبح بالنص التالى :",
+          "text_for_index": "عدلت هذه المادة بموجب المرسوم الملكي رقم (م/9) وتاريخ 20 / 4 / 1407 هـ، لتصبح بالنص التالى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-54::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "\"تعتبر نهاية شهر شوال من كل عام آخر موعد لقبول تسجيل الشركات .\"",
+          "text_for_index": "\"تعتبر نهاية شهر شوال من كل عام آخر موعد لقبول تسجيل الشركات .\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 55,
+      "article_label": "الخامسة والخمسون",
+      "article_label_raw": "الخامسة والخمسون",
+      "article_heading": "الخامسة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الخامسة والخمسون",
+      "text_verbatim": "إذا بلغ عدد الشركات المخصصة لنقل الحجاج في المستقبل مبلغا يكفي لسد الحاجة إليها فللنقابة أن تتخذ قرارا إجماعيا بإيقاف تسجيل شركات جديدة على أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك. ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي عليه.",
+      "text_for_index": "إذا بلغ عدد الشركات المخصصة لنقل الحجاج في المستقبل مبلغا يكفي لسد الحاجة إليها فللنقابة أن تتخذ قرارا إجماعيا بإيقاف تسجيل شركات جديدة على أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك. ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي عليه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-55::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "إذا بلغ عدد الشركات المخصصة لنقل الحجاج في المستقبل مبلغا يكفي لسد الحاجة إليها فللنقابة أن تتخذ قرارا إجماعيا بإيقاف تسجيل شركات جديدة على أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك. ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي عليه.",
+          "text_for_index": "إذا بلغ عدد الشركات المخصصة لنقل الحجاج في المستقبل مبلغا يكفي لسد الحاجة إليها فللنقابة أن تتخذ قرارا إجماعيا بإيقاف تسجيل شركات جديدة على أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك. ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي عليه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 56,
+      "article_label": "السادسة والخمسون",
+      "article_label_raw": "السادسة والخمسون",
+      "article_heading": "السادسة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السادسة والخمسون",
+      "text_verbatim": "إذا زاد عدد السيارات الجديدة المخصصة لنقل الحجاج على الحد المطلوب فللنقابة أن تتخذ قرارا جماعيا بإيقاف زيادة الحمولات المسجلة للشركات أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك، ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي.",
+      "text_for_index": "إذا زاد عدد السيارات الجديدة المخصصة لنقل الحجاج على الحد المطلوب فللنقابة أن تتخذ قرارا جماعيا بإيقاف زيادة الحمولات المسجلة للشركات أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك، ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-56::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "إذا زاد عدد السيارات الجديدة المخصصة لنقل الحجاج على الحد المطلوب فللنقابة أن تتخذ قرارا جماعيا بإيقاف زيادة الحمولات المسجلة للشركات أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك، ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي.",
+          "text_for_index": "إذا زاد عدد السيارات الجديدة المخصصة لنقل الحجاج على الحد المطلوب فللنقابة أن تتخذ قرارا جماعيا بإيقاف زيادة الحمولات المسجلة للشركات أن توضح في هذا القرار الأسباب التفصيلية الداعية لذلك، ولا يعتبر هذا القرار نافذا إلا بعد تصديق المقام السامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 57,
+      "article_label": "السابعة والخمسون",
+      "article_label_raw": "السابعة والخمسون",
+      "article_heading": "السابعة والخمسون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة السابعة والخمسون",
+      "text_verbatim": "يحسم من صافي استحقاق كل شركة في أجور النقل اثنان في المائة مقابل مصاريف النقابة وفروعها على أن يرد إلى الشركات ما فاض منه بنسبة ما أخذ منها، ويجب أن يرجع على الشركات بالعجز الحاصل في المحسوم ما دام ضمن الميزانية المقررة.",
+      "text_for_index": "يحسم من صافي استحقاق كل شركة في أجور النقل اثنان في المائة مقابل مصاريف النقابة وفروعها على أن يرد إلى الشركات ما فاض منه بنسبة ما أخذ منها، ويجب أن يرجع على الشركات بالعجز الحاصل في المحسوم ما دام ضمن الميزانية المقررة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-57::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يحسم من صافي استحقاق كل شركة في أجور النقل اثنان في المائة مقابل مصاريف النقابة وفروعها على أن يرد إلى الشركات ما فاض منه بنسبة ما أخذ منها، ويجب أن يرجع على الشركات بالعجز الحاصل في المحسوم ما دام ضمن الميزانية المقررة.",
+          "text_for_index": "يحسم من صافي استحقاق كل شركة في أجور النقل اثنان في المائة مقابل مصاريف النقابة وفروعها على أن يرد إلى الشركات ما فاض منه بنسبة ما أخذ منها، ويجب أن يرجع على الشركات بالعجز الحاصل في المحسوم ما دام ضمن الميزانية المقررة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 58,
+      "article_label": "الثامنة والخمسون",
+      "article_label_raw": "الثامنة والخمسون",
+      "article_heading": "الثامنة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثامنة والخمسون",
+      "text_verbatim": "تقوم النقابة بتسليم استحقاق الشركات من أجور نقل الحجاج للأشخاص الذين تختارهم الشركات بموجب وكالة رسمية.",
+      "text_for_index": "تقوم النقابة بتسليم استحقاق الشركات من أجور نقل الحجاج للأشخاص الذين تختارهم الشركات بموجب وكالة رسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-58::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقوم النقابة بتسليم استحقاق الشركات من أجور نقل الحجاج للأشخاص الذين تختارهم الشركات بموجب وكالة رسمية.",
+          "text_for_index": "تقوم النقابة بتسليم استحقاق الشركات من أجور نقل الحجاج للأشخاص الذين تختارهم الشركات بموجب وكالة رسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 59,
+      "article_label": "التاسعة والخمسون",
+      "article_label_raw": "التاسعة والخمسون",
+      "article_heading": "التاسعة والخمسون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة التاسعة والخمسون",
+      "text_verbatim": "يجب أن تلاحظ شركات نقل الحجاج أن يكون استخدام المهندسين والسائقين لديها بعقود رسمية موسمية على الأقل، بمعنى أنه لا يمكن انتقال مهندس أو سائق من شركة إلى أخرى أو ترك العمل طيلة مدة الموسم، ويكون الطرفان ملزمين باحترامه وإنفاذه.",
+      "text_for_index": "يجب أن تلاحظ شركات نقل الحجاج أن يكون استخدام المهندسين والسائقين لديها بعقود رسمية موسمية على الأقل، بمعنى أنه لا يمكن انتقال مهندس أو سائق من شركة إلى أخرى أو ترك العمل طيلة مدة الموسم، ويكون الطرفان ملزمين باحترامه وإنفاذه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-59::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب أن تلاحظ شركات نقل الحجاج أن يكون استخدام المهندسين والسائقين لديها بعقود رسمية موسمية على الأقل، بمعنى أنه لا يمكن انتقال مهندس أو سائق من شركة إلى أخرى أو ترك العمل طيلة مدة الموسم، ويكون الطرفان ملزمين باحترامه وإنفاذه.",
+          "text_for_index": "يجب أن تلاحظ شركات نقل الحجاج أن يكون استخدام المهندسين والسائقين لديها بعقود رسمية موسمية على الأقل، بمعنى أنه لا يمكن انتقال مهندس أو سائق من شركة إلى أخرى أو ترك العمل طيلة مدة الموسم، ويكون الطرفان ملزمين باحترامه وإنفاذه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 60,
+      "article_label": "الستون",
+      "article_label_raw": "الستون",
+      "article_heading": "الستون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الستون",
+      "text_verbatim": "للمهندس والسائقين أن يتقدموا بشكواهم ضد الشركات إلى النقابة على أن تكون ضمن استدعاء رسمي شامل للأسباب الداعية لها، وعلى النقابة أن تنظر وتفصل حالا في تلك الشكوى بما يضمن الحقوق وعلى أساس العقد والتعليمات الخاصة بالمهندسين والسائقين.",
+      "text_for_index": "للمهندس والسائقين أن يتقدموا بشكواهم ضد الشركات إلى النقابة على أن تكون ضمن استدعاء رسمي شامل للأسباب الداعية لها، وعلى النقابة أن تنظر وتفصل حالا في تلك الشكوى بما يضمن الحقوق وعلى أساس العقد والتعليمات الخاصة بالمهندسين والسائقين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-60::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "للمهندس والسائقين أن يتقدموا بشكواهم ضد الشركات إلى النقابة على أن تكون ضمن استدعاء رسمي شامل للأسباب الداعية لها، وعلى النقابة أن تنظر وتفصل حالا في تلك الشكوى بما يضمن الحقوق وعلى أساس العقد والتعليمات الخاصة بالمهندسين والسائقين.",
+          "text_for_index": "للمهندس والسائقين أن يتقدموا بشكواهم ضد الشركات إلى النقابة على أن تكون ضمن استدعاء رسمي شامل للأسباب الداعية لها، وعلى النقابة أن تنظر وتفصل حالا في تلك الشكوى بما يضمن الحقوق وعلى أساس العقد والتعليمات الخاصة بالمهندسين والسائقين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 61,
+      "article_label": "الحادية والستون",
+      "article_label_raw": "الحادية والستون",
+      "article_heading": "الحادية والستون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الحادية والستون",
+      "text_verbatim": "للنقابة في حالة ثبوت حقوق مادية للمهندسين أو السائقين الشاكين طرف الشركات أن تقوم بتسديدها لأصحابها وحسمها من استحقاقات الشركة التي يعملون لديها.",
+      "text_for_index": "للنقابة في حالة ثبوت حقوق مادية للمهندسين أو السائقين الشاكين طرف الشركات أن تقوم بتسديدها لأصحابها وحسمها من استحقاقات الشركة التي يعملون لديها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-61::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "للنقابة في حالة ثبوت حقوق مادية للمهندسين أو السائقين الشاكين طرف الشركات أن تقوم بتسديدها لأصحابها وحسمها من استحقاقات الشركة التي يعملون لديها.",
+          "text_for_index": "للنقابة في حالة ثبوت حقوق مادية للمهندسين أو السائقين الشاكين طرف الشركات أن تقوم بتسديدها لأصحابها وحسمها من استحقاقات الشركة التي يعملون لديها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 62,
+      "article_label": "الثانية والستون",
+      "article_label_raw": "الثانية والستون",
+      "article_heading": "الثانية والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثانية والستون",
+      "text_verbatim": "تقويم أم القرى الهجري هو التقويم الرسمي للنقابة وشركات النقل للحجاج.",
+      "text_for_index": "تقويم أم القرى الهجري هو التقويم الرسمي للنقابة وشركات النقل للحجاج.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-62::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقويم أم القرى الهجري هو التقويم الرسمي للنقابة وشركات النقل للحجاج.",
+          "text_for_index": "تقويم أم القرى الهجري هو التقويم الرسمي للنقابة وشركات النقل للحجاج.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 63,
+      "article_label": "الثالثة والستون",
+      "article_label_raw": "الثالثة والستون",
+      "article_heading": "الثالثة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الثالثة والستون",
+      "text_verbatim": "للنقابة حق النظر والفصل في الخلافات والحوادث التي تقع فيما بين الشركات أو بينها وبين المستأجرين بناء على مراجعتهم، وفي حالة تعذر الفصل من قبلها عليها أن تضع القرار اللازم وترفعه إلى المراجع المختصة.",
+      "text_for_index": "للنقابة حق النظر والفصل في الخلافات والحوادث التي تقع فيما بين الشركات أو بينها وبين المستأجرين بناء على مراجعتهم، وفي حالة تعذر الفصل من قبلها عليها أن تضع القرار اللازم وترفعه إلى المراجع المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-63::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "للنقابة حق النظر والفصل في الخلافات والحوادث التي تقع فيما بين الشركات أو بينها وبين المستأجرين بناء على مراجعتهم، وفي حالة تعذر الفصل من قبلها عليها أن تضع القرار اللازم وترفعه إلى المراجع المختصة.",
+          "text_for_index": "للنقابة حق النظر والفصل في الخلافات والحوادث التي تقع فيما بين الشركات أو بينها وبين المستأجرين بناء على مراجعتهم، وفي حالة تعذر الفصل من قبلها عليها أن تضع القرار اللازم وترفعه إلى المراجع المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 64,
+      "article_label": "الرابعة والستون",
+      "article_label_raw": "الرابعة والستون",
+      "article_heading": "الرابعة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقابة السيارات، المادة الرابعة والستون",
+      "text_verbatim": "يحل هذا النظام محل الأنظمة السابقة للنقابة ويعتبر ساري المفعول من حين تصديقه من المقام السامي، وتقوم الجهة المختصة بإبلاغه إلى الدوائر ذات العلاقة ونشره في الصحف، ولا يمكن تعديل أو إضافة مادة على هذا النظام إلا بموافقة المقام السامي على ذلك.",
+      "text_for_index": "يحل هذا النظام محل الأنظمة السابقة للنقابة ويعتبر ساري المفعول من حين تصديقه من المقام السامي، وتقوم الجهة المختصة بإبلاغه إلى الدوائر ذات العلاقة ونشره في الصحف، ولا يمكن تعديل أو إضافة مادة على هذا النظام إلا بموافقة المقام السامي على ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nqabh-alsyarat::article-64::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "يحل هذا النظام محل الأنظمة السابقة للنقابة ويعتبر ساري المفعول من حين تصديقه من المقام السامي، وتقوم الجهة المختصة بإبلاغه إلى الدوائر ذات العلاقة ونشره في الصحف، ولا يمكن تعديل أو إضافة مادة على هذا النظام إلا بموافقة المقام السامي على ذلك.",
+          "text_for_index": "يحل هذا النظام محل الأنظمة السابقة للنقابة ويعتبر ساري المفعول من حين تصديقه من المقام السامي، وتقوم الجهة المختصة بإبلاغه إلى الدوائر ذات العلاقة ونشره في الصحف، ولا يمكن تعديل أو إضافة مادة على هذا النظام إلا بموافقة المقام السامي على ذلك.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": "mode_adapter_routing_v1",
+  "created_at": "2026-04-18",
+  "purpose": "Recommended local adapter routing for stage-two deployment trials.",
+  "default_strategy": "per_mode",
+  "adapters": {
+    "v3_general": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v3-resume-v1",
+    "v4_memo_boost": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost"
+  },
+  "routing": {
+    "legal_opinion": {
+      "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v3-resume-v1",
+      "reason": "Best answer-only quality for the opinion path with no thought leakage."
+    },
+    "legal_memo": {
+      "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost",
+      "reason": "Best current structural performance on memo outputs with higher completion rates."
+    },
+    "legal_analysis": {
+      "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost",
+      "reason": "Best current analysis answer-only quality and citation clarity under the corrected generation budget."
+    }
+  },
+  "fallback": {
+    "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v3-resume-v1",
+    "reason": "Stable general fallback if per-mode routing is unavailable."
+  },
+  "notes": [
+    "This is a deployment recommendation, not a training truth claim.",
+    "Keep the benchmark generation budget policy aligned with this routing decision."
+  ]
+}

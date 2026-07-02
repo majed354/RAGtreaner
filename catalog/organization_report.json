@@ -1,0 +1,102 @@
+{
+  "verified_files_copied": [
+    {
+      "slug": "basic-law-of-governance",
+      "title_ar": "النظام الأساسي للحكم",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/النظام الأساسي للحكم.pdf",
+      "target": "documents/saudi_regulations/official_latest/basic-law-of-governance.pdf"
+    },
+    {
+      "slug": "personal-status-law",
+      "title_ar": "نظام الأحوال الشخصية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الأحوال الشخصية مع الفهارس.pdf",
+      "target": "documents/saudi_regulations/official_latest/personal-status-law.pdf"
+    },
+    {
+      "slug": "law-of-evidence",
+      "title_ar": "نظام الإثبات",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الإثبات مع الفهارس.pdf",
+      "target": "documents/saudi_regulations/official_latest/law-of-evidence.pdf"
+    },
+    {
+      "slug": "civil-transactions-law",
+      "title_ar": "نظام المعاملات المدنية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام المعاملات المدنية مع الفهارس.pdf",
+      "target": "documents/saudi_regulations/official_latest/civil-transactions-law.pdf"
+    },
+    {
+      "slug": "criminal-procedure-law",
+      "title_ar": "نظام الإجراءات الجزائية ولائحته التنفيذية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الإجراءات الجزائية ولوائحه التنفيذية.pdf",
+      "target": "documents/saudi_regulations/official_latest/criminal-procedure-law.pdf"
+    },
+    {
+      "slug": "law-of-sharia-procedure",
+      "title_ar": "نظام المرافعات الشرعية ولائحته التنفيذية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام المرافعات الشرعية ولوائحه التنفيذية مع الفهارس.pdf",
+      "target": "documents/saudi_regulations/official_latest/law-of-sharia-procedure.pdf"
+    },
+    {
+      "slug": "companies-law",
+      "title_ar": "نظام الشركات",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الشركات.pdf",
+      "target": "documents/saudi_regulations/official_latest/companies-law.pdf"
+    },
+    {
+      "slug": "labor-law",
+      "title_ar": "نظام العمل",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام العمل.pdf",
+      "target": "documents/saudi_regulations/official_latest/labor-law.pdf"
+    },
+    {
+      "slug": "government-tenders-and-procurement-law",
+      "title_ar": "نظام المنافسات والمشتريات الحكومية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام المنافسات والمشتريات الحكومية المحدث.pdf",
+      "target": "documents/saudi_regulations/official_latest/government-tenders-and-procurement-law.pdf"
+    },
+    {
+      "slug": "real-estate-brokerage-law",
+      "title_ar": "نظام الوساطة العقارية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الوساطة العقارية 00.pdf",
+      "target": "documents/saudi_regulations/official_latest/real-estate-brokerage-law.pdf"
+    },
+    {
+      "slug": "communications-and-information-technology-law",
+      "title_ar": "نظام الاتصالات وتقنية المعلومات",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الاتصالات وتقنية المعلومات.pdf",
+      "target": "documents/saudi_regulations/official_latest/communications-and-information-technology-law.pdf"
+    },
+    {
+      "slug": "electronic-transactions-law",
+      "title_ar": "نظام التعاملات الإلكترونية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/LA_003_ A_E-Transactions Act.pdf",
+      "target": "documents/saudi_regulations/official_latest/electronic-transactions-law.pdf"
+    },
+    {
+      "slug": "universities-law",
+      "title_ar": "نظام الجامعات",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام-الجامعات-الجديد-عربي.pdf",
+      "target": "documents/saudi_regulations/official_latest/universities-law.pdf"
+    },
+    {
+      "slug": "protection-from-abuse-law",
+      "title_ar": "نظام الحماية من الإيذاء ولائحته التنفيذية",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام الحماية من الايذاء ولائحته التنفيذية.pdf",
+      "target": "documents/saudi_regulations/official_latest/protection-from-abuse-law.pdf"
+    },
+    {
+      "slug": "copyright-law",
+      "title_ar": "نظام حماية حقوق المؤلف",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/حقوق المؤلف.pdf",
+      "target": "documents/saudi_regulations/official_latest/copyright-law.pdf"
+    },
+    {
+      "slug": "whistleblowers-witnesses-experts-and-victims-protection-law",
+      "title_ar": "نظام حماية المبلغين والشهود والخبراء والضحايا",
+      "source": "archive/raw_unsorted/الأنظمة والقوانين/نظام حماية المبلّغين والشهود والخبراء والضحايا.pdf",
+      "target": "documents/saudi_regulations/official_latest/whistleblowers-witnesses-experts-and-victims-protection-law.pdf"
+    }
+  ],
+  "verified_missing": [],
+  "pending_review_count": 98
+}

@@ -1,0 +1,1091 @@
+{
+  "metadata": {
+    "slug": "nzam-almkhtbrat-alkhash",
+    "title_ar": "نظام المختبرات الخاصة",
+    "status": "ساري",
+    "issue_date_hijri": "1423/02/08 هـ الموافق : 21/04/2002 مـ",
+    "issue_date_gregorian": "2002-04-21",
+    "publish_date_hijri": "1423/02/08 هـ الموافق : 21/04/2002 مـ",
+    "publish_date_gregorian": "2002-04-21",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4c55f487-89fa-4d0f-80f1-a9a700f2835e/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-almkhtbrat-alkhash.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-almkhtbrat-alkhash.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1423/02/08 هـ الموافق : 21/04/2002 مـ",
+    "effective_date_gregorian": "2002-04-21",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 17,
+    "paragraph_count": 41,
+    "indexable_paragraph_count": 41,
+    "text_chars": 5221,
+    "verbatim_chars": 5379,
+    "citation_base_ar": "نظام المختبرات الخاصة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4c55f487-89fa-4d0f-80f1-a9a700f2835e/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-almkhtbrat-alkhash.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-almkhtbrat-alkhash.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "commercial_fraud",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الأولى",
+      "text_verbatim": "تدُل المُصطلحات الآتية أينما وردت في هذا النظام على المعاني الموضحة أمامها :\n\n أ -  الوزارة المُختصة  :   وزارة التجارة  أو    وزارة الصحة     أو  وزارة الزراعة والمياه  أو    وزارة الصناعة والكهرباء     أو  وزارة الشؤون البلدية والقروية، أو غيرها من الوزارات التي تُحدِّدها   اللائحة التنفيذية ، وذلك بحسب ما يقتضيه النص أو السياق.\n\n ب - الهيئة :   الهيئة   العربية السعودية للمواصفات والمقاييس.\n\n جـ -  السلع :    السلع التجارية   المُنتجة محليًّا أو المُستوردة، سواء كانت على شكل مواد أمْ أجهِزة أمْ أدوات أمْ غيرها.\n\n د - الاختبار :  كل تحليل أو مُعايرة أو فحص يهدف إلى تحديد خصائص أداء أو كفاءة أو فعالية أو مُطابقة.\n\n هـ -  المُختبر :  كل مكان أعد لاختبار أي سلعة من   السِلع .",
+      "text_for_index": "تدُل المُصطلحات الآتية أينما وردت في هذا النظام على المعاني الموضحة أمامها :\n\n أ - الوزارة المُختصة : وزارة التجارة أو وزارة الصحة أو وزارة الزراعة والمياه أو وزارة الصناعة والكهرباء أو وزارة الشؤون البلدية والقروية، أو غيرها من الوزارات التي تُحدِّدها اللائحة التنفيذية ، وذلك بحسب ما يقتضيه النص أو السياق.\n\n ب - الهيئة : الهيئة العربية السعودية للمواصفات والمقاييس.\n\n جـ - السلع : السلع التجارية المُنتجة محليًّا أو المُستوردة، سواء كانت على شكل مواد أمْ أجهِزة أمْ أدوات أمْ غيرها.\n\n د - الاختبار : كل تحليل أو مُعايرة أو فحص يهدف إلى تحديد خصائص أداء أو كفاءة أو فعالية أو مُطابقة.\n\n هـ - المُختبر : كل مكان أعد لاختبار أي سلعة من السِلع .",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تدُل المُصطلحات الآتية أينما وردت في هذا النظام على المعاني الموضحة أمامها :",
+          "text_for_index": "تدُل المُصطلحات الآتية أينما وردت في هذا النظام على المعاني الموضحة أمامها :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "أ -  الوزارة المُختصة  :   وزارة التجارة  أو    وزارة الصحة     أو  وزارة الزراعة والمياه  أو    وزارة الصناعة والكهرباء     أو  وزارة الشؤون البلدية والقروية، أو غيرها من الوزارات التي تُحدِّدها   اللائحة التنفيذية ، وذلك بحسب ما يقتضيه النص أو السياق.",
+          "text_for_index": "أ - الوزارة المُختصة : وزارة التجارة أو وزارة الصحة أو وزارة الزراعة والمياه أو وزارة الصناعة والكهرباء أو وزارة الشؤون البلدية والقروية، أو غيرها من الوزارات التي تُحدِّدها اللائحة التنفيذية ، وذلك بحسب ما يقتضيه النص أو السياق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب - الهيئة :   الهيئة   العربية السعودية للمواصفات والمقاييس.",
+          "text_for_index": "ب - الهيئة : الهيئة العربية السعودية للمواصفات والمقاييس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "جـ -  السلع :    السلع التجارية   المُنتجة محليًّا أو المُستوردة، سواء كانت على شكل مواد أمْ أجهِزة أمْ أدوات أمْ غيرها.",
+          "text_for_index": "جـ - السلع : السلع التجارية المُنتجة محليًّا أو المُستوردة، سواء كانت على شكل مواد أمْ أجهِزة أمْ أدوات أمْ غيرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "د - الاختبار :  كل تحليل أو مُعايرة أو فحص يهدف إلى تحديد خصائص أداء أو كفاءة أو فعالية أو مُطابقة.",
+          "text_for_index": "د - الاختبار : كل تحليل أو مُعايرة أو فحص يهدف إلى تحديد خصائص أداء أو كفاءة أو فعالية أو مُطابقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "هـ -  المُختبر :  كل مكان أعد لاختبار أي سلعة من   السِلع .",
+          "text_for_index": "هـ - المُختبر : كل مكان أعد لاختبار أي سلعة من السِلع .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الثانية",
+      "text_verbatim": "يجوز بقرار من الوزير المُختص الاستِعانة  بالمُختبرات الوطنية الخاصة   المؤهلة، والمُرخصة لغرض فحص   السلع    المحلية والمُستوردة.",
+      "text_for_index": "يجوز بقرار من الوزير المُختص الاستِعانة بالمُختبرات الوطنية الخاصة المؤهلة، والمُرخصة لغرض فحص السلع المحلية والمُستوردة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز بقرار من الوزير المُختص الاستِعانة  بالمُختبرات الوطنية الخاصة   المؤهلة، والمُرخصة لغرض فحص   السلع    المحلية والمُستوردة.",
+          "text_for_index": "يجوز بقرار من الوزير المُختص الاستِعانة بالمُختبرات الوطنية الخاصة المؤهلة، والمُرخصة لغرض فحص السلع المحلية والمُستوردة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor",
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الثالثة",
+      "text_verbatim": "يُمنح الترخيص المبدئي للمُختبرات، بعد توافُر الشروط الآتية :\n\nأ - أن يكون طالِب الترخيص سعوديًّا، سواء كان شخصًا طبيعيًّا أمْ معنويًّا.\nب - التزام طالب الترخيص بتعيين مُدير فني سعودي للمُختبر.\nجـ - التِزام طالِب الترخيص بتوفير الجهاز اللازِم من المتخصصين المؤهلين علميًّا، والمعدات والأجهزة اللازِمة للعمل بالمُختبر بما يتفق مع حجم العمل وطبيعته، وفقًا لما تحدده   الوزارة المختصة    والهيئة.",
+      "text_for_index": "يُمنح الترخيص المبدئي للمُختبرات، بعد توافُر الشروط الآتية :\n\nأ - أن يكون طالِب الترخيص سعوديًّا، سواء كان شخصًا طبيعيًّا أمْ معنويًّا.\nب - التزام طالب الترخيص بتعيين مُدير فني سعودي للمُختبر.\nجـ - التِزام طالِب الترخيص بتوفير الجهاز اللازِم من المتخصصين المؤهلين علميًّا، والمعدات والأجهزة اللازِمة للعمل بالمُختبر بما يتفق مع حجم العمل وطبيعته، وفقًا لما تحدده الوزارة المختصة والهيئة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يُمنح الترخيص المبدئي للمُختبرات، بعد توافُر الشروط الآتية :",
+          "text_for_index": "يُمنح الترخيص المبدئي للمُختبرات، بعد توافُر الشروط الآتية :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "أ - أن يكون طالِب الترخيص سعوديًّا، سواء كان شخصًا طبيعيًّا أمْ معنويًّا.\nب - التزام طالب الترخيص بتعيين مُدير فني سعودي للمُختبر.\nجـ - التِزام طالِب الترخيص بتوفير الجهاز اللازِم من المتخصصين المؤهلين علميًّا، والمعدات والأجهزة اللازِمة للعمل بالمُختبر بما يتفق مع حجم العمل وطبيعته، وفقًا لما تحدده   الوزارة المختصة    والهيئة.",
+          "text_for_index": "أ - أن يكون طالِب الترخيص سعوديًّا، سواء كان شخصًا طبيعيًّا أمْ معنويًّا.\nب - التزام طالب الترخيص بتعيين مُدير فني سعودي للمُختبر.\nجـ - التِزام طالِب الترخيص بتوفير الجهاز اللازِم من المتخصصين المؤهلين علميًّا، والمعدات والأجهزة اللازِمة للعمل بالمُختبر بما يتفق مع حجم العمل وطبيعته، وفقًا لما تحدده الوزارة المختصة والهيئة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الرابعة",
+      "text_verbatim": "تحدد   اللائحة التنفيذية    فئات   المُختبرات   والشروط اللازِم توافُرها لكُل فئة، بناءً على توصية من  الهيئة.",
+      "text_for_index": "تحدد اللائحة التنفيذية فئات المُختبرات والشروط اللازِم توافُرها لكُل فئة، بناءً على توصية من الهيئة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "تحدد   اللائحة التنفيذية    فئات   المُختبرات   والشروط اللازِم توافُرها لكُل فئة، بناءً على توصية من  الهيئة.",
+          "text_for_index": "تحدد اللائحة التنفيذية فئات المُختبرات والشروط اللازِم توافُرها لكُل فئة، بناءً على توصية من الهيئة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الخامسة",
+      "text_verbatim": "تُحدد   اللائحة التنفيذية    إجراءات الحصول على الترخيص، والمدة اللازمة لدراسة الطلب.",
+      "text_for_index": "تُحدد اللائحة التنفيذية إجراءات الحصول على الترخيص، والمدة اللازمة لدراسة الطلب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تُحدد   اللائحة التنفيذية    إجراءات الحصول على الترخيص، والمدة اللازمة لدراسة الطلب.",
+          "text_for_index": "تُحدد اللائحة التنفيذية إجراءات الحصول على الترخيص، والمدة اللازمة لدراسة الطلب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة السادسة",
+      "text_verbatim": "يُعطى المُرخص له مبدئيًّا مُهلة لا تزيد على ستة أشهُر لإكمال ما يأتي :\n\nأ -   الهيكل التنظيمي للمُختبر .\nب -   الجهاز الفني لتشغيل  المُختبر ، وتقديم صورة مُصدقة من مُؤهلاتِهم العلمية ودوراتِهم التدريبية.\nجـ - الاعتِماد من  الهيئة   وِفقًا للائحة علامة الجودة وشهادة المُطابقة واعتِماد الخدمات (اعتِماد   المُختبرات)، وفي حالة انقِضاء مُهلة الستة أشهُر دون استكمال المُتطلبات، يُعد الترخيص المبدئي مُلغى.",
+      "text_for_index": "يُعطى المُرخص له مبدئيًّا مُهلة لا تزيد على ستة أشهُر لإكمال ما يأتي :\n\nأ - الهيكل التنظيمي للمُختبر .\nب - الجهاز الفني لتشغيل المُختبر ، وتقديم صورة مُصدقة من مُؤهلاتِهم العلمية ودوراتِهم التدريبية.\nجـ - الاعتِماد من الهيئة وِفقًا للائحة علامة الجودة وشهادة المُطابقة واعتِماد الخدمات (اعتِماد المُختبرات)، وفي حالة انقِضاء مُهلة الستة أشهُر دون استكمال المُتطلبات، يُعد الترخيص المبدئي مُلغى.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يُعطى المُرخص له مبدئيًّا مُهلة لا تزيد على ستة أشهُر لإكمال ما يأتي :",
+          "text_for_index": "يُعطى المُرخص له مبدئيًّا مُهلة لا تزيد على ستة أشهُر لإكمال ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "أ -   الهيكل التنظيمي للمُختبر .\nب -   الجهاز الفني لتشغيل  المُختبر ، وتقديم صورة مُصدقة من مُؤهلاتِهم العلمية ودوراتِهم التدريبية.\nجـ - الاعتِماد من  الهيئة   وِفقًا للائحة علامة الجودة وشهادة المُطابقة واعتِماد الخدمات (اعتِماد   المُختبرات)، وفي حالة انقِضاء مُهلة الستة أشهُر دون استكمال المُتطلبات، يُعد الترخيص المبدئي مُلغى.",
+          "text_for_index": "أ - الهيكل التنظيمي للمُختبر .\nب - الجهاز الفني لتشغيل المُختبر ، وتقديم صورة مُصدقة من مُؤهلاتِهم العلمية ودوراتِهم التدريبية.\nجـ - الاعتِماد من الهيئة وِفقًا للائحة علامة الجودة وشهادة المُطابقة واعتِماد الخدمات (اعتِماد المُختبرات)، وفي حالة انقِضاء مُهلة الستة أشهُر دون استكمال المُتطلبات، يُعد الترخيص المبدئي مُلغى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة السابعة",
+      "text_verbatim": "أ - تُصدِر الوزارة المُختصة  الترخيص للمُختبر الخاص، بعد استيفاء ما يأتي :\n\n1 - إكمال مُتطلبات المادة السادسة، مع تحديد نوعية  السلع   والاختبارات والحد الأعلى لتسعيرة كُل اختِبار مطلوب الترخيص له.\n\n2 - تسديد رسم الترخيص، ومِقدارُه خمسة آلاف (5000) ريال للمُختبر الرئيس، وألفان وخمسمائة (2500) ريال لكُل فرع.",
+      "text_for_index": "أ - تُصدِر الوزارة المُختصة الترخيص للمُختبر الخاص، بعد استيفاء ما يأتي :\n\n1 - إكمال مُتطلبات المادة السادسة، مع تحديد نوعية السلع والاختبارات والحد الأعلى لتسعيرة كُل اختِبار مطلوب الترخيص له.\n\n2 - تسديد رسم الترخيص، ومِقدارُه خمسة آلاف (5000) ريال للمُختبر الرئيس، وألفان وخمسمائة (2500) ريال لكُل فرع.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "أ - تُصدِر الوزارة المُختصة  الترخيص للمُختبر الخاص، بعد استيفاء ما يأتي :",
+          "text_for_index": "أ - تُصدِر الوزارة المُختصة الترخيص للمُختبر الخاص، بعد استيفاء ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - إكمال مُتطلبات المادة السادسة، مع تحديد نوعية  السلع   والاختبارات والحد الأعلى لتسعيرة كُل اختِبار مطلوب الترخيص له.",
+          "text_for_index": "1 - إكمال مُتطلبات المادة السادسة، مع تحديد نوعية السلع والاختبارات والحد الأعلى لتسعيرة كُل اختِبار مطلوب الترخيص له.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2 - تسديد رسم الترخيص، ومِقدارُه خمسة آلاف (5000) ريال للمُختبر الرئيس، وألفان وخمسمائة (2500) ريال لكُل فرع.",
+          "text_for_index": "2 - تسديد رسم الترخيص، ومِقدارُه خمسة آلاف (5000) ريال للمُختبر الرئيس، وألفان وخمسمائة (2500) ريال لكُل فرع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "e_commerce"
+      ],
+      "topic_tags_ar": [
+        "تجارة إلكترونية"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الثامنة",
+      "text_verbatim": "تقوم   الوزارة المُختصة    بإصدار قرار  بالسلع    المُزمع فحصُها بواسِطة   المُختبر    الخاص، قبل ستين يومًا من إسناد المهمة إلى   المُختبر    الخاص، وبعد الإعلان عنها في   الجريدة الرسمية  ، كما يتم إبلاغ وزارة المالية والاقتِصاد الوطني (مصلحة الجمارِك) بذلك.",
+      "text_for_index": "تقوم الوزارة المُختصة بإصدار قرار بالسلع المُزمع فحصُها بواسِطة المُختبر الخاص، قبل ستين يومًا من إسناد المهمة إلى المُختبر الخاص، وبعد الإعلان عنها في الجريدة الرسمية ، كما يتم إبلاغ وزارة المالية والاقتِصاد الوطني (مصلحة الجمارِك) بذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تقوم   الوزارة المُختصة    بإصدار قرار  بالسلع    المُزمع فحصُها بواسِطة   المُختبر    الخاص، قبل ستين يومًا من إسناد المهمة إلى   المُختبر    الخاص، وبعد الإعلان عنها في   الجريدة الرسمية  ، كما يتم إبلاغ وزارة المالية والاقتِصاد الوطني (مصلحة الجمارِك) بذلك.",
+          "text_for_index": "تقوم الوزارة المُختصة بإصدار قرار بالسلع المُزمع فحصُها بواسِطة المُختبر الخاص، قبل ستين يومًا من إسناد المهمة إلى المُختبر الخاص، وبعد الإعلان عنها في الجريدة الرسمية ، كما يتم إبلاغ وزارة المالية والاقتِصاد الوطني (مصلحة الجمارِك) بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor",
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة التاسعة",
+      "text_verbatim": "يجب على   المُختبر    التقيد بما يأتي :\n\nأ - الاقتِصار على إجراء  الاختبارات   للسِلع المُحددة بالترخيص لفحصِها.\n\nب - المُحافظة على مُستوى الأداء والدقة وفقًا لأصول المِهنة في الفحص بكل أمانة وصِدق وتجرُّد، كما تجب المُحافظة على أسرار العمل وسلامة الأجهِزة.\n\nجـ - الاحتِفاظ بسجِلات نتائج  الاختبارات، لمُدة لا تقِل عن خمس سنوات، للرجوع إليها عند الحاجة.\n\nد - إبراز الترخيص والهيكل التنظيمي والأقسام الفنية وتكاليف الاختبار وشهادة الاعتِماد من  الهيئة في مكان ظاهِر عند مدخل  المُختبر، وعدم إجراء أي تعديل عليها إلا بعد اعتِمادِه من الوزارة.\n\nهـ - الالتِزام بالسرية عند نقل العينات ونتائج  الاختبار، وعدم إعطاء أي معلومات إلا للمُختصين.",
+      "text_for_index": "يجب على المُختبر التقيد بما يأتي :\n\nأ - الاقتِصار على إجراء الاختبارات للسِلع المُحددة بالترخيص لفحصِها.\n\nب - المُحافظة على مُستوى الأداء والدقة وفقًا لأصول المِهنة في الفحص بكل أمانة وصِدق وتجرُّد، كما تجب المُحافظة على أسرار العمل وسلامة الأجهِزة.\n\nجـ - الاحتِفاظ بسجِلات نتائج الاختبارات، لمُدة لا تقِل عن خمس سنوات، للرجوع إليها عند الحاجة.\n\nد - إبراز الترخيص والهيكل التنظيمي والأقسام الفنية وتكاليف الاختبار وشهادة الاعتِماد من الهيئة في مكان ظاهِر عند مدخل المُختبر، وعدم إجراء أي تعديل عليها إلا بعد اعتِمادِه من الوزارة.\n\nهـ - الالتِزام بالسرية عند نقل العينات ونتائج الاختبار، وعدم إعطاء أي معلومات إلا للمُختصين.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على   المُختبر    التقيد بما يأتي :",
+          "text_for_index": "يجب على المُختبر التقيد بما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "أ - الاقتِصار على إجراء  الاختبارات   للسِلع المُحددة بالترخيص لفحصِها.",
+          "text_for_index": "أ - الاقتِصار على إجراء الاختبارات للسِلع المُحددة بالترخيص لفحصِها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب - المُحافظة على مُستوى الأداء والدقة وفقًا لأصول المِهنة في الفحص بكل أمانة وصِدق وتجرُّد، كما تجب المُحافظة على أسرار العمل وسلامة الأجهِزة.",
+          "text_for_index": "ب - المُحافظة على مُستوى الأداء والدقة وفقًا لأصول المِهنة في الفحص بكل أمانة وصِدق وتجرُّد، كما تجب المُحافظة على أسرار العمل وسلامة الأجهِزة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "جـ - الاحتِفاظ بسجِلات نتائج  الاختبارات، لمُدة لا تقِل عن خمس سنوات، للرجوع إليها عند الحاجة.",
+          "text_for_index": "جـ - الاحتِفاظ بسجِلات نتائج الاختبارات، لمُدة لا تقِل عن خمس سنوات، للرجوع إليها عند الحاجة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "د - إبراز الترخيص والهيكل التنظيمي والأقسام الفنية وتكاليف الاختبار وشهادة الاعتِماد من  الهيئة في مكان ظاهِر عند مدخل  المُختبر، وعدم إجراء أي تعديل عليها إلا بعد اعتِمادِه من الوزارة.",
+          "text_for_index": "د - إبراز الترخيص والهيكل التنظيمي والأقسام الفنية وتكاليف الاختبار وشهادة الاعتِماد من الهيئة في مكان ظاهِر عند مدخل المُختبر، وعدم إجراء أي تعديل عليها إلا بعد اعتِمادِه من الوزارة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "هـ - الالتِزام بالسرية عند نقل العينات ونتائج  الاختبار، وعدم إعطاء أي معلومات إلا للمُختصين.",
+          "text_for_index": "هـ - الالتِزام بالسرية عند نقل العينات ونتائج الاختبار، وعدم إعطاء أي معلومات إلا للمُختصين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "commercial_fraud"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة العاشرة",
+      "text_verbatim": "1- يقوم الفنيون مِن   الوزارة المُختصة    بمهمة سحب العينات وتجهيزِها، طِبقًا لما تُحدده المواصفات القياسية المُعتمدة.\n\n2 - أ - بالنِسبة للسِلع المُستوردة يؤخذ التعهُد اللازِم على صاحِب  السِلعة بعدم التصرُّف بِها إلا بعد الفحص النهائي.\nب - بالنسبة للسلع المُنتجة محليًّا، يؤخذ التعهُد اللازِم على صاحِب  السِلعة بعدم التصرُّف بِها إلا بعد أن تجيزها الجِهة المُختصة.",
+      "text_for_index": "1- يقوم الفنيون مِن الوزارة المُختصة بمهمة سحب العينات وتجهيزِها، طِبقًا لما تُحدده المواصفات القياسية المُعتمدة.\n\n2 - أ - بالنِسبة للسِلع المُستوردة يؤخذ التعهُد اللازِم على صاحِب السِلعة بعدم التصرُّف بِها إلا بعد الفحص النهائي.\nب - بالنسبة للسلع المُنتجة محليًّا، يؤخذ التعهُد اللازِم على صاحِب السِلعة بعدم التصرُّف بِها إلا بعد أن تجيزها الجِهة المُختصة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- يقوم الفنيون مِن   الوزارة المُختصة    بمهمة سحب العينات وتجهيزِها، طِبقًا لما تُحدده المواصفات القياسية المُعتمدة.",
+          "text_for_index": "1- يقوم الفنيون مِن الوزارة المُختصة بمهمة سحب العينات وتجهيزِها، طِبقًا لما تُحدده المواصفات القياسية المُعتمدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "2 - أ - بالنِسبة للسِلع المُستوردة يؤخذ التعهُد اللازِم على صاحِب  السِلعة بعدم التصرُّف بِها إلا بعد الفحص النهائي.\nب - بالنسبة للسلع المُنتجة محليًّا، يؤخذ التعهُد اللازِم على صاحِب  السِلعة بعدم التصرُّف بِها إلا بعد أن تجيزها الجِهة المُختصة.",
+          "text_for_index": "2 - أ - بالنِسبة للسِلع المُستوردة يؤخذ التعهُد اللازِم على صاحِب السِلعة بعدم التصرُّف بِها إلا بعد الفحص النهائي.\nب - بالنسبة للسلع المُنتجة محليًّا، يؤخذ التعهُد اللازِم على صاحِب السِلعة بعدم التصرُّف بِها إلا بعد أن تجيزها الجِهة المُختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الحادية عشرة",
+      "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد تقضي بِها الأنظِمة الأُخرى، يُعاقب بواحدة أو أكثر مِن العقوبات الآتية، كُل من يُخالِف حُكمًا من أحكام هذا النظام :\n\n1 -   الإنذار .\n\n2 -   غرامة مالية    لا تقِل عن خمسة آلاف ريال، ولا تزيد على عشرين ألف ريال.\n\n3 -  وقف الترخيص  لمُدة لا تقِل عن ثلاثين يومًا، ولا تزيد على ستين يومًا.\n\n4 -   سحب الترخيص    في حالة العود.",
+      "text_for_index": "مع عدم الإخلال بأي عقوبة أشد تقضي بِها الأنظِمة الأُخرى، يُعاقب بواحدة أو أكثر مِن العقوبات الآتية، كُل من يُخالِف حُكمًا من أحكام هذا النظام :\n\n1 - الإنذار .\n\n2 - غرامة مالية لا تقِل عن خمسة آلاف ريال، ولا تزيد على عشرين ألف ريال.\n\n3 - وقف الترخيص لمُدة لا تقِل عن ثلاثين يومًا، ولا تزيد على ستين يومًا.\n\n4 - سحب الترخيص في حالة العود.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد تقضي بِها الأنظِمة الأُخرى، يُعاقب بواحدة أو أكثر مِن العقوبات الآتية، كُل من يُخالِف حُكمًا من أحكام هذا النظام :",
+          "text_for_index": "مع عدم الإخلال بأي عقوبة أشد تقضي بِها الأنظِمة الأُخرى، يُعاقب بواحدة أو أكثر مِن العقوبات الآتية، كُل من يُخالِف حُكمًا من أحكام هذا النظام :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "1 -   الإنذار .",
+          "text_for_index": "1 - الإنذار .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-11::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "2 -   غرامة مالية    لا تقِل عن خمسة آلاف ريال، ولا تزيد على عشرين ألف ريال.",
+          "text_for_index": "2 - غرامة مالية لا تقِل عن خمسة آلاف ريال، ولا تزيد على عشرين ألف ريال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-11::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "3 -  وقف الترخيص  لمُدة لا تقِل عن ثلاثين يومًا، ولا تزيد على ستين يومًا.",
+          "text_for_index": "3 - وقف الترخيص لمُدة لا تقِل عن ثلاثين يومًا، ولا تزيد على ستين يومًا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-11::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "4 -   سحب الترخيص    في حالة العود.",
+          "text_for_index": "4 - سحب الترخيص في حالة العود.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الثانية عشرة",
+      "text_verbatim": "تُطبق غرامة التأخير وفق ما يأتي :\n\n1 - ألف ريال عن كُل سنة تأخير عند تجديد الترخيص، ويكون التجديد من تاريخ انتِهاء الترخيص.\n2 - غرامة مساوية لتكاليف الاختبار   محل المُخالفة، في حالة تأخر   المُختبر   عن إعطاء النتيجة خِلال المُدة المُحدَّدة في الفقرة (4) من المادة العاشرة.",
+      "text_for_index": "تُطبق غرامة التأخير وفق ما يأتي :\n\n1 - ألف ريال عن كُل سنة تأخير عند تجديد الترخيص، ويكون التجديد من تاريخ انتِهاء الترخيص.\n2 - غرامة مساوية لتكاليف الاختبار محل المُخالفة، في حالة تأخر المُختبر عن إعطاء النتيجة خِلال المُدة المُحدَّدة في الفقرة (4) من المادة العاشرة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تُطبق غرامة التأخير وفق ما يأتي :",
+          "text_for_index": "تُطبق غرامة التأخير وفق ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "1 - ألف ريال عن كُل سنة تأخير عند تجديد الترخيص، ويكون التجديد من تاريخ انتِهاء الترخيص.\n2 - غرامة مساوية لتكاليف الاختبار   محل المُخالفة، في حالة تأخر   المُختبر   عن إعطاء النتيجة خِلال المُدة المُحدَّدة في الفقرة (4) من المادة العاشرة.",
+          "text_for_index": "1 - ألف ريال عن كُل سنة تأخير عند تجديد الترخيص، ويكون التجديد من تاريخ انتِهاء الترخيص.\n2 - غرامة مساوية لتكاليف الاختبار محل المُخالفة، في حالة تأخر المُختبر عن إعطاء النتيجة خِلال المُدة المُحدَّدة في الفقرة (4) من المادة العاشرة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الثالثة عشرة",
+      "text_verbatim": "يتولى مُراقبة المُختبرات والتفتيش عليها وضبط المُخالفات لأحكام هذا النِظام واللوائح والقرارات الصادِرة لتنفيذِه - موظفون مُختصون. وتُحدد اللائحة التنفيذية الآتي :\n\n1 - الجهة أو الجهات المسئولة عن تسميتِهم.\n\n2 - صلاحيات الموظفين المُخولين بدخول المُختبرات ، وتفتيشِها، وضبط المُخالفات، والتحفُظ على العينات والمُستندات والأجهِزة محل المُخالفة، وإجراء التحقيقات اللازِمة، ودواعي الاستِعانة بالجِهات الأمنية.\n\n3 - الجهة التي لها حق الإذن بدخول المُختبرات لأغراض التفتيش.\n\nعلى أن يلتزِم موظفو المُراقبة والتفتيش والضبط بالسرية والسلوك الحسِن، وأن يقدِّموا لصاحِب الشأن ما يُثبت هويتهم وصفتهم الرسمية والغرض من الزيارة.",
+      "text_for_index": "يتولى مُراقبة المُختبرات والتفتيش عليها وضبط المُخالفات لأحكام هذا النِظام واللوائح والقرارات الصادِرة لتنفيذِه - موظفون مُختصون. وتُحدد اللائحة التنفيذية الآتي :\n\n1 - الجهة أو الجهات المسئولة عن تسميتِهم.\n\n2 - صلاحيات الموظفين المُخولين بدخول المُختبرات ، وتفتيشِها، وضبط المُخالفات، والتحفُظ على العينات والمُستندات والأجهِزة محل المُخالفة، وإجراء التحقيقات اللازِمة، ودواعي الاستِعانة بالجِهات الأمنية.\n\n3 - الجهة التي لها حق الإذن بدخول المُختبرات لأغراض التفتيش.\n\nعلى أن يلتزِم موظفو المُراقبة والتفتيش والضبط بالسرية والسلوك الحسِن، وأن يقدِّموا لصاحِب الشأن ما يُثبت هويتهم وصفتهم الرسمية والغرض من الزيارة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يتولى مُراقبة المُختبرات والتفتيش عليها وضبط المُخالفات لأحكام هذا النِظام واللوائح والقرارات الصادِرة لتنفيذِه - موظفون مُختصون. وتُحدد اللائحة التنفيذية الآتي :",
+          "text_for_index": "يتولى مُراقبة المُختبرات والتفتيش عليها وضبط المُخالفات لأحكام هذا النِظام واللوائح والقرارات الصادِرة لتنفيذِه - موظفون مُختصون. وتُحدد اللائحة التنفيذية الآتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-13::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "1 - الجهة أو الجهات المسئولة عن تسميتِهم.",
+          "text_for_index": "1 - الجهة أو الجهات المسئولة عن تسميتِهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-13::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "2 - صلاحيات الموظفين المُخولين بدخول المُختبرات ، وتفتيشِها، وضبط المُخالفات، والتحفُظ على العينات والمُستندات والأجهِزة محل المُخالفة، وإجراء التحقيقات اللازِمة، ودواعي الاستِعانة بالجِهات الأمنية.",
+          "text_for_index": "2 - صلاحيات الموظفين المُخولين بدخول المُختبرات ، وتفتيشِها، وضبط المُخالفات، والتحفُظ على العينات والمُستندات والأجهِزة محل المُخالفة، وإجراء التحقيقات اللازِمة، ودواعي الاستِعانة بالجِهات الأمنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-13::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "3 - الجهة التي لها حق الإذن بدخول المُختبرات لأغراض التفتيش.",
+          "text_for_index": "3 - الجهة التي لها حق الإذن بدخول المُختبرات لأغراض التفتيش.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-13::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "على أن يلتزِم موظفو المُراقبة والتفتيش والضبط بالسرية والسلوك الحسِن، وأن يقدِّموا لصاحِب الشأن ما يُثبت هويتهم وصفتهم الرسمية والغرض من الزيارة.",
+          "text_for_index": "على أن يلتزِم موظفو المُراقبة والتفتيش والضبط بالسرية والسلوك الحسِن، وأن يقدِّموا لصاحِب الشأن ما يُثبت هويتهم وصفتهم الرسمية والغرض من الزيارة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الرابعة عشرة",
+      "text_verbatim": "تُحدِّد   اللائحة التنفيذية    إجراءات التحقيق والادعاء، والجهة التي تتولى ذلك.",
+      "text_for_index": "تُحدِّد اللائحة التنفيذية إجراءات التحقيق والادعاء، والجهة التي تتولى ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تُحدِّد   اللائحة التنفيذية    إجراءات التحقيق والادعاء، والجهة التي تتولى ذلك.",
+          "text_for_index": "تُحدِّد اللائحة التنفيذية إجراءات التحقيق والادعاء، والجهة التي تتولى ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة الخامسة عشرة",
+      "text_verbatim": "يختص ديوان المظالِم بالفصل في دعوى المُخالفة لهذا النِظام، وتوقيع العقوبات.",
+      "text_for_index": "يختص ديوان المظالِم بالفصل في دعوى المُخالفة لهذا النِظام، وتوقيع العقوبات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "جزاء"
+          ],
+          "text_verbatim": "يختص ديوان المظالِم بالفصل في دعوى المُخالفة لهذا النِظام، وتوقيع العقوبات.",
+          "text_for_index": "يختص ديوان المظالِم بالفصل في دعوى المُخالفة لهذا النِظام، وتوقيع العقوبات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة السادسة عشرة",
+      "text_verbatim": "يُصدِر وزير التِجارة  بالاتفاق مع كُل مِن:  وزارات الداخلية، الصِحة، الزِراعة والمياه، الصِناعة والكهرباء،  والشؤون البلدية والقروية ،   اللائحة التنفيذية    لهذا النِظام.",
+      "text_for_index": "يُصدِر وزير التِجارة بالاتفاق مع كُل مِن: وزارات الداخلية، الصِحة، الزِراعة والمياه، الصِناعة والكهرباء، والشؤون البلدية والقروية ، اللائحة التنفيذية لهذا النِظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يُصدِر وزير التِجارة  بالاتفاق مع كُل مِن:  وزارات الداخلية، الصِحة، الزِراعة والمياه، الصِناعة والكهرباء،  والشؤون البلدية والقروية ،   اللائحة التنفيذية    لهذا النِظام.",
+          "text_for_index": "يُصدِر وزير التِجارة بالاتفاق مع كُل مِن: وزارات الداخلية، الصِحة، الزِراعة والمياه، الصِناعة والكهرباء، والشؤون البلدية والقروية ، اللائحة التنفيذية لهذا النِظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المختبرات الخاصة، المادة السابعة عشرة",
+      "text_verbatim": "يُنشر هذا النظام في   الجريدة الرسمية  ، ويُعمل بِه بعد مائة وثمانين يومًا من تاريخ نشره.",
+      "text_for_index": "يُنشر هذا النظام في الجريدة الرسمية ، ويُعمل بِه بعد مائة وثمانين يومًا من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almkhtbrat-alkhash::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُنشر هذا النظام في   الجريدة الرسمية  ، ويُعمل بِه بعد مائة وثمانين يومًا من تاريخ نشره.",
+          "text_for_index": "يُنشر هذا النظام في الجريدة الرسمية ، ويُعمل بِه بعد مائة وثمانين يومًا من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

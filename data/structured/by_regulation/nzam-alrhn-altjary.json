@@ -1,0 +1,1830 @@
+{
+  "metadata": {
+    "slug": "nzam-alrhn-altjary",
+    "title_ar": "نظام الرهن التجاري",
+    "status": "ساري",
+    "issue_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+    "issue_date_gregorian": "2018-04-24",
+    "publish_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+    "publish_date_gregorian": "2018-04-24",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e7bd6fcc-c29c-4696-8032-aae9009b113a/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alrhn-altjary.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alrhn-altjary.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+    "effective_date_gregorian": "2018-04-24",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 47,
+    "paragraph_count": 62,
+    "indexable_paragraph_count": 62,
+    "text_chars": 8373,
+    "verbatim_chars": 8376,
+    "citation_base_ar": "نظام الرهن التجاري",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e7bd6fcc-c29c-4696-8032-aae9009b113a/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alrhn-altjary.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alrhn-altjary.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "definition",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الأولى",
+      "text_verbatim": "عُدل تعريف \"الدين أو الدين المضمون\" ليكون بالنص الآتي:\n\n\"الدين أو الدين المضمون: الدين، أو جزء الدين، الذي قُدم المال المرهون ضماناً له، ويشمل جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".\n\nعٌدل تعريف \"الدين الاقتصادي\" ليكون بالنص الآتي:\n\n\"الدين الاقتصادي: دين تجاري أو دين يترتب على شخص غير تاجر عند مزاولته نشاطاً مهنياً أو غيره من الأنشطة التي تهدف إلى تحقيق الربح، ويشمل ذلك جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".\n\nوذلك بموجب المرسوم الملكي رقم (م/19) وتاريخ 9/2/1441هـ.",
+      "text_for_index": "عُدل تعريف \"الدين أو الدين المضمون\" ليكون بالنص الآتي:\n\n\"الدين أو الدين المضمون: الدين، أو جزء الدين، الذي قُدم المال المرهون ضماناً له، ويشمل جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".\n\nعٌدل تعريف \"الدين الاقتصادي\" ليكون بالنص الآتي:\n\n\"الدين الاقتصادي: دين تجاري أو دين يترتب على شخص غير تاجر عند مزاولته نشاطاً مهنياً أو غيره من الأنشطة التي تهدف إلى تحقيق الربح، ويشمل ذلك جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".\n\nوذلك بموجب المرسوم الملكي رقم (م/19) وتاريخ 9/2/1441هـ.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "عُدل تعريف \"الدين أو الدين المضمون\" ليكون بالنص الآتي:",
+          "text_for_index": "عُدل تعريف \"الدين أو الدين المضمون\" ليكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "\"الدين أو الدين المضمون: الدين، أو جزء الدين، الذي قُدم المال المرهون ضماناً له، ويشمل جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".",
+          "text_for_index": "\"الدين أو الدين المضمون: الدين، أو جزء الدين، الذي قُدم المال المرهون ضماناً له، ويشمل جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "عٌدل تعريف \"الدين الاقتصادي\" ليكون بالنص الآتي:",
+          "text_for_index": "عٌدل تعريف \"الدين الاقتصادي\" ليكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "\"الدين الاقتصادي: دين تجاري أو دين يترتب على شخص غير تاجر عند مزاولته نشاطاً مهنياً أو غيره من الأنشطة التي تهدف إلى تحقيق الربح، ويشمل ذلك جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".",
+          "text_for_index": "\"الدين الاقتصادي: دين تجاري أو دين يترتب على شخص غير تاجر عند مزاولته نشاطاً مهنياً أو غيره من الأنشطة التي تهدف إلى تحقيق الربح، ويشمل ذلك جميع أنواع الالتزامات، الحالية والمستقبلية، بما في ذلك الثابتة أو المعلقة على شرط، والنقدية وغير النقدية\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "وذلك بموجب المرسوم الملكي رقم (م/19) وتاريخ 9/2/1441هـ.",
+          "text_for_index": "وذلك بموجب المرسوم الملكي رقم (م/19) وتاريخ 9/2/1441هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثانية",
+      "text_verbatim": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ،  وذلك بحذف عبارة \"اقتصادي بالنسبة إلى المدين\".",
+      "text_for_index": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ، وذلك بحذف عبارة \"اقتصادي بالنسبة إلى المدين\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ،  وذلك بحذف عبارة \"اقتصادي بالنسبة إلى المدين\".",
+          "text_for_index": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ، وذلك بحذف عبارة \"اقتصادي بالنسبة إلى المدين\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثالثة",
+      "text_verbatim": "يجوز انعقاد الرهن ضمانًا لدين غير ثابت في ذمة المدين، بما في ذلك الدين المعلق على شرط أو الدين الاحتمالي. ويعد الرهن ساريًا من تاريخ عقد الرهن لا من تاريخ ثبوت الدين.",
+      "text_for_index": "يجوز انعقاد الرهن ضمانًا لدين غير ثابت في ذمة المدين، بما في ذلك الدين المعلق على شرط أو الدين الاحتمالي. ويعد الرهن ساريًا من تاريخ عقد الرهن لا من تاريخ ثبوت الدين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يجوز انعقاد الرهن ضمانًا لدين غير ثابت في ذمة المدين، بما في ذلك الدين المعلق على شرط أو الدين الاحتمالي. ويعد الرهن ساريًا من تاريخ عقد الرهن لا من تاريخ ثبوت الدين.",
+          "text_for_index": "يجوز انعقاد الرهن ضمانًا لدين غير ثابت في ذمة المدين، بما في ذلك الدين المعلق على شرط أو الدين الاحتمالي. ويعد الرهن ساريًا من تاريخ عقد الرهن لا من تاريخ ثبوت الدين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الرابعة",
+      "text_verbatim": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ، لتكون بالنص الآتي: \"يعد عقد الرهن نافذاً في مواجهة الغير بالإشهار أو بانتقال حيازة المال المرهون إلى المرتهن أو المعدل، وذلك وفقاً لأحكام نظام ضمان الحقوق بالأموال المنقولة\".",
+      "text_for_index": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ، لتكون بالنص الآتي: \"يعد عقد الرهن نافذاً في مواجهة الغير بالإشهار أو بانتقال حيازة المال المرهون إلى المرتهن أو المعدل، وذلك وفقاً لأحكام نظام ضمان الحقوق بالأموال المنقولة\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ، لتكون بالنص الآتي: \"يعد عقد الرهن نافذاً في مواجهة الغير بالإشهار أو بانتقال حيازة المال المرهون إلى المرتهن أو المعدل، وذلك وفقاً لأحكام نظام ضمان الحقوق بالأموال المنقولة\".",
+          "text_for_index": "- عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ، لتكون بالنص الآتي: \"يعد عقد الرهن نافذاً في مواجهة الغير بالإشهار أو بانتقال حيازة المال المرهون إلى المرتهن أو المعدل، وذلك وفقاً لأحكام نظام ضمان الحقوق بالأموال المنقولة\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السادسة",
+      "text_verbatim": "يكون عقد الرهن غير النافذ في مواجهة الغير صحيحًا منتجًا لآثاره بين الراهن والمرتهن.",
+      "text_for_index": "يكون عقد الرهن غير النافذ في مواجهة الغير صحيحًا منتجًا لآثاره بين الراهن والمرتهن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون عقد الرهن غير النافذ في مواجهة الغير صحيحًا منتجًا لآثاره بين الراهن والمرتهن.",
+          "text_for_index": "يكون عقد الرهن غير النافذ في مواجهة الغير صحيحًا منتجًا لآثاره بين الراهن والمرتهن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السابعة",
+      "text_verbatim": "يضمن المال المرهون -إضافة إلى سداد أصل الدين المضمون- المصروفات المتعلقة به، وهي:\n\n\t• مصروفات حفظه.\n\n\t• مصروفات استثماره.\n\n\t• مصروفات تحصيل ريعه.\n\n\t• مصروفات التنفيذ عليه.",
+      "text_for_index": "يضمن المال المرهون -إضافة إلى سداد أصل الدين المضمون- المصروفات المتعلقة به، وهي:\n\n • مصروفات حفظه.\n\n • مصروفات استثماره.\n\n • مصروفات تحصيل ريعه.\n\n • مصروفات التنفيذ عليه.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يضمن المال المرهون -إضافة إلى سداد أصل الدين المضمون- المصروفات المتعلقة به، وهي:",
+          "text_for_index": "يضمن المال المرهون -إضافة إلى سداد أصل الدين المضمون- المصروفات المتعلقة به، وهي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "• مصروفات حفظه.",
+          "text_for_index": "• مصروفات حفظه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "• مصروفات استثماره.",
+          "text_for_index": "• مصروفات استثماره.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "• مصروفات تحصيل ريعه.",
+          "text_for_index": "• مصروفات تحصيل ريعه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-7::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "remedy",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "إجراء"
+          ],
+          "text_verbatim": "• مصروفات التنفيذ عليه.",
+          "text_for_index": "• مصروفات التنفيذ عليه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة التاسعة",
+      "text_verbatim": "- إحلال عبارة \"بشرط أن يكون محتمل الوجود\" محل ما يأتي: \"بشرط أن يكون وجود المال المستقبلي متوقعاً من الراهن والمرتهن وأن يمتلكه الراهن قبل حلول أجل الدين المضمون\" وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- إحلال عبارة \"بشرط أن يكون محتمل الوجود\" محل ما يأتي: \"بشرط أن يكون وجود المال المستقبلي متوقعاً من الراهن والمرتهن وأن يمتلكه الراهن قبل حلول أجل الدين المضمون\" وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "- إحلال عبارة \"بشرط أن يكون محتمل الوجود\" محل ما يأتي: \"بشرط أن يكون وجود المال المستقبلي متوقعاً من الراهن والمرتهن وأن يمتلكه الراهن قبل حلول أجل الدين المضمون\" وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- إحلال عبارة \"بشرط أن يكون محتمل الوجود\" محل ما يأتي: \"بشرط أن يكون وجود المال المستقبلي متوقعاً من الراهن والمرتهن وأن يمتلكه الراهن قبل حلول أجل الدين المضمون\" وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة العاشرة",
+      "text_verbatim": "- حذف الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حذف الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حذف الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حذف الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الحادية عشرة",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثانية عشرة",
+      "text_verbatim": "يجوز رهن أكثر من مال منقول لضمان الدين نفسه، ويحق للمرتهن في هذه الحال تحديد ترتيب التنفيذ على هذه الأموال، ما لم يُتفق على غير ذلك.",
+      "text_for_index": "يجوز رهن أكثر من مال منقول لضمان الدين نفسه، ويحق للمرتهن في هذه الحال تحديد ترتيب التنفيذ على هذه الأموال، ما لم يُتفق على غير ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "يجوز رهن أكثر من مال منقول لضمان الدين نفسه، ويحق للمرتهن في هذه الحال تحديد ترتيب التنفيذ على هذه الأموال، ما لم يُتفق على غير ذلك.",
+          "text_for_index": "يجوز رهن أكثر من مال منقول لضمان الدين نفسه، ويحق للمرتهن في هذه الحال تحديد ترتيب التنفيذ على هذه الأموال، ما لم يُتفق على غير ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الرابعة عشرة",
+      "text_verbatim": "- حذف  ما يأتي: \"ويؤول الباقي من الريع إلى الراهن، ما لم يُتفق في عقد الرهن على رهن الريع. وفي الحال يودع الباقي منه في حساب خاص وفق أحكام المادة (السادسة والثلاثين) من النظام. ويجوز أن يستوفى من الريع بعض الدين المضمون باتفاق الراهن والمرتهن\". من الفقرة (2) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حذف ما يأتي: \"ويؤول الباقي من الريع إلى الراهن، ما لم يُتفق في عقد الرهن على رهن الريع. وفي الحال يودع الباقي منه في حساب خاص وفق أحكام المادة (السادسة والثلاثين) من النظام. ويجوز أن يستوفى من الريع بعض الدين المضمون باتفاق الراهن والمرتهن\". من الفقرة (2) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "- حذف  ما يأتي: \"ويؤول الباقي من الريع إلى الراهن، ما لم يُتفق في عقد الرهن على رهن الريع. وفي الحال يودع الباقي منه في حساب خاص وفق أحكام المادة (السادسة والثلاثين) من النظام. ويجوز أن يستوفى من الريع بعض الدين المضمون باتفاق الراهن والمرتهن\". من الفقرة (2) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حذف ما يأتي: \"ويؤول الباقي من الريع إلى الراهن، ما لم يُتفق في عقد الرهن على رهن الريع. وفي الحال يودع الباقي منه في حساب خاص وفق أحكام المادة (السادسة والثلاثين) من النظام. ويجوز أن يستوفى من الريع بعض الدين المضمون باتفاق الراهن والمرتهن\". من الفقرة (2) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الخامسة عشرة",
+      "text_verbatim": "لا يجوز للمرتهن أو العدل الانتفاع بالمال المرهون إلاَّ بموافقة مكتوبة من الراهن، ويشترط أن يكون مقابل الانتفاع بما يعادل المثل.",
+      "text_for_index": "لا يجوز للمرتهن أو العدل الانتفاع بالمال المرهون إلاَّ بموافقة مكتوبة من الراهن، ويشترط أن يكون مقابل الانتفاع بما يعادل المثل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للمرتهن أو العدل الانتفاع بالمال المرهون إلاَّ بموافقة مكتوبة من الراهن، ويشترط أن يكون مقابل الانتفاع بما يعادل المثل.",
+          "text_for_index": "لا يجوز للمرتهن أو العدل الانتفاع بالمال المرهون إلاَّ بموافقة مكتوبة من الراهن، ويشترط أن يكون مقابل الانتفاع بما يعادل المثل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السابعة عشرة",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثالثة والعشرون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السابعة والعشرون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الرابعة والثلاثون",
+      "text_verbatim": "إذا كانت المنشأة الاقتصادية شركة فلا يشمل عقد رهنها إلا أصولها المنقولة (المادية والمعنوية) وحقوقها ومحلها التجاري.",
+      "text_for_index": "إذا كانت المنشأة الاقتصادية شركة فلا يشمل عقد رهنها إلا أصولها المنقولة (المادية والمعنوية) وحقوقها ومحلها التجاري.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "إذا كانت المنشأة الاقتصادية شركة فلا يشمل عقد رهنها إلا أصولها المنقولة (المادية والمعنوية) وحقوقها ومحلها التجاري.",
+          "text_for_index": "إذا كانت المنشأة الاقتصادية شركة فلا يشمل عقد رهنها إلا أصولها المنقولة (المادية والمعنوية) وحقوقها ومحلها التجاري.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الحادية والأربعون",
+      "text_verbatim": "للمرتهن -في عقد الرهن النافذ- أن ينقل إلى الغير حقه في استيفاء الدين المضمون مع الرهن الضامن له.",
+      "text_for_index": "للمرتهن -في عقد الرهن النافذ- أن ينقل إلى الغير حقه في استيفاء الدين المضمون مع الرهن الضامن له.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للمرتهن -في عقد الرهن النافذ- أن ينقل إلى الغير حقه في استيفاء الدين المضمون مع الرهن الضامن له.",
+          "text_for_index": "للمرتهن -في عقد الرهن النافذ- أن ينقل إلى الغير حقه في استيفاء الدين المضمون مع الرهن الضامن له.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثالثة والأربعون",
+      "text_verbatim": "تحدد قيمة المال المرهون ومتوسط التقويم في الحالات المنصوص عليها في النظام وفق القواعد والإجراءات التي تبينها اللائحة، ما لم يكن لدى الجهة المختصة بتنظيم أنواع معينة من الأموال إجراءات خاصة لتحديدها.",
+      "text_for_index": "تحدد قيمة المال المرهون ومتوسط التقويم في الحالات المنصوص عليها في النظام وفق القواعد والإجراءات التي تبينها اللائحة، ما لم يكن لدى الجهة المختصة بتنظيم أنواع معينة من الأموال إجراءات خاصة لتحديدها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "تحدد قيمة المال المرهون ومتوسط التقويم في الحالات المنصوص عليها في النظام وفق القواعد والإجراءات التي تبينها اللائحة، ما لم يكن لدى الجهة المختصة بتنظيم أنواع معينة من الأموال إجراءات خاصة لتحديدها.",
+          "text_for_index": "تحدد قيمة المال المرهون ومتوسط التقويم في الحالات المنصوص عليها في النظام وفق القواعد والإجراءات التي تبينها اللائحة، ما لم يكن لدى الجهة المختصة بتنظيم أنواع معينة من الأموال إجراءات خاصة لتحديدها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الخامسة",
+      "text_verbatim": "• حُذفت الفقرات (2) و(3) و(4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+      "text_for_index": "• حُذفت الفقرات (2) و(3) و(4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• حُذفت الفقرات (2) و(3) و(4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+          "text_for_index": "• حُذفت الفقرات (2) و(3) و(4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثامنة",
+      "text_verbatim": "• يجب أن يكون الراهن مالكًا للمال المرهون عند إبرام العقد وأهلاً للتصرف فيه، فإن تبين ما يخالف ذلك بعد التعاقد فللدائن المرتهن حسن النية التمسك بحقه في رهن بديل عن المال المرهون بعقد جديد، أو سقوط أجل الدين المضمون والمطالبة بالوفاء به حالاً.\n\n\t• يجب أن يكون المال المرهون مما يصح بيعه أو مما يمكن تقدير قيمته.\n\n\t• استثناءً من حكم المادتين (التاسعة) و(الخامسة والثلاثين)، لا يصح رهن أموال أو حقوق من تركات أو وصايا لم تدخل في ملك الراهن.",
+      "text_for_index": "• يجب أن يكون الراهن مالكًا للمال المرهون عند إبرام العقد وأهلاً للتصرف فيه، فإن تبين ما يخالف ذلك بعد التعاقد فللدائن المرتهن حسن النية التمسك بحقه في رهن بديل عن المال المرهون بعقد جديد، أو سقوط أجل الدين المضمون والمطالبة بالوفاء به حالاً.\n\n • يجب أن يكون المال المرهون مما يصح بيعه أو مما يمكن تقدير قيمته.\n\n • استثناءً من حكم المادتين (التاسعة) و(الخامسة والثلاثين)، لا يصح رهن أموال أو حقوق من تركات أو وصايا لم تدخل في ملك الراهن.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب أن يكون الراهن مالكًا للمال المرهون عند إبرام العقد وأهلاً للتصرف فيه، فإن تبين ما يخالف ذلك بعد التعاقد فللدائن المرتهن حسن النية التمسك بحقه في رهن بديل عن المال المرهون بعقد جديد، أو سقوط أجل الدين المضمون والمطالبة بالوفاء به حالاً.",
+          "text_for_index": "• يجب أن يكون الراهن مالكًا للمال المرهون عند إبرام العقد وأهلاً للتصرف فيه، فإن تبين ما يخالف ذلك بعد التعاقد فللدائن المرتهن حسن النية التمسك بحقه في رهن بديل عن المال المرهون بعقد جديد، أو سقوط أجل الدين المضمون والمطالبة بالوفاء به حالاً.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب أن يكون المال المرهون مما يصح بيعه أو مما يمكن تقدير قيمته.",
+          "text_for_index": "• يجب أن يكون المال المرهون مما يصح بيعه أو مما يمكن تقدير قيمته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-8::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "• استثناءً من حكم المادتين (التاسعة) و(الخامسة والثلاثين)، لا يصح رهن أموال أو حقوق من تركات أو وصايا لم تدخل في ملك الراهن.",
+          "text_for_index": "• استثناءً من حكم المادتين (التاسعة) و(الخامسة والثلاثين)، لا يصح رهن أموال أو حقوق من تركات أو وصايا لم تدخل في ملك الراهن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثالثة عشرة",
+      "text_verbatim": "• حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "• حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "• حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السادسة عشرة",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثامنة عشرة",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "remedy",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "علاج أو تعويض",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة التاسعة عشرة",
+      "text_verbatim": "يترتب على ثبوت حق المرتهن في تتبع المال المرهون حقه في التنفيذ عليه في يد من انتقلت إليه ملكيته وإن لم يعلم بوجود الرهن، ويحق لمن انتقلت إليه ملكية المال المرهون الرجوع في هذه الحال على الراهن أو البائع بالقيمة ودون إخلال في حقه بالتعويض ما لم يتنازل عن هذا الحق كتابة.",
+      "text_for_index": "يترتب على ثبوت حق المرتهن في تتبع المال المرهون حقه في التنفيذ عليه في يد من انتقلت إليه ملكيته وإن لم يعلم بوجود الرهن، ويحق لمن انتقلت إليه ملكية المال المرهون الرجوع في هذه الحال على الراهن أو البائع بالقيمة ودون إخلال في حقه بالتعويض ما لم يتنازل عن هذا الحق كتابة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "remedy",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "علاج أو تعويض",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يترتب على ثبوت حق المرتهن في تتبع المال المرهون حقه في التنفيذ عليه في يد من انتقلت إليه ملكيته وإن لم يعلم بوجود الرهن، ويحق لمن انتقلت إليه ملكية المال المرهون الرجوع في هذه الحال على الراهن أو البائع بالقيمة ودون إخلال في حقه بالتعويض ما لم يتنازل عن هذا الحق كتابة.",
+          "text_for_index": "يترتب على ثبوت حق المرتهن في تتبع المال المرهون حقه في التنفيذ عليه في يد من انتقلت إليه ملكيته وإن لم يعلم بوجود الرهن، ويحق لمن انتقلت إليه ملكية المال المرهون الرجوع في هذه الحال على الراهن أو البائع بالقيمة ودون إخلال في حقه بالتعويض ما لم يتنازل عن هذا الحق كتابة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة العشرون",
+      "text_verbatim": "ينتقل المال المرهون بالإرث أو الوصية محملاً بالرهن.",
+      "text_for_index": "ينتقل المال المرهون بالإرث أو الوصية محملاً بالرهن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينتقل المال المرهون بالإرث أو الوصية محملاً بالرهن.",
+          "text_for_index": "ينتقل المال المرهون بالإرث أو الوصية محملاً بالرهن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الحادية والعشرون",
+      "text_verbatim": "يجوز لمن انتقلت إليه ملكية المال المرهون تطهيره بأداء الدين المضمون والنفقات والمصروفات التي تكبدها المرتهن، ويحق له في هذه الحال الرجوع على الراهن بما لا يتجاوز إجمالي ما كان سيدفعه الراهن إلى المرتهن، ما لم يتفق مع الراهن على غير ذلك.",
+      "text_for_index": "يجوز لمن انتقلت إليه ملكية المال المرهون تطهيره بأداء الدين المضمون والنفقات والمصروفات التي تكبدها المرتهن، ويحق له في هذه الحال الرجوع على الراهن بما لا يتجاوز إجمالي ما كان سيدفعه الراهن إلى المرتهن، ما لم يتفق مع الراهن على غير ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "يجوز لمن انتقلت إليه ملكية المال المرهون تطهيره بأداء الدين المضمون والنفقات والمصروفات التي تكبدها المرتهن، ويحق له في هذه الحال الرجوع على الراهن بما لا يتجاوز إجمالي ما كان سيدفعه الراهن إلى المرتهن، ما لم يتفق مع الراهن على غير ذلك.",
+          "text_for_index": "يجوز لمن انتقلت إليه ملكية المال المرهون تطهيره بأداء الدين المضمون والنفقات والمصروفات التي تكبدها المرتهن، ويحق له في هذه الحال الرجوع على الراهن بما لا يتجاوز إجمالي ما كان سيدفعه الراهن إلى المرتهن، ما لم يتفق مع الراهن على غير ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثانية والعشرون",
+      "text_verbatim": "• الحائز مسؤول عن سلامة المال المرهون حتى تاريخ انقضاء الرهن أو التنفيذ على المال المرهون. وللمرتهن أو الراهن -بحسب الأحوال- أن يطلب من المحكمة المختصة إلزام الحائز باتخاذ الإجراءات اللازمة للمحافظة على المال المرهون وحمايته وصيانته وإصلاحه.\n\n\t• للمرتهن أو الراهن -بحسب الأحوال- الاعتراض أمام المحكمة المختصة على أي إجراء يتخذه الحائز قد يؤدي إلى إنقاص قيمة المال المرهون أو تعريضه للهلاك أو العيب، وتنظر المحكمة المختصة في الاعتراض بصفة عاجلة.\n\n\t• مع مراعاة ما ورد في الفقرة (1) من المادة (الرابعة والعشرين) من النظام، يضمن الحائز قيمة المال المرهون إذا هلك بسبب تعدٍّ أو إهمال أو تقصير منه.",
+      "text_for_index": "• الحائز مسؤول عن سلامة المال المرهون حتى تاريخ انقضاء الرهن أو التنفيذ على المال المرهون. وللمرتهن أو الراهن -بحسب الأحوال- أن يطلب من المحكمة المختصة إلزام الحائز باتخاذ الإجراءات اللازمة للمحافظة على المال المرهون وحمايته وصيانته وإصلاحه.\n\n • للمرتهن أو الراهن -بحسب الأحوال- الاعتراض أمام المحكمة المختصة على أي إجراء يتخذه الحائز قد يؤدي إلى إنقاص قيمة المال المرهون أو تعريضه للهلاك أو العيب، وتنظر المحكمة المختصة في الاعتراض بصفة عاجلة.\n\n • مع مراعاة ما ورد في الفقرة (1) من المادة (الرابعة والعشرين) من النظام، يضمن الحائز قيمة المال المرهون إذا هلك بسبب تعدٍّ أو إهمال أو تقصير منه.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الحائز مسؤول عن سلامة المال المرهون حتى تاريخ انقضاء الرهن أو التنفيذ على المال المرهون. وللمرتهن أو الراهن -بحسب الأحوال- أن يطلب من المحكمة المختصة إلزام الحائز باتخاذ الإجراءات اللازمة للمحافظة على المال المرهون وحمايته وصيانته وإصلاحه.",
+          "text_for_index": "• الحائز مسؤول عن سلامة المال المرهون حتى تاريخ انقضاء الرهن أو التنفيذ على المال المرهون. وللمرتهن أو الراهن -بحسب الأحوال- أن يطلب من المحكمة المختصة إلزام الحائز باتخاذ الإجراءات اللازمة للمحافظة على المال المرهون وحمايته وصيانته وإصلاحه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "التزام"
+          ],
+          "text_verbatim": "• للمرتهن أو الراهن -بحسب الأحوال- الاعتراض أمام المحكمة المختصة على أي إجراء يتخذه الحائز قد يؤدي إلى إنقاص قيمة المال المرهون أو تعريضه للهلاك أو العيب، وتنظر المحكمة المختصة في الاعتراض بصفة عاجلة.",
+          "text_for_index": "• للمرتهن أو الراهن -بحسب الأحوال- الاعتراض أمام المحكمة المختصة على أي إجراء يتخذه الحائز قد يؤدي إلى إنقاص قيمة المال المرهون أو تعريضه للهلاك أو العيب، وتنظر المحكمة المختصة في الاعتراض بصفة عاجلة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-22::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• مع مراعاة ما ورد في الفقرة (1) من المادة (الرابعة والعشرين) من النظام، يضمن الحائز قيمة المال المرهون إذا هلك بسبب تعدٍّ أو إهمال أو تقصير منه.",
+          "text_for_index": "• مع مراعاة ما ورد في الفقرة (1) من المادة (الرابعة والعشرين) من النظام، يضمن الحائز قيمة المال المرهون إذا هلك بسبب تعدٍّ أو إهمال أو تقصير منه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الرابعة والعشرون",
+      "text_verbatim": "- حُذفت عبارة \"وفق أحكام (المادة السادسة عشرة) من النظام\" من الفقرة (1) من هذه المادة. وكذلك عبارة \"ويودع الراهن مبلغ التعويض في حساب خاص تسري عليه أحكام المادة (السادسة والثلاثين) من النظام\"، وعبارة \"-كتابة- على خصم مبلغ التعويض من أصل الدين المضمون\" من الفقرة (2) من هذه المادة. وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت عبارة \"وفق أحكام (المادة السادسة عشرة) من النظام\" من الفقرة (1) من هذه المادة. وكذلك عبارة \"ويودع الراهن مبلغ التعويض في حساب خاص تسري عليه أحكام المادة (السادسة والثلاثين) من النظام\"، وعبارة \"-كتابة- على خصم مبلغ التعويض من أصل الدين المضمون\" من الفقرة (2) من هذه المادة. وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "- حُذفت عبارة \"وفق أحكام (المادة السادسة عشرة) من النظام\" من الفقرة (1) من هذه المادة. وكذلك عبارة \"ويودع الراهن مبلغ التعويض في حساب خاص تسري عليه أحكام المادة (السادسة والثلاثين) من النظام\"، وعبارة \"-كتابة- على خصم مبلغ التعويض من أصل الدين المضمون\" من الفقرة (2) من هذه المادة. وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت عبارة \"وفق أحكام (المادة السادسة عشرة) من النظام\" من الفقرة (1) من هذه المادة. وكذلك عبارة \"ويودع الراهن مبلغ التعويض في حساب خاص تسري عليه أحكام المادة (السادسة والثلاثين) من النظام\"، وعبارة \"-كتابة- على خصم مبلغ التعويض من أصل الدين المضمون\" من الفقرة (2) من هذه المادة. وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الخامسة والعشرون",
+      "text_verbatim": "- حُذفت الفقرة (4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت الفقرة (4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت الفقرة (4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت الفقرة (4) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السادسة والعشرون",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ. لتكون بالنص الآتي: \"مع مراعاة أحكام التنفيذ الواردة في نظام ضمان الحقوق بالأموال المنقولة، للائحة تحديد أحكام خاصة للتنفيذ على المال المرهون\".",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ. لتكون بالنص الآتي: \"مع مراعاة أحكام التنفيذ الواردة في نظام ضمان الحقوق بالأموال المنقولة، للائحة تحديد أحكام خاصة للتنفيذ على المال المرهون\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ. لتكون بالنص الآتي: \"مع مراعاة أحكام التنفيذ الواردة في نظام ضمان الحقوق بالأموال المنقولة، للائحة تحديد أحكام خاصة للتنفيذ على المال المرهون\".",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ. لتكون بالنص الآتي: \"مع مراعاة أحكام التنفيذ الواردة في نظام ضمان الحقوق بالأموال المنقولة، للائحة تحديد أحكام خاصة للتنفيذ على المال المرهون\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثامنة والعشرون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة التاسعة والعشرون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثلاثون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الحادية والثلاثون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثانية والثلاثون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثالثة والثلاثون",
+      "text_verbatim": "عُدلت الفقرة (2) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 /1441هـ، لتكون بالنص الآتي:\n\n\"2- حقوق المنشأة الاقتصادية وأصولها من المنقولات\".",
+      "text_for_index": "عُدلت الفقرة (2) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 /1441هـ، لتكون بالنص الآتي:\n\n\"2- حقوق المنشأة الاقتصادية وأصولها من المنقولات\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "عُدلت الفقرة (2) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 /1441هـ، لتكون بالنص الآتي:",
+          "text_for_index": "عُدلت الفقرة (2) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 /1441هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-33::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "\"2- حقوق المنشأة الاقتصادية وأصولها من المنقولات\".",
+          "text_for_index": "\"2- حقوق المنشأة الاقتصادية وأصولها من المنقولات\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الخامسة والثلاثون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السادسة والثلاثون",
+      "text_verbatim": "- حُذفت الفقرتين (1) و (4) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+      "text_for_index": "- حُذفت الفقرتين (1) و (4) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت الفقرتين (1) و (4) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+          "text_for_index": "- حُذفت الفقرتين (1) و (4) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 15/8/1441هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السابعة والثلاثون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثامنة والثلاثون",
+      "text_verbatim": "- عٌدلت الفقرة (1) من هذه المادة لتكون بالنص الآتي:\n\n\"1- يجوز رهن جميع الأموال المنقولة المملوكة للراهن أو جزء منها أو فئة منها، ويجوز كذلك رهن أي مال منقول موصوف وصفً عاماً وكافياً لتعيينه\".\n\n-  حُذفت الفقرة (4) و الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 / 1411هـ .",
+      "text_for_index": "- عٌدلت الفقرة (1) من هذه المادة لتكون بالنص الآتي:\n\n\"1- يجوز رهن جميع الأموال المنقولة المملوكة للراهن أو جزء منها أو فئة منها، ويجوز كذلك رهن أي مال منقول موصوف وصفً عاماً وكافياً لتعيينه\".\n\n- حُذفت الفقرة (4) و الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 / 1411هـ .",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "- عٌدلت الفقرة (1) من هذه المادة لتكون بالنص الآتي:",
+          "text_for_index": "- عٌدلت الفقرة (1) من هذه المادة لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-38::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "\"1- يجوز رهن جميع الأموال المنقولة المملوكة للراهن أو جزء منها أو فئة منها، ويجوز كذلك رهن أي مال منقول موصوف وصفً عاماً وكافياً لتعيينه\".",
+          "text_for_index": "\"1- يجوز رهن جميع الأموال المنقولة المملوكة للراهن أو جزء منها أو فئة منها، ويجوز كذلك رهن أي مال منقول موصوف وصفً عاماً وكافياً لتعيينه\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-38::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "-  حُذفت الفقرة (4) و الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 / 1411هـ .",
+          "text_for_index": "- حُذفت الفقرة (4) و الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/19) وتاريخ 9 / 2 / 1411هـ .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة التاسعة والثلاثون",
+      "text_verbatim": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون",
+      "article_heading": "الأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الأربعون",
+      "text_verbatim": "- حّذفت الفقرات الفرعية (هـ) و (و) و (ز) من الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حّذفت الفقرات الفرعية (هـ) و (و) و (ز) من الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حّذفت الفقرات الفرعية (هـ) و (و) و (ز) من الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حّذفت الفقرات الفرعية (هـ) و (و) و (ز) من الفقرة (1) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الثانية والأربعون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الرابعة والأربعون",
+      "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة الخامسة والأربعون",
+      "text_verbatim": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "text_for_index": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "text_for_index": "- حُذفت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/94) وتاريخ 1441/8/15هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السادسة والأربعون",
+      "text_verbatim": "يحل هذا النظام محل نظام الرهن التجاري, الصادر بالمرسوم الملكي رقم (م/75) وتاريخ 21 / 11 / 1424هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يحل هذا النظام محل نظام الرهن التجاري, الصادر بالمرسوم الملكي رقم (م/75) وتاريخ 21 / 11 / 1424هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل هذا النظام محل نظام الرهن التجاري, الصادر بالمرسوم الملكي رقم (م/75) وتاريخ 21 / 11 / 1424هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يحل هذا النظام محل نظام الرهن التجاري, الصادر بالمرسوم الملكي رقم (م/75) وتاريخ 21 / 11 / 1424هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الرهن التجاري، المادة السابعة والأربعون",
+      "text_verbatim": "يعمل بالنظام من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بالنظام من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alrhn-altjary::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بالنظام من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بالنظام من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

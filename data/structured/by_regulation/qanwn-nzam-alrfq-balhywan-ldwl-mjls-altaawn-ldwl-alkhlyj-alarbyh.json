@@ -1,0 +1,807 @@
+{
+  "metadata": {
+    "slug": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+    "title_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية",
+    "status": "ساري",
+    "issue_date_hijri": "1434/07/26 هـ الموافق : 05/06/2013 مـ",
+    "issue_date_gregorian": "2013-06-05",
+    "publish_date_hijri": "1434/08/26 هـ الموافق : 05/07/2013 مـ",
+    "publish_date_gregorian": "2013-07-05",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6f3797d0-fc94-4930-b5e3-a9a700f25744/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1434/08/26 هـ الموافق : 05/07/2013 مـ",
+    "effective_date_gregorian": "2013-07-05",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 16,
+    "paragraph_count": 18,
+    "indexable_paragraph_count": 18,
+    "text_chars": 4158,
+    "verbatim_chars": 4158,
+    "citation_base_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6f3797d0-fc94-4930-b5e3-a9a700f25744/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "(1)",
+      "article_label_raw": "(1)",
+      "article_heading": "(1)",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "definition",
+        "procedure",
+        "authority",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "تعريف",
+        "إجراء",
+        "اختصاص",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (1)",
+      "text_verbatim": "يقصد بالتعابير والمصطلحات التالية المعاني المبينة أمامها ما لم يقتض سياق النص غير ذلك:\nالمجلس: مجلس التعاون لدول الخليج العربية.\nدول المجلس: دول مجلس التعاون لدول الخليج العربية.\nالمجلس الأعلى: المجلس الأعلى لمجلس التعاون لدول الخليج العربية.\nالدولة: إحدى الدول الأعضاء بمجلس التعاون لدول الخليج العربية.\nالجهة المختصة: الوزارة أو الجهة المسؤولة عن الزراعة والثروة الحيوانية في الدولة.\nرئيس الجهة المختصة: الوزير المسئول عن الزراعة والثروة الحيوانية أو المستحضرات البيطرية أو رئيس الجهة المسئولة.\nالموظفون المخولون: الموظفون الرسميون المخولون بتنفيذ أحكام هذا القانون ولائحته التنفيذية ممن لديهم صفة الضبطية القضائية.\nالحيوان: جميع أنواع الحيوانات ومنها الطيور، والزواحف، والبرمائيات، والأسماك.\nالمنشآت: أي مكان تحتفظ أو تحتجز أو تستولد أو تربي أو تذبح أو تعالج فيه الحيوانات وتشمل الأماكن العامة والخاصة.\nوسائل النقل: أية وسيلة يتم من خلالها نقل الحيوانات وتشمل كافة وسائل النقل البري والبحري والجوي.",
+      "text_for_index": "يقصد بالتعابير والمصطلحات التالية المعاني المبينة أمامها ما لم يقتض سياق النص غير ذلك:\nالمجلس: مجلس التعاون لدول الخليج العربية.\nدول المجلس: دول مجلس التعاون لدول الخليج العربية.\nالمجلس الأعلى: المجلس الأعلى لمجلس التعاون لدول الخليج العربية.\nالدولة: إحدى الدول الأعضاء بمجلس التعاون لدول الخليج العربية.\nالجهة المختصة: الوزارة أو الجهة المسؤولة عن الزراعة والثروة الحيوانية في الدولة.\nرئيس الجهة المختصة: الوزير المسئول عن الزراعة والثروة الحيوانية أو المستحضرات البيطرية أو رئيس الجهة المسئولة.\nالموظفون المخولون: الموظفون الرسميون المخولون بتنفيذ أحكام هذا القانون ولائحته التنفيذية ممن لديهم صفة الضبطية القضائية.\nالحيوان: جميع أنواع الحيوانات ومنها الطيور، والزواحف، والبرمائيات، والأسماك.\nالمنشآت: أي مكان تحتفظ أو تحتجز أو تستولد أو تربي أو تذبح أو تعالج فيه الحيوانات وتشمل الأماكن العامة والخاصة.\nوسائل النقل: أية وسيلة يتم من خلالها نقل الحيوانات وتشمل كافة وسائل النقل البري والبحري والجوي.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "definition",
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "تعريف",
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالتعابير والمصطلحات التالية المعاني المبينة أمامها ما لم يقتض سياق النص غير ذلك:\nالمجلس: مجلس التعاون لدول الخليج العربية.\nدول المجلس: دول مجلس التعاون لدول الخليج العربية.\nالمجلس الأعلى: المجلس الأعلى لمجلس التعاون لدول الخليج العربية.\nالدولة: إحدى الدول الأعضاء بمجلس التعاون لدول الخليج العربية.\nالجهة المختصة: الوزارة أو الجهة المسؤولة عن الزراعة والثروة الحيوانية في الدولة.\nرئيس الجهة المختصة: الوزير المسئول عن الزراعة والثروة الحيوانية أو المستحضرات البيطرية أو رئيس الجهة المسئولة.\nالموظفون المخولون: الموظفون الرسميون المخولون بتنفيذ أحكام هذا القانون ولائحته التنفيذية ممن لديهم صفة الضبطية القضائية.\nالحيوان: جميع أنواع الحيوانات ومنها الطيور، والزواحف، والبرمائيات، والأسماك.",
+          "text_for_index": "يقصد بالتعابير والمصطلحات التالية المعاني المبينة أمامها ما لم يقتض سياق النص غير ذلك:\nالمجلس: مجلس التعاون لدول الخليج العربية.\nدول المجلس: دول مجلس التعاون لدول الخليج العربية.\nالمجلس الأعلى: المجلس الأعلى لمجلس التعاون لدول الخليج العربية.\nالدولة: إحدى الدول الأعضاء بمجلس التعاون لدول الخليج العربية.\nالجهة المختصة: الوزارة أو الجهة المسؤولة عن الزراعة والثروة الحيوانية في الدولة.\nرئيس الجهة المختصة: الوزير المسئول عن الزراعة والثروة الحيوانية أو المستحضرات البيطرية أو رئيس الجهة المسئولة.\nالموظفون المخولون: الموظفون الرسميون المخولون بتنفيذ أحكام هذا القانون ولائحته التنفيذية ممن لديهم صفة الضبطية القضائية.\nالحيوان: جميع أنواع الحيوانات ومنها الطيور، والزواحف، والبرمائيات، والأسماك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "المنشآت: أي مكان تحتفظ أو تحتجز أو تستولد أو تربي أو تذبح أو تعالج فيه الحيوانات وتشمل الأماكن العامة والخاصة.\nوسائل النقل: أية وسيلة يتم من خلالها نقل الحيوانات وتشمل كافة وسائل النقل البري والبحري والجوي.",
+          "text_for_index": "المنشآت: أي مكان تحتفظ أو تحتجز أو تستولد أو تربي أو تذبح أو تعالج فيه الحيوانات وتشمل الأماكن العامة والخاصة.\nوسائل النقل: أية وسيلة يتم من خلالها نقل الحيوانات وتشمل كافة وسائل النقل البري والبحري والجوي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "(2)",
+      "article_label_raw": "(2)",
+      "article_heading": "(2)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (2)",
+      "text_verbatim": "على ملاك الحيوانات والقائمين على رعايتها اتخاذ جميع الاحتياطات التي تضمن عدم الإضرار أو إلحاق الأذى أو التسبب في ألم أو معاناة الحيوانات ويجب عليهم بوجه خاص الالتزام بما يلي:-\nأ - توفير المنشآت المناسبة والظروف المعيشية الضرورية لإيواء الحيوانات.\nب - توفير العدد الكافي من العاملين المؤهلين ممن لديهم القدرة المناسبة والمعرفة والكفاية المهنية بالأمور المتعلقة بالرفق بالحيوان.\nج - معاينة الحيوانات وتفقد أحوالها مرة واحدة على الأقل في اليوم.\nد - عدم إطلاق سراح أي حيوان يعتمد بقاءه على الإنسان، وفي حالة الرغبة في التخلي عنه يتم ذلك بالتنسيق مع الجهة المختصة.\nهـ - متابعة الحالة الصحية للحيوانات وعرضها على الطبيب البيطري للكشف عليها ومعالجتها واتخاذ ما يلزم في هذا الشأن.",
+      "text_for_index": "على ملاك الحيوانات والقائمين على رعايتها اتخاذ جميع الاحتياطات التي تضمن عدم الإضرار أو إلحاق الأذى أو التسبب في ألم أو معاناة الحيوانات ويجب عليهم بوجه خاص الالتزام بما يلي:-\nأ - توفير المنشآت المناسبة والظروف المعيشية الضرورية لإيواء الحيوانات.\nب - توفير العدد الكافي من العاملين المؤهلين ممن لديهم القدرة المناسبة والمعرفة والكفاية المهنية بالأمور المتعلقة بالرفق بالحيوان.\nج - معاينة الحيوانات وتفقد أحوالها مرة واحدة على الأقل في اليوم.\nد - عدم إطلاق سراح أي حيوان يعتمد بقاءه على الإنسان، وفي حالة الرغبة في التخلي عنه يتم ذلك بالتنسيق مع الجهة المختصة.\nهـ - متابعة الحالة الصحية للحيوانات وعرضها على الطبيب البيطري للكشف عليها ومعالجتها واتخاذ ما يلزم في هذا الشأن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "اختصاص"
+          ],
+          "text_verbatim": "على ملاك الحيوانات والقائمين على رعايتها اتخاذ جميع الاحتياطات التي تضمن عدم الإضرار أو إلحاق الأذى أو التسبب في ألم أو معاناة الحيوانات ويجب عليهم بوجه خاص الالتزام بما يلي:-\nأ - توفير المنشآت المناسبة والظروف المعيشية الضرورية لإيواء الحيوانات.\nب - توفير العدد الكافي من العاملين المؤهلين ممن لديهم القدرة المناسبة والمعرفة والكفاية المهنية بالأمور المتعلقة بالرفق بالحيوان.\nج - معاينة الحيوانات وتفقد أحوالها مرة واحدة على الأقل في اليوم.\nد - عدم إطلاق سراح أي حيوان يعتمد بقاءه على الإنسان، وفي حالة الرغبة في التخلي عنه يتم ذلك بالتنسيق مع الجهة المختصة.\nهـ - متابعة الحالة الصحية للحيوانات وعرضها على الطبيب البيطري للكشف عليها ومعالجتها واتخاذ ما يلزم في هذا الشأن.",
+          "text_for_index": "على ملاك الحيوانات والقائمين على رعايتها اتخاذ جميع الاحتياطات التي تضمن عدم الإضرار أو إلحاق الأذى أو التسبب في ألم أو معاناة الحيوانات ويجب عليهم بوجه خاص الالتزام بما يلي:-\nأ - توفير المنشآت المناسبة والظروف المعيشية الضرورية لإيواء الحيوانات.\nب - توفير العدد الكافي من العاملين المؤهلين ممن لديهم القدرة المناسبة والمعرفة والكفاية المهنية بالأمور المتعلقة بالرفق بالحيوان.\nج - معاينة الحيوانات وتفقد أحوالها مرة واحدة على الأقل في اليوم.\nد - عدم إطلاق سراح أي حيوان يعتمد بقاءه على الإنسان، وفي حالة الرغبة في التخلي عنه يتم ذلك بالتنسيق مع الجهة المختصة.\nهـ - متابعة الحالة الصحية للحيوانات وعرضها على الطبيب البيطري للكشف عليها ومعالجتها واتخاذ ما يلزم في هذا الشأن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "(3)",
+      "article_label_raw": "(3)",
+      "article_heading": "(3)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (3)",
+      "text_verbatim": "أ - يحق للموظفين المخولين دخول أي منشأة للتفتيش والتأكد من تطبيق أحكام هذا القانون (النظام) ولائحته التنفيذية، وإذا كانت المنشأة منازل سكنية خاصة فيتعين الحصول على إذن مسبق من الجهة المعنية بالدولة.\nب - يحق للموظفين المخولين الاستعانة بمن يرونه مناسباً لفحص أية حيوانات داخل المنشآت وإجراء الاختبارات وأخذ العينات التي يرى أنها ضرورية.\nج - على المالك أو الشخص المسئول عن الحيوانات داخل أية منشأة أن يقدم التسهيلات اللازمة للأشخاص المخولين بما في ذلك المساعدة في السيطرة على الحيوانات للفحص وأخذ العينات وتقديم أية وثائق ذات علاقة بالحيوانات تطلب منهم.\nد - للموظفين المخولين وضع علامات مميزة على الحيوانات بطريقة تمكن من التعرف على كل حيوان على حدة، ولا يجوز إزالة هذه العلامات عن الحيوانات إلا بموافقة مسبقة من الجهة المختصة.",
+      "text_for_index": "أ - يحق للموظفين المخولين دخول أي منشأة للتفتيش والتأكد من تطبيق أحكام هذا القانون (النظام) ولائحته التنفيذية، وإذا كانت المنشأة منازل سكنية خاصة فيتعين الحصول على إذن مسبق من الجهة المعنية بالدولة.\nب - يحق للموظفين المخولين الاستعانة بمن يرونه مناسباً لفحص أية حيوانات داخل المنشآت وإجراء الاختبارات وأخذ العينات التي يرى أنها ضرورية.\nج - على المالك أو الشخص المسئول عن الحيوانات داخل أية منشأة أن يقدم التسهيلات اللازمة للأشخاص المخولين بما في ذلك المساعدة في السيطرة على الحيوانات للفحص وأخذ العينات وتقديم أية وثائق ذات علاقة بالحيوانات تطلب منهم.\nد - للموظفين المخولين وضع علامات مميزة على الحيوانات بطريقة تمكن من التعرف على كل حيوان على حدة، ولا يجوز إزالة هذه العلامات عن الحيوانات إلا بموافقة مسبقة من الجهة المختصة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "أ - يحق للموظفين المخولين دخول أي منشأة للتفتيش والتأكد من تطبيق أحكام هذا القانون (النظام) ولائحته التنفيذية، وإذا كانت المنشأة منازل سكنية خاصة فيتعين الحصول على إذن مسبق من الجهة المعنية بالدولة.\nب - يحق للموظفين المخولين الاستعانة بمن يرونه مناسباً لفحص أية حيوانات داخل المنشآت وإجراء الاختبارات وأخذ العينات التي يرى أنها ضرورية.\nج - على المالك أو الشخص المسئول عن الحيوانات داخل أية منشأة أن يقدم التسهيلات اللازمة للأشخاص المخولين بما في ذلك المساعدة في السيطرة على الحيوانات للفحص وأخذ العينات وتقديم أية وثائق ذات علاقة بالحيوانات تطلب منهم.",
+          "text_for_index": "أ - يحق للموظفين المخولين دخول أي منشأة للتفتيش والتأكد من تطبيق أحكام هذا القانون (النظام) ولائحته التنفيذية، وإذا كانت المنشأة منازل سكنية خاصة فيتعين الحصول على إذن مسبق من الجهة المعنية بالدولة.\nب - يحق للموظفين المخولين الاستعانة بمن يرونه مناسباً لفحص أية حيوانات داخل المنشآت وإجراء الاختبارات وأخذ العينات التي يرى أنها ضرورية.\nج - على المالك أو الشخص المسئول عن الحيوانات داخل أية منشأة أن يقدم التسهيلات اللازمة للأشخاص المخولين بما في ذلك المساعدة في السيطرة على الحيوانات للفحص وأخذ العينات وتقديم أية وثائق ذات علاقة بالحيوانات تطلب منهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "د - للموظفين المخولين وضع علامات مميزة على الحيوانات بطريقة تمكن من التعرف على كل حيوان على حدة، ولا يجوز إزالة هذه العلامات عن الحيوانات إلا بموافقة مسبقة من الجهة المختصة.",
+          "text_for_index": "د - للموظفين المخولين وضع علامات مميزة على الحيوانات بطريقة تمكن من التعرف على كل حيوان على حدة، ولا يجوز إزالة هذه العلامات عن الحيوانات إلا بموافقة مسبقة من الجهة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "(4)",
+      "article_label_raw": "(4)",
+      "article_heading": "(4)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (4)",
+      "text_verbatim": "يجب أن تخضع المنشآت للشروط الصحية والفنية التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+      "text_for_index": "يجب أن تخضع المنشآت للشروط الصحية والفنية التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب أن تخضع المنشآت للشروط الصحية والفنية التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+          "text_for_index": "يجب أن تخضع المنشآت للشروط الصحية والفنية التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "(5)",
+      "article_label_raw": "(5)",
+      "article_heading": "(5)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (5)",
+      "text_verbatim": "يجب تغذية الحيوانات بما يتناسب مع عمرها ونوعها وبكميات كافية تبقيها بصحة جيدة.",
+      "text_for_index": "يجب تغذية الحيوانات بما يتناسب مع عمرها ونوعها وبكميات كافية تبقيها بصحة جيدة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب تغذية الحيوانات بما يتناسب مع عمرها ونوعها وبكميات كافية تبقيها بصحة جيدة.",
+          "text_for_index": "يجب تغذية الحيوانات بما يتناسب مع عمرها ونوعها وبكميات كافية تبقيها بصحة جيدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "(6)",
+      "article_label_raw": "(6)",
+      "article_heading": "(6)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "commercial_fraud",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "غش تجاري",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (6)",
+      "text_verbatim": "يجب نقل الحيوانات بطريقة تضمن سلامتها، وعدم تعريضها للإصابات أو الضرر، وتحدد اللائحة التنفيذية لهذا القانون (النظام) الشروط والمواصفات الواجب توفرها في وسائل النقل.",
+      "text_for_index": "يجب نقل الحيوانات بطريقة تضمن سلامتها، وعدم تعريضها للإصابات أو الضرر، وتحدد اللائحة التنفيذية لهذا القانون (النظام) الشروط والمواصفات الواجب توفرها في وسائل النقل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب نقل الحيوانات بطريقة تضمن سلامتها، وعدم تعريضها للإصابات أو الضرر، وتحدد اللائحة التنفيذية لهذا القانون (النظام) الشروط والمواصفات الواجب توفرها في وسائل النقل.",
+          "text_for_index": "يجب نقل الحيوانات بطريقة تضمن سلامتها، وعدم تعريضها للإصابات أو الضرر، وتحدد اللائحة التنفيذية لهذا القانون (النظام) الشروط والمواصفات الواجب توفرها في وسائل النقل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "(7)",
+      "article_label_raw": "(7)",
+      "article_heading": "(7)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (7)",
+      "text_verbatim": "يحظر عرض أو الإتجار بأي حيوان تظهر عليه أعراض مرضية أو إعياء.",
+      "text_for_index": "يحظر عرض أو الإتجار بأي حيوان تظهر عليه أعراض مرضية أو إعياء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يحظر عرض أو الإتجار بأي حيوان تظهر عليه أعراض مرضية أو إعياء.",
+          "text_for_index": "يحظر عرض أو الإتجار بأي حيوان تظهر عليه أعراض مرضية أو إعياء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "(8)",
+      "article_label_raw": "(8)",
+      "article_heading": "(8)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "procurement_ethics"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "نزاهة المنافسات والمشتريات"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (8)",
+      "text_verbatim": "تحدد اللائحة التنفيذية لهذا القانون (النظام) أسس وضوابط تنظيم المعارض العامة أو المنافسات أو عروض الحيوانات لأغراض تجارية أو أية أغراض أخرى.",
+      "text_for_index": "تحدد اللائحة التنفيذية لهذا القانون (النظام) أسس وضوابط تنظيم المعارض العامة أو المنافسات أو عروض الحيوانات لأغراض تجارية أو أية أغراض أخرى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تحدد اللائحة التنفيذية لهذا القانون (النظام) أسس وضوابط تنظيم المعارض العامة أو المنافسات أو عروض الحيوانات لأغراض تجارية أو أية أغراض أخرى.",
+          "text_for_index": "تحدد اللائحة التنفيذية لهذا القانون (النظام) أسس وضوابط تنظيم المعارض العامة أو المنافسات أو عروض الحيوانات لأغراض تجارية أو أية أغراض أخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "(9)",
+      "article_label_raw": "(9)",
+      "article_heading": "(9)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (9)",
+      "text_verbatim": "يحظر ترك الحيوانات في غير المكان المخصص لها أو تركها مهملة، ويحق للجهة المختصة التصرف في الحيوانات المهملة أو السائبة طبقا للشروط والضوابط التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+      "text_for_index": "يحظر ترك الحيوانات في غير المكان المخصص لها أو تركها مهملة، ويحق للجهة المختصة التصرف في الحيوانات المهملة أو السائبة طبقا للشروط والضوابط التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يحظر ترك الحيوانات في غير المكان المخصص لها أو تركها مهملة، ويحق للجهة المختصة التصرف في الحيوانات المهملة أو السائبة طبقا للشروط والضوابط التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+          "text_for_index": "يحظر ترك الحيوانات في غير المكان المخصص لها أو تركها مهملة، ويحق للجهة المختصة التصرف في الحيوانات المهملة أو السائبة طبقا للشروط والضوابط التي تحددها اللائحة التنفيذية لهذا القانون (النظام).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "(10)",
+      "article_label_raw": "(10)",
+      "article_heading": "(10)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (10)",
+      "text_verbatim": "1- يحظر استخدام الحيوانات لأغراض التجارب العلمية إلا بعد الحصول على ترخيص من الجهة المختصة.\n2 - ينشأ سجل لدى الجهة المختصة لقيد التراخيص الصادرة باستخدام الحيوانات لأغراض التجارب العلمية.",
+      "text_for_index": "1- يحظر استخدام الحيوانات لأغراض التجارب العلمية إلا بعد الحصول على ترخيص من الجهة المختصة.\n2 - ينشأ سجل لدى الجهة المختصة لقيد التراخيص الصادرة باستخدام الحيوانات لأغراض التجارب العلمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "1- يحظر استخدام الحيوانات لأغراض التجارب العلمية إلا بعد الحصول على ترخيص من الجهة المختصة.\n2 - ينشأ سجل لدى الجهة المختصة لقيد التراخيص الصادرة باستخدام الحيوانات لأغراض التجارب العلمية.",
+          "text_for_index": "1- يحظر استخدام الحيوانات لأغراض التجارب العلمية إلا بعد الحصول على ترخيص من الجهة المختصة.\n2 - ينشأ سجل لدى الجهة المختصة لقيد التراخيص الصادرة باستخدام الحيوانات لأغراض التجارب العلمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "(11)",
+      "article_label_raw": "(11)",
+      "article_heading": "(11)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (11)",
+      "text_verbatim": "تحدد الجهة المختصة الرسوم المستحقة طبقا لأحكام هذا القانون (النظام) ولائحته التنفيذية وذلك بعد موافقة الجهات المعنية بالدولة.",
+      "text_for_index": "تحدد الجهة المختصة الرسوم المستحقة طبقا لأحكام هذا القانون (النظام) ولائحته التنفيذية وذلك بعد موافقة الجهات المعنية بالدولة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تحدد الجهة المختصة الرسوم المستحقة طبقا لأحكام هذا القانون (النظام) ولائحته التنفيذية وذلك بعد موافقة الجهات المعنية بالدولة.",
+          "text_for_index": "تحدد الجهة المختصة الرسوم المستحقة طبقا لأحكام هذا القانون (النظام) ولائحته التنفيذية وذلك بعد موافقة الجهات المعنية بالدولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "(12)",
+      "article_label_raw": "(12)",
+      "article_heading": "(12)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (12)",
+      "text_verbatim": "يجوز للمتضرر من القرارات الصادرة تطبيقاً لأحكام هذا القانون (النظام) التظلم للجهة المختصة وفقاً للإجراءات المتبعة في كل دولة.",
+      "text_for_index": "يجوز للمتضرر من القرارات الصادرة تطبيقاً لأحكام هذا القانون (النظام) التظلم للجهة المختصة وفقاً للإجراءات المتبعة في كل دولة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز للمتضرر من القرارات الصادرة تطبيقاً لأحكام هذا القانون (النظام) التظلم للجهة المختصة وفقاً للإجراءات المتبعة في كل دولة.",
+          "text_for_index": "يجوز للمتضرر من القرارات الصادرة تطبيقاً لأحكام هذا القانون (النظام) التظلم للجهة المختصة وفقاً للإجراءات المتبعة في كل دولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "(13)",
+      "article_label_raw": "(13)",
+      "article_heading": "(13)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (13)",
+      "text_verbatim": "يترك لكل دولة تحديد العقوبات والغرامات اللازمة لمن يخالف أحكام هذا القانون (النظام) أو لائحته التنفيذية.",
+      "text_for_index": "يترك لكل دولة تحديد العقوبات والغرامات اللازمة لمن يخالف أحكام هذا القانون (النظام) أو لائحته التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "جزاء"
+          ],
+          "text_verbatim": "يترك لكل دولة تحديد العقوبات والغرامات اللازمة لمن يخالف أحكام هذا القانون (النظام) أو لائحته التنفيذية.",
+          "text_for_index": "يترك لكل دولة تحديد العقوبات والغرامات اللازمة لمن يخالف أحكام هذا القانون (النظام) أو لائحته التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "(14)",
+      "article_label_raw": "(14)",
+      "article_heading": "(14)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (14)",
+      "text_verbatim": "تعتمد لجنة التعاون الزراعي اللائحة التنفيذية لهذا القانون (النظام) بشكل إلزامي.",
+      "text_for_index": "تعتمد لجنة التعاون الزراعي اللائحة التنفيذية لهذا القانون (النظام) بشكل إلزامي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تعتمد لجنة التعاون الزراعي اللائحة التنفيذية لهذا القانون (النظام) بشكل إلزامي.",
+          "text_for_index": "تعتمد لجنة التعاون الزراعي اللائحة التنفيذية لهذا القانون (النظام) بشكل إلزامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "(15)",
+      "article_label_raw": "(15)",
+      "article_heading": "(15)",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (15)",
+      "text_verbatim": "للجنة التعاون الزراعي حق تفسير واقتراح تعديل هذا القانون (النظام)، ولا يكون التعديل نافذا إلا بعد اعتماده من قبل المجلس الأعلى، ويسري في شأن نفاذه ذات الإجراءات المنصوص عليها في المادة (16).",
+      "text_for_index": "للجنة التعاون الزراعي حق تفسير واقتراح تعديل هذا القانون (النظام)، ولا يكون التعديل نافذا إلا بعد اعتماده من قبل المجلس الأعلى، ويسري في شأن نفاذه ذات الإجراءات المنصوص عليها في المادة (16).",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "للجنة التعاون الزراعي حق تفسير واقتراح تعديل هذا القانون (النظام)، ولا يكون التعديل نافذا إلا بعد اعتماده من قبل المجلس الأعلى، ويسري في شأن نفاذه ذات الإجراءات المنصوص عليها في المادة (16).",
+          "text_for_index": "للجنة التعاون الزراعي حق تفسير واقتراح تعديل هذا القانون (النظام)، ولا يكون التعديل نافذا إلا بعد اعتماده من قبل المجلس الأعلى، ويسري في شأن نفاذه ذات الإجراءات المنصوص عليها في المادة (16).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "(16)",
+      "article_label_raw": "(16)",
+      "article_heading": "(16)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية، المادة (16)",
+      "text_verbatim": "يعمل بهذا القانون (النظام) بشكل إلزامي بعد مائة وثمانين يوماً من إقراره من قبل المجلس الأعلى.",
+      "text_for_index": "يعمل بهذا القانون (النظام) بشكل إلزامي بعد مائة وثمانين يوماً من إقراره من قبل المجلس الأعلى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بهذا القانون (النظام) بشكل إلزامي بعد مائة وثمانين يوماً من إقراره من قبل المجلس الأعلى.",
+          "text_for_index": "يعمل بهذا القانون (النظام) بشكل إلزامي بعد مائة وثمانين يوماً من إقراره من قبل المجلس الأعلى.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

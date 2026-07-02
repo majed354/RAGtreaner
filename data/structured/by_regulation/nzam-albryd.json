@@ -1,0 +1,2329 @@
+{
+  "metadata": {
+    "slug": "nzam-albryd",
+    "title_ar": "نظام البريد",
+    "status": "ساري",
+    "issue_date_hijri": "1443/03/08 هـ الموافق : 14/10/2021 مـ",
+    "issue_date_gregorian": "2021-10-14",
+    "publish_date_hijri": "1443/03/16 هـ الموافق : 22/10/2021 مـ",
+    "publish_date_gregorian": "2021-10-22",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8ca91427-5be7-4807-80ae-adc700a97f0d/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-albryd.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-albryd.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1443/03/16 هـ الموافق : 22/10/2021 مـ",
+    "effective_date_gregorian": "2021-10-22",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 37,
+    "paragraph_count": 89,
+    "indexable_paragraph_count": 89,
+    "text_chars": 11849,
+    "verbatim_chars": 11849,
+    "citation_base_ar": "نظام البريد",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8ca91427-5be7-4807-80ae-adc700a97f0d/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-albryd.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-albryd.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الأولى",
+      "text_verbatim": "* صدر قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ. المتضمن في الفقرة (رابعاً) الآتي:\n\n- حذف تعريف (الوزارة).\n\n- حذف عبارة \"وذلك بالاتفاق مع الهيئة العامة للنقل فيما يتصل باختصاصاتها المقررة نظاماً، وبما لا يخالف أحكام النظام\" من الفقرة (8) من تعريف (الخدمات البريدية).\n\n- حذف عبارة \"بالاتفاق مع الهيئة العامة للنقل\" الواردة في تعريف (الطرود).",
+      "text_for_index": "* صدر قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ. المتضمن في الفقرة (رابعاً) الآتي:\n\n- حذف تعريف (الوزارة).\n\n- حذف عبارة \"وذلك بالاتفاق مع الهيئة العامة للنقل فيما يتصل باختصاصاتها المقررة نظاماً، وبما لا يخالف أحكام النظام\" من الفقرة (8) من تعريف (الخدمات البريدية).\n\n- حذف عبارة \"بالاتفاق مع الهيئة العامة للنقل\" الواردة في تعريف (الطرود).",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "* صدر قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ. المتضمن في الفقرة (رابعاً) الآتي:",
+          "text_for_index": "* صدر قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ. المتضمن في الفقرة (رابعاً) الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "- حذف تعريف (الوزارة).",
+          "text_for_index": "- حذف تعريف (الوزارة).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "- حذف عبارة \"وذلك بالاتفاق مع الهيئة العامة للنقل فيما يتصل باختصاصاتها المقررة نظاماً، وبما لا يخالف أحكام النظام\" من الفقرة (8) من تعريف (الخدمات البريدية).",
+          "text_for_index": "- حذف عبارة \"وذلك بالاتفاق مع الهيئة العامة للنقل فيما يتصل باختصاصاتها المقررة نظاماً، وبما لا يخالف أحكام النظام\" من الفقرة (8) من تعريف (الخدمات البريدية).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "- حذف عبارة \"بالاتفاق مع الهيئة العامة للنقل\" الواردة في تعريف (الطرود).",
+          "text_for_index": "- حذف عبارة \"بالاتفاق مع الهيئة العامة للنقل\" الواردة في تعريف (الطرود).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "e_commerce"
+      ],
+      "topic_tags_ar": [
+        "تجارة إلكترونية"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثانية",
+      "text_verbatim": "يهدف النظام إلى تحقيق الآتي:\n\n\t• تطوير القطاع وتنظيمه -وفق أحدث الأساليب والتقنيات الحديثة- بشكل يضمن تقديم الخدمات البريدية بأسعار مناسبة وجودة عالية، وتلبية احتياجات المجتمع منها بشكل متطور، ومواكبة المعايير العالمية في هذا المجال.\n\n\t• إيجاد المناخ المناسب للمنافسة العادلة والفاعلة.\n\n\t• زيادة فاعلية السياسات العامة ذات الصلة بالقطاع وتضافر الجهود بين الجهات العامة والخاصة بما يحقق الحوكمة الفاعلة والعادلة في القطاع.\n\n\t• زيادة وسرعة انتشار الخدمات البريدية في التعاملات الحكومية، والخدمات العامة، والعلاقات مع الأفراد، والأنشطة التجارية.\n\n\t• المساهمة في نمو التجارة الإلكترونية.\n\n\t• تحفيز سوق البريد، وتوفير بيئة جاذبة للاستثمار في القطاع، واستقطاب الشركات الدولية الرائدة في المجالات ذات الأولوية للقطاع، ورفع مستوى عمل منظومة المؤسسات والشركات الوطنية.\n\n\t• حماية المصلحة العامة، ومصالح المستفيدين، والمحافظة على سرية المواد البريدية، وأمنها، وسلامتها.\n\n\t• تنمية المهارات والكفايات المحلية، وتطوير مستواها، وزيادة مشاركتها في القطاع، وتشجيع الإبداع والابتكار، وريادة الأعمال، والبحث والتطوير للخدمات البريدية، وإنشاء أسواق جديدة للبريد.",
+      "text_for_index": "يهدف النظام إلى تحقيق الآتي:\n\n • تطوير القطاع وتنظيمه -وفق أحدث الأساليب والتقنيات الحديثة- بشكل يضمن تقديم الخدمات البريدية بأسعار مناسبة وجودة عالية، وتلبية احتياجات المجتمع منها بشكل متطور، ومواكبة المعايير العالمية في هذا المجال.\n\n • إيجاد المناخ المناسب للمنافسة العادلة والفاعلة.\n\n • زيادة فاعلية السياسات العامة ذات الصلة بالقطاع وتضافر الجهود بين الجهات العامة والخاصة بما يحقق الحوكمة الفاعلة والعادلة في القطاع.\n\n • زيادة وسرعة انتشار الخدمات البريدية في التعاملات الحكومية، والخدمات العامة، والعلاقات مع الأفراد، والأنشطة التجارية.\n\n • المساهمة في نمو التجارة الإلكترونية.\n\n • تحفيز سوق البريد، وتوفير بيئة جاذبة للاستثمار في القطاع، واستقطاب الشركات الدولية الرائدة في المجالات ذات الأولوية للقطاع، ورفع مستوى عمل منظومة المؤسسات والشركات الوطنية.\n\n • حماية المصلحة العامة، ومصالح المستفيدين، والمحافظة على سرية المواد البريدية، وأمنها، وسلامتها.\n\n • تنمية المهارات والكفايات المحلية، وتطوير مستواها، وزيادة مشاركتها في القطاع، وتشجيع الإبداع والابتكار، وريادة الأعمال، والبحث والتطوير للخدمات البريدية، وإنشاء أسواق جديدة للبريد.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يهدف النظام إلى تحقيق الآتي:",
+          "text_for_index": "يهدف النظام إلى تحقيق الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تطوير القطاع وتنظيمه -وفق أحدث الأساليب والتقنيات الحديثة- بشكل يضمن تقديم الخدمات البريدية بأسعار مناسبة وجودة عالية، وتلبية احتياجات المجتمع منها بشكل متطور، ومواكبة المعايير العالمية في هذا المجال.",
+          "text_for_index": "• تطوير القطاع وتنظيمه -وفق أحدث الأساليب والتقنيات الحديثة- بشكل يضمن تقديم الخدمات البريدية بأسعار مناسبة وجودة عالية، وتلبية احتياجات المجتمع منها بشكل متطور، ومواكبة المعايير العالمية في هذا المجال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• إيجاد المناخ المناسب للمنافسة العادلة والفاعلة.",
+          "text_for_index": "• إيجاد المناخ المناسب للمنافسة العادلة والفاعلة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• زيادة فاعلية السياسات العامة ذات الصلة بالقطاع وتضافر الجهود بين الجهات العامة والخاصة بما يحقق الحوكمة الفاعلة والعادلة في القطاع.",
+          "text_for_index": "• زيادة فاعلية السياسات العامة ذات الصلة بالقطاع وتضافر الجهود بين الجهات العامة والخاصة بما يحقق الحوكمة الفاعلة والعادلة في القطاع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• زيادة وسرعة انتشار الخدمات البريدية في التعاملات الحكومية، والخدمات العامة، والعلاقات مع الأفراد، والأنشطة التجارية.",
+          "text_for_index": "• زيادة وسرعة انتشار الخدمات البريدية في التعاملات الحكومية، والخدمات العامة، والعلاقات مع الأفراد، والأنشطة التجارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• المساهمة في نمو التجارة الإلكترونية.",
+          "text_for_index": "• المساهمة في نمو التجارة الإلكترونية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تحفيز سوق البريد، وتوفير بيئة جاذبة للاستثمار في القطاع، واستقطاب الشركات الدولية الرائدة في المجالات ذات الأولوية للقطاع، ورفع مستوى عمل منظومة المؤسسات والشركات الوطنية.",
+          "text_for_index": "• تحفيز سوق البريد، وتوفير بيئة جاذبة للاستثمار في القطاع، واستقطاب الشركات الدولية الرائدة في المجالات ذات الأولوية للقطاع، ورفع مستوى عمل منظومة المؤسسات والشركات الوطنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• حماية المصلحة العامة، ومصالح المستفيدين، والمحافظة على سرية المواد البريدية، وأمنها، وسلامتها.",
+          "text_for_index": "• حماية المصلحة العامة، ومصالح المستفيدين، والمحافظة على سرية المواد البريدية، وأمنها، وسلامتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-2::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تنمية المهارات والكفايات المحلية، وتطوير مستواها، وزيادة مشاركتها في القطاع، وتشجيع الإبداع والابتكار، وريادة الأعمال، والبحث والتطوير للخدمات البريدية، وإنشاء أسواق جديدة للبريد.",
+          "text_for_index": "• تنمية المهارات والكفايات المحلية، وتطوير مستواها، وزيادة مشاركتها في القطاع، وتشجيع الإبداع والابتكار، وريادة الأعمال، والبحث والتطوير للخدمات البريدية، وإنشاء أسواق جديدة للبريد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثالثة",
+      "text_verbatim": "دون إخلال باختصاصات الجهات الحكومية الأخرى؛ لتحقيق أهداف النظام تتولى الهيئة ما يلي:\n\n\t• وضع ضوابط ومعايير أجور الخدمات البريدية وفقاً لوضع سوق البريد، ودرجة المنافسة.\n\n\t• تحديد المقابل المالي لفئات التراخيص وتجديدها، والمقابل المالي السنوي لها؛ وفقاً لما يرد في اللائحة، ودون إخلال بحكم المادة (العاشرة) من النظام.\n\n\t• اقتراح القواعد، والأسس، والشروط المتعلقة بالخدمة الشاملة، وحق الاستخدام الشامل، ومتابعة تنفيذها بعد الموافقة عليها.\n\n\t• إصدار القرارات التنظيمية والقواعد والتعليمات المنظمة لتقديم الخدمات البريدية في القطاع، مع مراعاة الأحكام الواردة في اللائحة.",
+      "text_for_index": "دون إخلال باختصاصات الجهات الحكومية الأخرى؛ لتحقيق أهداف النظام تتولى الهيئة ما يلي:\n\n • وضع ضوابط ومعايير أجور الخدمات البريدية وفقاً لوضع سوق البريد، ودرجة المنافسة.\n\n • تحديد المقابل المالي لفئات التراخيص وتجديدها، والمقابل المالي السنوي لها؛ وفقاً لما يرد في اللائحة، ودون إخلال بحكم المادة (العاشرة) من النظام.\n\n • اقتراح القواعد، والأسس، والشروط المتعلقة بالخدمة الشاملة، وحق الاستخدام الشامل، ومتابعة تنفيذها بعد الموافقة عليها.\n\n • إصدار القرارات التنظيمية والقواعد والتعليمات المنظمة لتقديم الخدمات البريدية في القطاع، مع مراعاة الأحكام الواردة في اللائحة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال باختصاصات الجهات الحكومية الأخرى؛ لتحقيق أهداف النظام تتولى الهيئة ما يلي:",
+          "text_for_index": "دون إخلال باختصاصات الجهات الحكومية الأخرى؛ لتحقيق أهداف النظام تتولى الهيئة ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• وضع ضوابط ومعايير أجور الخدمات البريدية وفقاً لوضع سوق البريد، ودرجة المنافسة.",
+          "text_for_index": "• وضع ضوابط ومعايير أجور الخدمات البريدية وفقاً لوضع سوق البريد، ودرجة المنافسة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تحديد المقابل المالي لفئات التراخيص وتجديدها، والمقابل المالي السنوي لها؛ وفقاً لما يرد في اللائحة، ودون إخلال بحكم المادة (العاشرة) من النظام.",
+          "text_for_index": "• تحديد المقابل المالي لفئات التراخيص وتجديدها، والمقابل المالي السنوي لها؛ وفقاً لما يرد في اللائحة، ودون إخلال بحكم المادة (العاشرة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "• اقتراح القواعد، والأسس، والشروط المتعلقة بالخدمة الشاملة، وحق الاستخدام الشامل، ومتابعة تنفيذها بعد الموافقة عليها.",
+          "text_for_index": "• اقتراح القواعد، والأسس، والشروط المتعلقة بالخدمة الشاملة، وحق الاستخدام الشامل، ومتابعة تنفيذها بعد الموافقة عليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-3::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• إصدار القرارات التنظيمية والقواعد والتعليمات المنظمة لتقديم الخدمات البريدية في القطاع، مع مراعاة الأحكام الواردة في اللائحة.",
+          "text_for_index": "• إصدار القرارات التنظيمية والقواعد والتعليمات المنظمة لتقديم الخدمات البريدية في القطاع، مع مراعاة الأحكام الواردة في اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الرابعة",
+      "text_verbatim": "- حذف عبارة \"وبالنسبة للطرود فيشترط قبل ذلك الحصول على الترخيص اللازم من الهيئة العامة للنقل\" من عجز هذه المادة، وذلك بموجب قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ.",
+      "text_for_index": "- حذف عبارة \"وبالنسبة للطرود فيشترط قبل ذلك الحصول على الترخيص اللازم من الهيئة العامة للنقل\" من عجز هذه المادة، وذلك بموجب قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "- حذف عبارة \"وبالنسبة للطرود فيشترط قبل ذلك الحصول على الترخيص اللازم من الهيئة العامة للنقل\" من عجز هذه المادة، وذلك بموجب قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ.",
+          "text_for_index": "- حذف عبارة \"وبالنسبة للطرود فيشترط قبل ذلك الحصول على الترخيص اللازم من الهيئة العامة للنقل\" من عجز هذه المادة، وذلك بموجب قرار مجلس الوزراء رقم (705) وتاريخ 1443/12/27هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الخامسة",
+      "text_verbatim": "تمنح الهيئة رخصة المشغل الوطني، وتحدد نطاق خدمات الترخيص وشروطه، ويعتمد الترخيص من الوزير، وله أن يفوض الهيئة بذلك.",
+      "text_for_index": "تمنح الهيئة رخصة المشغل الوطني، وتحدد نطاق خدمات الترخيص وشروطه، ويعتمد الترخيص من الوزير، وله أن يفوض الهيئة بذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "تمنح الهيئة رخصة المشغل الوطني، وتحدد نطاق خدمات الترخيص وشروطه، ويعتمد الترخيص من الوزير، وله أن يفوض الهيئة بذلك.",
+          "text_for_index": "تمنح الهيئة رخصة المشغل الوطني، وتحدد نطاق خدمات الترخيص وشروطه، ويعتمد الترخيص من الوزير، وله أن يفوض الهيئة بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام البريد، المادة السادسة",
+      "text_verbatim": "دون إخلال بأي نظام آخر؛ يجوز لمقدم الخدمة تقديم الخدمات المالية البريدية، وذلك بعد الحصول على ترخيص من البنك المركزي السعودي.",
+      "text_for_index": "دون إخلال بأي نظام آخر؛ يجوز لمقدم الخدمة تقديم الخدمات المالية البريدية، وذلك بعد الحصول على ترخيص من البنك المركزي السعودي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بأي نظام آخر؛ يجوز لمقدم الخدمة تقديم الخدمات المالية البريدية، وذلك بعد الحصول على ترخيص من البنك المركزي السعودي.",
+          "text_for_index": "دون إخلال بأي نظام آخر؛ يجوز لمقدم الخدمة تقديم الخدمات المالية البريدية، وذلك بعد الحصول على ترخيص من البنك المركزي السعودي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام البريد، المادة السابعة",
+      "text_verbatim": "تحدد اللائحة الآتي:\n\n\t• الخدمات البريدية التي تتطلب الترخيص، أو التسجيل، أو الإعفاء.\n\n\t• التراخيص اللازمة لتوفير أنواع الخدمات البريدية ونطاقها، وتحديد الخطة الزمنية لإطلاقها.\n\n\t• الشروط التي تطبق على أنواع التراخيص والسجلات.",
+      "text_for_index": "تحدد اللائحة الآتي:\n\n • الخدمات البريدية التي تتطلب الترخيص، أو التسجيل، أو الإعفاء.\n\n • التراخيص اللازمة لتوفير أنواع الخدمات البريدية ونطاقها، وتحديد الخطة الزمنية لإطلاقها.\n\n • الشروط التي تطبق على أنواع التراخيص والسجلات.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تحدد اللائحة الآتي:",
+          "text_for_index": "تحدد اللائحة الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الخدمات البريدية التي تتطلب الترخيص، أو التسجيل، أو الإعفاء.",
+          "text_for_index": "• الخدمات البريدية التي تتطلب الترخيص، أو التسجيل، أو الإعفاء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• التراخيص اللازمة لتوفير أنواع الخدمات البريدية ونطاقها، وتحديد الخطة الزمنية لإطلاقها.",
+          "text_for_index": "• التراخيص اللازمة لتوفير أنواع الخدمات البريدية ونطاقها، وتحديد الخطة الزمنية لإطلاقها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• الشروط التي تطبق على أنواع التراخيص والسجلات.",
+          "text_for_index": "• الشروط التي تطبق على أنواع التراخيص والسجلات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor",
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثامنة",
+      "text_verbatim": "لا يجوز لمقدم الخدمة نقل ترخيصه ولا التنازل عنه لشخص آخر ولا نقل ملكية المنشأة المرخص لها، سواء عن طريق البيع أو الرهن أو أي طريق آخر، إلا بعد الحصول على موافقة مكتوبة من الهيئة؛ وفقاً للضوابط والإجراءات التي تحددها اللائحة.",
+      "text_for_index": "لا يجوز لمقدم الخدمة نقل ترخيصه ولا التنازل عنه لشخص آخر ولا نقل ملكية المنشأة المرخص لها، سواء عن طريق البيع أو الرهن أو أي طريق آخر، إلا بعد الحصول على موافقة مكتوبة من الهيئة؛ وفقاً للضوابط والإجراءات التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز لمقدم الخدمة نقل ترخيصه ولا التنازل عنه لشخص آخر ولا نقل ملكية المنشأة المرخص لها، سواء عن طريق البيع أو الرهن أو أي طريق آخر، إلا بعد الحصول على موافقة مكتوبة من الهيئة؛ وفقاً للضوابط والإجراءات التي تحددها اللائحة.",
+          "text_for_index": "لا يجوز لمقدم الخدمة نقل ترخيصه ولا التنازل عنه لشخص آخر ولا نقل ملكية المنشأة المرخص لها، سواء عن طريق البيع أو الرهن أو أي طريق آخر، إلا بعد الحصول على موافقة مكتوبة من الهيئة؛ وفقاً للضوابط والإجراءات التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة التاسعة",
+      "text_verbatim": "للهيئة أن تطلب أي معلومة من مقدم الخدمة، ولها أن تطلع على ما لديه من مستندات، أو فواتير، أو إيصالات، أو وثائق متعلقة بالخدمات البريدية، ولا يحق له رفض، أو تأجيل، أو إعاقة تنفيذ الطلب بأي شكل من الأشكال. ولها كذلك أن تطلب أي معلومة من كل من يتعاقد مع مقدم الخدمة بوصفه موزعاً له، أو مقدماً لخدماته من الباطن، وأي شخص من ذوي العلاقة ممن يتيح لهم النظام تقديم تلك الخدمات. وتحدد اللائحة الإجراءات والضوابط اللازمة لذلك.",
+      "text_for_index": "للهيئة أن تطلب أي معلومة من مقدم الخدمة، ولها أن تطلع على ما لديه من مستندات، أو فواتير، أو إيصالات، أو وثائق متعلقة بالخدمات البريدية، ولا يحق له رفض، أو تأجيل، أو إعاقة تنفيذ الطلب بأي شكل من الأشكال. ولها كذلك أن تطلب أي معلومة من كل من يتعاقد مع مقدم الخدمة بوصفه موزعاً له، أو مقدماً لخدماته من الباطن، وأي شخص من ذوي العلاقة ممن يتيح لهم النظام تقديم تلك الخدمات. وتحدد اللائحة الإجراءات والضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "للهيئة أن تطلب أي معلومة من مقدم الخدمة، ولها أن تطلع على ما لديه من مستندات، أو فواتير، أو إيصالات، أو وثائق متعلقة بالخدمات البريدية، ولا يحق له رفض، أو تأجيل، أو إعاقة تنفيذ الطلب بأي شكل من الأشكال. ولها كذلك أن تطلب أي معلومة من كل من يتعاقد مع مقدم الخدمة بوصفه موزعاً له، أو مقدماً لخدماته من الباطن، وأي شخص من ذوي العلاقة ممن يتيح لهم النظام تقديم تلك الخدمات. وتحدد اللائحة الإجراءات والضوابط اللازمة لذلك.",
+          "text_for_index": "للهيئة أن تطلب أي معلومة من مقدم الخدمة، ولها أن تطلع على ما لديه من مستندات، أو فواتير، أو إيصالات، أو وثائق متعلقة بالخدمات البريدية، ولا يحق له رفض، أو تأجيل، أو إعاقة تنفيذ الطلب بأي شكل من الأشكال. ولها كذلك أن تطلب أي معلومة من كل من يتعاقد مع مقدم الخدمة بوصفه موزعاً له، أو مقدماً لخدماته من الباطن، وأي شخص من ذوي العلاقة ممن يتيح لهم النظام تقديم تلك الخدمات. وتحدد اللائحة الإجراءات والضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة العاشرة",
+      "text_verbatim": "يحدد المقابل المالي لفئات التراخيص، وتجديدها، والمقابل المالي السنوي لها بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية.",
+      "text_for_index": "يحدد المقابل المالي لفئات التراخيص، وتجديدها، والمقابل المالي السنوي لها بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحدد المقابل المالي لفئات التراخيص، وتجديدها، والمقابل المالي السنوي لها بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية.",
+          "text_for_index": "يحدد المقابل المالي لفئات التراخيص، وتجديدها، والمقابل المالي السنوي لها بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الحادية عشرة",
+      "text_verbatim": "دون إخلال بنظام المنافسة، على مقدم الخدمة الحصول على موافقة الهيئة قبل القيام بالمشاركة في أي عملية استحواذ، أو اندماج تؤدي إلى جعل مقدم الخدمة مهيمناً داخل السوق السعودية سواء كانت العملية داخل السوق السعودية، أو خارجها.",
+      "text_for_index": "دون إخلال بنظام المنافسة، على مقدم الخدمة الحصول على موافقة الهيئة قبل القيام بالمشاركة في أي عملية استحواذ، أو اندماج تؤدي إلى جعل مقدم الخدمة مهيمناً داخل السوق السعودية سواء كانت العملية داخل السوق السعودية، أو خارجها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بنظام المنافسة، على مقدم الخدمة الحصول على موافقة الهيئة قبل القيام بالمشاركة في أي عملية استحواذ، أو اندماج تؤدي إلى جعل مقدم الخدمة مهيمناً داخل السوق السعودية سواء كانت العملية داخل السوق السعودية، أو خارجها.",
+          "text_for_index": "دون إخلال بنظام المنافسة، على مقدم الخدمة الحصول على موافقة الهيئة قبل القيام بالمشاركة في أي عملية استحواذ، أو اندماج تؤدي إلى جعل مقدم الخدمة مهيمناً داخل السوق السعودية سواء كانت العملية داخل السوق السعودية، أو خارجها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الثانية عشرة",
+      "text_verbatim": "تعد المادة البريدية قبل تسليمها إلى المرسل إليه -وفقاً لأحكام النظام واللائحة- ملكاً للمرسل، ويجوز له أن يطلب استردادها، أو إجراء تصحيح، أو تعديل على عنوان المرسل إليه بمقابل مالي، وفقاً للضوابط المقرة باللائحة.",
+      "text_for_index": "تعد المادة البريدية قبل تسليمها إلى المرسل إليه -وفقاً لأحكام النظام واللائحة- ملكاً للمرسل، ويجوز له أن يطلب استردادها، أو إجراء تصحيح، أو تعديل على عنوان المرسل إليه بمقابل مالي، وفقاً للضوابط المقرة باللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "تعد المادة البريدية قبل تسليمها إلى المرسل إليه -وفقاً لأحكام النظام واللائحة- ملكاً للمرسل، ويجوز له أن يطلب استردادها، أو إجراء تصحيح، أو تعديل على عنوان المرسل إليه بمقابل مالي، وفقاً للضوابط المقرة باللائحة.",
+          "text_for_index": "تعد المادة البريدية قبل تسليمها إلى المرسل إليه -وفقاً لأحكام النظام واللائحة- ملكاً للمرسل، ويجوز له أن يطلب استردادها، أو إجراء تصحيح، أو تعديل على عنوان المرسل إليه بمقابل مالي، وفقاً للضوابط المقرة باللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الثالثة عشرة",
+      "text_verbatim": "لا يجوز لمقدم الخدمة فرض أجر على (المرسل أو المرسل إليه) ولا تحصيله من أي منهما، لقاء إرسال المواد البريدية، أو تسلّمها، ما عدا الأجور التي اعتمدتها الهيئة.",
+      "text_for_index": "لا يجوز لمقدم الخدمة فرض أجر على (المرسل أو المرسل إليه) ولا تحصيله من أي منهما، لقاء إرسال المواد البريدية، أو تسلّمها، ما عدا الأجور التي اعتمدتها الهيئة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز لمقدم الخدمة فرض أجر على (المرسل أو المرسل إليه) ولا تحصيله من أي منهما، لقاء إرسال المواد البريدية، أو تسلّمها، ما عدا الأجور التي اعتمدتها الهيئة.",
+          "text_for_index": "لا يجوز لمقدم الخدمة فرض أجر على (المرسل أو المرسل إليه) ولا تحصيله من أي منهما، لقاء إرسال المواد البريدية، أو تسلّمها، ما عدا الأجور التي اعتمدتها الهيئة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الرابعة عشرة",
+      "text_verbatim": "على مقدم الخدمة الحصول على موافقة الهيئة كتابة -وفقاً لما يقتضيه النظام واللائحة- قبل القيام بما يأتي:\n\n\t• إقرار شروط، أو إجراءات تقديم الخدمات البريدية الموكول إليه تقديمها.\n\n\t• إضافة أجور أخرى على الخدمات البريدية.\n\n\t• إبرام العقود مع الغير لأداء بعض الخدمات المرخص له تقديمها.\n\n\t• التعامل مع أي منشأة بريدية، أو أي وكالة، أو منظمة دولية معنية بشؤون البريد؛ للقيام بأي ترتيبات تتعلق بتقديم الخدمات البريدية المرخص له بتقديمها.",
+      "text_for_index": "على مقدم الخدمة الحصول على موافقة الهيئة كتابة -وفقاً لما يقتضيه النظام واللائحة- قبل القيام بما يأتي:\n\n • إقرار شروط، أو إجراءات تقديم الخدمات البريدية الموكول إليه تقديمها.\n\n • إضافة أجور أخرى على الخدمات البريدية.\n\n • إبرام العقود مع الغير لأداء بعض الخدمات المرخص له تقديمها.\n\n • التعامل مع أي منشأة بريدية، أو أي وكالة، أو منظمة دولية معنية بشؤون البريد؛ للقيام بأي ترتيبات تتعلق بتقديم الخدمات البريدية المرخص له بتقديمها.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "على مقدم الخدمة الحصول على موافقة الهيئة كتابة -وفقاً لما يقتضيه النظام واللائحة- قبل القيام بما يأتي:",
+          "text_for_index": "على مقدم الخدمة الحصول على موافقة الهيئة كتابة -وفقاً لما يقتضيه النظام واللائحة- قبل القيام بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• إقرار شروط، أو إجراءات تقديم الخدمات البريدية الموكول إليه تقديمها.",
+          "text_for_index": "• إقرار شروط، أو إجراءات تقديم الخدمات البريدية الموكول إليه تقديمها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-14::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إضافة أجور أخرى على الخدمات البريدية.",
+          "text_for_index": "• إضافة أجور أخرى على الخدمات البريدية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-14::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إبرام العقود مع الغير لأداء بعض الخدمات المرخص له تقديمها.",
+          "text_for_index": "• إبرام العقود مع الغير لأداء بعض الخدمات المرخص له تقديمها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-14::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• التعامل مع أي منشأة بريدية، أو أي وكالة، أو منظمة دولية معنية بشؤون البريد؛ للقيام بأي ترتيبات تتعلق بتقديم الخدمات البريدية المرخص له بتقديمها.",
+          "text_for_index": "• التعامل مع أي منشأة بريدية، أو أي وكالة، أو منظمة دولية معنية بشؤون البريد؛ للقيام بأي ترتيبات تتعلق بتقديم الخدمات البريدية المرخص له بتقديمها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الخامسة عشرة",
+      "text_verbatim": "دون إخلال بأحكام الأنظمة النافذة في المملكة؛ يحظر إرسال، أو نقل أي مادة بريدية تمس سمعة الدولة، أو أمنها، أو تخالف النظام العام، أو تتنافى مع الأخلاق، أو الآداب العامة، أو تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات. وتعد الهيئة قائمة بالمواد المحظورة.",
+      "text_for_index": "دون إخلال بأحكام الأنظمة النافذة في المملكة؛ يحظر إرسال، أو نقل أي مادة بريدية تمس سمعة الدولة، أو أمنها، أو تخالف النظام العام، أو تتنافى مع الأخلاق، أو الآداب العامة، أو تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات. وتعد الهيئة قائمة بالمواد المحظورة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بأحكام الأنظمة النافذة في المملكة؛ يحظر إرسال، أو نقل أي مادة بريدية تمس سمعة الدولة، أو أمنها، أو تخالف النظام العام، أو تتنافى مع الأخلاق، أو الآداب العامة، أو تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات. وتعد الهيئة قائمة بالمواد المحظورة.",
+          "text_for_index": "دون إخلال بأحكام الأنظمة النافذة في المملكة؛ يحظر إرسال، أو نقل أي مادة بريدية تمس سمعة الدولة، أو أمنها، أو تخالف النظام العام، أو تتنافى مع الأخلاق، أو الآداب العامة، أو تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات. وتعد الهيئة قائمة بالمواد المحظورة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة السادسة عشرة",
+      "text_verbatim": "على مقدم الخدمة التحفظ على المادة البريدية، والمبادرة بإبلاغ الجهات المختصة في الأحوال الآتية:\n\n\t• عند احتوائها أو الاشتباه في احتوائها على محتويات تمس سمعة الدولة أو أمنها، أو تخالف النظام العام، أو إذا كانت تتنافى مع الأخلاق أو الآداب العامة، أو إذا كانت تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات.\n\n\t• عند تقديم طلب رسمي من أي جهة حكومية مختصة؛ لأسباب تتعلق بالأمن، أو السلامة، أو المصلحة العامة.",
+      "text_for_index": "على مقدم الخدمة التحفظ على المادة البريدية، والمبادرة بإبلاغ الجهات المختصة في الأحوال الآتية:\n\n • عند احتوائها أو الاشتباه في احتوائها على محتويات تمس سمعة الدولة أو أمنها، أو تخالف النظام العام، أو إذا كانت تتنافى مع الأخلاق أو الآداب العامة، أو إذا كانت تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات.\n\n • عند تقديم طلب رسمي من أي جهة حكومية مختصة؛ لأسباب تتعلق بالأمن، أو السلامة، أو المصلحة العامة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "على مقدم الخدمة التحفظ على المادة البريدية، والمبادرة بإبلاغ الجهات المختصة في الأحوال الآتية:",
+          "text_for_index": "على مقدم الخدمة التحفظ على المادة البريدية، والمبادرة بإبلاغ الجهات المختصة في الأحوال الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "• عند احتوائها أو الاشتباه في احتوائها على محتويات تمس سمعة الدولة أو أمنها، أو تخالف النظام العام، أو إذا كانت تتنافى مع الأخلاق أو الآداب العامة، أو إذا كانت تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات.",
+          "text_for_index": "• عند احتوائها أو الاشتباه في احتوائها على محتويات تمس سمعة الدولة أو أمنها، أو تخالف النظام العام، أو إذا كانت تتنافى مع الأخلاق أو الآداب العامة، أو إذا كانت تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-16::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "• عند تقديم طلب رسمي من أي جهة حكومية مختصة؛ لأسباب تتعلق بالأمن، أو السلامة، أو المصلحة العامة.",
+          "text_for_index": "• عند تقديم طلب رسمي من أي جهة حكومية مختصة؛ لأسباب تتعلق بالأمن، أو السلامة، أو المصلحة العامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة السابعة عشرة",
+      "text_verbatim": "يجب على مقدم الخدمة حفظ المادة البريدية في حال تعذر تسليمها. وتبين اللائحة مدد الحفظ، وإجراءات التعامل معها.",
+      "text_for_index": "يجب على مقدم الخدمة حفظ المادة البريدية في حال تعذر تسليمها. وتبين اللائحة مدد الحفظ، وإجراءات التعامل معها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على مقدم الخدمة حفظ المادة البريدية في حال تعذر تسليمها. وتبين اللائحة مدد الحفظ، وإجراءات التعامل معها.",
+          "text_for_index": "يجب على مقدم الخدمة حفظ المادة البريدية في حال تعذر تسليمها. وتبين اللائحة مدد الحفظ، وإجراءات التعامل معها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الثامنة عشرة",
+      "text_verbatim": "للمستفيد الحق في الاستعلام عن حالة المواد البريدية المرسلة خلال مدة تحددها اللائحة.",
+      "text_for_index": "للمستفيد الحق في الاستعلام عن حالة المواد البريدية المرسلة خلال مدة تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "للمستفيد الحق في الاستعلام عن حالة المواد البريدية المرسلة خلال مدة تحددها اللائحة.",
+          "text_for_index": "للمستفيد الحق في الاستعلام عن حالة المواد البريدية المرسلة خلال مدة تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "remedy",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "علاج أو تعويض",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة التاسعة عشرة",
+      "text_verbatim": "على من تسلّم أي مادة بريدية لا تخصه، أو عثر عليها، أو تسلّمها على وجه مخالف لأي من أحكام النظام أو اللائحة؛ أن يبلغ مقدم الخدمة فوراً بذلك، ويسلمها إليه، وعلى مقدم الخدمة استرداد تلك المادة. وتحدد اللائحة الإجراءات اللازمة لذلك.",
+      "text_for_index": "على من تسلّم أي مادة بريدية لا تخصه، أو عثر عليها، أو تسلّمها على وجه مخالف لأي من أحكام النظام أو اللائحة؛ أن يبلغ مقدم الخدمة فوراً بذلك، ويسلمها إليه، وعلى مقدم الخدمة استرداد تلك المادة. وتحدد اللائحة الإجراءات اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على من تسلّم أي مادة بريدية لا تخصه، أو عثر عليها، أو تسلّمها على وجه مخالف لأي من أحكام النظام أو اللائحة؛ أن يبلغ مقدم الخدمة فوراً بذلك، ويسلمها إليه، وعلى مقدم الخدمة استرداد تلك المادة. وتحدد اللائحة الإجراءات اللازمة لذلك.",
+          "text_for_index": "على من تسلّم أي مادة بريدية لا تخصه، أو عثر عليها، أو تسلّمها على وجه مخالف لأي من أحكام النظام أو اللائحة؛ أن يبلغ مقدم الخدمة فوراً بذلك، ويسلمها إليه، وعلى مقدم الخدمة استرداد تلك المادة. وتحدد اللائحة الإجراءات اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة العشرون",
+      "text_verbatim": "لمقدم الخدمة استخدام جميع طرق التخليص. وتضع الهيئة الضوابط اللازمة لذلك.",
+      "text_for_index": "لمقدم الخدمة استخدام جميع طرق التخليص. وتضع الهيئة الضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لمقدم الخدمة استخدام جميع طرق التخليص. وتضع الهيئة الضوابط اللازمة لذلك.",
+          "text_for_index": "لمقدم الخدمة استخدام جميع طرق التخليص. وتضع الهيئة الضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الحادية والعشرون",
+      "text_verbatim": "يتحمل المرسل أجور إرسال المادة البريدية، ويجوز أن يتحملها المرسل إليه وفق الإجراءات التي تحددها اللائحة.",
+      "text_for_index": "يتحمل المرسل أجور إرسال المادة البريدية، ويجوز أن يتحملها المرسل إليه وفق الإجراءات التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يتحمل المرسل أجور إرسال المادة البريدية، ويجوز أن يتحملها المرسل إليه وفق الإجراءات التي تحددها اللائحة.",
+          "text_for_index": "يتحمل المرسل أجور إرسال المادة البريدية، ويجوز أن يتحملها المرسل إليه وفق الإجراءات التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الثانية والعشرون",
+      "text_verbatim": "تصدر الهيئة الطوابع البريدية بجميع فئاتها، وأنواعها، وأشكالها، وأوصافها، وألوانها، وأقيامها، وذلك بعد موافقة رئيس مجلس الوزراء.",
+      "text_for_index": "تصدر الهيئة الطوابع البريدية بجميع فئاتها، وأنواعها، وأشكالها، وأوصافها، وألوانها، وأقيامها، وذلك بعد موافقة رئيس مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تصدر الهيئة الطوابع البريدية بجميع فئاتها، وأنواعها، وأشكالها، وأوصافها، وألوانها، وأقيامها، وذلك بعد موافقة رئيس مجلس الوزراء.",
+          "text_for_index": "تصدر الهيئة الطوابع البريدية بجميع فئاتها، وأنواعها، وأشكالها، وأوصافها، وألوانها، وأقيامها، وذلك بعد موافقة رئيس مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثالثة والعشرون",
+      "text_verbatim": "يعد مقدم الخدمة مسؤولاً عن التأخر، أو الخطأ في تسليم أي مادة بريدية، أو فقدها، أو تلفها؛ من وقت تسلمها، أو إيداعها في صندوق إيداع البعائث البريدية إلى أن يتحقق أي من الإجراءات الآتية:\n\n\t• إيصالها إلى عنوان المرسل إليه.\n\n\t• تسليمها إلى المرسل إليه بأي وسيلة أخرى معتمدة من الهيئة.\n\n\t• إيداعها في صندوق البريد الخاص بالمرسل إليه.\n\n\t• إعادتها إلى عنوان المرسل إذا تعذر إيصالها إلى المرسل إليه.\n\n\t• اتخاذ الإجراءات اللازمة إذا كانت غير قابلة للتسليم، بناءً على أحكام النظام واللائحة.",
+      "text_for_index": "يعد مقدم الخدمة مسؤولاً عن التأخر، أو الخطأ في تسليم أي مادة بريدية، أو فقدها، أو تلفها؛ من وقت تسلمها، أو إيداعها في صندوق إيداع البعائث البريدية إلى أن يتحقق أي من الإجراءات الآتية:\n\n • إيصالها إلى عنوان المرسل إليه.\n\n • تسليمها إلى المرسل إليه بأي وسيلة أخرى معتمدة من الهيئة.\n\n • إيداعها في صندوق البريد الخاص بالمرسل إليه.\n\n • إعادتها إلى عنوان المرسل إذا تعذر إيصالها إلى المرسل إليه.\n\n • اتخاذ الإجراءات اللازمة إذا كانت غير قابلة للتسليم، بناءً على أحكام النظام واللائحة.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يعد مقدم الخدمة مسؤولاً عن التأخر، أو الخطأ في تسليم أي مادة بريدية، أو فقدها، أو تلفها؛ من وقت تسلمها، أو إيداعها في صندوق إيداع البعائث البريدية إلى أن يتحقق أي من الإجراءات الآتية:",
+          "text_for_index": "يعد مقدم الخدمة مسؤولاً عن التأخر، أو الخطأ في تسليم أي مادة بريدية، أو فقدها، أو تلفها؛ من وقت تسلمها، أو إيداعها في صندوق إيداع البعائث البريدية إلى أن يتحقق أي من الإجراءات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-23::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إيصالها إلى عنوان المرسل إليه.",
+          "text_for_index": "• إيصالها إلى عنوان المرسل إليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-23::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تسليمها إلى المرسل إليه بأي وسيلة أخرى معتمدة من الهيئة.",
+          "text_for_index": "• تسليمها إلى المرسل إليه بأي وسيلة أخرى معتمدة من الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-23::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إيداعها في صندوق البريد الخاص بالمرسل إليه.",
+          "text_for_index": "• إيداعها في صندوق البريد الخاص بالمرسل إليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-23::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• إعادتها إلى عنوان المرسل إذا تعذر إيصالها إلى المرسل إليه.",
+          "text_for_index": "• إعادتها إلى عنوان المرسل إذا تعذر إيصالها إلى المرسل إليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-23::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• اتخاذ الإجراءات اللازمة إذا كانت غير قابلة للتسليم، بناءً على أحكام النظام واللائحة.",
+          "text_for_index": "• اتخاذ الإجراءات اللازمة إذا كانت غير قابلة للتسليم، بناءً على أحكام النظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الرابعة والعشرون",
+      "text_verbatim": "لا يعد مقدم الخدمة مسؤولاً في الحالات الآتية:\n\n\t• خطأ المرسل، أو إهماله.\n\n\t• التلف الذاتي للمادة البريدية بسبب طبيعة محتوياتها.\n\n\t• القوة القاهرة المؤدية إلى تلف المادة البريدية، أو تلف مستنداتها الرسمية التي تساعد على الاستدلال على مصير المادة البريدية.\n\n\t• إذا تبين أن محتويات المادة البريدية مما يمنع إرساله بناءً على النظام، أو اللائحة، أو أي من الأنظمة الأخرى، أو الاتفاقيات الدولية.",
+      "text_for_index": "لا يعد مقدم الخدمة مسؤولاً في الحالات الآتية:\n\n • خطأ المرسل، أو إهماله.\n\n • التلف الذاتي للمادة البريدية بسبب طبيعة محتوياتها.\n\n • القوة القاهرة المؤدية إلى تلف المادة البريدية، أو تلف مستنداتها الرسمية التي تساعد على الاستدلال على مصير المادة البريدية.\n\n • إذا تبين أن محتويات المادة البريدية مما يمنع إرساله بناءً على النظام، أو اللائحة، أو أي من الأنظمة الأخرى، أو الاتفاقيات الدولية.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يعد مقدم الخدمة مسؤولاً في الحالات الآتية:",
+          "text_for_index": "لا يعد مقدم الخدمة مسؤولاً في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-24::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• خطأ المرسل، أو إهماله.",
+          "text_for_index": "• خطأ المرسل، أو إهماله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-24::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• التلف الذاتي للمادة البريدية بسبب طبيعة محتوياتها.",
+          "text_for_index": "• التلف الذاتي للمادة البريدية بسبب طبيعة محتوياتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-24::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• القوة القاهرة المؤدية إلى تلف المادة البريدية، أو تلف مستنداتها الرسمية التي تساعد على الاستدلال على مصير المادة البريدية.",
+          "text_for_index": "• القوة القاهرة المؤدية إلى تلف المادة البريدية، أو تلف مستنداتها الرسمية التي تساعد على الاستدلال على مصير المادة البريدية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-24::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• إذا تبين أن محتويات المادة البريدية مما يمنع إرساله بناءً على النظام، أو اللائحة، أو أي من الأنظمة الأخرى، أو الاتفاقيات الدولية.",
+          "text_for_index": "• إذا تبين أن محتويات المادة البريدية مما يمنع إرساله بناءً على النظام، أو اللائحة، أو أي من الأنظمة الأخرى، أو الاتفاقيات الدولية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الخامسة والعشرون",
+      "text_verbatim": "دون إخلال بمسؤولية مقدم الخدمة، يتحمل المرسل المسؤولية عن أي ضرر يقع بسبب المادة البريدية؛ نتيجة لعدم الالتزام بأحكام النظام أو اللائحة.",
+      "text_for_index": "دون إخلال بمسؤولية مقدم الخدمة، يتحمل المرسل المسؤولية عن أي ضرر يقع بسبب المادة البريدية؛ نتيجة لعدم الالتزام بأحكام النظام أو اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بمسؤولية مقدم الخدمة، يتحمل المرسل المسؤولية عن أي ضرر يقع بسبب المادة البريدية؛ نتيجة لعدم الالتزام بأحكام النظام أو اللائحة.",
+          "text_for_index": "دون إخلال بمسؤولية مقدم الخدمة، يتحمل المرسل المسؤولية عن أي ضرر يقع بسبب المادة البريدية؛ نتيجة لعدم الالتزام بأحكام النظام أو اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "personal_data"
+      ],
+      "topic_tags_ar": [
+        "بيانات شخصية"
+      ],
+      "citation_short_ar": "نظام البريد، المادة السادسة والعشرون",
+      "text_verbatim": "دون إخلال بأحكام أي نظام آخر، يلتزم مقدم الخدمة بالمحافظة التامة على سرية البيانات الشخصية للمستفيدين، ولا يجوز جمع تلك البيانات، ولا تمريرها، ولا استخدامها في غير ما خصصت له، وتعد المواد البريدية والمعلومات المتعلقة بها مصونة.",
+      "text_for_index": "دون إخلال بأحكام أي نظام آخر، يلتزم مقدم الخدمة بالمحافظة التامة على سرية البيانات الشخصية للمستفيدين، ولا يجوز جمع تلك البيانات، ولا تمريرها، ولا استخدامها في غير ما خصصت له، وتعد المواد البريدية والمعلومات المتعلقة بها مصونة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بأحكام أي نظام آخر، يلتزم مقدم الخدمة بالمحافظة التامة على سرية البيانات الشخصية للمستفيدين، ولا يجوز جمع تلك البيانات، ولا تمريرها، ولا استخدامها في غير ما خصصت له، وتعد المواد البريدية والمعلومات المتعلقة بها مصونة.",
+          "text_for_index": "دون إخلال بأحكام أي نظام آخر، يلتزم مقدم الخدمة بالمحافظة التامة على سرية البيانات الشخصية للمستفيدين، ولا يجوز جمع تلك البيانات، ولا تمريرها، ولا استخدامها في غير ما خصصت له، وتعد المواد البريدية والمعلومات المتعلقة بها مصونة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة السابعة والعشرون",
+      "text_verbatim": "يتولى مفتشون -يصدر بتسميتهم قرار من المحافظ- مجتمعين أو منفردين ضبط مخالفات أحكام النظام واللائحة، والتحقيق فيها. وتحدد اللائحة قواعد وإجراءات عملهم.",
+      "text_for_index": "يتولى مفتشون -يصدر بتسميتهم قرار من المحافظ- مجتمعين أو منفردين ضبط مخالفات أحكام النظام واللائحة، والتحقيق فيها. وتحدد اللائحة قواعد وإجراءات عملهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يتولى مفتشون -يصدر بتسميتهم قرار من المحافظ- مجتمعين أو منفردين ضبط مخالفات أحكام النظام واللائحة، والتحقيق فيها. وتحدد اللائحة قواعد وإجراءات عملهم.",
+          "text_for_index": "يتولى مفتشون -يصدر بتسميتهم قرار من المحافظ- مجتمعين أو منفردين ضبط مخالفات أحكام النظام واللائحة، والتحقيق فيها. وتحدد اللائحة قواعد وإجراءات عملهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "definition",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "تعريف",
+        "شرط"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثامنة والعشرون",
+      "text_verbatim": "على المسؤولين والعاملين في الأماكن المراد تفتيشها تمكين المفتشين من أداء عملهم، وتقديم جميع التسهيلات والمعلومات والوثائق المطلوبة. وعلى المفتشين إبراز بطاقاتهم الوظيفية عند مباشرة اختصاصاتهم.",
+      "text_for_index": "على المسؤولين والعاملين في الأماكن المراد تفتيشها تمكين المفتشين من أداء عملهم، وتقديم جميع التسهيلات والمعلومات والوثائق المطلوبة. وعلى المفتشين إبراز بطاقاتهم الوظيفية عند مباشرة اختصاصاتهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "definition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "تعريف",
+            "شرط"
+          ],
+          "text_verbatim": "على المسؤولين والعاملين في الأماكن المراد تفتيشها تمكين المفتشين من أداء عملهم، وتقديم جميع التسهيلات والمعلومات والوثائق المطلوبة. وعلى المفتشين إبراز بطاقاتهم الوظيفية عند مباشرة اختصاصاتهم.",
+          "text_for_index": "على المسؤولين والعاملين في الأماكن المراد تفتيشها تمكين المفتشين من أداء عملهم، وتقديم جميع التسهيلات والمعلومات والوثائق المطلوبة. وعلى المفتشين إبراز بطاقاتهم الوظيفية عند مباشرة اختصاصاتهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة التاسعة والعشرون",
+      "text_verbatim": "للهيئة -عند اللزوم- طلب الاستعانة بالجهات المختصة في حالة الضبط، أو لتنفيذ أي قرار يصدر في حق المخالف.",
+      "text_for_index": "للهيئة -عند اللزوم- طلب الاستعانة بالجهات المختصة في حالة الضبط، أو لتنفيذ أي قرار يصدر في حق المخالف.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "للهيئة -عند اللزوم- طلب الاستعانة بالجهات المختصة في حالة الضبط، أو لتنفيذ أي قرار يصدر في حق المخالف.",
+          "text_for_index": "للهيئة -عند اللزوم- طلب الاستعانة بالجهات المختصة في حالة الضبط، أو لتنفيذ أي قرار يصدر في حق المخالف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثلاثون",
+      "text_verbatim": "يعد من المخالفات لأحكام النظام القيام بأي من الأفعال الآتية:\n\n\t• العبث بأي شكل من الأشكال بصناديق البريد، أو أي ممتلكات، أو وسائل، أو أجهزة، أو معدات، أو مركبات، تستخدم في الخدمات البريدية؛ أو إتلافها.\n\n\t• استخدام آلات التخليص البريدية، أو بيعها، أو شراؤها، أو استيرادها، أو حيازتها؛ من دون الحصول على ترخيص من الهيئة.\n\n\t• العبث بأي مادة بريدية، أو شعار يتعلق بالخدمات البريدية، أو إتلافها، أو وضع علامة رسمية على أي مادة بريدية بطريقة مخالفة لأحكام النظام، أو العبث، أو تغيير، أو إتلاف، أو إزالة أي علامة رسمية، أو طابع بريدي، أو أي رمز، أو رقم، أو حرف على أي مادة بريدية.\n\n\t• الإخلال بما تصدره الهيئة من قواعد، أو قرارات، أو إجراءات، أو الامتناع عن تنفيذ أي منها.",
+      "text_for_index": "يعد من المخالفات لأحكام النظام القيام بأي من الأفعال الآتية:\n\n • العبث بأي شكل من الأشكال بصناديق البريد، أو أي ممتلكات، أو وسائل، أو أجهزة، أو معدات، أو مركبات، تستخدم في الخدمات البريدية؛ أو إتلافها.\n\n • استخدام آلات التخليص البريدية، أو بيعها، أو شراؤها، أو استيرادها، أو حيازتها؛ من دون الحصول على ترخيص من الهيئة.\n\n • العبث بأي مادة بريدية، أو شعار يتعلق بالخدمات البريدية، أو إتلافها، أو وضع علامة رسمية على أي مادة بريدية بطريقة مخالفة لأحكام النظام، أو العبث، أو تغيير، أو إتلاف، أو إزالة أي علامة رسمية، أو طابع بريدي، أو أي رمز، أو رقم، أو حرف على أي مادة بريدية.\n\n • الإخلال بما تصدره الهيئة من قواعد، أو قرارات، أو إجراءات، أو الامتناع عن تنفيذ أي منها.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يعد من المخالفات لأحكام النظام القيام بأي من الأفعال الآتية:",
+          "text_for_index": "يعد من المخالفات لأحكام النظام القيام بأي من الأفعال الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-30::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• العبث بأي شكل من الأشكال بصناديق البريد، أو أي ممتلكات، أو وسائل، أو أجهزة، أو معدات، أو مركبات، تستخدم في الخدمات البريدية؛ أو إتلافها.",
+          "text_for_index": "• العبث بأي شكل من الأشكال بصناديق البريد، أو أي ممتلكات، أو وسائل، أو أجهزة، أو معدات، أو مركبات، تستخدم في الخدمات البريدية؛ أو إتلافها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-30::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• استخدام آلات التخليص البريدية، أو بيعها، أو شراؤها، أو استيرادها، أو حيازتها؛ من دون الحصول على ترخيص من الهيئة.",
+          "text_for_index": "• استخدام آلات التخليص البريدية، أو بيعها، أو شراؤها، أو استيرادها، أو حيازتها؛ من دون الحصول على ترخيص من الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-30::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• العبث بأي مادة بريدية، أو شعار يتعلق بالخدمات البريدية، أو إتلافها، أو وضع علامة رسمية على أي مادة بريدية بطريقة مخالفة لأحكام النظام، أو العبث، أو تغيير، أو إتلاف، أو إزالة أي علامة رسمية، أو طابع بريدي، أو أي رمز، أو رقم، أو حرف على أي مادة بريدية.",
+          "text_for_index": "• العبث بأي مادة بريدية، أو شعار يتعلق بالخدمات البريدية، أو إتلافها، أو وضع علامة رسمية على أي مادة بريدية بطريقة مخالفة لأحكام النظام، أو العبث، أو تغيير، أو إتلاف، أو إزالة أي علامة رسمية، أو طابع بريدي، أو أي رمز، أو رقم، أو حرف على أي مادة بريدية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-30::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• الإخلال بما تصدره الهيئة من قواعد، أو قرارات، أو إجراءات، أو الامتناع عن تنفيذ أي منها.",
+          "text_for_index": "• الإخلال بما تصدره الهيئة من قواعد، أو قرارات، أو إجراءات، أو الامتناع عن تنفيذ أي منها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الحادية والثلاثون",
+      "text_verbatim": "• دون إخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يعاقب كل من يخالف أحكام النظام، أو اللائحة، أو الترخيص بواحدة أو أكثر من العقوبات الآتية:\n\n\tأ - غرامة لا تزيد على (5,000,000) خمسة ملايين ريال.\n\n\tب - إيقاف الخدمة محل المخالفة.\n\n\tج - تعليق الترخيص، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.\n\n\tد - تعليق الإعفاء، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.\n\n\tهـ - إلغاء الترخيص، أو الإعفاء.\n\n\t• يصدر المجلس -بقرار منه- جدول تصنيف للمخالفات، وتحديد للعقوبات ضمن حدها المنصوص عليه في النظام، يراعى فيه طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها.\n\n\t• للجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة والثلاثين) من النظام أي مما يلي:\n\n\tأ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده قرار اللجنة.\n\n\tب- مضاعفة الغرامة في حال تكرار المخالفة نفسها، وتعد المخالفة مكررة إذا وقعت خلال سنة من تاريخ ارتكاب المخالفة التي سبقتها.\n\n\tج- تضمين القرار -الصادر بتحديد العقوبة- النص على نشر منطوقه على نفقة المخالف في صحيفة تصدر في مكان إقامته، فإن لم تكن في مقره صحيفة ففي صحيفة تصدر في أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة، وجسامتها، وآثارها، على أن يكون نشر القرار بعد تحصنه بمضي المدة المحددة نظاماً، أو بصدور حكم في شأنه مكتسب الصفة القطعية.\n\n\tد- تضمين القرار -الصادر بتحديد العقوبة- النص على إلزام المخالف بإزالة المخالفة.\n\n\tهـ- تضمين القرار - الصادر بتحديد العقوبة - النص على إلزام المخالف بإعادة المبالغ التي حصلها نتيجة المخالفة لأصحابها.",
+      "text_for_index": "• دون إخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يعاقب كل من يخالف أحكام النظام، أو اللائحة، أو الترخيص بواحدة أو أكثر من العقوبات الآتية:\n\n أ - غرامة لا تزيد على (5,000,000) خمسة ملايين ريال.\n\n ب - إيقاف الخدمة محل المخالفة.\n\n ج - تعليق الترخيص، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.\n\n د - تعليق الإعفاء، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.\n\n هـ - إلغاء الترخيص، أو الإعفاء.\n\n • يصدر المجلس -بقرار منه- جدول تصنيف للمخالفات، وتحديد للعقوبات ضمن حدها المنصوص عليه في النظام، يراعى فيه طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها.\n\n • للجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة والثلاثين) من النظام أي مما يلي:\n\n أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده قرار اللجنة.\n\n ب- مضاعفة الغرامة في حال تكرار المخالفة نفسها، وتعد المخالفة مكررة إذا وقعت خلال سنة من تاريخ ارتكاب المخالفة التي سبقتها.\n\n ج- تضمين القرار -الصادر بتحديد العقوبة- النص على نشر منطوقه على نفقة المخالف في صحيفة تصدر في مكان إقامته، فإن لم تكن في مقره صحيفة ففي صحيفة تصدر في أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة، وجسامتها، وآثارها، على أن يكون نشر القرار بعد تحصنه بمضي المدة المحددة نظاماً، أو بصدور حكم في شأنه مكتسب الصفة القطعية.\n\n د- تضمين القرار -الصادر بتحديد العقوبة- النص على إلزام المخالف بإزالة المخالفة.\n\n هـ- تضمين القرار - الصادر بتحديد العقوبة - النص على إلزام المخالف بإعادة المبالغ التي حصلها نتيجة المخالفة لأصحابها.",
+      "paragraph_count": 13,
+      "indexable_paragraph_count": 13,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يعاقب كل من يخالف أحكام النظام، أو اللائحة، أو الترخيص بواحدة أو أكثر من العقوبات الآتية:",
+          "text_for_index": "• دون إخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يعاقب كل من يخالف أحكام النظام، أو اللائحة، أو الترخيص بواحدة أو أكثر من العقوبات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ - غرامة لا تزيد على (5,000,000) خمسة ملايين ريال.",
+          "text_for_index": "أ - غرامة لا تزيد على (5,000,000) خمسة ملايين ريال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ب - إيقاف الخدمة محل المخالفة.",
+          "text_for_index": "ب - إيقاف الخدمة محل المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ج - تعليق الترخيص، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.",
+          "text_for_index": "ج - تعليق الترخيص، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "د - تعليق الإعفاء، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.",
+          "text_for_index": "د - تعليق الإعفاء، أو جزء منه، أو المنع من تجديده؛ لمدة لا تزيد على (ثلاث) سنوات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "هـ - إلغاء الترخيص، أو الإعفاء.",
+          "text_for_index": "هـ - إلغاء الترخيص، أو الإعفاء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• يصدر المجلس -بقرار منه- جدول تصنيف للمخالفات، وتحديد للعقوبات ضمن حدها المنصوص عليه في النظام، يراعى فيه طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها.",
+          "text_for_index": "• يصدر المجلس -بقرار منه- جدول تصنيف للمخالفات، وتحديد للعقوبات ضمن حدها المنصوص عليه في النظام، يراعى فيه طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• للجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة والثلاثين) من النظام أي مما يلي:",
+          "text_for_index": "• للجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة والثلاثين) من النظام أي مما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده قرار اللجنة.",
+          "text_for_index": "أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده قرار اللجنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ب- مضاعفة الغرامة في حال تكرار المخالفة نفسها، وتعد المخالفة مكررة إذا وقعت خلال سنة من تاريخ ارتكاب المخالفة التي سبقتها.",
+          "text_for_index": "ب- مضاعفة الغرامة في حال تكرار المخالفة نفسها، وتعد المخالفة مكررة إذا وقعت خلال سنة من تاريخ ارتكاب المخالفة التي سبقتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ج- تضمين القرار -الصادر بتحديد العقوبة- النص على نشر منطوقه على نفقة المخالف في صحيفة تصدر في مكان إقامته، فإن لم تكن في مقره صحيفة ففي صحيفة تصدر في أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة، وجسامتها، وآثارها، على أن يكون نشر القرار بعد تحصنه بمضي المدة المحددة نظاماً، أو بصدور حكم في شأنه مكتسب الصفة القطعية.",
+          "text_for_index": "ج- تضمين القرار -الصادر بتحديد العقوبة- النص على نشر منطوقه على نفقة المخالف في صحيفة تصدر في مكان إقامته، فإن لم تكن في مقره صحيفة ففي صحيفة تصدر في أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة، وجسامتها، وآثارها، على أن يكون نشر القرار بعد تحصنه بمضي المدة المحددة نظاماً، أو بصدور حكم في شأنه مكتسب الصفة القطعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "د- تضمين القرار -الصادر بتحديد العقوبة- النص على إلزام المخالف بإزالة المخالفة.",
+          "text_for_index": "د- تضمين القرار -الصادر بتحديد العقوبة- النص على إلزام المخالف بإزالة المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-31::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "هـ- تضمين القرار - الصادر بتحديد العقوبة - النص على إلزام المخالف بإعادة المبالغ التي حصلها نتيجة المخالفة لأصحابها.",
+          "text_for_index": "هـ- تضمين القرار - الصادر بتحديد العقوبة - النص على إلزام المخالف بإعادة المبالغ التي حصلها نتيجة المخالفة لأصحابها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الثانية والثلاثون",
+      "text_verbatim": "عند نشوء أي نزاع بين مقدمي الخدمة، يجوز لأي منهم التقدم للهيئة لطلب تسوية النزاع وديًّا، وذلك بحسب ما تحدده اللوائح، ودون المساس بأي وسيلة أخرى لتسوية النزاعات تنص عليها الاتفاقيات السارية بين أطراف النزاع.",
+      "text_for_index": "عند نشوء أي نزاع بين مقدمي الخدمة، يجوز لأي منهم التقدم للهيئة لطلب تسوية النزاع وديًّا، وذلك بحسب ما تحدده اللوائح، ودون المساس بأي وسيلة أخرى لتسوية النزاعات تنص عليها الاتفاقيات السارية بين أطراف النزاع.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "عند نشوء أي نزاع بين مقدمي الخدمة، يجوز لأي منهم التقدم للهيئة لطلب تسوية النزاع وديًّا، وذلك بحسب ما تحدده اللوائح، ودون المساس بأي وسيلة أخرى لتسوية النزاعات تنص عليها الاتفاقيات السارية بين أطراف النزاع.",
+          "text_for_index": "عند نشوء أي نزاع بين مقدمي الخدمة، يجوز لأي منهم التقدم للهيئة لطلب تسوية النزاع وديًّا، وذلك بحسب ما تحدده اللوائح، ودون المساس بأي وسيلة أخرى لتسوية النزاعات تنص عليها الاتفاقيات السارية بين أطراف النزاع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام البريد، المادة الثالثة والثلاثون",
+      "text_verbatim": "• يتولى النظر في مخالفات أحكام النظام واللائحة والترخيص، والفصل فيها، وإقرار العقوبات المنصوص عليها في المادة (الحادية والثلاثين) من النظام، لجنة (أو أكثر) تكوَّن من ثلاثة أعضاء على الأقل، على أن يكون من بينهم مختص شرعي، أو نظامي.\n\n\t• تشكل اللجنة المشار إليها في الفقرة (1) من هذه المادة بقرار من المجلس لمدة (ثلاث) سنوات قابلة للتجديد مرة واحدة، ويحدد القرار من يتولى رئاستها، على أن يكون من المختصين في الشريعة، أو الأنظمة، وتصدر قراراتها بالأغلبية، وتكون قراراتها مسببة.\n\n\t• تُحدد اللائحة قواعد وإجراءات عمل اللجنة ومكافآت أعضائها.\n\n\t• يجوز التظلم من قرار اللجنة -المنصوص عليها في الفقرة (1) من هذه المادة- أمام المحكمة الإدارية وفقاً لنظامها.",
+      "text_for_index": "• يتولى النظر في مخالفات أحكام النظام واللائحة والترخيص، والفصل فيها، وإقرار العقوبات المنصوص عليها في المادة (الحادية والثلاثين) من النظام، لجنة (أو أكثر) تكوَّن من ثلاثة أعضاء على الأقل، على أن يكون من بينهم مختص شرعي، أو نظامي.\n\n • تشكل اللجنة المشار إليها في الفقرة (1) من هذه المادة بقرار من المجلس لمدة (ثلاث) سنوات قابلة للتجديد مرة واحدة، ويحدد القرار من يتولى رئاستها، على أن يكون من المختصين في الشريعة، أو الأنظمة، وتصدر قراراتها بالأغلبية، وتكون قراراتها مسببة.\n\n • تُحدد اللائحة قواعد وإجراءات عمل اللجنة ومكافآت أعضائها.\n\n • يجوز التظلم من قرار اللجنة -المنصوص عليها في الفقرة (1) من هذه المادة- أمام المحكمة الإدارية وفقاً لنظامها.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "جزاء"
+          ],
+          "text_verbatim": "• يتولى النظر في مخالفات أحكام النظام واللائحة والترخيص، والفصل فيها، وإقرار العقوبات المنصوص عليها في المادة (الحادية والثلاثين) من النظام، لجنة (أو أكثر) تكوَّن من ثلاثة أعضاء على الأقل، على أن يكون من بينهم مختص شرعي، أو نظامي.",
+          "text_for_index": "• يتولى النظر في مخالفات أحكام النظام واللائحة والترخيص، والفصل فيها، وإقرار العقوبات المنصوص عليها في المادة (الحادية والثلاثين) من النظام، لجنة (أو أكثر) تكوَّن من ثلاثة أعضاء على الأقل، على أن يكون من بينهم مختص شرعي، أو نظامي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-33::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تشكل اللجنة المشار إليها في الفقرة (1) من هذه المادة بقرار من المجلس لمدة (ثلاث) سنوات قابلة للتجديد مرة واحدة، ويحدد القرار من يتولى رئاستها، على أن يكون من المختصين في الشريعة، أو الأنظمة، وتصدر قراراتها بالأغلبية، وتكون قراراتها مسببة.",
+          "text_for_index": "• تشكل اللجنة المشار إليها في الفقرة (1) من هذه المادة بقرار من المجلس لمدة (ثلاث) سنوات قابلة للتجديد مرة واحدة، ويحدد القرار من يتولى رئاستها، على أن يكون من المختصين في الشريعة، أو الأنظمة، وتصدر قراراتها بالأغلبية، وتكون قراراتها مسببة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-33::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• تُحدد اللائحة قواعد وإجراءات عمل اللجنة ومكافآت أعضائها.",
+          "text_for_index": "• تُحدد اللائحة قواعد وإجراءات عمل اللجنة ومكافآت أعضائها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albryd::article-33::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• يجوز التظلم من قرار اللجنة -المنصوص عليها في الفقرة (1) من هذه المادة- أمام المحكمة الإدارية وفقاً لنظامها.",
+          "text_for_index": "• يجوز التظلم من قرار اللجنة -المنصوص عليها في الفقرة (1) من هذه المادة- أمام المحكمة الإدارية وفقاً لنظامها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الرابعة والثلاثون",
+      "text_verbatim": "إذا ترتب على العقوبات أو الإجراءات التي تتخذها الهيئة ما يؤثر في تقديم الخدمات البريدية، فعلى الهيئة أن تتخذ الترتيبات المناسبة؛ لضمان استمرار الخدمة متى كان ذلك ضروريًّا.",
+      "text_for_index": "إذا ترتب على العقوبات أو الإجراءات التي تتخذها الهيئة ما يؤثر في تقديم الخدمات البريدية، فعلى الهيئة أن تتخذ الترتيبات المناسبة؛ لضمان استمرار الخدمة متى كان ذلك ضروريًّا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "جزاء"
+          ],
+          "text_verbatim": "إذا ترتب على العقوبات أو الإجراءات التي تتخذها الهيئة ما يؤثر في تقديم الخدمات البريدية، فعلى الهيئة أن تتخذ الترتيبات المناسبة؛ لضمان استمرار الخدمة متى كان ذلك ضروريًّا.",
+          "text_for_index": "إذا ترتب على العقوبات أو الإجراءات التي تتخذها الهيئة ما يؤثر في تقديم الخدمات البريدية، فعلى الهيئة أن تتخذ الترتيبات المناسبة؛ لضمان استمرار الخدمة متى كان ذلك ضروريًّا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة الخامسة والثلاثون",
+      "text_verbatim": "تصدر اللائحة بقرار من الوزير بناء على اقتراح من المجلس، وذلك خلال (مائة وثمانين) يوماً من تاريخ نشر النظام.",
+      "text_for_index": "تصدر اللائحة بقرار من الوزير بناء على اقتراح من المجلس، وذلك خلال (مائة وثمانين) يوماً من تاريخ نشر النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تصدر اللائحة بقرار من الوزير بناء على اقتراح من المجلس، وذلك خلال (مائة وثمانين) يوماً من تاريخ نشر النظام.",
+          "text_for_index": "تصدر اللائحة بقرار من الوزير بناء على اقتراح من المجلس، وذلك خلال (مائة وثمانين) يوماً من تاريخ نشر النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة السادسة والثلاثون",
+      "text_verbatim": "ينشر النظام في الجريدة الرسمية، ويكون نافذاً بعد (مائة وثمانين) يوماً من تاريخ نشره.",
+      "text_for_index": "ينشر النظام في الجريدة الرسمية، ويكون نافذاً بعد (مائة وثمانين) يوماً من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ينشر النظام في الجريدة الرسمية، ويكون نافذاً بعد (مائة وثمانين) يوماً من تاريخ نشره.",
+          "text_for_index": "ينشر النظام في الجريدة الرسمية، ويكون نافذاً بعد (مائة وثمانين) يوماً من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البريد، المادة السابعة والثلاثون",
+      "text_verbatim": "يحل النظام محل نظام البريد، الصادر بالمرسوم الملكي رقم (م / 4) وتاريخ 21 / 2 / 1406ه، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يحل النظام محل نظام البريد، الصادر بالمرسوم الملكي رقم (م / 4) وتاريخ 21 / 2 / 1406ه، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albryd::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل النظام محل نظام البريد، الصادر بالمرسوم الملكي رقم (م / 4) وتاريخ 21 / 2 / 1406ه، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يحل النظام محل نظام البريد، الصادر بالمرسوم الملكي رقم (م / 4) وتاريخ 21 / 2 / 1406ه، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

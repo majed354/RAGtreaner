@@ -1,0 +1,3051 @@
+{
+  "metadata": {
+    "slug": "nzam-altwthyq",
+    "title_ar": "نظام التوثيق",
+    "status": "ساري",
+    "issue_date_hijri": "1441/11/19 هـ الموافق : 10/07/2020 مـ",
+    "issue_date_gregorian": "2020-07-10",
+    "publish_date_hijri": "1441/11/26 هـ الموافق : 17/07/2020 مـ",
+    "publish_date_gregorian": "2020-07-17",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/40754577-f250-47f6-8a5a-abf600af7d72/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-altwthyq.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-altwthyq.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1441/11/26 هـ الموافق : 17/07/2020 مـ",
+    "effective_date_gregorian": "2020-07-17",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 57,
+    "paragraph_count": 119,
+    "indexable_paragraph_count": 119,
+    "text_chars": 14950,
+    "verbatim_chars": 14953,
+    "citation_base_ar": "نظام التوثيق",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/40754577-f250-47f6-8a5a-abf600af7d72/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-altwthyq.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-altwthyq.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "evidence",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "إثبات",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:\n\nالنظام: نظام التوثيق.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالوزير: وزير العدل.\n\nالوزارة: وزارة العدل.\n\nالإدارة المختصة: الجهة المختصة بشؤون التوثيق في الوزارة.\n\nالتوثيق: مجموعة الإجراءات التي تكفل إثبات الحق على وجه يصح الاحتجاج به، وفقاً لأحكام النظام.\n\nكاتب العدل: موظف حكومي مؤهل تأهيلاً شرعياً، معين على وظيفة كاتب عدل، أو رئيس كتابة عدل، يختص بتوثيق العقود والإقرارات.\n\nالموثق: من يقوم بأعمال التوثيق بموجب رخصة صادرة وفق أحكام النظام.\n\nالمأذون: من يقوم بتوثيق عقود النكاح بموجب رخصة صادرة وفق أحكام النظام.\n\nالرخصة: رخصة الموثق أو المأذون.\n\nالمرخص له: الموثق أو المأذون.\n\nكتابة العدل: مقر عمل كاتب العدل.\n\nمكتب التوثيق: مقر عمل الموثق.\n\nوعاء التوثيق: النموذج أو الضبط المخصص للتوثيق، ويتضمن توقيعات ذوي الشأن.\n\nالجدول: جدول قيد المرخص لهم.\n\nذوو الشأن: أطراف العقد أو المقِرّ.",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:\n\nالنظام: نظام التوثيق.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالوزير: وزير العدل.\n\nالوزارة: وزارة العدل.\n\nالإدارة المختصة: الجهة المختصة بشؤون التوثيق في الوزارة.\n\nالتوثيق: مجموعة الإجراءات التي تكفل إثبات الحق على وجه يصح الاحتجاج به، وفقاً لأحكام النظام.\n\nكاتب العدل: موظف حكومي مؤهل تأهيلاً شرعياً، معين على وظيفة كاتب عدل، أو رئيس كتابة عدل، يختص بتوثيق العقود والإقرارات.\n\nالموثق: من يقوم بأعمال التوثيق بموجب رخصة صادرة وفق أحكام النظام.\n\nالمأذون: من يقوم بتوثيق عقود النكاح بموجب رخصة صادرة وفق أحكام النظام.\n\nالرخصة: رخصة الموثق أو المأذون.\n\nالمرخص له: الموثق أو المأذون.\n\nكتابة العدل: مقر عمل كاتب العدل.\n\nمكتب التوثيق: مقر عمل الموثق.\n\nوعاء التوثيق: النموذج أو الضبط المخصص للتوثيق، ويتضمن توقيعات ذوي الشأن.\n\nالجدول: جدول قيد المرخص لهم.\n\nذوو الشأن: أطراف العقد أو المقِرّ.",
+      "paragraph_count": 17,
+      "indexable_paragraph_count": 17,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "النظام: نظام التوثيق.",
+          "text_for_index": "النظام: نظام التوثيق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الوزير: وزير العدل.",
+          "text_for_index": "الوزير: وزير العدل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الوزارة: وزارة العدل.",
+          "text_for_index": "الوزارة: وزارة العدل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الإدارة المختصة: الجهة المختصة بشؤون التوثيق في الوزارة.",
+          "text_for_index": "الإدارة المختصة: الجهة المختصة بشؤون التوثيق في الوزارة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "التوثيق: مجموعة الإجراءات التي تكفل إثبات الحق على وجه يصح الاحتجاج به، وفقاً لأحكام النظام.",
+          "text_for_index": "التوثيق: مجموعة الإجراءات التي تكفل إثبات الحق على وجه يصح الاحتجاج به، وفقاً لأحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "كاتب العدل: موظف حكومي مؤهل تأهيلاً شرعياً، معين على وظيفة كاتب عدل، أو رئيس كتابة عدل، يختص بتوثيق العقود والإقرارات.",
+          "text_for_index": "كاتب العدل: موظف حكومي مؤهل تأهيلاً شرعياً، معين على وظيفة كاتب عدل، أو رئيس كتابة عدل، يختص بتوثيق العقود والإقرارات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الموثق: من يقوم بأعمال التوثيق بموجب رخصة صادرة وفق أحكام النظام.",
+          "text_for_index": "الموثق: من يقوم بأعمال التوثيق بموجب رخصة صادرة وفق أحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المأذون: من يقوم بتوثيق عقود النكاح بموجب رخصة صادرة وفق أحكام النظام.",
+          "text_for_index": "المأذون: من يقوم بتوثيق عقود النكاح بموجب رخصة صادرة وفق أحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الرخصة: رخصة الموثق أو المأذون.",
+          "text_for_index": "الرخصة: رخصة الموثق أو المأذون.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المرخص له: الموثق أو المأذون.",
+          "text_for_index": "المرخص له: الموثق أو المأذون.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "كتابة العدل: مقر عمل كاتب العدل.",
+          "text_for_index": "كتابة العدل: مقر عمل كاتب العدل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "مكتب التوثيق: مقر عمل الموثق.",
+          "text_for_index": "مكتب التوثيق: مقر عمل الموثق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "وعاء التوثيق: النموذج أو الضبط المخصص للتوثيق، ويتضمن توقيعات ذوي الشأن.",
+          "text_for_index": "وعاء التوثيق: النموذج أو الضبط المخصص للتوثيق، ويتضمن توقيعات ذوي الشأن.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجدول: جدول قيد المرخص لهم.",
+          "text_for_index": "الجدول: جدول قيد المرخص لهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-1::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ذوو الشأن: أطراف العقد أو المقِرّ.",
+          "text_for_index": "ذوو الشأن: أطراف العقد أو المقِرّ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثانية",
+      "text_verbatim": "يطبق كاتب العدل والمرخص له أحكام الشريعة الإسلامية والأنظمة عند إجراء أي من أعمال التوثيق.",
+      "text_for_index": "يطبق كاتب العدل والمرخص له أحكام الشريعة الإسلامية والأنظمة عند إجراء أي من أعمال التوثيق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يطبق كاتب العدل والمرخص له أحكام الشريعة الإسلامية والأنظمة عند إجراء أي من أعمال التوثيق.",
+          "text_for_index": "يطبق كاتب العدل والمرخص له أحكام الشريعة الإسلامية والأنظمة عند إجراء أي من أعمال التوثيق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثالثة",
+      "text_verbatim": "يكون إنشاء كتابات العدل، وتحديد دوائر اختصاصها النوعي والمكاني وتكوينها، وإلغاؤها، بقرار يصدره الوزير، ويشرف رئيس كتابة العدل على كتاب العدل فيها.",
+      "text_for_index": "يكون إنشاء كتابات العدل، وتحديد دوائر اختصاصها النوعي والمكاني وتكوينها، وإلغاؤها، بقرار يصدره الوزير، ويشرف رئيس كتابة العدل على كتاب العدل فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون إنشاء كتابات العدل، وتحديد دوائر اختصاصها النوعي والمكاني وتكوينها، وإلغاؤها، بقرار يصدره الوزير، ويشرف رئيس كتابة العدل على كتاب العدل فيها.",
+          "text_for_index": "يكون إنشاء كتابات العدل، وتحديد دوائر اختصاصها النوعي والمكاني وتكوينها، وإلغاؤها، بقرار يصدره الوزير، ويشرف رئيس كتابة العدل على كتاب العدل فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الرابعة",
+      "text_verbatim": "يشترط فيمن يعين كاتب عدل ما يأتي:\n\n\t• أن يكون سعودي الجنسية بالأصل.\n\n\t• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.\n\n\t• أن يكون لائقاً صحيًا، وسليم الحواس.\n\n\t• أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة من إحدى الكليات في المملكة أو شهادة أخرى معادلة لها.\n\n\t• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+      "text_for_index": "يشترط فيمن يعين كاتب عدل ما يأتي:\n\n • أن يكون سعودي الجنسية بالأصل.\n\n • أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.\n\n • أن يكون لائقاً صحيًا، وسليم الحواس.\n\n • أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة من إحدى الكليات في المملكة أو شهادة أخرى معادلة لها.\n\n • أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يشترط فيمن يعين كاتب عدل ما يأتي:",
+          "text_for_index": "يشترط فيمن يعين كاتب عدل ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون سعودي الجنسية بالأصل.",
+          "text_for_index": "• أن يكون سعودي الجنسية بالأصل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.",
+          "text_for_index": "• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون لائقاً صحيًا، وسليم الحواس.",
+          "text_for_index": "• أن يكون لائقاً صحيًا، وسليم الحواس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة من إحدى الكليات في المملكة أو شهادة أخرى معادلة لها.",
+          "text_for_index": "• أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة من إحدى الكليات في المملكة أو شهادة أخرى معادلة لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-4::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+          "text_for_index": "• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخامسة",
+      "text_verbatim": "يخضع كاتب العدل -بعد تعيينه- لدورة تدريبية تطبيقية في مجال عمله لا تقل مدتها عن (3) أشهر، وتكون مدة التجربة له سنتين من تاريخ مباشرته للعمل بعد صدور قرار تعيينه، وإذا لم تثبت صلاحيته للعمل خلال مدة التجربة يصدر الوزير قراراً بالاستغناء عنه.",
+      "text_for_index": "يخضع كاتب العدل -بعد تعيينه- لدورة تدريبية تطبيقية في مجال عمله لا تقل مدتها عن (3) أشهر، وتكون مدة التجربة له سنتين من تاريخ مباشرته للعمل بعد صدور قرار تعيينه، وإذا لم تثبت صلاحيته للعمل خلال مدة التجربة يصدر الوزير قراراً بالاستغناء عنه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يخضع كاتب العدل -بعد تعيينه- لدورة تدريبية تطبيقية في مجال عمله لا تقل مدتها عن (3) أشهر، وتكون مدة التجربة له سنتين من تاريخ مباشرته للعمل بعد صدور قرار تعيينه، وإذا لم تثبت صلاحيته للعمل خلال مدة التجربة يصدر الوزير قراراً بالاستغناء عنه.",
+          "text_for_index": "يخضع كاتب العدل -بعد تعيينه- لدورة تدريبية تطبيقية في مجال عمله لا تقل مدتها عن (3) أشهر، وتكون مدة التجربة له سنتين من تاريخ مباشرته للعمل بعد صدور قرار تعيينه، وإذا لم تثبت صلاحيته للعمل خلال مدة التجربة يصدر الوزير قراراً بالاستغناء عنه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السادسة",
+      "text_verbatim": "تصنف وظائف كُتاب العدل على النحو الآتي:\n\nكاتب عدل (د)، كاتب عدل (ج)، كاتب عدل (ب)، كاتب عدل (أ)، رئيس كتابة عدل (د)، رئيس كتابة عدل (ج)، رئيس كتابة عدل (ب)، رئيس كتابة عدل (أ).",
+      "text_for_index": "تصنف وظائف كُتاب العدل على النحو الآتي:\n\nكاتب عدل (د)، كاتب عدل (ج)، كاتب عدل (ب)، كاتب عدل (أ)، رئيس كتابة عدل (د)، رئيس كتابة عدل (ج)، رئيس كتابة عدل (ب)، رئيس كتابة عدل (أ).",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تصنف وظائف كُتاب العدل على النحو الآتي:",
+          "text_for_index": "تصنف وظائف كُتاب العدل على النحو الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "كاتب عدل (د)، كاتب عدل (ج)، كاتب عدل (ب)، كاتب عدل (أ)، رئيس كتابة عدل (د)، رئيس كتابة عدل (ج)، رئيس كتابة عدل (ب)، رئيس كتابة عدل (أ).",
+          "text_for_index": "كاتب عدل (د)، كاتب عدل (ج)، كاتب عدل (ب)، كاتب عدل (أ)، رئيس كتابة عدل (د)، رئيس كتابة عدل (ج)، رئيس كتابة عدل (ب)، رئيس كتابة عدل (أ).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السابعة",
+      "text_verbatim": "تحدد المؤهلات المطلوبة لشغل وظائف كُتاب العدل على النحو الآتي:\n\n\t• كاتب عدل (د): أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد).\n\n\t• كاتب عدل (ج): أن يكون قد أمضى ثلاث سنوات في وظيفة كاتب عدل (د) أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن ثلاث سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها.\n\n\t• كاتب عدل (ب): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ج)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن سبع سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها.\n\n\t• كاتب عدل (أ): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ب)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن إحدى عشرة سنة، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن ثماني سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات.\n\nوتحدد اللائحة نوع الخبرة الواردة في هذه المادة.",
+      "text_for_index": "تحدد المؤهلات المطلوبة لشغل وظائف كُتاب العدل على النحو الآتي:\n\n • كاتب عدل (د): أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد).\n\n • كاتب عدل (ج): أن يكون قد أمضى ثلاث سنوات في وظيفة كاتب عدل (د) أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن ثلاث سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها.\n\n • كاتب عدل (ب): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ج)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن سبع سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها.\n\n • كاتب عدل (أ): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ب)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن إحدى عشرة سنة، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن ثماني سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات.\n\nوتحدد اللائحة نوع الخبرة الواردة في هذه المادة.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحدد المؤهلات المطلوبة لشغل وظائف كُتاب العدل على النحو الآتي:",
+          "text_for_index": "تحدد المؤهلات المطلوبة لشغل وظائف كُتاب العدل على النحو الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• كاتب عدل (د): أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد).",
+          "text_for_index": "• كاتب عدل (د): أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• كاتب عدل (ج): أن يكون قد أمضى ثلاث سنوات في وظيفة كاتب عدل (د) أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن ثلاث سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها.",
+          "text_for_index": "• كاتب عدل (ج): أن يكون قد أمضى ثلاث سنوات في وظيفة كاتب عدل (د) أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن ثلاث سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• كاتب عدل (ب): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ج)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن سبع سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها.",
+          "text_for_index": "• كاتب عدل (ب): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ج)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن سبع سنوات، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-7::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• كاتب عدل (أ): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ب)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن إحدى عشرة سنة، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن ثماني سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات.",
+          "text_for_index": "• كاتب عدل (أ): أن يكون قد أمضى أربع سنوات في وظيفة كاتب عدل (ب)، أو حاصلاً على شهادة جامعية في تخصص الشريعة أو ما يعادلها بتقدير عام لا يقل عن (جيد) مع خبرة لا تقل عن إحدى عشرة سنة، أو حاصلاً على شهادة الماجستير في الشريعة أو ما يعادلها مع خبرة لا تقل عن ثماني سنوات، أو حاصلاً على شهادة الدكتوراه في الشريعة أو ما يعادلها مع خبرة لا تقل عن أربع سنوات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-7::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "وتحدد اللائحة نوع الخبرة الواردة في هذه المادة.",
+          "text_for_index": "وتحدد اللائحة نوع الخبرة الواردة في هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثامنة",
+      "text_verbatim": "• يشترط للترقية إلى وظيفة رئيس كتابة عدل (د) أن يكون المرشح قد أمضى سنتين على الأقل في وظيفة كاتب عدل (أ).\n\n\t• يشترط للترقية إلى وظائف: رئيس كتابة عدل (أ) و(ب) و(ج) أن يكون المرشح قد أمضى سنتين على الأقل في الوظيفة التي قبلها.",
+      "text_for_index": "• يشترط للترقية إلى وظيفة رئيس كتابة عدل (د) أن يكون المرشح قد أمضى سنتين على الأقل في وظيفة كاتب عدل (أ).\n\n • يشترط للترقية إلى وظائف: رئيس كتابة عدل (أ) و(ب) و(ج) أن يكون المرشح قد أمضى سنتين على الأقل في الوظيفة التي قبلها.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يشترط للترقية إلى وظيفة رئيس كتابة عدل (د) أن يكون المرشح قد أمضى سنتين على الأقل في وظيفة كاتب عدل (أ).",
+          "text_for_index": "• يشترط للترقية إلى وظيفة رئيس كتابة عدل (د) أن يكون المرشح قد أمضى سنتين على الأقل في وظيفة كاتب عدل (أ).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يشترط للترقية إلى وظائف: رئيس كتابة عدل (أ) و(ب) و(ج) أن يكون المرشح قد أمضى سنتين على الأقل في الوظيفة التي قبلها.",
+          "text_for_index": "• يشترط للترقية إلى وظائف: رئيس كتابة عدل (أ) و(ب) و(ج) أن يكون المرشح قد أمضى سنتين على الأقل في الوظيفة التي قبلها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة التاسعة",
+      "text_verbatim": "يُصرف لمن يعين لأول مرة في الخدمة على إحدى وظائف كُتاب العدل بدل تعيين يعادل راتب ثلاثة أشهر للوظيفة المعين عليها.",
+      "text_for_index": "يُصرف لمن يعين لأول مرة في الخدمة على إحدى وظائف كُتاب العدل بدل تعيين يعادل راتب ثلاثة أشهر للوظيفة المعين عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يُصرف لمن يعين لأول مرة في الخدمة على إحدى وظائف كُتاب العدل بدل تعيين يعادل راتب ثلاثة أشهر للوظيفة المعين عليها.",
+          "text_for_index": "يُصرف لمن يعين لأول مرة في الخدمة على إحدى وظائف كُتاب العدل بدل تعيين يعادل راتب ثلاثة أشهر للوظيفة المعين عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة العاشرة",
+      "text_verbatim": "تكون رواتب كتاب العدل بجميع درجاتهم وفقًا لسلم رواتب خاص بهم يصدر بأمر ملكي.",
+      "text_for_index": "تكون رواتب كتاب العدل بجميع درجاتهم وفقًا لسلم رواتب خاص بهم يصدر بأمر ملكي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكون رواتب كتاب العدل بجميع درجاتهم وفقًا لسلم رواتب خاص بهم يصدر بأمر ملكي.",
+          "text_for_index": "تكون رواتب كتاب العدل بجميع درجاتهم وفقًا لسلم رواتب خاص بهم يصدر بأمر ملكي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الحادية عشرة",
+      "text_verbatim": "- عُدلت الفقرة (6) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\"6- قسمة الأموال الشائعة - بما فيها العقار - إذا لم يكن فيها نزاع، أو حصة وقف  أو وصية، أو عديم الأهلية أو ناقصها، أو غائب\".",
+      "text_for_index": "- عُدلت الفقرة (6) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\"6- قسمة الأموال الشائعة - بما فيها العقار - إذا لم يكن فيها نزاع، أو حصة وقف أو وصية، أو عديم الأهلية أو ناقصها، أو غائب\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- عُدلت الفقرة (6) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت الفقرة (6) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "\"6- قسمة الأموال الشائعة - بما فيها العقار - إذا لم يكن فيها نزاع، أو حصة وقف  أو وصية، أو عديم الأهلية أو ناقصها، أو غائب\".",
+          "text_for_index": "\"6- قسمة الأموال الشائعة - بما فيها العقار - إذا لم يكن فيها نزاع، أو حصة وقف أو وصية، أو عديم الأهلية أو ناقصها، أو غائب\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثانية عشرة",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\" لا يختص كاتب العدل بتوثيق أي إقرار أو عقد يكون أحد طرفيه عديم الأهلية أو ناقصها، أو غائباً، أو ناظر وقف أو وصية، إلا في الحالات الآتية:\n\n\t• قبول الهبة.\n\n\t• تصرفات الأب في مال ولده عديم الأهلية أو ناقصها.\n\n\t• إقرار البائع بالبيع على مورث عديم الأهلية أو ناقصها وقبضه الثمن قبل وفاة المورث.\n\n\t• ما ينزع من العقار للمنفعة العامة ما لم يكن البدل عقاراً.\n\n\t• عقد تأجير مدته لا تتطلب الإذن من المحكمة المختصة.\"",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\" لا يختص كاتب العدل بتوثيق أي إقرار أو عقد يكون أحد طرفيه عديم الأهلية أو ناقصها، أو غائباً، أو ناظر وقف أو وصية، إلا في الحالات الآتية:\n\n • قبول الهبة.\n\n • تصرفات الأب في مال ولده عديم الأهلية أو ناقصها.\n\n • إقرار البائع بالبيع على مورث عديم الأهلية أو ناقصها وقبضه الثمن قبل وفاة المورث.\n\n • ما ينزع من العقار للمنفعة العامة ما لم يكن البدل عقاراً.\n\n • عقد تأجير مدته لا تتطلب الإذن من المحكمة المختصة.\"",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "\" لا يختص كاتب العدل بتوثيق أي إقرار أو عقد يكون أحد طرفيه عديم الأهلية أو ناقصها، أو غائباً، أو ناظر وقف أو وصية، إلا في الحالات الآتية:",
+          "text_for_index": "\" لا يختص كاتب العدل بتوثيق أي إقرار أو عقد يكون أحد طرفيه عديم الأهلية أو ناقصها، أو غائباً، أو ناظر وقف أو وصية، إلا في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• قبول الهبة.",
+          "text_for_index": "• قبول الهبة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• تصرفات الأب في مال ولده عديم الأهلية أو ناقصها.",
+          "text_for_index": "• تصرفات الأب في مال ولده عديم الأهلية أو ناقصها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• إقرار البائع بالبيع على مورث عديم الأهلية أو ناقصها وقبضه الثمن قبل وفاة المورث.",
+          "text_for_index": "• إقرار البائع بالبيع على مورث عديم الأهلية أو ناقصها وقبضه الثمن قبل وفاة المورث.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• ما ينزع من العقار للمنفعة العامة ما لم يكن البدل عقاراً.",
+          "text_for_index": "• ما ينزع من العقار للمنفعة العامة ما لم يكن البدل عقاراً.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-12::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• عقد تأجير مدته لا تتطلب الإذن من المحكمة المختصة.\"",
+          "text_for_index": "• عقد تأجير مدته لا تتطلب الإذن من المحكمة المختصة.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثالثة عشرة",
+      "text_verbatim": "يتولى قناصل المملكة في الخارج أو من يقوم مقامهم بعض اختصاصات كاتب العدل، وفق ضوابط تصدر بقرار من الوزير بالتنسيق مع وزير الخارجية.",
+      "text_for_index": "يتولى قناصل المملكة في الخارج أو من يقوم مقامهم بعض اختصاصات كاتب العدل، وفق ضوابط تصدر بقرار من الوزير بالتنسيق مع وزير الخارجية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يتولى قناصل المملكة في الخارج أو من يقوم مقامهم بعض اختصاصات كاتب العدل، وفق ضوابط تصدر بقرار من الوزير بالتنسيق مع وزير الخارجية.",
+          "text_for_index": "يتولى قناصل المملكة في الخارج أو من يقوم مقامهم بعض اختصاصات كاتب العدل، وفق ضوابط تصدر بقرار من الوزير بالتنسيق مع وزير الخارجية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الرابعة عشرة",
+      "text_verbatim": "يشترط في الموثق ما يأتي:\n\n\t• أن يكون سعودي الجنسية.\n\n\t• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.\n\n\t• أن يكون لائقاً صحيًا، وسليم الحواس.\n\n\t• أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو الأنظمة من إحدى الكليات في المملكة، أو ما يعادل أيًّا منها، وبتقدير عام لا يقل عن (جيد).\n\n\t• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.\n\n\t• أن يجتاز دورة تدريبية متخصصة في مجال التوثيق وفق ضوابط تحددها اللائحة، ما لم يكن قد عمل -مدة لا تقل عن سنة- قاضياً أو كاتب عدل أو محامياً أو مستشاراً شرعيًا أو نظاميًا أو درّس الفقه أو أصوله أو الأنظمة في إحدى كليات المملكة.\n\n\t• ألاَّ يكون موظفاً في القطاع العام أو القطاع الخاص، ولا مزاولاً لأي مهنة أخرى عدا مهنة المحاماة.",
+      "text_for_index": "يشترط في الموثق ما يأتي:\n\n • أن يكون سعودي الجنسية.\n\n • أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.\n\n • أن يكون لائقاً صحيًا، وسليم الحواس.\n\n • أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو الأنظمة من إحدى الكليات في المملكة، أو ما يعادل أيًّا منها، وبتقدير عام لا يقل عن (جيد).\n\n • أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.\n\n • أن يجتاز دورة تدريبية متخصصة في مجال التوثيق وفق ضوابط تحددها اللائحة، ما لم يكن قد عمل -مدة لا تقل عن سنة- قاضياً أو كاتب عدل أو محامياً أو مستشاراً شرعيًا أو نظاميًا أو درّس الفقه أو أصوله أو الأنظمة في إحدى كليات المملكة.\n\n • ألاَّ يكون موظفاً في القطاع العام أو القطاع الخاص، ولا مزاولاً لأي مهنة أخرى عدا مهنة المحاماة.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يشترط في الموثق ما يأتي:",
+          "text_for_index": "يشترط في الموثق ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون سعودي الجنسية.",
+          "text_for_index": "• أن يكون سعودي الجنسية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.",
+          "text_for_index": "• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، أو صدر في حقه قرار تأديبي بالفصل من وظيفة عامة، ولو كان قد رُدّ إليه اعتباره.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون لائقاً صحيًا، وسليم الحواس.",
+          "text_for_index": "• أن يكون لائقاً صحيًا، وسليم الحواس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو الأنظمة من إحدى الكليات في المملكة، أو ما يعادل أيًّا منها، وبتقدير عام لا يقل عن (جيد).",
+          "text_for_index": "• أن يكون حاصلاً على شهادة جامعية في تخصص الشريعة أو الأنظمة من إحدى الكليات في المملكة، أو ما يعادل أيًّا منها، وبتقدير عام لا يقل عن (جيد).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+          "text_for_index": "• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• أن يجتاز دورة تدريبية متخصصة في مجال التوثيق وفق ضوابط تحددها اللائحة، ما لم يكن قد عمل -مدة لا تقل عن سنة- قاضياً أو كاتب عدل أو محامياً أو مستشاراً شرعيًا أو نظاميًا أو درّس الفقه أو أصوله أو الأنظمة في إحدى كليات المملكة.",
+          "text_for_index": "• أن يجتاز دورة تدريبية متخصصة في مجال التوثيق وفق ضوابط تحددها اللائحة، ما لم يكن قد عمل -مدة لا تقل عن سنة- قاضياً أو كاتب عدل أو محامياً أو مستشاراً شرعيًا أو نظاميًا أو درّس الفقه أو أصوله أو الأنظمة في إحدى كليات المملكة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-14::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ألاَّ يكون موظفاً في القطاع العام أو القطاع الخاص، ولا مزاولاً لأي مهنة أخرى عدا مهنة المحاماة.",
+          "text_for_index": "• ألاَّ يكون موظفاً في القطاع العام أو القطاع الخاص، ولا مزاولاً لأي مهنة أخرى عدا مهنة المحاماة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخامسة عشرة",
+      "text_verbatim": "- عُدلت الفقرة (8) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/191) وتاريخ 1444/11/29هـ، لتكون بالنص الآتي:\n\n\" إقرار الكفالة الغرمية \"",
+      "text_for_index": "- عُدلت الفقرة (8) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/191) وتاريخ 1444/11/29هـ، لتكون بالنص الآتي:\n\n\" إقرار الكفالة الغرمية \"",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- عُدلت الفقرة (8) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/191) وتاريخ 1444/11/29هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت الفقرة (8) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/191) وتاريخ 1444/11/29هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-15::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\" إقرار الكفالة الغرمية \"",
+          "text_for_index": "\" إقرار الكفالة الغرمية \"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السادسة عشرة",
+      "text_verbatim": "على الموثق البدء بمزاولة مهنته خلال مدة لا تزيد على مائة وعشرين يوماً من تاريخ صدور الرخصة، فإن لم يزاول المهنة، أو أراد التوقف عنها مدة تزيد على ستين يوماً، فيجب عليه أن يُبلغ الإدارة المختصة بذلك وفق النموذج المعدّ، ويؤشَّر في الجدول بالتوقف، ولا يعود إلى مزاولة المهنة إلاَّ بعد إشعار الإدارة المختصة، والتأشير في الجدول بعودته.",
+      "text_for_index": "على الموثق البدء بمزاولة مهنته خلال مدة لا تزيد على مائة وعشرين يوماً من تاريخ صدور الرخصة، فإن لم يزاول المهنة، أو أراد التوقف عنها مدة تزيد على ستين يوماً، فيجب عليه أن يُبلغ الإدارة المختصة بذلك وفق النموذج المعدّ، ويؤشَّر في الجدول بالتوقف، ولا يعود إلى مزاولة المهنة إلاَّ بعد إشعار الإدارة المختصة، والتأشير في الجدول بعودته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على الموثق البدء بمزاولة مهنته خلال مدة لا تزيد على مائة وعشرين يوماً من تاريخ صدور الرخصة، فإن لم يزاول المهنة، أو أراد التوقف عنها مدة تزيد على ستين يوماً، فيجب عليه أن يُبلغ الإدارة المختصة بذلك وفق النموذج المعدّ، ويؤشَّر في الجدول بالتوقف، ولا يعود إلى مزاولة المهنة إلاَّ بعد إشعار الإدارة المختصة، والتأشير في الجدول بعودته.",
+          "text_for_index": "على الموثق البدء بمزاولة مهنته خلال مدة لا تزيد على مائة وعشرين يوماً من تاريخ صدور الرخصة، فإن لم يزاول المهنة، أو أراد التوقف عنها مدة تزيد على ستين يوماً، فيجب عليه أن يُبلغ الإدارة المختصة بذلك وفق النموذج المعدّ، ويؤشَّر في الجدول بالتوقف، ولا يعود إلى مزاولة المهنة إلاَّ بعد إشعار الإدارة المختصة، والتأشير في الجدول بعودته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السابعة عشرة",
+      "text_verbatim": "يجب على كل موثق أن يتخذ مكتباً لمزاولة مهنته وفقًا لما تحدده اللائحة، ويجوز تكوين شركة مهنية للتوثيق وفقاً لما يقضي به نظام الشركات المهنية.",
+      "text_for_index": "يجب على كل موثق أن يتخذ مكتباً لمزاولة مهنته وفقًا لما تحدده اللائحة، ويجوز تكوين شركة مهنية للتوثيق وفقاً لما يقضي به نظام الشركات المهنية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على كل موثق أن يتخذ مكتباً لمزاولة مهنته وفقًا لما تحدده اللائحة، ويجوز تكوين شركة مهنية للتوثيق وفقاً لما يقضي به نظام الشركات المهنية.",
+          "text_for_index": "يجب على كل موثق أن يتخذ مكتباً لمزاولة مهنته وفقًا لما تحدده اللائحة، ويجوز تكوين شركة مهنية للتوثيق وفقاً لما يقضي به نظام الشركات المهنية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثامنة عشرة",
+      "text_verbatim": "يُعهد إلى المأذون بتوثيق عقود النكاح إذا كان كلا طرفيه سعوديين، أو غير سعوديين، وذلك وفقاً لما تبينه اللائحة.",
+      "text_for_index": "يُعهد إلى المأذون بتوثيق عقود النكاح إذا كان كلا طرفيه سعوديين، أو غير سعوديين، وذلك وفقاً لما تبينه اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يُعهد إلى المأذون بتوثيق عقود النكاح إذا كان كلا طرفيه سعوديين، أو غير سعوديين، وذلك وفقاً لما تبينه اللائحة.",
+          "text_for_index": "يُعهد إلى المأذون بتوثيق عقود النكاح إذا كان كلا طرفيه سعوديين، أو غير سعوديين، وذلك وفقاً لما تبينه اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة التاسعة عشرة",
+      "text_verbatim": "يُشترط في المأذون ما يأتي:\n\n\t• أن يكون سعودي الجنسية.\n\n\t• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، ما لم يكن قد مضى على انتهاء تنفيذ الحكم خمس سنوات على الأقل.\n\n\t• أن يكون لائقاً صحيًا، وسليم الحواس.\n\n\t• أن يكون حاصلاً على شهادة جامعية في العلوم الشرعية.\n\n\t• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+      "text_for_index": "يُشترط في المأذون ما يأتي:\n\n • أن يكون سعودي الجنسية.\n\n • أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، ما لم يكن قد مضى على انتهاء تنفيذ الحكم خمس سنوات على الأقل.\n\n • أن يكون لائقاً صحيًا، وسليم الحواس.\n\n • أن يكون حاصلاً على شهادة جامعية في العلوم الشرعية.\n\n • أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "يُشترط في المأذون ما يأتي:",
+          "text_for_index": "يُشترط في المأذون ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• أن يكون سعودي الجنسية.",
+          "text_for_index": "• أن يكون سعودي الجنسية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-19::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، ما لم يكن قد مضى على انتهاء تنفيذ الحكم خمس سنوات على الأقل.",
+          "text_for_index": "• أن يكون حسن السيرة والسلوك، وألا يكون محكوماً عليه بجريمة مخلة بالدين أو الشرف، ما لم يكن قد مضى على انتهاء تنفيذ الحكم خمس سنوات على الأقل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-19::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• أن يكون لائقاً صحيًا، وسليم الحواس.",
+          "text_for_index": "• أن يكون لائقاً صحيًا، وسليم الحواس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-19::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• أن يكون حاصلاً على شهادة جامعية في العلوم الشرعية.",
+          "text_for_index": "• أن يكون حاصلاً على شهادة جامعية في العلوم الشرعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-19::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+          "text_for_index": "• أن يجتاز امتحاناً تحريريًا تعده الإدارة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة العشرون",
+      "text_verbatim": "تصدر الرخصة بقرار من الوزير بناء على توصية من الإدارة المختصة.",
+      "text_for_index": "تصدر الرخصة بقرار من الوزير بناء على توصية من الإدارة المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تصدر الرخصة بقرار من الوزير بناء على توصية من الإدارة المختصة.",
+          "text_for_index": "تصدر الرخصة بقرار من الوزير بناء على توصية من الإدارة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الحادية والعشرون",
+      "text_verbatim": "يشكل الوزير لجنة للبت في طلبات الحصول على الرخص، تؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي من الوزارة لا تقل مرتبة كل منهما عن المرتبة (العاشرة)، وتبت اللجنة في الطلب خلال (ثلاثين) يوماً من تاريخ تقديمه، على أن يكون القرار مسبباً في حالة رفض الطلب. ويجوز لصاحب الطلب التظلم أمام المحكمة المختصة من قرار رفضه أو عدم البت فيه خلال تلك المدة.",
+      "text_for_index": "يشكل الوزير لجنة للبت في طلبات الحصول على الرخص، تؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي من الوزارة لا تقل مرتبة كل منهما عن المرتبة (العاشرة)، وتبت اللجنة في الطلب خلال (ثلاثين) يوماً من تاريخ تقديمه، على أن يكون القرار مسبباً في حالة رفض الطلب. ويجوز لصاحب الطلب التظلم أمام المحكمة المختصة من قرار رفضه أو عدم البت فيه خلال تلك المدة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يشكل الوزير لجنة للبت في طلبات الحصول على الرخص، تؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي من الوزارة لا تقل مرتبة كل منهما عن المرتبة (العاشرة)، وتبت اللجنة في الطلب خلال (ثلاثين) يوماً من تاريخ تقديمه، على أن يكون القرار مسبباً في حالة رفض الطلب. ويجوز لصاحب الطلب التظلم أمام المحكمة المختصة من قرار رفضه أو عدم البت فيه خلال تلك المدة.",
+          "text_for_index": "يشكل الوزير لجنة للبت في طلبات الحصول على الرخص، تؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي من الوزارة لا تقل مرتبة كل منهما عن المرتبة (العاشرة)، وتبت اللجنة في الطلب خلال (ثلاثين) يوماً من تاريخ تقديمه، على أن يكون القرار مسبباً في حالة رفض الطلب. ويجوز لصاحب الطلب التظلم أمام المحكمة المختصة من قرار رفضه أو عدم البت فيه خلال تلك المدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثانية والعشرون",
+      "text_verbatim": "تكون مدة الرخصة خمس سنوات قابلة للتجديد، وتحدد اللائحة الإجراءات والضوابط الواجب اتخاذها عند إصدار الرخصة، أو تجديدها، أو إعادة إصدارها.",
+      "text_for_index": "تكون مدة الرخصة خمس سنوات قابلة للتجديد، وتحدد اللائحة الإجراءات والضوابط الواجب اتخاذها عند إصدار الرخصة، أو تجديدها، أو إعادة إصدارها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تكون مدة الرخصة خمس سنوات قابلة للتجديد، وتحدد اللائحة الإجراءات والضوابط الواجب اتخاذها عند إصدار الرخصة، أو تجديدها، أو إعادة إصدارها.",
+          "text_for_index": "تكون مدة الرخصة خمس سنوات قابلة للتجديد، وتحدد اللائحة الإجراءات والضوابط الواجب اتخاذها عند إصدار الرخصة، أو تجديدها، أو إعادة إصدارها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثالثة والعشرون",
+      "text_verbatim": "تقيد الرخص في الجدول لدى الإدارة المختصة، وتبين اللائحة كيفية القيد، وما يدرج فيه من بيانات.",
+      "text_for_index": "تقيد الرخص في الجدول لدى الإدارة المختصة، وتبين اللائحة كيفية القيد، وما يدرج فيه من بيانات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقيد الرخص في الجدول لدى الإدارة المختصة، وتبين اللائحة كيفية القيد، وما يدرج فيه من بيانات.",
+          "text_for_index": "تقيد الرخص في الجدول لدى الإدارة المختصة، وتبين اللائحة كيفية القيد، وما يدرج فيه من بيانات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الرابعة والعشرون",
+      "text_verbatim": "للمرخص له الإعلان عن مهنته وفق ضوابط تعدها الإدارة المختصة، وتصدر بقرار من الوزير.",
+      "text_for_index": "للمرخص له الإعلان عن مهنته وفق ضوابط تعدها الإدارة المختصة، وتصدر بقرار من الوزير.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للمرخص له الإعلان عن مهنته وفق ضوابط تعدها الإدارة المختصة، وتصدر بقرار من الوزير.",
+          "text_for_index": "للمرخص له الإعلان عن مهنته وفق ضوابط تعدها الإدارة المختصة، وتصدر بقرار من الوزير.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخامسة والعشرون",
+      "text_verbatim": "يستحصل على إصدار الرخصة للموثق رسم قدره ألفا ريال، وألف ريال عند التجديد.",
+      "text_for_index": "يستحصل على إصدار الرخصة للموثق رسم قدره ألفا ريال، وألف ريال عند التجديد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يستحصل على إصدار الرخصة للموثق رسم قدره ألفا ريال، وألف ريال عند التجديد.",
+          "text_for_index": "يستحصل على إصدار الرخصة للموثق رسم قدره ألفا ريال، وألف ريال عند التجديد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السادسة والعشرون",
+      "text_verbatim": "يحظر ممارسة أعمال التوثيق إلا بعد الحصول على الرخصة وفقاً لأحكام النظام واللائحة.",
+      "text_for_index": "يحظر ممارسة أعمال التوثيق إلا بعد الحصول على الرخصة وفقاً لأحكام النظام واللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "يحظر ممارسة أعمال التوثيق إلا بعد الحصول على الرخصة وفقاً لأحكام النظام واللائحة.",
+          "text_for_index": "يحظر ممارسة أعمال التوثيق إلا بعد الحصول على الرخصة وفقاً لأحكام النظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السابعة والعشرون",
+      "text_verbatim": "على كاتب العدل والمرخص له كتابة إقرارات ذوي الشأن بعد التحقق من أهليتهم وصفاتهم وهوياتهم، والتثبت من المستندات المقدمة منهم، وأنها صالحة للاعتماد عليها، وتبين اللائحة الإجراءات والمستندات اللازمة لذلك.",
+      "text_for_index": "على كاتب العدل والمرخص له كتابة إقرارات ذوي الشأن بعد التحقق من أهليتهم وصفاتهم وهوياتهم، والتثبت من المستندات المقدمة منهم، وأنها صالحة للاعتماد عليها، وتبين اللائحة الإجراءات والمستندات اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "على كاتب العدل والمرخص له كتابة إقرارات ذوي الشأن بعد التحقق من أهليتهم وصفاتهم وهوياتهم، والتثبت من المستندات المقدمة منهم، وأنها صالحة للاعتماد عليها، وتبين اللائحة الإجراءات والمستندات اللازمة لذلك.",
+          "text_for_index": "على كاتب العدل والمرخص له كتابة إقرارات ذوي الشأن بعد التحقق من أهليتهم وصفاتهم وهوياتهم، والتثبت من المستندات المقدمة منهم، وأنها صالحة للاعتماد عليها، وتبين اللائحة الإجراءات والمستندات اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثامنة والعشرون",
+      "text_verbatim": "على كاتب العدل والمرخص له الاستعانة بمترجم معتمد لمن لا يحسن العربية، ويوقع المترجم على ما قام به من ترجمة، ولا تجوز الاستعانة بمترجم له مصلحة فيما يوثق.",
+      "text_for_index": "على كاتب العدل والمرخص له الاستعانة بمترجم معتمد لمن لا يحسن العربية، ويوقع المترجم على ما قام به من ترجمة، ولا تجوز الاستعانة بمترجم له مصلحة فيما يوثق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على كاتب العدل والمرخص له الاستعانة بمترجم معتمد لمن لا يحسن العربية، ويوقع المترجم على ما قام به من ترجمة، ولا تجوز الاستعانة بمترجم له مصلحة فيما يوثق.",
+          "text_for_index": "على كاتب العدل والمرخص له الاستعانة بمترجم معتمد لمن لا يحسن العربية، ويوقع المترجم على ما قام به من ترجمة، ولا تجوز الاستعانة بمترجم له مصلحة فيما يوثق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة التاسعة والعشرون",
+      "text_verbatim": "لا يجوز لكاتب العدل أو المرخص له توثيق ما يتعلق بمصلحته، أو مصلحة زوجه أو أصوله، أو فروعه أو من تحت ولايته ولو بصفة النيابة.",
+      "text_for_index": "لا يجوز لكاتب العدل أو المرخص له توثيق ما يتعلق بمصلحته، أو مصلحة زوجه أو أصوله، أو فروعه أو من تحت ولايته ولو بصفة النيابة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز لكاتب العدل أو المرخص له توثيق ما يتعلق بمصلحته، أو مصلحة زوجه أو أصوله، أو فروعه أو من تحت ولايته ولو بصفة النيابة.",
+          "text_for_index": "لا يجوز لكاتب العدل أو المرخص له توثيق ما يتعلق بمصلحته، أو مصلحة زوجه أو أصوله، أو فروعه أو من تحت ولايته ولو بصفة النيابة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثلاثون",
+      "text_verbatim": "على كاتب العدل تلقي طلبات التوثيق، واتخاذ ما يلزم في شأنها، وفقاً لأحكام النظام ولائحته، ولمن رُفض طلبه حق التظلم لدى الإدارة المختصة.",
+      "text_for_index": "على كاتب العدل تلقي طلبات التوثيق، واتخاذ ما يلزم في شأنها، وفقاً لأحكام النظام ولائحته، ولمن رُفض طلبه حق التظلم لدى الإدارة المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "على كاتب العدل تلقي طلبات التوثيق، واتخاذ ما يلزم في شأنها، وفقاً لأحكام النظام ولائحته، ولمن رُفض طلبه حق التظلم لدى الإدارة المختصة.",
+          "text_for_index": "على كاتب العدل تلقي طلبات التوثيق، واتخاذ ما يلزم في شأنها، وفقاً لأحكام النظام ولائحته، ولمن رُفض طلبه حق التظلم لدى الإدارة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception",
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء",
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الحادية والثلاثون",
+      "text_verbatim": "يقوم كاتب العدل بأعمال التوثيق في كتابة العدل، ولا ينتقل خارجها إلا وفق ضوابط تحددها الإدارة المختصة، أما الموثق فله أن ينتقل إذا طلب ذوو الشأن ذلك. وفي غير ما ذكر لا يجوز -بأي حال- إخراج وعاء التوثيق أو أي مستند رسمي محفوظ خارج كتابة العدل أو مكتب التوثيق.",
+      "text_for_index": "يقوم كاتب العدل بأعمال التوثيق في كتابة العدل، ولا ينتقل خارجها إلا وفق ضوابط تحددها الإدارة المختصة، أما الموثق فله أن ينتقل إذا طلب ذوو الشأن ذلك. وفي غير ما ذكر لا يجوز -بأي حال- إخراج وعاء التوثيق أو أي مستند رسمي محفوظ خارج كتابة العدل أو مكتب التوثيق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception",
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء",
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يقوم كاتب العدل بأعمال التوثيق في كتابة العدل، ولا ينتقل خارجها إلا وفق ضوابط تحددها الإدارة المختصة، أما الموثق فله أن ينتقل إذا طلب ذوو الشأن ذلك. وفي غير ما ذكر لا يجوز -بأي حال- إخراج وعاء التوثيق أو أي مستند رسمي محفوظ خارج كتابة العدل أو مكتب التوثيق.",
+          "text_for_index": "يقوم كاتب العدل بأعمال التوثيق في كتابة العدل، ولا ينتقل خارجها إلا وفق ضوابط تحددها الإدارة المختصة، أما الموثق فله أن ينتقل إذا طلب ذوو الشأن ذلك. وفي غير ما ذكر لا يجوز -بأي حال- إخراج وعاء التوثيق أو أي مستند رسمي محفوظ خارج كتابة العدل أو مكتب التوثيق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثانية والثلاثون",
+      "text_verbatim": "يُحظر على كاتب العدل والمرخص له إفشاء أسرار المعاملات وأي معلومة اطلعا عليها، أو تحصلا عليها بسبب عملهما.",
+      "text_for_index": "يُحظر على كاتب العدل والمرخص له إفشاء أسرار المعاملات وأي معلومة اطلعا عليها، أو تحصلا عليها بسبب عملهما.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُحظر على كاتب العدل والمرخص له إفشاء أسرار المعاملات وأي معلومة اطلعا عليها، أو تحصلا عليها بسبب عملهما.",
+          "text_for_index": "يُحظر على كاتب العدل والمرخص له إفشاء أسرار المعاملات وأي معلومة اطلعا عليها، أو تحصلا عليها بسبب عملهما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة الثالثة والثلاثون",
+      "text_verbatim": "يجب على المأذون -قبل إجراء عقد النكاح- التحقق من توافر الأركان والشروط وانتفاء الموانع في الزوجين وحضور الولي المقرر شرعاً.",
+      "text_for_index": "يجب على المأذون -قبل إجراء عقد النكاح- التحقق من توافر الأركان والشروط وانتفاء الموانع في الزوجين وحضور الولي المقرر شرعاً.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على المأذون -قبل إجراء عقد النكاح- التحقق من توافر الأركان والشروط وانتفاء الموانع في الزوجين وحضور الولي المقرر شرعاً.",
+          "text_for_index": "يجب على المأذون -قبل إجراء عقد النكاح- التحقق من توافر الأركان والشروط وانتفاء الموانع في الزوجين وحضور الولي المقرر شرعاً.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الرابعة والثلاثون",
+      "text_verbatim": "تبين اللائحة إجراءات التوثيق لدى كتابة العدل، ولدى المرخص له.",
+      "text_for_index": "تبين اللائحة إجراءات التوثيق لدى كتابة العدل، ولدى المرخص له.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تبين اللائحة إجراءات التوثيق لدى كتابة العدل، ولدى المرخص له.",
+          "text_for_index": "تبين اللائحة إجراءات التوثيق لدى كتابة العدل، ولدى المرخص له.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخامسة والثلاثون",
+      "text_verbatim": "يجوز تدوين بيانات التوثيق إلكترونيًّا، ويكون لها حكم المحررات المكتوبة، وفقًا لأحكام نظام التعاملات الإلكترونية.",
+      "text_for_index": "يجوز تدوين بيانات التوثيق إلكترونيًّا، ويكون لها حكم المحررات المكتوبة، وفقًا لأحكام نظام التعاملات الإلكترونية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز تدوين بيانات التوثيق إلكترونيًّا، ويكون لها حكم المحررات المكتوبة، وفقًا لأحكام نظام التعاملات الإلكترونية.",
+          "text_for_index": "يجوز تدوين بيانات التوثيق إلكترونيًّا، ويكون لها حكم المحررات المكتوبة، وفقًا لأحكام نظام التعاملات الإلكترونية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة السادسة والثلاثون",
+      "text_verbatim": "توثق العقود والإقرارات باللغة العربية.",
+      "text_for_index": "توثق العقود والإقرارات باللغة العربية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "توثق العقود والإقرارات باللغة العربية.",
+          "text_for_index": "توثق العقود والإقرارات باللغة العربية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة السابعة والثلاثون",
+      "text_verbatim": "على كاتب العدل والمرخص له اعتماد الوثائق الصادرة من خارج المملكة بعد التحقق من عدم مخالفتها للمقتضى الشرعي أو النظامي وتصديق الوزارة عليها، ويسري ذلك على أصل ترجمتها إلى اللغة العربية.",
+      "text_for_index": "على كاتب العدل والمرخص له اعتماد الوثائق الصادرة من خارج المملكة بعد التحقق من عدم مخالفتها للمقتضى الشرعي أو النظامي وتصديق الوزارة عليها، ويسري ذلك على أصل ترجمتها إلى اللغة العربية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على كاتب العدل والمرخص له اعتماد الوثائق الصادرة من خارج المملكة بعد التحقق من عدم مخالفتها للمقتضى الشرعي أو النظامي وتصديق الوزارة عليها، ويسري ذلك على أصل ترجمتها إلى اللغة العربية.",
+          "text_for_index": "على كاتب العدل والمرخص له اعتماد الوثائق الصادرة من خارج المملكة بعد التحقق من عدم مخالفتها للمقتضى الشرعي أو النظامي وتصديق الوزارة عليها، ويسري ذلك على أصل ترجمتها إلى اللغة العربية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "remedy",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "علاج أو تعويض",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثامنة والثلاثون",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب  المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\" تكون مدة صك الوكالة خمس سنوات من تاريخ صدوره ما لم تُفسخ أو يُتوفى أحد طرفيها أو تُفقد أهليته قبل مضي هذه المدة أو يحدد الموكل مدتها بما يقل عن تلك المدة\".",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\" تكون مدة صك الوكالة خمس سنوات من تاريخ صدوره ما لم تُفسخ أو يُتوفى أحد طرفيها أو تُفقد أهليته قبل مضي هذه المدة أو يحدد الموكل مدتها بما يقل عن تلك المدة\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب  المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-38::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception",
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "\" تكون مدة صك الوكالة خمس سنوات من تاريخ صدوره ما لم تُفسخ أو يُتوفى أحد طرفيها أو تُفقد أهليته قبل مضي هذه المدة أو يحدد الموكل مدتها بما يقل عن تلك المدة\".",
+          "text_for_index": "\" تكون مدة صك الوكالة خمس سنوات من تاريخ صدوره ما لم تُفسخ أو يُتوفى أحد طرفيها أو تُفقد أهليته قبل مضي هذه المدة أو يحدد الموكل مدتها بما يقل عن تلك المدة\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة التاسعة والثلاثون",
+      "text_verbatim": "تُحفظ أوعية التوثيق في كتابة العدل ولدى المرخص لهم، وتحدد اللائحة ضوابط ذلك، وإجراءات تسليم أوعية التوثيق، ونسخ العقود الموثقة، والإدارات المختصة بتسلمها.",
+      "text_for_index": "تُحفظ أوعية التوثيق في كتابة العدل ولدى المرخص لهم، وتحدد اللائحة ضوابط ذلك، وإجراءات تسليم أوعية التوثيق، ونسخ العقود الموثقة، والإدارات المختصة بتسلمها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تُحفظ أوعية التوثيق في كتابة العدل ولدى المرخص لهم، وتحدد اللائحة ضوابط ذلك، وإجراءات تسليم أوعية التوثيق، ونسخ العقود الموثقة، والإدارات المختصة بتسلمها.",
+          "text_for_index": "تُحفظ أوعية التوثيق في كتابة العدل ولدى المرخص لهم، وتحدد اللائحة ضوابط ذلك، وإجراءات تسليم أوعية التوثيق، ونسخ العقود الموثقة، والإدارات المختصة بتسلمها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون",
+      "article_heading": "الأربعون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الأربعون",
+      "text_verbatim": "- عُدلت الفقرة (2) من هذه المادة وذلك بموجب  المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\"يراعى عند إعداد نماذج العقود حق المتعاقدين في إضافة أي شرط أو اتفاق، ما لم يخالف النصوص النظامية\".",
+      "text_for_index": "- عُدلت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:\n\n\"يراعى عند إعداد نماذج العقود حق المتعاقدين في إضافة أي شرط أو اتفاق، ما لم يخالف النصوص النظامية\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "- عُدلت الفقرة (2) من هذه المادة وذلك بموجب  المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت الفقرة (2) من هذه المادة وذلك بموجب المرسوم الملكي رقم (م/21) وتاريخ 1447/1/26هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-40::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط"
+          ],
+          "text_verbatim": "\"يراعى عند إعداد نماذج العقود حق المتعاقدين في إضافة أي شرط أو اتفاق، ما لم يخالف النصوص النظامية\".",
+          "text_for_index": "\"يراعى عند إعداد نماذج العقود حق المتعاقدين في إضافة أي شرط أو اتفاق، ما لم يخالف النصوص النظامية\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "procedure",
+        "exception",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "عبء إثبات"
+      ],
+      "topic_tags": [
+        "evidence",
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "إثبات",
+        "عمل"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة الحادية والأربعون",
+      "text_verbatim": "الوثائق الصادرة وفق أحكام النظام لها قوة الإثبات، وتعد سنداً تنفيذيًا فيما تضمنته من التزام، ويجب العمل بمضمونها أمام المحاكم بلا بينة إضافية ولا يجوز الطعن فيها. ولا تلغى الوثائق الصادرة وفق النظام إلا بحكم قضائي تأسيساً على مخالفتها لمقتضى الأصول الشرعية أو النظامية، أو تزويرها، وذلك بعد مرافعة مستكملة إجراءاتها الشرعية والنظامية.",
+      "text_for_index": "الوثائق الصادرة وفق أحكام النظام لها قوة الإثبات، وتعد سنداً تنفيذيًا فيما تضمنته من التزام، ويجب العمل بمضمونها أمام المحاكم بلا بينة إضافية ولا يجوز الطعن فيها. ولا تلغى الوثائق الصادرة وفق النظام إلا بحكم قضائي تأسيساً على مخالفتها لمقتضى الأصول الشرعية أو النظامية، أو تزويرها، وذلك بعد مرافعة مستكملة إجراءاتها الشرعية والنظامية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "procedure",
+            "exception",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "إجراء",
+            "استثناء",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "الوثائق الصادرة وفق أحكام النظام لها قوة الإثبات، وتعد سنداً تنفيذيًا فيما تضمنته من التزام، ويجب العمل بمضمونها أمام المحاكم بلا بينة إضافية ولا يجوز الطعن فيها. ولا تلغى الوثائق الصادرة وفق النظام إلا بحكم قضائي تأسيساً على مخالفتها لمقتضى الأصول الشرعية أو النظامية، أو تزويرها، وذلك بعد مرافعة مستكملة إجراءاتها الشرعية والنظامية.",
+          "text_for_index": "الوثائق الصادرة وفق أحكام النظام لها قوة الإثبات، وتعد سنداً تنفيذيًا فيما تضمنته من التزام، ويجب العمل بمضمونها أمام المحاكم بلا بينة إضافية ولا يجوز الطعن فيها. ولا تلغى الوثائق الصادرة وفق النظام إلا بحكم قضائي تأسيساً على مخالفتها لمقتضى الأصول الشرعية أو النظامية، أو تزويرها، وذلك بعد مرافعة مستكملة إجراءاتها الشرعية والنظامية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثانية والأربعون",
+      "text_verbatim": "يجوز لمن له مصلحة ولو محتملة من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية -العامة والخاصة- أن يخاصم من بيده وثيقة صادرة وفق أحكام النظام أو من يستفيد منها أمام المحكمة المختصة. ويكون ذلك وفق أحكام نظام المرافعات الشرعية، وأحكام نظام الإجراءات الجزائية، والأنظمة ذات الصلة.",
+      "text_for_index": "يجوز لمن له مصلحة ولو محتملة من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية -العامة والخاصة- أن يخاصم من بيده وثيقة صادرة وفق أحكام النظام أو من يستفيد منها أمام المحكمة المختصة. ويكون ذلك وفق أحكام نظام المرافعات الشرعية، وأحكام نظام الإجراءات الجزائية، والأنظمة ذات الصلة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز لمن له مصلحة ولو محتملة من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية -العامة والخاصة- أن يخاصم من بيده وثيقة صادرة وفق أحكام النظام أو من يستفيد منها أمام المحكمة المختصة. ويكون ذلك وفق أحكام نظام المرافعات الشرعية، وأحكام نظام الإجراءات الجزائية، والأنظمة ذات الصلة.",
+          "text_for_index": "يجوز لمن له مصلحة ولو محتملة من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية -العامة والخاصة- أن يخاصم من بيده وثيقة صادرة وفق أحكام النظام أو من يستفيد منها أمام المحكمة المختصة. ويكون ذلك وفق أحكام نظام المرافعات الشرعية، وأحكام نظام الإجراءات الجزائية، والأنظمة ذات الصلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثالثة والأربعون",
+      "text_verbatim": "لا يؤشر على وعاء التوثيق بالإيقاف أو التحفظ عليه أو رفعهما إلا بأمر من المحكمة المختصة، أو سلطة مختصة بذلك بموجب نص نظامي.",
+      "text_for_index": "لا يؤشر على وعاء التوثيق بالإيقاف أو التحفظ عليه أو رفعهما إلا بأمر من المحكمة المختصة، أو سلطة مختصة بذلك بموجب نص نظامي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لا يؤشر على وعاء التوثيق بالإيقاف أو التحفظ عليه أو رفعهما إلا بأمر من المحكمة المختصة، أو سلطة مختصة بذلك بموجب نص نظامي.",
+          "text_for_index": "لا يؤشر على وعاء التوثيق بالإيقاف أو التحفظ عليه أو رفعهما إلا بأمر من المحكمة المختصة، أو سلطة مختصة بذلك بموجب نص نظامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الرابعة والأربعون",
+      "text_verbatim": "إذا فقد ضبط صك صادر من كاتب عدل قبل صدور النظام، أو فقد وعاء توثيق، أو تلف أي منهما تلفاً لا يعرف معه مضمونه، فيعاد ضبطه بعد أخذ تصديق ذوي الشأن، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+      "text_for_index": "إذا فقد ضبط صك صادر من كاتب عدل قبل صدور النظام، أو فقد وعاء توثيق، أو تلف أي منهما تلفاً لا يعرف معه مضمونه، فيعاد ضبطه بعد أخذ تصديق ذوي الشأن، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "إذا فقد ضبط صك صادر من كاتب عدل قبل صدور النظام، أو فقد وعاء توثيق، أو تلف أي منهما تلفاً لا يعرف معه مضمونه، فيعاد ضبطه بعد أخذ تصديق ذوي الشأن، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+          "text_for_index": "إذا فقد ضبط صك صادر من كاتب عدل قبل صدور النظام، أو فقد وعاء توثيق، أو تلف أي منهما تلفاً لا يعرف معه مضمونه، فيعاد ضبطه بعد أخذ تصديق ذوي الشأن، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخامسة والأربعون",
+      "text_verbatim": "إذا فقد سجل صك صادر من كاتب عدل قبل صدور النظام، أو تلف تلفاً لا يعرف معه مضمونه، فيعاد تسجيله، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+      "text_for_index": "إذا فقد سجل صك صادر من كاتب عدل قبل صدور النظام، أو تلف تلفاً لا يعرف معه مضمونه، فيعاد تسجيله، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "إذا فقد سجل صك صادر من كاتب عدل قبل صدور النظام، أو تلف تلفاً لا يعرف معه مضمونه، فيعاد تسجيله، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+          "text_for_index": "إذا فقد سجل صك صادر من كاتب عدل قبل صدور النظام، أو تلف تلفاً لا يعرف معه مضمونه، فيعاد تسجيله، متى طابق الصك أساسه المستند إليه، وإلا فيعرض على الإدارة المختصة لتقرير ما يلزم في شأنه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السادسة والأربعون",
+      "text_verbatim": "• تتولى الإدارة المختصة التفتيش والرقابة على كاتب العدل والتحقيق معه في الأعمال ذات العلاقة بالتوثيق، وذلك وفقًا للإجراءات المنظمة لذلك التي تحددها اللائحة.\n\n\t• تتولى الإدارة المختصة التفتيش والرقابة على المرخص له والتحقيق معه، وذلك وفقاً للإجراءات المنظمة لذلك التي تحددها اللائحة.\n\n\t• لا يخل ما ورد في الفقرة (1) والفقرة (2) من هذه المادة باختصاص إدارة التفتيش القضائي في المجلس الأعلى للقضاء في التحقيق مع كاتب العدل أو المرخص له، والتحقق من أعمالهم الواردة في السجلات والضبوط، والصكوك الصادرة بناءً عليها، ومدى موافقتها للأصول الشرعية أو النظامية؛ متى ارتبط ذلك بمعاملة لديها، وفي جميع الأحوال يجب إحالة نتيجة التحقيق فيما يخص مساءلتهم إلى الإدارة المختصة.",
+      "text_for_index": "• تتولى الإدارة المختصة التفتيش والرقابة على كاتب العدل والتحقيق معه في الأعمال ذات العلاقة بالتوثيق، وذلك وفقًا للإجراءات المنظمة لذلك التي تحددها اللائحة.\n\n • تتولى الإدارة المختصة التفتيش والرقابة على المرخص له والتحقيق معه، وذلك وفقاً للإجراءات المنظمة لذلك التي تحددها اللائحة.\n\n • لا يخل ما ورد في الفقرة (1) والفقرة (2) من هذه المادة باختصاص إدارة التفتيش القضائي في المجلس الأعلى للقضاء في التحقيق مع كاتب العدل أو المرخص له، والتحقق من أعمالهم الواردة في السجلات والضبوط، والصكوك الصادرة بناءً عليها، ومدى موافقتها للأصول الشرعية أو النظامية؛ متى ارتبط ذلك بمعاملة لديها، وفي جميع الأحوال يجب إحالة نتيجة التحقيق فيما يخص مساءلتهم إلى الإدارة المختصة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• تتولى الإدارة المختصة التفتيش والرقابة على كاتب العدل والتحقيق معه في الأعمال ذات العلاقة بالتوثيق، وذلك وفقًا للإجراءات المنظمة لذلك التي تحددها اللائحة.",
+          "text_for_index": "• تتولى الإدارة المختصة التفتيش والرقابة على كاتب العدل والتحقيق معه في الأعمال ذات العلاقة بالتوثيق، وذلك وفقًا للإجراءات المنظمة لذلك التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-46::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• تتولى الإدارة المختصة التفتيش والرقابة على المرخص له والتحقيق معه، وذلك وفقاً للإجراءات المنظمة لذلك التي تحددها اللائحة.",
+          "text_for_index": "• تتولى الإدارة المختصة التفتيش والرقابة على المرخص له والتحقيق معه، وذلك وفقاً للإجراءات المنظمة لذلك التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-46::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• لا يخل ما ورد في الفقرة (1) والفقرة (2) من هذه المادة باختصاص إدارة التفتيش القضائي في المجلس الأعلى للقضاء في التحقيق مع كاتب العدل أو المرخص له، والتحقق من أعمالهم الواردة في السجلات والضبوط، والصكوك الصادرة بناءً عليها، ومدى موافقتها للأصول الشرعية أو النظامية؛ متى ارتبط ذلك بمعاملة لديها، وفي جميع الأحوال يجب إحالة نتيجة التحقيق فيما يخص مساءلتهم إلى الإدارة المختصة.",
+          "text_for_index": "• لا يخل ما ورد في الفقرة (1) والفقرة (2) من هذه المادة باختصاص إدارة التفتيش القضائي في المجلس الأعلى للقضاء في التحقيق مع كاتب العدل أو المرخص له، والتحقق من أعمالهم الواردة في السجلات والضبوط، والصكوك الصادرة بناءً عليها، ومدى موافقتها للأصول الشرعية أو النظامية؛ متى ارتبط ذلك بمعاملة لديها، وفي جميع الأحوال يجب إحالة نتيجة التحقيق فيما يخص مساءلتهم إلى الإدارة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة السابعة والأربعون",
+      "text_verbatim": "يصدر الوزير قراراً بإيقاف المرخص له عن العمل مدة لا تزيد على تسعين يوماً أثناء التحقيق معه بناءً على توصية من الإدارة المختصة، وينتهي قرار الإيقاف بانتهاء مدته أو بانتهاء التحقيق بعدم الإدانة أيهما أسبق.",
+      "text_for_index": "يصدر الوزير قراراً بإيقاف المرخص له عن العمل مدة لا تزيد على تسعين يوماً أثناء التحقيق معه بناءً على توصية من الإدارة المختصة، وينتهي قرار الإيقاف بانتهاء مدته أو بانتهاء التحقيق بعدم الإدانة أيهما أسبق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير قراراً بإيقاف المرخص له عن العمل مدة لا تزيد على تسعين يوماً أثناء التحقيق معه بناءً على توصية من الإدارة المختصة، وينتهي قرار الإيقاف بانتهاء مدته أو بانتهاء التحقيق بعدم الإدانة أيهما أسبق.",
+          "text_for_index": "يصدر الوزير قراراً بإيقاف المرخص له عن العمل مدة لا تزيد على تسعين يوماً أثناء التحقيق معه بناءً على توصية من الإدارة المختصة، وينتهي قرار الإيقاف بانتهاء مدته أو بانتهاء التحقيق بعدم الإدانة أيهما أسبق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 48,
+      "article_label": "الثامنة والأربعون",
+      "article_label_raw": "الثامنة والأربعون",
+      "article_heading": "الثامنة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثامنة والأربعون",
+      "text_verbatim": "يشكل الوزير لجنة -أو أكثر- للنظر في نتائج التحقيق في مخالفات كاتب العدل -ذات العلاقة بالتوثيق- والمرخص له، وتوقيع العقوبات المنصوص عليها في المادتين (التاسعة والأربعين) و(الخمسين) من النظام، وتؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي، ويسمي الوزير من يحل محل أي من أعضائها عند غيابه. وتكون مدة عضوية هذه اللجنة أربع سنوات قابلة للتجديد، وتنعقد بحضور جميع أعضائها، وتصدر قراراتها بالأغلبية بعد سماع أقوال كاتب العدل أو المرخص له. وتكون قراراتها مسببة قابلة للطعن فيها وفقاً لأحكام نظام المرافعات أمام ديوان المظالم.",
+      "text_for_index": "يشكل الوزير لجنة -أو أكثر- للنظر في نتائج التحقيق في مخالفات كاتب العدل -ذات العلاقة بالتوثيق- والمرخص له، وتوقيع العقوبات المنصوص عليها في المادتين (التاسعة والأربعين) و(الخمسين) من النظام، وتؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي، ويسمي الوزير من يحل محل أي من أعضائها عند غيابه. وتكون مدة عضوية هذه اللجنة أربع سنوات قابلة للتجديد، وتنعقد بحضور جميع أعضائها، وتصدر قراراتها بالأغلبية بعد سماع أقوال كاتب العدل أو المرخص له. وتكون قراراتها مسببة قابلة للطعن فيها وفقاً لأحكام نظام المرافعات أمام ديوان المظالم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-48::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يشكل الوزير لجنة -أو أكثر- للنظر في نتائج التحقيق في مخالفات كاتب العدل -ذات العلاقة بالتوثيق- والمرخص له، وتوقيع العقوبات المنصوص عليها في المادتين (التاسعة والأربعين) و(الخمسين) من النظام، وتؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي، ويسمي الوزير من يحل محل أي من أعضائها عند غيابه. وتكون مدة عضوية هذه اللجنة أربع سنوات قابلة للتجديد، وتنعقد بحضور جميع أعضائها، وتصدر قراراتها بالأغلبية بعد سماع أقوال كاتب العدل أو المرخص له. وتكون قراراتها مسببة قابلة للطعن فيها وفقاً لأحكام نظام المرافعات أمام ديوان المظالم.",
+          "text_for_index": "يشكل الوزير لجنة -أو أكثر- للنظر في نتائج التحقيق في مخالفات كاتب العدل -ذات العلاقة بالتوثيق- والمرخص له، وتوقيع العقوبات المنصوص عليها في المادتين (التاسعة والأربعين) و(الخمسين) من النظام، وتؤلف برئاسة وكيل من الوزارة، وعضوية مستشار شرعي ومستشار نظامي، ويسمي الوزير من يحل محل أي من أعضائها عند غيابه. وتكون مدة عضوية هذه اللجنة أربع سنوات قابلة للتجديد، وتنعقد بحضور جميع أعضائها، وتصدر قراراتها بالأغلبية بعد سماع أقوال كاتب العدل أو المرخص له. وتكون قراراتها مسببة قابلة للطعن فيها وفقاً لأحكام نظام المرافعات أمام ديوان المظالم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 49,
+      "article_label": "التاسعة والأربعون",
+      "article_label_raw": "التاسعة والأربعون",
+      "article_heading": "التاسعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة التاسعة والأربعون",
+      "text_verbatim": "العقوبات التأديبية التي يجوز توقيعها على كاتب العدل هي:\n\n\t• اللوم.\n\n\t• الحسم من الراتب بما لا يتجاوز صافي راتب ثلاثة أشهر.\n\n\t• الحرمان من علاوة دورية واحدة.\n\n\t• الفصل.",
+      "text_for_index": "العقوبات التأديبية التي يجوز توقيعها على كاتب العدل هي:\n\n • اللوم.\n\n • الحسم من الراتب بما لا يتجاوز صافي راتب ثلاثة أشهر.\n\n • الحرمان من علاوة دورية واحدة.\n\n • الفصل.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-49::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "العقوبات التأديبية التي يجوز توقيعها على كاتب العدل هي:",
+          "text_for_index": "العقوبات التأديبية التي يجوز توقيعها على كاتب العدل هي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-49::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• اللوم.",
+          "text_for_index": "• اللوم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-49::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• الحسم من الراتب بما لا يتجاوز صافي راتب ثلاثة أشهر.",
+          "text_for_index": "• الحسم من الراتب بما لا يتجاوز صافي راتب ثلاثة أشهر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-49::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• الحرمان من علاوة دورية واحدة.",
+          "text_for_index": "• الحرمان من علاوة دورية واحدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-49::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• الفصل.",
+          "text_for_index": "• الفصل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 50,
+      "article_label": "الخمسون",
+      "article_label_raw": "الخمسون",
+      "article_heading": "الخمسون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخمسون",
+      "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، يعاقب المرخص له بعقوبة أو أكثر من العقوبات الآتية:\n\n\t• الإنذار.\n\n\t• غرامة لا تزيد على خمسمائة ألف ريال.\n\n\t• إيقاف الرخصة مدة لا تتجاوز ثلاث سنوات.\n\n\t• إلغاء الرخصة.",
+      "text_for_index": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، يعاقب المرخص له بعقوبة أو أكثر من العقوبات الآتية:\n\n • الإنذار.\n\n • غرامة لا تزيد على خمسمائة ألف ريال.\n\n • إيقاف الرخصة مدة لا تتجاوز ثلاث سنوات.\n\n • إلغاء الرخصة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-50::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، يعاقب المرخص له بعقوبة أو أكثر من العقوبات الآتية:",
+          "text_for_index": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، يعاقب المرخص له بعقوبة أو أكثر من العقوبات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-50::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• الإنذار.",
+          "text_for_index": "• الإنذار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-50::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• غرامة لا تزيد على خمسمائة ألف ريال.",
+          "text_for_index": "• غرامة لا تزيد على خمسمائة ألف ريال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-50::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• إيقاف الرخصة مدة لا تتجاوز ثلاث سنوات.",
+          "text_for_index": "• إيقاف الرخصة مدة لا تتجاوز ثلاث سنوات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-50::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إلغاء الرخصة.",
+          "text_for_index": "• إلغاء الرخصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 51,
+      "article_label": "الحادية والخمسون",
+      "article_label_raw": "الحادية والخمسون",
+      "article_heading": "الحادية والخمسون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة الحادية والخمسون",
+      "text_verbatim": "يؤشر في الجدول بالقرار النهائي الصادر بالعقوبة، ولمن ألغيت رخصته بعد مضي خمس سنوات من تاريخ صدور القرار طلب إعادة قيد اسمه في الجدول، والترخيص له، وتحدد اللائحة الإجراءات الواجب اتخاذها لإعادة القيد.",
+      "text_for_index": "يؤشر في الجدول بالقرار النهائي الصادر بالعقوبة، ولمن ألغيت رخصته بعد مضي خمس سنوات من تاريخ صدور القرار طلب إعادة قيد اسمه في الجدول، والترخيص له، وتحدد اللائحة الإجراءات الواجب اتخاذها لإعادة القيد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-51::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "يؤشر في الجدول بالقرار النهائي الصادر بالعقوبة، ولمن ألغيت رخصته بعد مضي خمس سنوات من تاريخ صدور القرار طلب إعادة قيد اسمه في الجدول، والترخيص له، وتحدد اللائحة الإجراءات الواجب اتخاذها لإعادة القيد.",
+          "text_for_index": "يؤشر في الجدول بالقرار النهائي الصادر بالعقوبة، ولمن ألغيت رخصته بعد مضي خمس سنوات من تاريخ صدور القرار طلب إعادة قيد اسمه في الجدول، والترخيص له، وتحدد اللائحة الإجراءات الواجب اتخاذها لإعادة القيد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 52,
+      "article_label": "الثانية والخمسون",
+      "article_label_raw": "الثانية والخمسون",
+      "article_heading": "الثانية والخمسون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام التوثيق، المادة الثانية والخمسون",
+      "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، تعاقب المحكمة المختصة من ينتحل اسم المرخص له أو صفته، أو يمارس عمله دون رخصة، بالسجن مدة لا تزيد على سنة، أو بغرامة لا تزيد على مائة ألف ريال، أو بهما معاً، ويجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة أو أكثر من الصحف المحلية، أو في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم القطعية.",
+      "text_for_index": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، تعاقب المحكمة المختصة من ينتحل اسم المرخص له أو صفته، أو يمارس عمله دون رخصة، بالسجن مدة لا تزيد على سنة، أو بغرامة لا تزيد على مائة ألف ريال، أو بهما معاً، ويجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة أو أكثر من الصحف المحلية، أو في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم القطعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-52::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، تعاقب المحكمة المختصة من ينتحل اسم المرخص له أو صفته، أو يمارس عمله دون رخصة، بالسجن مدة لا تزيد على سنة، أو بغرامة لا تزيد على مائة ألف ريال، أو بهما معاً، ويجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة أو أكثر من الصحف المحلية، أو في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم القطعية.",
+          "text_for_index": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، تعاقب المحكمة المختصة من ينتحل اسم المرخص له أو صفته، أو يمارس عمله دون رخصة، بالسجن مدة لا تزيد على سنة، أو بغرامة لا تزيد على مائة ألف ريال، أو بهما معاً، ويجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة أو أكثر من الصحف المحلية، أو في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم القطعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 53,
+      "article_label": "الثالثة والخمسون",
+      "article_label_raw": "الثالثة والخمسون",
+      "article_heading": "الثالثة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الثالثة والخمسون",
+      "text_verbatim": "يجوز -بقرار من الوزير- إسناد بعض أعمال التوثيق إلى القطاع الخاص.",
+      "text_for_index": "يجوز -بقرار من الوزير- إسناد بعض أعمال التوثيق إلى القطاع الخاص.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-53::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز -بقرار من الوزير- إسناد بعض أعمال التوثيق إلى القطاع الخاص.",
+          "text_for_index": "يجوز -بقرار من الوزير- إسناد بعض أعمال التوثيق إلى القطاع الخاص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 54,
+      "article_label": "الرابعة والخمسون",
+      "article_label_raw": "الرابعة والخمسون",
+      "article_heading": "الرابعة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الرابعة والخمسون",
+      "text_verbatim": "• يجوز تحصيل رسوم عن أي من أعمال التوثيق التي يقوم بها كاتب العدل، ويحدد -بقرار من مجلس الوزراء بناء على اقتراح من الوزير- مقدار هذه الرسوم، وحالات تأجيل تحصيلها، أو إيقافها، أو عدم تطبيقها.\n\n\t• تحدد اللائحة مقابلاً مالياً لا يقل عن مائة ريال ولا يزيد على خمسة آلاف ريال عن أي من أعمال التوثيق التي يقوم بها المرخص له.\n\n\t• لمجلس الوزراء تعديل الحد الأعلى للمقابل المالي المشار إليه في الفقرة (2) من هذه المادة.",
+      "text_for_index": "• يجوز تحصيل رسوم عن أي من أعمال التوثيق التي يقوم بها كاتب العدل، ويحدد -بقرار من مجلس الوزراء بناء على اقتراح من الوزير- مقدار هذه الرسوم، وحالات تأجيل تحصيلها، أو إيقافها، أو عدم تطبيقها.\n\n • تحدد اللائحة مقابلاً مالياً لا يقل عن مائة ريال ولا يزيد على خمسة آلاف ريال عن أي من أعمال التوثيق التي يقوم بها المرخص له.\n\n • لمجلس الوزراء تعديل الحد الأعلى للمقابل المالي المشار إليه في الفقرة (2) من هذه المادة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-54::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يجوز تحصيل رسوم عن أي من أعمال التوثيق التي يقوم بها كاتب العدل، ويحدد -بقرار من مجلس الوزراء بناء على اقتراح من الوزير- مقدار هذه الرسوم، وحالات تأجيل تحصيلها، أو إيقافها، أو عدم تطبيقها.",
+          "text_for_index": "• يجوز تحصيل رسوم عن أي من أعمال التوثيق التي يقوم بها كاتب العدل، ويحدد -بقرار من مجلس الوزراء بناء على اقتراح من الوزير- مقدار هذه الرسوم، وحالات تأجيل تحصيلها، أو إيقافها، أو عدم تطبيقها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-54::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• تحدد اللائحة مقابلاً مالياً لا يقل عن مائة ريال ولا يزيد على خمسة آلاف ريال عن أي من أعمال التوثيق التي يقوم بها المرخص له.",
+          "text_for_index": "• تحدد اللائحة مقابلاً مالياً لا يقل عن مائة ريال ولا يزيد على خمسة آلاف ريال عن أي من أعمال التوثيق التي يقوم بها المرخص له.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altwthyq::article-54::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• لمجلس الوزراء تعديل الحد الأعلى للمقابل المالي المشار إليه في الفقرة (2) من هذه المادة.",
+          "text_for_index": "• لمجلس الوزراء تعديل الحد الأعلى للمقابل المالي المشار إليه في الفقرة (2) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 55,
+      "article_label": "الخامسة والخمسون",
+      "article_label_raw": "الخامسة والخمسون",
+      "article_heading": "الخامسة والخمسون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة الخامسة والخمسون",
+      "text_verbatim": "فيما لم يرد فيه نص خاص في النظام، تسري أنظمة ولوائح الخدمة المدنية على كتاب العدل.",
+      "text_for_index": "فيما لم يرد فيه نص خاص في النظام، تسري أنظمة ولوائح الخدمة المدنية على كتاب العدل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-55::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "فيما لم يرد فيه نص خاص في النظام، تسري أنظمة ولوائح الخدمة المدنية على كتاب العدل.",
+          "text_for_index": "فيما لم يرد فيه نص خاص في النظام، تسري أنظمة ولوائح الخدمة المدنية على كتاب العدل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 56,
+      "article_label": "السادسة والخمسون",
+      "article_label_raw": "السادسة والخمسون",
+      "article_heading": "السادسة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السادسة والخمسون",
+      "text_verbatim": "يصدر الوزير -بعد التنسيق مع المجلس الأعلى للقضاء- اللائحة خلال مائة وثمانين يومًا من تاريخ صدور النظام.",
+      "text_for_index": "يصدر الوزير -بعد التنسيق مع المجلس الأعلى للقضاء- اللائحة خلال مائة وثمانين يومًا من تاريخ صدور النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-56::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير -بعد التنسيق مع المجلس الأعلى للقضاء- اللائحة خلال مائة وثمانين يومًا من تاريخ صدور النظام.",
+          "text_for_index": "يصدر الوزير -بعد التنسيق مع المجلس الأعلى للقضاء- اللائحة خلال مائة وثمانين يومًا من تاريخ صدور النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 57,
+      "article_label": "السابعة والخمسون",
+      "article_label_raw": "السابعة والخمسون",
+      "article_heading": "السابعة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التوثيق، المادة السابعة والخمسون",
+      "text_verbatim": "يعمل بالنظام بعد مائة وثمانين يوماً من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يعمل بالنظام بعد مائة وثمانين يوماً من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altwthyq::article-57::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بالنظام بعد مائة وثمانين يوماً من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يعمل بالنظام بعد مائة وثمانين يوماً من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

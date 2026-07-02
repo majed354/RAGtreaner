@@ -1,0 +1,1550 @@
+{
+  "metadata": {
+    "slug": "nzam-alarsad",
+    "title_ar": "نظام الأرصاد",
+    "status": "ساري",
+    "issue_date_hijri": "1442/09/24 هـ الموافق : 06/05/2021 مـ",
+    "issue_date_gregorian": "2021-05-06",
+    "publish_date_hijri": "1442/10/02 هـ الموافق : 14/05/2021 مـ",
+    "publish_date_gregorian": "2021-05-14",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alarsad.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alarsad.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1442/10/02 هـ الموافق : 14/05/2021 مـ",
+    "effective_date_gregorian": "2021-05-14",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 20,
+    "paragraph_count": 65,
+    "indexable_paragraph_count": 65,
+    "text_chars": 8275,
+    "verbatim_chars": 8275,
+    "citation_base_ar": "نظام الأرصاد",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alarsad.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alarsad.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الأولى",
+      "text_verbatim": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:\n\nالنظام: نظام الأرصاد.\n\nاللوائح: لوائح النظام.\n\nالمركز: المركز الوطني للأرصاد.\n\nالوزير: وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.\n\nالشخص: أي شخص ذي صفة طبيعية أو اعتبارية.\n\nالطقس: حالة الجو في موقع معين لمدة زمنية قصيرة.\n\nالمناخ: حالة الجو في موقع معين لمدة زمنية طويلة.\n\nالأرصاد الجوية: عملية الرصد أو المراقبة أو التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.\n\nمعلومات الأرصاد الجوية: تقارير وتحاليل وتنبؤات الأرصاد الجوية وأي بيانات أخرى تتعلق بالأحوال الجوية السائدة أو المتوقعة.\n\nخدمات الأرصاد الجوية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية.\n\nخدمات الأرصاد الجوية السيادية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية ذات العلاقة بالأمن الوطني.\n\nمحطات الرصد: كل منشأة أو معدّة أو جهاز، تُستخدم للقيام بأي من خدمات الأرصاد الجوية.\n\nالتصريح: وثيقة يُصدرها المركز للشخص قبل البدء في ممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.\n\nالترخيص: وثيقة يُصدرها المركز للشخص لممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.\n\nالمصرح له: الشخص الحاصل على التصريح.\n\nالمرخص له: الشخص الحاصل على الترخيص.",
+      "text_for_index": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:\n\nالنظام: نظام الأرصاد.\n\nاللوائح: لوائح النظام.\n\nالمركز: المركز الوطني للأرصاد.\n\nالوزير: وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.\n\nالشخص: أي شخص ذي صفة طبيعية أو اعتبارية.\n\nالطقس: حالة الجو في موقع معين لمدة زمنية قصيرة.\n\nالمناخ: حالة الجو في موقع معين لمدة زمنية طويلة.\n\nالأرصاد الجوية: عملية الرصد أو المراقبة أو التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.\n\nمعلومات الأرصاد الجوية: تقارير وتحاليل وتنبؤات الأرصاد الجوية وأي بيانات أخرى تتعلق بالأحوال الجوية السائدة أو المتوقعة.\n\nخدمات الأرصاد الجوية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية.\n\nخدمات الأرصاد الجوية السيادية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية ذات العلاقة بالأمن الوطني.\n\nمحطات الرصد: كل منشأة أو معدّة أو جهاز، تُستخدم للقيام بأي من خدمات الأرصاد الجوية.\n\nالتصريح: وثيقة يُصدرها المركز للشخص قبل البدء في ممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.\n\nالترخيص: وثيقة يُصدرها المركز للشخص لممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.\n\nالمصرح له: الشخص الحاصل على التصريح.\n\nالمرخص له: الشخص الحاصل على الترخيص.",
+      "paragraph_count": 17,
+      "indexable_paragraph_count": 17,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+          "text_for_index": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "النظام: نظام الأرصاد.",
+          "text_for_index": "النظام: نظام الأرصاد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللوائح: لوائح النظام.",
+          "text_for_index": "اللوائح: لوائح النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المركز: المركز الوطني للأرصاد.",
+          "text_for_index": "المركز: المركز الوطني للأرصاد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الوزير: وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.",
+          "text_for_index": "الوزير: وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الشخص: أي شخص ذي صفة طبيعية أو اعتبارية.",
+          "text_for_index": "الشخص: أي شخص ذي صفة طبيعية أو اعتبارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "الطقس: حالة الجو في موقع معين لمدة زمنية قصيرة.",
+          "text_for_index": "الطقس: حالة الجو في موقع معين لمدة زمنية قصيرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "المناخ: حالة الجو في موقع معين لمدة زمنية طويلة.",
+          "text_for_index": "المناخ: حالة الجو في موقع معين لمدة زمنية طويلة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "الأرصاد الجوية: عملية الرصد أو المراقبة أو التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.",
+          "text_for_index": "الأرصاد الجوية: عملية الرصد أو المراقبة أو التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "معلومات الأرصاد الجوية: تقارير وتحاليل وتنبؤات الأرصاد الجوية وأي بيانات أخرى تتعلق بالأحوال الجوية السائدة أو المتوقعة.",
+          "text_for_index": "معلومات الأرصاد الجوية: تقارير وتحاليل وتنبؤات الأرصاد الجوية وأي بيانات أخرى تتعلق بالأحوال الجوية السائدة أو المتوقعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "خدمات الأرصاد الجوية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية.",
+          "text_for_index": "خدمات الأرصاد الجوية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "خدمات الأرصاد الجوية السيادية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية ذات العلاقة بالأمن الوطني.",
+          "text_for_index": "خدمات الأرصاد الجوية السيادية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية ذات العلاقة بالأمن الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "محطات الرصد: كل منشأة أو معدّة أو جهاز، تُستخدم للقيام بأي من خدمات الأرصاد الجوية.",
+          "text_for_index": "محطات الرصد: كل منشأة أو معدّة أو جهاز، تُستخدم للقيام بأي من خدمات الأرصاد الجوية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "التصريح: وثيقة يُصدرها المركز للشخص قبل البدء في ممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.",
+          "text_for_index": "التصريح: وثيقة يُصدرها المركز للشخص قبل البدء في ممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الترخيص: وثيقة يُصدرها المركز للشخص لممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.",
+          "text_for_index": "الترخيص: وثيقة يُصدرها المركز للشخص لممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المصرح له: الشخص الحاصل على التصريح.",
+          "text_for_index": "المصرح له: الشخص الحاصل على التصريح.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-1::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المرخص له: الشخص الحاصل على الترخيص.",
+          "text_for_index": "المرخص له: الشخص الحاصل على الترخيص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة الثانية",
+      "text_verbatim": "يجب عند القيام بأي من خدمات الأرصاد الجوية الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة للأرصاد الجوية، وذلك وفقاً لما تُحدده اللوائح.",
+      "text_for_index": "يجب عند القيام بأي من خدمات الأرصاد الجوية الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة للأرصاد الجوية، وذلك وفقاً لما تُحدده اللوائح.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب عند القيام بأي من خدمات الأرصاد الجوية الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة للأرصاد الجوية، وذلك وفقاً لما تُحدده اللوائح.",
+          "text_for_index": "يجب عند القيام بأي من خدمات الأرصاد الجوية الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة للأرصاد الجوية، وذلك وفقاً لما تُحدده اللوائح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الثالثة",
+      "text_verbatim": "يجب عند القيام بأي من خدمات الأرصاد الجوية، أو نشر أي من معلومات الأرصاد الجوية سواء بإنشاء موقع إلكتروني، أو بأي وسيلة كانت؛ الحصول -بحسب الأحوال- على ترخيص أو تصريح (أو كليهما). وتُصنف اللوائح أنواع تلك الخدمات.",
+      "text_for_index": "يجب عند القيام بأي من خدمات الأرصاد الجوية، أو نشر أي من معلومات الأرصاد الجوية سواء بإنشاء موقع إلكتروني، أو بأي وسيلة كانت؛ الحصول -بحسب الأحوال- على ترخيص أو تصريح (أو كليهما). وتُصنف اللوائح أنواع تلك الخدمات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب عند القيام بأي من خدمات الأرصاد الجوية، أو نشر أي من معلومات الأرصاد الجوية سواء بإنشاء موقع إلكتروني، أو بأي وسيلة كانت؛ الحصول -بحسب الأحوال- على ترخيص أو تصريح (أو كليهما). وتُصنف اللوائح أنواع تلك الخدمات.",
+          "text_for_index": "يجب عند القيام بأي من خدمات الأرصاد الجوية، أو نشر أي من معلومات الأرصاد الجوية سواء بإنشاء موقع إلكتروني، أو بأي وسيلة كانت؛ الحصول -بحسب الأحوال- على ترخيص أو تصريح (أو كليهما). وتُصنف اللوائح أنواع تلك الخدمات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة الرابعة",
+      "text_verbatim": "يجب عند إنشاء مشروع تتطلب طبيعته معرفة معلوماتٍ عن الأرصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في إنشاء ذلك المشروع- من المركز أو من مقدمي خدمات الأرصاد الجوية المرخص لهم، وتُحدد اللوائح طبيعة تلك المشروعات.",
+      "text_for_index": "يجب عند إنشاء مشروع تتطلب طبيعته معرفة معلوماتٍ عن الأرصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في إنشاء ذلك المشروع- من المركز أو من مقدمي خدمات الأرصاد الجوية المرخص لهم، وتُحدد اللوائح طبيعة تلك المشروعات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب عند إنشاء مشروع تتطلب طبيعته معرفة معلوماتٍ عن الأرصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في إنشاء ذلك المشروع- من المركز أو من مقدمي خدمات الأرصاد الجوية المرخص لهم، وتُحدد اللوائح طبيعة تلك المشروعات.",
+          "text_for_index": "يجب عند إنشاء مشروع تتطلب طبيعته معرفة معلوماتٍ عن الأرصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في إنشاء ذلك المشروع- من المركز أو من مقدمي خدمات الأرصاد الجوية المرخص لهم، وتُحدد اللوائح طبيعة تلك المشروعات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الخامسة",
+      "text_verbatim": "• يجب عند القيام بنشاط استيراد محطات الرصد، أو تركيبها، أو تشغيلها، أو نقلها، أو تداولها، أو معايرتها، أو صيانتها؛ الحصول على ترخيص، وتُحدد اللوائح أوصاف محطات الرصد.\n\n\t• يجب عند التنازل عن محطات الرصد الحصول على ترخيص.",
+      "text_for_index": "• يجب عند القيام بنشاط استيراد محطات الرصد، أو تركيبها، أو تشغيلها، أو نقلها، أو تداولها، أو معايرتها، أو صيانتها؛ الحصول على ترخيص، وتُحدد اللوائح أوصاف محطات الرصد.\n\n • يجب عند التنازل عن محطات الرصد الحصول على ترخيص.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب عند القيام بنشاط استيراد محطات الرصد، أو تركيبها، أو تشغيلها، أو نقلها، أو تداولها، أو معايرتها، أو صيانتها؛ الحصول على ترخيص، وتُحدد اللوائح أوصاف محطات الرصد.",
+          "text_for_index": "• يجب عند القيام بنشاط استيراد محطات الرصد، أو تركيبها، أو تشغيلها، أو نقلها، أو تداولها، أو معايرتها، أو صيانتها؛ الحصول على ترخيص، وتُحدد اللوائح أوصاف محطات الرصد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب عند التنازل عن محطات الرصد الحصول على ترخيص.",
+          "text_for_index": "• يجب عند التنازل عن محطات الرصد الحصول على ترخيص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة السادسة",
+      "text_verbatim": "• يجب على من يمارس نشاط تدريب أشخاص على القيام بأي من خدمات الأرصاد الجوية؛ الحصول على ترخيص.\n\n\t• يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الأرصاد الجوية.",
+      "text_for_index": "• يجب على من يمارس نشاط تدريب أشخاص على القيام بأي من خدمات الأرصاد الجوية؛ الحصول على ترخيص.\n\n • يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الأرصاد الجوية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب على من يمارس نشاط تدريب أشخاص على القيام بأي من خدمات الأرصاد الجوية؛ الحصول على ترخيص.",
+          "text_for_index": "• يجب على من يمارس نشاط تدريب أشخاص على القيام بأي من خدمات الأرصاد الجوية؛ الحصول على ترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الأرصاد الجوية.",
+          "text_for_index": "• يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الأرصاد الجوية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة السابعة",
+      "text_verbatim": "تُصنف اللوائح أنواع التراخيص والتصاريح، بناءً على الاشتراطات والضوابط والإجراءات اللازمة لكل منها، وتُحدد تلك الاشتراطات والضوابط والإجراءات.",
+      "text_for_index": "تُصنف اللوائح أنواع التراخيص والتصاريح، بناءً على الاشتراطات والضوابط والإجراءات اللازمة لكل منها، وتُحدد تلك الاشتراطات والضوابط والإجراءات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تُصنف اللوائح أنواع التراخيص والتصاريح، بناءً على الاشتراطات والضوابط والإجراءات اللازمة لكل منها، وتُحدد تلك الاشتراطات والضوابط والإجراءات.",
+          "text_for_index": "تُصنف اللوائح أنواع التراخيص والتصاريح، بناءً على الاشتراطات والضوابط والإجراءات اللازمة لكل منها، وتُحدد تلك الاشتراطات والضوابط والإجراءات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة الثامنة",
+      "text_verbatim": "يُقصر القيام بخدمات الأرصاد الجوية السيادية على المركز، وتُصنف اللوائح أنواع تلك الخدمات.",
+      "text_for_index": "يُقصر القيام بخدمات الأرصاد الجوية السيادية على المركز، وتُصنف اللوائح أنواع تلك الخدمات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُقصر القيام بخدمات الأرصاد الجوية السيادية على المركز، وتُصنف اللوائح أنواع تلك الخدمات.",
+          "text_for_index": "يُقصر القيام بخدمات الأرصاد الجوية السيادية على المركز، وتُصنف اللوائح أنواع تلك الخدمات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة التاسعة",
+      "text_verbatim": "• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة؛ وفقاً لأنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها.\n\n\t• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.\n\n\t• يُحدد المركز المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقاً للأحكام المتعلقة بذلك في أنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+      "text_for_index": "• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة؛ وفقاً لأنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها.\n\n • يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.\n\n • يُحدد المركز المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقاً للأحكام المتعلقة بذلك في أنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة؛ وفقاً لأنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها.",
+          "text_for_index": "• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة؛ وفقاً لأنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+          "text_for_index": "• يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يُحدد المركز المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقاً للأحكام المتعلقة بذلك في أنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+          "text_for_index": "• يُحدد المركز المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقاً للأحكام المتعلقة بذلك في أنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة العاشرة",
+      "text_verbatim": "يُعد القيام بأي من الأفعال الآتية مخالفة لأحكام النظام:\n\n\t• المساس بأي من محطات الرصد أو مرافقها أو شبكاتها أو البيانات الصادرة عنها، سواء بالتعدي عليها أو العبث بها أو تعطيلها أو نقلها أو إتلافها جزئياً أو كلياً؛ سواء بشكل مباشر أو غير مباشر.\n\n\t• استخدام الترخيص أو التصريح لغير الأغراض التي أُصدر من أجلها.\n\n\t• القيام بأي من خدمات الأرصاد الجوية دون الحصول على الترخيص أو التصريح.\n\n\t• إنشاء محطات الرصد دون الحصول على ترخيص.\n\n\t• مخالفة أي حكم آخر من أحكام النظام واللوائح.",
+      "text_for_index": "يُعد القيام بأي من الأفعال الآتية مخالفة لأحكام النظام:\n\n • المساس بأي من محطات الرصد أو مرافقها أو شبكاتها أو البيانات الصادرة عنها، سواء بالتعدي عليها أو العبث بها أو تعطيلها أو نقلها أو إتلافها جزئياً أو كلياً؛ سواء بشكل مباشر أو غير مباشر.\n\n • استخدام الترخيص أو التصريح لغير الأغراض التي أُصدر من أجلها.\n\n • القيام بأي من خدمات الأرصاد الجوية دون الحصول على الترخيص أو التصريح.\n\n • إنشاء محطات الرصد دون الحصول على ترخيص.\n\n • مخالفة أي حكم آخر من أحكام النظام واللوائح.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يُعد القيام بأي من الأفعال الآتية مخالفة لأحكام النظام:",
+          "text_for_index": "يُعد القيام بأي من الأفعال الآتية مخالفة لأحكام النظام:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• المساس بأي من محطات الرصد أو مرافقها أو شبكاتها أو البيانات الصادرة عنها، سواء بالتعدي عليها أو العبث بها أو تعطيلها أو نقلها أو إتلافها جزئياً أو كلياً؛ سواء بشكل مباشر أو غير مباشر.",
+          "text_for_index": "• المساس بأي من محطات الرصد أو مرافقها أو شبكاتها أو البيانات الصادرة عنها، سواء بالتعدي عليها أو العبث بها أو تعطيلها أو نقلها أو إتلافها جزئياً أو كلياً؛ سواء بشكل مباشر أو غير مباشر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• استخدام الترخيص أو التصريح لغير الأغراض التي أُصدر من أجلها.",
+          "text_for_index": "• استخدام الترخيص أو التصريح لغير الأغراض التي أُصدر من أجلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-10::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• القيام بأي من خدمات الأرصاد الجوية دون الحصول على الترخيص أو التصريح.",
+          "text_for_index": "• القيام بأي من خدمات الأرصاد الجوية دون الحصول على الترخيص أو التصريح.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-10::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• إنشاء محطات الرصد دون الحصول على ترخيص.",
+          "text_for_index": "• إنشاء محطات الرصد دون الحصول على ترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-10::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• مخالفة أي حكم آخر من أحكام النظام واللوائح.",
+          "text_for_index": "• مخالفة أي حكم آخر من أحكام النظام واللوائح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure",
+        "authority",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "اختصاص",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الحادية عشرة",
+      "text_verbatim": "• يتولى مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها وإثباتها، وتُحدد اللوائح آليات وإجراءات عملهم.\n\n\t• للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتُحدد اللوائح الآليات اللازمة لذلك.\n\n\t• للمفتش التحفظ الفوري على كل ما يشتبه باستخدامه بما يخالف أحكام النظام واللوائح، على أن يحرر محضراً يوضح الأصناف المحرزة وأوصافها أثناء الضبط، ويعرضه على اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد على (سبعة) أيام- لتقرير استمرار التحفظ أو إلغائه؛ وذلك وفقاً لما تُحدده اللوائح.\n\n\t• يُحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصاته.\n\n\t• دون إخلال بما ورد في الفقرة (1) من هذه المادة، للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية، إلى شركات متخصصة؛ وذلك وفق ضوابط ومعايير تُحددها اللوائح.",
+      "text_for_index": "• يتولى مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها وإثباتها، وتُحدد اللوائح آليات وإجراءات عملهم.\n\n • للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتُحدد اللوائح الآليات اللازمة لذلك.\n\n • للمفتش التحفظ الفوري على كل ما يشتبه باستخدامه بما يخالف أحكام النظام واللوائح، على أن يحرر محضراً يوضح الأصناف المحرزة وأوصافها أثناء الضبط، ويعرضه على اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد على (سبعة) أيام- لتقرير استمرار التحفظ أو إلغائه؛ وذلك وفقاً لما تُحدده اللوائح.\n\n • يُحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصاته.\n\n • دون إخلال بما ورد في الفقرة (1) من هذه المادة، للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية، إلى شركات متخصصة؛ وذلك وفق ضوابط ومعايير تُحددها اللوائح.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• يتولى مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها وإثباتها، وتُحدد اللوائح آليات وإجراءات عملهم.",
+          "text_for_index": "• يتولى مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها وإثباتها، وتُحدد اللوائح آليات وإجراءات عملهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتُحدد اللوائح الآليات اللازمة لذلك.",
+          "text_for_index": "• للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتُحدد اللوائح الآليات اللازمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-11::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• للمفتش التحفظ الفوري على كل ما يشتبه باستخدامه بما يخالف أحكام النظام واللوائح، على أن يحرر محضراً يوضح الأصناف المحرزة وأوصافها أثناء الضبط، ويعرضه على اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد على (سبعة) أيام- لتقرير استمرار التحفظ أو إلغائه؛ وذلك وفقاً لما تُحدده اللوائح.",
+          "text_for_index": "• للمفتش التحفظ الفوري على كل ما يشتبه باستخدامه بما يخالف أحكام النظام واللوائح، على أن يحرر محضراً يوضح الأصناف المحرزة وأوصافها أثناء الضبط، ويعرضه على اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد على (سبعة) أيام- لتقرير استمرار التحفظ أو إلغائه؛ وذلك وفقاً لما تُحدده اللوائح.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-11::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• يُحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصاته.",
+          "text_for_index": "• يُحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصاته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-11::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "authority",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "اختصاص",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بما ورد في الفقرة (1) من هذه المادة، للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية، إلى شركات متخصصة؛ وذلك وفق ضوابط ومعايير تُحددها اللوائح.",
+          "text_for_index": "• دون إخلال بما ورد في الفقرة (1) من هذه المادة، للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية، إلى شركات متخصصة؛ وذلك وفق ضوابط ومعايير تُحددها اللوائح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "remedy",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "علاج أو تعويض",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الثانية عشرة",
+      "text_verbatim": "• دون إخلال بأي عقوبة أشد يُنص عليها في نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة أو أكثر من العقوبات الآتية:\n\n\tأ- غرامة لا تزيد على (500.000) خمسمائة ألف ريال.\n\n\tب- تعليق الترخيص أو التصريح لمدة لا تزيد على (ستة) أشهر.\n\n\tج- إلغاء الترخيص أو التصريح.\n\n\tد- مصادرة المضبوطات محل المخالفة.\n\n\tهـ - إلزام المخالف بإصلاح الضرر الناتج عن المخالفة تحت إشراف المركز أو التعويض عن قيمة الإصلاح، وفوات المنفعة.\n\n\t• يُصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعى فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.",
+      "text_for_index": "• دون إخلال بأي عقوبة أشد يُنص عليها في نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة أو أكثر من العقوبات الآتية:\n\n أ- غرامة لا تزيد على (500.000) خمسمائة ألف ريال.\n\n ب- تعليق الترخيص أو التصريح لمدة لا تزيد على (ستة) أشهر.\n\n ج- إلغاء الترخيص أو التصريح.\n\n د- مصادرة المضبوطات محل المخالفة.\n\n هـ - إلزام المخالف بإصلاح الضرر الناتج عن المخالفة تحت إشراف المركز أو التعويض عن قيمة الإصلاح، وفوات المنفعة.\n\n • يُصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعى فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بأي عقوبة أشد يُنص عليها في نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة أو أكثر من العقوبات الآتية:",
+          "text_for_index": "• دون إخلال بأي عقوبة أشد يُنص عليها في نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة أو أكثر من العقوبات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ- غرامة لا تزيد على (500.000) خمسمائة ألف ريال.",
+          "text_for_index": "أ- غرامة لا تزيد على (500.000) خمسمائة ألف ريال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ب- تعليق الترخيص أو التصريح لمدة لا تزيد على (ستة) أشهر.",
+          "text_for_index": "ب- تعليق الترخيص أو التصريح لمدة لا تزيد على (ستة) أشهر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ج- إلغاء الترخيص أو التصريح.",
+          "text_for_index": "ج- إلغاء الترخيص أو التصريح.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "د- مصادرة المضبوطات محل المخالفة.",
+          "text_for_index": "د- مصادرة المضبوطات محل المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "هـ - إلزام المخالف بإصلاح الضرر الناتج عن المخالفة تحت إشراف المركز أو التعويض عن قيمة الإصلاح، وفوات المنفعة.",
+          "text_for_index": "هـ - إلزام المخالف بإصلاح الضرر الناتج عن المخالفة تحت إشراف المركز أو التعويض عن قيمة الإصلاح، وفوات المنفعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-12::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• يُصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعى فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.",
+          "text_for_index": "• يُصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعى فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الثالثة عشرة",
+      "text_verbatim": "• مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (أو أكثر) تُكوَّن بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) أعضاء، ويحدد قرار تكوينها من يتولى رئاستها، على أن يكون من المتخصصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية على الأقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد على (100.000) مئة ألف ريال، أو بإلغاء الترخيص أو التصريح. وتُحدد اللوائح قواعد عمل اللجنة وإجراءاتها، ومكافآت أعضائها.\n\n\t• للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقاً لأحكام النظام ما يأتي:\n\n\tأ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.\n\n\tب- مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة.\n\n\tج- الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة\n\n\tويجوز لصاحب الشأن التظلم من القرارات الصادرة في حقه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.",
+      "text_for_index": "• مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (أو أكثر) تُكوَّن بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) أعضاء، ويحدد قرار تكوينها من يتولى رئاستها، على أن يكون من المتخصصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية على الأقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد على (100.000) مئة ألف ريال، أو بإلغاء الترخيص أو التصريح. وتُحدد اللوائح قواعد عمل اللجنة وإجراءاتها، ومكافآت أعضائها.\n\n • للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقاً لأحكام النظام ما يأتي:\n\n أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.\n\n ب- مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة.\n\n ج- الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة\n\n ويجوز لصاحب الشأن التظلم من القرارات الصادرة في حقه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (أو أكثر) تُكوَّن بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) أعضاء، ويحدد قرار تكوينها من يتولى رئاستها، على أن يكون من المتخصصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية على الأقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد على (100.000) مئة ألف ريال، أو بإلغاء الترخيص أو التصريح. وتُحدد اللوائح قواعد عمل اللجنة وإجراءاتها، ومكافآت أعضائها.",
+          "text_for_index": "• مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (أو أكثر) تُكوَّن بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) أعضاء، ويحدد قرار تكوينها من يتولى رئاستها، على أن يكون من المتخصصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية على الأقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد على (100.000) مئة ألف ريال، أو بإلغاء الترخيص أو التصريح. وتُحدد اللوائح قواعد عمل اللجنة وإجراءاتها، ومكافآت أعضائها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-13::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقاً لأحكام النظام ما يأتي:",
+          "text_for_index": "• للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقاً لأحكام النظام ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-13::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.",
+          "text_for_index": "أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-13::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "ب- مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة.",
+          "text_for_index": "ب- مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-13::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ج- الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة",
+          "text_for_index": "ج- الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-13::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ويجوز لصاحب الشأن التظلم من القرارات الصادرة في حقه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.",
+          "text_for_index": "ويجوز لصاحب الشأن التظلم من القرارات الصادرة في حقه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الرابعة عشرة",
+      "text_verbatim": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (2.000,000) مليوني ريال، أو بإحدى هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- بأي من أعمال خدمات الأرصاد الجوية السيادية.",
+      "text_for_index": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (2.000,000) مليوني ريال، أو بإحدى هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- بأي من أعمال خدمات الأرصاد الجوية السيادية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (2.000,000) مليوني ريال، أو بإحدى هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- بأي من أعمال خدمات الأرصاد الجوية السيادية.",
+          "text_for_index": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (2.000,000) مليوني ريال، أو بإحدى هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- بأي من أعمال خدمات الأرصاد الجوية السيادية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة الخامسة عشرة",
+      "text_verbatim": "تتولى النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.",
+      "text_for_index": "تتولى النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تتولى النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.",
+          "text_for_index": "تتولى النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة السادسة عشرة",
+      "text_verbatim": "تتولى المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وإيقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما يأتي:\n\n\t• فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.\n\n\t• مضاعفة الغرامة الموقعة على المخالف في حالة تكرار المخالفة.\n\n\t• مصادرة المضبوطات محل المخالفة.",
+      "text_for_index": "تتولى المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وإيقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما يأتي:\n\n • فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.\n\n • مضاعفة الغرامة الموقعة على المخالف في حالة تكرار المخالفة.\n\n • مصادرة المضبوطات محل المخالفة.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "تتولى المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وإيقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما يأتي:",
+          "text_for_index": "تتولى المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وإيقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.",
+          "text_for_index": "• فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-16::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• مضاعفة الغرامة الموقعة على المخالف في حالة تكرار المخالفة.",
+          "text_for_index": "• مضاعفة الغرامة الموقعة على المخالف في حالة تكرار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-16::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• مصادرة المضبوطات محل المخالفة.",
+          "text_for_index": "• مصادرة المضبوطات محل المخالفة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأرصاد، المادة السابعة عشرة",
+      "text_verbatim": "يجوز تضمين الحكم أو القرار الصادر بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم منه، أو صدور حكم نهائي برفض التظلم.",
+      "text_for_index": "يجوز تضمين الحكم أو القرار الصادر بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم منه، أو صدور حكم نهائي برفض التظلم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "يجوز تضمين الحكم أو القرار الصادر بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم منه، أو صدور حكم نهائي برفض التظلم.",
+          "text_for_index": "يجوز تضمين الحكم أو القرار الصادر بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم منه، أو صدور حكم نهائي برفض التظلم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة الثامنة عشرة",
+      "text_verbatim": "• تُمثل الأحكام الواردة في النظام واللوائح الحد الأدنى فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الأرصاد.\n\n\t• دون إخلال بما ورد في الفقرة (1) من هذه المادة، تُطبق أحكام النظام فيما لم يرد في شأنه نص نظامي خاص، على ألا يخل ذلك النص بالتقيد بالأحكام الأخرى الواردة في النظام.\n\n\t• لا يخل تطبيق أحكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها، والأنظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.",
+      "text_for_index": "• تُمثل الأحكام الواردة في النظام واللوائح الحد الأدنى فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الأرصاد.\n\n • دون إخلال بما ورد في الفقرة (1) من هذه المادة، تُطبق أحكام النظام فيما لم يرد في شأنه نص نظامي خاص، على ألا يخل ذلك النص بالتقيد بالأحكام الأخرى الواردة في النظام.\n\n • لا يخل تطبيق أحكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها، والأنظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تُمثل الأحكام الواردة في النظام واللوائح الحد الأدنى فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الأرصاد.",
+          "text_for_index": "• تُمثل الأحكام الواردة في النظام واللوائح الحد الأدنى فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الأرصاد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بما ورد في الفقرة (1) من هذه المادة، تُطبق أحكام النظام فيما لم يرد في شأنه نص نظامي خاص، على ألا يخل ذلك النص بالتقيد بالأحكام الأخرى الواردة في النظام.",
+          "text_for_index": "• دون إخلال بما ورد في الفقرة (1) من هذه المادة، تُطبق أحكام النظام فيما لم يرد في شأنه نص نظامي خاص، على ألا يخل ذلك النص بالتقيد بالأحكام الأخرى الواردة في النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alarsad::article-18::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• لا يخل تطبيق أحكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها، والأنظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.",
+          "text_for_index": "• لا يخل تطبيق أحكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها، والأنظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة التاسعة عشرة",
+      "text_verbatim": "يُصِدر الوزير اللوائح خلال (مائة وثمانين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.",
+      "text_for_index": "يُصِدر الوزير اللوائح خلال (مائة وثمانين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يُصِدر الوزير اللوائح خلال (مائة وثمانين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.",
+          "text_for_index": "يُصِدر الوزير اللوائح خلال (مائة وثمانين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأرصاد، المادة العشرون",
+      "text_verbatim": "يُعمَل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يُعمَل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alarsad::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يُعمَل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يُعمَل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "086e651a3b84e000ece946641dddecd677400bdc31009b09626d6b890a836d0ae9e836ed12e370bb59d8f155de1379cfeb7c731dfa0b3635b6dae2ad417cd078a05171439e0bba93f82498cdc73103311c7aead1c89e5baa720cdf2cefd68d05427c5371ad6ad52f95f543a27c0a90f65e90f68c2b4f08a9479661d599aee2ea8f7998fb7e40111dc1657b33ca60e63bb0634a136b5f5836e8c2ed8cb74da1f11566dac856ae0320c70073335c9ffa8dc3404f1c651bf845169c61a5ba6805c10a9a8de6a02d3565837e592b341384895285f4c23db949ef7d8c07960b5e7ed0314cab8c59b23da9";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab20007276be85ccd1c6c269f5fb900baa5e4d8e2cb7aa9d1abaa92c954c81f50dcdc6?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام جمع التبرعات
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام جمع التبرعات</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">العمل والرعاية الاجتماعية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام جمع التبرعات</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام جمع التبرعات</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>58892</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="738c42bb-a29f-4da7-bed4-b1d300a55f20">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>تضمن النظام:</strong> التعريفات، الجهات المرخص لها في جمع التبرعات، التبرعات العينية، ما يحظر على الجهة المرخص لهان، حملات جمع التبرعات، الدعوة الى جمع التبرعات، صرف التبرعات، حصيلة جمع التبرعات، مخالفة أحكام النظام، الحجز التحفظي على التبرعات، مخالفات احكام النظام، العقوبات، أحكام النظام، صدور اللائحة، يلغي النظام جميع ما يتعارض معه من أحكام، يعمل بالنظام بعد (180) يوم من تاريخ نشره في الجريدة الرسمية.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام جمع التبرعات</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1446/02/08 هـ  الموافق : 12/08/2024 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1446/02/19  هـ الموافق : 23/08/2024 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/820a716b-b059-4b4e-b1f4-b1d300a55f2e?lawId=738c42bb-a29f-4da7-bed4-b1d300a55f20">مرسوم ملكي رقم (م/43) وتاريخ 1446/2/8هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/1265aa2c-b3ef-42f2-8fac-b1d300a55f4f?lawId=738c42bb-a29f-4da7-bed4-b1d300a55f20">قرار مجلس الوزراء رقم (116) وتاريخ 1446/2/2هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="738c42bb-a29f-4da7-bed4-b1d300a55f20" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/07a4be1b-5e47-40a3-bff5-b1d300a55f82?lawId=738c42bb-a29f-4da7-bed4-b1d300a55f20" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="738c42bb-a29f-4da7-bed4-b1d300a55f20">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="738c42bb-a29f-4da7-bed4-b1d300a55f20" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام جمع التبرعات</h3>
+        <h3 class="center">1446 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/43) وتاريخ 1446/2/8هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالى<br />
+&nbsp; &nbsp; &nbsp;نحن سلمان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ملك المملكة العربية السعودية</strong><br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قرارات مجلس الشورى رقم (107 / 54) بتاريخ 14 / 11 / 1435هـ، ورقم (79 / 38) بتاريخ 3 / 8 / 1437هـ، ورقم (79 / 17) بتاريخ 21 / 5 / 1439هـ، ورقم (32 / 6) بتاريخ 30 / 3 / 1441هـ، ورقم (22 / 4) بتاريخ 15 / 4 / 1442هـ، ورقم (277 / 27) بتاريخ 27 / 10 / 1445هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (&nbsp;&nbsp; &nbsp;116) بتاريخ 2 / 2 / 1446هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p><strong>أولاً: </strong>الموافقة على نظام جمع التبرعات، بالصيغة المرافقة.<br />
+<strong>ثانياً: </strong>تسري أحكام النظام -المشار إليه في البند (أولاً) من هذا المرسوم- على المنصات الوطنية الحكومية لجمع التبرعات، فيما لم يرد به نص خاص في الأحكام المنظمة لها.&nbsp;<br />
+<strong>ثالثًا: </strong>على سمو رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخصُّه- تنفيذ مرسومنا هذا.&nbsp;</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (116) وتاريخ 1446/2/2هـ</h4>
+            <p><p><strong>إن مجلس الوزراء</strong><br />
+<strong>بعد الاطلاع</strong> في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم 78650 وتاريخ 1 / 11 / 1445هـ، في شأن مشروع نظام جمع التبرعات.<br />
+<strong>وبعد الاطلاع</strong> على مشروع النظام المشار إليه.<br />
+<strong>وبعد الاطلاع</strong> على لائحة جمع التبرعات للوجوه الخيرية، الصادرة بقرار مجلس الوزراء رقم (547) وتاريخ 30 / 3 / 1396هـ.<br />
+<strong>وبعد الاطلاع</strong> على <strong>المحاضر</strong> رقم (412) وتاريخ 21 / 11 / 1425هـ، ورقم (39) وتاريخ 28 / 1 / 1430هـ، ورقم (385) وتاريخ 3 / 7 / 1434هـ، ورقم (557) وتاريخ 7 / 9 / 1436هـ، ورقم (444) وتاريخ 19 / 4 / 1438هـ، ورقم (897) وتاريخ 22 / 5 / 1440هـ، ورقم (1384) وتاريخ 18 / 11 / 1441هـ، ورقم (108) وتاريخ 22 / 3 / 1444هـ، ورقم (526) وتاريخ 24 / 8 / 1442هـ، ورقم (198) وتاريخ 4 / 5 / 1443هـ،<strong> والمذكرات</strong> رقم (445) وتاريخ 19 / 4 / 1438هـ، ورقم (498) وتاريخ 1 / 7 / 1441هـ، ورقم (275) وتاريخ 19 / 2 / 1442هـ، ورقم (1549) وتاريخ 9 / 7 / 1443هـ، ورقم (3896) وتاريخ 21 / 12 / 1444هـ، ورقم (1637) وتاريخ 9 / 5 / 1445هـ، ورقم (2331) وتاريخ 27 / 6 / 1445هـ، ورقم (51) وتاريخ 3 / 1 / 1446هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع</strong> على التوصية المعدة في مجلس الشؤون الاقتصادية والتنمية رقم (10-36 / 42 / د) وتاريخ 10 / 9 / 1442هـ.<br />
+<strong>وبعد الاطلاع</strong> محضر مجلس الشؤون السياسية والأمنية رقم (م س ت / 17-4 / 45) وتاريخ 3 / 4 / 1445هـ.<br />
+<strong>وبعد النظر</strong> في قرارات مجلس الشورى رقم (107 / 54) وتاريخ 14 / 11 / 1435هـ، ورقم (79 / 38) وتاريخ 3 / 8 / 1437هـ، ورقم (79 / 17) وتاريخ 21 / 5 / 1439هـ، ورقم (32 / 6) وتاريخ 30 / 3 / 1441هـ، ورقم (22 / 4) وتاريخ 15 / 4 / 1442هـ، ورقم (277 / 27) وتاريخ 27 / 10 / 1445هـ.<br />
+<strong>وبعد الاطلاع </strong>على توصية اللجنة العامة لمجلس الوزراء رقم (434) وتاريخ 11 / 1 / 1446هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:&nbsp;</strong></p>
+
+<p><strong>أولاً:</strong> الموافقة على نظام جمع التبرعات، بالصيغة المرافقة.<br />
+<strong>ثانياً:</strong> تسري أحكام النظام -المشار إليه في البند (أولاً) من هذا القرار- على المنصات الوطنية الحكومية لجمع التبرعات، فيما لم يرد به نص خاص في الأحكام المنظمة لها.&nbsp;<br />
+&nbsp; &nbsp;<strong> وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</strong><br />
+<strong>ثالثاً:</strong> قيام المركز الوطني لتنمية القطاع غير الربحي -خلال السنة الخامسة من تطبيق النظام المشار إليه في البند (أولاً) من هذا القرار- برفع تقرير يتضمن نتائج تطبيق النظام والمقترحات التي يراها في هذا الشأن.</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام جمع التبرعات</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p><strong>لأغراض هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها:<br />
+النظام</strong>: نظام جمع التبرعات.<br />
+<strong>اللائحة:</strong> اللائحة التنفيذية للنظام.<br />
+<strong>المركز: </strong>المركز الوطني لتنمية القطاع غير الربحي.<br />
+<strong>جمع التبرعات: </strong>تلقي التبرعات النقدية أو العينية من خلال الدعوة للتبرع أو إقامة حملة لذلك.<br />
+<strong>الدعوة إلى جمع التبرعات:</strong> حث الأشخاص ذوي الصفة الطبيعية أو الاعتبارية على التبرع لجهة محددة، لغرض معين وفي وقت محدد ووفق آلية محددة.<br />
+<strong>حملة جمع التبرعات:</strong> نشاط منظم يُدعى من خلاله إلى جمع التبرعات.<br />
+<strong>الجهة المرخِّصة:</strong> المركز، وغيره من الجهات المختصة نظاماً بإصدار تراخيص لجمع التبرعات.<br />
+<strong>الجهة المرخَّص لها:</strong> الجمعيات والمؤسسات الأهلية، وغيرها من أجهزة القطاع غير الربحي؛ التي تجيز لها أنظمتها أو لوائحها جمع التبرعات، والحاصلة على ترخيص بجمع التبرعات من الجهة المرخِّصة.<br />
+<strong>المتبرع: </strong>شخص ذو صفة طبيعية أو اعتبارية يقدم تبرعاً نقديًّا أو عينيًّا لأي جهة مرخَّص لها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يُقصر جمع التبرعات على الجهة المرخَّص لها.&nbsp;</li>
+	<li>يجب أن يكون القائمون على جمع التبرعات وصرفها لدى الجهة المرخَّص لها من السعوديين.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>لا يجوز لأي جهة مرخَّص لها أن تجمع تبرعات، إلا بما يتفق مع أهدافها التي ينص عليها نظامها أو لائحتها، ويكون جمعها للتبرعات من خلال الآتي:</strong></p>
+
+<ol>
+	<li>حساباتها البنكية المعتمدة، وفقاً لتعليمات البنك المركزي السعودي.</li>
+	<li>الحوالات المالية عبر القنوات الإلكترونية، ونحوها مما تحدده اللائحة.</li>
+	<li>الشيكات، على أن تودع في حساباتها البنكية المعتمدة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>للجهة المرخَّص لها تلقي التبرعات العينية من خلال مقرها الرئيس، أو فروعها، أو المواقع المرخص لها بجمع التبرعات فيها، على أن يثبت ذلك في إيصالات ذات أرقام متسلسلة، يسلَّم المتبرع نسخة منها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يحظر على الجهة المرخَّص لها ما يلي:</strong></p>
+
+<ol>
+	<li>تلقي التبرعات النقدية إلا من خلال الإيداع المباشر في حساباتها البنكية المعتمدة لدى البنوك وفروعها.</li>
+	<li>تلقي تبرعات من خارج المملكة، إلَّا بعد موافقة الجهة المرخِّصة. وتحدد اللائحة آلية التنسيق بين الجهة المرخِّصة والجهات ذات العلاقة في هذا الشأن.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>على الجهة المرخَّص لها قبل قيامها بحملة جمع تبرعات تقديم طلب إلى الجهة المرخِّصة، يتضمن الغرض من الحملة وتاريخ بدايتها ومدتها والمبلغ المراد جمعه، وعلى هذه الجهة دراسة الطلب وإصدار قرارها في شأنه خلال (ثلاثين) يوماً من تاريخ تقديم الطلب إليها.</li>
+	<li>يجب أن تتوقف حملة جمع التبرعات عند انتهاء المدة المحددة لها أو توافر المبلغ المستهدف أيهما أسبق.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز للجهة المرخَّص لها طباعة مطبوعات لغرض الدعوة إلى جمع التبرعات، ولا نشرها، ما لم يكن نظامها أو لائحتها تجيز لها ذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>تكون الدعوة إلى جمع التبرعات من خلال الوسائل الآتية:</strong></p>
+
+<ol>
+	<li>وسائل الإعلام المحلية.</li>
+	<li>شركات الاتصالات المحلية، وفقاً للتعليمات المنظمة لذلك.</li>
+	<li>اللوحات الإعلانية، وفواتير الخدمات.</li>
+	<li>المطبوعات التي تعدها الجهة المرخَّص لها، وفقاً لنظامها أو لائحتها.</li>
+	<li>وسائل التواصل الاجتماعي، ومواقع الإنترنت.</li>
+	<li>أي وسيلة أخرى تحددها اللائحة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>على الجهة المرخَّص لها عند الدعوة إلى جمع التبرعات في أي من الوسائل المشار إليها في المادة (الثامنة) من النظام، أن تُضمّن دعوتها البيانات الآتية:</strong></p>
+
+<ol>
+	<li>رقم الترخيص.</li>
+	<li>أرقام حساباتها البنكية المعتمدة.&nbsp;&nbsp; &nbsp;</li>
+	<li>عنوان مقرها الرئيس، أو فروعها، وأرقام هواتفها.</li>
+	<li>معلومات عن الغرض المطلوب له جمع التبرعات.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تزود الجهة المرخَّص لها الجهة المرخِّصة، خلال (خمسة عشر) يوماً من تاريخ انتهاء حملة جمع التبرعات، بكشف حساب بنكي، وتقرير مالي مفصل موضحة فيه التبرعات العينية والنقدية المتحصلة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز للجهة المرخَّص لها صرف ما جمعته من تبرعات في غير الغرض الذي جُمع من أجله، إلا بموافقة الجهة المرخِّصة، مع مراعاة شرط المتبرع إن وجد.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>على الجهة المرخَّص لها تحديد أصحاب الصلاحية في الصرف من التبرعات، على ألا يقل عددهم عن (اثنين) بتوقيع مشترك، على أن يكون توقيع المسؤول المالي في الجهة المرخَّص لها توقيعاً أساسيًّا. ويكون الصرف من حساباتها البنكية المعتمدة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تلتزم الجهة المرخَّص لها عند إعداد ميزانيتها السنوية ببيان حصيلة جمع التبرعات، ومفردات إيراداتها، ومصروفاتها، مؤيداً بالمستندات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>إذا خالفت الجهة المرخَّص لها -عند جمعها للتبرعات- أي حكم من أحكام النظام، فعلى الجهة المرخِّصة أن تصدر قراراً بإيقافها عن جمع التبرعات للغرض الذي جمعت من أجله.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>مع مراعاة ما يقضي به نظام الجمعيات والمؤسسات الأهلية، ومراعاة حق أي طرف آخر حسن النية، لكل من الجهة المرخِّصة، والنيابة العامة، ورئاسة أمن الدولة؛ طلب إيقاع الحجز التحفظي على الحسابات البنكية التابعة لأي جهة مرخَّص لها أو أي شخص ذي صفة طبيعية أو اعتبارية يجمع التبرعات بطريقة تخالف أحكام النظام، لمدة لا تتجاوز (ستين) يوماً، ويمكن تمديد الحجز مدة أطول بناءً على أمر قضائي صادر من المحكمة المختصة.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تتولى النيابة العامة التحقيق في مخالفات أحكام النظام، والادعاء أمام المحكمة المختصة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يعاقب الشخص ذو الصفة الطبيعية الذي يجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال، أو بالسجن مدة لا تزيد على سنتين، أو بهما معاً، مع إبعاده من المملكة إن كان غير سعودي بعد انتهاء محكوميته، وعدم السماح له بدخول المملكة إلا بما تقضي به أنظمة الحج والعمرة.</li>
+	<li>تعاقب الجهة غير المرخَّص لها التي تجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.</li>
+	<li>تعاقب الجهة المرخَّص لها التي تدعو إلى جمع التبرعات بما يخالف أحكام المادة (التاسعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.</li>
+	<li>تعاقب أي جهة تخالف حكم المادة (السابعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة، ويجوز إلغاء ترخيص الجهة حال التكرار.&nbsp;</li>
+	<li>يعاقب كل من يخالف أي حكم من أحكام النظام لم ترد له عقوبة في هذه المادة، بغرامة لا تزيد على (مائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.</li>
+	<li>تعاقب الوسيلة الإعلامية التي تعلن لجهة غير مرخَّص لها، عن جمع تبرعات، بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.</li>
+	<li>تتولى المحكمة المختصة النظر في مخالفات أحكام النظام، وتطبيق العقوبات المنصوص عليها في هذه المادة.</li>
+	<li>إذا شكّلت أي من الأفعال المشار إليها في هذه المادة جريمة بناءً على أنظمة أخرى؛ فتطبق العقوبة الأشد.</li>
+	<li>لا يخل تطبيق الأحكام الواردة في هذه المادة بما تقضي به الأنظمة الأخرى ذات الصلة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تُصادر -بحكم قضائي- جميع التبرعات التي جمعت بالمخالفة لأحكام النظام، وتُنفق في أوجه البر التي تحددها اللائحة، مع مراعاة شرط المتبرع إن وجد.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يحدد المسؤول الأول في الجهة المرخِّصة من تكون لهم صفة الضبط من منسوبيها؛ لضبط مخالفات أحكام النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العشرون</h3>
+                <div class="HTMLContainer">
+                    <p>لا تسري أحكام النظام على الجهات التي تخضع للقواعد التي تنظم وتحكم الرقابة على تلقي الجهات الحكومية هبات وتبرعات، الصادرة بقرار مجلس الوزراء رقم (365) وتاريخ 14 / 8 / 1436هـ.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>تصدر اللائحة بقرار من مجلس الوزراء، وذلك بعد إعدادها من المركز الوطني لتنمية القطاع غير الربحي بالتنسيق مع وزارة الداخلية، ووزارة الشؤون الإسلامية والدعوة والإرشاد، ورئاسة أمن الدولة، والهيئة العامة للأوقاف، والبنك المركزي السعودي، خلال مدة لا تتجاوز (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>يلغي النظام لائحة جمع التبرعات للوجوه الخيرية -الصادرة بقرار مجلس الوزراء رقم (547) وتاريخ 30 / 3 / 1396هـ- وجميع ما يتعارض معه من أحكام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>يعمل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="738c42bb-a29f-4da7-bed4-b1d300a55f20" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="4ca0a6b6-bdfa-44c1-9fca-b1d300a5c14d">المادة الأولى </option>
+<option value="a128f2e0-7674-45ca-8c0e-b1d300a5f33e">المادة الثانية </option>
+<option value="512a08ac-2958-40ee-84c6-b1d300a61e68">المادة الثالثة </option>
+<option value="6dd560e4-365e-4d14-9ee4-b1d300a62fa3">المادة الرابعة </option>
+<option value="90a13e0f-e819-44f2-9d65-b1d300a64f3e">المادة الخامسة </option>
+<option value="25c9146f-cb54-4c91-984b-b1d300a67e28">المادة السادسة </option>
+<option value="eed18b13-211c-4c5f-99d5-b1d300a690a7">المادة السابعة </option>
+<option value="d6cf57ec-0920-48dc-bddb-b1d300a6c324">المادة الثامنة </option>
+<option value="29a6a85a-a92d-4a76-bb85-b1d300a6eb04">المادة التاسعة </option>
+<option value="6356cb08-1a2e-4590-a0a2-b1d300a6fd44">المادة العاشرة </option>
+<option value="19bba002-211a-4542-9d5e-b1d300a70e0b">المادة الحادية عشرة </option>
+<option value="5f778ddf-c9c9-4c54-a482-b1d300a72540">المادة الثانية عشرة </option>
+<option value="da8c1270-b1df-4a36-afb2-b1d300a7384e">المادة الثالثة عشرة </option>
+<option value="59e912df-bfc2-4869-9bfe-b1d300a749e4">المادة الرابعة عشرة </option>
+<option value="1deda458-7d3f-4f1f-95b4-b1d300a764fe">المادة الخامسة عشرة </option>
+<option value="62417cce-19ab-47d0-a595-b1d300a774ea">المادة السادسة عشرة </option>
+<option value="6162a429-46f9-4c97-8189-b1d300a7bade">المادة السابعة عشرة </option>
+<option value="1c7dd58d-b722-435b-924e-b1d300a7ceb0">المادة الثامنة عشرة </option>
+<option value="02876834-6b83-4873-91e2-b1d300a7e00e">المادة التاسعة عشرة </option>
+<option value="188865ce-cac3-4db9-8151-b1d300a7f4cc">المادة العشرون </option>
+<option value="2ec2a551-9508-4811-bde5-b1d300a80625">المادة الحادية والعشرون </option>
+<option value="33cf484a-48f6-4655-9ee1-b1d300a821cf">المادة الثانية والعشرون </option>
+<option value="a2d88c99-62bf-4a54-be73-b1d300a83475">المادة الثالثة والعشرون </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaF7CH' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaF7CH' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaF7CH = new CaptchaWidget('divCaptchaContainer_captchaF7CH', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaF7CH.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription738c42bb-a29f-4da7-bed4-b1d300a55f20" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="738c42bb-a29f-4da7-bed4-b1d300a55f20" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha6YVS' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha6YVS' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-738c42bb-a29f-4da7-bed4-b1d300a55f20">
+                    <input type="checkbox" id="agreement-738c42bb-a29f-4da7-bed4-b1d300a55f20" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='738c42bb-a29f-4da7-bed4-b1d300a55f20' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-738c42bb-a29f-4da7-bed4-b1d300a55f20"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-738c42bb-a29f-4da7-bed4-b1d300a55f20"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaF7CH = new CaptchaWidget('divCaptchaContainer_captchaF7CH', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaF7CH.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha6YVS = new CaptchaWidget('divCaptchaContainer_captcha6YVS', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha6YVS.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="738c42bb-a29f-4da7-bed4-b1d300a55f20">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaF7CH = new CaptchaWidget('divCaptchaContainer_captchaF7CH', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaF7CH.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha6YVS = new CaptchaWidget('divCaptchaContainer_captcha6YVS', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha6YVS.load(); 
+                    }); </script>
+</body>
+
+</html>

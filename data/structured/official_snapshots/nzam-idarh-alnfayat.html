@@ -1,0 +1,1171 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08e10f38cf84e000c64aff8045ed67e51ac7b82e82c6cf39f95dbf363089b0759f73fc7718c6949ae18e09368b68f2475fcd6b47f355c04c690dd63302725675e2093b65b2123b3de1e6d0964652fe9b6a16296854fff934780611dfb5e270ffbc01626e844c922b6772ddf691383313d0bf789f477fa8246d0eb222a291bb4b3b9a84e4d3b4df6f04a8327ebce846527d8029f391f0c9c69a2c3930c5f26c1c79acdf1308ac0defdc688f7c7d49c8817d611785bd016afccc71da3c43d45b4c4b8077dfc213d509eddcc66327a8b11ffd6d2366c2c2eef5ce87a17d285faa11e8a569cb905e83c5";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام إدارة النفايات
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام إدارة النفايات</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الخدمات البلدية والتخطيط والتطوير الحضري</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام إدارة النفايات</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام إدارة النفايات</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>145230</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="4d5bda56-cc0d-4b16-a025-ad9d00b281ab">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>حل هذا النظام محل نظام إدارة النفايات البلدية الصلبة، الصادر بالمرسوم الملكي رقم (م/48) وتاريخ 1434/9/17هـ.<br />
+وتضمن:</strong> التعريفات، أحكام عامة، مسؤولية منتج النفاية، التعاقد على تقديم خدمات إدارة النفايات، مسؤولية مقدم الخدمة، استيراد النفايات وتصديرها، التعامل مع الحالات الطارئة، المقابل المالي، المسؤولية المدنية والجزائية والتأهيل والتعويضات، المخالفات وضبطها وإيقاع العقوبات، أحكام ختامية، النشر والنفاذ.<br />
+&nbsp;</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام إدارة النفايات</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1443/01/05 هـ  الموافق : 13/08/2021 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1443/02/10  هـ الموافق : 17/09/2021 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/eacbfc16-69a1-4b2b-a284-ad9d00b281b4?lawId=4d5bda56-cc0d-4b16-a025-ad9d00b281ab">مرسوم ملكي رقم (م/3) وتاريخ 1443/1/5هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/01ddd526-7959-43db-b93e-ad9d00db2f28?lawId=4d5bda56-cc0d-4b16-a025-ad9d00b281ab">قرار مجلس الوزراء رقم (11) وتاريخ 1443/1/2هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="4d5bda56-cc0d-4b16-a025-ad9d00b281ab" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/f9f89227-c200-472d-b028-ad9d00b281da?lawId=4d5bda56-cc0d-4b16-a025-ad9d00b281ab" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="4d5bda56-cc0d-4b16-a025-ad9d00b281ab">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="4d5bda56-cc0d-4b16-a025-ad9d00b281ab" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام إدارة النفايات</h3>
+        <h3 class="center">1443 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/3) وتاريخ 1443/1/5هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالـى<br />
+&nbsp; &nbsp; نحن سلمان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ملك المملكة العربية السعودية</strong></p>
+
+<p><strong>بناءً على </strong>المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+<strong>وبناءً على</strong> المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+<strong>وبناءً على </strong>المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+<strong>وبناءً على </strong>الأمر الملكي رقم (أ / 97) بتاريخ 17 / 3 / 1418هـ.<br />
+<strong>وبعد الاطلاع </strong>على قرار مجلس الشورى قرار مجلس الشورى (140 / 26) بتاريخ 14 / 9 / 1442هـ.<br />
+<strong>وبعد الاطلاع</strong> على قرار مجلس الوزراء رقم (11) بتاريخ 2 / 1 / 1433هـ.&nbsp;</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:&nbsp;</strong></p>
+
+<p style="text-align:justify"><strong>أولاً:</strong> الموافقة على نظام إدارة النفايات، بالصيغة المرافقة.<br />
+<strong>ثانياً:&nbsp;</strong>استمرار العمل باختصاص وزارة الشؤون البلدية والقروية والإسكان فيما يتعلق برسوم جمع النفايات التجارية والسكنية -الواردة في رسوم الخدمات البلدية الموافق عليها بالمرسوم الملكي رقم (م / 71) بتاريخ 6 / 11 / 1437هـ- لمدة سنتين، على أن يقوم المركز الوطني لإدارة النفايات قبل انتهاء المدة المحددة بإتمام دراسة النموذج المالي المناسب للمنظومة، ومن ثم تحديد المقابل المالي المطلوب من كل فئة من فئات منتجي النفايات، واعتماده من مجلس إدارة المركز.<br />
+<strong>ثالثاً: </strong>استمرار العمل بعقود الاستثمار المتعلق بإدارة النفايات السارية وقت نفاذ النظام &ndash;المشار إليه في البند (أولاً) من هذا المرسوم &ndash; إلى حين انتهائها.<br />
+<strong>رابعاً:</strong> على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخصه- تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (11) وتاريخ 1443/1/2هـ</h4>
+            <p><p><strong>إن مجلس الوزراء<br />
+بعد الاطلاع </strong>على المعاملة الواردة من الديوان الملكي برقم 53659 وتاريخ 18 / 9 / 1442هـ، المشتملة على برقية معالي وزير البيئة والمياه والزراعة رقم 492658 / 1 / 1441 وتاريخ 23 / 7 / 1441هـ، في شأن مشروع نظام إدارة النفايات.<br />
+<strong>وبعد الاطلاع </strong>على مشروع النظام المشار إليه.&nbsp;<br />
+<strong>وبعد الاطلاع </strong>على الأمر الملكي<strong> </strong>رقم (أ / 97) وتاريخ 17 / 3 / 1418هـ.<br />
+<strong>وبعد الاطلاع </strong>على نظام إدارة النفايات البلدية الصلبة، الصادر بالمرسوم الملكي رقم (م / 48) وتاريخ 17 / 9 / 1434هـ.<br />
+<strong>وبعد الاطلاع </strong>على رسوم الخدمات البلدية،<strong> </strong>الصادرة بالمرسوم الملكي رقم (م / 71) وتاريخ 6 / 11 / 1437هـ.<br />
+<strong>وبعد الاطلاع </strong>على تنظيم المركز الوطني لإدارة النفايات، بقرار مجلس الوزراء رقم (457) وتاريخ 11 / 8 / 1440هـ.<br />
+<strong>وبعد الاطلاع</strong> على المذكرات<strong> </strong>رقم (794) وتاريخ 16 / 5 / 1442هـ، ورقم (1223) وتاريخ 23 / 7 / 1442هـ، ورقم (1327) وتاريخ 12 / 8 / 1442هـ، ورقم (1907) وتاريخ 3 / 11 / 1442هـ، ورقم (2098) وتاريخ 20 / 11 / 1442هـ، ورقم (2250) وتاريخ 15 / 12 / 1442هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع </strong>على التوصية المعدة في مجلس الشؤون الاقتصادية والتنمية رقم (12-48 / 42 / د) وتاريخ 5 / 12 / 1442هـ.<br />
+<strong>وبعد النظر </strong>في قرار مجلس الشورى (140 / 26) وتاريخ 14 / 9 / 1442هـ.<br />
+<strong>وبعد الاطلاع</strong> على توصية اللجنة العامة لمجلس الوزراء رقم (1) وتاريخ 1 / 1 / 1443هـ.&nbsp;</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً: </strong>الموافقة على نظام إدارة النفايات، بالصيغة المرافقة.<br />
+<strong>ثانياً:</strong> استمرار العمل باختصاص وزارة الشؤون البلدية والقروية والإسكان فيما يتعلق برسوم جمع النفايات التجارية والسكنية -الواردة في رسوم الخدمات البلدية الموافق عليها بالمرسوم الملكي رقم (م / 71) وتاريخ 6 / 11 / 1437هـ- لمدة سنتين، على أن يقوم المركز الوطني لإدارة النفايات قبل انتهاء المدة المحددة بإتمام دراسة النموذج المالي المناسب للمنظومة، ومن ثم تحديد المقابل المالي المطلوب من كل فئة من فئات منتجي النفايات، واعتماده من مجلس إدارة المركز.<br />
+<strong>ثالثاً: </strong>استمرار العمل بعقود الاستثمار المتعلقة بإدارة النفايات السارية وقت نفاذ النظام -المشار إليه في البند (أولاً) من هذا القرار- إلى حين انتهائها.<br />
+&nbsp;&nbsp;<strong> &nbsp;وقد اُعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.&nbsp;</strong><br />
+<strong>رابعاً: </strong>يمارس مجلس إدارة المركز الوطني لإدارة النفايات صلاحياته الواردة في المادة (الثانية والعشرين) من النظام -المشار إليه في البند (أولاً) من هذا القرار- بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية، وذلك إلى حين صدور (لائحة ممارسة الهيئات والمؤسسات العامة وما في حكمها فرض المقابل المالي للخدمات والأعمال التي تقدمها)، والعمل بها.&nbsp;<br />
+<strong>خامساً:</strong> قيام وزارة البيئة والمياه والزراعة -بالتنسيق مع من تراه من الجهات- خلال (ستين) يوماً من تاريخ صدور النظام -المشار إليه في البند (أولاً) من هذا القرار- بمراجعة الأنظمة والتنظيمات والقرارات التي تأثرت بصدوره، والرفع عنها وفقاً للإجراءات المتبعة.&nbsp;</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام إدارة النفايات</h1></div>
+
+            <h3 class="center">الفصل الأول ( التعريفات )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الأولى</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>&nbsp;يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:<br />
+النظام:</strong> نظام إدارة النفايات.<br />
+<strong>اللائحة: </strong>اللائحة التنفيذية للنظام.<br />
+<strong>المركز:</strong> المركز الوطني لإدارة النفايات.<br />
+<strong>الوزير: </strong>وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.<br />
+<strong>الجهة المختصة: </strong>الجهة الحكومية المسؤولة عن إدارة النفايات تشغيليًّا وفق نص نظامي خاص.<br />
+<strong>الشخص: </strong>الشخص ذو الصفة الطبيعية أو الاعتبارية.&nbsp;<br />
+<strong>النفايات: </strong>جميع المواد التي تُرمى أو يُتخلص منها، وتؤثر -بطريقة مباشرة أو غير مباشرة- في الصحة العامة أو البيئة.<br />
+<strong>منتج النفاية:</strong> كل شخص يُنتج نفايات مصنفة بناء على أحكام النظام.&nbsp;<br />
+<strong>إدارة النفايات: </strong>تنظيم أي نشاط أو ممارسة تتعلق بالنفايات من جمع النفايات ونقلها وفرزها وتخزينها ومعالجتها وتدويرها واستيرادها وتصديرها والتخلص الآمن منها، بما في ذلك العناية اللاحقة بمواقع التخلص من النفايات.<br />
+<strong>التصريح: </strong>وثيقة يمنحها المركز لمنشآت تدوير النفايات تفيد بتحقيقها ضوابط المركز واشتراطاته، قبل حصولها على التراخيص التي تصدرها الجهات المختصة وفق أنظمتها.<br />
+<strong>الرخصة:</strong> إذن مكتوب يصدره المركز للقيام بأي نشاط يتعلق بإدارة النفايات، وذلك وفقاً لما يحدده النظام واللائحة.<br />
+<strong>المصرح له: </strong>الشخص الحاصل على التصريح من المركز.<br />
+<strong>المرخص له:</strong> الشخص الحاصل على الرخصة من المركز.<br />
+<strong>مقدم الخدمة: </strong>الشخص المرخص له أو المصرح له بمزاولة نشاط من أنشطة إدارة النفايات.<br />
+<strong>النفايات الخطرة: </strong>النفايات المصنفة على أنها نفايات خطرة بناءً على أحكام النظام واللائحة، الناتجة من الأنشطة الصناعية أو غير الصناعية التي تحتوي على مواد سامة أو مواد قابلة للاشتعال أو للتفاعل، أو مواد مسببة للتآكل، أو مواد مذيبة، أو مواد مزيلة للشحوم، أو الزيوت، أو مواد ملونة، أو رواسب عجينية، أو أحماض وقلويات.<br />
+<strong>نفايات الوسائط البحرية: </strong>النفايات التي تنتج من جميع وسائط ووسائل النقل والوحدات العائمة التي تستخدم لمزاولة الأنشطة البحرية، وتشمل السفن وقوارب الصيد والنزهة البحرية، أو وسائط الرياضات البحرية.<br />
+<strong>تقليل النفايات: </strong>الحد من إنتاج النفايات إلى أدنى مستوى ممكن.<br />
+<strong>المنتجات: </strong>مواد أو سلع مصنعة أو مشتقة من مواد أخرى للبيع والاستهلاك.<br />
+<strong>إعادة استخدام المنتجات: </strong>إعادة استخدام المواد والموارد قدر المستطاع قبل تحويلها إلى نفاية.<br />
+<strong>الجمع:</strong> جمع النفايات من الحاويات المخصصة للتخزين بمختلف أحجامها وأنواعها؛ بوساطة الشاحنات والآليات المخصصة لذلك.<br />
+<strong>الفرز: </strong>فصل مكونات النفايات عن بعضها يدويّاً أو آليًّا، مثل: الورق، والزجاج، والمعادن، وغيرها من المكونات في المحطات الانتقالية، أو منشآت الفرز والمعالجة؛ وذلك بقصد تدويرها، أو معالجتها.<br />
+<strong>النقل: </strong>نقل النفايات بوسائط النقل المعتمدة إلى المحطات الانتقالية، أو منشآت المعالجة أو الفرز، أو المرادم المعتمدة.<br />
+<strong>وثيقة النقل:</strong> النموذج الذي تحدده الجهة المختصة لمتابعة النفايات من نقطة الإنتاج إلى نقطة التخزين أو المعالجة أو التخلص الآمن.<br />
+<strong>التدوير: </strong>عملية تحويل مكونات معينة من النفايات إلى مواد قابلة للاستخدام من أجل استرجاعها، أو استخدامها كمواد أولية في عمليات التصنيع.&nbsp;<br />
+<strong>المعالجة: </strong>استخدام الوسائل الفيزيائية، أو البيولوجية أو الكيميائية، أو مزيج من هذه الوسائل، أو غيرها؛ لإحداث تغيير في خصائص النفايات، من أجل تقليل حجمها، أو تسهيل عمليات التعامل معها عند إعادة استخدامها أو تدويرها، أو استخلاص بعض المنتجات منها أو لإزالة الملوثات العضوية وغيرها؛ من أجل التخفيض أو الاستفادة من بعض مكونات النفايات أو القضاء على احتمال تسببها بالأذى للبشر أو البيئة.<br />
+<strong>التخزين: </strong>حفظ مكونات النفايات أو بعضها مؤقتاً؛ لنقلها أو للاستفادة منها لاحقاً.&nbsp;<br />
+<strong>المحطات الانتقالية:</strong> المنشآت التي تُستخدم في مرحلة من مراحل عملية نقل النفايات إلى مواقع ومنشآت معالجة أو فرز النفايات أو إلى مواقع التخلص الآمن؛ من أجل تقليل تكلفة النقل.<br />
+<strong>الحرق: </strong>إشعال مكونات النفايات للتخلص منها، وذلك بطريقة الإشعال بالحرق المكشوف، أو بطريقة الحرق المتحكم به في محارق خاصة سواءً باسترجاع الطاقة، أو بدونها.&nbsp;<br />
+<strong>استرداد الموارد: </strong>عملية استخراج الطاقة أو المواد الأولية أو أي منتج آخر من النفايات واستخدامها مرة أخرى.<br />
+<strong>التخلص الآمن:</strong> التخزين أو التفكيك الآمن لأي نوع من أنواع النفايات بطريقة هندسية تمنع التسبب بأي تلوث أو أثر سلبي على البيئة من تربة وهواء ومياه وتنوع بيولوجي. وتتضمن هذه الطرق المدافن الهندسية والمحارق المجهزة وغيرها من التقنيات والمنشآت المرخصة، والتي تحتوي على التقنيات الفنية اللازمة لحماية الصحة والسلامة العامة والبيئة.<br />
+<strong>مسؤولية المنتج الممتدة:</strong> تحمل المنتج والمستورد للمنتجات المستوردة أو المصنعة محلياً أو المشتقة من مادة أخرى، المعدة للبيع أو الاستهلاك، المسؤولية القانونية والمالية لإدارة البقايا والنفايات ومعالجتها والتخلص الآمن منها، خلال دورتها الحياتية.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الثاني ( أحكام عامة )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثانية</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>يهدف النظام إلى تنظيم أنشطة جمع النفايات ونقلها وفرزها وتخزينها واستيرادها وتصديرها ومعالجتها والتخلص الآمن منها، بما في ذلك العناية اللاحقة بمواقع التخلص من النفايات.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثالثة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>لا تطبق أحكام النظام على النفايات المشعة والنووية والنفايات العسكرية.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الرابعة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>لا يجوز ممارسة أي نشاط يتعلق بإدارة النفايات إلا بعد الحصول على رخصة أو تصريح من المركز، وذلك بحسب شروط ومتطلبات كل نشاط، ووفقاً لما تحدده اللائحة.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الخامسة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>على كل من يمارس نشاطاً يتعلق بإدارة النفايات تقديم أفضل النتائج البيئية والاقتصادية، وفق الأولويات الآتية: &nbsp;</strong></p>
+
+<ol>
+	<li>التدوير.</li>
+	<li>استرداد الموارد.</li>
+	<li>التخلص الآمن.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السادسة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>دون إخلال بما تقضي به الأحكام النظامية ذات الصلة، على كل شخص معني بتنفيذ برامج أو خطط أو مبادرات تطوعية تتعلق بإدارة النفايات؛ استيفاء الضوابط الصادرة من المركز، وذلك وفقاً لما تحدده اللائحة.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السابعة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>تنتقل ملكية النفايات إلى الدولة في الحالتين الآتيتين:&nbsp;</strong></p>
+
+<ol>
+	<li>وضع النفايات في الحاويات المخصصة لها، أو بقربها.</li>
+	<li>وضع النفايات في أي موقع عام لتخزينها، أو في مواقع التخلص الآمن منها.<br />
+	<strong>وللمركز الحق في التصرف بالنفايات بما يحقق الاستدامة المالية ويغطي التكاليف التشغيلية للجهات المختصة. ويجوز للجهات المختصة التصرف بالنفايات بعد موافقة المركز، وفقاً لما تحدده اللائحة.</strong></li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثامنة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>يحظر ترك النفايات بأنواعها أو دفنها أو حرقها أو إغراقها أو رميها؛ في غير الأماكن المخصصة لها. وتحدد اللائحة الضوابط اللازمة لذلك.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة التاسعة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li>يعد المركز المخطط الاستراتيجي الشامل لإدارة النفايات في المملكة بالتنسيق مع الجهات ذات العلاقة مع تحديثه بحسب الحاجة، ويعد أيضاً خططاً للطوارئ، وفقاً لما تحدده اللائحة.</li>
+	<li>على كل جهة مختصة وضع الخطط التنفيذية لإدارة النفايات المتوافقة مع المخطط الاستراتيجي الشامل لإدارة النفايات الصادر من المركز.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة العاشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>يقوم المركز بالآتي:&nbsp;</strong></p>
+
+<ol>
+	<li>إصدار الضوابط والمتطلبات الواجب على مقدم الخدمة ومنتج النفاية اتباعها.</li>
+	<li>تصنيف النفايات وفقاً لخطورتها وتأثيراتها في الصحة العامة والبيئة؛ ووضع الأحكام والشروط اللازمة لذلك.</li>
+</ol></div></p>
+                </div>
+            <h3 class="center">الفصل الثالث ( مسؤولية منتج النفاية )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الحادية عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>&nbsp; &nbsp;على مُنتج النفاية التقيد بالتدابير الآتية:</strong></p>
+
+<ol>
+	<li>ترشيد استخدام المواد والموارد الطبيعية.</li>
+	<li>إعادة استخدام المنتجات.</li>
+	<li>تقليل النفايات.</li>
+	<li>تخزين النفايات في الأماكن المخصصة لها، وذلك وفقًا لما تحدده اللائحة من اشتراطات.&nbsp;</li>
+	<li>فرز النفايات التي يمكن إعادة استخدامها أو تدويرها؛ وذلك بوضعها في الأماكن المحددة لها بعد إنتاجها. وتحدد اللائحة أنواع هذه النفايات.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثانية عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>مع مراعاة ما ورد في المادة (الحادية عشرة) من النظام، على المجمعات السكنية والتجارية والجهات الإدارية الحكومية؛ التعاقد مع مقدم خدمة مرخص له، وذلك وفقًا لما تحدده اللائحة.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثالثة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li>على قائد الواسطة البحرية أو مالكها تسليم النفايات الناتجة عن تلك الوسائط أو عن عملية تشغيلها، وكذلك تسليم مجمل النفايات الواردة في الاتفاقيات الدولية التي تكون المملكة طرفاً فيها؛ في مرافق استقبال النفايات العاملة في الموانئ، أو وفق الآلية التي تحددها الجهات المختصة لمعالجة نفايات الوسائط البحرية.</li>
+	<li>على الهيئة العامة للموانئ توفير الآلية اللازمة لمرافق استقبال النفايات الناتجة عن أنشطة الموانئ، ونفايات الوسائط البحرية، أو إرسالها إلى مرافق أخرى مرخصة من المركز للتخلص منها، وذلك وفقاً لما تحدده اللائحة.</li>
+	<li>على جميع الموانئ التعاقد مع مقدمي خدمات مرخص لهم من المركز لنقل ومعالجة النفايات التي يتم استقبالها في الموانئ أو الناتجة عن عملياتها.</li>
+	<li>يجب تزويد المركز دوريًّا بنسخة من سجلات ووثائق استقبال نفايات الوسائط البحرية؛ تشمل حجم وأنواع النفايات التي تم استقبالها، مع توضيح آليات وأماكن معالجتها.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الرابعة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>على كل منتج ومستورد، تحمل مسؤولية المنتج الممتدة، تحقيقاً للاستدامة المالية بقطاع إدارة النفايات المبنية على مبدأ الاقتصاد الدائري. وتحدد اللائحة الإجراءات والضوابط والاشتراطات اللازمة لذلك.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الرابع ( التعاقد على تقديم خدمات إدارة النفايات )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الخامسة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>ينظم المركز التعاقد بين الجهة المختصة ومقدمي خدمات إدارة النفايات. وتحدد اللائحة الشروط والضوابط والمعايير اللازمة لذلك، وفقًا للأنظمة ذات العلاقة.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الخامس ( مسؤولية مقدم الخدمة )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السادسة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li>على مقدم الخدمة التخلص من النفايات بالطرق التي يحددها المركز ووفقاً للائحة.</li>
+	<li>على مقدم الخدمة التأكد من صحة المعلومات المتعلقة بالنفايات التي ترد له، واستكمال معلومات سجل ووثيقة النقل، والتأكد من أنها داخلة ضمن اختصاصه المرخص له.</li>
+	<li>على مقدم الخدمة المتعاقد مع إحدى الجهات الحكومية تقديم تقارير دورية للمركز، وذلك وفقاً لما تحدده اللائحة.&nbsp;</li>
+	<li>على مقدمي خدمات النقل والتخزين والمعالجة والتخلص الآمن؛ الالتزام بمتطلبات وثيقة النقل، وذلك وفقاً لما تحدده اللائحة.</li>
+	<li>على مقدمي خدمات المعالجة والتدوير والتخلص الآمن؛ قبول أي نوع من أنواع النفايات الداخلة ضمن اختصاصاتهم المرخصة لهم.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السابعة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>على مقدم الخدمة المرخص له بنقل النفايات الخطرة؛ التقيد بالآتي:</strong></p>
+
+<ol>
+	<li>نقل النفايات من خلال وسائط نقل تتوافق مواصفاتها مع ما يحدده المركز.</li>
+	<li>وضع العلامات التحذيرية على وسائط النقل.&nbsp;</li>
+	<li>التأكد من توفر الوثائق الخاصة بالنفايات الخطرة.</li>
+	<li>إشعار السلطة المختصة بخطوط سير وسائط نقل النفايات الخطرة، وإبلاغها بأي تغيير يطرأ عليها.</li>
+	<li>الالتزام بعدم مرور الوسائط الناقلة للنفايات الخطرة داخل التجمعات السكنية ووسط المدينة خلال الأوقات التي تحددها السلطة المختصة.</li>
+	<li>إشعار السلطة المختصة بعنوان المواقف التي تُوقف فيها وسائط نقل النفايات الخطرة.&nbsp;</li>
+	<li>غسل وتطهير وسائط نقل النفايات الخطرة بعد كل استخدام طبقًا للتعليمات والإرشادات بالتنسيق مع السلطة المختصة.&nbsp;<br />
+	<strong>وتحدد اللائحة السجلات والوثائق التي يجب أن يحتفظ بها مقدم خدمة نقل النفايات الخطرة، وكذلك الضوابط والشروط اللازمة لتنفيذ ما ورد في هذه المادة من أحكام.</strong></li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثامنة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>على مقدم خدمة النقل -في حال عدم إمكان إيصال النفايات بمختلف أنواعها إلى وجهتها المعتمدة- إرجاعها إلى منتج النفاية ليتحمل مسؤولية اتخاذ الإجراءات اللازمة لمعالجتها والتخلص منها وفقاً لما تحدده اللائحة.</p></div></p>
+                </div>
+            <h3 class="center">الفصل السادس ( استيراد النفايات وتصديرها )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة التاسعة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>دون إخلال بالأحكام الواردة في الاتفاقيات الدولية -ذات الصلة - التي تكون المملكة طرفاً فيها:&nbsp;</strong></p>
+
+<ol>
+	<li>يحظر استيراد أو إدخال النفايات الخطرة إلى المملكة أو إلى مياهها الإقليمية أو المناطق البحرية الأخرى التي تمارس عليها المملكة حقوق السيادة أو حقوق الولاية طبقاً للقانون الدولي، دون الحصول على الرخصة، وتحدد اللائحة الشروط اللازمة لذلك.&nbsp;</li>
+	<li>لا يجوز استيراد النفايات أو المواد التي تم تدويرها التي يحددها المركز، ولا تصديرها ولا إعادة تصديرها ولا عبورها؛ دون الحصول على الرخصة.</li>
+	<li>لا يجوز استيراد الأجهزة والمعدات والمنتجات غير الجديدة أو التي تم تدويرها والتي يحددها ويصنفها المركز بأنها نفايات، أو تصديرها أو تدويرها، دون الحصول على الرخصة.</li>
+	<li>يكون التخلص الآمن أو معالجة أي من النفايات أو المواد والأجهزة والمعدات والمنتجات غير الجديدة أو التي تم تدويرها -المشار إليها في الفقرتين (2) و(3) من هذه المادة- وفقاً لما يحدده المركز.</li>
+	<li>لمجلس إدارة المركز اقتراح تحصيل رسوم على استيراد النفايات وتصديرها وعبورها، والرفع بذلك وفقاً للإجراءات النظامية.</li>
+</ol></div></p>
+                </div>
+            <h3 class="center">الفصل السابع ( التعامل مع الحالات الطارئة )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة العشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>للوزير أو من يفوضه -بعد التنسيق مع الجهات المعنية- اتخاذ أيٍّ من الإجراءات الاحترازية الآتية:</strong></p>
+
+<ol>
+	<li>تفعيل خطة الطوارئ المتعلقة بمباشرة نشاط إدارة النفايات في حالات الضرورة أو الظروف الاستثنائية؛ وذلك وفقاً لما تحدده اللائحة.</li>
+	<li>إيقاف النشاط جزئيّاً أو كليّاً -بحسب الأحوال- لمدة لا تزيد على (ثلاثين) يوماً في حال ضبط أي مخالفة تتطلب اتخاذ إجراء عاجل لتفادي وقوع كارثة، وإحالة المخالف إلى الجهة المختصة بالتحقيق معه.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الحادية والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>على مقدم الخدمة في حالة الحوادث الطارئة أو الأخطاء الجسيمة التي تُسبب خللاً في سير العمل عند إدارة النفايات؛ أن يشعر المركز بذلك، وأن يقدم تقريراً يبين فيه أسباب الحادث والتدابير التي اتخذها للسيطرة عليه، وما ترتب على ذلك من آثار، وذلك وفقاً لما تحدده اللائحة.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الثامن ( المقابل المالي )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثانية والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>لمجلس إدارة المركز ما يلي:</strong></p>
+
+<ol>
+	<li>تحديد المقابل المالي للتراخيص والتصاريح والخدمات والأعمال التي يقدمها في مجال اختصاصه.</li>
+	<li>تحديد المقابل المالي على منتجي النفايات أخذاً بالاعتبار التكلفة التشغيلية من الجهات المختصة.<br />
+	<strong>وذلك وفقاً للضوابط والاشتراطات التي تحددها اللائحة.</strong></li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثالثة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>للمركز أن يسند تقديم بعض خدماته إلى القطاع الخاص.</p></div></p>
+                </div>
+            <h3 class="center">الفصل التاسع ( المسؤولية المدنية والجزائية والتأهيل والتعويضات )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الرابعة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>تشمل الأضرار التي تترتب عليها المسؤولية المدنية أو الجزائية أو كلتاهما -على سبيل المثال لا الحصر- ما يأتي:</strong></p>
+
+<ol>
+	<li>فقدان الممتلكات أو تلفها، أو الخسارة الاقتصادية الناتجة عن ذلك.</li>
+	<li>تكاليف استعادة الأوضاع الطبيعية في البيئة المتضررة، ما لم تُتخذ التدابير اللازمة لاستعادة الأوضاع الطبيعية.</li>
+	<li>خسارة الدخل الناتج من البيئة المتضررة.</li>
+	<li>الوفاة أو الإصابة أو الإعاقة.<br />
+	<strong>ومع عدم الإخلال بأي حقوق أو تعويضات قد تنشأ بموجب نظام آخر، يشترط أن تكون هذه الأضرار قد نشأت من تعمد إيقاعها، أو الإهمال الجسيم، أو سوء إدارة النفايات، أو عدم الالتزام بالنظام أو اللائحة.</strong></li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الخامسة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>على مقدم الخدمة الذي يقوم بتشغيل منشأة لإدارة النفايات -عند حصوله على الرخصة- أن يقدم ضماناً ماليًّا أو تأميناً يغطي مسؤوليته عن الأضرار المتعلقة بالمسؤولية المدنية، وذلك وفقاً لما تحدده اللائحة.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السادسة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li>يتحمل منتج النفاية ومقدم الخدمة المسؤولية المدنية والجزائية عن أي ضرر أو خطر على البيئة أو على الصحة والسلامة العامة وفقاً لما تحدده الأحكام النظامية ذات الصلة، بالإضافة إلى مسؤوليته عن معالجة وإزالة مختلف الأضرار والأخطار على البيئة أو على الغير؛ الناتجة عن إدارته للنفايات وعن المنتجات الثانوية المتولدة عنها.</li>
+	<li>يجب نقل النفايات بطريقة لا تشكل تلوثاً للبيئة. وفي حالة التلوث الناجم عن أنشطة النقل، يكون الناقل مسؤولاً عن عمليات التنظيف وإعادة الوضع الطبيعي للبيئة، بالإضافة إلى مسؤوليته عما يترتب على ذلك من أضرار.&nbsp;</li>
+	<li>كل شخص يودع أو يستودع النفايات لدى شخص آخر غير مرخص له بذلك؛ يعد مسؤولاً بالتضامن مع هذا الشخص عن الأضرار والتعويضات الناجمة عن هذه النفايات.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السابعة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>مع عدم الإخلال بالأحكام النظامية ذات الصلة، يحدد المركز وفق أسس علمية وعادلة مبلغ المسؤولية التي يتحملها مقدم الخدمة أو منتج النفاية؛ تجاه الأضرار الناتجة عن نشاطاتهما المتعلقة بإدارة النفايات واتخاذ الإجراءات النظامية لاعتماده من الوزير، وذلك وفقًا لما تحدده اللائحة.</p></div></p>
+                </div>
+            <h3 class="center">الفصل العاشر ( المخالفات وضبطها وإيقاع العقوبات )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثامنة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li><strong>دون إخلال بحكم المادة (الثلاثين) من النظام، يتولى مفتشون -يصدر بتحديدهم قرار من الوزير- مجتمعين أو منفردين ضبط مخالفات أحكام النظام واللائحة، وإثباتها، والتحقيق فيها، وتحدد اللائحة آليات عملهم.</strong></li>
+	<li><strong>للمفتش ما يأتي:</strong><br />
+	<strong>أ- </strong>أخذ عينات من المواد والأصناف الموجودة لدى المنشأة المشتبه بارتكابها مخالفة لأي من أحكام النظام واللائحة، إذا لزم الأمر، على أن يحرر محضر ضبط بهذه الواقعة تدوَّن فيه جميع البيانات اللازمة للتثبت من العينات نفسها والمواد والأصناف التي أخذت منها، وكذلك الاحتفاظ بنسخة من سجلات المنشأة محل التفتيش وبياناتها؛ وذلك وفقاً لما تحدده اللوائح.<br />
+	<strong>ب- </strong>التحفظ -على نفقة المخالف في حال ثبوت المخالفة- على المركبات والأدوات المستخدمة (أو التي يشتبه في استخدامها) في ارتكاب المخالفة، وتسليمها بوصفها مضبوطات إلى الجهة المختصة، على أن يعرض ذلك على المحكمة المختصة -خلال مدة لا تزيد على (سبعة) أيام- لتأكيد التحفظ أو إلغائه؛ وذلك وفقاً لما تحدده اللائحة.&nbsp;</li>
+	<li><strong>يُحظر منع المفتش أو إعاقته عن تأديته أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصه.</strong></li>
+	<li><strong>للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية إلى شركات متخصصة ومؤهلة، وذلك وفقاً للضوابط والمعايير التي تحددها اللائحة.</strong></li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة التاسعة والعشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (30.000.000) ثلاثين مليون ريال، أو بإحدى هاتين العقوبتين، كل من يقوم بتخزين النفايات أو حرقها أو معالجتها، أو إغراقها أو التخلص منها بأي طريقة تشكل خطراً على الصحة العامة أو ضرراً على البيئة.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>تتولى النيابة العامة التحقيق والادعاء في المخالفات المشار إليها في المادة (التاسعة والعشرين) من النظام؛ أمام المحكمة المختصة.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الحادية والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><br />
+<strong>تتولى المحكمة المختصة النظر في المخالفات المشار إليها في المادة (التاسعة والعشرين) من النظام، ولها القيام بالآتي:</strong></p>
+
+<ol>
+	<li>إيقاع العقوبات المنصوص عليها في المادة (التاسعة والعشرين) من النظام.</li>
+	<li>الحكم بمصادرة المضبوطات محل المخالفة.</li>
+	<li>فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بما لا يزيد على (10%) من مبلغ الغرامة الوارد في المادة (التاسعة والعشرين)، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده الحكم.</li>
+	<li>مضاعفة الغرامة الموقعة على المخالف حال العود. ويعد عائداً كل من عاد إلى ارتكاب المخالفة خلال (ثلاث) سنوات من تاريخ اكتساب الحكم القطعية.</li>
+	<li>تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المخالف في صحيفة محلية تصدر في مكان إقامته، فإن لم يكن في مكان إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون نشره بعد اكتساب الحكم القطعية.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثانية والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li><strong>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام النظام واللائحة وشروط الرخصة والتصريح -عدا المخالفات الواردة في المادة (التاسعة والعشرين) - بواحدة أو أكثر من العقوبات الآتية:<br />
+	أ- </strong>غرامة لا تزيد على (10.000.000) عشرة ملايين ريال.&nbsp;<br />
+	<strong>ب-</strong> تعليق الرخصة أو التصريح لمدة لا تتجاوز (ستة) أشهر.ج- إلغاء الرخصة أو التصريح.&nbsp;<br />
+	وتضاعف العقوبة على المخالف حال العود. ويعد عائداً كل من عاد إلى ارتكاب المخالفة خلال (ثلاث) سنوات من تاريخ تحصن القرار بمضي المدة المحددة نظاماً، أو اكتساب الحكم الصادر في شأنه القطعية.</li>
+	<li><strong>يُصدر الوزير -بقرار منه- جدول تصنيف للمخالفات -عدا المخالفات الواردة في المادة (التاسعة والعشرين) من النظام- وتحديداً للعقوبات ضمن حدها المنصوص عليه في هذه المادة، يراعى فيه طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها. ويتولى المركز إيقاع عقوبة الغرامة التي لا تزيد على (100.000) مائة ألف ريال، وفقاً لجدول التصنيف.</strong></li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثالثة والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li>يتولى النظر في مخالفات أحكام النظام واللائحة -عدا المخالفات الواردة في المادة (التاسعة والعشرين) - وإيقاع العقوبات المنصوص عليها في المادة (الثانية والثلاثين) من النظام؛ لجنة (أو أكثر) تشكل بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، وتتكون من أعضاء لا يقل عددهم عن (ثلاثة) أعضاء، ويحدد قرار تشكيلها من يتولى رئاستها؛ على أن يكون من المختصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية، وتكون مسببة، ويعتمدها الوزير.&nbsp;</li>
+	<li>تحدد اللائحة قواعد عمل اللجنة وإجراءاتها ومكافآت أعضائها.&nbsp;</li>
+	<li>يجوز الاعتراض على قرارات اللجنة أمام المحكمة المختصة خلال (ستين) يوماً من تاريخ الإبلاغ بالقرار.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الرابعة والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>بالإضافة إلى العقوبات الواردة في المادة (الثانية والثلاثين)، للجنة المشار إليها في المادة (الثالثة والثلاثين) من النظام، القيام بالآتي:</strong></p>
+
+<ol>
+	<li>فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بما لا يزيد على (10%) من مبلغ الغرامة الواردة في الفقرة (1) من المادة (الثانية والثلاثين) من النظام، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده القرار.</li>
+	<li>تضمين القرار الصادر بالعقوبة النص على نشر ملخصه على نفقة المخالف في صحيفة محلية تصدر في مكان إقامته، فإن لم يكن في مكان إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون نشره بعد تحصن القرار بمضي المدة المحددة نظاماً.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الخامسة والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>على المخالف إزالة الآثار المترتبة على المخالفة وإعادة التأهيل ودفع التعويضات المترتبة على المخالفة، وذلك وفقاً لما تحدده اللائحة.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الحادي عشر ( أحكام ختامية )</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السادسة والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>يصدر الوزير اللائحة بالتنسيق مع وزير الشؤون البلدية والقروية والإسكان ووزير الصحة، خلال (ستين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السابعة والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p><strong>يحل هذا النظام محل نظام إدارة النفايات البلدية الصلبة، </strong>الصادر بالمرسوم الملكي رقم (م / 48) وتاريخ 17 / 9 / 1434هـ.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثامنة والثلاثون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>يعمل بالنظام بعد مضي (ستين) يومًا من تاريخ نشره في الجريدة الرسمية.</p></div></p>
+                </div>
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="4d5bda56-cc0d-4b16-a025-ad9d00b281ab" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="c3bf28ef-821a-435b-8d70-ad9d00c3e03a">المادة الأولى </option>
+<option value="2e3c02f0-9e0d-4493-af14-ad9d00c4334a">المادة الثانية </option>
+<option value="e53b0eda-a31b-4a1e-b62a-ad9d00c7f671">المادة الحادية عشرة </option>
+<option value="60a4dcfd-20bd-41a7-925a-ad9d00c91109">المادة الخامسة عشرة </option>
+<option value="92a4b885-8d84-4c50-abad-ad9d00c97f13">المادة السادسة عشرة </option>
+<option value="3d542c5c-1620-4e58-80ae-ad9d00ca5745">المادة التاسعة عشرة </option>
+<option value="95115b6b-b45a-4929-b137-ad9d00cabb00">المادة العشرون </option>
+<option value="11c3162a-1e0b-43c9-b828-ad9d00cb22be">المادة الثانية والعشرون </option>
+<option value="ca9da00b-70ea-4ed3-af58-ad9d00cbb0ee">المادة الرابعة والعشرون </option>
+<option value="62405447-e5ec-41e2-9048-ad9d00cc94ac">المادة الثامنة والعشرون </option>
+<option value="b2c9f07a-e838-4ae6-bbcb-ad9d00cdfadb">المادة السادسة والثلاثون </option>
+<option value="d5423325-825b-4764-ac1e-ad9d00ce1b4d">المادة السابعة والثلاثون </option>
+<option value="d8729c91-0826-417e-92ae-ad9d00ccae08">المادة التاسعة والعشرون </option>
+<option value="edb8e8b6-35e3-4724-a8a9-ad9d00cbc781">المادة الخامسة والعشرون </option>
+<option value="13857481-ebe2-4485-8724-ad9d00cb39c2">المادة الثالثة والعشرون </option>
+<option value="c3fd8b80-6fcf-434a-87ef-ad9d00cad0d9">المادة الحادية والعشرون </option>
+<option value="19445d8f-76cd-4717-b0ab-ad9d00c9cc1a">المادة السابعة عشرة </option>
+<option value="bef4280e-7a79-49f1-938b-ad9d00c81218">المادة الثانية عشرة </option>
+<option value="32c05a99-c0c4-4b6a-8986-ad9d00c45b73">المادة الثالثة </option>
+<option value="49a184fb-3ace-4458-8f8b-ad9d00c47834">المادة الرابعة </option>
+<option value="0245ed30-c096-4b63-8e47-ad9d00c83c77">المادة الثالثة عشرة </option>
+<option value="4c290886-9ce8-4fb0-8ee3-ad9d00c9e439">المادة الثامنة عشرة </option>
+<option value="0acb6d5b-efc5-49d5-889d-ad9d00cbe9dd">المادة السادسة والعشرون </option>
+<option value="d45c9349-3eeb-4f1d-a4a5-ad9d00ccc19f">المادة الثلاثون </option>
+<option value="54c08a9d-6a61-4d4a-a732-ad9d00ce3d48">المادة الثامنة والثلاثون </option>
+<option value="c896c17b-3b48-4aba-8412-ad9d00ccfc62">المادة الحادية والثلاثون </option>
+<option value="3b127793-b646-4388-a229-ad9d00cbffd0">المادة السابعة والعشرون </option>
+<option value="077bbf36-0093-48ed-8d5e-ad9d00c8530c">المادة الرابعة عشرة </option>
+<option value="d32cd52c-ff34-457e-abd7-ad9d00c6ed90">المادة الخامسة </option>
+<option value="36fdfd37-f093-45ae-9e3d-ad9d00c705be">المادة السادسة </option>
+<option value="2c25d477-d73e-4bd9-908b-ad9d00cd6032">المادة الثانية والثلاثون </option>
+<option value="bbff0f06-7ccb-4fb6-ae68-ad9d00cd8543">المادة الثالثة والثلاثون </option>
+<option value="6c5e70c6-1e57-4065-9aa7-ad9d00c73034">المادة السابعة </option>
+<option value="fd97e05c-faee-413d-8d2b-ad9d00c7482c">المادة الثامنة </option>
+<option value="de90edf4-55ab-44c0-98e9-ad9d00cdaa9d">المادة الرابعة والثلاثون </option>
+<option value="42244fcb-5d5c-4f88-af8f-ad9d00cdbe19">المادة الخامسة والثلاثون </option>
+<option value="d681ec9e-e01c-4c39-83e8-ad9d00c7689d">المادة التاسعة </option>
+<option value="cc0ea0ae-6123-4d9d-a515-ad9d00c786fb">المادة العاشرة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaFTFK' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaFTFK' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaFTFK = new CaptchaWidget('divCaptchaContainer_captchaFTFK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaFTFK.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription4d5bda56-cc0d-4b16-a025-ad9d00b281ab" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="4d5bda56-cc0d-4b16-a025-ad9d00b281ab" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaDFNM' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaDFNM' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-4d5bda56-cc0d-4b16-a025-ad9d00b281ab">
+                    <input type="checkbox" id="agreement-4d5bda56-cc0d-4b16-a025-ad9d00b281ab" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='4d5bda56-cc0d-4b16-a025-ad9d00b281ab' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-4d5bda56-cc0d-4b16-a025-ad9d00b281ab"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-4d5bda56-cc0d-4b16-a025-ad9d00b281ab"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaFTFK = new CaptchaWidget('divCaptchaContainer_captchaFTFK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaFTFK.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaDFNM = new CaptchaWidget('divCaptchaContainer_captchaDFNM', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaDFNM.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="4d5bda56-cc0d-4b16-a025-ad9d00b281ab">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaFTFK = new CaptchaWidget('divCaptchaContainer_captchaFTFK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaFTFK.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaDFNM = new CaptchaWidget('divCaptchaContainer_captchaDFNM', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaDFNM.load(); 
+                    }); </script>
+</body>
+
+</html>

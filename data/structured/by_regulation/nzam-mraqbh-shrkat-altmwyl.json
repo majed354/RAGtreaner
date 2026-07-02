@@ -1,0 +1,2933 @@
+{
+  "metadata": {
+    "slug": "nzam-mraqbh-shrkat-altmwyl",
+    "title_ar": "نظام مراقبة شركات التمويل",
+    "status": "ساري",
+    "issue_date_hijri": "1433/08/13 هـ الموافق : 03/07/2012 مـ",
+    "issue_date_gregorian": "2012-07-03",
+    "publish_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+    "publish_date_gregorian": "2012-08-31",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f53c97f5-d253-4828-89d4-a9a700f2d829/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-mraqbh-shrkat-altmwyl.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-mraqbh-shrkat-altmwyl.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+    "effective_date_gregorian": "2012-08-31",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 40,
+    "paragraph_count": 124,
+    "indexable_paragraph_count": 124,
+    "text_chars": 13513,
+    "verbatim_chars": 13514,
+    "citation_base_ar": "نظام مراقبة شركات التمويل",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f53c97f5-d253-4828-89d4-a9a700f2d829/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-mraqbh-shrkat-altmwyl.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-mraqbh-shrkat-altmwyl.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright",
+        "e_commerce",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تجارة إلكترونية",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\n\nالنظام : نظام مراقبة شركات التمويل.\n\nاللائحة : اللائحة التنفيذية لهذا النظام.\n\nالمؤسسة : مؤسسة النقد العربي السعودي.\n\nالمحافظ : محافظ مؤسسة النقد العربي السعودي.\n\nشركة التمويل : الشركة المساهمة الحاصلة على ترخيص لممارسة نشاط التمويل.\n\nالمستفيد : الشخص الحاصل على التمويل.\n\nالمستهلك : من توجه له خدمات شركات التمويل.\n\nالترخيص : التصريح الذي تصدره المؤسسة لشركة ما بممارسة نشاط التمويل.\n\nالتمويل : منح الائتمان بعقود للأنشطة المنصوص عليها في هذا النظام.",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\n\nالنظام : نظام مراقبة شركات التمويل.\n\nاللائحة : اللائحة التنفيذية لهذا النظام.\n\nالمؤسسة : مؤسسة النقد العربي السعودي.\n\nالمحافظ : محافظ مؤسسة النقد العربي السعودي.\n\nشركة التمويل : الشركة المساهمة الحاصلة على ترخيص لممارسة نشاط التمويل.\n\nالمستفيد : الشخص الحاصل على التمويل.\n\nالمستهلك : من توجه له خدمات شركات التمويل.\n\nالترخيص : التصريح الذي تصدره المؤسسة لشركة ما بممارسة نشاط التمويل.\n\nالتمويل : منح الائتمان بعقود للأنشطة المنصوص عليها في هذا النظام.",
+      "paragraph_count": 10,
+      "indexable_paragraph_count": 10,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "النظام : نظام مراقبة شركات التمويل.",
+          "text_for_index": "النظام : نظام مراقبة شركات التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة : اللائحة التنفيذية لهذا النظام.",
+          "text_for_index": "اللائحة : اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المؤسسة : مؤسسة النقد العربي السعودي.",
+          "text_for_index": "المؤسسة : مؤسسة النقد العربي السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المحافظ : محافظ مؤسسة النقد العربي السعودي.",
+          "text_for_index": "المحافظ : محافظ مؤسسة النقد العربي السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "شركة التمويل : الشركة المساهمة الحاصلة على ترخيص لممارسة نشاط التمويل.",
+          "text_for_index": "شركة التمويل : الشركة المساهمة الحاصلة على ترخيص لممارسة نشاط التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المستفيد : الشخص الحاصل على التمويل.",
+          "text_for_index": "المستفيد : الشخص الحاصل على التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المستهلك : من توجه له خدمات شركات التمويل.",
+          "text_for_index": "المستهلك : من توجه له خدمات شركات التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الترخيص : التصريح الذي تصدره المؤسسة لشركة ما بممارسة نشاط التمويل.",
+          "text_for_index": "الترخيص : التصريح الذي تصدره المؤسسة لشركة ما بممارسة نشاط التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "التمويل : منح الائتمان بعقود للأنشطة المنصوص عليها في هذا النظام.",
+          "text_for_index": "التمويل : منح الائتمان بعقود للأنشطة المنصوص عليها في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثانية",
+      "text_verbatim": "يسري هذا النظام على شركات التمويل التي يرخص لها وفقاً لأحكامه.",
+      "text_for_index": "يسري هذا النظام على شركات التمويل التي يرخص لها وفقاً لأحكامه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يسري هذا النظام على شركات التمويل التي يرخص لها وفقاً لأحكامه.",
+          "text_for_index": "يسري هذا النظام على شركات التمويل التي يرخص لها وفقاً لأحكامه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثالثة",
+      "text_verbatim": "تزاول الشركات - المرخص لها بموجب هذا النظام - أعمال التمويل بما لا يتعارض مع أحكام الشريعة الإسلامية، بناءً على ما تقرره لجان شرعية تختار أعضاءها تلك الشركات، وبما لا يخل بسلامة النظام المالي وعدالة التعاملات.",
+      "text_for_index": "تزاول الشركات - المرخص لها بموجب هذا النظام - أعمال التمويل بما لا يتعارض مع أحكام الشريعة الإسلامية، بناءً على ما تقرره لجان شرعية تختار أعضاءها تلك الشركات، وبما لا يخل بسلامة النظام المالي وعدالة التعاملات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تزاول الشركات - المرخص لها بموجب هذا النظام - أعمال التمويل بما لا يتعارض مع أحكام الشريعة الإسلامية، بناءً على ما تقرره لجان شرعية تختار أعضاءها تلك الشركات، وبما لا يخل بسلامة النظام المالي وعدالة التعاملات.",
+          "text_for_index": "تزاول الشركات - المرخص لها بموجب هذا النظام - أعمال التمويل بما لا يتعارض مع أحكام الشريعة الإسلامية، بناءً على ما تقرره لجان شرعية تختار أعضاءها تلك الشركات، وبما لا يخل بسلامة النظام المالي وعدالة التعاملات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright",
+        "e_commerce",
+        "product_safety"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تجارة إلكترونية",
+        "سلامة المنتجات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الرابعة",
+      "text_verbatim": "• تحظر مزاولة أي من نشاطات التمويل المحددة في هذا النظام إلا بعد الحصول على ترخيص بذلك وفق أحكام هذا النظام، أو الأنظمة المرعية الأخرى.\n\n\t• يحظر على أي شخص غير مرخص له أن يستعمل - بأي وسيلة - ما يـدل على مزاولة نشاطات التمويل المحددة في هـذا النظام أو ما يوحي بمعناها، أو أن يستعمل في وثائقه، أو أوراقه، أو إعلاناته، أي لفظ أو عبارة ترادفها.\n\n\t• استثناءً من حكم الفقرتين (1) و (2) من هذه المادة؛ تنظم اللائحة أحكام مزاولة الشخص ذي الصفة الطبيعية أو المعنوية تمويل سلع منشآته أو خدماته لزبائنه؛ بما يمكن المؤسسة من ممارسة سلطتها النقدية، ويحمي النظام المالي، ويحقق حماية المستهلك.",
+      "text_for_index": "• تحظر مزاولة أي من نشاطات التمويل المحددة في هذا النظام إلا بعد الحصول على ترخيص بذلك وفق أحكام هذا النظام، أو الأنظمة المرعية الأخرى.\n\n • يحظر على أي شخص غير مرخص له أن يستعمل - بأي وسيلة - ما يـدل على مزاولة نشاطات التمويل المحددة في هـذا النظام أو ما يوحي بمعناها، أو أن يستعمل في وثائقه، أو أوراقه، أو إعلاناته، أي لفظ أو عبارة ترادفها.\n\n • استثناءً من حكم الفقرتين (1) و (2) من هذه المادة؛ تنظم اللائحة أحكام مزاولة الشخص ذي الصفة الطبيعية أو المعنوية تمويل سلع منشآته أو خدماته لزبائنه؛ بما يمكن المؤسسة من ممارسة سلطتها النقدية، ويحمي النظام المالي، ويحقق حماية المستهلك.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• تحظر مزاولة أي من نشاطات التمويل المحددة في هذا النظام إلا بعد الحصول على ترخيص بذلك وفق أحكام هذا النظام، أو الأنظمة المرعية الأخرى.",
+          "text_for_index": "• تحظر مزاولة أي من نشاطات التمويل المحددة في هذا النظام إلا بعد الحصول على ترخيص بذلك وفق أحكام هذا النظام، أو الأنظمة المرعية الأخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يحظر على أي شخص غير مرخص له أن يستعمل - بأي وسيلة - ما يـدل على مزاولة نشاطات التمويل المحددة في هـذا النظام أو ما يوحي بمعناها، أو أن يستعمل في وثائقه، أو أوراقه، أو إعلاناته، أي لفظ أو عبارة ترادفها.",
+          "text_for_index": "• يحظر على أي شخص غير مرخص له أن يستعمل - بأي وسيلة - ما يـدل على مزاولة نشاطات التمويل المحددة في هـذا النظام أو ما يوحي بمعناها، أو أن يستعمل في وثائقه، أو أوراقه، أو إعلاناته، أي لفظ أو عبارة ترادفها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• استثناءً من حكم الفقرتين (1) و (2) من هذه المادة؛ تنظم اللائحة أحكام مزاولة الشخص ذي الصفة الطبيعية أو المعنوية تمويل سلع منشآته أو خدماته لزبائنه؛ بما يمكن المؤسسة من ممارسة سلطتها النقدية، ويحمي النظام المالي، ويحقق حماية المستهلك.",
+          "text_for_index": "• استثناءً من حكم الفقرتين (1) و (2) من هذه المادة؛ تنظم اللائحة أحكام مزاولة الشخص ذي الصفة الطبيعية أو المعنوية تمويل سلع منشآته أو خدماته لزبائنه؛ بما يمكن المؤسسة من ممارسة سلطتها النقدية، ويحمي النظام المالي، ويحقق حماية المستهلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement",
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ",
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الخامسة",
+      "text_verbatim": "أولاً :  يقدم المؤسسون لشركة التمويل - أو من يمثلهم - طلب الترخيص إلى المؤسسة، ويشترط لإصدار الترخيص ما يأتي:\n\n\t• تقديم الهيكلة الإدارية للشركة ، ونظم تشغيلها، وخطة استثمار تبين القدرة الفنية لها على مزاولة النشاط، وفق ما تحدده اللائحة.\n\n\t• ألا يقل رأس مال الشركة عن المبلغ الذي تحدده المؤسسة وبما لا يقل عن رأس المال المحدد في نظام الشركات، وألا تزيد الحصة الأجنبية - في حال وجودها - على النسبة التي تحددها المؤسسة.\n\n\t• أن يستوفي كل عضو مؤسس في الشركة متطلبات الأهلية الشرعية والنظامية، مع اشتراط ما يلي:\n\n\tأ - ألا يكون قد أخل بأي التزام تجاه دائنيه.‌\n\n\tب - ألا يكون قد انتهك أحكام نظام السوق المالية ولوائحه، أو نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌\n\n\tج - ألا يكون قد أشهر إفلاسه.‌\n\n\tد - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.\n\n\t• أن يكون الأشخاص المرشحون للأعمال الرقابية والتنفيذية في الشركة مستوفين لمتطلبات الأهلية المهنية، وأن يشترط فيهم ما يأتي :\n\n\tأ - توافر المعرفة النظرية والتطبيقية في نشاط التمويل.‌\n\n\tب - ألا يكون أي منهم قد انتهك أحكام نظام السوق المالية ولوائحه، أو أدين بانتهاك نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌\n\n\tج - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.\n\n\t• استيفاء أي شرط آخر تحدده اللائحة لإصدار الترخيص.",
+      "text_for_index": "أولاً : يقدم المؤسسون لشركة التمويل - أو من يمثلهم - طلب الترخيص إلى المؤسسة، ويشترط لإصدار الترخيص ما يأتي:\n\n • تقديم الهيكلة الإدارية للشركة ، ونظم تشغيلها، وخطة استثمار تبين القدرة الفنية لها على مزاولة النشاط، وفق ما تحدده اللائحة.\n\n • ألا يقل رأس مال الشركة عن المبلغ الذي تحدده المؤسسة وبما لا يقل عن رأس المال المحدد في نظام الشركات، وألا تزيد الحصة الأجنبية - في حال وجودها - على النسبة التي تحددها المؤسسة.\n\n • أن يستوفي كل عضو مؤسس في الشركة متطلبات الأهلية الشرعية والنظامية، مع اشتراط ما يلي:\n\n أ - ألا يكون قد أخل بأي التزام تجاه دائنيه.‌\n\n ب - ألا يكون قد انتهك أحكام نظام السوق المالية ولوائحه، أو نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌\n\n ج - ألا يكون قد أشهر إفلاسه.‌\n\n د - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.\n\n • أن يكون الأشخاص المرشحون للأعمال الرقابية والتنفيذية في الشركة مستوفين لمتطلبات الأهلية المهنية، وأن يشترط فيهم ما يأتي :\n\n أ - توافر المعرفة النظرية والتطبيقية في نشاط التمويل.‌\n\n ب - ألا يكون أي منهم قد انتهك أحكام نظام السوق المالية ولوائحه، أو أدين بانتهاك نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌\n\n ج - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.\n\n • استيفاء أي شرط آخر تحدده اللائحة لإصدار الترخيص.",
+      "paragraph_count": 13,
+      "indexable_paragraph_count": 13,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أولاً :  يقدم المؤسسون لشركة التمويل - أو من يمثلهم - طلب الترخيص إلى المؤسسة، ويشترط لإصدار الترخيص ما يأتي:",
+          "text_for_index": "أولاً : يقدم المؤسسون لشركة التمويل - أو من يمثلهم - طلب الترخيص إلى المؤسسة، ويشترط لإصدار الترخيص ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• تقديم الهيكلة الإدارية للشركة ، ونظم تشغيلها، وخطة استثمار تبين القدرة الفنية لها على مزاولة النشاط، وفق ما تحدده اللائحة.",
+          "text_for_index": "• تقديم الهيكلة الإدارية للشركة ، ونظم تشغيلها، وخطة استثمار تبين القدرة الفنية لها على مزاولة النشاط، وفق ما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ألا يقل رأس مال الشركة عن المبلغ الذي تحدده المؤسسة وبما لا يقل عن رأس المال المحدد في نظام الشركات، وألا تزيد الحصة الأجنبية - في حال وجودها - على النسبة التي تحددها المؤسسة.",
+          "text_for_index": "• ألا يقل رأس مال الشركة عن المبلغ الذي تحدده المؤسسة وبما لا يقل عن رأس المال المحدد في نظام الشركات، وألا تزيد الحصة الأجنبية - في حال وجودها - على النسبة التي تحددها المؤسسة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يستوفي كل عضو مؤسس في الشركة متطلبات الأهلية الشرعية والنظامية، مع اشتراط ما يلي:",
+          "text_for_index": "• أن يستوفي كل عضو مؤسس في الشركة متطلبات الأهلية الشرعية والنظامية، مع اشتراط ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ - ألا يكون قد أخل بأي التزام تجاه دائنيه.‌",
+          "text_for_index": "أ - ألا يكون قد أخل بأي التزام تجاه دائنيه.‌",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب - ألا يكون قد انتهك أحكام نظام السوق المالية ولوائحه، أو نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌",
+          "text_for_index": "ب - ألا يكون قد انتهك أحكام نظام السوق المالية ولوائحه، أو نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ج - ألا يكون قد أشهر إفلاسه.‌",
+          "text_for_index": "ج - ألا يكون قد أشهر إفلاسه.‌",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "د - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+          "text_for_index": "د - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• أن يكون الأشخاص المرشحون للأعمال الرقابية والتنفيذية في الشركة مستوفين لمتطلبات الأهلية المهنية، وأن يشترط فيهم ما يأتي :",
+          "text_for_index": "• أن يكون الأشخاص المرشحون للأعمال الرقابية والتنفيذية في الشركة مستوفين لمتطلبات الأهلية المهنية، وأن يشترط فيهم ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ - توافر المعرفة النظرية والتطبيقية في نشاط التمويل.‌",
+          "text_for_index": "أ - توافر المعرفة النظرية والتطبيقية في نشاط التمويل.‌",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب - ألا يكون أي منهم قد انتهك أحكام نظام السوق المالية ولوائحه، أو أدين بانتهاك نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌",
+          "text_for_index": "ب - ألا يكون أي منهم قد انتهك أحكام نظام السوق المالية ولوائحه، أو أدين بانتهاك نظام مراقبة البنوك، أو نظام مراقبة شركات التأمين التعاوني، أو أنظمة التمويل.‌",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "ج - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+          "text_for_index": "ج - ألا يكون قد أدين بأي جريمة مخلة بالأمانة، ما لم يكن قد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-5::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• استيفاء أي شرط آخر تحدده اللائحة لإصدار الترخيص.",
+          "text_for_index": "• استيفاء أي شرط آخر تحدده اللائحة لإصدار الترخيص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السادسة",
+      "text_verbatim": "يجب على شركة التمويل البدء في ممارسة نشاطها خلال مدة أقصاها سنة من تاريخ حصولها على الترخيص، ولا يجوز لها بعد ممارسة نشاطها التوقف مدة متصلة تزيد على (ثلاثة) أشهر إلا بموافقة المؤسسة، وتحدد اللائحة الضوابط اللازمة لذلك.",
+      "text_for_index": "يجب على شركة التمويل البدء في ممارسة نشاطها خلال مدة أقصاها سنة من تاريخ حصولها على الترخيص، ولا يجوز لها بعد ممارسة نشاطها التوقف مدة متصلة تزيد على (ثلاثة) أشهر إلا بموافقة المؤسسة، وتحدد اللائحة الضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على شركة التمويل البدء في ممارسة نشاطها خلال مدة أقصاها سنة من تاريخ حصولها على الترخيص، ولا يجوز لها بعد ممارسة نشاطها التوقف مدة متصلة تزيد على (ثلاثة) أشهر إلا بموافقة المؤسسة، وتحدد اللائحة الضوابط اللازمة لذلك.",
+          "text_for_index": "يجب على شركة التمويل البدء في ممارسة نشاطها خلال مدة أقصاها سنة من تاريخ حصولها على الترخيص، ولا يجوز لها بعد ممارسة نشاطها التوقف مدة متصلة تزيد على (ثلاثة) أشهر إلا بموافقة المؤسسة، وتحدد اللائحة الضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السابعة",
+      "text_verbatim": "يحق للمؤسسة إلغاء الترخيص إذا ظهر أن شركة التمويل زودت المؤسسة بمعلومات زائفة، أو أغفلت الإفصاح عن معلومات جوهرية كان يتعين عليها الإفصاح عنها لأغراض الترخيص وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يحق للمؤسسة إلغاء الترخيص إذا ظهر أن شركة التمويل زودت المؤسسة بمعلومات زائفة، أو أغفلت الإفصاح عن معلومات جوهرية كان يتعين عليها الإفصاح عنها لأغراض الترخيص وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يحق للمؤسسة إلغاء الترخيص إذا ظهر أن شركة التمويل زودت المؤسسة بمعلومات زائفة، أو أغفلت الإفصاح عن معلومات جوهرية كان يتعين عليها الإفصاح عنها لأغراض الترخيص وفقًا لما تحدده اللائحة.",
+          "text_for_index": "يحق للمؤسسة إلغاء الترخيص إذا ظهر أن شركة التمويل زودت المؤسسة بمعلومات زائفة، أو أغفلت الإفصاح عن معلومات جوهرية كان يتعين عليها الإفصاح عنها لأغراض الترخيص وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثامنة",
+      "text_verbatim": "يحظر التصرف في أسهم التأسيس إلا بعد موافقة المؤسسة، ويشترط فيمن تنتقل إليه تلك الأسهم توافر المتطلبات والشروط الواردة في الفقرة (3) من البند (أولاً) من المادة (الخامسة) من هذا النظام.",
+      "text_for_index": "يحظر التصرف في أسهم التأسيس إلا بعد موافقة المؤسسة، ويشترط فيمن تنتقل إليه تلك الأسهم توافر المتطلبات والشروط الواردة في الفقرة (3) من البند (أولاً) من المادة (الخامسة) من هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "يحظر التصرف في أسهم التأسيس إلا بعد موافقة المؤسسة، ويشترط فيمن تنتقل إليه تلك الأسهم توافر المتطلبات والشروط الواردة في الفقرة (3) من البند (أولاً) من المادة (الخامسة) من هذا النظام.",
+          "text_for_index": "يحظر التصرف في أسهم التأسيس إلا بعد موافقة المؤسسة، ويشترط فيمن تنتقل إليه تلك الأسهم توافر المتطلبات والشروط الواردة في الفقرة (3) من البند (أولاً) من المادة (الخامسة) من هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة التاسعة",
+      "text_verbatim": "يعد الترخيص منتهيًا إذا عين مصفٍ لشركة التمويل، أو صدر حكم بإشهار إفلاسها.",
+      "text_for_index": "يعد الترخيص منتهيًا إذا عين مصفٍ لشركة التمويل، أو صدر حكم بإشهار إفلاسها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يعد الترخيص منتهيًا إذا عين مصفٍ لشركة التمويل، أو صدر حكم بإشهار إفلاسها.",
+          "text_for_index": "يعد الترخيص منتهيًا إذا عين مصفٍ لشركة التمويل، أو صدر حكم بإشهار إفلاسها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة العاشرة",
+      "text_verbatim": "•\n\tترخص المؤسسة لشركة التمويل بممارسة نوع واحد أو أكثر من أنواع نشاط التمويل الآتية:\n\n\tأ - التمويل العقاري.\n\n\tب - تمويل الأصول الإنتاجية.\n\n\tج - تمويل نشاط المنشآت الصغيرة والمتوسطة.\n\n\tد - الإيجار التمويلي.\n\n\tهـ - تمويل بطاقات الائتمان.\n\n\tو - التمويل الاستهلاكي.\n\n\tز - التمويل متناهي الصغر.\n\n\tح - أي نشاط تمويلي آخر توافق عليه المؤسسة.\n\n\tويجوز لشركة التمويل تملك الأصول من أجل تمويل تمليكها للغير.\n\t\n\n\t• ترخص المؤسسة للمنشأة التي ترغب في ممارسة نشاطات مساندة لنشاط التمويل بما يحقق المنافسة في تقديم هذه الخدمات، وتحدد اللائحة الشكل القانوني لتلك المنشأة، والشروط الواجب توافرها.",
+      "text_for_index": "•\n ترخص المؤسسة لشركة التمويل بممارسة نوع واحد أو أكثر من أنواع نشاط التمويل الآتية:\n\n أ - التمويل العقاري.\n\n ب - تمويل الأصول الإنتاجية.\n\n ج - تمويل نشاط المنشآت الصغيرة والمتوسطة.\n\n د - الإيجار التمويلي.\n\n هـ - تمويل بطاقات الائتمان.\n\n و - التمويل الاستهلاكي.\n\n ز - التمويل متناهي الصغر.\n\n ح - أي نشاط تمويلي آخر توافق عليه المؤسسة.\n\n ويجوز لشركة التمويل تملك الأصول من أجل تمويل تمليكها للغير.\n \n\n • ترخص المؤسسة للمنشأة التي ترغب في ممارسة نشاطات مساندة لنشاط التمويل بما يحقق المنافسة في تقديم هذه الخدمات، وتحدد اللائحة الشكل القانوني لتلك المنشأة، والشروط الواجب توافرها.",
+      "paragraph_count": 11,
+      "indexable_paragraph_count": 11,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "•\n\tترخص المؤسسة لشركة التمويل بممارسة نوع واحد أو أكثر من أنواع نشاط التمويل الآتية:",
+          "text_for_index": "•\n ترخص المؤسسة لشركة التمويل بممارسة نوع واحد أو أكثر من أنواع نشاط التمويل الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "أ - التمويل العقاري.",
+          "text_for_index": "أ - التمويل العقاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ب - تمويل الأصول الإنتاجية.",
+          "text_for_index": "ب - تمويل الأصول الإنتاجية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ج - تمويل نشاط المنشآت الصغيرة والمتوسطة.",
+          "text_for_index": "ج - تمويل نشاط المنشآت الصغيرة والمتوسطة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "د - الإيجار التمويلي.",
+          "text_for_index": "د - الإيجار التمويلي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "هـ - تمويل بطاقات الائتمان.",
+          "text_for_index": "هـ - تمويل بطاقات الائتمان.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "و - التمويل الاستهلاكي.",
+          "text_for_index": "و - التمويل الاستهلاكي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ز - التمويل متناهي الصغر.",
+          "text_for_index": "ز - التمويل متناهي الصغر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ح - أي نشاط تمويلي آخر توافق عليه المؤسسة.",
+          "text_for_index": "ح - أي نشاط تمويلي آخر توافق عليه المؤسسة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ويجوز لشركة التمويل تملك الأصول من أجل تمويل تمليكها للغير.",
+          "text_for_index": "ويجوز لشركة التمويل تملك الأصول من أجل تمويل تمليكها للغير.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-10::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "• ترخص المؤسسة للمنشأة التي ترغب في ممارسة نشاطات مساندة لنشاط التمويل بما يحقق المنافسة في تقديم هذه الخدمات، وتحدد اللائحة الشكل القانوني لتلك المنشأة، والشروط الواجب توافرها.",
+          "text_for_index": "• ترخص المؤسسة للمنشأة التي ترغب في ممارسة نشاطات مساندة لنشاط التمويل بما يحقق المنافسة في تقديم هذه الخدمات، وتحدد اللائحة الشكل القانوني لتلك المنشأة، والشروط الواجب توافرها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الحادية عشرة",
+      "text_verbatim": "يحظر على شركة التمويل ما يأتي:\n\n\t• مزاولة أي نشاط آخر غير التمويل.\n\n\t• امتلاك منشأة تزاول نشاطاً آخر غير التمويل سواء بشكل مباشر أو غير مباشر.\n\n\t• المتاجرة في العملات، أو الذهب، أو المعادن النفيسة، أو الأوراق المالية.\n\n\t• المتاجرة في العقار.\n\n\t• مزاولة تجارة الجملة، أو التجزئة.\n\n\t• قبول الودائع تحت الطلب.\n\n\t• قبول الودائع الآجلة، أو التسهيلات غير المصرفية، أو فتح الحسابات لعملائها بجميع أشكالها، ما لم ترخص لها المؤسسة بذلك، ويجب أن تودع لدى المؤسسة نسبة من قيمة الودائع بالقدر الذي تحدده اللائحة.\n\n\t• الحصول على تمويل أجنبي قصير الأجل إلا بموافقة المؤسسة، وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يحظر على شركة التمويل ما يأتي:\n\n • مزاولة أي نشاط آخر غير التمويل.\n\n • امتلاك منشأة تزاول نشاطاً آخر غير التمويل سواء بشكل مباشر أو غير مباشر.\n\n • المتاجرة في العملات، أو الذهب، أو المعادن النفيسة، أو الأوراق المالية.\n\n • المتاجرة في العقار.\n\n • مزاولة تجارة الجملة، أو التجزئة.\n\n • قبول الودائع تحت الطلب.\n\n • قبول الودائع الآجلة، أو التسهيلات غير المصرفية، أو فتح الحسابات لعملائها بجميع أشكالها، ما لم ترخص لها المؤسسة بذلك، ويجب أن تودع لدى المؤسسة نسبة من قيمة الودائع بالقدر الذي تحدده اللائحة.\n\n • الحصول على تمويل أجنبي قصير الأجل إلا بموافقة المؤسسة، وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يحظر على شركة التمويل ما يأتي:",
+          "text_for_index": "يحظر على شركة التمويل ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• مزاولة أي نشاط آخر غير التمويل.",
+          "text_for_index": "• مزاولة أي نشاط آخر غير التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• امتلاك منشأة تزاول نشاطاً آخر غير التمويل سواء بشكل مباشر أو غير مباشر.",
+          "text_for_index": "• امتلاك منشأة تزاول نشاطاً آخر غير التمويل سواء بشكل مباشر أو غير مباشر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• المتاجرة في العملات، أو الذهب، أو المعادن النفيسة، أو الأوراق المالية.",
+          "text_for_index": "• المتاجرة في العملات، أو الذهب، أو المعادن النفيسة، أو الأوراق المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• المتاجرة في العقار.",
+          "text_for_index": "• المتاجرة في العقار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• مزاولة تجارة الجملة، أو التجزئة.",
+          "text_for_index": "• مزاولة تجارة الجملة، أو التجزئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• قبول الودائع تحت الطلب.",
+          "text_for_index": "• قبول الودائع تحت الطلب.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "• قبول الودائع الآجلة، أو التسهيلات غير المصرفية، أو فتح الحسابات لعملائها بجميع أشكالها، ما لم ترخص لها المؤسسة بذلك، ويجب أن تودع لدى المؤسسة نسبة من قيمة الودائع بالقدر الذي تحدده اللائحة.",
+          "text_for_index": "• قبول الودائع الآجلة، أو التسهيلات غير المصرفية، أو فتح الحسابات لعملائها بجميع أشكالها، ما لم ترخص لها المؤسسة بذلك، ويجب أن تودع لدى المؤسسة نسبة من قيمة الودائع بالقدر الذي تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-11::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• الحصول على تمويل أجنبي قصير الأجل إلا بموافقة المؤسسة، وفقًا لما تحدده اللائحة.",
+          "text_for_index": "• الحصول على تمويل أجنبي قصير الأجل إلا بموافقة المؤسسة، وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثانية عشرة",
+      "text_verbatim": "• يحظر على شركة التمويل ما يأتي:\n\n\tأ - أن تقدم أي تمويل دون ضمان، واستثناءً من ذلك تحدد اللائحة قواعد التمويل دون ضمان.\n\n\tب - أن تمول أو تمنح تسهيلات بضمان أسهمها.\n\n\tج - أن تمول أو تمنح تسهيلات لمنشأة أو لشركة - عدا الشركة المساهمة المدرجة في السوق المالية السعودية - إذا كان أحد أعضاء مجلس إدارة شركة التمويل أو أحد مراقبي حساباتها الخارجيين شريكاً في المنشأة، أو الشركة الحاصلة على التمويل، أو مديرًا لها.\n\n\tد - أن تمول أو تمنح تسهيلات للأشخاص أو المنشآت إذا كان أحد أعضاء مجلس إدارة شركة التمويل، أو أحد مراقبي حساباتها الخارجيين كفيلاً للحصول على التمويل أو التسهيلات.\n\n\tهـ - أن تمول أو تمنح تسهيلات لأي عضو من أعضاء مجلس إدارتها، أو أحد مديريها، أو أزواجهم، أو أحد أقربائهم إلى الدرجة (الثانية)، إلا وفقًا للضمانات التي تحددها اللائحة.\n\n\tو - أن تمول أو تمنح تسهيلات، أو تضمن أي التزام مالي لأحد منسوبيها بما يزيد على رواتبه للمدة التي تحددها اللائحة.\n\n\tز - أن تتملك أسهمًا في شركة تمويل أخرى إلا بعد موافقة المؤسسة.\n\n\tح - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك فيها شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.\n\n\tط - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك في شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.\n\n\t• دون إخلال بالحق العام والخاص اللذين تقررهما الأنظمة؛ يعد كل عضو مجلس إدارة شركة تمويل، أو مراقب حسابات خارجي حصل على التمويل بما يخالف أي حكم من الأحكام الواردة في الفقرات (1/ب) أو (1/ج) أو (1/د) من هذه المادة؛ معزولاً وفقًا لما تحدده اللائحة.",
+      "text_for_index": "• يحظر على شركة التمويل ما يأتي:\n\n أ - أن تقدم أي تمويل دون ضمان، واستثناءً من ذلك تحدد اللائحة قواعد التمويل دون ضمان.\n\n ب - أن تمول أو تمنح تسهيلات بضمان أسهمها.\n\n ج - أن تمول أو تمنح تسهيلات لمنشأة أو لشركة - عدا الشركة المساهمة المدرجة في السوق المالية السعودية - إذا كان أحد أعضاء مجلس إدارة شركة التمويل أو أحد مراقبي حساباتها الخارجيين شريكاً في المنشأة، أو الشركة الحاصلة على التمويل، أو مديرًا لها.\n\n د - أن تمول أو تمنح تسهيلات للأشخاص أو المنشآت إذا كان أحد أعضاء مجلس إدارة شركة التمويل، أو أحد مراقبي حساباتها الخارجيين كفيلاً للحصول على التمويل أو التسهيلات.\n\n هـ - أن تمول أو تمنح تسهيلات لأي عضو من أعضاء مجلس إدارتها، أو أحد مديريها، أو أزواجهم، أو أحد أقربائهم إلى الدرجة (الثانية)، إلا وفقًا للضمانات التي تحددها اللائحة.\n\n و - أن تمول أو تمنح تسهيلات، أو تضمن أي التزام مالي لأحد منسوبيها بما يزيد على رواتبه للمدة التي تحددها اللائحة.\n\n ز - أن تتملك أسهمًا في شركة تمويل أخرى إلا بعد موافقة المؤسسة.\n\n ح - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك فيها شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.\n\n ط - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك في شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.\n\n • دون إخلال بالحق العام والخاص اللذين تقررهما الأنظمة؛ يعد كل عضو مجلس إدارة شركة تمويل، أو مراقب حسابات خارجي حصل على التمويل بما يخالف أي حكم من الأحكام الواردة في الفقرات (1/ب) أو (1/ج) أو (1/د) من هذه المادة؛ معزولاً وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 11,
+      "indexable_paragraph_count": 11,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يحظر على شركة التمويل ما يأتي:",
+          "text_for_index": "• يحظر على شركة التمويل ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "أ - أن تقدم أي تمويل دون ضمان، واستثناءً من ذلك تحدد اللائحة قواعد التمويل دون ضمان.",
+          "text_for_index": "أ - أن تقدم أي تمويل دون ضمان، واستثناءً من ذلك تحدد اللائحة قواعد التمويل دون ضمان.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ب - أن تمول أو تمنح تسهيلات بضمان أسهمها.",
+          "text_for_index": "ب - أن تمول أو تمنح تسهيلات بضمان أسهمها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "ج - أن تمول أو تمنح تسهيلات لمنشأة أو لشركة - عدا الشركة المساهمة المدرجة في السوق المالية السعودية - إذا كان أحد أعضاء مجلس إدارة شركة التمويل أو أحد مراقبي حساباتها الخارجيين شريكاً في المنشأة، أو الشركة الحاصلة على التمويل، أو مديرًا لها.",
+          "text_for_index": "ج - أن تمول أو تمنح تسهيلات لمنشأة أو لشركة - عدا الشركة المساهمة المدرجة في السوق المالية السعودية - إذا كان أحد أعضاء مجلس إدارة شركة التمويل أو أحد مراقبي حساباتها الخارجيين شريكاً في المنشأة، أو الشركة الحاصلة على التمويل، أو مديرًا لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "د - أن تمول أو تمنح تسهيلات للأشخاص أو المنشآت إذا كان أحد أعضاء مجلس إدارة شركة التمويل، أو أحد مراقبي حساباتها الخارجيين كفيلاً للحصول على التمويل أو التسهيلات.",
+          "text_for_index": "د - أن تمول أو تمنح تسهيلات للأشخاص أو المنشآت إذا كان أحد أعضاء مجلس إدارة شركة التمويل، أو أحد مراقبي حساباتها الخارجيين كفيلاً للحصول على التمويل أو التسهيلات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "هـ - أن تمول أو تمنح تسهيلات لأي عضو من أعضاء مجلس إدارتها، أو أحد مديريها، أو أزواجهم، أو أحد أقربائهم إلى الدرجة (الثانية)، إلا وفقًا للضمانات التي تحددها اللائحة.",
+          "text_for_index": "هـ - أن تمول أو تمنح تسهيلات لأي عضو من أعضاء مجلس إدارتها، أو أحد مديريها، أو أزواجهم، أو أحد أقربائهم إلى الدرجة (الثانية)، إلا وفقًا للضمانات التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "و - أن تمول أو تمنح تسهيلات، أو تضمن أي التزام مالي لأحد منسوبيها بما يزيد على رواتبه للمدة التي تحددها اللائحة.",
+          "text_for_index": "و - أن تمول أو تمنح تسهيلات، أو تضمن أي التزام مالي لأحد منسوبيها بما يزيد على رواتبه للمدة التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "ز - أن تتملك أسهمًا في شركة تمويل أخرى إلا بعد موافقة المؤسسة.",
+          "text_for_index": "ز - أن تتملك أسهمًا في شركة تمويل أخرى إلا بعد موافقة المؤسسة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ح - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك فيها شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.",
+          "text_for_index": "ح - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك فيها شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ط - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك في شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.",
+          "text_for_index": "ط - أن تمول أو تمنح تسهيلات لشركة أو منشأة تتملك في شركة التمويل - بشكل مباشر أو غير مباشر- نسبة تتجاوز النسبة التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-12::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بالحق العام والخاص اللذين تقررهما الأنظمة؛ يعد كل عضو مجلس إدارة شركة تمويل، أو مراقب حسابات خارجي حصل على التمويل بما يخالف أي حكم من الأحكام الواردة في الفقرات (1/ب) أو (1/ج) أو (1/د) من هذه المادة؛ معزولاً وفقًا لما تحدده اللائحة.",
+          "text_for_index": "• دون إخلال بالحق العام والخاص اللذين تقررهما الأنظمة؛ يعد كل عضو مجلس إدارة شركة تمويل، أو مراقب حسابات خارجي حصل على التمويل بما يخالف أي حكم من الأحكام الواردة في الفقرات (1/ب) أو (1/ج) أو (1/د) من هذه المادة؛ معزولاً وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثالثة عشرة",
+      "text_verbatim": "على شركة التمويل أن تضع مخصصًا لمواجهة خسائر التشغيل المحتملة وفق المعايير التي تحددها اللائحة.",
+      "text_for_index": "على شركة التمويل أن تضع مخصصًا لمواجهة خسائر التشغيل المحتملة وفق المعايير التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على شركة التمويل أن تضع مخصصًا لمواجهة خسائر التشغيل المحتملة وفق المعايير التي تحددها اللائحة.",
+          "text_for_index": "على شركة التمويل أن تضع مخصصًا لمواجهة خسائر التشغيل المحتملة وفق المعايير التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الرابعة عشرة",
+      "text_verbatim": "مع عدم الإخلال بما ورد في المادة (الثالثة) من هـذا النظام؛ يجـوز لشـركـة التمويـل - وفق ما تحدده اللائحة وبما يتناسب مع أصولها ومركزها المالي - إصدار الأوراق المالية والصكوك وفقًا لأحكام نظام السوق المالية ولوائحه.",
+      "text_for_index": "مع عدم الإخلال بما ورد في المادة (الثالثة) من هـذا النظام؛ يجـوز لشـركـة التمويـل - وفق ما تحدده اللائحة وبما يتناسب مع أصولها ومركزها المالي - إصدار الأوراق المالية والصكوك وفقًا لأحكام نظام السوق المالية ولوائحه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بما ورد في المادة (الثالثة) من هـذا النظام؛ يجـوز لشـركـة التمويـل - وفق ما تحدده اللائحة وبما يتناسب مع أصولها ومركزها المالي - إصدار الأوراق المالية والصكوك وفقًا لأحكام نظام السوق المالية ولوائحه.",
+          "text_for_index": "مع عدم الإخلال بما ورد في المادة (الثالثة) من هـذا النظام؛ يجـوز لشـركـة التمويـل - وفق ما تحدده اللائحة وبما يتناسب مع أصولها ومركزها المالي - إصدار الأوراق المالية والصكوك وفقًا لأحكام نظام السوق المالية ولوائحه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الخامسة عشرة",
+      "text_verbatim": "يجب على شركة التمويل ومنسوبيها المحافظة على سرية بيانات عملائها، وعملياتهم التي تم الاطلاع عليها من خلال قيام الشركة بنشاطها، وذلك وفق ما تحدده اللائحة.",
+      "text_for_index": "يجب على شركة التمويل ومنسوبيها المحافظة على سرية بيانات عملائها، وعملياتهم التي تم الاطلاع عليها من خلال قيام الشركة بنشاطها، وذلك وفق ما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على شركة التمويل ومنسوبيها المحافظة على سرية بيانات عملائها، وعملياتهم التي تم الاطلاع عليها من خلال قيام الشركة بنشاطها، وذلك وفق ما تحدده اللائحة.",
+          "text_for_index": "يجب على شركة التمويل ومنسوبيها المحافظة على سرية بيانات عملائها، وعملياتهم التي تم الاطلاع عليها من خلال قيام الشركة بنشاطها، وذلك وفق ما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السادسة عشرة",
+      "text_verbatim": "يشترط لعضوية مجلس إدارة شركة التمويل ما يأتي:\n\n\t• ألاّ يكون عضوًا في مجلس إدارة شركة تمويل أخرى.\n\n\t• ألاّ يجمع بين العمل في مراقبة شركات التمويل أو مراجعة حساباتها والعضوية في مجلس إدارة الشركة.\n\n\t• ألاّ يكون قد عزل تأديبيًا من وظيفة قيادية تنفيذية في منشأة مالية.\n\n\t• ألاّ يكون قد سبق أن أشهر إفلاسه.\n\n\t• ألاّ يكون محكومًا عليه بعقوبة لإدانته في جريمة مخلة بالأمانـة، وذلك ما لم يكن قـد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+      "text_for_index": "يشترط لعضوية مجلس إدارة شركة التمويل ما يأتي:\n\n • ألاّ يكون عضوًا في مجلس إدارة شركة تمويل أخرى.\n\n • ألاّ يجمع بين العمل في مراقبة شركات التمويل أو مراجعة حساباتها والعضوية في مجلس إدارة الشركة.\n\n • ألاّ يكون قد عزل تأديبيًا من وظيفة قيادية تنفيذية في منشأة مالية.\n\n • ألاّ يكون قد سبق أن أشهر إفلاسه.\n\n • ألاّ يكون محكومًا عليه بعقوبة لإدانته في جريمة مخلة بالأمانـة، وذلك ما لم يكن قـد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يشترط لعضوية مجلس إدارة شركة التمويل ما يأتي:",
+          "text_for_index": "يشترط لعضوية مجلس إدارة شركة التمويل ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ألاّ يكون عضوًا في مجلس إدارة شركة تمويل أخرى.",
+          "text_for_index": "• ألاّ يكون عضوًا في مجلس إدارة شركة تمويل أخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-16::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ألاّ يجمع بين العمل في مراقبة شركات التمويل أو مراجعة حساباتها والعضوية في مجلس إدارة الشركة.",
+          "text_for_index": "• ألاّ يجمع بين العمل في مراقبة شركات التمويل أو مراجعة حساباتها والعضوية في مجلس إدارة الشركة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-16::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• ألاّ يكون قد عزل تأديبيًا من وظيفة قيادية تنفيذية في منشأة مالية.",
+          "text_for_index": "• ألاّ يكون قد عزل تأديبيًا من وظيفة قيادية تنفيذية في منشأة مالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-16::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• ألاّ يكون قد سبق أن أشهر إفلاسه.",
+          "text_for_index": "• ألاّ يكون قد سبق أن أشهر إفلاسه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-16::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "• ألاّ يكون محكومًا عليه بعقوبة لإدانته في جريمة مخلة بالأمانـة، وذلك ما لم يكن قـد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+          "text_for_index": "• ألاّ يكون محكومًا عليه بعقوبة لإدانته في جريمة مخلة بالأمانـة، وذلك ما لم يكن قـد رد إليه اعتباره وفقًا للأنظمة، أو وفق ما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "enforcement",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تنفيذ",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السابعة عشرة",
+      "text_verbatim": "يكون كل من مجلس إدارة الشركة، ومديرها العام، وكبار التنفيذيين، ومديري الفروع مسؤولين - كل في حدود اختصاصه - عن مخالفة الشركة لأحكام هذا النظام أو لائحته.",
+      "text_for_index": "يكون كل من مجلس إدارة الشركة، ومديرها العام، وكبار التنفيذيين، ومديري الفروع مسؤولين - كل في حدود اختصاصه - عن مخالفة الشركة لأحكام هذا النظام أو لائحته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "يكون كل من مجلس إدارة الشركة، ومديرها العام، وكبار التنفيذيين، ومديري الفروع مسؤولين - كل في حدود اختصاصه - عن مخالفة الشركة لأحكام هذا النظام أو لائحته.",
+          "text_for_index": "يكون كل من مجلس إدارة الشركة، ومديرها العام، وكبار التنفيذيين، ومديري الفروع مسؤولين - كل في حدود اختصاصه - عن مخالفة الشركة لأحكام هذا النظام أو لائحته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة:",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثامنة عشرة",
+      "text_verbatim": "مع عدم الإخلال بما ورد في الفقرة ( 1/أ) من المادة الثانية عشـرة من هذا النظام؛ يتحمل أعضاء مجلس إدارة شركة التمويل - بالتضامن- مسؤولية ضمان حقوق الشركة ضد الخسائر الناتجة من تقديم تمويل دون ضمان.",
+      "text_for_index": "مع عدم الإخلال بما ورد في الفقرة ( 1/أ) من المادة الثانية عشـرة من هذا النظام؛ يتحمل أعضاء مجلس إدارة شركة التمويل - بالتضامن- مسؤولية ضمان حقوق الشركة ضد الخسائر الناتجة من تقديم تمويل دون ضمان.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بما ورد في الفقرة ( 1/أ) من المادة الثانية عشـرة من هذا النظام؛ يتحمل أعضاء مجلس إدارة شركة التمويل - بالتضامن- مسؤولية ضمان حقوق الشركة ضد الخسائر الناتجة من تقديم تمويل دون ضمان.",
+          "text_for_index": "مع عدم الإخلال بما ورد في الفقرة ( 1/أ) من المادة الثانية عشـرة من هذا النظام؛ يتحمل أعضاء مجلس إدارة شركة التمويل - بالتضامن- مسؤولية ضمان حقوق الشركة ضد الخسائر الناتجة من تقديم تمويل دون ضمان.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "company_management",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة التاسعة عشرة",
+      "text_verbatim": "تكوّن في كل شركة تمويل لجنة مراجعة من غير أعضاء مجلس الإدارة التنفيذيين، يصدر في شأن مهماتها، وقواعد اختيار أعضائها، ومدة عضويتهم، وكيفية عملها؛ قرار من الجمعية العامة للشركة بناءً على اقتراح مجلس الإدارة.",
+      "text_for_index": "تكوّن في كل شركة تمويل لجنة مراجعة من غير أعضاء مجلس الإدارة التنفيذيين، يصدر في شأن مهماتها، وقواعد اختيار أعضائها، ومدة عضويتهم، وكيفية عملها؛ قرار من الجمعية العامة للشركة بناءً على اقتراح مجلس الإدارة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تكوّن في كل شركة تمويل لجنة مراجعة من غير أعضاء مجلس الإدارة التنفيذيين، يصدر في شأن مهماتها، وقواعد اختيار أعضائها، ومدة عضويتهم، وكيفية عملها؛ قرار من الجمعية العامة للشركة بناءً على اقتراح مجلس الإدارة.",
+          "text_for_index": "تكوّن في كل شركة تمويل لجنة مراجعة من غير أعضاء مجلس الإدارة التنفيذيين، يصدر في شأن مهماتها، وقواعد اختيار أعضائها، ومدة عضويتهم، وكيفية عملها؛ قرار من الجمعية العامة للشركة بناءً على اقتراح مجلس الإدارة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون:",
+      "article_heading": "العشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة العشرون",
+      "text_verbatim": "يجب على رئيس وأعضاء مجلس الإدارة وموظفي الشركة عند إجراء أي عقد من عقود التمويل التي لهم سلطة اتخاذ قرار في شأنها الإفصاح - كتابة - عن الآتي:\n\n\t• أي علاقة لأي منهم بالعقد .\n\n\t• أي علاقة لأقاربهم إلى الدرجة الثانية بالعقد.\n\n\t• أي مصلحة مالية لهم بمن له علاقة بالعقد.\n\n\tوللمتضرر في حال عدم الإفصاح؛ إقامة دعوى أمام المحكمة المختصة بطلب إبطال العقد.",
+      "text_for_index": "يجب على رئيس وأعضاء مجلس الإدارة وموظفي الشركة عند إجراء أي عقد من عقود التمويل التي لهم سلطة اتخاذ قرار في شأنها الإفصاح - كتابة - عن الآتي:\n\n • أي علاقة لأي منهم بالعقد .\n\n • أي علاقة لأقاربهم إلى الدرجة الثانية بالعقد.\n\n • أي مصلحة مالية لهم بمن له علاقة بالعقد.\n\n وللمتضرر في حال عدم الإفصاح؛ إقامة دعوى أمام المحكمة المختصة بطلب إبطال العقد.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على رئيس وأعضاء مجلس الإدارة وموظفي الشركة عند إجراء أي عقد من عقود التمويل التي لهم سلطة اتخاذ قرار في شأنها الإفصاح - كتابة - عن الآتي:",
+          "text_for_index": "يجب على رئيس وأعضاء مجلس الإدارة وموظفي الشركة عند إجراء أي عقد من عقود التمويل التي لهم سلطة اتخاذ قرار في شأنها الإفصاح - كتابة - عن الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-20::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أي علاقة لأي منهم بالعقد .",
+          "text_for_index": "• أي علاقة لأي منهم بالعقد .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-20::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أي علاقة لأقاربهم إلى الدرجة الثانية بالعقد.",
+          "text_for_index": "• أي علاقة لأقاربهم إلى الدرجة الثانية بالعقد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-20::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أي مصلحة مالية لهم بمن له علاقة بالعقد.",
+          "text_for_index": "• أي مصلحة مالية لهم بمن له علاقة بالعقد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-20::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "وللمتضرر في حال عدم الإفصاح؛ إقامة دعوى أمام المحكمة المختصة بطلب إبطال العقد.",
+          "text_for_index": "وللمتضرر في حال عدم الإفصاح؛ إقامة دعوى أمام المحكمة المختصة بطلب إبطال العقد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون:",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الحادية والعشرون",
+      "text_verbatim": "تشرف المؤسسة على أعمال شركات التمويل، وتمارس صلاحياتها بموجب أحكام هذا النظام ولائحته.",
+      "text_for_index": "تشرف المؤسسة على أعمال شركات التمويل، وتمارس صلاحياتها بموجب أحكام هذا النظام ولائحته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تشرف المؤسسة على أعمال شركات التمويل، وتمارس صلاحياتها بموجب أحكام هذا النظام ولائحته.",
+          "text_for_index": "تشرف المؤسسة على أعمال شركات التمويل، وتمارس صلاحياتها بموجب أحكام هذا النظام ولائحته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون:",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "e_commerce"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تجارة إلكترونية"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثانية والعشرون",
+      "text_verbatim": "تنظم اللائحة ما يأتي:\n\n\t• الحد الأعلى لمجموع التمويل الذي يجوز لشركة التمويل تقديمه.\n\n\t• منع شركة التمويل من إجراء تعاملات ائتمانية معينة، أو تقيـيـدها في ذلك.\n\n\t• الشروط الخاصة التي يجب على الشركة مراعاتها في أعمال ائتمانية معينة.\n\n\t• الحد الأدنى لنسب الضمان التي تجب مراعاتها في عقود معينة بين مبالغ التمويل والأصول المقدمة ضمانًا لها.\n\n\t• مبادئ الإفصاح عن معايير تكلفة التمويل وطريقة احتسابه؛ لتمكين المستهلكين من مقارنة الأسعار.\n\n\t• الضوابط اللازمة لحماية عدالة التعاملات، وحقوق المستهلكين.\n\n\t• مبادئ تنظيم عدالة توزيع ربح التمويل على مدة الاستحقاق.\n\n\t• ضمانات حماية الدفعات التي يقدمها المستفيدون، وكيفية تصرف شركات التمويل فيها.\n\n\t• مزاولة تحصيل ديون شركة التمويل، وأحكام الترخيص.\n\n\t• أي أمور أخرى أسند تنظيمها للائحة وفق أحكام هذا النظام .",
+      "text_for_index": "تنظم اللائحة ما يأتي:\n\n • الحد الأعلى لمجموع التمويل الذي يجوز لشركة التمويل تقديمه.\n\n • منع شركة التمويل من إجراء تعاملات ائتمانية معينة، أو تقيـيـدها في ذلك.\n\n • الشروط الخاصة التي يجب على الشركة مراعاتها في أعمال ائتمانية معينة.\n\n • الحد الأدنى لنسب الضمان التي تجب مراعاتها في عقود معينة بين مبالغ التمويل والأصول المقدمة ضمانًا لها.\n\n • مبادئ الإفصاح عن معايير تكلفة التمويل وطريقة احتسابه؛ لتمكين المستهلكين من مقارنة الأسعار.\n\n • الضوابط اللازمة لحماية عدالة التعاملات، وحقوق المستهلكين.\n\n • مبادئ تنظيم عدالة توزيع ربح التمويل على مدة الاستحقاق.\n\n • ضمانات حماية الدفعات التي يقدمها المستفيدون، وكيفية تصرف شركات التمويل فيها.\n\n • مزاولة تحصيل ديون شركة التمويل، وأحكام الترخيص.\n\n • أي أمور أخرى أسند تنظيمها للائحة وفق أحكام هذا النظام .",
+      "paragraph_count": 11,
+      "indexable_paragraph_count": 11,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تنظم اللائحة ما يأتي:",
+          "text_for_index": "تنظم اللائحة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• الحد الأعلى لمجموع التمويل الذي يجوز لشركة التمويل تقديمه.",
+          "text_for_index": "• الحد الأعلى لمجموع التمويل الذي يجوز لشركة التمويل تقديمه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• منع شركة التمويل من إجراء تعاملات ائتمانية معينة، أو تقيـيـدها في ذلك.",
+          "text_for_index": "• منع شركة التمويل من إجراء تعاملات ائتمانية معينة، أو تقيـيـدها في ذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• الشروط الخاصة التي يجب على الشركة مراعاتها في أعمال ائتمانية معينة.",
+          "text_for_index": "• الشروط الخاصة التي يجب على الشركة مراعاتها في أعمال ائتمانية معينة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• الحد الأدنى لنسب الضمان التي تجب مراعاتها في عقود معينة بين مبالغ التمويل والأصول المقدمة ضمانًا لها.",
+          "text_for_index": "• الحد الأدنى لنسب الضمان التي تجب مراعاتها في عقود معينة بين مبالغ التمويل والأصول المقدمة ضمانًا لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• مبادئ الإفصاح عن معايير تكلفة التمويل وطريقة احتسابه؛ لتمكين المستهلكين من مقارنة الأسعار.",
+          "text_for_index": "• مبادئ الإفصاح عن معايير تكلفة التمويل وطريقة احتسابه؛ لتمكين المستهلكين من مقارنة الأسعار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• الضوابط اللازمة لحماية عدالة التعاملات، وحقوق المستهلكين.",
+          "text_for_index": "• الضوابط اللازمة لحماية عدالة التعاملات، وحقوق المستهلكين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• مبادئ تنظيم عدالة توزيع ربح التمويل على مدة الاستحقاق.",
+          "text_for_index": "• مبادئ تنظيم عدالة توزيع ربح التمويل على مدة الاستحقاق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ضمانات حماية الدفعات التي يقدمها المستفيدون، وكيفية تصرف شركات التمويل فيها.",
+          "text_for_index": "• ضمانات حماية الدفعات التي يقدمها المستفيدون، وكيفية تصرف شركات التمويل فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• مزاولة تحصيل ديون شركة التمويل، وأحكام الترخيص.",
+          "text_for_index": "• مزاولة تحصيل ديون شركة التمويل، وأحكام الترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-22::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أي أمور أخرى أسند تنظيمها للائحة وفق أحكام هذا النظام .",
+          "text_for_index": "• أي أمور أخرى أسند تنظيمها للائحة وفق أحكام هذا النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون:",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثالثة والعشرون",
+      "text_verbatim": "يجب على شركة التمويل أن تتقيد بقواعد معدل كفاية رأس المال وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يجب على شركة التمويل أن تتقيد بقواعد معدل كفاية رأس المال وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على شركة التمويل أن تتقيد بقواعد معدل كفاية رأس المال وفقًا لما تحدده اللائحة.",
+          "text_for_index": "يجب على شركة التمويل أن تتقيد بقواعد معدل كفاية رأس المال وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون:",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الرابعة والعشرون",
+      "text_verbatim": "يجب على شركة التمويل تنويع مخاطر نشاطها، ولا يجوز أن تمنح تمويلاً لمنشأة واحدة أو لمجموعة مترابطة الملكية بما يتجاوز النسبة التي تحددها اللائحة.",
+      "text_for_index": "يجب على شركة التمويل تنويع مخاطر نشاطها، ولا يجوز أن تمنح تمويلاً لمنشأة واحدة أو لمجموعة مترابطة الملكية بما يتجاوز النسبة التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على شركة التمويل تنويع مخاطر نشاطها، ولا يجوز أن تمنح تمويلاً لمنشأة واحدة أو لمجموعة مترابطة الملكية بما يتجاوز النسبة التي تحددها اللائحة.",
+          "text_for_index": "يجب على شركة التمويل تنويع مخاطر نشاطها، ولا يجوز أن تمنح تمويلاً لمنشأة واحدة أو لمجموعة مترابطة الملكية بما يتجاوز النسبة التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون:",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الخامسة والعشرون",
+      "text_verbatim": "مع مراعاة ما تقضي به الأنظمة؛ يجب الحصول على موافقة المؤسسة لتعديل رأس مال شركة التمويل، أو تعديل نظامها، أو اندماجها في شركة مماثلة، أو استحواذها عليها.",
+      "text_for_index": "مع مراعاة ما تقضي به الأنظمة؛ يجب الحصول على موافقة المؤسسة لتعديل رأس مال شركة التمويل، أو تعديل نظامها، أو اندماجها في شركة مماثلة، أو استحواذها عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "مع مراعاة ما تقضي به الأنظمة؛ يجب الحصول على موافقة المؤسسة لتعديل رأس مال شركة التمويل، أو تعديل نظامها، أو اندماجها في شركة مماثلة، أو استحواذها عليها.",
+          "text_for_index": "مع مراعاة ما تقضي به الأنظمة؛ يجب الحصول على موافقة المؤسسة لتعديل رأس مال شركة التمويل، أو تعديل نظامها، أو اندماجها في شركة مماثلة، أو استحواذها عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون:",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السادسة والعشرون",
+      "text_verbatim": "يجب على شركة التمويل الحصول على موافقة المؤسسة عند فتح فرع، أو وكالة، أو مكتب داخل المملكة أو خارجها، أو إغلاق أي منها.",
+      "text_for_index": "يجب على شركة التمويل الحصول على موافقة المؤسسة عند فتح فرع، أو وكالة، أو مكتب داخل المملكة أو خارجها، أو إغلاق أي منها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على شركة التمويل الحصول على موافقة المؤسسة عند فتح فرع، أو وكالة، أو مكتب داخل المملكة أو خارجها، أو إغلاق أي منها.",
+          "text_for_index": "يجب على شركة التمويل الحصول على موافقة المؤسسة عند فتح فرع، أو وكالة، أو مكتب داخل المملكة أو خارجها، أو إغلاق أي منها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون:",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السابعة والعشرون",
+      "text_verbatim": "يجب على شركة التمويل تعيين مراجع حسابات خارجي مرخص أو أكثر، ويجوز للمؤسسة تعيين مراجع حسابات آخر على نفقة شركة التمويل في الأحوال التي تحددها اللائحة.",
+      "text_for_index": "يجب على شركة التمويل تعيين مراجع حسابات خارجي مرخص أو أكثر، ويجوز للمؤسسة تعيين مراجع حسابات آخر على نفقة شركة التمويل في الأحوال التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على شركة التمويل تعيين مراجع حسابات خارجي مرخص أو أكثر، ويجوز للمؤسسة تعيين مراجع حسابات آخر على نفقة شركة التمويل في الأحوال التي تحددها اللائحة.",
+          "text_for_index": "يجب على شركة التمويل تعيين مراجع حسابات خارجي مرخص أو أكثر، ويجوز للمؤسسة تعيين مراجع حسابات آخر على نفقة شركة التمويل في الأحوال التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون:",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثامنة والعشرون",
+      "text_verbatim": "تزوِّد شركة التمويل المؤسسة بالبيانات التي تطلبها، وعلى المؤسسة فحص سجلات شركة التمويل وحساباتها بشكل دوري، ويعد امتناع الشركة عن تقديم ما يتطلبه هذا الفحص مخالفة لأحكام هذا النظام ولائحته.",
+      "text_for_index": "تزوِّد شركة التمويل المؤسسة بالبيانات التي تطلبها، وعلى المؤسسة فحص سجلات شركة التمويل وحساباتها بشكل دوري، ويعد امتناع الشركة عن تقديم ما يتطلبه هذا الفحص مخالفة لأحكام هذا النظام ولائحته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تزوِّد شركة التمويل المؤسسة بالبيانات التي تطلبها، وعلى المؤسسة فحص سجلات شركة التمويل وحساباتها بشكل دوري، ويعد امتناع الشركة عن تقديم ما يتطلبه هذا الفحص مخالفة لأحكام هذا النظام ولائحته.",
+          "text_for_index": "تزوِّد شركة التمويل المؤسسة بالبيانات التي تطلبها، وعلى المؤسسة فحص سجلات شركة التمويل وحساباتها بشكل دوري، ويعد امتناع الشركة عن تقديم ما يتطلبه هذا الفحص مخالفة لأحكام هذا النظام ولائحته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون:",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "company_management",
+        "labor",
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "عمل",
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة التاسعة والعشرون",
+      "text_verbatim": "إذا ارتكبت الشركة مخالفات تتعلق بتجاوزات مهنية أو بتعاملات تعرض مساهميها أو دائنيها للخطر، أو إذا تجاوزت ديون الشركة أصولها؛ فعلى المؤسسة - بقرار كتابي وبما يتناسب مع حجم المخالفة - أن تتخذ تجاه الشركة واحداً أو أكثر مما يأتي:\n\n\t• إنذارها.\n\n\t• تكليفها بتقديم برنامج ملائم يوضح ما ستتخذه من إجراءات لإزالة المخالفة وتصحيح الوضع.\n\n\t• إلزامها بوقف بعض عملياتها، أو منعها من توزيع الأرباح.\n\n\t• إيقاع الغرامة المالية المنصوص عليها في المادة (الرابعة والثلاثين) من هذا النظام وذلك بحسب الأحوال.\n\n\t• إلزامها بإيقاف الشخص المخالف - من غير أعضاء مجلس الإدارة - عن العمل بشكل مؤقت، أو إلزامها بفصله تبعاً لخطورة المخالفة.\n\n\t• إيقاف رئيس مجلس إدارتها، أو أي من أعضاء المجلس عن العمل إيقافًا مؤقتًا.\n\n\t• تعيين مستشار أو أكثر لتقديم المشورة لها في إدارة أعمالها على نفقتها.\n\n\t• تعليق سلطة مجلس إدارتها وتعيين مدير على نفقة الشركة لإدارة أعمالها إلى أن تزول الأسباب الداعية إلى ذلك، وفق تقدير المؤسسة.\n\n\tوإن رأت المؤسسة أن المخالفة تستوجب إلغاء الترخيص، أو تصفية الشركة؛ فعليها إقامة دعوى أمام المحكمة المختصة، وللمؤسسة في الحالات التي تقدرها إيقاف الترخيص إلى حين البت في الدعوى.",
+      "text_for_index": "إذا ارتكبت الشركة مخالفات تتعلق بتجاوزات مهنية أو بتعاملات تعرض مساهميها أو دائنيها للخطر، أو إذا تجاوزت ديون الشركة أصولها؛ فعلى المؤسسة - بقرار كتابي وبما يتناسب مع حجم المخالفة - أن تتخذ تجاه الشركة واحداً أو أكثر مما يأتي:\n\n • إنذارها.\n\n • تكليفها بتقديم برنامج ملائم يوضح ما ستتخذه من إجراءات لإزالة المخالفة وتصحيح الوضع.\n\n • إلزامها بوقف بعض عملياتها، أو منعها من توزيع الأرباح.\n\n • إيقاع الغرامة المالية المنصوص عليها في المادة (الرابعة والثلاثين) من هذا النظام وذلك بحسب الأحوال.\n\n • إلزامها بإيقاف الشخص المخالف - من غير أعضاء مجلس الإدارة - عن العمل بشكل مؤقت، أو إلزامها بفصله تبعاً لخطورة المخالفة.\n\n • إيقاف رئيس مجلس إدارتها، أو أي من أعضاء المجلس عن العمل إيقافًا مؤقتًا.\n\n • تعيين مستشار أو أكثر لتقديم المشورة لها في إدارة أعمالها على نفقتها.\n\n • تعليق سلطة مجلس إدارتها وتعيين مدير على نفقة الشركة لإدارة أعمالها إلى أن تزول الأسباب الداعية إلى ذلك، وفق تقدير المؤسسة.\n\n وإن رأت المؤسسة أن المخالفة تستوجب إلغاء الترخيص، أو تصفية الشركة؛ فعليها إقامة دعوى أمام المحكمة المختصة، وللمؤسسة في الحالات التي تقدرها إيقاف الترخيص إلى حين البت في الدعوى.",
+      "paragraph_count": 10,
+      "indexable_paragraph_count": 10,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "إذا ارتكبت الشركة مخالفات تتعلق بتجاوزات مهنية أو بتعاملات تعرض مساهميها أو دائنيها للخطر، أو إذا تجاوزت ديون الشركة أصولها؛ فعلى المؤسسة - بقرار كتابي وبما يتناسب مع حجم المخالفة - أن تتخذ تجاه الشركة واحداً أو أكثر مما يأتي:",
+          "text_for_index": "إذا ارتكبت الشركة مخالفات تتعلق بتجاوزات مهنية أو بتعاملات تعرض مساهميها أو دائنيها للخطر، أو إذا تجاوزت ديون الشركة أصولها؛ فعلى المؤسسة - بقرار كتابي وبما يتناسب مع حجم المخالفة - أن تتخذ تجاه الشركة واحداً أو أكثر مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إنذارها.",
+          "text_for_index": "• إنذارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "• تكليفها بتقديم برنامج ملائم يوضح ما ستتخذه من إجراءات لإزالة المخالفة وتصحيح الوضع.",
+          "text_for_index": "• تكليفها بتقديم برنامج ملائم يوضح ما ستتخذه من إجراءات لإزالة المخالفة وتصحيح الوضع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إلزامها بوقف بعض عملياتها، أو منعها من توزيع الأرباح.",
+          "text_for_index": "• إلزامها بوقف بعض عملياتها، أو منعها من توزيع الأرباح.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إيقاع الغرامة المالية المنصوص عليها في المادة (الرابعة والثلاثين) من هذا النظام وذلك بحسب الأحوال.",
+          "text_for_index": "• إيقاع الغرامة المالية المنصوص عليها في المادة (الرابعة والثلاثين) من هذا النظام وذلك بحسب الأحوال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إلزامها بإيقاف الشخص المخالف - من غير أعضاء مجلس الإدارة - عن العمل بشكل مؤقت، أو إلزامها بفصله تبعاً لخطورة المخالفة.",
+          "text_for_index": "• إلزامها بإيقاف الشخص المخالف - من غير أعضاء مجلس الإدارة - عن العمل بشكل مؤقت، أو إلزامها بفصله تبعاً لخطورة المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إيقاف رئيس مجلس إدارتها، أو أي من أعضاء المجلس عن العمل إيقافًا مؤقتًا.",
+          "text_for_index": "• إيقاف رئيس مجلس إدارتها، أو أي من أعضاء المجلس عن العمل إيقافًا مؤقتًا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• تعيين مستشار أو أكثر لتقديم المشورة لها في إدارة أعمالها على نفقتها.",
+          "text_for_index": "• تعيين مستشار أو أكثر لتقديم المشورة لها في إدارة أعمالها على نفقتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• تعليق سلطة مجلس إدارتها وتعيين مدير على نفقة الشركة لإدارة أعمالها إلى أن تزول الأسباب الداعية إلى ذلك، وفق تقدير المؤسسة.",
+          "text_for_index": "• تعليق سلطة مجلس إدارتها وتعيين مدير على نفقة الشركة لإدارة أعمالها إلى أن تزول الأسباب الداعية إلى ذلك، وفق تقدير المؤسسة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-29::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "وإن رأت المؤسسة أن المخالفة تستوجب إلغاء الترخيص، أو تصفية الشركة؛ فعليها إقامة دعوى أمام المحكمة المختصة، وللمؤسسة في الحالات التي تقدرها إيقاف الترخيص إلى حين البت في الدعوى.",
+          "text_for_index": "وإن رأت المؤسسة أن المخالفة تستوجب إلغاء الترخيص، أو تصفية الشركة؛ فعليها إقامة دعوى أمام المحكمة المختصة، وللمؤسسة في الحالات التي تقدرها إيقاف الترخيص إلى حين البت في الدعوى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون:",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثلاثون",
+      "text_verbatim": "يجوز لكل ذي مصلحة التظلم من قرارات المؤسسة أمام المحكمة المختصة خلال (ستين) يومًا من تاريخ العلم بالقرار.",
+      "text_for_index": "يجوز لكل ذي مصلحة التظلم من قرارات المؤسسة أمام المحكمة المختصة خلال (ستين) يومًا من تاريخ العلم بالقرار.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز لكل ذي مصلحة التظلم من قرارات المؤسسة أمام المحكمة المختصة خلال (ستين) يومًا من تاريخ العلم بالقرار.",
+          "text_for_index": "يجوز لكل ذي مصلحة التظلم من قرارات المؤسسة أمام المحكمة المختصة خلال (ستين) يومًا من تاريخ العلم بالقرار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون:",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الحادية والثلاثون",
+      "text_verbatim": "تتولى المحكمة المختصة الفصل في المنازعات الناشئة عن تطبيق أحكام هذا النظام ولائحته، والنظر في مخالفات أحكامهما وإيقاع العقوبات المنصوص عليها في هذا النظام.",
+      "text_for_index": "تتولى المحكمة المختصة الفصل في المنازعات الناشئة عن تطبيق أحكام هذا النظام ولائحته، والنظر في مخالفات أحكامهما وإيقاع العقوبات المنصوص عليها في هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "تتولى المحكمة المختصة الفصل في المنازعات الناشئة عن تطبيق أحكام هذا النظام ولائحته، والنظر في مخالفات أحكامهما وإيقاع العقوبات المنصوص عليها في هذا النظام.",
+          "text_for_index": "تتولى المحكمة المختصة الفصل في المنازعات الناشئة عن تطبيق أحكام هذا النظام ولائحته، والنظر في مخالفات أحكامهما وإيقاع العقوبات المنصوص عليها في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون:",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثانية والثلاثون",
+      "text_verbatim": "يعين المحافظ موظفين مؤهلين لهم صفة الضبط؛ للقيام بما يأتي:\n\n\t• أعمال الفحص والرقابة.\n\n\t• التحقيق في مخالفات أحكام هذا النظام.\n\n\t• الادعاء العام أمام المحكمة المختصة.\n\n\tوتحدد اللائحة الإجراءات المنظمة لتنفيذ هذه المادة بما يتفق مع طبيعة هذه الأعمال، وبما لا يتعارض مع أحكام نظام الإجراءات الجزائية.",
+      "text_for_index": "يعين المحافظ موظفين مؤهلين لهم صفة الضبط؛ للقيام بما يأتي:\n\n • أعمال الفحص والرقابة.\n\n • التحقيق في مخالفات أحكام هذا النظام.\n\n • الادعاء العام أمام المحكمة المختصة.\n\n وتحدد اللائحة الإجراءات المنظمة لتنفيذ هذه المادة بما يتفق مع طبيعة هذه الأعمال، وبما لا يتعارض مع أحكام نظام الإجراءات الجزائية.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يعين المحافظ موظفين مؤهلين لهم صفة الضبط؛ للقيام بما يأتي:",
+          "text_for_index": "يعين المحافظ موظفين مؤهلين لهم صفة الضبط؛ للقيام بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-32::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• أعمال الفحص والرقابة.",
+          "text_for_index": "• أعمال الفحص والرقابة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-32::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• التحقيق في مخالفات أحكام هذا النظام.",
+          "text_for_index": "• التحقيق في مخالفات أحكام هذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-32::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الادعاء العام أمام المحكمة المختصة.",
+          "text_for_index": "• الادعاء العام أمام المحكمة المختصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-32::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "وتحدد اللائحة الإجراءات المنظمة لتنفيذ هذه المادة بما يتفق مع طبيعة هذه الأعمال، وبما لا يتعارض مع أحكام نظام الإجراءات الجزائية.",
+          "text_for_index": "وتحدد اللائحة الإجراءات المنظمة لتنفيذ هذه المادة بما يتفق مع طبيعة هذه الأعمال، وبما لا يتعارض مع أحكام نظام الإجراءات الجزائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون:",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثالثة والثلاثون",
+      "text_verbatim": "يجب على شركة التمويل الإفصاح لعميلها قبل التعاقد معه عن معادلة الخصم في السداد المبكر؛ ليعمل بها عند الاتفاق عليه، وعند اللجوء إليه بحكم العقد أو النظام أو القضاء، وتحدد اللائحة معايير معادلة السداد المبكر بما يحقق العدالة بين طرفي العقد.",
+      "text_for_index": "يجب على شركة التمويل الإفصاح لعميلها قبل التعاقد معه عن معادلة الخصم في السداد المبكر؛ ليعمل بها عند الاتفاق عليه، وعند اللجوء إليه بحكم العقد أو النظام أو القضاء، وتحدد اللائحة معايير معادلة السداد المبكر بما يحقق العدالة بين طرفي العقد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على شركة التمويل الإفصاح لعميلها قبل التعاقد معه عن معادلة الخصم في السداد المبكر؛ ليعمل بها عند الاتفاق عليه، وعند اللجوء إليه بحكم العقد أو النظام أو القضاء، وتحدد اللائحة معايير معادلة السداد المبكر بما يحقق العدالة بين طرفي العقد.",
+          "text_for_index": "يجب على شركة التمويل الإفصاح لعميلها قبل التعاقد معه عن معادلة الخصم في السداد المبكر؛ ليعمل بها عند الاتفاق عليه، وعند اللجوء إليه بحكم العقد أو النظام أو القضاء، وتحدد اللائحة معايير معادلة السداد المبكر بما يحقق العدالة بين طرفي العقد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون:",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الرابعة والثلاثون",
+      "text_verbatim": "تفرض المؤسسة غرامـة مالية لا تتجاوز (250.000) مائتين وخمسين ألف ريال عند ارتكاب أي من المخالفات المنصوص عليها في المادة (التاسعة والعشرين) من هذا النظام، وعند استمرار المخالفة يجوز للمؤسسة فرض غـرامـة مالية لا تتجاوز (10.000) عشرة آلاف ريال عن كل يوم تستمر فيه المخالفة.",
+      "text_for_index": "تفرض المؤسسة غرامـة مالية لا تتجاوز (250.000) مائتين وخمسين ألف ريال عند ارتكاب أي من المخالفات المنصوص عليها في المادة (التاسعة والعشرين) من هذا النظام، وعند استمرار المخالفة يجوز للمؤسسة فرض غـرامـة مالية لا تتجاوز (10.000) عشرة آلاف ريال عن كل يوم تستمر فيه المخالفة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "تفرض المؤسسة غرامـة مالية لا تتجاوز (250.000) مائتين وخمسين ألف ريال عند ارتكاب أي من المخالفات المنصوص عليها في المادة (التاسعة والعشرين) من هذا النظام، وعند استمرار المخالفة يجوز للمؤسسة فرض غـرامـة مالية لا تتجاوز (10.000) عشرة آلاف ريال عن كل يوم تستمر فيه المخالفة.",
+          "text_for_index": "تفرض المؤسسة غرامـة مالية لا تتجاوز (250.000) مائتين وخمسين ألف ريال عند ارتكاب أي من المخالفات المنصوص عليها في المادة (التاسعة والعشرين) من هذا النظام، وعند استمرار المخالفة يجوز للمؤسسة فرض غـرامـة مالية لا تتجاوز (10.000) عشرة آلاف ريال عن كل يوم تستمر فيه المخالفة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون:",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الخامسة والثلاثون",
+      "text_verbatim": "• يعاقب كل من ثبتت مماطلته في الوفاء بدينه بغرامة مالية، على ألا تتجاوز تلك الغرامة ضعف ربح الالتزام محل المماطلة لمدتها، وتتكرر العقوبة بتكرار المماطلة وتودع الغرامة في حساب الجهة المشرفة على الجمعيات الأهلية، وتخصص لدعم جمعيات النفع العام.\n\n\t• يعاقب - وفقًا لجسامة المخالفة - بغرامة مالية لا تزيد على (500.000) خمسمائة ألف ريال وبالسجن مدة لا تتجاوز سنتين أو بإحدى هاتين العقوبتين؛ كل من يخالف أياً من أحكام هذا النظام ولائحته، وذلك دون إخلال بما تقضي به المادة (الرابعة والثلاثون) من هذا النظام .",
+      "text_for_index": "• يعاقب كل من ثبتت مماطلته في الوفاء بدينه بغرامة مالية، على ألا تتجاوز تلك الغرامة ضعف ربح الالتزام محل المماطلة لمدتها، وتتكرر العقوبة بتكرار المماطلة وتودع الغرامة في حساب الجهة المشرفة على الجمعيات الأهلية، وتخصص لدعم جمعيات النفع العام.\n\n • يعاقب - وفقًا لجسامة المخالفة - بغرامة مالية لا تزيد على (500.000) خمسمائة ألف ريال وبالسجن مدة لا تتجاوز سنتين أو بإحدى هاتين العقوبتين؛ كل من يخالف أياً من أحكام هذا النظام ولائحته، وذلك دون إخلال بما تقضي به المادة (الرابعة والثلاثون) من هذا النظام .",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• يعاقب كل من ثبتت مماطلته في الوفاء بدينه بغرامة مالية، على ألا تتجاوز تلك الغرامة ضعف ربح الالتزام محل المماطلة لمدتها، وتتكرر العقوبة بتكرار المماطلة وتودع الغرامة في حساب الجهة المشرفة على الجمعيات الأهلية، وتخصص لدعم جمعيات النفع العام.",
+          "text_for_index": "• يعاقب كل من ثبتت مماطلته في الوفاء بدينه بغرامة مالية، على ألا تتجاوز تلك الغرامة ضعف ربح الالتزام محل المماطلة لمدتها، وتتكرر العقوبة بتكرار المماطلة وتودع الغرامة في حساب الجهة المشرفة على الجمعيات الأهلية، وتخصص لدعم جمعيات النفع العام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-35::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يعاقب - وفقًا لجسامة المخالفة - بغرامة مالية لا تزيد على (500.000) خمسمائة ألف ريال وبالسجن مدة لا تتجاوز سنتين أو بإحدى هاتين العقوبتين؛ كل من يخالف أياً من أحكام هذا النظام ولائحته، وذلك دون إخلال بما تقضي به المادة (الرابعة والثلاثون) من هذا النظام .",
+          "text_for_index": "• يعاقب - وفقًا لجسامة المخالفة - بغرامة مالية لا تزيد على (500.000) خمسمائة ألف ريال وبالسجن مدة لا تتجاوز سنتين أو بإحدى هاتين العقوبتين؛ كل من يخالف أياً من أحكام هذا النظام ولائحته، وذلك دون إخلال بما تقضي به المادة (الرابعة والثلاثون) من هذا النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون:",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السادسة والثلاثون",
+      "text_verbatim": "تمنح الشركات والمؤسسات العاملة التي تزاول نشاط التمويل في المملكة قبل سريان هذا النظام مهلة سنتين لتسوية أوضاعها وفق أحكام هذا النظام.",
+      "text_for_index": "تمنح الشركات والمؤسسات العاملة التي تزاول نشاط التمويل في المملكة قبل سريان هذا النظام مهلة سنتين لتسوية أوضاعها وفق أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تمنح الشركات والمؤسسات العاملة التي تزاول نشاط التمويل في المملكة قبل سريان هذا النظام مهلة سنتين لتسوية أوضاعها وفق أحكام هذا النظام.",
+          "text_for_index": "تمنح الشركات والمؤسسات العاملة التي تزاول نشاط التمويل في المملكة قبل سريان هذا النظام مهلة سنتين لتسوية أوضاعها وفق أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون:",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة السابعة والثلاثون",
+      "text_verbatim": "تصدر مصلحة الزكاة والدخل المعايير اللازمة لاحتساب الوعاء الزكوي لشركات التمويل.",
+      "text_for_index": "تصدر مصلحة الزكاة والدخل المعايير اللازمة لاحتساب الوعاء الزكوي لشركات التمويل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تصدر مصلحة الزكاة والدخل المعايير اللازمة لاحتساب الوعاء الزكوي لشركات التمويل.",
+          "text_for_index": "تصدر مصلحة الزكاة والدخل المعايير اللازمة لاحتساب الوعاء الزكوي لشركات التمويل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون:",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الثامنة والثلاثون",
+      "text_verbatim": "يلغي هذا النظام كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يلغي هذا النظام كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي هذا النظام كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يلغي هذا النظام كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون:",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة التاسعة والثلاثون",
+      "text_verbatim": "يصدر المحافظ اللائحة خلال تسعين يوماً من تاريخ صدور النظام، ويعمل بها بعد نفاذه.",
+      "text_for_index": "يصدر المحافظ اللائحة خلال تسعين يوماً من تاريخ صدور النظام، ويعمل بها بعد نفاذه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر المحافظ اللائحة خلال تسعين يوماً من تاريخ صدور النظام، ويعمل بها بعد نفاذه.",
+          "text_for_index": "يصدر المحافظ اللائحة خلال تسعين يوماً من تاريخ صدور النظام، ويعمل بها بعد نفاذه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون:",
+      "article_heading": "الأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مراقبة شركات التمويل، المادة الأربعون",
+      "text_verbatim": "يعمل بهذا النظام بعد مضي تسعين يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام بعد مضي تسعين يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mraqbh-shrkat-altmwyl::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بهذا النظام بعد مضي تسعين يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام بعد مضي تسعين يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

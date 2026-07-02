@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "slug": "nzam-tadad-alskan-alaam",
+    "title_ar": "نظام تعداد السكان العام",
+    "status": "ساري",
+    "issue_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+    "issue_date_gregorian": "1971-02-26",
+    "publish_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+    "publish_date_gregorian": "1971-02-26",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0fceb9eb-d143-4d87-8a47-a9a700f20f2e/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-tadad-alskan-alaam.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-tadad-alskan-alaam.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+    "effective_date_gregorian": "1971-02-26",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 7,
+    "paragraph_count": 7,
+    "indexable_paragraph_count": 7,
+    "text_chars": 1405,
+    "verbatim_chars": 1436,
+    "citation_base_ar": "نظام تعداد السكان العام",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0fceb9eb-d143-4d87-8a47-a9a700f20f2e/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-tadad-alskan-alaam.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-tadad-alskan-alaam.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة الأولى",
+      "text_verbatim": "يجرى تعداد عام للسكان في جميع أنحاء المملكة العربية السعودية، يحدد موعد إجرائه بقرار من   مجلس الوزراء   في موعد لا يتجاوز أربع سنوات من تاريخ صدور هذا النظام.",
+      "text_for_index": "يجرى تعداد عام للسكان في جميع أنحاء المملكة العربية السعودية، يحدد موعد إجرائه بقرار من مجلس الوزراء في موعد لا يتجاوز أربع سنوات من تاريخ صدور هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجرى تعداد عام للسكان في جميع أنحاء المملكة العربية السعودية، يحدد موعد إجرائه بقرار من   مجلس الوزراء   في موعد لا يتجاوز أربع سنوات من تاريخ صدور هذا النظام.",
+          "text_for_index": "يجرى تعداد عام للسكان في جميع أنحاء المملكة العربية السعودية، يحدد موعد إجرائه بقرار من مجلس الوزراء في موعد لا يتجاوز أربع سنوات من تاريخ صدور هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة الثانية",
+      "text_verbatim": "يكون  وزير المالية والاقتصاد الوطني    مسؤولا عن إجراء هذا التعداد، بواسطة   مصلحة الإحصاءات العامة     التابعة    لوزارة المالية والاقتصاد الوطني   ، ويكون له صرف التعويضات والمكافآت وإبرام العقود في حدود ما يقتضيه الأمر دون تقيد بأحكام   نظام الموظفين العام     أو الأنظمة المالية.",
+      "text_for_index": "يكون وزير المالية والاقتصاد الوطني مسؤولا عن إجراء هذا التعداد، بواسطة مصلحة الإحصاءات العامة التابعة لوزارة المالية والاقتصاد الوطني ، ويكون له صرف التعويضات والمكافآت وإبرام العقود في حدود ما يقتضيه الأمر دون تقيد بأحكام نظام الموظفين العام أو الأنظمة المالية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يكون  وزير المالية والاقتصاد الوطني    مسؤولا عن إجراء هذا التعداد، بواسطة   مصلحة الإحصاءات العامة     التابعة    لوزارة المالية والاقتصاد الوطني   ، ويكون له صرف التعويضات والمكافآت وإبرام العقود في حدود ما يقتضيه الأمر دون تقيد بأحكام   نظام الموظفين العام     أو الأنظمة المالية.",
+          "text_for_index": "يكون وزير المالية والاقتصاد الوطني مسؤولا عن إجراء هذا التعداد، بواسطة مصلحة الإحصاءات العامة التابعة لوزارة المالية والاقتصاد الوطني ، ويكون له صرف التعويضات والمكافآت وإبرام العقود في حدود ما يقتضيه الأمر دون تقيد بأحكام نظام الموظفين العام أو الأنظمة المالية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة الثالثة",
+      "text_verbatim": "على جميع موظفي ومنسوبي الدولة من مدنيين وعسكريين، أن يقدموا للموظفين الذين لهم علاقة بأعمال التعداد المزودين ببطاقات شخصية صادرة من   مصلحة الإحصاءات العامة   ، كل مساعدة وتسهيل يحتاجونها للقيام بأعمالهم، وأن يزودوهم بجميع المعلومات التي يطلبونها منهم، وأن يقوموا بالأعمال التي تدخل في نطاق اختصاصهم إن كانت هناك أعمال لازمة للتحضير للتعداد أو تنفيذه. ويعاقب كل موظف تعمد عدم أداء المساعدة أو تهاون في أدائها طبقا للأنظمة.",
+      "text_for_index": "على جميع موظفي ومنسوبي الدولة من مدنيين وعسكريين، أن يقدموا للموظفين الذين لهم علاقة بأعمال التعداد المزودين ببطاقات شخصية صادرة من مصلحة الإحصاءات العامة ، كل مساعدة وتسهيل يحتاجونها للقيام بأعمالهم، وأن يزودوهم بجميع المعلومات التي يطلبونها منهم، وأن يقوموا بالأعمال التي تدخل في نطاق اختصاصهم إن كانت هناك أعمال لازمة للتحضير للتعداد أو تنفيذه. ويعاقب كل موظف تعمد عدم أداء المساعدة أو تهاون في أدائها طبقا للأنظمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "على جميع موظفي ومنسوبي الدولة من مدنيين وعسكريين، أن يقدموا للموظفين الذين لهم علاقة بأعمال التعداد المزودين ببطاقات شخصية صادرة من   مصلحة الإحصاءات العامة   ، كل مساعدة وتسهيل يحتاجونها للقيام بأعمالهم، وأن يزودوهم بجميع المعلومات التي يطلبونها منهم، وأن يقوموا بالأعمال التي تدخل في نطاق اختصاصهم إن كانت هناك أعمال لازمة للتحضير للتعداد أو تنفيذه. ويعاقب كل موظف تعمد عدم أداء المساعدة أو تهاون في أدائها طبقا للأنظمة.",
+          "text_for_index": "على جميع موظفي ومنسوبي الدولة من مدنيين وعسكريين، أن يقدموا للموظفين الذين لهم علاقة بأعمال التعداد المزودين ببطاقات شخصية صادرة من مصلحة الإحصاءات العامة ، كل مساعدة وتسهيل يحتاجونها للقيام بأعمالهم، وأن يزودوهم بجميع المعلومات التي يطلبونها منهم، وأن يقوموا بالأعمال التي تدخل في نطاق اختصاصهم إن كانت هناك أعمال لازمة للتحضير للتعداد أو تنفيذه. ويعاقب كل موظف تعمد عدم أداء المساعدة أو تهاون في أدائها طبقا للأنظمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة الرابعة",
+      "text_verbatim": "يحظرعلى كل شخص تعويق المسؤولين عن التعداد عن أداء مهمتهم أو منعهم من وضع أية علامات أو أرقام على أبواب أو جدران المساكن التي يملكونها أو يشغلونها أو غيرها، ويجب على كل شخص أن يجيب على الأسئلة المتعلقة بتعداد السكان التي يوجهها إليه المسؤولون عنه في حدود معرفته.",
+      "text_for_index": "يحظرعلى كل شخص تعويق المسؤولين عن التعداد عن أداء مهمتهم أو منعهم من وضع أية علامات أو أرقام على أبواب أو جدران المساكن التي يملكونها أو يشغلونها أو غيرها، ويجب على كل شخص أن يجيب على الأسئلة المتعلقة بتعداد السكان التي يوجهها إليه المسؤولون عنه في حدود معرفته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "يحظرعلى كل شخص تعويق المسؤولين عن التعداد عن أداء مهمتهم أو منعهم من وضع أية علامات أو أرقام على أبواب أو جدران المساكن التي يملكونها أو يشغلونها أو غيرها، ويجب على كل شخص أن يجيب على الأسئلة المتعلقة بتعداد السكان التي يوجهها إليه المسؤولون عنه في حدود معرفته.",
+          "text_for_index": "يحظرعلى كل شخص تعويق المسؤولين عن التعداد عن أداء مهمتهم أو منعهم من وضع أية علامات أو أرقام على أبواب أو جدران المساكن التي يملكونها أو يشغلونها أو غيرها، ويجب على كل شخص أن يجيب على الأسئلة المتعلقة بتعداد السكان التي يوجهها إليه المسؤولون عنه في حدود معرفته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة الخامسة",
+      "text_verbatim": "تنشر نتائج التعداد على شكل جداول إحصائية عامة.",
+      "text_for_index": "تنشر نتائج التعداد على شكل جداول إحصائية عامة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنشر نتائج التعداد على شكل جداول إحصائية عامة.",
+          "text_for_index": "تنشر نتائج التعداد على شكل جداول إحصائية عامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة السادسة",
+      "text_verbatim": "يصدر وزيرالمالية والاقتصاد الوطني   اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+      "text_for_index": "يصدر وزيرالمالية والاقتصاد الوطني اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يصدر وزيرالمالية والاقتصاد الوطني   اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+          "text_for_index": "يصدر وزيرالمالية والاقتصاد الوطني اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعداد السكان العام، المادة السابعة",
+      "text_verbatim": "يلغي هذا النظام كافة الأنظمة السابقة له والمتعارضة معه.",
+      "text_for_index": "يلغي هذا النظام كافة الأنظمة السابقة له والمتعارضة معه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-tadad-alskan-alaam::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي هذا النظام كافة الأنظمة السابقة له والمتعارضة معه.",
+          "text_for_index": "يلغي هذا النظام كافة الأنظمة السابقة له والمتعارضة معه.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

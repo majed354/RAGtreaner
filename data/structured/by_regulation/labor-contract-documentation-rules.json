@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "slug": "labor-contract-documentation-rules",
+    "title_ar": "الدليل الإجرائي لتوثيق عقود العمل",
+    "status": "ساري",
+    "issue_date_hijri": "",
+    "issue_date_gregorian": "",
+    "publish_date_hijri": "",
+    "publish_date_gregorian": "",
+    "official_source_urls": [
+      "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/الدليل-الإجرائي-لتوثيق-العقود"
+    ],
+    "organized_source": "documents/saudi_regulations/onboarded/labor-contract-documentation-rules.txt",
+    "knowledge_file": "documents/knowledge/saudi_regulations/labor-contract-documentation-rules.txt",
+    "document_scope": "supplementary_regulation",
+    "related_regulations": [
+      "labor-law",
+      "labor-implementing-regulation"
+    ],
+    "catalog_source": "custom_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "",
+    "effective_date_gregorian": "",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 5,
+    "paragraph_count": 5,
+    "indexable_paragraph_count": 5,
+    "text_chars": 1352,
+    "verbatim_chars": 1352,
+    "citation_base_ar": "الدليل الإجرائي لتوثيق عقود العمل",
+    "official_source_url_primary": "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/الدليل-الإجرائي-لتوثيق-العقود",
+    "extraction_source": "local_document_fallback",
+    "official_snapshot": "",
+    "verbatim_file": "data/structured/verbatim_texts/labor-contract-documentation-rules.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "لأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "الدليل الإجرائي لتوثيق عقود العمل، المادة الأولى",
+      "text_verbatim": "لأولى: نطاق الوثيقة\nتعالج هذه الوثيقة خدمة إنشاء وتوثيق وإنهاء عقود العمل إلكترونيا للموظفين عبر منصة قوى، وآلية موافقة العامل أو رفضه أو طلب تعديل العقد عبر حسابه في منصة قوى أفراد.",
+      "text_for_index": "لأولى: نطاق الوثيقة\nتعالج هذه الوثيقة خدمة إنشاء وتوثيق وإنهاء عقود العمل إلكترونيا للموظفين عبر منصة قوى، وآلية موافقة العامل أو رفضه أو طلب تعديل العقد عبر حسابه في منصة قوى أفراد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "labor-contract-documentation-rules::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لأولى: نطاق الوثيقة\nتعالج هذه الوثيقة خدمة إنشاء وتوثيق وإنهاء عقود العمل إلكترونيا للموظفين عبر منصة قوى، وآلية موافقة العامل أو رفضه أو طلب تعديل العقد عبر حسابه في منصة قوى أفراد.",
+          "text_for_index": "لأولى: نطاق الوثيقة\nتعالج هذه الوثيقة خدمة إنشاء وتوثيق وإنهاء عقود العمل إلكترونيا للموظفين عبر منصة قوى، وآلية موافقة العامل أو رفضه أو طلب تعديل العقد عبر حسابه في منصة قوى أفراد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "لثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "الدليل الإجرائي لتوثيق عقود العمل، المادة الثانية",
+      "text_verbatim": "لثانية: أثر موافقة الطرفين\nتقرر الصفحة أن عقد العمل بعد إنشائه يمكن للموظف الموافقة عليه أو رفضه أو طلب تعديله، وفي حال موافقة الطرفين يعد العقد موثقا من وزارة الموارد البشرية والتنمية الاجتماعية.",
+      "text_for_index": "لثانية: أثر موافقة الطرفين\nتقرر الصفحة أن عقد العمل بعد إنشائه يمكن للموظف الموافقة عليه أو رفضه أو طلب تعديله، وفي حال موافقة الطرفين يعد العقد موثقا من وزارة الموارد البشرية والتنمية الاجتماعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "labor-contract-documentation-rules::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "لثانية: أثر موافقة الطرفين\nتقرر الصفحة أن عقد العمل بعد إنشائه يمكن للموظف الموافقة عليه أو رفضه أو طلب تعديله، وفي حال موافقة الطرفين يعد العقد موثقا من وزارة الموارد البشرية والتنمية الاجتماعية.",
+          "text_for_index": "لثانية: أثر موافقة الطرفين\nتقرر الصفحة أن عقد العمل بعد إنشائه يمكن للموظف الموافقة عليه أو رفضه أو طلب تعديله، وفي حال موافقة الطرفين يعد العقد موثقا من وزارة الموارد البشرية والتنمية الاجتماعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "لثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "الدليل الإجرائي لتوثيق عقود العمل، المادة الثالثة",
+      "text_verbatim": "لثالثة: الأساس التنظيمي\nتشير الصفحة إلى قرار مجلس الوزراء رقم 195 وتاريخ 4/4/1443 هـ، الذي نقل ما يتعلق بإدارة العلاقة التعاقدية إلى وزارة الموارد البشرية والتنمية الاجتماعية، ومن ذلك توثيق عقود العمل وإجراءاتها وتنظيمها في سوق العمل.",
+      "text_for_index": "لثالثة: الأساس التنظيمي\nتشير الصفحة إلى قرار مجلس الوزراء رقم 195 وتاريخ 4/4/1443 هـ، الذي نقل ما يتعلق بإدارة العلاقة التعاقدية إلى وزارة الموارد البشرية والتنمية الاجتماعية، ومن ذلك توثيق عقود العمل وإجراءاتها وتنظيمها في سوق العمل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "labor-contract-documentation-rules::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "لثالثة: الأساس التنظيمي\nتشير الصفحة إلى قرار مجلس الوزراء رقم 195 وتاريخ 4/4/1443 هـ، الذي نقل ما يتعلق بإدارة العلاقة التعاقدية إلى وزارة الموارد البشرية والتنمية الاجتماعية، ومن ذلك توثيق عقود العمل وإجراءاتها وتنظيمها في سوق العمل.",
+          "text_for_index": "لثالثة: الأساس التنظيمي\nتشير الصفحة إلى قرار مجلس الوزراء رقم 195 وتاريخ 4/4/1443 هـ، الذي نقل ما يتعلق بإدارة العلاقة التعاقدية إلى وزارة الموارد البشرية والتنمية الاجتماعية، ومن ذلك توثيق عقود العمل وإجراءاتها وتنظيمها في سوق العمل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "لرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "الدليل الإجرائي لتوثيق عقود العمل، المادة الرابعة",
+      "text_verbatim": "لرابعة: صلة الوثيقة بنظام العمل\nتستدعى هذه الوثيقة مع نظام العمل واللائحة التنفيذية عند وجود نزاع عن عقد غير موثق، تعديل عقد، إثبات علاقة العمل، عرض وظيفي تحول إلى عقد، رفض توثيق العقد، أو اختلاف بيانات العقد والأجر.",
+      "text_for_index": "لرابعة: صلة الوثيقة بنظام العمل\nتستدعى هذه الوثيقة مع نظام العمل واللائحة التنفيذية عند وجود نزاع عن عقد غير موثق، تعديل عقد، إثبات علاقة العمل، عرض وظيفي تحول إلى عقد، رفض توثيق العقد، أو اختلاف بيانات العقد والأجر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "labor-contract-documentation-rules::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "لرابعة: صلة الوثيقة بنظام العمل\nتستدعى هذه الوثيقة مع نظام العمل واللائحة التنفيذية عند وجود نزاع عن عقد غير موثق، تعديل عقد، إثبات علاقة العمل، عرض وظيفي تحول إلى عقد، رفض توثيق العقد، أو اختلاف بيانات العقد والأجر.",
+          "text_for_index": "لرابعة: صلة الوثيقة بنظام العمل\nتستدعى هذه الوثيقة مع نظام العمل واللائحة التنفيذية عند وجود نزاع عن عقد غير موثق، تعديل عقد، إثبات علاقة العمل، عرض وظيفي تحول إلى عقد، رفض توثيق العقد، أو اختلاف بيانات العقد والأجر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "لخامسة",
+      "article_label_raw": "لخامسة",
+      "article_heading": "لخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "الدليل الإجرائي لتوثيق عقود العمل، المادة لخامسة",
+      "text_verbatim": "لخامسة: كلمات الاستدعاء\nتوثيق عقود العمل، منصة قوى، قوى أفراد، إنشاء عقد العمل، تعديل عقد العمل، إنهاء عقد العمل، موافقة العامل، رفض العقد، علاقة تعاقدية، قرار مجلس الوزراء 195، وزارة الموارد البشرية والتنمية الاجتماعية.",
+      "text_for_index": "لخامسة: كلمات الاستدعاء\nتوثيق عقود العمل، منصة قوى، قوى أفراد، إنشاء عقد العمل، تعديل عقد العمل، إنهاء عقد العمل، موافقة العامل، رفض العقد، علاقة تعاقدية، قرار مجلس الوزراء 195، وزارة الموارد البشرية والتنمية الاجتماعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "labor-contract-documentation-rules::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لخامسة: كلمات الاستدعاء\nتوثيق عقود العمل، منصة قوى، قوى أفراد، إنشاء عقد العمل، تعديل عقد العمل، إنهاء عقد العمل، موافقة العامل، رفض العقد، علاقة تعاقدية، قرار مجلس الوزراء 195، وزارة الموارد البشرية والتنمية الاجتماعية.",
+          "text_for_index": "لخامسة: كلمات الاستدعاء\nتوثيق عقود العمل، منصة قوى، قوى أفراد، إنشاء عقد العمل، تعديل عقد العمل، إنهاء عقد العمل، موافقة العامل، رفض العقد، علاقة تعاقدية، قرار مجلس الوزراء 195، وزارة الموارد البشرية والتنمية الاجتماعية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "slug": "nzam-jma-altbraat",
+    "title_ar": "نظام جمع التبرعات",
+    "status": "ساري",
+    "issue_date_hijri": "1446/02/08 هـ الموافق : 12/08/2024 مـ",
+    "issue_date_gregorian": "2024-08-12",
+    "publish_date_hijri": "1446/02/19 هـ الموافق : 23/08/2024 مـ",
+    "publish_date_gregorian": "2024-08-23",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/738c42bb-a29f-4da7-bed4-b1d300a55f20/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-jma-altbraat.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-jma-altbraat.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1446/02/19 هـ الموافق : 23/08/2024 مـ",
+    "effective_date_gregorian": "2024-08-23",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 23,
+    "paragraph_count": 57,
+    "indexable_paragraph_count": 57,
+    "text_chars": 6924,
+    "verbatim_chars": 6924,
+    "citation_base_ar": "نظام جمع التبرعات",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/738c42bb-a29f-4da7-bed4-b1d300a55f20/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-jma-altbraat.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-jma-altbraat.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الأولى",
+      "text_verbatim": "لأغراض هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها:\n\nالنظام: نظام جمع التبرعات.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالمركز: المركز الوطني لتنمية القطاع غير الربحي.\n\nجمع التبرعات: تلقي التبرعات النقدية أو العينية من خلال الدعوة للتبرع أو إقامة حملة لذلك.\n\nالدعوة إلى جمع التبرعات: حث الأشخاص ذوي الصفة الطبيعية أو الاعتبارية على التبرع لجهة محددة، لغرض معين وفي وقت محدد ووفق آلية محددة.\n\nحملة جمع التبرعات: نشاط منظم يُدعى من خلاله إلى جمع التبرعات.\n\nالجهة المرخِّصة: المركز، وغيره من الجهات المختصة نظاماً بإصدار تراخيص لجمع التبرعات.\n\nالجهة المرخَّص لها: الجمعيات والمؤسسات الأهلية، وغيرها من أجهزة القطاع غير الربحي؛ التي تجيز لها أنظمتها أو لوائحها جمع التبرعات، والحاصلة على ترخيص بجمع التبرعات من الجهة المرخِّصة.\n\nالمتبرع: شخص ذو صفة طبيعية أو اعتبارية يقدم تبرعاً نقديًّا أو عينيًّا لأي جهة مرخَّص لها.",
+      "text_for_index": "لأغراض هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها:\n\nالنظام: نظام جمع التبرعات.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالمركز: المركز الوطني لتنمية القطاع غير الربحي.\n\nجمع التبرعات: تلقي التبرعات النقدية أو العينية من خلال الدعوة للتبرع أو إقامة حملة لذلك.\n\nالدعوة إلى جمع التبرعات: حث الأشخاص ذوي الصفة الطبيعية أو الاعتبارية على التبرع لجهة محددة، لغرض معين وفي وقت محدد ووفق آلية محددة.\n\nحملة جمع التبرعات: نشاط منظم يُدعى من خلاله إلى جمع التبرعات.\n\nالجهة المرخِّصة: المركز، وغيره من الجهات المختصة نظاماً بإصدار تراخيص لجمع التبرعات.\n\nالجهة المرخَّص لها: الجمعيات والمؤسسات الأهلية، وغيرها من أجهزة القطاع غير الربحي؛ التي تجيز لها أنظمتها أو لوائحها جمع التبرعات، والحاصلة على ترخيص بجمع التبرعات من الجهة المرخِّصة.\n\nالمتبرع: شخص ذو صفة طبيعية أو اعتبارية يقدم تبرعاً نقديًّا أو عينيًّا لأي جهة مرخَّص لها.",
+      "paragraph_count": 10,
+      "indexable_paragraph_count": 10,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف"
+          ],
+          "text_verbatim": "لأغراض هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها:",
+          "text_for_index": "لأغراض هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "النظام: نظام جمع التبرعات.",
+          "text_for_index": "النظام: نظام جمع التبرعات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المركز: المركز الوطني لتنمية القطاع غير الربحي.",
+          "text_for_index": "المركز: المركز الوطني لتنمية القطاع غير الربحي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "جمع التبرعات: تلقي التبرعات النقدية أو العينية من خلال الدعوة للتبرع أو إقامة حملة لذلك.",
+          "text_for_index": "جمع التبرعات: تلقي التبرعات النقدية أو العينية من خلال الدعوة للتبرع أو إقامة حملة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الدعوة إلى جمع التبرعات: حث الأشخاص ذوي الصفة الطبيعية أو الاعتبارية على التبرع لجهة محددة، لغرض معين وفي وقت محدد ووفق آلية محددة.",
+          "text_for_index": "الدعوة إلى جمع التبرعات: حث الأشخاص ذوي الصفة الطبيعية أو الاعتبارية على التبرع لجهة محددة، لغرض معين وفي وقت محدد ووفق آلية محددة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "حملة جمع التبرعات: نشاط منظم يُدعى من خلاله إلى جمع التبرعات.",
+          "text_for_index": "حملة جمع التبرعات: نشاط منظم يُدعى من خلاله إلى جمع التبرعات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجهة المرخِّصة: المركز، وغيره من الجهات المختصة نظاماً بإصدار تراخيص لجمع التبرعات.",
+          "text_for_index": "الجهة المرخِّصة: المركز، وغيره من الجهات المختصة نظاماً بإصدار تراخيص لجمع التبرعات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجهة المرخَّص لها: الجمعيات والمؤسسات الأهلية، وغيرها من أجهزة القطاع غير الربحي؛ التي تجيز لها أنظمتها أو لوائحها جمع التبرعات، والحاصلة على ترخيص بجمع التبرعات من الجهة المرخِّصة.",
+          "text_for_index": "الجهة المرخَّص لها: الجمعيات والمؤسسات الأهلية، وغيرها من أجهزة القطاع غير الربحي؛ التي تجيز لها أنظمتها أو لوائحها جمع التبرعات، والحاصلة على ترخيص بجمع التبرعات من الجهة المرخِّصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المتبرع: شخص ذو صفة طبيعية أو اعتبارية يقدم تبرعاً نقديًّا أو عينيًّا لأي جهة مرخَّص لها.",
+          "text_for_index": "المتبرع: شخص ذو صفة طبيعية أو اعتبارية يقدم تبرعاً نقديًّا أو عينيًّا لأي جهة مرخَّص لها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثانية",
+      "text_verbatim": "• يُقصر جمع التبرعات على الجهة المرخَّص لها.\n\n\t• يجب أن يكون القائمون على جمع التبرعات وصرفها لدى الجهة المرخَّص لها من السعوديين.",
+      "text_for_index": "• يُقصر جمع التبرعات على الجهة المرخَّص لها.\n\n • يجب أن يكون القائمون على جمع التبرعات وصرفها لدى الجهة المرخَّص لها من السعوديين.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يُقصر جمع التبرعات على الجهة المرخَّص لها.",
+          "text_for_index": "• يُقصر جمع التبرعات على الجهة المرخَّص لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب أن يكون القائمون على جمع التبرعات وصرفها لدى الجهة المرخَّص لها من السعوديين.",
+          "text_for_index": "• يجب أن يكون القائمون على جمع التبرعات وصرفها لدى الجهة المرخَّص لها من السعوديين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثالثة",
+      "text_verbatim": "لا يجوز لأي جهة مرخَّص لها أن تجمع تبرعات، إلا بما يتفق مع أهدافها التي ينص عليها نظامها أو لائحتها، ويكون جمعها للتبرعات من خلال الآتي:\n\n\t• حساباتها البنكية المعتمدة، وفقاً لتعليمات البنك المركزي السعودي.\n\n\t• الحوالات المالية عبر القنوات الإلكترونية، ونحوها مما تحدده اللائحة.\n\n\t• الشيكات، على أن تودع في حساباتها البنكية المعتمدة.",
+      "text_for_index": "لا يجوز لأي جهة مرخَّص لها أن تجمع تبرعات، إلا بما يتفق مع أهدافها التي ينص عليها نظامها أو لائحتها، ويكون جمعها للتبرعات من خلال الآتي:\n\n • حساباتها البنكية المعتمدة، وفقاً لتعليمات البنك المركزي السعودي.\n\n • الحوالات المالية عبر القنوات الإلكترونية، ونحوها مما تحدده اللائحة.\n\n • الشيكات، على أن تودع في حساباتها البنكية المعتمدة.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا يجوز لأي جهة مرخَّص لها أن تجمع تبرعات، إلا بما يتفق مع أهدافها التي ينص عليها نظامها أو لائحتها، ويكون جمعها للتبرعات من خلال الآتي:",
+          "text_for_index": "لا يجوز لأي جهة مرخَّص لها أن تجمع تبرعات، إلا بما يتفق مع أهدافها التي ينص عليها نظامها أو لائحتها، ويكون جمعها للتبرعات من خلال الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• حساباتها البنكية المعتمدة، وفقاً لتعليمات البنك المركزي السعودي.",
+          "text_for_index": "• حساباتها البنكية المعتمدة، وفقاً لتعليمات البنك المركزي السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• الحوالات المالية عبر القنوات الإلكترونية، ونحوها مما تحدده اللائحة.",
+          "text_for_index": "• الحوالات المالية عبر القنوات الإلكترونية، ونحوها مما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• الشيكات، على أن تودع في حساباتها البنكية المعتمدة.",
+          "text_for_index": "• الشيكات، على أن تودع في حساباتها البنكية المعتمدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "authority",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "اختصاص",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الرابعة",
+      "text_verbatim": "للجهة المرخَّص لها تلقي التبرعات العينية من خلال مقرها الرئيس، أو فروعها، أو المواقع المرخص لها بجمع التبرعات فيها، على أن يثبت ذلك في إيصالات ذات أرقام متسلسلة، يسلَّم المتبرع نسخة منها.",
+      "text_for_index": "للجهة المرخَّص لها تلقي التبرعات العينية من خلال مقرها الرئيس، أو فروعها، أو المواقع المرخص لها بجمع التبرعات فيها، على أن يثبت ذلك في إيصالات ذات أرقام متسلسلة، يسلَّم المتبرع نسخة منها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "authority",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "اختصاص",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "للجهة المرخَّص لها تلقي التبرعات العينية من خلال مقرها الرئيس، أو فروعها، أو المواقع المرخص لها بجمع التبرعات فيها، على أن يثبت ذلك في إيصالات ذات أرقام متسلسلة، يسلَّم المتبرع نسخة منها.",
+          "text_for_index": "للجهة المرخَّص لها تلقي التبرعات العينية من خلال مقرها الرئيس، أو فروعها، أو المواقع المرخص لها بجمع التبرعات فيها، على أن يثبت ذلك في إيصالات ذات أرقام متسلسلة، يسلَّم المتبرع نسخة منها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الخامسة",
+      "text_verbatim": "يحظر على الجهة المرخَّص لها ما يلي:\n\n\t• تلقي التبرعات النقدية إلا من خلال الإيداع المباشر في حساباتها البنكية المعتمدة لدى البنوك وفروعها.\n\n\t• تلقي تبرعات من خارج المملكة، إلَّا بعد موافقة الجهة المرخِّصة. وتحدد اللائحة آلية التنسيق بين الجهة المرخِّصة والجهات ذات العلاقة في هذا الشأن.",
+      "text_for_index": "يحظر على الجهة المرخَّص لها ما يلي:\n\n • تلقي التبرعات النقدية إلا من خلال الإيداع المباشر في حساباتها البنكية المعتمدة لدى البنوك وفروعها.\n\n • تلقي تبرعات من خارج المملكة، إلَّا بعد موافقة الجهة المرخِّصة. وتحدد اللائحة آلية التنسيق بين الجهة المرخِّصة والجهات ذات العلاقة في هذا الشأن.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يحظر على الجهة المرخَّص لها ما يلي:",
+          "text_for_index": "يحظر على الجهة المرخَّص لها ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تلقي التبرعات النقدية إلا من خلال الإيداع المباشر في حساباتها البنكية المعتمدة لدى البنوك وفروعها.",
+          "text_for_index": "• تلقي التبرعات النقدية إلا من خلال الإيداع المباشر في حساباتها البنكية المعتمدة لدى البنوك وفروعها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تلقي تبرعات من خارج المملكة، إلَّا بعد موافقة الجهة المرخِّصة. وتحدد اللائحة آلية التنسيق بين الجهة المرخِّصة والجهات ذات العلاقة في هذا الشأن.",
+          "text_for_index": "• تلقي تبرعات من خارج المملكة، إلَّا بعد موافقة الجهة المرخِّصة. وتحدد اللائحة آلية التنسيق بين الجهة المرخِّصة والجهات ذات العلاقة في هذا الشأن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "definition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "تعريف",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة السادسة",
+      "text_verbatim": "• على الجهة المرخَّص لها قبل قيامها بحملة جمع تبرعات تقديم طلب إلى الجهة المرخِّصة، يتضمن الغرض من الحملة وتاريخ بدايتها ومدتها والمبلغ المراد جمعه، وعلى هذه الجهة دراسة الطلب وإصدار قرارها في شأنه خلال (ثلاثين) يوماً من تاريخ تقديم الطلب إليها.\n\n\t• يجب أن تتوقف حملة جمع التبرعات عند انتهاء المدة المحددة لها أو توافر المبلغ المستهدف أيهما أسبق.",
+      "text_for_index": "• على الجهة المرخَّص لها قبل قيامها بحملة جمع تبرعات تقديم طلب إلى الجهة المرخِّصة، يتضمن الغرض من الحملة وتاريخ بدايتها ومدتها والمبلغ المراد جمعه، وعلى هذه الجهة دراسة الطلب وإصدار قرارها في شأنه خلال (ثلاثين) يوماً من تاريخ تقديم الطلب إليها.\n\n • يجب أن تتوقف حملة جمع التبرعات عند انتهاء المدة المحددة لها أو توافر المبلغ المستهدف أيهما أسبق.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "definition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "تعريف",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• على الجهة المرخَّص لها قبل قيامها بحملة جمع تبرعات تقديم طلب إلى الجهة المرخِّصة، يتضمن الغرض من الحملة وتاريخ بدايتها ومدتها والمبلغ المراد جمعه، وعلى هذه الجهة دراسة الطلب وإصدار قرارها في شأنه خلال (ثلاثين) يوماً من تاريخ تقديم الطلب إليها.",
+          "text_for_index": "• على الجهة المرخَّص لها قبل قيامها بحملة جمع تبرعات تقديم طلب إلى الجهة المرخِّصة، يتضمن الغرض من الحملة وتاريخ بدايتها ومدتها والمبلغ المراد جمعه، وعلى هذه الجهة دراسة الطلب وإصدار قرارها في شأنه خلال (ثلاثين) يوماً من تاريخ تقديم الطلب إليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجب أن تتوقف حملة جمع التبرعات عند انتهاء المدة المحددة لها أو توافر المبلغ المستهدف أيهما أسبق.",
+          "text_for_index": "• يجب أن تتوقف حملة جمع التبرعات عند انتهاء المدة المحددة لها أو توافر المبلغ المستهدف أيهما أسبق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة السابعة",
+      "text_verbatim": "لا يجوز للجهة المرخَّص لها طباعة مطبوعات لغرض الدعوة إلى جمع التبرعات، ولا نشرها، ما لم يكن نظامها أو لائحتها تجيز لها ذلك.",
+      "text_for_index": "لا يجوز للجهة المرخَّص لها طباعة مطبوعات لغرض الدعوة إلى جمع التبرعات، ولا نشرها، ما لم يكن نظامها أو لائحتها تجيز لها ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للجهة المرخَّص لها طباعة مطبوعات لغرض الدعوة إلى جمع التبرعات، ولا نشرها، ما لم يكن نظامها أو لائحتها تجيز لها ذلك.",
+          "text_for_index": "لا يجوز للجهة المرخَّص لها طباعة مطبوعات لغرض الدعوة إلى جمع التبرعات، ولا نشرها، ما لم يكن نظامها أو لائحتها تجيز لها ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثامنة",
+      "text_verbatim": "تكون الدعوة إلى جمع التبرعات من خلال الوسائل الآتية:\n\n\t• وسائل الإعلام المحلية.\n\n\t• شركات الاتصالات المحلية، وفقاً للتعليمات المنظمة لذلك.\n\n\t• اللوحات الإعلانية، وفواتير الخدمات.\n\n\t• المطبوعات التي تعدها الجهة المرخَّص لها، وفقاً لنظامها أو لائحتها.\n\n\t• وسائل التواصل الاجتماعي، ومواقع الإنترنت.\n\n\t• أي وسيلة أخرى تحددها اللائحة.",
+      "text_for_index": "تكون الدعوة إلى جمع التبرعات من خلال الوسائل الآتية:\n\n • وسائل الإعلام المحلية.\n\n • شركات الاتصالات المحلية، وفقاً للتعليمات المنظمة لذلك.\n\n • اللوحات الإعلانية، وفواتير الخدمات.\n\n • المطبوعات التي تعدها الجهة المرخَّص لها، وفقاً لنظامها أو لائحتها.\n\n • وسائل التواصل الاجتماعي، ومواقع الإنترنت.\n\n • أي وسيلة أخرى تحددها اللائحة.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تكون الدعوة إلى جمع التبرعات من خلال الوسائل الآتية:",
+          "text_for_index": "تكون الدعوة إلى جمع التبرعات من خلال الوسائل الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• وسائل الإعلام المحلية.",
+          "text_for_index": "• وسائل الإعلام المحلية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• شركات الاتصالات المحلية، وفقاً للتعليمات المنظمة لذلك.",
+          "text_for_index": "• شركات الاتصالات المحلية، وفقاً للتعليمات المنظمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• اللوحات الإعلانية، وفواتير الخدمات.",
+          "text_for_index": "• اللوحات الإعلانية، وفواتير الخدمات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المطبوعات التي تعدها الجهة المرخَّص لها، وفقاً لنظامها أو لائحتها.",
+          "text_for_index": "• المطبوعات التي تعدها الجهة المرخَّص لها، وفقاً لنظامها أو لائحتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• وسائل التواصل الاجتماعي، ومواقع الإنترنت.",
+          "text_for_index": "• وسائل التواصل الاجتماعي، ومواقع الإنترنت.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-8::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أي وسيلة أخرى تحددها اللائحة.",
+          "text_for_index": "• أي وسيلة أخرى تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة التاسعة",
+      "text_verbatim": "على الجهة المرخَّص لها عند الدعوة إلى جمع التبرعات في أي من الوسائل المشار إليها في المادة (الثامنة) من النظام، أن تُضمّن دعوتها البيانات الآتية:\n\n\t• رقم الترخيص.\n\n\t• أرقام حساباتها البنكية المعتمدة.\n\n\t• عنوان مقرها الرئيس، أو فروعها، وأرقام هواتفها.\n\n\t• معلومات عن الغرض المطلوب له جمع التبرعات.",
+      "text_for_index": "على الجهة المرخَّص لها عند الدعوة إلى جمع التبرعات في أي من الوسائل المشار إليها في المادة (الثامنة) من النظام، أن تُضمّن دعوتها البيانات الآتية:\n\n • رقم الترخيص.\n\n • أرقام حساباتها البنكية المعتمدة.\n\n • عنوان مقرها الرئيس، أو فروعها، وأرقام هواتفها.\n\n • معلومات عن الغرض المطلوب له جمع التبرعات.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "على الجهة المرخَّص لها عند الدعوة إلى جمع التبرعات في أي من الوسائل المشار إليها في المادة (الثامنة) من النظام، أن تُضمّن دعوتها البيانات الآتية:",
+          "text_for_index": "على الجهة المرخَّص لها عند الدعوة إلى جمع التبرعات في أي من الوسائل المشار إليها في المادة (الثامنة) من النظام، أن تُضمّن دعوتها البيانات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• رقم الترخيص.",
+          "text_for_index": "• رقم الترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• أرقام حساباتها البنكية المعتمدة.",
+          "text_for_index": "• أرقام حساباتها البنكية المعتمدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• عنوان مقرها الرئيس، أو فروعها، وأرقام هواتفها.",
+          "text_for_index": "• عنوان مقرها الرئيس، أو فروعها، وأرقام هواتفها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• معلومات عن الغرض المطلوب له جمع التبرعات.",
+          "text_for_index": "• معلومات عن الغرض المطلوب له جمع التبرعات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة العاشرة",
+      "text_verbatim": "تزود الجهة المرخَّص لها الجهة المرخِّصة، خلال (خمسة عشر) يوماً من تاريخ انتهاء حملة جمع التبرعات، بكشف حساب بنكي، وتقرير مالي مفصل موضحة فيه التبرعات العينية والنقدية المتحصلة.",
+      "text_for_index": "تزود الجهة المرخَّص لها الجهة المرخِّصة، خلال (خمسة عشر) يوماً من تاريخ انتهاء حملة جمع التبرعات، بكشف حساب بنكي، وتقرير مالي مفصل موضحة فيه التبرعات العينية والنقدية المتحصلة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تزود الجهة المرخَّص لها الجهة المرخِّصة، خلال (خمسة عشر) يوماً من تاريخ انتهاء حملة جمع التبرعات، بكشف حساب بنكي، وتقرير مالي مفصل موضحة فيه التبرعات العينية والنقدية المتحصلة.",
+          "text_for_index": "تزود الجهة المرخَّص لها الجهة المرخِّصة، خلال (خمسة عشر) يوماً من تاريخ انتهاء حملة جمع التبرعات، بكشف حساب بنكي، وتقرير مالي مفصل موضحة فيه التبرعات العينية والنقدية المتحصلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الحادية عشرة",
+      "text_verbatim": "لا يجوز للجهة المرخَّص لها صرف ما جمعته من تبرعات في غير الغرض الذي جُمع من أجله، إلا بموافقة الجهة المرخِّصة، مع مراعاة شرط المتبرع إن وجد.",
+      "text_for_index": "لا يجوز للجهة المرخَّص لها صرف ما جمعته من تبرعات في غير الغرض الذي جُمع من أجله، إلا بموافقة الجهة المرخِّصة، مع مراعاة شرط المتبرع إن وجد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للجهة المرخَّص لها صرف ما جمعته من تبرعات في غير الغرض الذي جُمع من أجله، إلا بموافقة الجهة المرخِّصة، مع مراعاة شرط المتبرع إن وجد.",
+          "text_for_index": "لا يجوز للجهة المرخَّص لها صرف ما جمعته من تبرعات في غير الغرض الذي جُمع من أجله، إلا بموافقة الجهة المرخِّصة، مع مراعاة شرط المتبرع إن وجد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثانية عشرة",
+      "text_verbatim": "على الجهة المرخَّص لها تحديد أصحاب الصلاحية في الصرف من التبرعات، على ألا يقل عددهم عن (اثنين) بتوقيع مشترك، على أن يكون توقيع المسؤول المالي في الجهة المرخَّص لها توقيعاً أساسيًّا. ويكون الصرف من حساباتها البنكية المعتمدة.",
+      "text_for_index": "على الجهة المرخَّص لها تحديد أصحاب الصلاحية في الصرف من التبرعات، على ألا يقل عددهم عن (اثنين) بتوقيع مشترك، على أن يكون توقيع المسؤول المالي في الجهة المرخَّص لها توقيعاً أساسيًّا. ويكون الصرف من حساباتها البنكية المعتمدة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على الجهة المرخَّص لها تحديد أصحاب الصلاحية في الصرف من التبرعات، على ألا يقل عددهم عن (اثنين) بتوقيع مشترك، على أن يكون توقيع المسؤول المالي في الجهة المرخَّص لها توقيعاً أساسيًّا. ويكون الصرف من حساباتها البنكية المعتمدة.",
+          "text_for_index": "على الجهة المرخَّص لها تحديد أصحاب الصلاحية في الصرف من التبرعات، على ألا يقل عددهم عن (اثنين) بتوقيع مشترك، على أن يكون توقيع المسؤول المالي في الجهة المرخَّص لها توقيعاً أساسيًّا. ويكون الصرف من حساباتها البنكية المعتمدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثالثة عشرة",
+      "text_verbatim": "تلتزم الجهة المرخَّص لها عند إعداد ميزانيتها السنوية ببيان حصيلة جمع التبرعات، ومفردات إيراداتها، ومصروفاتها، مؤيداً بالمستندات.",
+      "text_for_index": "تلتزم الجهة المرخَّص لها عند إعداد ميزانيتها السنوية ببيان حصيلة جمع التبرعات، ومفردات إيراداتها، ومصروفاتها، مؤيداً بالمستندات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تلتزم الجهة المرخَّص لها عند إعداد ميزانيتها السنوية ببيان حصيلة جمع التبرعات، ومفردات إيراداتها، ومصروفاتها، مؤيداً بالمستندات.",
+          "text_for_index": "تلتزم الجهة المرخَّص لها عند إعداد ميزانيتها السنوية ببيان حصيلة جمع التبرعات، ومفردات إيراداتها، ومصروفاتها، مؤيداً بالمستندات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الرابعة عشرة",
+      "text_verbatim": "إذا خالفت الجهة المرخَّص لها -عند جمعها للتبرعات- أي حكم من أحكام النظام، فعلى الجهة المرخِّصة أن تصدر قراراً بإيقافها عن جمع التبرعات للغرض الذي جمعت من أجله.",
+      "text_for_index": "إذا خالفت الجهة المرخَّص لها -عند جمعها للتبرعات- أي حكم من أحكام النظام، فعلى الجهة المرخِّصة أن تصدر قراراً بإيقافها عن جمع التبرعات للغرض الذي جمعت من أجله.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "إذا خالفت الجهة المرخَّص لها -عند جمعها للتبرعات- أي حكم من أحكام النظام، فعلى الجهة المرخِّصة أن تصدر قراراً بإيقافها عن جمع التبرعات للغرض الذي جمعت من أجله.",
+          "text_for_index": "إذا خالفت الجهة المرخَّص لها -عند جمعها للتبرعات- أي حكم من أحكام النظام، فعلى الجهة المرخِّصة أن تصدر قراراً بإيقافها عن جمع التبرعات للغرض الذي جمعت من أجله.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الخامسة عشرة",
+      "text_verbatim": "مع مراعاة ما يقضي به نظام الجمعيات والمؤسسات الأهلية، ومراعاة حق أي طرف آخر حسن النية، لكل من الجهة المرخِّصة، والنيابة العامة، ورئاسة أمن الدولة؛ طلب إيقاع الحجز التحفظي على الحسابات البنكية التابعة لأي جهة مرخَّص لها أو أي شخص ذي صفة طبيعية أو اعتبارية يجمع التبرعات بطريقة تخالف أحكام النظام، لمدة لا تتجاوز (ستين) يوماً، ويمكن تمديد الحجز مدة أطول بناءً على أمر قضائي صادر من المحكمة المختصة.",
+      "text_for_index": "مع مراعاة ما يقضي به نظام الجمعيات والمؤسسات الأهلية، ومراعاة حق أي طرف آخر حسن النية، لكل من الجهة المرخِّصة، والنيابة العامة، ورئاسة أمن الدولة؛ طلب إيقاع الحجز التحفظي على الحسابات البنكية التابعة لأي جهة مرخَّص لها أو أي شخص ذي صفة طبيعية أو اعتبارية يجمع التبرعات بطريقة تخالف أحكام النظام، لمدة لا تتجاوز (ستين) يوماً، ويمكن تمديد الحجز مدة أطول بناءً على أمر قضائي صادر من المحكمة المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع مراعاة ما يقضي به نظام الجمعيات والمؤسسات الأهلية، ومراعاة حق أي طرف آخر حسن النية، لكل من الجهة المرخِّصة، والنيابة العامة، ورئاسة أمن الدولة؛ طلب إيقاع الحجز التحفظي على الحسابات البنكية التابعة لأي جهة مرخَّص لها أو أي شخص ذي صفة طبيعية أو اعتبارية يجمع التبرعات بطريقة تخالف أحكام النظام، لمدة لا تتجاوز (ستين) يوماً، ويمكن تمديد الحجز مدة أطول بناءً على أمر قضائي صادر من المحكمة المختصة.",
+          "text_for_index": "مع مراعاة ما يقضي به نظام الجمعيات والمؤسسات الأهلية، ومراعاة حق أي طرف آخر حسن النية، لكل من الجهة المرخِّصة، والنيابة العامة، ورئاسة أمن الدولة؛ طلب إيقاع الحجز التحفظي على الحسابات البنكية التابعة لأي جهة مرخَّص لها أو أي شخص ذي صفة طبيعية أو اعتبارية يجمع التبرعات بطريقة تخالف أحكام النظام، لمدة لا تتجاوز (ستين) يوماً، ويمكن تمديد الحجز مدة أطول بناءً على أمر قضائي صادر من المحكمة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة السادسة عشرة",
+      "text_verbatim": "تتولى النيابة العامة التحقيق في مخالفات أحكام النظام، والادعاء أمام المحكمة المختصة.",
+      "text_for_index": "تتولى النيابة العامة التحقيق في مخالفات أحكام النظام، والادعاء أمام المحكمة المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتولى النيابة العامة التحقيق في مخالفات أحكام النظام، والادعاء أمام المحكمة المختصة.",
+          "text_for_index": "تتولى النيابة العامة التحقيق في مخالفات أحكام النظام، والادعاء أمام المحكمة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة السابعة عشرة",
+      "text_verbatim": "• يعاقب الشخص ذو الصفة الطبيعية الذي يجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال، أو بالسجن مدة لا تزيد على سنتين، أو بهما معاً، مع إبعاده من المملكة إن كان غير سعودي بعد انتهاء محكوميته، وعدم السماح له بدخول المملكة إلا بما تقضي به أنظمة الحج والعمرة.\n\n\t• تعاقب الجهة غير المرخَّص لها التي تجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n\t• تعاقب الجهة المرخَّص لها التي تدعو إلى جمع التبرعات بما يخالف أحكام المادة (التاسعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n\t• تعاقب أي جهة تخالف حكم المادة (السابعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة، ويجوز إلغاء ترخيص الجهة حال التكرار.\n\n\t• يعاقب كل من يخالف أي حكم من أحكام النظام لم ترد له عقوبة في هذه المادة، بغرامة لا تزيد على (مائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n\t• تعاقب الوسيلة الإعلامية التي تعلن لجهة غير مرخَّص لها، عن جمع تبرعات، بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n\t• تتولى المحكمة المختصة النظر في مخالفات أحكام النظام، وتطبيق العقوبات المنصوص عليها في هذه المادة.\n\n\t• إذا شكّلت أي من الأفعال المشار إليها في هذه المادة جريمة بناءً على أنظمة أخرى؛ فتطبق العقوبة الأشد.\n\n\t• لا يخل تطبيق الأحكام الواردة في هذه المادة بما تقضي به الأنظمة الأخرى ذات الصلة.",
+      "text_for_index": "• يعاقب الشخص ذو الصفة الطبيعية الذي يجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال، أو بالسجن مدة لا تزيد على سنتين، أو بهما معاً، مع إبعاده من المملكة إن كان غير سعودي بعد انتهاء محكوميته، وعدم السماح له بدخول المملكة إلا بما تقضي به أنظمة الحج والعمرة.\n\n • تعاقب الجهة غير المرخَّص لها التي تجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n • تعاقب الجهة المرخَّص لها التي تدعو إلى جمع التبرعات بما يخالف أحكام المادة (التاسعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n • تعاقب أي جهة تخالف حكم المادة (السابعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة، ويجوز إلغاء ترخيص الجهة حال التكرار.\n\n • يعاقب كل من يخالف أي حكم من أحكام النظام لم ترد له عقوبة في هذه المادة، بغرامة لا تزيد على (مائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n • تعاقب الوسيلة الإعلامية التي تعلن لجهة غير مرخَّص لها، عن جمع تبرعات، بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.\n\n • تتولى المحكمة المختصة النظر في مخالفات أحكام النظام، وتطبيق العقوبات المنصوص عليها في هذه المادة.\n\n • إذا شكّلت أي من الأفعال المشار إليها في هذه المادة جريمة بناءً على أنظمة أخرى؛ فتطبق العقوبة الأشد.\n\n • لا يخل تطبيق الأحكام الواردة في هذه المادة بما تقضي به الأنظمة الأخرى ذات الصلة.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يعاقب الشخص ذو الصفة الطبيعية الذي يجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال، أو بالسجن مدة لا تزيد على سنتين، أو بهما معاً، مع إبعاده من المملكة إن كان غير سعودي بعد انتهاء محكوميته، وعدم السماح له بدخول المملكة إلا بما تقضي به أنظمة الحج والعمرة.",
+          "text_for_index": "• يعاقب الشخص ذو الصفة الطبيعية الذي يجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال، أو بالسجن مدة لا تزيد على سنتين، أو بهما معاً، مع إبعاده من المملكة إن كان غير سعودي بعد انتهاء محكوميته، وعدم السماح له بدخول المملكة إلا بما تقضي به أنظمة الحج والعمرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• تعاقب الجهة غير المرخَّص لها التي تجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "text_for_index": "• تعاقب الجهة غير المرخَّص لها التي تجمع التبرعات بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• تعاقب الجهة المرخَّص لها التي تدعو إلى جمع التبرعات بما يخالف أحكام المادة (التاسعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "text_for_index": "• تعاقب الجهة المرخَّص لها التي تدعو إلى جمع التبرعات بما يخالف أحكام المادة (التاسعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• تعاقب أي جهة تخالف حكم المادة (السابعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة، ويجوز إلغاء ترخيص الجهة حال التكرار.",
+          "text_for_index": "• تعاقب أي جهة تخالف حكم المادة (السابعة) من النظام، بغرامة لا تزيد على (مائتي ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة، ويجوز إلغاء ترخيص الجهة حال التكرار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• يعاقب كل من يخالف أي حكم من أحكام النظام لم ترد له عقوبة في هذه المادة، بغرامة لا تزيد على (مائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "text_for_index": "• يعاقب كل من يخالف أي حكم من أحكام النظام لم ترد له عقوبة في هذه المادة، بغرامة لا تزيد على (مائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• تعاقب الوسيلة الإعلامية التي تعلن لجهة غير مرخَّص لها، عن جمع تبرعات، بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "text_for_index": "• تعاقب الوسيلة الإعلامية التي تعلن لجهة غير مرخَّص لها، عن جمع تبرعات، بغرامة لا تزيد على (خمسمائة ألف) ريال. وتضاعف الغرامة في حال تكرار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• تتولى المحكمة المختصة النظر في مخالفات أحكام النظام، وتطبيق العقوبات المنصوص عليها في هذه المادة.",
+          "text_for_index": "• تتولى المحكمة المختصة النظر في مخالفات أحكام النظام، وتطبيق العقوبات المنصوص عليها في هذه المادة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• إذا شكّلت أي من الأفعال المشار إليها في هذه المادة جريمة بناءً على أنظمة أخرى؛ فتطبق العقوبة الأشد.",
+          "text_for_index": "• إذا شكّلت أي من الأفعال المشار إليها في هذه المادة جريمة بناءً على أنظمة أخرى؛ فتطبق العقوبة الأشد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-17::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• لا يخل تطبيق الأحكام الواردة في هذه المادة بما تقضي به الأنظمة الأخرى ذات الصلة.",
+          "text_for_index": "• لا يخل تطبيق الأحكام الواردة في هذه المادة بما تقضي به الأنظمة الأخرى ذات الصلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثامنة عشرة",
+      "text_verbatim": "تُصادر -بحكم قضائي- جميع التبرعات التي جمعت بالمخالفة لأحكام النظام، وتُنفق في أوجه البر التي تحددها اللائحة، مع مراعاة شرط المتبرع إن وجد.",
+      "text_for_index": "تُصادر -بحكم قضائي- جميع التبرعات التي جمعت بالمخالفة لأحكام النظام، وتُنفق في أوجه البر التي تحددها اللائحة، مع مراعاة شرط المتبرع إن وجد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "تُصادر -بحكم قضائي- جميع التبرعات التي جمعت بالمخالفة لأحكام النظام، وتُنفق في أوجه البر التي تحددها اللائحة، مع مراعاة شرط المتبرع إن وجد.",
+          "text_for_index": "تُصادر -بحكم قضائي- جميع التبرعات التي جمعت بالمخالفة لأحكام النظام، وتُنفق في أوجه البر التي تحددها اللائحة، مع مراعاة شرط المتبرع إن وجد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام جمع التبرعات، المادة التاسعة عشرة",
+      "text_verbatim": "يحدد المسؤول الأول في الجهة المرخِّصة من تكون لهم صفة الضبط من منسوبيها؛ لضبط مخالفات أحكام النظام.",
+      "text_for_index": "يحدد المسؤول الأول في الجهة المرخِّصة من تكون لهم صفة الضبط من منسوبيها؛ لضبط مخالفات أحكام النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يحدد المسؤول الأول في الجهة المرخِّصة من تكون لهم صفة الضبط من منسوبيها؛ لضبط مخالفات أحكام النظام.",
+          "text_for_index": "يحدد المسؤول الأول في الجهة المرخِّصة من تكون لهم صفة الضبط من منسوبيها؛ لضبط مخالفات أحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة العشرون",
+      "text_verbatim": "لا تسري أحكام النظام على الجهات التي تخضع للقواعد التي تنظم وتحكم الرقابة على تلقي الجهات الحكومية هبات وتبرعات، الصادرة بقرار مجلس الوزراء رقم (365) وتاريخ 14 / 8 / 1436هـ.",
+      "text_for_index": "لا تسري أحكام النظام على الجهات التي تخضع للقواعد التي تنظم وتحكم الرقابة على تلقي الجهات الحكومية هبات وتبرعات، الصادرة بقرار مجلس الوزراء رقم (365) وتاريخ 14 / 8 / 1436هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا تسري أحكام النظام على الجهات التي تخضع للقواعد التي تنظم وتحكم الرقابة على تلقي الجهات الحكومية هبات وتبرعات، الصادرة بقرار مجلس الوزراء رقم (365) وتاريخ 14 / 8 / 1436هـ.",
+          "text_for_index": "لا تسري أحكام النظام على الجهات التي تخضع للقواعد التي تنظم وتحكم الرقابة على تلقي الجهات الحكومية هبات وتبرعات، الصادرة بقرار مجلس الوزراء رقم (365) وتاريخ 14 / 8 / 1436هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الحادية والعشرون",
+      "text_verbatim": "تصدر اللائحة بقرار من مجلس الوزراء، وذلك بعد إعدادها من المركز الوطني لتنمية القطاع غير الربحي بالتنسيق مع وزارة الداخلية، ووزارة الشؤون الإسلامية والدعوة والإرشاد، ورئاسة أمن الدولة، والهيئة العامة للأوقاف، والبنك المركزي السعودي، خلال مدة لا تتجاوز (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية.",
+      "text_for_index": "تصدر اللائحة بقرار من مجلس الوزراء، وذلك بعد إعدادها من المركز الوطني لتنمية القطاع غير الربحي بالتنسيق مع وزارة الداخلية، ووزارة الشؤون الإسلامية والدعوة والإرشاد، ورئاسة أمن الدولة، والهيئة العامة للأوقاف، والبنك المركزي السعودي، خلال مدة لا تتجاوز (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تصدر اللائحة بقرار من مجلس الوزراء، وذلك بعد إعدادها من المركز الوطني لتنمية القطاع غير الربحي بالتنسيق مع وزارة الداخلية، ووزارة الشؤون الإسلامية والدعوة والإرشاد، ورئاسة أمن الدولة، والهيئة العامة للأوقاف، والبنك المركزي السعودي، خلال مدة لا تتجاوز (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية.",
+          "text_for_index": "تصدر اللائحة بقرار من مجلس الوزراء، وذلك بعد إعدادها من المركز الوطني لتنمية القطاع غير الربحي بالتنسيق مع وزارة الداخلية، ووزارة الشؤون الإسلامية والدعوة والإرشاد، ورئاسة أمن الدولة، والهيئة العامة للأوقاف، والبنك المركزي السعودي، خلال مدة لا تتجاوز (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثانية والعشرون",
+      "text_verbatim": "يلغي النظام لائحة جمع التبرعات للوجوه الخيرية -الصادرة بقرار مجلس الوزراء رقم (547) وتاريخ 30 / 3 / 1396هـ- وجميع ما يتعارض معه من أحكام.",
+      "text_for_index": "يلغي النظام لائحة جمع التبرعات للوجوه الخيرية -الصادرة بقرار مجلس الوزراء رقم (547) وتاريخ 30 / 3 / 1396هـ- وجميع ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي النظام لائحة جمع التبرعات للوجوه الخيرية -الصادرة بقرار مجلس الوزراء رقم (547) وتاريخ 30 / 3 / 1396هـ- وجميع ما يتعارض معه من أحكام.",
+          "text_for_index": "يلغي النظام لائحة جمع التبرعات للوجوه الخيرية -الصادرة بقرار مجلس الوزراء رقم (547) وتاريخ 30 / 3 / 1396هـ- وجميع ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمع التبرعات، المادة الثالثة والعشرون",
+      "text_verbatim": "يعمل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jma-altbraat::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

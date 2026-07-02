@@ -1,0 +1,609 @@
+{
+  "metadata": {
+    "slug": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd",
+    "title_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود",
+    "status": "ساري",
+    "issue_date_hijri": "1379/07/20 هـ الموافق : 18/01/1960 مـ",
+    "issue_date_gregorian": "1960-01-18",
+    "publish_date_hijri": "1379/07/20 هـ الموافق : 18/01/1960 مـ",
+    "publish_date_gregorian": "1960-01-18",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8a1799f2-3cd4-4619-b2ce-a9a700f18741/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1379/07/20 هـ الموافق : 18/01/1960 مـ",
+    "effective_date_gregorian": "1960-01-18",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 15,
+    "paragraph_count": 15,
+    "indexable_paragraph_count": 15,
+    "text_chars": 3185,
+    "verbatim_chars": 3212,
+    "citation_base_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8a1799f2-3cd4-4619-b2ce-a9a700f18741/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd.html",
+    "verbatim_file": "data/structured/verbatim_texts/alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الأولى",
+      "text_verbatim": "تعني لفظة (نقود) الواردة في هذا النظام، النقود المعدنية على اختلافها أيا كان نوع المعدن المسكوكة به، وكذلك النقود الورقية المتداولة نظاماً داخل المملكة العربية السعودية، أو خارجها.",
+      "text_for_index": "تعني لفظة (نقود) الواردة في هذا النظام، النقود المعدنية على اختلافها أيا كان نوع المعدن المسكوكة به، وكذلك النقود الورقية المتداولة نظاماً داخل المملكة العربية السعودية، أو خارجها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "تعني لفظة (نقود) الواردة في هذا النظام، النقود المعدنية على اختلافها أيا كان نوع المعدن المسكوكة به، وكذلك النقود الورقية المتداولة نظاماً داخل المملكة العربية السعودية، أو خارجها.",
+          "text_for_index": "تعني لفظة (نقود) الواردة في هذا النظام، النقود المعدنية على اختلافها أيا كان نوع المعدن المسكوكة به، وكذلك النقود الورقية المتداولة نظاماً داخل المملكة العربية السعودية، أو خارجها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الثانية",
+      "text_verbatim": "كل من زيف أو قلد نقوداً متداولة نظاماً في مملكة العربية السعودية، أو خارجها أو قام بجلب نقود متداولة تكون مزيفة، أو مقلدة أو أصدرها أو اشتغل بالتعامل بها، أو الترويج لها بأية وسيلة أو أي سبيل أو صنع أو اقتنى أو امتلك بدون مسوغ كل أو بعض آلات وأدوات ومواد ووسائل التزييف بسوء نية يعاقب بالسجن مع الأشغال الشاقة لمدة تتراوح بين خمس سنوات، وخمس عشرة سنة مع غرامة لا تقل عن ثلاثين ألف ريال، ولا تتجاوز مائة ألف ريال.",
+      "text_for_index": "كل من زيف أو قلد نقوداً متداولة نظاماً في مملكة العربية السعودية، أو خارجها أو قام بجلب نقود متداولة تكون مزيفة، أو مقلدة أو أصدرها أو اشتغل بالتعامل بها، أو الترويج لها بأية وسيلة أو أي سبيل أو صنع أو اقتنى أو امتلك بدون مسوغ كل أو بعض آلات وأدوات ومواد ووسائل التزييف بسوء نية يعاقب بالسجن مع الأشغال الشاقة لمدة تتراوح بين خمس سنوات، وخمس عشرة سنة مع غرامة لا تقل عن ثلاثين ألف ريال، ولا تتجاوز مائة ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من زيف أو قلد نقوداً متداولة نظاماً في مملكة العربية السعودية، أو خارجها أو قام بجلب نقود متداولة تكون مزيفة، أو مقلدة أو أصدرها أو اشتغل بالتعامل بها، أو الترويج لها بأية وسيلة أو أي سبيل أو صنع أو اقتنى أو امتلك بدون مسوغ كل أو بعض آلات وأدوات ومواد ووسائل التزييف بسوء نية يعاقب بالسجن مع الأشغال الشاقة لمدة تتراوح بين خمس سنوات، وخمس عشرة سنة مع غرامة لا تقل عن ثلاثين ألف ريال، ولا تتجاوز مائة ألف ريال.",
+          "text_for_index": "كل من زيف أو قلد نقوداً متداولة نظاماً في مملكة العربية السعودية، أو خارجها أو قام بجلب نقود متداولة تكون مزيفة، أو مقلدة أو أصدرها أو اشتغل بالتعامل بها، أو الترويج لها بأية وسيلة أو أي سبيل أو صنع أو اقتنى أو امتلك بدون مسوغ كل أو بعض آلات وأدوات ومواد ووسائل التزييف بسوء نية يعاقب بالسجن مع الأشغال الشاقة لمدة تتراوح بين خمس سنوات، وخمس عشرة سنة مع غرامة لا تقل عن ثلاثين ألف ريال، ولا تتجاوز مائة ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الثالثة",
+      "text_verbatim": "كل من تعمد بسوء قصد، تغيير معالم النقود المتداولة نظاماً في داخل المملكة العربية السعودية، أو تشويشها أو تمزيقها أو غسلها بالوسائل الكيماوية، أو إنقاص وزنها، أو حجمها أو إتلافها، جزئياً بأية وسيلة، يعاقب بالسجن لمدة تتراوح بين ثلاث سنوات وخمس سنوات، وبغرامة لا تقل عن ثلاثة آلاف ريال، ولا تتجاوز عشرة آلاف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "كل من تعمد بسوء قصد، تغيير معالم النقود المتداولة نظاماً في داخل المملكة العربية السعودية، أو تشويشها أو تمزيقها أو غسلها بالوسائل الكيماوية، أو إنقاص وزنها، أو حجمها أو إتلافها، جزئياً بأية وسيلة، يعاقب بالسجن لمدة تتراوح بين ثلاث سنوات وخمس سنوات، وبغرامة لا تقل عن ثلاثة آلاف ريال، ولا تتجاوز عشرة آلاف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من تعمد بسوء قصد، تغيير معالم النقود المتداولة نظاماً في داخل المملكة العربية السعودية، أو تشويشها أو تمزيقها أو غسلها بالوسائل الكيماوية، أو إنقاص وزنها، أو حجمها أو إتلافها، جزئياً بأية وسيلة، يعاقب بالسجن لمدة تتراوح بين ثلاث سنوات وخمس سنوات، وبغرامة لا تقل عن ثلاثة آلاف ريال، ولا تتجاوز عشرة آلاف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "كل من تعمد بسوء قصد، تغيير معالم النقود المتداولة نظاماً في داخل المملكة العربية السعودية، أو تشويشها أو تمزيقها أو غسلها بالوسائل الكيماوية، أو إنقاص وزنها، أو حجمها أو إتلافها، جزئياً بأية وسيلة، يعاقب بالسجن لمدة تتراوح بين ثلاث سنوات وخمس سنوات، وبغرامة لا تقل عن ثلاثة آلاف ريال، ولا تتجاوز عشرة آلاف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الرابعة",
+      "text_verbatim": "كل من صنع أو حاز ، بقصد البيع لأغراض ثقافية، أو صناعية، أو تجارية قطعاً معدنية ، أو أوراقاً مشابهة في مظهرها للعملة المتداولة نظاماً في المملكة العربية السعودية، وكان من شأن هذه المشابهة إيقاع الجمهور في الغلط، يعاقب بالسجن لمدة لا تزيد عن سنة واحدة وبغرامة لا تتجاوز ألفي ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "كل من صنع أو حاز ، بقصد البيع لأغراض ثقافية، أو صناعية، أو تجارية قطعاً معدنية ، أو أوراقاً مشابهة في مظهرها للعملة المتداولة نظاماً في المملكة العربية السعودية، وكان من شأن هذه المشابهة إيقاع الجمهور في الغلط، يعاقب بالسجن لمدة لا تزيد عن سنة واحدة وبغرامة لا تتجاوز ألفي ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من صنع أو حاز ، بقصد البيع لأغراض ثقافية، أو صناعية، أو تجارية قطعاً معدنية ، أو أوراقاً مشابهة في مظهرها للعملة المتداولة نظاماً في المملكة العربية السعودية، وكان من شأن هذه المشابهة إيقاع الجمهور في الغلط، يعاقب بالسجن لمدة لا تزيد عن سنة واحدة وبغرامة لا تتجاوز ألفي ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "كل من صنع أو حاز ، بقصد البيع لأغراض ثقافية، أو صناعية، أو تجارية قطعاً معدنية ، أو أوراقاً مشابهة في مظهرها للعملة المتداولة نظاماً في المملكة العربية السعودية، وكان من شأن هذه المشابهة إيقاع الجمهور في الغلط، يعاقب بالسجن لمدة لا تزيد عن سنة واحدة وبغرامة لا تتجاوز ألفي ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الخامسة",
+      "text_verbatim": "كل من طبع أو نشر أو استعمل للأغراض المذكورة في المادة الرابعة من هذا النظام صوراً تمثل وجهاً أو جزءاً من وجه لعملة ورقية متداولة نظاماً في المملكة العربية السعودية، بدون أن يحصل على ترخيص من الجهات المختصة ويعمل بالقيود المفروضة في هذا الترخيص، يعاقب بالسجن لمدة لا تتجاوز سنة وبغرامة لا تتجاوز ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "كل من طبع أو نشر أو استعمل للأغراض المذكورة في المادة الرابعة من هذا النظام صوراً تمثل وجهاً أو جزءاً من وجه لعملة ورقية متداولة نظاماً في المملكة العربية السعودية، بدون أن يحصل على ترخيص من الجهات المختصة ويعمل بالقيود المفروضة في هذا الترخيص، يعاقب بالسجن لمدة لا تتجاوز سنة وبغرامة لا تتجاوز ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من طبع أو نشر أو استعمل للأغراض المذكورة في المادة الرابعة من هذا النظام صوراً تمثل وجهاً أو جزءاً من وجه لعملة ورقية متداولة نظاماً في المملكة العربية السعودية، بدون أن يحصل على ترخيص من الجهات المختصة ويعمل بالقيود المفروضة في هذا الترخيص، يعاقب بالسجن لمدة لا تتجاوز سنة وبغرامة لا تتجاوز ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "كل من طبع أو نشر أو استعمل للأغراض المذكورة في المادة الرابعة من هذا النظام صوراً تمثل وجهاً أو جزءاً من وجه لعملة ورقية متداولة نظاماً في المملكة العربية السعودية، بدون أن يحصل على ترخيص من الجهات المختصة ويعمل بالقيود المفروضة في هذا الترخيص، يعاقب بالسجن لمدة لا تتجاوز سنة وبغرامة لا تتجاوز ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة السادسة",
+      "text_verbatim": "كل من قبل بحسن نية عملة مقلدة أو مزيفة ثم تعامل بها بعد علمه بعيبها يعاقب بالسجن لمدة لا تتجاوز سنة، وبغرامة لا تتجاوز ألفي ريال أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "كل من قبل بحسن نية عملة مقلدة أو مزيفة ثم تعامل بها بعد علمه بعيبها يعاقب بالسجن لمدة لا تتجاوز سنة، وبغرامة لا تتجاوز ألفي ريال أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من قبل بحسن نية عملة مقلدة أو مزيفة ثم تعامل بها بعد علمه بعيبها يعاقب بالسجن لمدة لا تتجاوز سنة، وبغرامة لا تتجاوز ألفي ريال أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "كل من قبل بحسن نية عملة مقلدة أو مزيفة ثم تعامل بها بعد علمه بعيبها يعاقب بالسجن لمدة لا تتجاوز سنة، وبغرامة لا تتجاوز ألفي ريال أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة السابعة",
+      "text_verbatim": "كل من اشترك في اقتراف جريمة من الجرائم المنصوص عليها في هذا النظام سواءً بالتحريض أو المساهمة أو المساعدة يعاقب بذات العقوبات المقررة للجريمة.",
+      "text_for_index": "كل من اشترك في اقتراف جريمة من الجرائم المنصوص عليها في هذا النظام سواءً بالتحريض أو المساهمة أو المساعدة يعاقب بذات العقوبات المقررة للجريمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "كل من اشترك في اقتراف جريمة من الجرائم المنصوص عليها في هذا النظام سواءً بالتحريض أو المساهمة أو المساعدة يعاقب بذات العقوبات المقررة للجريمة.",
+          "text_for_index": "كل من اشترك في اقتراف جريمة من الجرائم المنصوص عليها في هذا النظام سواءً بالتحريض أو المساهمة أو المساعدة يعاقب بذات العقوبات المقررة للجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الثامنة",
+      "text_verbatim": "يعاقب على الشروع في أية جريمة من الجرائم المنصوص عليها في هذا النظام بعقوبة تعادل نصف العقوبة المقررة للجريمة التامة.",
+      "text_for_index": "يعاقب على الشروع في أية جريمة من الجرائم المنصوص عليها في هذا النظام بعقوبة تعادل نصف العقوبة المقررة للجريمة التامة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب على الشروع في أية جريمة من الجرائم المنصوص عليها في هذا النظام بعقوبة تعادل نصف العقوبة المقررة للجريمة التامة.",
+          "text_for_index": "يعاقب على الشروع في أية جريمة من الجرائم المنصوص عليها في هذا النظام بعقوبة تعادل نصف العقوبة المقررة للجريمة التامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة التاسعة",
+      "text_verbatim": "يعاقب على الجرائم المنصوص عليها في هذا النظام سواءً ارتكبت في داخل المملكة العربية السعودية أو في خارجها.",
+      "text_for_index": "يعاقب على الجرائم المنصوص عليها في هذا النظام سواءً ارتكبت في داخل المملكة العربية السعودية أو في خارجها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب على الجرائم المنصوص عليها في هذا النظام سواءً ارتكبت في داخل المملكة العربية السعودية أو في خارجها.",
+          "text_for_index": "يعاقب على الجرائم المنصوص عليها في هذا النظام سواءً ارتكبت في داخل المملكة العربية السعودية أو في خارجها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة العاشرة",
+      "text_verbatim": "يعفى بأمر ملكي - بناءً على اقتراح رئيس مجلس الوزراء - الأشخاص المرتكبون للجرائم المنصوص عليها في هذا النظام، إذا أخبروا السلطات المختصة بتلك الأفعال قبل تمامها وسهلوا القبض على باقي شركائهم.",
+      "text_for_index": "يعفى بأمر ملكي - بناءً على اقتراح رئيس مجلس الوزراء - الأشخاص المرتكبون للجرائم المنصوص عليها في هذا النظام، إذا أخبروا السلطات المختصة بتلك الأفعال قبل تمامها وسهلوا القبض على باقي شركائهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يعفى بأمر ملكي - بناءً على اقتراح رئيس مجلس الوزراء - الأشخاص المرتكبون للجرائم المنصوص عليها في هذا النظام، إذا أخبروا السلطات المختصة بتلك الأفعال قبل تمامها وسهلوا القبض على باقي شركائهم.",
+          "text_for_index": "يعفى بأمر ملكي - بناءً على اقتراح رئيس مجلس الوزراء - الأشخاص المرتكبون للجرائم المنصوص عليها في هذا النظام، إذا أخبروا السلطات المختصة بتلك الأفعال قبل تمامها وسهلوا القبض على باقي شركائهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الحادية عشرة",
+      "text_verbatim": "تحجز وتصادر جميع   النقود المزيفة    أو المقلدة وتسلم إلى    مؤسسة النقد العربي السعودي   ، ولا يدفع مقابل لها أي تعويض عنها بأية حال من الأحوال.",
+      "text_for_index": "تحجز وتصادر جميع النقود المزيفة أو المقلدة وتسلم إلى مؤسسة النقد العربي السعودي ، ولا يدفع مقابل لها أي تعويض عنها بأية حال من الأحوال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "التزام"
+          ],
+          "text_verbatim": "تحجز وتصادر جميع   النقود المزيفة    أو المقلدة وتسلم إلى    مؤسسة النقد العربي السعودي   ، ولا يدفع مقابل لها أي تعويض عنها بأية حال من الأحوال.",
+          "text_for_index": "تحجز وتصادر جميع النقود المزيفة أو المقلدة وتسلم إلى مؤسسة النقد العربي السعودي ، ولا يدفع مقابل لها أي تعويض عنها بأية حال من الأحوال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الثانية عشرة",
+      "text_verbatim": "للحكومة الحق في اقتضاء الغرامة بطريق التنفيذ الجبري على أملاك المحكوم عليه الثابتة والمنقولة أو بطريق الإكراه بحبس المحكوم عليه يوماً واحداً عن كل خمسة ريالات سعودية على أن لا تتجاوز مدة الحبس ستة أشهر.",
+      "text_for_index": "للحكومة الحق في اقتضاء الغرامة بطريق التنفيذ الجبري على أملاك المحكوم عليه الثابتة والمنقولة أو بطريق الإكراه بحبس المحكوم عليه يوماً واحداً عن كل خمسة ريالات سعودية على أن لا تتجاوز مدة الحبس ستة أشهر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "للحكومة الحق في اقتضاء الغرامة بطريق التنفيذ الجبري على أملاك المحكوم عليه الثابتة والمنقولة أو بطريق الإكراه بحبس المحكوم عليه يوماً واحداً عن كل خمسة ريالات سعودية على أن لا تتجاوز مدة الحبس ستة أشهر.",
+          "text_for_index": "للحكومة الحق في اقتضاء الغرامة بطريق التنفيذ الجبري على أملاك المحكوم عليه الثابتة والمنقولة أو بطريق الإكراه بحبس المحكوم عليه يوماً واحداً عن كل خمسة ريالات سعودية على أن لا تتجاوز مدة الحبس ستة أشهر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الثالثة عشرة",
+      "text_verbatim": "يجوز للحكومة ولكل من أصابه ضرر بسبب الجرائم المنصوص عليها في هذا النظام أن يطالب المحكوم عليه بتعويضه عما لحقه من ضرر مادي أو معنوي.",
+      "text_for_index": "يجوز للحكومة ولكل من أصابه ضرر بسبب الجرائم المنصوص عليها في هذا النظام أن يطالب المحكوم عليه بتعويضه عما لحقه من ضرر مادي أو معنوي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يجوز للحكومة ولكل من أصابه ضرر بسبب الجرائم المنصوص عليها في هذا النظام أن يطالب المحكوم عليه بتعويضه عما لحقه من ضرر مادي أو معنوي.",
+          "text_for_index": "يجوز للحكومة ولكل من أصابه ضرر بسبب الجرائم المنصوص عليها في هذا النظام أن يطالب المحكوم عليه بتعويضه عما لحقه من ضرر مادي أو معنوي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الرابعة عشرة",
+      "text_verbatim": "على   رئيس مجلس الوزراء      ووزير المالية والاقتصاد الوطني       ووزير الداخلية     تنفيذ هذا النظام كل منهم فيما يخصه.",
+      "text_for_index": "على رئيس مجلس الوزراء ووزير المالية والاقتصاد الوطني ووزير الداخلية تنفيذ هذا النظام كل منهم فيما يخصه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "على   رئيس مجلس الوزراء      ووزير المالية والاقتصاد الوطني       ووزير الداخلية     تنفيذ هذا النظام كل منهم فيما يخصه.",
+          "text_for_index": "على رئيس مجلس الوزراء ووزير المالية والاقتصاد الوطني ووزير الداخلية تنفيذ هذا النظام كل منهم فيما يخصه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود، المادة الخامسة عشرة",
+      "text_verbatim": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

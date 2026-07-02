@@ -1,0 +1,865 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08a099485784e000a9665c91997ca9541ac7b82e82c6cf3917c7efffb8dc58ca2abc4f2f424aea9994796f932a2dc1a375a502004bdd0df46d47f3b5f2899a71d716bef3968dc6f3101ce9800edf2be28acf5d97b808f19e2f37506c13ff25d6bfea48de0577e90e90a9188fb7b04efc2f77788c6675a170df651ca44066a699081318570e0000599b0b8f487455fabf3065213801c45a08030d06ee607a5f77f2c4f9e7c4d07e284ea2f73e1c189d6e44aaf83c24e89f43e0cdce22c60edca4d612509d4af6a530bcc3068b16aa3045988e09104c99e6771ca3bd803990f3bcc6679d3d0f7214e2";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام إمدادات الطاقة
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام إمدادات الطاقة</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الطاقة والصناعة والتعدين</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام إمدادات الطاقة</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام إمدادات الطاقة</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>70030</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="c1777105-e927-4fa8-978d-af9900e23e18">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>نبذة الوثيقة:</strong><br />
+تضمن النظام: تعريفات، تشكيل لجنة تخصيص الطاقة، تخصيص الطاقة للمستهلك، التراخيص والمقابل المالي لها، المخالفات والعقوبات، التفتيش، نفاذ النظام بعد 60 يوما من تاريخ نشره ماعدا المادة الثالثة تكون نافذه من تاريخ اصدار النظام، يحل هذا النظام محل نظام إمدادات الغاز وتسعيره لعام 1424هـ.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام إمدادات الطاقة</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1444/06/04 هـ  الموافق : 28/12/2022 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1444/06/13  هـ الموافق : 06/01/2023 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/99e7828f-2f7a-4ac3-99cf-af9900e23e26?lawId=c1777105-e927-4fa8-978d-af9900e23e18">مرسوم ملكي رقم (م/80) وتاريخ 1444/6/4هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/dd1c8c0b-013d-4309-9e52-af9900e36380?lawId=c1777105-e927-4fa8-978d-af9900e23e18">قرار مجلس الوزراء رقم (374) وتاريخ 1444/6/3هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="c1777105-e927-4fa8-978d-af9900e23e18" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/5f1ceca5-12b0-4874-b257-af9900e23e67?lawId=c1777105-e927-4fa8-978d-af9900e23e18" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="c1777105-e927-4fa8-978d-af9900e23e18">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="c1777105-e927-4fa8-978d-af9900e23e18" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام إمدادات الطاقة</h3>
+        <h3 class="center">1444 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/80) وتاريخ 1444/6/4هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعــــــون الله تعـــالـى<br />
+&nbsp; &nbsp; &nbsp; &nbsp; نحن سلمــــان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ملك المملكة العربيــــة السعوديــــــة</strong><br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قرار مجلس الشورى رقم (304 / 45) بتاريخ 28 / 11 / 1443هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (374) بتاريخ 3 / 6 / 1444هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:&nbsp;</strong></p>
+
+<p style="text-align:justify"><strong>أولاً:</strong> الموافقة على نظام إمدادات الطاقة، بالصيغة المرافقة.<br />
+<strong>ثانياً: </strong>استثناءً من حكم المادة (الثانية عشرة) من النظام المشار إليه في البند (أولاً) من هذا المرسوم، يعمل بما ورد في المادة (الثالثة) منه اعتباراً من تاريخ صدوره.<br />
+<strong>ثالثاً:</strong> يستمر العمل بالتراخيص الممنوحة وفقاً لنظام إمدادات الغاز وتسعيره، الصادر بالمرسوم الملكي رقم (م / 36) بتاريخ 25 / 6 / 1424هـ، وعلى أصحاب تلك التراخيص تصحيح أوضاعهم بما يتوافق مع أحكام النظام -المشار إليه في البند (أولاً) من هذا المرسوم- ولوائحه ولائحة التخصيص، وذلك خلال مدة لا تتجاوز (سنتين) من تاريخ نفاذه، وأن يتقدموا إلى وزارة الطاقة بخطة لتصحيح أوضاعهم خلال مهلة أقصاها (سنة) من تاريخ نفاذ النظام ولوائحه ولائحة التخصيص. ولوزير الطاقة منح مهلة أو مهل إضافية لتصحيح أوضاعهم لا تتجاوز (ست) سنوات من تاريخ انتهاء المدة المحددة لتصحيح الأوضاع وفقاً لما يراه محققاً للمصلحة العامة.<br />
+<strong>رابعاً: </strong>على سمو رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخصه- تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (374) وتاريخ 1444/6/3هـ</h4>
+            <p><p><strong>إن مجلس الوزراء<br />
+بعد الاطلاع</strong> في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم 75815 وتاريخ 3 / 12 / 1443هـ، المشتملة على برقية صاحب السمو الملكي وزير الطاقة رقم 2408 وتاريخ 3 / 4 / 1443هـ، في شأن مشروع نظام إمدادات الطاقة.&nbsp;<br />
+<strong>وبعد الاطلاع</strong> على مشروع النظام المشار إليه.<br />
+<strong>وبعد الاطلاع </strong>على نظام إمدادات الغاز وتسعيره، الصادر بالمرسوم الملكي رقم (م / 36) وتاريخ 25 / 6 / 1424هـ.<br />
+<strong>وبعد الاطلاع </strong>على المحضرين رقم (424) وتاريخ 24 / 9 / 1443هـ، ورقم (33) وتاريخ 20 / 1 / 1444هـ، والمذكرة رقم (2562) وتاريخ 14 / 11 / 1443هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع </strong>على المحضر المعد في مجلس الشؤون الاقتصادية والتنمية رقم (153 / 44 / م) وتاريخ 17 / 2 / 1444هـ.<br />
+<strong>وبعد الاطلاع</strong> على توصية مجلس الشؤون الاقتصادية والتنمية رقم (3-2 / 44 / ت) وتاريخ 22 / 2 / 1444هـ.<br />
+<strong>وبعد النظر</strong> في قرار مجلس الشورى رقم (304 / 45) وتاريخ 28 / 11 / 1443هـ.<br />
+<strong>وبعد الاطلاع </strong>على توصية اللجنة العامة لمجلس الوزراء رقم (5661) وتاريخ 1 / 6 / 1444هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p><strong>أولاً: </strong>الموافقة على نظام إمدادات الطاقة، بالصيغة المرافقة.<br />
+<strong>ثانياً: </strong>استثناءً من حكم المادة (الثانية عشرة) من النظام المشار إليه في البند (أولاً) من هذا القرار، يعمل بما ورد في المادة (الثالثة) منه اعتباراً من تاريخ صدوره.<br />
+<strong>ثالثاً:</strong> يستمر العمل بالتراخيص الممنوحة وفقاً لنظام إمدادات الغاز وتسعيره، الصادر بالمرسوم الملكي رقم (م / 36) وتاريخ 25 / 6 / 1424هـ، وعلى أصحاب تلك التراخيص تصحيح أوضاعهم بما يتوافق مع أحكام النظام&nbsp;-المشار إليه في البند (أولاً) من هذا القرار- ولوائحه ولائحة التخصيص، وذلك خلال مدة لا تتجاوز (سنتين) من تاريخ نفاذه، وأن يتقدموا إلى وزارة الطاقة بخطة لتصحيح أوضاعهم خلال مهلة أقصاها (سنة) من تاريخ نفاذ النظام ولوائحه ولائحة التخصيص. ولوزير الطاقة منح مهلة أو مهل إضافية لتصحيح أوضاعهم لا تتجاوز (ست) سنوات من تاريخ انتهاء المدة المحددة لتصحيح الأوضاع وفقاً لما يراه محققاً للمصلحة العامة.<br />
+<strong>وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.<br />
+رابعاً: </strong>يكون تحديد المقابل المالي -المشار إليه في الفقرة (2) من المادة (الخامسة) من النظام المشار إليه في البند (أولاً) من هذا القرار- بالاتفاق مع: وزارة المالية، ومركز تنمية الإيرادات غير النفطية، وذلك إلى حين صدور لائحة ممارسة الهيئات والمؤسسات العامة وما في حكمها فرض المقابل المالي للخدمات والأعمال التي تقدمها، والعمل بها.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام إمدادات الطاقة</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p><strong>&nbsp;يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها ما لم يقتضِ السياق غير ذلك:<br />
+النظام</strong>: نظام إمدادات الطاقة.<br />
+<strong>اللوائح:</strong> اللوائح التنفيذية للنظام.&nbsp;<br />
+<strong>لائحة التخصيص</strong>: لائحة تخصيص الطاقة. &nbsp;&nbsp;<br />
+<strong>الوزارة</strong>: وزارة الطاقة.<br />
+<strong>الوزير</strong>: وزير الطاقة.<br />
+<strong>الطاقة</strong>: كل ما يندرج ضمن منتجات الطاقة، وتشمل: الزيت الخام ومشتقاته، والغاز الطبيعي وسوائله، والهيدروجين، والطاقة الكهربائية من مصادرها المختلفة.<br />
+<strong>تخصيص الطاقة</strong>: تحديد نوع الطاقة وكميتها المتاحة للمستهلك.&nbsp;<br />
+<strong>وثيقة تخصيص الطاقة</strong>: وثيقة تصدر لتخصيص الطاقة تتضمن التزامات المستهلك والشروط والأحكام الواجب اتباعها.<br />
+<strong>الغاز الطبيعي</strong> <strong>وسوائله</strong>: واحد أو أكثر من المركبات الهيدروكربونية التالية: الغاز الجاف (غاز البيع)، والإيثان، والبروبان، والبوتان، والبنتان والمركبات الهيدروكربونية الأثقل (أو البنتان وما يليه) والبنزين الطبيعي، وأي منتجات أخرى من معامل الغاز ومن معامل التجزئة والفرز، مثل الكبريت.<br />
+<strong>المستهلك</strong>: كل شخص ذي صفة طبيعية أو اعتبارية داخل المملكة يمارس نشاطاً يتطلب تخصيصاً لواحد أو أكثر من منتجات الطاقة.<br />
+<strong>الترخيص</strong>: موافقة مكتوبة من الوزارة لممارسة نشاط -أو أكثر- من الأنشطة الخاضعة للمادة (الخامسة) من النظام.<br />
+<strong>المرخص له</strong>: الشخص الحاصل على الترخيص.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يهدف النظام إلى الآتي:</strong></p>
+
+<ol>
+	<li>تنظيم تخصيص الطاقة لمستهلكيها في مجالات: إنتاج الكهرباء، وتكرير الزيت الخام، وإنتاج البتروكيماويات، وتحلية المياه، والصناعة، والتعدين، والزراعة، والإنشاءات، والاتصالات، والنقل، والخدمات اللوجستية، وغيرها.</li>
+	<li>تنظيم تراخيص أنشطة الغاز الطبيعي وسوائله والأنشطة المتعلقة بالهيدروجين.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>تشكل لجنة باسم (لجنة تخصيص الطاقة) برئاسة الوزير، وعضوية ممثلين لا تقل مرتبتهم عن (الخامسة عشرة) أو ما يعادلها من وزارات: (الصناعة والثروة المعدنية، والمالية، والاتصالات وتقنية المعلومات، والنقل والخدمات اللوجستية، والاقتصاد والتخطيط، والبيئة والمياه والزراعة، والاستثمار، والموارد البشرية والتنمية الاجتماعية)، وهيئة تنظيم المياه والكهرباء، وهيئة المحتوى المحلي والمشتريات الحكومية، وهيئة كفاءة الإنفاق والمشروعات الحكومية، والمركز السعودي لكفاءة الطاقة، واللجنة الوطنية لآلية التنمية النظيفة، وبرنامج استدامة الطلب على البترول. ولرئيس اللجنة&nbsp;-بحسب الحاجة- إضافة أعضاء آخرين من الجهات الحكومية أو غيرها، وله أن ينيب من يراه من الأعضاء لرئاسة الاجتماعات في حال غيابه.</li>
+	<li>تتولى الوزارة أعمال أمانة (لجنة تخصيص الطاقة)، وتقدم الدعم الإداري والمالي اللازم لها على الوجه الذي يكفل تحقيقها لأهدافها.&nbsp;</li>
+	<li>تتولى اللجنة المنصوص عليها في الفقرة (1) من هذه المادة ما يلي:<br />
+	<strong>أ-</strong> إعداد لائحة التخصيص واقتراح تعديلها.<br />
+	<strong>ب-</strong> اعتماد معايير تخصيص الطاقة التي تقترحها الوزارة بما يحقق الاستخدامات المـثلى للطاقة، والمساهمة في رفع مستوى الاقتصاد الوطني وتنوعه، وتحقيق مستهدفات مزيج الطاقة، ورفع مستويات كفاءة استخدام الطاقة، وتعزيز الاقتصاد الدائري للكربون، وإدارة غازات الاحتباس الحراري، بما لا يتعارض مع الاستراتيجيات المعتمدة من اللجنة العُليا لشؤون المواد الهيدروكربونية، واللجنة العُليا لشؤون مزيج الطاقة لإنتاج الكهرباء وتمكين قطاع الطاقة المتجددة.&nbsp;<br />
+	<strong>ج-</strong> مراجعة معايير تخصيص الطاقة كل (ثلاث) سنوات أو حسب الحاجة بناءً على قرار من رئيس اللجنة.<br />
+	<strong>د-</strong> تحسين عملية جمع وتبادل البيانات والمعلومات ذات العلاقة بتخصيص الطاقة.<br />
+	<strong>هـ-</strong> تزويد اللجنة العليا لشؤون المواد الهيدروكربونية بالآتي:<br />
+	<strong>1-</strong> تقارير دورية حيال ما حققته من إنجازات وما واجهته من صعوبات والحلول المقترحة لمعالجتها.<br />
+	<strong>2-</strong> أي معلومة أو وثيقة أو بيان تحتاج له؛ بما يُمكنها من متابعة مؤشرات أداء قطاع الطاقة وتحقيق مستهدفاته.</li>
+	<li>تضع اللجنة المنصوص عليها في الفقرة (1) من هذه المادة قواعد عملها وإجراءاتها، وآلية التصويت على القرارات، على أن تصدر تلك القرارات بأغلبية أصوات الأعضاء الحاضرين على الأقل. وفي حال تساوي الأصوات، يرجح الجانب الذي صوت معه رئيس الاجتماع.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>تخصص الوزارة الطاقة للمستهلك بناءً على الطاقة المتاحة والمعايير المعتمدة من اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة) من النظام، وتصدر الوزارة وفقاً لذلك وثيقة تخصيص الطاقة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>دون إخلال بأحكام التراخيص الصادرة وفق الأنظمة الأخرى لممارسة نشاط أو أكثر من أنشطة الطاقة، يشترط لممارسة الأنشطة المتعلقة بالغاز الطبيعي وسوائله أو الأنشطة المتعلقة بالهيدروجين؛ الحصول على ترخيص من الوزارة، ويشمل ذلك ما يلي: (النقل، المعالجة، التجزئة، تنقية الغاز، التجميع، التخزين، التوزيع المحلي، الاستيراد والتصدير، البيع، إنشاء وتملك وتشغيل شبكات ومرافق الغاز الطبيعي وسوائله أو المرافق الخاصة بالهيدروجين) وفقاً لأحكام اللوائح.</li>
+	<li>تحدد اللوائح المقابل المالي للتراخيص.</li>
+	<li>على المرخص له الحصول على وثيقة تأمين تغطي مسؤوليته المدنية عن الأضرار الناتجة عن إدارته، وفق ما تحدده اللوائح.&nbsp;</li>
+	<li>تؤول ملكية جميع الأصول المادية بعد انتهاء الترخيص -ما لم ينص الترخيص على غير ذلك أو تقرر الوزارة الاستغناء عنها، وذلك بعد الاتفاق مع وزارة المالية- إلى الدولة، ويُسلِّم المرخص له تلك الأصول إلى الوزارة بحالةٍ جيدة باستثناء الآثار المترتبة على الاستعمال العادي. ويقصد بالأصول المادية -المذكورة في هذه الفقرة- شبكات وأنابيب ومعامل نقل وتجزئة ومعالجة وتنقية وتجميع وتخزين وتوزيع واستيراد وتصدير وبيع الغاز الطبيعي وسوائله والشبكات ومرافق إنتاج وتوزيع الهيدروجين، وأي أصول ثابتة مرتبطة بها تتطلبها العمليات التشغيلية.&nbsp;</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <p>يشترط الحصول على وثيقة تخصيص الطاقة من الوزارة قبل صدور موافقة الجهة المشرفة بممارسة واحد أو أكثر من الأنشطة التي تتطلب تخصيصاً للطاقة وفق أحكام النظام. &nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز التصرف للغير بالترخيص، أو وثيقة تخصيص الطاقة، إلا بعد موافقة الوزارة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يُعاقب كل من يخالف أيًّا من أحكام النظام أو اللوائح أو لائحة التخصيص أو التراخيص؛ بواحدة أو أكثر من العقوبات الآتية:</strong><br />
+	أ- غرامة لا تزيد على (20,000,000) عشرين مليون ريـال.&nbsp;<br />
+	ب- إيقاف الترخيص جزئيًّا أو كليًّا لمدة لا تتجاوز (سنة).<br />
+	ج- إلغاء الترخيص.</li>
+	<li><strong>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يُعاقب كل من يخالف أيًّا من أحكام وثيقة تخصيص الطاقة؛ بواحدة أو أكثر من العقوبات الآتية:</strong><br />
+	أ- خفض كميات الطاقة المخصصة.<br />
+	ب- عدم تجديد وثيقة تخصيص الطاقة أو إلغاؤها.<br />
+	ج- غرامة لا تزيد على (20,000,000) عشرين مليون ريـال.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>تكوّن بقرار من الوزير لجنة -أو أكثر- من المختصين، لا يقل عدد أعضائها عن (ثلاثة) أعضاء، ويحدد فيه رئيس اللجنة ونائبه، وينُص في القرار على عضو احتياطي أو أكثر. ويعاد تشكيل اللجنة كل (ثلاث) سنوات، ويجوز تجديد العضوية فيها. ويصدر الوزير قراراً يحدد قواعد عمل اللجنة وإجراءاتها، ويحدد مكافآت أعضائها وسكرتاريتها. &nbsp;</li>
+	<li>تتولى هذه اللجنة النظر في مخالفات أحكام النظام واللوائح ولائحة التخصيص والتراخيص، وفي مخالفات وثيقة تخصيص الطاقة، وتتولى إيقاع العقوبات الواردة فيه.</li>
+	<li>تضم اللجنة في عضويتها متخصصاً أو خبيراً في الأنشطة الخاضعة للنظام، ومتخصصاً في الأنظمة أو الشريعة، على الأقل.</li>
+	<li>تصدر قرارات اللجنة بالأغلبية، وتكون مسببة. ويجوز التظلم من قرارات اللجنة أمام المحكمة المختصة خلال (ستين) يوماً من تاريخ إبلاغ صاحب الشأن بالقرار.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يتولى مفتشون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح ولائحة التخصيص والتراخيص، ومخالفات شروط وأحكام وثيقة تخصيص الطاقة.&nbsp;</li>
+	<li>يُصدر الوزير الضوابط الخاصة بضبط مخالفات أحكام النظام واللوائح ولائحة التخصيص والتراخيص ومخالفات أحكام وثيقة تخصيص الطاقة والتحقق منها وإثباتها.</li>
+	<li>للوزير إسناد بعض مهمات التفتيش وضبط المخالفات إلى القطاع الخاص، وذلك وفقاً للضوابط والمعايير التي تحددها اللوائح ولائحة التخصيص.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر الوزير اللوائح ولائحة التخصيص خلال مدة لا تتجاوز (ستين) يوماً من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يعمل بالنظام بعد (ستين) يوماً من تاريخ نشره في الجريدة الرسمية، ويحل محل نظام إمدادات الغاز وتسعيره الصادر بالمرسوم الملكي رقم (م / 36) وتاريخ 25 / 6 / 1424هـ، ويلغي كل ما يتعارض معه من أحكام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="c1777105-e927-4fa8-978d-af9900e23e18" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="edd4e049-2b00-415e-8e56-af9900e3bb6d">المادة الأولى </option>
+<option value="91cda062-53e3-4b4f-94a7-af9900e3d8a6">المادة الثانية </option>
+<option value="af8d1405-d909-4c41-9483-af9900e484bb">المادة الثالثة </option>
+<option value="13f42ccd-e0fb-4638-a3ee-af9900e49874">المادة الرابعة </option>
+<option value="244d2daf-95b6-4d12-b1fe-af9900e4ceb9">المادة الخامسة </option>
+<option value="4c498d60-c46f-48c9-b163-af9900e4e1fc">المادة السادسة </option>
+<option value="411294bb-2ebf-457b-9e43-af9900e4f4a3">المادة السابعة </option>
+<option value="d30866c4-fc45-42f3-9709-af9900e58326">المادة الثامنة </option>
+<option value="88c6dcd9-a048-47f6-8f21-af9900e5e003">المادة التاسعة </option>
+<option value="30fb58cb-1e4f-4421-b1d5-af9900e6615a">المادة العاشرة </option>
+<option value="6948b862-d95b-437e-9146-af9900e6750e">المادة الحادية عشرة </option>
+<option value="25c5aada-5176-4512-8c22-af9900e68b37">المادة الثانية عشرة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha4TGW' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha4TGW' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha4TGW = new CaptchaWidget('divCaptchaContainer_captcha4TGW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha4TGW.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptionc1777105-e927-4fa8-978d-af9900e23e18" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="c1777105-e927-4fa8-978d-af9900e23e18" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaJ9BD' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaJ9BD' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-c1777105-e927-4fa8-978d-af9900e23e18">
+                    <input type="checkbox" id="agreement-c1777105-e927-4fa8-978d-af9900e23e18" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='c1777105-e927-4fa8-978d-af9900e23e18' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-c1777105-e927-4fa8-978d-af9900e23e18"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-c1777105-e927-4fa8-978d-af9900e23e18"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha4TGW = new CaptchaWidget('divCaptchaContainer_captcha4TGW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha4TGW.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaJ9BD = new CaptchaWidget('divCaptchaContainer_captchaJ9BD', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaJ9BD.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="c1777105-e927-4fa8-978d-af9900e23e18">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha4TGW = new CaptchaWidget('divCaptchaContainer_captcha4TGW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha4TGW.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaJ9BD = new CaptchaWidget('divCaptchaContainer_captchaJ9BD', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaJ9BD.load(); 
+                    }); </script>
+</body>
+
+</html>

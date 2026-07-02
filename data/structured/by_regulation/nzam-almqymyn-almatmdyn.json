@@ -1,0 +1,2101 @@
+{
+  "metadata": {
+    "slug": "nzam-almqymyn-almatmdyn",
+    "title_ar": "نظام المقيمين المعتمدين",
+    "status": "ساري",
+    "issue_date_hijri": "1433/07/09 هـ الموافق : 30/05/2012 مـ",
+    "issue_date_gregorian": "2012-05-30",
+    "publish_date_hijri": "1433/09/22 هـ الموافق : 10/08/2012 مـ",
+    "publish_date_gregorian": "2012-08-10",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cad66e4d-38d3-4baa-8049-a9a700f1e7a8/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-almqymyn-almatmdyn.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-almqymyn-almatmdyn.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1433/09/22 هـ الموافق : 10/08/2012 مـ",
+    "effective_date_gregorian": "2012-08-10",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 45,
+    "paragraph_count": 71,
+    "indexable_paragraph_count": 71,
+    "text_chars": 11683,
+    "verbatim_chars": 11697,
+    "citation_base_ar": "نظام المقيمين المعتمدين",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cad66e4d-38d3-4baa-8049-a9a700f1e7a8/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-almqymyn-almatmdyn.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-almqymyn-almatmdyn.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى: تعريفات",
+      "article_label_raw": "الأولى: تعريفات :",
+      "article_heading": "الأولى: تعريفات",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "property_neighbors"
+      ],
+      "topic_tags_ar": [
+        "الجوار والبناء"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الأولى: تعريفات",
+      "text_verbatim": "يقصد بالعبارات الآتية المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك :\n\n 1 ـ المهنة :  مهنة التقييم .\n\n 2 - الوزارة :  وزارة التجارة والصناعة .\n\n 3 - الوزير :  وزير التجارة والصناعة .\n\n 4  ـ الهيئة :  الهيئة السعودية للمقيّمين المعتمدين .\n\n 5  ـ النظام :  نظام المقيّمين المعتمدين .\n\n 6  ـ التقييم :  عملية تحديد القيمة العادلة للعقارات، أو المنشآت الاقتصادية، أو المعدات والممتلكات على اختلاف أنواعها، لغرض محدد .\n\n 7  ـ فروع التقييم :\nـ فرع العقارات : جميع المصالح، والحقوق، والالتزامات المتعلقة بملكية العقارات بكل التحسينات المثبتة عليها بشكل دائم، والملحقات التابعة المرتبطة بها . ومثال ذلك : التملك والتصرف في الملكية، والرهن، والتأمين، ونزع الملكية، والارتفاق، والانتفاع .\nـ فرع المنشآت الاقتصادية : منشآت الأعمال، أو مصالح الملكية فيها على اختلاف حجومها، سواء أكانت فردية أم شركات، والحقوق والالتزامات المتعلقة بها ، وتقييم الأصول غير الملموسة، مثل براءات الاختراع، والعلامات التجارية، والشهرة ، والملكية الفكرية.\nـ فرع المعدات والممتلكات المنقولة : ويشمل على سبيل المثال : معدات النقل، ومعدات البناء، والأجهزة المكتبية، ومحتويات المباني عامة، وجميع المصالح والحقوق والالتزامات المتعلقة بها.",
+      "text_for_index": "يقصد بالعبارات الآتية المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك :\n\n 1 ـ المهنة : مهنة التقييم .\n\n 2 - الوزارة : وزارة التجارة والصناعة .\n\n 3 - الوزير : وزير التجارة والصناعة .\n\n 4 ـ الهيئة : الهيئة السعودية للمقيّمين المعتمدين .\n\n 5 ـ النظام : نظام المقيّمين المعتمدين .\n\n 6 ـ التقييم : عملية تحديد القيمة العادلة للعقارات، أو المنشآت الاقتصادية، أو المعدات والممتلكات على اختلاف أنواعها، لغرض محدد .\n\n 7 ـ فروع التقييم :\nـ فرع العقارات : جميع المصالح، والحقوق، والالتزامات المتعلقة بملكية العقارات بكل التحسينات المثبتة عليها بشكل دائم، والملحقات التابعة المرتبطة بها . ومثال ذلك : التملك والتصرف في الملكية، والرهن، والتأمين، ونزع الملكية، والارتفاق، والانتفاع .\nـ فرع المنشآت الاقتصادية : منشآت الأعمال، أو مصالح الملكية فيها على اختلاف حجومها، سواء أكانت فردية أم شركات، والحقوق والالتزامات المتعلقة بها ، وتقييم الأصول غير الملموسة، مثل براءات الاختراع، والعلامات التجارية، والشهرة ، والملكية الفكرية.\nـ فرع المعدات والممتلكات المنقولة : ويشمل على سبيل المثال : معدات النقل، ومعدات البناء، والأجهزة المكتبية، ومحتويات المباني عامة، وجميع المصالح والحقوق والالتزامات المتعلقة بها.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالعبارات الآتية المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك :",
+          "text_for_index": "يقصد بالعبارات الآتية المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "1 ـ المهنة :  مهنة التقييم .",
+          "text_for_index": "1 ـ المهنة : مهنة التقييم .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "2 - الوزارة :  وزارة التجارة والصناعة .",
+          "text_for_index": "2 - الوزارة : وزارة التجارة والصناعة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "3 - الوزير :  وزير التجارة والصناعة .",
+          "text_for_index": "3 - الوزير : وزير التجارة والصناعة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "4  ـ الهيئة :  الهيئة السعودية للمقيّمين المعتمدين .",
+          "text_for_index": "4 ـ الهيئة : الهيئة السعودية للمقيّمين المعتمدين .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "5  ـ النظام :  نظام المقيّمين المعتمدين .",
+          "text_for_index": "5 ـ النظام : نظام المقيّمين المعتمدين .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "6  ـ التقييم :  عملية تحديد القيمة العادلة للعقارات، أو المنشآت الاقتصادية، أو المعدات والممتلكات على اختلاف أنواعها، لغرض محدد .",
+          "text_for_index": "6 ـ التقييم : عملية تحديد القيمة العادلة للعقارات، أو المنشآت الاقتصادية، أو المعدات والممتلكات على اختلاف أنواعها، لغرض محدد .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "definition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "7  ـ فروع التقييم :\nـ فرع العقارات : جميع المصالح، والحقوق، والالتزامات المتعلقة بملكية العقارات بكل التحسينات المثبتة عليها بشكل دائم، والملحقات التابعة المرتبطة بها . ومثال ذلك : التملك والتصرف في الملكية، والرهن، والتأمين، ونزع الملكية، والارتفاق، والانتفاع .\nـ فرع المنشآت الاقتصادية : منشآت الأعمال، أو مصالح الملكية فيها على اختلاف حجومها، سواء أكانت فردية أم شركات، والحقوق والالتزامات المتعلقة بها ، وتقييم الأصول غير الملموسة، مثل براءات الاختراع، والعلامات التجارية، والشهرة ، والملكية الفكرية.\nـ فرع المعدات والممتلكات المنقولة : ويشمل على سبيل المثال : معدات النقل، ومعدات البناء، والأجهزة المكتبية، ومحتويات المباني عامة، وجميع المصالح والحقوق والالتزامات المتعلقة بها.",
+          "text_for_index": "7 ـ فروع التقييم :\nـ فرع العقارات : جميع المصالح، والحقوق، والالتزامات المتعلقة بملكية العقارات بكل التحسينات المثبتة عليها بشكل دائم، والملحقات التابعة المرتبطة بها . ومثال ذلك : التملك والتصرف في الملكية، والرهن، والتأمين، ونزع الملكية، والارتفاق، والانتفاع .\nـ فرع المنشآت الاقتصادية : منشآت الأعمال، أو مصالح الملكية فيها على اختلاف حجومها، سواء أكانت فردية أم شركات، والحقوق والالتزامات المتعلقة بها ، وتقييم الأصول غير الملموسة، مثل براءات الاختراع، والعلامات التجارية، والشهرة ، والملكية الفكرية.\nـ فرع المعدات والممتلكات المنقولة : ويشمل على سبيل المثال : معدات النقل، ومعدات البناء، والأجهزة المكتبية، ومحتويات المباني عامة، وجميع المصالح والحقوق والالتزامات المتعلقة بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية :",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثانية",
+      "text_verbatim": "يهدف هذا النظام إلى وضع الضوابط والمعايير اللازمة لأعمال تقييم العقارات، والمنشآت الاقتصادية، والمعدات ، والممتلكات المنقولة ونحوها، وتطوير مهنة التقييم ، ورفع مستوى العاملين فيها .",
+      "text_for_index": "يهدف هذا النظام إلى وضع الضوابط والمعايير اللازمة لأعمال تقييم العقارات، والمنشآت الاقتصادية، والمعدات ، والممتلكات المنقولة ونحوها، وتطوير مهنة التقييم ، ورفع مستوى العاملين فيها .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يهدف هذا النظام إلى وضع الضوابط والمعايير اللازمة لأعمال تقييم العقارات، والمنشآت الاقتصادية، والمعدات ، والممتلكات المنقولة ونحوها، وتطوير مهنة التقييم ، ورفع مستوى العاملين فيها .",
+          "text_for_index": "يهدف هذا النظام إلى وضع الضوابط والمعايير اللازمة لأعمال تقييم العقارات، والمنشآت الاقتصادية، والمعدات ، والممتلكات المنقولة ونحوها، وتطوير مهنة التقييم ، ورفع مستوى العاملين فيها .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة :",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثالثة",
+      "text_verbatim": "لا يحق لأي شخص ذي صفة طبيعية أو اعتبارية مزاولة مهنة التقييم في أي فرع من فروع التقييم ما لم يكن مرخصاً له بمزاولة المهنة في الفرع نفسه.",
+      "text_for_index": "لا يحق لأي شخص ذي صفة طبيعية أو اعتبارية مزاولة مهنة التقييم في أي فرع من فروع التقييم ما لم يكن مرخصاً له بمزاولة المهنة في الفرع نفسه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يحق لأي شخص ذي صفة طبيعية أو اعتبارية مزاولة مهنة التقييم في أي فرع من فروع التقييم ما لم يكن مرخصاً له بمزاولة المهنة في الفرع نفسه.",
+          "text_for_index": "لا يحق لأي شخص ذي صفة طبيعية أو اعتبارية مزاولة مهنة التقييم في أي فرع من فروع التقييم ما لم يكن مرخصاً له بمزاولة المهنة في الفرع نفسه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة :",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الرابعة",
+      "text_verbatim": "يُنشأ في الوزارة سجل لكل فرع من فروع التقييم يقيد فيه أسماء المقيّمين المعتمدين إذا كانوا أشخاصاً ذوي صفة طبيعية . أما إذا كانوا أشخاصاً ذوي صفة اعتبارية فيسجلون ـ بالإضافة إلى ذلك ـ في سجل الشركات المهنية بالوزارة، ويخضعون في ذلك لأحكام نظام الشركات المهنية .",
+      "text_for_index": "يُنشأ في الوزارة سجل لكل فرع من فروع التقييم يقيد فيه أسماء المقيّمين المعتمدين إذا كانوا أشخاصاً ذوي صفة طبيعية . أما إذا كانوا أشخاصاً ذوي صفة اعتبارية فيسجلون ـ بالإضافة إلى ذلك ـ في سجل الشركات المهنية بالوزارة، ويخضعون في ذلك لأحكام نظام الشركات المهنية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يُنشأ في الوزارة سجل لكل فرع من فروع التقييم يقيد فيه أسماء المقيّمين المعتمدين إذا كانوا أشخاصاً ذوي صفة طبيعية . أما إذا كانوا أشخاصاً ذوي صفة اعتبارية فيسجلون ـ بالإضافة إلى ذلك ـ في سجل الشركات المهنية بالوزارة، ويخضعون في ذلك لأحكام نظام الشركات المهنية .",
+          "text_for_index": "يُنشأ في الوزارة سجل لكل فرع من فروع التقييم يقيد فيه أسماء المقيّمين المعتمدين إذا كانوا أشخاصاً ذوي صفة طبيعية . أما إذا كانوا أشخاصاً ذوي صفة اعتبارية فيسجلون ـ بالإضافة إلى ذلك ـ في سجل الشركات المهنية بالوزارة، ويخضعون في ذلك لأحكام نظام الشركات المهنية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "شروط القيد في السجل",
+      "article_label_raw": "شروط القيد في السجل",
+      "article_heading": "شروط القيد في السجل",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة شروط القيد في السجل",
+      "text_verbatim": "يشترط فيمن يقيد اسمه في السجل أن يكون :\n\n1 ـ سعودي الجنسية .\n2 ـ كامل الأهلية .\n3 ـ حسن السيرة والسلوك، وغير محكوم عليه بحد شرعي، أو في جريمة مخلة بالشرف أو الأمانة ما لم يكن قد رُد إليه اعتباره.\n4 ـ لديه خبرة عملية بالتقييم في الفرع الذي يطلب الترخيص لمزاولته، وذلك طبقاً لما تحدده اللائحة التنفيذية.\n\n5 ـ عضواً أساسياً في الهيئة .",
+      "text_for_index": "يشترط فيمن يقيد اسمه في السجل أن يكون :\n\n1 ـ سعودي الجنسية .\n2 ـ كامل الأهلية .\n3 ـ حسن السيرة والسلوك، وغير محكوم عليه بحد شرعي، أو في جريمة مخلة بالشرف أو الأمانة ما لم يكن قد رُد إليه اعتباره.\n4 ـ لديه خبرة عملية بالتقييم في الفرع الذي يطلب الترخيص لمزاولته، وذلك طبقاً لما تحدده اللائحة التنفيذية.\n\n5 ـ عضواً أساسياً في الهيئة .",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يشترط فيمن يقيد اسمه في السجل أن يكون :",
+          "text_for_index": "يشترط فيمن يقيد اسمه في السجل أن يكون :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "1 ـ سعودي الجنسية .\n2 ـ كامل الأهلية .\n3 ـ حسن السيرة والسلوك، وغير محكوم عليه بحد شرعي، أو في جريمة مخلة بالشرف أو الأمانة ما لم يكن قد رُد إليه اعتباره.\n4 ـ لديه خبرة عملية بالتقييم في الفرع الذي يطلب الترخيص لمزاولته، وذلك طبقاً لما تحدده اللائحة التنفيذية.",
+          "text_for_index": "1 ـ سعودي الجنسية .\n2 ـ كامل الأهلية .\n3 ـ حسن السيرة والسلوك، وغير محكوم عليه بحد شرعي، أو في جريمة مخلة بالشرف أو الأمانة ما لم يكن قد رُد إليه اعتباره.\n4 ـ لديه خبرة عملية بالتقييم في الفرع الذي يطلب الترخيص لمزاولته، وذلك طبقاً لما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "5 ـ عضواً أساسياً في الهيئة .",
+          "text_for_index": "5 ـ عضواً أساسياً في الهيئة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة :",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السادسة",
+      "text_verbatim": "تحدد اللائحة التنفيذية أعمال التقييم التي يرى مجلس إدارة الهيئة ضرورة توافر مدة إضافية من الخبرة لمزاولتها ، ولا تدخل مدة الإيقاف المنصوص عليها في هذا النظام في حساب تلك المدة .",
+      "text_for_index": "تحدد اللائحة التنفيذية أعمال التقييم التي يرى مجلس إدارة الهيئة ضرورة توافر مدة إضافية من الخبرة لمزاولتها ، ولا تدخل مدة الإيقاف المنصوص عليها في هذا النظام في حساب تلك المدة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تحدد اللائحة التنفيذية أعمال التقييم التي يرى مجلس إدارة الهيئة ضرورة توافر مدة إضافية من الخبرة لمزاولتها ، ولا تدخل مدة الإيقاف المنصوص عليها في هذا النظام في حساب تلك المدة .",
+          "text_for_index": "تحدد اللائحة التنفيذية أعمال التقييم التي يرى مجلس إدارة الهيئة ضرورة توافر مدة إضافية من الخبرة لمزاولتها ، ولا تدخل مدة الإيقاف المنصوص عليها في هذا النظام في حساب تلك المدة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة :",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السابعة",
+      "text_verbatim": "- عُدلت الفقرة (أ) وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:\n\n\" تشكل في الهيئة بقرار من المجلس لجنة تسمى (لجنة قيد المقيّمين)، من ثلاثة أعضاء يكون من بينهم مستشار قانوني، ومقيّم مزاول من كل فرع من فروع التقييم المختلفة.\n\nويسمي المجلس من يحل محل العضو عند غيابه، وتكون مدة العضوية في اللجنة (ثلاث) سنوات، قابلة للتجديد مدداً مماثلة\".",
+      "text_for_index": "- عُدلت الفقرة (أ) وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:\n\n\" تشكل في الهيئة بقرار من المجلس لجنة تسمى (لجنة قيد المقيّمين)، من ثلاثة أعضاء يكون من بينهم مستشار قانوني، ومقيّم مزاول من كل فرع من فروع التقييم المختلفة.\n\nويسمي المجلس من يحل محل العضو عند غيابه، وتكون مدة العضوية في اللجنة (ثلاث) سنوات، قابلة للتجديد مدداً مماثلة\".",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- عُدلت الفقرة (أ) وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت الفقرة (أ) وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\" تشكل في الهيئة بقرار من المجلس لجنة تسمى (لجنة قيد المقيّمين)، من ثلاثة أعضاء يكون من بينهم مستشار قانوني، ومقيّم مزاول من كل فرع من فروع التقييم المختلفة.",
+          "text_for_index": "\" تشكل في الهيئة بقرار من المجلس لجنة تسمى (لجنة قيد المقيّمين)، من ثلاثة أعضاء يكون من بينهم مستشار قانوني، ومقيّم مزاول من كل فرع من فروع التقييم المختلفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ويسمي المجلس من يحل محل العضو عند غيابه، وتكون مدة العضوية في اللجنة (ثلاث) سنوات، قابلة للتجديد مدداً مماثلة\".",
+          "text_for_index": "ويسمي المجلس من يحل محل العضو عند غيابه، وتكون مدة العضوية في اللجنة (ثلاث) سنوات، قابلة للتجديد مدداً مماثلة\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثامنة",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:\n\n\" بعد القيد في السجل، تصدر الهيئة الترخيص بمزاولة مهنة التقييم في الفرع الوارد في طلب القيد، وتحدد اللائحة التنفيذية إجراءات إصداره، والمقابل المالي له، ومدته، وشروط تجديده\".",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:\n\n\" بعد القيد في السجل، تصدر الهيئة الترخيص بمزاولة مهنة التقييم في الفرع الوارد في طلب القيد، وتحدد اللائحة التنفيذية إجراءات إصداره، والمقابل المالي له، ومدته، وشروط تجديده\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "\" بعد القيد في السجل، تصدر الهيئة الترخيص بمزاولة مهنة التقييم في الفرع الوارد في طلب القيد، وتحدد اللائحة التنفيذية إجراءات إصداره، والمقابل المالي له، ومدته، وشروط تجديده\".",
+          "text_for_index": "\" بعد القيد في السجل، تصدر الهيئة الترخيص بمزاولة مهنة التقييم في الفرع الوارد في طلب القيد، وتحدد اللائحة التنفيذية إجراءات إصداره، والمقابل المالي له، ومدته، وشروط تجديده\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة :",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة التاسعة",
+      "text_verbatim": "للهيئة أن تنظر - وفقاً لما تحدده اللائحة التنفيذية- في الطلبات التي يقدمها مهنيون آخرون (أعضاء في هيئات مهنية أخرى) للحصول على ترخيص بمزاولة المهنة، وذلك وفقاً للشروط الواردة في هذا النظام .",
+      "text_for_index": "للهيئة أن تنظر - وفقاً لما تحدده اللائحة التنفيذية- في الطلبات التي يقدمها مهنيون آخرون (أعضاء في هيئات مهنية أخرى) للحصول على ترخيص بمزاولة المهنة، وذلك وفقاً للشروط الواردة في هذا النظام .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "للهيئة أن تنظر - وفقاً لما تحدده اللائحة التنفيذية- في الطلبات التي يقدمها مهنيون آخرون (أعضاء في هيئات مهنية أخرى) للحصول على ترخيص بمزاولة المهنة، وذلك وفقاً للشروط الواردة في هذا النظام .",
+          "text_for_index": "للهيئة أن تنظر - وفقاً لما تحدده اللائحة التنفيذية- في الطلبات التي يقدمها مهنيون آخرون (أعضاء في هيئات مهنية أخرى) للحصول على ترخيص بمزاولة المهنة، وذلك وفقاً للشروط الواردة في هذا النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة :",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة العاشرة",
+      "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+      "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+          "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة :",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الحادية عشرة",
+      "text_verbatim": "للمقيّم المعتمد - إذا كان شخصاً ذا صفة طبيعية - أن يضع اسماً لمكتبه، بشرط أن يكون مقروناً باسمه الشخصي . وعليه أن يضع الترخيص الممنوح له في مكان بارز من المكتب .",
+      "text_for_index": "للمقيّم المعتمد - إذا كان شخصاً ذا صفة طبيعية - أن يضع اسماً لمكتبه، بشرط أن يكون مقروناً باسمه الشخصي . وعليه أن يضع الترخيص الممنوح له في مكان بارز من المكتب .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "للمقيّم المعتمد - إذا كان شخصاً ذا صفة طبيعية - أن يضع اسماً لمكتبه، بشرط أن يكون مقروناً باسمه الشخصي . وعليه أن يضع الترخيص الممنوح له في مكان بارز من المكتب .",
+          "text_for_index": "للمقيّم المعتمد - إذا كان شخصاً ذا صفة طبيعية - أن يضع اسماً لمكتبه، بشرط أن يكون مقروناً باسمه الشخصي . وعليه أن يضع الترخيص الممنوح له في مكان بارز من المكتب .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثانية عشرة",
+      "text_verbatim": "على المقيّم المعتمد أن يضع اسمه ورقم ترخيصه، وتاريخه على جميع مطبوعاته ومراسلاته، وجميع ما يصدر عنه من تقارير وبيانات . وعليه أيضاً أن يزود الهيئة بالبيانات اللازمة عن نشاطه وفقاً لما تحدده اللائحة التنفيذية .",
+      "text_for_index": "على المقيّم المعتمد أن يضع اسمه ورقم ترخيصه، وتاريخه على جميع مطبوعاته ومراسلاته، وجميع ما يصدر عنه من تقارير وبيانات . وعليه أيضاً أن يزود الهيئة بالبيانات اللازمة عن نشاطه وفقاً لما تحدده اللائحة التنفيذية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "على المقيّم المعتمد أن يضع اسمه ورقم ترخيصه، وتاريخه على جميع مطبوعاته ومراسلاته، وجميع ما يصدر عنه من تقارير وبيانات . وعليه أيضاً أن يزود الهيئة بالبيانات اللازمة عن نشاطه وفقاً لما تحدده اللائحة التنفيذية .",
+          "text_for_index": "على المقيّم المعتمد أن يضع اسمه ورقم ترخيصه، وتاريخه على جميع مطبوعاته ومراسلاته، وجميع ما يصدر عنه من تقارير وبيانات . وعليه أيضاً أن يزود الهيئة بالبيانات اللازمة عن نشاطه وفقاً لما تحدده اللائحة التنفيذية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة :",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثالثة عشرة",
+      "text_verbatim": "• عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"لا يجوز للمقيّم المعتمد الجمع بين مزاولة المهنة ومزاولة الأعمال التي تتعارض مع سلوك المهنة وآدابها، وفقاً لما تحدده اللائحة التنفيذية\".",
+      "text_for_index": "• عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"لا يجوز للمقيّم المعتمد الجمع بين مزاولة المهنة ومزاولة الأعمال التي تتعارض مع سلوك المهنة وآدابها، وفقاً لما تحدده اللائحة التنفيذية\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"لا يجوز للمقيّم المعتمد الجمع بين مزاولة المهنة ومزاولة الأعمال التي تتعارض مع سلوك المهنة وآدابها، وفقاً لما تحدده اللائحة التنفيذية\".",
+          "text_for_index": "• عُدلت هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"لا يجوز للمقيّم المعتمد الجمع بين مزاولة المهنة ومزاولة الأعمال التي تتعارض مع سلوك المهنة وآدابها، وفقاً لما تحدده اللائحة التنفيذية\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة :",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الرابعة عشرة",
+      "text_verbatim": "يجب أن يوقع المقيّم المعتمد نفسه تقارير التقييم التي يصدرها إذا كان المقيّم شخصاً ذا صفة طبيعية ، أما إن كان ذا صفة اعتبارية فيجب أن يوقع الشريك الذي شارك في التقييم، أو أشرف عليه فعلاً، ولا يجوز إنابة شخص آخر في التوقيع .",
+      "text_for_index": "يجب أن يوقع المقيّم المعتمد نفسه تقارير التقييم التي يصدرها إذا كان المقيّم شخصاً ذا صفة طبيعية ، أما إن كان ذا صفة اعتبارية فيجب أن يوقع الشريك الذي شارك في التقييم، أو أشرف عليه فعلاً، ولا يجوز إنابة شخص آخر في التوقيع .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن يوقع المقيّم المعتمد نفسه تقارير التقييم التي يصدرها إذا كان المقيّم شخصاً ذا صفة طبيعية ، أما إن كان ذا صفة اعتبارية فيجب أن يوقع الشريك الذي شارك في التقييم، أو أشرف عليه فعلاً، ولا يجوز إنابة شخص آخر في التوقيع .",
+          "text_for_index": "يجب أن يوقع المقيّم المعتمد نفسه تقارير التقييم التي يصدرها إذا كان المقيّم شخصاً ذا صفة طبيعية ، أما إن كان ذا صفة اعتبارية فيجب أن يوقع الشريك الذي شارك في التقييم، أو أشرف عليه فعلاً، ولا يجوز إنابة شخص آخر في التوقيع .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة :",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الخامسة عشرة",
+      "text_verbatim": "يجب على المقيّم المعتمد التقيد بسلوك المهنة وآدابها، ومعايير التقييم، والمعايير الفنية التي تصدرها الهيئة، والواجبات المحددة بموجب الأنظمة واللوائح التي تحكم عمل الهيئة . ويجب عليه أيضاً موافاة الوزارة والهيئة بأي معلومة تطلبها للتأكد من أدائه لعمله وفقاً لهذا النظام .",
+      "text_for_index": "يجب على المقيّم المعتمد التقيد بسلوك المهنة وآدابها، ومعايير التقييم، والمعايير الفنية التي تصدرها الهيئة، والواجبات المحددة بموجب الأنظمة واللوائح التي تحكم عمل الهيئة . ويجب عليه أيضاً موافاة الوزارة والهيئة بأي معلومة تطلبها للتأكد من أدائه لعمله وفقاً لهذا النظام .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على المقيّم المعتمد التقيد بسلوك المهنة وآدابها، ومعايير التقييم، والمعايير الفنية التي تصدرها الهيئة، والواجبات المحددة بموجب الأنظمة واللوائح التي تحكم عمل الهيئة . ويجب عليه أيضاً موافاة الوزارة والهيئة بأي معلومة تطلبها للتأكد من أدائه لعمله وفقاً لهذا النظام .",
+          "text_for_index": "يجب على المقيّم المعتمد التقيد بسلوك المهنة وآدابها، ومعايير التقييم، والمعايير الفنية التي تصدرها الهيئة، والواجبات المحددة بموجب الأنظمة واللوائح التي تحكم عمل الهيئة . ويجب عليه أيضاً موافاة الوزارة والهيئة بأي معلومة تطلبها للتأكد من أدائه لعمله وفقاً لهذا النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة :",
+      "article_heading": "السادسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السادسة عشرة",
+      "text_verbatim": "يلتزم العضو الأساسي بحضور برامج التعليم المهني وفق ما تحدده الهيئة .",
+      "text_for_index": "يلتزم العضو الأساسي بحضور برامج التعليم المهني وفق ما تحدده الهيئة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يلتزم العضو الأساسي بحضور برامج التعليم المهني وفق ما تحدده الهيئة .",
+          "text_for_index": "يلتزم العضو الأساسي بحضور برامج التعليم المهني وفق ما تحدده الهيئة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة :",
+      "article_heading": "السابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السابعة عشرة",
+      "text_verbatim": "على المقيّم المعتمد ـ في جميع الأحوال ـ الاحتفاظ بجميع ما يتعلق بالتقييم والبيانات والمستندات الورقية والإلكترونية التي يقدمها العملاء مدة عشر سنوات من تاريخ إصدار تقريره النهائي . وفي حال رفع دعوى لها صلة بذلك فعليه أن يحتفظ بجميع ما ذكر حتى صدور حكم نهائي فيها .",
+      "text_for_index": "على المقيّم المعتمد ـ في جميع الأحوال ـ الاحتفاظ بجميع ما يتعلق بالتقييم والبيانات والمستندات الورقية والإلكترونية التي يقدمها العملاء مدة عشر سنوات من تاريخ إصدار تقريره النهائي . وفي حال رفع دعوى لها صلة بذلك فعليه أن يحتفظ بجميع ما ذكر حتى صدور حكم نهائي فيها .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على المقيّم المعتمد ـ في جميع الأحوال ـ الاحتفاظ بجميع ما يتعلق بالتقييم والبيانات والمستندات الورقية والإلكترونية التي يقدمها العملاء مدة عشر سنوات من تاريخ إصدار تقريره النهائي . وفي حال رفع دعوى لها صلة بذلك فعليه أن يحتفظ بجميع ما ذكر حتى صدور حكم نهائي فيها .",
+          "text_for_index": "على المقيّم المعتمد ـ في جميع الأحوال ـ الاحتفاظ بجميع ما يتعلق بالتقييم والبيانات والمستندات الورقية والإلكترونية التي يقدمها العملاء مدة عشر سنوات من تاريخ إصدار تقريره النهائي . وفي حال رفع دعوى لها صلة بذلك فعليه أن يحتفظ بجميع ما ذكر حتى صدور حكم نهائي فيها .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة :",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثامنة عشرة",
+      "text_verbatim": "على المقيّم المعتمد المحافظة على سرية جميع المعلومات المتعلقة بعملية التقييم، وألاَ يُطلع أحداً عليها، إلا بناء على موافقة خطية من العميل، أو بناء على طلب من الجهات الرسمية المختصة .",
+      "text_for_index": "على المقيّم المعتمد المحافظة على سرية جميع المعلومات المتعلقة بعملية التقييم، وألاَ يُطلع أحداً عليها، إلا بناء على موافقة خطية من العميل، أو بناء على طلب من الجهات الرسمية المختصة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "على المقيّم المعتمد المحافظة على سرية جميع المعلومات المتعلقة بعملية التقييم، وألاَ يُطلع أحداً عليها، إلا بناء على موافقة خطية من العميل، أو بناء على طلب من الجهات الرسمية المختصة .",
+          "text_for_index": "على المقيّم المعتمد المحافظة على سرية جميع المعلومات المتعلقة بعملية التقييم، وألاَ يُطلع أحداً عليها، إلا بناء على موافقة خطية من العميل، أو بناء على طلب من الجهات الرسمية المختصة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة :",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [
+        "company_management",
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة التاسعة عشرة",
+      "text_verbatim": "يُسأل المقيّم المعتمد إذا كان شخصاً ذا صفة طبيعية عن تعويض الضرر الذي يصيب العميل، أو الغير بسبب الأخطاء الواقعة منه في أداء عمله ، أما إذا كان شخصاً ذا صفة اعتبارية فتكون المسؤولية تضامنية بين الشركاء .",
+      "text_for_index": "يُسأل المقيّم المعتمد إذا كان شخصاً ذا صفة طبيعية عن تعويض الضرر الذي يصيب العميل، أو الغير بسبب الأخطاء الواقعة منه في أداء عمله ، أما إذا كان شخصاً ذا صفة اعتبارية فتكون المسؤولية تضامنية بين الشركاء .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "يُسأل المقيّم المعتمد إذا كان شخصاً ذا صفة طبيعية عن تعويض الضرر الذي يصيب العميل، أو الغير بسبب الأخطاء الواقعة منه في أداء عمله ، أما إذا كان شخصاً ذا صفة اعتبارية فتكون المسؤولية تضامنية بين الشركاء .",
+          "text_for_index": "يُسأل المقيّم المعتمد إذا كان شخصاً ذا صفة طبيعية عن تعويض الضرر الذي يصيب العميل، أو الغير بسبب الأخطاء الواقعة منه في أداء عمله ، أما إذا كان شخصاً ذا صفة اعتبارية فتكون المسؤولية تضامنية بين الشركاء .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون :",
+      "article_heading": "العشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة العشرون",
+      "text_verbatim": "يجب على المقيّم المعتمد أن يفصح عن أي مصلحة له مباشرة أو غير مباشرة فيما يطلب منه تقييمه. وتحدد اللائحة التنفيذية الحالات التي يجب على المقيّم المعتمد عدم قبول العمل فيها .",
+      "text_for_index": "يجب على المقيّم المعتمد أن يفصح عن أي مصلحة له مباشرة أو غير مباشرة فيما يطلب منه تقييمه. وتحدد اللائحة التنفيذية الحالات التي يجب على المقيّم المعتمد عدم قبول العمل فيها .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على المقيّم المعتمد أن يفصح عن أي مصلحة له مباشرة أو غير مباشرة فيما يطلب منه تقييمه. وتحدد اللائحة التنفيذية الحالات التي يجب على المقيّم المعتمد عدم قبول العمل فيها .",
+          "text_for_index": "يجب على المقيّم المعتمد أن يفصح عن أي مصلحة له مباشرة أو غير مباشرة فيما يطلب منه تقييمه. وتحدد اللائحة التنفيذية الحالات التي يجب على المقيّم المعتمد عدم قبول العمل فيها .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون :",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الحادية والعشرون",
+      "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\"، و حذف كلمة \"والهيئة\" الواردة قبل عبارة \"والعميل بذلك خلال\". وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+      "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\"، و حذف كلمة \"والهيئة\" الواردة قبل عبارة \"والعميل بذلك خلال\". وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\"، و حذف كلمة \"والهيئة\" الواردة قبل عبارة \"والعميل بذلك خلال\". وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+          "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\"، و حذف كلمة \"والهيئة\" الواردة قبل عبارة \"والعميل بذلك خلال\". وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون :",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثانية والعشرون",
+      "text_verbatim": "تنشأ هيئة تسمى \"الهيئة السعودية للمقيّمين المعتمدين\" تتمتع بشخصية اعتبارية، وتكون غير هادفة للربح، ولها ميزانية مستقلة، وتعمل تحت إشراف الوزارة، ويكون مقرها مدينة الرياض، ولها أن تنشئ مكاتب تابعة لها داخل المملكة.",
+      "text_for_index": "تنشأ هيئة تسمى \"الهيئة السعودية للمقيّمين المعتمدين\" تتمتع بشخصية اعتبارية، وتكون غير هادفة للربح، ولها ميزانية مستقلة، وتعمل تحت إشراف الوزارة، ويكون مقرها مدينة الرياض، ولها أن تنشئ مكاتب تابعة لها داخل المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنشأ هيئة تسمى \"الهيئة السعودية للمقيّمين المعتمدين\" تتمتع بشخصية اعتبارية، وتكون غير هادفة للربح، ولها ميزانية مستقلة، وتعمل تحت إشراف الوزارة، ويكون مقرها مدينة الرياض، ولها أن تنشئ مكاتب تابعة لها داخل المملكة.",
+          "text_for_index": "تنشأ هيئة تسمى \"الهيئة السعودية للمقيّمين المعتمدين\" تتمتع بشخصية اعتبارية، وتكون غير هادفة للربح، ولها ميزانية مستقلة، وتعمل تحت إشراف الوزارة، ويكون مقرها مدينة الرياض، ولها أن تنشئ مكاتب تابعة لها داخل المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون :",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثالثة والعشرون",
+      "text_verbatim": "• عُدلت الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"وضع الإجراءات المناسبة للرقابة الميدانية، للتأكد من قيام المقيّم المعتمد معايير التقييم والتقيد بأحكام النظام ولائحته التنفيذية\".",
+      "text_for_index": "• عُدلت الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"وضع الإجراءات المناسبة للرقابة الميدانية، للتأكد من قيام المقيّم المعتمد معايير التقييم والتقيد بأحكام النظام ولائحته التنفيذية\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• عُدلت الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"وضع الإجراءات المناسبة للرقابة الميدانية، للتأكد من قيام المقيّم المعتمد معايير التقييم والتقيد بأحكام النظام ولائحته التنفيذية\".",
+          "text_for_index": "• عُدلت الفقرة (5) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"وضع الإجراءات المناسبة للرقابة الميدانية، للتأكد من قيام المقيّم المعتمد معايير التقييم والتقيد بأحكام النظام ولائحته التنفيذية\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون :",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الرابعة والعشرون",
+      "text_verbatim": "تتكون الهيئة مما يأتي :\n\n1 -  أعضاء أساسيون، وهم :\nأ  -  الحاصلون على درجة جامعية في أحد التخصصات التي تعتمدها الهيئة، بشرط الحصول على شهادة الزمالة.\nب -  المستثنون بموجب المادة (الأربعين) من هذا النظام.",
+      "text_for_index": "تتكون الهيئة مما يأتي :\n\n1 - أعضاء أساسيون، وهم :\nأ - الحاصلون على درجة جامعية في أحد التخصصات التي تعتمدها الهيئة، بشرط الحصول على شهادة الزمالة.\nب - المستثنون بموجب المادة (الأربعين) من هذا النظام.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتكون الهيئة مما يأتي :",
+          "text_for_index": "تتكون الهيئة مما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-24::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "1 -  أعضاء أساسيون، وهم :\nأ  -  الحاصلون على درجة جامعية في أحد التخصصات التي تعتمدها الهيئة، بشرط الحصول على شهادة الزمالة.\nب -  المستثنون بموجب المادة (الأربعين) من هذا النظام.",
+          "text_for_index": "1 - أعضاء أساسيون، وهم :\nأ - الحاصلون على درجة جامعية في أحد التخصصات التي تعتمدها الهيئة، بشرط الحصول على شهادة الزمالة.\nب - المستثنون بموجب المادة (الأربعين) من هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون :",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الخامسة والعشرون",
+      "text_verbatim": "- حذف عبارة \"والمنتسبين\" الواردة في الفقرة (1) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "text_for_index": "- حذف عبارة \"والمنتسبين\" الواردة في الفقرة (1) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- حذف عبارة \"والمنتسبين\" الواردة في الفقرة (1) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "- حذف عبارة \"والمنتسبين\" الواردة في الفقرة (1) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون:",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السادسة والعشرون",
+      "text_verbatim": "• عُدلت الفقرة (4) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"انتخاب أعضاء مجلس إدارة الهيئة من المقيّمين المعتمدين\".",
+      "text_for_index": "• عُدلت الفقرة (4) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"انتخاب أعضاء مجلس إدارة الهيئة من المقيّمين المعتمدين\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• عُدلت الفقرة (4) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"انتخاب أعضاء مجلس إدارة الهيئة من المقيّمين المعتمدين\".",
+          "text_for_index": "• عُدلت الفقرة (4) من هذه المادة بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ، لتكون بالنص الآتي: \"انتخاب أعضاء مجلس إدارة الهيئة من المقيّمين المعتمدين\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون :",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السابعة والعشرون",
+      "text_verbatim": "• عُدلت الفقرة (1) من هذه المادة المتعلقة بمجلس الإدارة وذلك بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ.",
+      "text_for_index": "• عُدلت الفقرة (1) من هذه المادة المتعلقة بمجلس الإدارة وذلك بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• عُدلت الفقرة (1) من هذه المادة المتعلقة بمجلس الإدارة وذلك بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ.",
+          "text_for_index": "• عُدلت الفقرة (1) من هذه المادة المتعلقة بمجلس الإدارة وذلك بموجب المرسوم الملكي رقم (م/109) وتاريخ 1441/8/22هــ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون :",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثامنة والعشرون",
+      "text_verbatim": "- تعديل الفقرات (11) و(12) و(14)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ لتكون بالنصوص الآتية:\n\n\" 11- استثمار أموال الهيئة بما في ذلك الاستثمار في تملك العقار وتأجيره، والاستثمار في الأدوات المالية، وغيرها من الاستثمارات.\n\n12- تحديد المقابل المالي للخدمات والأعمال التي تقدمها الهيئة.\n\n14- تعيين رئيس تنفيذي للهيئة، وتحديد مسؤولياته، وصلاحياته، وحقوقه، وأجره، ومزاياه الوظيفية والمالية الأخرى\".\n\n- إضافة فقرتين إلى هذه المادة مع إضافة حكم إلى عجزها، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ويكون على النحو الآتي:\n\n\"15- التصرف في أصول الهيئة الثابتة والمنقولة وفقاً لما تحدده اللوائح الداخلية.\n\n16- إصدار القرارات والقواعد ذات العلاقة بالمهنة واختصاصات الهيئة.\n\nوللمجلس تفويض رئيسه أو أحد أعضائه أو من يراه من منسوبي الهيئة ببعض صلاحياته\".",
+      "text_for_index": "- تعديل الفقرات (11) و(12) و(14)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ لتكون بالنصوص الآتية:\n\n\" 11- استثمار أموال الهيئة بما في ذلك الاستثمار في تملك العقار وتأجيره، والاستثمار في الأدوات المالية، وغيرها من الاستثمارات.\n\n12- تحديد المقابل المالي للخدمات والأعمال التي تقدمها الهيئة.\n\n14- تعيين رئيس تنفيذي للهيئة، وتحديد مسؤولياته، وصلاحياته، وحقوقه، وأجره، ومزاياه الوظيفية والمالية الأخرى\".\n\n- إضافة فقرتين إلى هذه المادة مع إضافة حكم إلى عجزها، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ويكون على النحو الآتي:\n\n\"15- التصرف في أصول الهيئة الثابتة والمنقولة وفقاً لما تحدده اللوائح الداخلية.\n\n16- إصدار القرارات والقواعد ذات العلاقة بالمهنة واختصاصات الهيئة.\n\nوللمجلس تفويض رئيسه أو أحد أعضائه أو من يراه من منسوبي الهيئة ببعض صلاحياته\".",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "- تعديل الفقرات (11) و(12) و(14)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ لتكون بالنصوص الآتية:",
+          "text_for_index": "- تعديل الفقرات (11) و(12) و(14)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ لتكون بالنصوص الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "\" 11- استثمار أموال الهيئة بما في ذلك الاستثمار في تملك العقار وتأجيره، والاستثمار في الأدوات المالية، وغيرها من الاستثمارات.",
+          "text_for_index": "\" 11- استثمار أموال الهيئة بما في ذلك الاستثمار في تملك العقار وتأجيره، والاستثمار في الأدوات المالية، وغيرها من الاستثمارات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "12- تحديد المقابل المالي للخدمات والأعمال التي تقدمها الهيئة.",
+          "text_for_index": "12- تحديد المقابل المالي للخدمات والأعمال التي تقدمها الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "14- تعيين رئيس تنفيذي للهيئة، وتحديد مسؤولياته، وصلاحياته، وحقوقه، وأجره، ومزاياه الوظيفية والمالية الأخرى\".",
+          "text_for_index": "14- تعيين رئيس تنفيذي للهيئة، وتحديد مسؤولياته، وصلاحياته، وحقوقه، وأجره، ومزاياه الوظيفية والمالية الأخرى\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "- إضافة فقرتين إلى هذه المادة مع إضافة حكم إلى عجزها، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ويكون على النحو الآتي:",
+          "text_for_index": "- إضافة فقرتين إلى هذه المادة مع إضافة حكم إلى عجزها، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ويكون على النحو الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "\"15- التصرف في أصول الهيئة الثابتة والمنقولة وفقاً لما تحدده اللوائح الداخلية.",
+          "text_for_index": "\"15- التصرف في أصول الهيئة الثابتة والمنقولة وفقاً لما تحدده اللوائح الداخلية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "16- إصدار القرارات والقواعد ذات العلاقة بالمهنة واختصاصات الهيئة.",
+          "text_for_index": "16- إصدار القرارات والقواعد ذات العلاقة بالمهنة واختصاصات الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-28::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "وللمجلس تفويض رئيسه أو أحد أعضائه أو من يراه من منسوبي الهيئة ببعض صلاحياته\".",
+          "text_for_index": "وللمجلس تفويض رئيسه أو أحد أعضائه أو من يراه من منسوبي الهيئة ببعض صلاحياته\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون :",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة التاسعة والعشرون",
+      "text_verbatim": "تبدأ السنة المالية للهيئة في بداية السنة المالية للدولة وتنتهي في نهاية السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام، وتنتهي في نهاية السنة المالية للدولة من العام التالي .",
+      "text_for_index": "تبدأ السنة المالية للهيئة في بداية السنة المالية للدولة وتنتهي في نهاية السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام، وتنتهي في نهاية السنة المالية للدولة من العام التالي .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "تبدأ السنة المالية للهيئة في بداية السنة المالية للدولة وتنتهي في نهاية السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام، وتنتهي في نهاية السنة المالية للدولة من العام التالي .",
+          "text_for_index": "تبدأ السنة المالية للهيئة في بداية السنة المالية للدولة وتنتهي في نهاية السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام، وتنتهي في نهاية السنة المالية للدولة من العام التالي .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون :",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثلاثون",
+      "text_verbatim": "- إضافة عبارة \"وأعمال، وتراخيص\" إلى عجز الفقرة (5)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "text_for_index": "- إضافة عبارة \"وأعمال، وتراخيص\" إلى عجز الفقرة (5)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إضافة عبارة \"وأعمال، وتراخيص\" إلى عجز الفقرة (5)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "- إضافة عبارة \"وأعمال، وتراخيص\" إلى عجز الفقرة (5)، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون :",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الحادية والثلاثون",
+      "text_verbatim": "يكون للهيئة مراجع حسابات تعينه الجمعية العمومية كل سنة من المحاسبين القانونيين المرخص لهم في المملكة، ويكون له حق الاطلاع على الدفاتر والمستندات وإبداء ما يراه من ملحوظات، وعليه مراجعة حسابات الهيئة وتقديم تقرير عنها إلى الجمعية العمومية. وتحدد الجمعية العمومية أتعابه، ولها إعادة تعيينه أو اختيار غيره . واستثناءً من ذلك يعين مجلس الإدارة مراجع الحسابات للسنة المالية الأولى، ويحدد أتعابه .",
+      "text_for_index": "يكون للهيئة مراجع حسابات تعينه الجمعية العمومية كل سنة من المحاسبين القانونيين المرخص لهم في المملكة، ويكون له حق الاطلاع على الدفاتر والمستندات وإبداء ما يراه من ملحوظات، وعليه مراجعة حسابات الهيئة وتقديم تقرير عنها إلى الجمعية العمومية. وتحدد الجمعية العمومية أتعابه، ولها إعادة تعيينه أو اختيار غيره . واستثناءً من ذلك يعين مجلس الإدارة مراجع الحسابات للسنة المالية الأولى، ويحدد أتعابه .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "يكون للهيئة مراجع حسابات تعينه الجمعية العمومية كل سنة من المحاسبين القانونيين المرخص لهم في المملكة، ويكون له حق الاطلاع على الدفاتر والمستندات وإبداء ما يراه من ملحوظات، وعليه مراجعة حسابات الهيئة وتقديم تقرير عنها إلى الجمعية العمومية. وتحدد الجمعية العمومية أتعابه، ولها إعادة تعيينه أو اختيار غيره . واستثناءً من ذلك يعين مجلس الإدارة مراجع الحسابات للسنة المالية الأولى، ويحدد أتعابه .",
+          "text_for_index": "يكون للهيئة مراجع حسابات تعينه الجمعية العمومية كل سنة من المحاسبين القانونيين المرخص لهم في المملكة، ويكون له حق الاطلاع على الدفاتر والمستندات وإبداء ما يراه من ملحوظات، وعليه مراجعة حسابات الهيئة وتقديم تقرير عنها إلى الجمعية العمومية. وتحدد الجمعية العمومية أتعابه، ولها إعادة تعيينه أو اختيار غيره . واستثناءً من ذلك يعين مجلس الإدارة مراجع الحسابات للسنة المالية الأولى، ويحدد أتعابه .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون :",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثانية والثلاثون",
+      "text_verbatim": "- إضافة الفقرة ( و ) إلى البند (أولاً)، و إعادة ترتيب الفقرات تبعاً لذلك . وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،وتكون بالنص الآتي:\n\n\"و- إلغاء عضوية المخالف لدى الهيئة، وذلك لمن لم يقيد اسمه في السجل\".",
+      "text_for_index": "- إضافة الفقرة ( و ) إلى البند (أولاً)، و إعادة ترتيب الفقرات تبعاً لذلك . وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،وتكون بالنص الآتي:\n\n\"و- إلغاء عضوية المخالف لدى الهيئة، وذلك لمن لم يقيد اسمه في السجل\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إضافة الفقرة ( و ) إلى البند (أولاً)، و إعادة ترتيب الفقرات تبعاً لذلك . وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،وتكون بالنص الآتي:",
+          "text_for_index": "- إضافة الفقرة ( و ) إلى البند (أولاً)، و إعادة ترتيب الفقرات تبعاً لذلك . وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ،وتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-32::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\"و- إلغاء عضوية المخالف لدى الهيئة، وذلك لمن لم يقيد اسمه في السجل\".",
+          "text_for_index": "\"و- إلغاء عضوية المخالف لدى الهيئة، وذلك لمن لم يقيد اسمه في السجل\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون :",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثالثة والثلاثون",
+      "text_verbatim": "- إضافة فقرة (ح) ضمن الإحالات الواردة في البند (ثانياً) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "text_for_index": "- إضافة فقرة (ح) ضمن الإحالات الواردة في البند (ثانياً) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إضافة فقرة (ح) ضمن الإحالات الواردة في البند (ثانياً) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "- إضافة فقرة (ح) ضمن الإحالات الواردة في البند (ثانياً) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون :",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الرابعة والثلاثون",
+      "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.\n\n- إضافة عبارة \"أو أي وسيلة أخرى\" إلى عجز الفقرة (ج) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.\n\n- إضافة عبارة \"أو أي وسيلة أخرى\" إلى عجز الفقرة (ج) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\" وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-34::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إضافة عبارة \"أو أي وسيلة أخرى\" إلى عجز الفقرة (ج) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "- إضافة عبارة \"أو أي وسيلة أخرى\" إلى عجز الفقرة (ج) من هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون :",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الخامسة والثلاثون",
+      "text_verbatim": "- صدر المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ونص على الآتي:\n\n- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\".\n\n- إحلال \"المجلس\" محل \"الرئيس\".\n\n- إضافة عبارة إلى عجز المادة تنص على الآتي: \"وتكون لهم عند ممارسة أعمالهم -مجتمعين أو منفردين- صلاحيات وسلطات الضبط الجنائي\".",
+      "text_for_index": "- صدر المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ونص على الآتي:\n\n- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\".\n\n- إحلال \"المجلس\" محل \"الرئيس\".\n\n- إضافة عبارة إلى عجز المادة تنص على الآتي: \"وتكون لهم عند ممارسة أعمالهم -مجتمعين أو منفردين- صلاحيات وسلطات الضبط الجنائي\".",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- صدر المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ونص على الآتي:",
+          "text_for_index": "- صدر المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، ونص على الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-35::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\".",
+          "text_for_index": "- إحلال كلمة \"الهيئة\" محل عبارة \"الجهة المشرفة\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-35::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إحلال \"المجلس\" محل \"الرئيس\".",
+          "text_for_index": "- إحلال \"المجلس\" محل \"الرئيس\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-35::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "- إضافة عبارة إلى عجز المادة تنص على الآتي: \"وتكون لهم عند ممارسة أعمالهم -مجتمعين أو منفردين- صلاحيات وسلطات الضبط الجنائي\".",
+          "text_for_index": "- إضافة عبارة إلى عجز المادة تنص على الآتي: \"وتكون لهم عند ممارسة أعمالهم -مجتمعين أو منفردين- صلاحيات وسلطات الضبط الجنائي\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون :",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السادسة والثلاثون",
+      "text_verbatim": "-إضافة عبارة \"وتحدد -بقرار من المجلس- مكافآت\" قبل عبارة \"أعضاء لجنة قيد المقيّمين\"، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "text_for_index": "-إضافة عبارة \"وتحدد -بقرار من المجلس- مكافآت\" قبل عبارة \"أعضاء لجنة قيد المقيّمين\"، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "-إضافة عبارة \"وتحدد -بقرار من المجلس- مكافآت\" قبل عبارة \"أعضاء لجنة قيد المقيّمين\"، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "-إضافة عبارة \"وتحدد -بقرار من المجلس- مكافآت\" قبل عبارة \"أعضاء لجنة قيد المقيّمين\"، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون :",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة السابعة والثلاثون",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:\n\n\"يجوز لمن ألغي ترخيصه، أو عضويته، أو شطب قيده، أن يطلب الحصول على ترخيص جديد، أو عضوية جديدة، أو إعادة قيده، بعد انقضاء (ثلاث) سنوات من تاريخ صدور قرار الإلغاء أو الشطب، ويبت المجلس أو من يفوضه في الطلب، وتتبع في ذلك الشروط والاجراءات نفسها المقررة لمنح الترخيص والعضوية وطلب القيد\".",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:\n\n\"يجوز لمن ألغي ترخيصه، أو عضويته، أو شطب قيده، أن يطلب الحصول على ترخيص جديد، أو عضوية جديدة، أو إعادة قيده، بعد انقضاء (ثلاث) سنوات من تاريخ صدور قرار الإلغاء أو الشطب، ويبت المجلس أو من يفوضه في الطلب، وتتبع في ذلك الشروط والاجراءات نفسها المقررة لمنح الترخيص والعضوية وطلب القيد\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-37::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "\"يجوز لمن ألغي ترخيصه، أو عضويته، أو شطب قيده، أن يطلب الحصول على ترخيص جديد، أو عضوية جديدة، أو إعادة قيده، بعد انقضاء (ثلاث) سنوات من تاريخ صدور قرار الإلغاء أو الشطب، ويبت المجلس أو من يفوضه في الطلب، وتتبع في ذلك الشروط والاجراءات نفسها المقررة لمنح الترخيص والعضوية وطلب القيد\".",
+          "text_for_index": "\"يجوز لمن ألغي ترخيصه، أو عضويته، أو شطب قيده، أن يطلب الحصول على ترخيص جديد، أو عضوية جديدة، أو إعادة قيده، بعد انقضاء (ثلاث) سنوات من تاريخ صدور قرار الإلغاء أو الشطب، ويبت المجلس أو من يفوضه في الطلب، وتتبع في ذلك الشروط والاجراءات نفسها المقررة لمنح الترخيص والعضوية وطلب القيد\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون :",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثامنة والثلاثون",
+      "text_verbatim": "تتولى المحكمة المختصة النظر في جميع الدعاوى التي تقام من المقيّم المعتمد أو عليه لسبب يتعلق بمزاولته المهنة طبقاً لأحكام هذا النظام .",
+      "text_for_index": "تتولى المحكمة المختصة النظر في جميع الدعاوى التي تقام من المقيّم المعتمد أو عليه لسبب يتعلق بمزاولته المهنة طبقاً لأحكام هذا النظام .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتولى المحكمة المختصة النظر في جميع الدعاوى التي تقام من المقيّم المعتمد أو عليه لسبب يتعلق بمزاولته المهنة طبقاً لأحكام هذا النظام .",
+          "text_for_index": "تتولى المحكمة المختصة النظر في جميع الدعاوى التي تقام من المقيّم المعتمد أو عليه لسبب يتعلق بمزاولته المهنة طبقاً لأحكام هذا النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون :",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة التاسعة والثلاثون",
+      "text_verbatim": "يجب على كل من يتولى عملاً للغير يتطلب التقييم؛ الحصول على تحديد للقيمة من قبل مقيّم مسجل في السجل أو أكثر ، وتحدد اللائحة التنفيذية الحالات التي تنطبق عليها هذه المادة وتوقيت سريانها .",
+      "text_for_index": "يجب على كل من يتولى عملاً للغير يتطلب التقييم؛ الحصول على تحديد للقيمة من قبل مقيّم مسجل في السجل أو أكثر ، وتحدد اللائحة التنفيذية الحالات التي تنطبق عليها هذه المادة وتوقيت سريانها .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على كل من يتولى عملاً للغير يتطلب التقييم؛ الحصول على تحديد للقيمة من قبل مقيّم مسجل في السجل أو أكثر ، وتحدد اللائحة التنفيذية الحالات التي تنطبق عليها هذه المادة وتوقيت سريانها .",
+          "text_for_index": "يجب على كل من يتولى عملاً للغير يتطلب التقييم؛ الحصول على تحديد للقيمة من قبل مقيّم مسجل في السجل أو أكثر ، وتحدد اللائحة التنفيذية الحالات التي تنطبق عليها هذه المادة وتوقيت سريانها .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون :",
+      "article_heading": "الأربعون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الأربعون",
+      "text_verbatim": "استثناءً من الأحكام الواردة في المادة (الرابعة والعشرين) من هذا النظام ووفقاً لما تحدده اللائحة التنفيذية ، يستمر القائم بأعمال التقييم عند نفاذ هذا النظام في مزاولة عمله بصفة عضو أساسي، وتنتفي عنه هذه الصفة ويتوقف عن مزاولة هذه الأعمال إذا لم يجتز - خلال خمس سنوات من تاريخ نفاذ هذا النظام - امتحان شهادة الزمالة أو الامتحان الذي تعقده الهيئة من أجل تأهيله، ويجوز للوزير تمديد هذه المدة لمدة مماثلة.",
+      "text_for_index": "استثناءً من الأحكام الواردة في المادة (الرابعة والعشرين) من هذا النظام ووفقاً لما تحدده اللائحة التنفيذية ، يستمر القائم بأعمال التقييم عند نفاذ هذا النظام في مزاولة عمله بصفة عضو أساسي، وتنتفي عنه هذه الصفة ويتوقف عن مزاولة هذه الأعمال إذا لم يجتز - خلال خمس سنوات من تاريخ نفاذ هذا النظام - امتحان شهادة الزمالة أو الامتحان الذي تعقده الهيئة من أجل تأهيله، ويجوز للوزير تمديد هذه المدة لمدة مماثلة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "استثناءً من الأحكام الواردة في المادة (الرابعة والعشرين) من هذا النظام ووفقاً لما تحدده اللائحة التنفيذية ، يستمر القائم بأعمال التقييم عند نفاذ هذا النظام في مزاولة عمله بصفة عضو أساسي، وتنتفي عنه هذه الصفة ويتوقف عن مزاولة هذه الأعمال إذا لم يجتز - خلال خمس سنوات من تاريخ نفاذ هذا النظام - امتحان شهادة الزمالة أو الامتحان الذي تعقده الهيئة من أجل تأهيله، ويجوز للوزير تمديد هذه المدة لمدة مماثلة.",
+          "text_for_index": "استثناءً من الأحكام الواردة في المادة (الرابعة والعشرين) من هذا النظام ووفقاً لما تحدده اللائحة التنفيذية ، يستمر القائم بأعمال التقييم عند نفاذ هذا النظام في مزاولة عمله بصفة عضو أساسي، وتنتفي عنه هذه الصفة ويتوقف عن مزاولة هذه الأعمال إذا لم يجتز - خلال خمس سنوات من تاريخ نفاذ هذا النظام - امتحان شهادة الزمالة أو الامتحان الذي تعقده الهيئة من أجل تأهيله، ويجوز للوزير تمديد هذه المدة لمدة مماثلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون :",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الحادية والأربعون",
+      "text_verbatim": "تنظم العلاقة بين المقيّمين المعتمدين ـ المرخص لهم وفقاً لهذا النظام ـ والمقيّمين المعتمدين غير السعوديين، وفقاً لما يحدده هذا النظام ونظام الشركات المهنية .",
+      "text_for_index": "تنظم العلاقة بين المقيّمين المعتمدين ـ المرخص لهم وفقاً لهذا النظام ـ والمقيّمين المعتمدين غير السعوديين، وفقاً لما يحدده هذا النظام ونظام الشركات المهنية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنظم العلاقة بين المقيّمين المعتمدين ـ المرخص لهم وفقاً لهذا النظام ـ والمقيّمين المعتمدين غير السعوديين، وفقاً لما يحدده هذا النظام ونظام الشركات المهنية .",
+          "text_for_index": "تنظم العلاقة بين المقيّمين المعتمدين ـ المرخص لهم وفقاً لهذا النظام ـ والمقيّمين المعتمدين غير السعوديين، وفقاً لما يحدده هذا النظام ونظام الشركات المهنية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون :",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثانية والأربعون",
+      "text_verbatim": "- إضافة عبارة \"على أن يجتازوا الاختبارات التي تحددها الهيئة من أجل تأهيلهم\" إلى عجز هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "text_for_index": "- إضافة عبارة \"على أن يجتازوا الاختبارات التي تحددها الهيئة من أجل تأهيلهم\" إلى عجز هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- إضافة عبارة \"على أن يجتازوا الاختبارات التي تحددها الهيئة من أجل تأهيلهم\" إلى عجز هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "text_for_index": "- إضافة عبارة \"على أن يجتازوا الاختبارات التي تحددها الهيئة من أجل تأهيلهم\" إلى عجز هذه المادة، وذلك بموجب المرسوم الملكي رقم (م/190) وتاريخ 1444/11/22هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون :",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الثالثة والأربعون",
+      "text_verbatim": "يراعى في تطبيق أحكام هذا النظام ما ورد في المادة (الثامنة عشرة) من نظام مراقبة شركات التأمين التعاوني.",
+      "text_for_index": "يراعى في تطبيق أحكام هذا النظام ما ورد في المادة (الثامنة عشرة) من نظام مراقبة شركات التأمين التعاوني.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يراعى في تطبيق أحكام هذا النظام ما ورد في المادة (الثامنة عشرة) من نظام مراقبة شركات التأمين التعاوني.",
+          "text_for_index": "يراعى في تطبيق أحكام هذا النظام ما ورد في المادة (الثامنة عشرة) من نظام مراقبة شركات التأمين التعاوني.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون :",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "company_management",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الرابعة والأربعون",
+      "text_verbatim": "يعد مجلس الإدارة اللائحة التنفيذية لهذا النظام ، وتصدر بقرار من الوزير، وتكون نافذة بنفاذ هذا النظام.",
+      "text_for_index": "يعد مجلس الإدارة اللائحة التنفيذية لهذا النظام ، وتصدر بقرار من الوزير، وتكون نافذة بنفاذ هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يعد مجلس الإدارة اللائحة التنفيذية لهذا النظام ، وتصدر بقرار من الوزير، وتكون نافذة بنفاذ هذا النظام.",
+          "text_for_index": "يعد مجلس الإدارة اللائحة التنفيذية لهذا النظام ، وتصدر بقرار من الوزير، وتكون نافذة بنفاذ هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون :",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المقيمين المعتمدين، المادة الخامسة والأربعون",
+      "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مائة وثمانين يوماً من تاريخ نشره.",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مائة وثمانين يوماً من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almqymyn-almatmdyn::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مائة وثمانين يوماً من تاريخ نشره.",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مائة وثمانين يوماً من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

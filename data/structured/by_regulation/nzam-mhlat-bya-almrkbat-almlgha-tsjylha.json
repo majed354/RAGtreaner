@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "slug": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha",
+    "title_ar": "نظام محلات بيع المركبات الملغى تسجيلها",
+    "status": "ساري",
+    "issue_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+    "issue_date_gregorian": "2001-03-26",
+    "publish_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+    "publish_date_gregorian": "2001-03-26",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cf510039-d022-421f-9901-a9a700f1a8a0/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-mhlat-bya-almrkbat-almlgha-tsjylha.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-mhlat-bya-almrkbat-almlgha-tsjylha.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+    "effective_date_gregorian": "2001-03-26",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 10,
+    "paragraph_count": 11,
+    "indexable_paragraph_count": 11,
+    "text_chars": 1866,
+    "verbatim_chars": 1894,
+    "citation_base_ar": "نظام محلات بيع المركبات الملغى تسجيلها",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cf510039-d022-421f-9901-a9a700f1a8a0/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-mhlat-bya-almrkbat-almlgha-tsjylha.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-mhlat-bya-almrkbat-almlgha-tsjylha.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة الأولى",
+      "text_verbatim": "يسري هذا النظام على جميع المحلات التي تقوم بتفكيك المركبات ومعدات الأشغال العامة والدراجات بعد إلغاء تسجيلها وبيعها أو بيع بعض أجزائها (محلات التشليح).",
+      "text_for_index": "يسري هذا النظام على جميع المحلات التي تقوم بتفكيك المركبات ومعدات الأشغال العامة والدراجات بعد إلغاء تسجيلها وبيعها أو بيع بعض أجزائها (محلات التشليح).",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يسري هذا النظام على جميع المحلات التي تقوم بتفكيك المركبات ومعدات الأشغال العامة والدراجات بعد إلغاء تسجيلها وبيعها أو بيع بعض أجزائها (محلات التشليح).",
+          "text_for_index": "يسري هذا النظام على جميع المحلات التي تقوم بتفكيك المركبات ومعدات الأشغال العامة والدراجات بعد إلغاء تسجيلها وبيعها أو بيع بعض أجزائها (محلات التشليح).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة الثانية",
+      "text_verbatim": "يتم تجميع تلك المحلات في مواقع محددة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+      "text_for_index": "يتم تجميع تلك المحلات في مواقع محددة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يتم تجميع تلك المحلات في مواقع محددة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+          "text_for_index": "يتم تجميع تلك المحلات في مواقع محددة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة الثالثة",
+      "text_verbatim": "يحظر فتح تلك المحلات قبل الحصول على ترخيص من الجهة المختصة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+      "text_for_index": "يحظر فتح تلك المحلات قبل الحصول على ترخيص من الجهة المختصة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يحظر فتح تلك المحلات قبل الحصول على ترخيص من الجهة المختصة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+          "text_for_index": "يحظر فتح تلك المحلات قبل الحصول على ترخيص من الجهة المختصة وفق الشروط والإجراءات التي تحددها اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة الرابعة",
+      "text_verbatim": "يجب على من يرغب في (تفكيك) مركبة أو معدة أشغال عامة، أو دراجة أن يلغي تسجيلها.",
+      "text_for_index": "يجب على من يرغب في (تفكيك) مركبة أو معدة أشغال عامة، أو دراجة أن يلغي تسجيلها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على من يرغب في (تفكيك) مركبة أو معدة أشغال عامة، أو دراجة أن يلغي تسجيلها.",
+          "text_for_index": "يجب على من يرغب في (تفكيك) مركبة أو معدة أشغال عامة، أو دراجة أن يلغي تسجيلها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة الخامسة",
+      "text_verbatim": "يجب على أصحاب تلك المحلات أن يحتفظوا في محلاتهم بمعلومات عن البائع والمشتري وفقًا لما تحدده  اللائحة التنفيذية    لهذا النظام.",
+      "text_for_index": "يجب على أصحاب تلك المحلات أن يحتفظوا في محلاتهم بمعلومات عن البائع والمشتري وفقًا لما تحدده اللائحة التنفيذية لهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على أصحاب تلك المحلات أن يحتفظوا في محلاتهم بمعلومات عن البائع والمشتري وفقًا لما تحدده  اللائحة التنفيذية    لهذا النظام.",
+          "text_for_index": "يجب على أصحاب تلك المحلات أن يحتفظوا في محلاتهم بمعلومات عن البائع والمشتري وفقًا لما تحدده اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة السادسة",
+      "text_verbatim": "تقوم كل من  وزارة الداخلية     ووزارة الشؤون البلدية والقروية    بأعمال تفتيش على تلك المحلات ومراقبتها، كل فيما يخصه، وفقًا لما تحدده  اللائحة التنفيذية    لهذا النظام.",
+      "text_for_index": "تقوم كل من وزارة الداخلية ووزارة الشؤون البلدية والقروية بأعمال تفتيش على تلك المحلات ومراقبتها، كل فيما يخصه، وفقًا لما تحدده اللائحة التنفيذية لهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تقوم كل من  وزارة الداخلية     ووزارة الشؤون البلدية والقروية    بأعمال تفتيش على تلك المحلات ومراقبتها، كل فيما يخصه، وفقًا لما تحدده  اللائحة التنفيذية    لهذا النظام.",
+          "text_for_index": "تقوم كل من وزارة الداخلية ووزارة الشؤون البلدية والقروية بأعمال تفتيش على تلك المحلات ومراقبتها، كل فيما يخصه، وفقًا لما تحدده اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة السابعة",
+      "text_verbatim": "مع عدم الإخلال بأية عقوبة أشد تنص عليها أنظمة أخرى يعاقب كل من يخالف الأحكام الواردة في هذا النظام وفقًا لما يلي:\n\n1 - غرامة مالية مقدارها ثلاثة آلاف ريال عند المخالفة للمرة الأولى.\n2 - غرامة مالية مقدارها سبعة آلاف ريال مع إغلاق المحل مدة شهر واحد عند المخالفة للمرة الثانية.\n3 - غرامة مالية مقدارها تسعة آلاف ريال مع إغلاق المحل نهائيًّا وسحب الترخيص عند المخالفة للمرة الثالثة.",
+      "text_for_index": "مع عدم الإخلال بأية عقوبة أشد تنص عليها أنظمة أخرى يعاقب كل من يخالف الأحكام الواردة في هذا النظام وفقًا لما يلي:\n\n1 - غرامة مالية مقدارها ثلاثة آلاف ريال عند المخالفة للمرة الأولى.\n2 - غرامة مالية مقدارها سبعة آلاف ريال مع إغلاق المحل مدة شهر واحد عند المخالفة للمرة الثانية.\n3 - غرامة مالية مقدارها تسعة آلاف ريال مع إغلاق المحل نهائيًّا وسحب الترخيص عند المخالفة للمرة الثالثة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأية عقوبة أشد تنص عليها أنظمة أخرى يعاقب كل من يخالف الأحكام الواردة في هذا النظام وفقًا لما يلي:",
+          "text_for_index": "مع عدم الإخلال بأية عقوبة أشد تنص عليها أنظمة أخرى يعاقب كل من يخالف الأحكام الواردة في هذا النظام وفقًا لما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - غرامة مالية مقدارها ثلاثة آلاف ريال عند المخالفة للمرة الأولى.\n2 - غرامة مالية مقدارها سبعة آلاف ريال مع إغلاق المحل مدة شهر واحد عند المخالفة للمرة الثانية.\n3 - غرامة مالية مقدارها تسعة آلاف ريال مع إغلاق المحل نهائيًّا وسحب الترخيص عند المخالفة للمرة الثالثة.",
+          "text_for_index": "1 - غرامة مالية مقدارها ثلاثة آلاف ريال عند المخالفة للمرة الأولى.\n2 - غرامة مالية مقدارها سبعة آلاف ريال مع إغلاق المحل مدة شهر واحد عند المخالفة للمرة الثانية.\n3 - غرامة مالية مقدارها تسعة آلاف ريال مع إغلاق المحل نهائيًّا وسحب الترخيص عند المخالفة للمرة الثالثة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة الثامنة",
+      "text_verbatim": "تشكل لجان في المناطق والمحافظات والمراكز التي توجد فيها مواقع لتلك المحلات مكونة من ثلاثة أعضاء من وزارة الداخلية يكون أحدهم من ذوي الخبرة الشرعية أو النظامية؛ للنظر في توقيع العقوبات المنصوص عليها في هذا النظام، ويتم اعتماد هذه العقوبات من وزير الداخلية أو من يفوضه، ويجوز لمن صدرت بحقه عقوبة من العقوبات المنصوص عليها في المادة السابعة التظلم أمام ديوان المظالم خلال ستين يومًا من تاريخ تبليغه بها.",
+      "text_for_index": "تشكل لجان في المناطق والمحافظات والمراكز التي توجد فيها مواقع لتلك المحلات مكونة من ثلاثة أعضاء من وزارة الداخلية يكون أحدهم من ذوي الخبرة الشرعية أو النظامية؛ للنظر في توقيع العقوبات المنصوص عليها في هذا النظام، ويتم اعتماد هذه العقوبات من وزير الداخلية أو من يفوضه، ويجوز لمن صدرت بحقه عقوبة من العقوبات المنصوص عليها في المادة السابعة التظلم أمام ديوان المظالم خلال ستين يومًا من تاريخ تبليغه بها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تشكل لجان في المناطق والمحافظات والمراكز التي توجد فيها مواقع لتلك المحلات مكونة من ثلاثة أعضاء من وزارة الداخلية يكون أحدهم من ذوي الخبرة الشرعية أو النظامية؛ للنظر في توقيع العقوبات المنصوص عليها في هذا النظام، ويتم اعتماد هذه العقوبات من وزير الداخلية أو من يفوضه، ويجوز لمن صدرت بحقه عقوبة من العقوبات المنصوص عليها في المادة السابعة التظلم أمام ديوان المظالم خلال ستين يومًا من تاريخ تبليغه بها.",
+          "text_for_index": "تشكل لجان في المناطق والمحافظات والمراكز التي توجد فيها مواقع لتلك المحلات مكونة من ثلاثة أعضاء من وزارة الداخلية يكون أحدهم من ذوي الخبرة الشرعية أو النظامية؛ للنظر في توقيع العقوبات المنصوص عليها في هذا النظام، ويتم اعتماد هذه العقوبات من وزير الداخلية أو من يفوضه، ويجوز لمن صدرت بحقه عقوبة من العقوبات المنصوص عليها في المادة السابعة التظلم أمام ديوان المظالم خلال ستين يومًا من تاريخ تبليغه بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة التاسعة",
+      "text_verbatim": "يصدر  وزير الداخلية    بالاتفاق مع  وزير الشؤون البلدية والقروية     اللائحة التنفيذية    لهذا النظام.",
+      "text_for_index": "يصدر وزير الداخلية بالاتفاق مع وزير الشؤون البلدية والقروية اللائحة التنفيذية لهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يصدر  وزير الداخلية    بالاتفاق مع  وزير الشؤون البلدية والقروية     اللائحة التنفيذية    لهذا النظام.",
+          "text_for_index": "يصدر وزير الداخلية بالاتفاق مع وزير الشؤون البلدية والقروية اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام محلات بيع المركبات الملغى تسجيلها، المادة العاشرة",
+      "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية ويعمل به بعد مضي ستين يومًا من تاريخ نشره.",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ويعمل به بعد مضي ستين يومًا من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية ويعمل به بعد مضي ستين يومًا من تاريخ نشره.",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ويعمل به بعد مضي ستين يومًا من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

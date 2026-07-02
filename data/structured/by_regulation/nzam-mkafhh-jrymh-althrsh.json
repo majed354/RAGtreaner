@@ -1,0 +1,628 @@
+{
+  "metadata": {
+    "slug": "nzam-mkafhh-jrymh-althrsh",
+    "title_ar": "نظام مكافحة جريمة التحرش",
+    "status": "ساري",
+    "issue_date_hijri": "1439/09/16 هـ الموافق : 31/05/2018 مـ",
+    "issue_date_gregorian": "2018-05-31",
+    "publish_date_hijri": "1439/09/23 هـ الموافق : 07/06/2018 مـ",
+    "publish_date_gregorian": "2018-06-07",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f9de1b7f-7526-4c44-b9f3-a9f8015cf5b6/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-mkafhh-jrymh-althrsh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-mkafhh-jrymh-althrsh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1439/09/23 هـ الموافق : 07/06/2018 مـ",
+    "effective_date_gregorian": "2018-06-07",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 8,
+    "paragraph_count": 25,
+    "indexable_paragraph_count": 25,
+    "text_chars": 2860,
+    "verbatim_chars": 2863,
+    "citation_base_ar": "نظام مكافحة جريمة التحرش",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f9de1b7f-7526-4c44-b9f3-a9f8015cf5b6/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-mkafhh-jrymh-althrsh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-mkafhh-jrymh-althrsh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة الأولى",
+      "text_verbatim": "يقصد بجريمة التحرش، لغرض تطبيق أحكام هذا النظام، كل قول أو فعل أو إشارة ذات مدلول جنسي، تصدر من شخص تجاه أي شخص آخر، تمس جسده أو عرضه، أو تخدش حياءه، بأي وسيلة كانت، بما في ذلك وسائل التقنية الحديثة.",
+      "text_for_index": "يقصد بجريمة التحرش، لغرض تطبيق أحكام هذا النظام، كل قول أو فعل أو إشارة ذات مدلول جنسي، تصدر من شخص تجاه أي شخص آخر، تمس جسده أو عرضه، أو تخدش حياءه، بأي وسيلة كانت، بما في ذلك وسائل التقنية الحديثة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بجريمة التحرش، لغرض تطبيق أحكام هذا النظام، كل قول أو فعل أو إشارة ذات مدلول جنسي، تصدر من شخص تجاه أي شخص آخر، تمس جسده أو عرضه، أو تخدش حياءه، بأي وسيلة كانت، بما في ذلك وسائل التقنية الحديثة.",
+          "text_for_index": "يقصد بجريمة التحرش، لغرض تطبيق أحكام هذا النظام، كل قول أو فعل أو إشارة ذات مدلول جنسي، تصدر من شخص تجاه أي شخص آخر، تمس جسده أو عرضه، أو تخدش حياءه، بأي وسيلة كانت، بما في ذلك وسائل التقنية الحديثة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة الثانية",
+      "text_verbatim": "يهدف هذا النظام إلى مكافحة جريمة التحرش، والحيلولة دون وقوعها، وتطبيق العقوبة على مرتكبيها، وحماية المجني عليه؛ وذلك صيانة لخصوصية الفرد وكرامته وحريته الشخصية، التي كفلتها أحكام الشريعة الإسلامية، والأنظمة.",
+      "text_for_index": "يهدف هذا النظام إلى مكافحة جريمة التحرش، والحيلولة دون وقوعها، وتطبيق العقوبة على مرتكبيها، وحماية المجني عليه؛ وذلك صيانة لخصوصية الفرد وكرامته وحريته الشخصية، التي كفلتها أحكام الشريعة الإسلامية، والأنظمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يهدف هذا النظام إلى مكافحة جريمة التحرش، والحيلولة دون وقوعها، وتطبيق العقوبة على مرتكبيها، وحماية المجني عليه؛ وذلك صيانة لخصوصية الفرد وكرامته وحريته الشخصية، التي كفلتها أحكام الشريعة الإسلامية، والأنظمة.",
+          "text_for_index": "يهدف هذا النظام إلى مكافحة جريمة التحرش، والحيلولة دون وقوعها، وتطبيق العقوبة على مرتكبيها، وحماية المجني عليه؛ وذلك صيانة لخصوصية الفرد وكرامته وحريته الشخصية، التي كفلتها أحكام الشريعة الإسلامية، والأنظمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة الثالثة",
+      "text_verbatim": "1- لا يحول تنازل المجني عليه أو عدم تقديم شكوى دون حق الجهات المختصة -نظاماً- في اتخاذ ما تراه محققاً للمصلحة العامة، وذلك وفقاً لأحكام نظام الإجراءات الجزائية، والأنظمة الأخرى ذات الصلة.\n\n2- لكل من اطلع على حالة تحرش إبلاغ الجهات المختصة، لاتخاذ ما تراه وفقاً للفقرة رقم (1) من هذه المادة.",
+      "text_for_index": "1- لا يحول تنازل المجني عليه أو عدم تقديم شكوى دون حق الجهات المختصة -نظاماً- في اتخاذ ما تراه محققاً للمصلحة العامة، وذلك وفقاً لأحكام نظام الإجراءات الجزائية، والأنظمة الأخرى ذات الصلة.\n\n2- لكل من اطلع على حالة تحرش إبلاغ الجهات المختصة، لاتخاذ ما تراه وفقاً للفقرة رقم (1) من هذه المادة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1- لا يحول تنازل المجني عليه أو عدم تقديم شكوى دون حق الجهات المختصة -نظاماً- في اتخاذ ما تراه محققاً للمصلحة العامة، وذلك وفقاً لأحكام نظام الإجراءات الجزائية، والأنظمة الأخرى ذات الصلة.",
+          "text_for_index": "1- لا يحول تنازل المجني عليه أو عدم تقديم شكوى دون حق الجهات المختصة -نظاماً- في اتخاذ ما تراه محققاً للمصلحة العامة، وذلك وفقاً لأحكام نظام الإجراءات الجزائية، والأنظمة الأخرى ذات الصلة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2- لكل من اطلع على حالة تحرش إبلاغ الجهات المختصة، لاتخاذ ما تراه وفقاً للفقرة رقم (1) من هذه المادة.",
+          "text_for_index": "2- لكل من اطلع على حالة تحرش إبلاغ الجهات المختصة، لاتخاذ ما تراه وفقاً للفقرة رقم (1) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة الرابعة",
+      "text_verbatim": "1 - يلتزم كل من يطّلع -بحكم عمله- على معلومات عن أي من حالات التحرش؛ بالمحافظة على سرية هذه المعلومات.\n\n2 - لا يجوز الإفصاح عن هوية المجني عليه، إلا في الحالات التي تستلزمها إجراءات الاستدلال أو التحقيق أو المحاكمة.",
+      "text_for_index": "1 - يلتزم كل من يطّلع -بحكم عمله- على معلومات عن أي من حالات التحرش؛ بالمحافظة على سرية هذه المعلومات.\n\n2 - لا يجوز الإفصاح عن هوية المجني عليه، إلا في الحالات التي تستلزمها إجراءات الاستدلال أو التحقيق أو المحاكمة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "1 - يلتزم كل من يطّلع -بحكم عمله- على معلومات عن أي من حالات التحرش؛ بالمحافظة على سرية هذه المعلومات.",
+          "text_for_index": "1 - يلتزم كل من يطّلع -بحكم عمله- على معلومات عن أي من حالات التحرش؛ بالمحافظة على سرية هذه المعلومات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "2 - لا يجوز الإفصاح عن هوية المجني عليه، إلا في الحالات التي تستلزمها إجراءات الاستدلال أو التحقيق أو المحاكمة.",
+          "text_for_index": "2 - لا يجوز الإفصاح عن هوية المجني عليه، إلا في الحالات التي تستلزمها إجراءات الاستدلال أو التحقيق أو المحاكمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "definition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "تعريف",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة الخامسة",
+      "text_verbatim": "1- يجب على الجهات المعنية في القطاع الحكومي، والقطاع الأهلي، وضع التدابير اللازمة للوقاية من التحرش ومكافحته في إطار بيئة العمل في كل منها، على أن يشمل ذلك:\n\nأ- آلية تلقّي الشكاوى داخل الجهة.\n\nب- الإجراءات اللازمة للتأكد من صحة الشكاوى وجديتها وبما يحافظ على سريتها.\n\nج- نشر تلك التدابير، وتعريف منسوبيها بها.\n\n2- يجب على الجهات المعنية في القطاع الحكومي والقطاع الأهلي مساءلة أي من منسوبيها -تأديبيًّا- في حالة مخالفته أيًّا من الأحكام المنصوص عليها في هذا النظام، وذلك وفقاً للإجراءات المتبعة.\n\n3 - لا تخل المساءلة التأديبية التي تتم وفقاً لهذه المادة بحق المجني عليه في التقدم بشكوى أمام الجهات المختصة نظاماً.",
+      "text_for_index": "1- يجب على الجهات المعنية في القطاع الحكومي، والقطاع الأهلي، وضع التدابير اللازمة للوقاية من التحرش ومكافحته في إطار بيئة العمل في كل منها، على أن يشمل ذلك:\n\nأ- آلية تلقّي الشكاوى داخل الجهة.\n\nب- الإجراءات اللازمة للتأكد من صحة الشكاوى وجديتها وبما يحافظ على سريتها.\n\nج- نشر تلك التدابير، وتعريف منسوبيها بها.\n\n2- يجب على الجهات المعنية في القطاع الحكومي والقطاع الأهلي مساءلة أي من منسوبيها -تأديبيًّا- في حالة مخالفته أيًّا من الأحكام المنصوص عليها في هذا النظام، وذلك وفقاً للإجراءات المتبعة.\n\n3 - لا تخل المساءلة التأديبية التي تتم وفقاً لهذه المادة بحق المجني عليه في التقدم بشكوى أمام الجهات المختصة نظاماً.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "1- يجب على الجهات المعنية في القطاع الحكومي، والقطاع الأهلي، وضع التدابير اللازمة للوقاية من التحرش ومكافحته في إطار بيئة العمل في كل منها، على أن يشمل ذلك:",
+          "text_for_index": "1- يجب على الجهات المعنية في القطاع الحكومي، والقطاع الأهلي، وضع التدابير اللازمة للوقاية من التحرش ومكافحته في إطار بيئة العمل في كل منها، على أن يشمل ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ- آلية تلقّي الشكاوى داخل الجهة.",
+          "text_for_index": "أ- آلية تلقّي الشكاوى داخل الجهة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "ب- الإجراءات اللازمة للتأكد من صحة الشكاوى وجديتها وبما يحافظ على سريتها.",
+          "text_for_index": "ب- الإجراءات اللازمة للتأكد من صحة الشكاوى وجديتها وبما يحافظ على سريتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-5::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "تعريف"
+          ],
+          "text_verbatim": "ج- نشر تلك التدابير، وتعريف منسوبيها بها.",
+          "text_for_index": "ج- نشر تلك التدابير، وتعريف منسوبيها بها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-5::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "2- يجب على الجهات المعنية في القطاع الحكومي والقطاع الأهلي مساءلة أي من منسوبيها -تأديبيًّا- في حالة مخالفته أيًّا من الأحكام المنصوص عليها في هذا النظام، وذلك وفقاً للإجراءات المتبعة.",
+          "text_for_index": "2- يجب على الجهات المعنية في القطاع الحكومي والقطاع الأهلي مساءلة أي من منسوبيها -تأديبيًّا- في حالة مخالفته أيًّا من الأحكام المنصوص عليها في هذا النظام، وذلك وفقاً للإجراءات المتبعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-5::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "3 - لا تخل المساءلة التأديبية التي تتم وفقاً لهذه المادة بحق المجني عليه في التقدم بشكوى أمام الجهات المختصة نظاماً.",
+          "text_for_index": "3 - لا تخل المساءلة التأديبية التي تتم وفقاً لهذه المادة بحق المجني عليه في التقدم بشكوى أمام الجهات المختصة نظاماً.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة السادسة",
+      "text_verbatim": "1- مع مراعاة ما تقضي به الفقرة رقم (2) من هذه المادة, ودون إخلال بأي عقوبة أخرى تقررها أحكام الشريعة الإسلامية أو أي عقوبة أشد ينص عليها أي نظام آخر؛ يعاقب بالسجن مدة لا تزيد على سنتين، وبغرامة مالية لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين؛ كل من ارتكب جريمة تحرش.\n\n2- تكون عقوبة جريمة التحرش السجن لمدة لا تزيد على خمس سنوات، وبغرامة مالية لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين، في حالة العود أو في حالة اقتران الجريمة بأي مما يأتي:\n\nأ- إن كان المجني عليه طفلاً.\n\nب- إن كان المجني عليه من ذوي الاحتياجات الخاصة.\n\nج- إن كان الجاني له سلطة مباشرة أو غير مباشرة على المجني عليه.\n\nد- إن وقعت الجريمة في مكان عمل أو دراسة أو إيواء أو رعاية.\n\nهـ- إن كان الجاني والمجني عليه من جنس واحد.\n\nو- إن كان المجني عليه نائماً، أو فاقداً للوعي، أو في حكم ذلك.\n\nز- إن وقعت الجريمة في أي من حالات الأزمات أو الكوارث أو الحوادث.",
+      "text_for_index": "1- مع مراعاة ما تقضي به الفقرة رقم (2) من هذه المادة, ودون إخلال بأي عقوبة أخرى تقررها أحكام الشريعة الإسلامية أو أي عقوبة أشد ينص عليها أي نظام آخر؛ يعاقب بالسجن مدة لا تزيد على سنتين، وبغرامة مالية لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين؛ كل من ارتكب جريمة تحرش.\n\n2- تكون عقوبة جريمة التحرش السجن لمدة لا تزيد على خمس سنوات، وبغرامة مالية لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين، في حالة العود أو في حالة اقتران الجريمة بأي مما يأتي:\n\nأ- إن كان المجني عليه طفلاً.\n\nب- إن كان المجني عليه من ذوي الاحتياجات الخاصة.\n\nج- إن كان الجاني له سلطة مباشرة أو غير مباشرة على المجني عليه.\n\nد- إن وقعت الجريمة في مكان عمل أو دراسة أو إيواء أو رعاية.\n\nهـ- إن كان الجاني والمجني عليه من جنس واحد.\n\nو- إن كان المجني عليه نائماً، أو فاقداً للوعي، أو في حكم ذلك.\n\nز- إن وقعت الجريمة في أي من حالات الأزمات أو الكوارث أو الحوادث.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- مع مراعاة ما تقضي به الفقرة رقم (2) من هذه المادة, ودون إخلال بأي عقوبة أخرى تقررها أحكام الشريعة الإسلامية أو أي عقوبة أشد ينص عليها أي نظام آخر؛ يعاقب بالسجن مدة لا تزيد على سنتين، وبغرامة مالية لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين؛ كل من ارتكب جريمة تحرش.",
+          "text_for_index": "1- مع مراعاة ما تقضي به الفقرة رقم (2) من هذه المادة, ودون إخلال بأي عقوبة أخرى تقررها أحكام الشريعة الإسلامية أو أي عقوبة أشد ينص عليها أي نظام آخر؛ يعاقب بالسجن مدة لا تزيد على سنتين، وبغرامة مالية لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين؛ كل من ارتكب جريمة تحرش.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2- تكون عقوبة جريمة التحرش السجن لمدة لا تزيد على خمس سنوات، وبغرامة مالية لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين، في حالة العود أو في حالة اقتران الجريمة بأي مما يأتي:",
+          "text_for_index": "2- تكون عقوبة جريمة التحرش السجن لمدة لا تزيد على خمس سنوات، وبغرامة مالية لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين، في حالة العود أو في حالة اقتران الجريمة بأي مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ- إن كان المجني عليه طفلاً.",
+          "text_for_index": "أ- إن كان المجني عليه طفلاً.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ب- إن كان المجني عليه من ذوي الاحتياجات الخاصة.",
+          "text_for_index": "ب- إن كان المجني عليه من ذوي الاحتياجات الخاصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ج- إن كان الجاني له سلطة مباشرة أو غير مباشرة على المجني عليه.",
+          "text_for_index": "ج- إن كان الجاني له سلطة مباشرة أو غير مباشرة على المجني عليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "د- إن وقعت الجريمة في مكان عمل أو دراسة أو إيواء أو رعاية.",
+          "text_for_index": "د- إن وقعت الجريمة في مكان عمل أو دراسة أو إيواء أو رعاية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "هـ- إن كان الجاني والمجني عليه من جنس واحد.",
+          "text_for_index": "هـ- إن كان الجاني والمجني عليه من جنس واحد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "و- إن كان المجني عليه نائماً، أو فاقداً للوعي، أو في حكم ذلك.",
+          "text_for_index": "و- إن كان المجني عليه نائماً، أو فاقداً للوعي، أو في حكم ذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-6::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ز- إن وقعت الجريمة في أي من حالات الأزمات أو الكوارث أو الحوادث.",
+          "text_for_index": "ز- إن وقعت الجريمة في أي من حالات الأزمات أو الكوارث أو الحوادث.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة السابعة",
+      "text_verbatim": "1-  يعاقب كل من حرض غيره، أو اتفق معه، أو ساعده بأي صورة كانت، على ارتكاب جريمة تحرش؛ بالعقوبة المقررة للجريمة.\n\n2-  يعاقب كل من شرع في جريمة تحرش بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها.\n\n3-  يعاقب كل من قدم بلاغاً كيديًّا عن جريمة تحرش، أو ادعى كيداً بتعرضه لها، بالعقوبة المقررة للجريمة.",
+      "text_for_index": "1- يعاقب كل من حرض غيره، أو اتفق معه، أو ساعده بأي صورة كانت، على ارتكاب جريمة تحرش؛ بالعقوبة المقررة للجريمة.\n\n2- يعاقب كل من شرع في جريمة تحرش بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها.\n\n3- يعاقب كل من قدم بلاغاً كيديًّا عن جريمة تحرش، أو ادعى كيداً بتعرضه لها، بالعقوبة المقررة للجريمة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "1-  يعاقب كل من حرض غيره، أو اتفق معه، أو ساعده بأي صورة كانت، على ارتكاب جريمة تحرش؛ بالعقوبة المقررة للجريمة.",
+          "text_for_index": "1- يعاقب كل من حرض غيره، أو اتفق معه، أو ساعده بأي صورة كانت، على ارتكاب جريمة تحرش؛ بالعقوبة المقررة للجريمة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "2-  يعاقب كل من شرع في جريمة تحرش بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها.",
+          "text_for_index": "2- يعاقب كل من شرع في جريمة تحرش بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "3-  يعاقب كل من قدم بلاغاً كيديًّا عن جريمة تحرش، أو ادعى كيداً بتعرضه لها، بالعقوبة المقررة للجريمة.",
+          "text_for_index": "3- يعاقب كل من قدم بلاغاً كيديًّا عن جريمة تحرش، أو ادعى كيداً بتعرضه لها، بالعقوبة المقررة للجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "harassment"
+      ],
+      "topic_tags_ar": [
+        "تحرش"
+      ],
+      "citation_short_ar": "نظام مكافحة جريمة التحرش، المادة الثامنة",
+      "text_verbatim": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-jrymh-althrsh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

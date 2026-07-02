@@ -1,0 +1,2128 @@
+{
+  "metadata": {
+    "slug": "nzam-almsahmat-alaqaryh",
+    "title_ar": "نظام المساهمات العقارية",
+    "status": "ساري",
+    "issue_date_hijri": "1444/12/28 هـ الموافق : 16/07/2023 مـ",
+    "issue_date_gregorian": "2023-07-16",
+    "publish_date_hijri": "1445/01/03 هـ الموافق : 21/07/2023 مـ",
+    "publish_date_gregorian": "2023-07-21",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5efb6f40-d859-47e6-9c8a-b04500943ecc/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-almsahmat-alaqaryh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-almsahmat-alaqaryh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1445/01/03 هـ الموافق : 21/07/2023 مـ",
+    "effective_date_gregorian": "2023-07-21",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 38,
+    "paragraph_count": 77,
+    "indexable_paragraph_count": 77,
+    "text_chars": 10395,
+    "verbatim_chars": 10395,
+    "citation_base_ar": "نظام المساهمات العقارية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5efb6f40-d859-47e6-9c8a-b04500943ecc/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-almsahmat-alaqaryh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-almsahmat-alaqaryh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "company_management",
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الأولى",
+      "text_verbatim": "لغرض تطبيق هذا النظام، يقصد بالعبارات والألفاظ الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام المساهمات العقارية.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالهيئة: الهيئة العامة للعقار.\n\nالمجلس: مجلس إدارة الهيئة.\n\nالرئيس: الرئيس التنفيذي للهيئة.\n\nالمساهمة العقارية: مشروع تطوير عقاري يشترك فيه مجموعة من الأشخاص لأجل تحقيق منفعة، ويكون ذلك بتملك عقار وتطويره إلى سكني أو تجاري أو صناعي أو زراعي وغير ذلك، ثم بيع وإنهاء المساهمة، ولا يشمل ذلك الصناديق الاستثمارية العقارية.\n\nالمساهم: الشخص الذي يملك حصة مشاعة في المساهمة العقارية.\n\nالترخيص: ترخيص مساهمة عقارية يصدر من الهيئة.\n\nالمرخص له: الشخص الحاصل على الترخيص.\n\nمدير المساهمة العقارية: الشخص المعين لإدارة المساهمة العقارية.\n\nحساب الضمان: الحساب المصرفي الخاص بالمساهمة العقارية.\n\nسجل المساهمين: سجل تقيد فيه أسماء المساهمين وحصصهم وأي تغيير يحدث في ملكية حصصهم.\n\nالجمعية: جمعية المساهمين.",
+      "text_for_index": "لغرض تطبيق هذا النظام، يقصد بالعبارات والألفاظ الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام المساهمات العقارية.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالهيئة: الهيئة العامة للعقار.\n\nالمجلس: مجلس إدارة الهيئة.\n\nالرئيس: الرئيس التنفيذي للهيئة.\n\nالمساهمة العقارية: مشروع تطوير عقاري يشترك فيه مجموعة من الأشخاص لأجل تحقيق منفعة، ويكون ذلك بتملك عقار وتطويره إلى سكني أو تجاري أو صناعي أو زراعي وغير ذلك، ثم بيع وإنهاء المساهمة، ولا يشمل ذلك الصناديق الاستثمارية العقارية.\n\nالمساهم: الشخص الذي يملك حصة مشاعة في المساهمة العقارية.\n\nالترخيص: ترخيص مساهمة عقارية يصدر من الهيئة.\n\nالمرخص له: الشخص الحاصل على الترخيص.\n\nمدير المساهمة العقارية: الشخص المعين لإدارة المساهمة العقارية.\n\nحساب الضمان: الحساب المصرفي الخاص بالمساهمة العقارية.\n\nسجل المساهمين: سجل تقيد فيه أسماء المساهمين وحصصهم وأي تغيير يحدث في ملكية حصصهم.\n\nالجمعية: جمعية المساهمين.",
+      "paragraph_count": 14,
+      "indexable_paragraph_count": 14,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "لغرض تطبيق هذا النظام، يقصد بالعبارات والألفاظ الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+          "text_for_index": "لغرض تطبيق هذا النظام، يقصد بالعبارات والألفاظ الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "النظام: نظام المساهمات العقارية.",
+          "text_for_index": "النظام: نظام المساهمات العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الهيئة: الهيئة العامة للعقار.",
+          "text_for_index": "الهيئة: الهيئة العامة للعقار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المجلس: مجلس إدارة الهيئة.",
+          "text_for_index": "المجلس: مجلس إدارة الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الرئيس: الرئيس التنفيذي للهيئة.",
+          "text_for_index": "الرئيس: الرئيس التنفيذي للهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المساهمة العقارية: مشروع تطوير عقاري يشترك فيه مجموعة من الأشخاص لأجل تحقيق منفعة، ويكون ذلك بتملك عقار وتطويره إلى سكني أو تجاري أو صناعي أو زراعي وغير ذلك، ثم بيع وإنهاء المساهمة، ولا يشمل ذلك الصناديق الاستثمارية العقارية.",
+          "text_for_index": "المساهمة العقارية: مشروع تطوير عقاري يشترك فيه مجموعة من الأشخاص لأجل تحقيق منفعة، ويكون ذلك بتملك عقار وتطويره إلى سكني أو تجاري أو صناعي أو زراعي وغير ذلك، ثم بيع وإنهاء المساهمة، ولا يشمل ذلك الصناديق الاستثمارية العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المساهم: الشخص الذي يملك حصة مشاعة في المساهمة العقارية.",
+          "text_for_index": "المساهم: الشخص الذي يملك حصة مشاعة في المساهمة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الترخيص: ترخيص مساهمة عقارية يصدر من الهيئة.",
+          "text_for_index": "الترخيص: ترخيص مساهمة عقارية يصدر من الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المرخص له: الشخص الحاصل على الترخيص.",
+          "text_for_index": "المرخص له: الشخص الحاصل على الترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "مدير المساهمة العقارية: الشخص المعين لإدارة المساهمة العقارية.",
+          "text_for_index": "مدير المساهمة العقارية: الشخص المعين لإدارة المساهمة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "حساب الضمان: الحساب المصرفي الخاص بالمساهمة العقارية.",
+          "text_for_index": "حساب الضمان: الحساب المصرفي الخاص بالمساهمة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "سجل المساهمين: سجل تقيد فيه أسماء المساهمين وحصصهم وأي تغيير يحدث في ملكية حصصهم.",
+          "text_for_index": "سجل المساهمين: سجل تقيد فيه أسماء المساهمين وحصصهم وأي تغيير يحدث في ملكية حصصهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجمعية: جمعية المساهمين.",
+          "text_for_index": "الجمعية: جمعية المساهمين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثانية",
+      "text_verbatim": "يهدف النظام إلى تنظيم نشاط المساهمات العقارية، وإلى رفع مستوى الشفافية والإفصاح فيه، وإلى حماية حقوق جميع أطراف المساهمة العقارية.",
+      "text_for_index": "يهدف النظام إلى تنظيم نشاط المساهمات العقارية، وإلى رفع مستوى الشفافية والإفصاح فيه، وإلى حماية حقوق جميع أطراف المساهمة العقارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يهدف النظام إلى تنظيم نشاط المساهمات العقارية، وإلى رفع مستوى الشفافية والإفصاح فيه، وإلى حماية حقوق جميع أطراف المساهمة العقارية.",
+          "text_for_index": "يهدف النظام إلى تنظيم نشاط المساهمات العقارية، وإلى رفع مستوى الشفافية والإفصاح فيه، وإلى حماية حقوق جميع أطراف المساهمة العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثالثة",
+      "text_verbatim": "دون إخلال باختصاصات الجهات الحكومية الأخرى، تتولى الهيئة تنظيم نشاط المساهمات العقارية وفقاً لما يحدده النظام واللائحة، ولها على وجه خاص ما يأتي:\n\n\t• إصدار الترخيص وتعديله وإلغاؤه. وتحدد اللائحة الشروط والمتطلبات والإجراءات اللازمة لذلك.\n\n\t• تصنيف المساهمات العقارية بحسب الحجم أو النوع أو الموقع، ووضع الشروط والمتطلبات الملائمة والمدد الزمنية للمساهمة العقارية بحسب تصنيفها.\n\n\t• وضع شروط تأهيل وتصنيف المطورين العقاريين لغرض طرح المساهمات العقارية.\n\n\t• وضع شروط تأهيل وتصنيف ممارسي نشاط المساهمات العقارية.\n\n\t• وضع أسس تحدد استحقاقات المرخص له نظير أتعابه، وما يتقاضاه من عمولات.\n\n\t• الرقابة والإشراف على المساهمات العقارية.\n\n\tوللهيئة الاستعانة بأي جهة حكومية أخرى أو بالقطاع الخاص؛ للقيام بأي مهمة مسندة إليها بموجب النظام أو اللائحة.",
+      "text_for_index": "دون إخلال باختصاصات الجهات الحكومية الأخرى، تتولى الهيئة تنظيم نشاط المساهمات العقارية وفقاً لما يحدده النظام واللائحة، ولها على وجه خاص ما يأتي:\n\n • إصدار الترخيص وتعديله وإلغاؤه. وتحدد اللائحة الشروط والمتطلبات والإجراءات اللازمة لذلك.\n\n • تصنيف المساهمات العقارية بحسب الحجم أو النوع أو الموقع، ووضع الشروط والمتطلبات الملائمة والمدد الزمنية للمساهمة العقارية بحسب تصنيفها.\n\n • وضع شروط تأهيل وتصنيف المطورين العقاريين لغرض طرح المساهمات العقارية.\n\n • وضع شروط تأهيل وتصنيف ممارسي نشاط المساهمات العقارية.\n\n • وضع أسس تحدد استحقاقات المرخص له نظير أتعابه، وما يتقاضاه من عمولات.\n\n • الرقابة والإشراف على المساهمات العقارية.\n\n وللهيئة الاستعانة بأي جهة حكومية أخرى أو بالقطاع الخاص؛ للقيام بأي مهمة مسندة إليها بموجب النظام أو اللائحة.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال باختصاصات الجهات الحكومية الأخرى، تتولى الهيئة تنظيم نشاط المساهمات العقارية وفقاً لما يحدده النظام واللائحة، ولها على وجه خاص ما يأتي:",
+          "text_for_index": "دون إخلال باختصاصات الجهات الحكومية الأخرى، تتولى الهيئة تنظيم نشاط المساهمات العقارية وفقاً لما يحدده النظام واللائحة، ولها على وجه خاص ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• إصدار الترخيص وتعديله وإلغاؤه. وتحدد اللائحة الشروط والمتطلبات والإجراءات اللازمة لذلك.",
+          "text_for_index": "• إصدار الترخيص وتعديله وإلغاؤه. وتحدد اللائحة الشروط والمتطلبات والإجراءات اللازمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• تصنيف المساهمات العقارية بحسب الحجم أو النوع أو الموقع، ووضع الشروط والمتطلبات الملائمة والمدد الزمنية للمساهمة العقارية بحسب تصنيفها.",
+          "text_for_index": "• تصنيف المساهمات العقارية بحسب الحجم أو النوع أو الموقع، ووضع الشروط والمتطلبات الملائمة والمدد الزمنية للمساهمة العقارية بحسب تصنيفها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• وضع شروط تأهيل وتصنيف المطورين العقاريين لغرض طرح المساهمات العقارية.",
+          "text_for_index": "• وضع شروط تأهيل وتصنيف المطورين العقاريين لغرض طرح المساهمات العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• وضع شروط تأهيل وتصنيف ممارسي نشاط المساهمات العقارية.",
+          "text_for_index": "• وضع شروط تأهيل وتصنيف ممارسي نشاط المساهمات العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• وضع أسس تحدد استحقاقات المرخص له نظير أتعابه، وما يتقاضاه من عمولات.",
+          "text_for_index": "• وضع أسس تحدد استحقاقات المرخص له نظير أتعابه، وما يتقاضاه من عمولات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الرقابة والإشراف على المساهمات العقارية.",
+          "text_for_index": "• الرقابة والإشراف على المساهمات العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-3::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "وللهيئة الاستعانة بأي جهة حكومية أخرى أو بالقطاع الخاص؛ للقيام بأي مهمة مسندة إليها بموجب النظام أو اللائحة.",
+          "text_for_index": "وللهيئة الاستعانة بأي جهة حكومية أخرى أو بالقطاع الخاص؛ للقيام بأي مهمة مسندة إليها بموجب النظام أو اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright",
+        "e_commerce"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تجارة إلكترونية"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الرابعة",
+      "text_verbatim": "لا يجوز طرح المساهمة العقارية ولا الإعلان عنها ولا تسويقها ولا جمع الأموال لها إلا بعد موافقة هيئة السوق المالية والحصول على ترخيص من الهيئة -وفقاً لأحكام النظام واللائحة- وذلك بعد التحقق مما يأتي:\n\n\t• أن يكون العقار محل المساهمة العقارية مملوكاً بموجب صك ملكية ساري المفعول، ثابتة سلامته، بناءً على إفادة من الجهة التي أصدرته.\n\n\t• أن يكون العقار محل المساهمة العقارية حاصلاً على الموافقات اللازمة لتطويره من الجهات المختصة وذلك وفقاً لما تحدده اللائحة.",
+      "text_for_index": "لا يجوز طرح المساهمة العقارية ولا الإعلان عنها ولا تسويقها ولا جمع الأموال لها إلا بعد موافقة هيئة السوق المالية والحصول على ترخيص من الهيئة -وفقاً لأحكام النظام واللائحة- وذلك بعد التحقق مما يأتي:\n\n • أن يكون العقار محل المساهمة العقارية مملوكاً بموجب صك ملكية ساري المفعول، ثابتة سلامته، بناءً على إفادة من الجهة التي أصدرته.\n\n • أن يكون العقار محل المساهمة العقارية حاصلاً على الموافقات اللازمة لتطويره من الجهات المختصة وذلك وفقاً لما تحدده اللائحة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز طرح المساهمة العقارية ولا الإعلان عنها ولا تسويقها ولا جمع الأموال لها إلا بعد موافقة هيئة السوق المالية والحصول على ترخيص من الهيئة -وفقاً لأحكام النظام واللائحة- وذلك بعد التحقق مما يأتي:",
+          "text_for_index": "لا يجوز طرح المساهمة العقارية ولا الإعلان عنها ولا تسويقها ولا جمع الأموال لها إلا بعد موافقة هيئة السوق المالية والحصول على ترخيص من الهيئة -وفقاً لأحكام النظام واللائحة- وذلك بعد التحقق مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• أن يكون العقار محل المساهمة العقارية مملوكاً بموجب صك ملكية ساري المفعول، ثابتة سلامته، بناءً على إفادة من الجهة التي أصدرته.",
+          "text_for_index": "• أن يكون العقار محل المساهمة العقارية مملوكاً بموجب صك ملكية ساري المفعول، ثابتة سلامته، بناءً على إفادة من الجهة التي أصدرته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• أن يكون العقار محل المساهمة العقارية حاصلاً على الموافقات اللازمة لتطويره من الجهات المختصة وذلك وفقاً لما تحدده اللائحة.",
+          "text_for_index": "• أن يكون العقار محل المساهمة العقارية حاصلاً على الموافقات اللازمة لتطويره من الجهات المختصة وذلك وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الخامسة",
+      "text_verbatim": "يجب أن يكون المرخص له مؤهلاً ومصنفاً من الهيئة لممارسة نشاط المساهمات العقارية وفقاً لما تحدده اللائحة.",
+      "text_for_index": "يجب أن يكون المرخص له مؤهلاً ومصنفاً من الهيئة لممارسة نشاط المساهمات العقارية وفقاً لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن يكون المرخص له مؤهلاً ومصنفاً من الهيئة لممارسة نشاط المساهمات العقارية وفقاً لما تحدده اللائحة.",
+          "text_for_index": "يجب أن يكون المرخص له مؤهلاً ومصنفاً من الهيئة لممارسة نشاط المساهمات العقارية وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السادسة",
+      "text_verbatim": "يحدد رأس مال المساهمة العقارية، الذي على أساسه يُحتسب عدد الحصص ومقدارها من خلال التكلفة التقديرية من قبل جهة تقييمية مرخصة، بعد موافقة الهيئة وهيئة السوق المالية وفقاً لما تحدده اللائحة.",
+      "text_for_index": "يحدد رأس مال المساهمة العقارية، الذي على أساسه يُحتسب عدد الحصص ومقدارها من خلال التكلفة التقديرية من قبل جهة تقييمية مرخصة، بعد موافقة الهيئة وهيئة السوق المالية وفقاً لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يحدد رأس مال المساهمة العقارية، الذي على أساسه يُحتسب عدد الحصص ومقدارها من خلال التكلفة التقديرية من قبل جهة تقييمية مرخصة، بعد موافقة الهيئة وهيئة السوق المالية وفقاً لما تحدده اللائحة.",
+          "text_for_index": "يحدد رأس مال المساهمة العقارية، الذي على أساسه يُحتسب عدد الحصص ومقدارها من خلال التكلفة التقديرية من قبل جهة تقييمية مرخصة، بعد موافقة الهيئة وهيئة السوق المالية وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السابعة",
+      "text_verbatim": "للهيئة اشتراط إضافة مبلغ احتياطي إلى رأس مال المساهمة العقارية بما لا يتجاوز (15%) من تكلفتها التقديرية، وذلك لمقابلة أي مصاريف إضافية غير متوقعة. ويكون التصرف بالمبلغ الاحتياطي بموافقة الجمعية. وتحدد اللائحة الشروط اللازمة لذلك، وكيفية إعادته للمساهمين في حال عدم التصرف به.",
+      "text_for_index": "للهيئة اشتراط إضافة مبلغ احتياطي إلى رأس مال المساهمة العقارية بما لا يتجاوز (15%) من تكلفتها التقديرية، وذلك لمقابلة أي مصاريف إضافية غير متوقعة. ويكون التصرف بالمبلغ الاحتياطي بموافقة الجمعية. وتحدد اللائحة الشروط اللازمة لذلك، وكيفية إعادته للمساهمين في حال عدم التصرف به.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "للهيئة اشتراط إضافة مبلغ احتياطي إلى رأس مال المساهمة العقارية بما لا يتجاوز (15%) من تكلفتها التقديرية، وذلك لمقابلة أي مصاريف إضافية غير متوقعة. ويكون التصرف بالمبلغ الاحتياطي بموافقة الجمعية. وتحدد اللائحة الشروط اللازمة لذلك، وكيفية إعادته للمساهمين في حال عدم التصرف به.",
+          "text_for_index": "للهيئة اشتراط إضافة مبلغ احتياطي إلى رأس مال المساهمة العقارية بما لا يتجاوز (15%) من تكلفتها التقديرية، وذلك لمقابلة أي مصاريف إضافية غير متوقعة. ويكون التصرف بالمبلغ الاحتياطي بموافقة الجمعية. وتحدد اللائحة الشروط اللازمة لذلك، وكيفية إعادته للمساهمين في حال عدم التصرف به.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثامنة",
+      "text_verbatim": "يحق للمساهم الاشتراك في المساهمة العقارية، بحصة عينية أو نقدية. وتحدد اللائحة نوع الحصة العينية والشروط الواجب توافرها فيها.",
+      "text_for_index": "يحق للمساهم الاشتراك في المساهمة العقارية، بحصة عينية أو نقدية. وتحدد اللائحة نوع الحصة العينية والشروط الواجب توافرها فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "يحق للمساهم الاشتراك في المساهمة العقارية، بحصة عينية أو نقدية. وتحدد اللائحة نوع الحصة العينية والشروط الواجب توافرها فيها.",
+          "text_for_index": "يحق للمساهم الاشتراك في المساهمة العقارية، بحصة عينية أو نقدية. وتحدد اللائحة نوع الحصة العينية والشروط الواجب توافرها فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "company_management",
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة التاسعة",
+      "text_verbatim": "• يقسم رأس مال المساهمة العقارية إلى حصص متساوية القيمة والحقوق، وتكون مسؤولية المساهمين في حدود ما يملكون من حصص في المساهمة العقارية.\n\n\t• تقوم هيئة السوق المالية بتنظيم سجل المساهمين الخاص بالمساهمة العقارية.",
+      "text_for_index": "• يقسم رأس مال المساهمة العقارية إلى حصص متساوية القيمة والحقوق، وتكون مسؤولية المساهمين في حدود ما يملكون من حصص في المساهمة العقارية.\n\n • تقوم هيئة السوق المالية بتنظيم سجل المساهمين الخاص بالمساهمة العقارية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• يقسم رأس مال المساهمة العقارية إلى حصص متساوية القيمة والحقوق، وتكون مسؤولية المساهمين في حدود ما يملكون من حصص في المساهمة العقارية.",
+          "text_for_index": "• يقسم رأس مال المساهمة العقارية إلى حصص متساوية القيمة والحقوق، وتكون مسؤولية المساهمين في حدود ما يملكون من حصص في المساهمة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تقوم هيئة السوق المالية بتنظيم سجل المساهمين الخاص بالمساهمة العقارية.",
+          "text_for_index": "• تقوم هيئة السوق المالية بتنظيم سجل المساهمين الخاص بالمساهمة العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة العاشرة",
+      "text_verbatim": "لا يجوز الإقراض من رأس مال المساهمة العقارية، ويجوز الاقتراض بضمان أموال أو أصول المساهمة العقارية على أن يتم تضمين اتفاقية المساهمة ذلك، وتحدد اللائحة الاشتراطات المنظمة لذلك.",
+      "text_for_index": "لا يجوز الإقراض من رأس مال المساهمة العقارية، ويجوز الاقتراض بضمان أموال أو أصول المساهمة العقارية على أن يتم تضمين اتفاقية المساهمة ذلك، وتحدد اللائحة الاشتراطات المنظمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز الإقراض من رأس مال المساهمة العقارية، ويجوز الاقتراض بضمان أموال أو أصول المساهمة العقارية على أن يتم تضمين اتفاقية المساهمة ذلك، وتحدد اللائحة الاشتراطات المنظمة لذلك.",
+          "text_for_index": "لا يجوز الإقراض من رأس مال المساهمة العقارية، ويجوز الاقتراض بضمان أموال أو أصول المساهمة العقارية على أن يتم تضمين اتفاقية المساهمة ذلك، وتحدد اللائحة الاشتراطات المنظمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الحادية عشرة",
+      "text_verbatim": "يكون صافي أصول المساهمة العقارية من أصول ثابتة نقدية وعينية أو حقوق لدى الغير؛ مملوكة للمساهمة العقارية. وليس لدائني المساهمين أو المرخص له أو مدير المساهمة العقارية أي حق في أموال المساهمة العقارية أو أصولها عدا ما يملكونه من الحصص في المساهمة العقارية.",
+      "text_for_index": "يكون صافي أصول المساهمة العقارية من أصول ثابتة نقدية وعينية أو حقوق لدى الغير؛ مملوكة للمساهمة العقارية. وليس لدائني المساهمين أو المرخص له أو مدير المساهمة العقارية أي حق في أموال المساهمة العقارية أو أصولها عدا ما يملكونه من الحصص في المساهمة العقارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يكون صافي أصول المساهمة العقارية من أصول ثابتة نقدية وعينية أو حقوق لدى الغير؛ مملوكة للمساهمة العقارية. وليس لدائني المساهمين أو المرخص له أو مدير المساهمة العقارية أي حق في أموال المساهمة العقارية أو أصولها عدا ما يملكونه من الحصص في المساهمة العقارية.",
+          "text_for_index": "يكون صافي أصول المساهمة العقارية من أصول ثابتة نقدية وعينية أو حقوق لدى الغير؛ مملوكة للمساهمة العقارية. وليس لدائني المساهمين أو المرخص له أو مدير المساهمة العقارية أي حق في أموال المساهمة العقارية أو أصولها عدا ما يملكونه من الحصص في المساهمة العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثانية عشرة",
+      "text_verbatim": "• يجب ألا تقل نسبة المرخص له في المساهمة العقارية عن النسبة التي تحددها اللائحة، وأن يحتفظ لنفسه بملكية هذه النسبة حتى انقضاء المساهمة العقارية.\n\n\t• يجوز لبقية المساهمين في المساهمة العقارية التصرف بحصصهم وفق الشروط التي تحددها اللائحة.",
+      "text_for_index": "• يجب ألا تقل نسبة المرخص له في المساهمة العقارية عن النسبة التي تحددها اللائحة، وأن يحتفظ لنفسه بملكية هذه النسبة حتى انقضاء المساهمة العقارية.\n\n • يجوز لبقية المساهمين في المساهمة العقارية التصرف بحصصهم وفق الشروط التي تحددها اللائحة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب ألا تقل نسبة المرخص له في المساهمة العقارية عن النسبة التي تحددها اللائحة، وأن يحتفظ لنفسه بملكية هذه النسبة حتى انقضاء المساهمة العقارية.",
+          "text_for_index": "• يجب ألا تقل نسبة المرخص له في المساهمة العقارية عن النسبة التي تحددها اللائحة، وأن يحتفظ لنفسه بملكية هذه النسبة حتى انقضاء المساهمة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجوز لبقية المساهمين في المساهمة العقارية التصرف بحصصهم وفق الشروط التي تحددها اللائحة.",
+          "text_for_index": "• يجوز لبقية المساهمين في المساهمة العقارية التصرف بحصصهم وفق الشروط التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثالثة عشرة",
+      "text_verbatim": "يكون المرخص له هو المسؤول عن جميع ما يتعلق بالمساهمة العقارية تجاه المساهم والهيئة وهيئة السوق المالية وأي من الجهات الحكومية ذات العلاقة والغير. وتحدد اللائحة اختصاصات المرخص له، وحدود مسؤولياته.",
+      "text_for_index": "يكون المرخص له هو المسؤول عن جميع ما يتعلق بالمساهمة العقارية تجاه المساهم والهيئة وهيئة السوق المالية وأي من الجهات الحكومية ذات العلاقة والغير. وتحدد اللائحة اختصاصات المرخص له، وحدود مسؤولياته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يكون المرخص له هو المسؤول عن جميع ما يتعلق بالمساهمة العقارية تجاه المساهم والهيئة وهيئة السوق المالية وأي من الجهات الحكومية ذات العلاقة والغير. وتحدد اللائحة اختصاصات المرخص له، وحدود مسؤولياته.",
+          "text_for_index": "يكون المرخص له هو المسؤول عن جميع ما يتعلق بالمساهمة العقارية تجاه المساهم والهيئة وهيئة السوق المالية وأي من الجهات الحكومية ذات العلاقة والغير. وتحدد اللائحة اختصاصات المرخص له، وحدود مسؤولياته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الرابعة عشرة",
+      "text_verbatim": "مع مراعاة ما نصت عليه المادة (التاسعة عشرة) من النظام، على المرخص له الالتزام بالإشراف على أعمال مدير المساهمة العقارية، وتمكينه من القيام بواجباته.",
+      "text_for_index": "مع مراعاة ما نصت عليه المادة (التاسعة عشرة) من النظام، على المرخص له الالتزام بالإشراف على أعمال مدير المساهمة العقارية، وتمكينه من القيام بواجباته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مع مراعاة ما نصت عليه المادة (التاسعة عشرة) من النظام، على المرخص له الالتزام بالإشراف على أعمال مدير المساهمة العقارية، وتمكينه من القيام بواجباته.",
+          "text_for_index": "مع مراعاة ما نصت عليه المادة (التاسعة عشرة) من النظام، على المرخص له الالتزام بالإشراف على أعمال مدير المساهمة العقارية، وتمكينه من القيام بواجباته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الخامسة عشرة",
+      "text_verbatim": "يفتح المرخص له حساب ضمان في أحد البنوك المرخص لها باسم المساهمة العقارية. وتضع الهيئة بالتنسيق مع البنك المركزي السعودي الضوابط اللازمة لحساب الضمان.",
+      "text_for_index": "يفتح المرخص له حساب ضمان في أحد البنوك المرخص لها باسم المساهمة العقارية. وتضع الهيئة بالتنسيق مع البنك المركزي السعودي الضوابط اللازمة لحساب الضمان.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يفتح المرخص له حساب ضمان في أحد البنوك المرخص لها باسم المساهمة العقارية. وتضع الهيئة بالتنسيق مع البنك المركزي السعودي الضوابط اللازمة لحساب الضمان.",
+          "text_for_index": "يفتح المرخص له حساب ضمان في أحد البنوك المرخص لها باسم المساهمة العقارية. وتضع الهيئة بالتنسيق مع البنك المركزي السعودي الضوابط اللازمة لحساب الضمان.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السادسة عشرة",
+      "text_verbatim": "تقوم هيئة السوق المالية بتنظيم إصدار شهادة المساهمة العقارية التي تثبت تملك المساهم حصة في المساهمة العقارية.",
+      "text_for_index": "تقوم هيئة السوق المالية بتنظيم إصدار شهادة المساهمة العقارية التي تثبت تملك المساهم حصة في المساهمة العقارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقوم هيئة السوق المالية بتنظيم إصدار شهادة المساهمة العقارية التي تثبت تملك المساهم حصة في المساهمة العقارية.",
+          "text_for_index": "تقوم هيئة السوق المالية بتنظيم إصدار شهادة المساهمة العقارية التي تثبت تملك المساهم حصة في المساهمة العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السابعة عشرة",
+      "text_verbatim": "تكتسب المساهمة العقارية الشخصية الاعتبارية بصدور الترخيص من قبل الهيئة، وتكون خاضعة لأحكام النظام واللائحة.",
+      "text_for_index": "تكتسب المساهمة العقارية الشخصية الاعتبارية بصدور الترخيص من قبل الهيئة، وتكون خاضعة لأحكام النظام واللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تكتسب المساهمة العقارية الشخصية الاعتبارية بصدور الترخيص من قبل الهيئة، وتكون خاضعة لأحكام النظام واللائحة.",
+          "text_for_index": "تكتسب المساهمة العقارية الشخصية الاعتبارية بصدور الترخيص من قبل الهيئة، وتكون خاضعة لأحكام النظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثامنة عشرة",
+      "text_verbatim": "يجب على المرخص له تعيين محاسب قانوني واستشاري هندسي لكل مساهمة عقارية. وتحدد اللائحة شروط ومتطلبات ومسؤوليات ومهمات وآلية عمل كل منهما وما يترتب عليه، فيما يتعلق بالمساهمات العقارية.",
+      "text_for_index": "يجب على المرخص له تعيين محاسب قانوني واستشاري هندسي لكل مساهمة عقارية. وتحدد اللائحة شروط ومتطلبات ومسؤوليات ومهمات وآلية عمل كل منهما وما يترتب عليه، فيما يتعلق بالمساهمات العقارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على المرخص له تعيين محاسب قانوني واستشاري هندسي لكل مساهمة عقارية. وتحدد اللائحة شروط ومتطلبات ومسؤوليات ومهمات وآلية عمل كل منهما وما يترتب عليه، فيما يتعلق بالمساهمات العقارية.",
+          "text_for_index": "يجب على المرخص له تعيين محاسب قانوني واستشاري هندسي لكل مساهمة عقارية. وتحدد اللائحة شروط ومتطلبات ومسؤوليات ومهمات وآلية عمل كل منهما وما يترتب عليه، فيما يتعلق بالمساهمات العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة التاسعة عشرة",
+      "text_verbatim": "يدير المساهمة العقارية مدير المساهمة العقارية الذي يُعيّنه المرخص له. وتحدد اللائحة اشتراطات ومتطلبات مدير المساهمة العقارية وصلاحياته ومهماته ومسؤولياته.",
+      "text_for_index": "يدير المساهمة العقارية مدير المساهمة العقارية الذي يُعيّنه المرخص له. وتحدد اللائحة اشتراطات ومتطلبات مدير المساهمة العقارية وصلاحياته ومهماته ومسؤولياته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يدير المساهمة العقارية مدير المساهمة العقارية الذي يُعيّنه المرخص له. وتحدد اللائحة اشتراطات ومتطلبات مدير المساهمة العقارية وصلاحياته ومهماته ومسؤولياته.",
+          "text_for_index": "يدير المساهمة العقارية مدير المساهمة العقارية الذي يُعيّنه المرخص له. وتحدد اللائحة اشتراطات ومتطلبات مدير المساهمة العقارية وصلاحياته ومهماته ومسؤولياته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة العشرون",
+      "text_verbatim": "يحق للمرخص له وللهيئة وللجمعية عزل مدير المساهمة العقارية وفق ما تحدده اللائحة في حال إساءته استخدام صلاحياته أو إخلاله بتنفيذ التزاماته، ولا يخل ذلك بأي عقوبة قد تفرض عليه جراء ذلك.",
+      "text_for_index": "يحق للمرخص له وللهيئة وللجمعية عزل مدير المساهمة العقارية وفق ما تحدده اللائحة في حال إساءته استخدام صلاحياته أو إخلاله بتنفيذ التزاماته، ولا يخل ذلك بأي عقوبة قد تفرض عليه جراء ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يحق للمرخص له وللهيئة وللجمعية عزل مدير المساهمة العقارية وفق ما تحدده اللائحة في حال إساءته استخدام صلاحياته أو إخلاله بتنفيذ التزاماته، ولا يخل ذلك بأي عقوبة قد تفرض عليه جراء ذلك.",
+          "text_for_index": "يحق للمرخص له وللهيئة وللجمعية عزل مدير المساهمة العقارية وفق ما تحدده اللائحة في حال إساءته استخدام صلاحياته أو إخلاله بتنفيذ التزاماته، ولا يخل ذلك بأي عقوبة قد تفرض عليه جراء ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الحادية والعشرون",
+      "text_verbatim": "دون إخلال بما نصت عليه المادة (الرابعة عشرة) من النظام، لا يجوز للمرخص له ولا لمدير المساهمة العقارية اتخاذ أي قرار أو إجراء إذا كان هناك تعارض مصالح قائم أو محتمل في هذا القرار أو الإجراء. وتحدد اللائحة طريقة التعامل مع حالات تعارض المصالح.",
+      "text_for_index": "دون إخلال بما نصت عليه المادة (الرابعة عشرة) من النظام، لا يجوز للمرخص له ولا لمدير المساهمة العقارية اتخاذ أي قرار أو إجراء إذا كان هناك تعارض مصالح قائم أو محتمل في هذا القرار أو الإجراء. وتحدد اللائحة طريقة التعامل مع حالات تعارض المصالح.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بما نصت عليه المادة (الرابعة عشرة) من النظام، لا يجوز للمرخص له ولا لمدير المساهمة العقارية اتخاذ أي قرار أو إجراء إذا كان هناك تعارض مصالح قائم أو محتمل في هذا القرار أو الإجراء. وتحدد اللائحة طريقة التعامل مع حالات تعارض المصالح.",
+          "text_for_index": "دون إخلال بما نصت عليه المادة (الرابعة عشرة) من النظام، لا يجوز للمرخص له ولا لمدير المساهمة العقارية اتخاذ أي قرار أو إجراء إذا كان هناك تعارض مصالح قائم أو محتمل في هذا القرار أو الإجراء. وتحدد اللائحة طريقة التعامل مع حالات تعارض المصالح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثانية والعشرون",
+      "text_verbatim": "يكون للمساهمة العقارية جمعية تتشكل من جميع المساهمين المسجلين في سجل المساهمة العقارية. وتحدد اللائحة اختصاصات الجمعية.",
+      "text_for_index": "يكون للمساهمة العقارية جمعية تتشكل من جميع المساهمين المسجلين في سجل المساهمة العقارية. وتحدد اللائحة اختصاصات الجمعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون للمساهمة العقارية جمعية تتشكل من جميع المساهمين المسجلين في سجل المساهمة العقارية. وتحدد اللائحة اختصاصات الجمعية.",
+          "text_for_index": "يكون للمساهمة العقارية جمعية تتشكل من جميع المساهمين المسجلين في سجل المساهمة العقارية. وتحدد اللائحة اختصاصات الجمعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثالثة والعشرون",
+      "text_verbatim": "تنعقد اجتماعات الجمعية بدعوة من المرخص له أو مدير المساهمة العقارية أو مساهمين يمثلون (10%) من رأس مال المساهمة العقارية أو بطلب من الهيئة، ويحدد في الدعوة للاجتماع مكان انعقاده.",
+      "text_for_index": "تنعقد اجتماعات الجمعية بدعوة من المرخص له أو مدير المساهمة العقارية أو مساهمين يمثلون (10%) من رأس مال المساهمة العقارية أو بطلب من الهيئة، ويحدد في الدعوة للاجتماع مكان انعقاده.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنعقد اجتماعات الجمعية بدعوة من المرخص له أو مدير المساهمة العقارية أو مساهمين يمثلون (10%) من رأس مال المساهمة العقارية أو بطلب من الهيئة، ويحدد في الدعوة للاجتماع مكان انعقاده.",
+          "text_for_index": "تنعقد اجتماعات الجمعية بدعوة من المرخص له أو مدير المساهمة العقارية أو مساهمين يمثلون (10%) من رأس مال المساهمة العقارية أو بطلب من الهيئة، ويحدد في الدعوة للاجتماع مكان انعقاده.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الرابعة والعشرون",
+      "text_verbatim": "يرأس المرخص له -أو من يمثله- الجمعية، ويحق لجميع المساهمين حضور اجتماعات الجمعية.",
+      "text_for_index": "يرأس المرخص له -أو من يمثله- الجمعية، ويحق لجميع المساهمين حضور اجتماعات الجمعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يرأس المرخص له -أو من يمثله- الجمعية، ويحق لجميع المساهمين حضور اجتماعات الجمعية.",
+          "text_for_index": "يرأس المرخص له -أو من يمثله- الجمعية، ويحق لجميع المساهمين حضور اجتماعات الجمعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الخامسة والعشرون",
+      "text_verbatim": "لا يكون اجتماع الجمعية (الأول) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (ثلثي) رأس مال المساهمة العقارية، وإذا لم يتوافر النصاب اللازم لعقد اجتماع الجمعية (الأول)، وجهت الدعوة إلى اجتماع (ثانٍ) يعقد خلال الأيام الـــ(خمسة عشر) التالية للاجتماع (الأول)، ولا يكون الاجتماع (الثاني) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (نصف) رأس مال المساهمة العقارية. وتصدر قرارات الجمعية في الاجتماعين (الأول) و(الثاني) بأغلبية الحصص الممثلة في الاجتماع، وفي حال تساوي الأصوات يعاد التصويت مرة أخرى. وإذا لم يتوافر النصاب اللازم في الاجتماع (الثاني)، وجهت الدعوة إلى اجتماع (ثالث) يعقد خلال الأيام الـــــ(سبعة) التالية للاجتماع (الثاني)، ويكون الاجتماع صحيحا أيًّا كانت نسبة الحصص الممثلة فيه بشرط ألا يقل عدد الحضور عن (ثلاثة) أشخاص، وتصدر قرارات الجمعية بأغلبية حصص الممثلين في الاجتماع.",
+      "text_for_index": "لا يكون اجتماع الجمعية (الأول) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (ثلثي) رأس مال المساهمة العقارية، وإذا لم يتوافر النصاب اللازم لعقد اجتماع الجمعية (الأول)، وجهت الدعوة إلى اجتماع (ثانٍ) يعقد خلال الأيام الـــ(خمسة عشر) التالية للاجتماع (الأول)، ولا يكون الاجتماع (الثاني) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (نصف) رأس مال المساهمة العقارية. وتصدر قرارات الجمعية في الاجتماعين (الأول) و(الثاني) بأغلبية الحصص الممثلة في الاجتماع، وفي حال تساوي الأصوات يعاد التصويت مرة أخرى. وإذا لم يتوافر النصاب اللازم في الاجتماع (الثاني)، وجهت الدعوة إلى اجتماع (ثالث) يعقد خلال الأيام الـــــ(سبعة) التالية للاجتماع (الثاني)، ويكون الاجتماع صحيحا أيًّا كانت نسبة الحصص الممثلة فيه بشرط ألا يقل عدد الحضور عن (ثلاثة) أشخاص، وتصدر قرارات الجمعية بأغلبية حصص الممثلين في الاجتماع.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا يكون اجتماع الجمعية (الأول) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (ثلثي) رأس مال المساهمة العقارية، وإذا لم يتوافر النصاب اللازم لعقد اجتماع الجمعية (الأول)، وجهت الدعوة إلى اجتماع (ثانٍ) يعقد خلال الأيام الـــ(خمسة عشر) التالية للاجتماع (الأول)، ولا يكون الاجتماع (الثاني) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (نصف) رأس مال المساهمة العقارية. وتصدر قرارات الجمعية في الاجتماعين (الأول) و(الثاني) بأغلبية الحصص الممثلة في الاجتماع، وفي حال تساوي الأصوات يعاد التصويت مرة أخرى.",
+          "text_for_index": "لا يكون اجتماع الجمعية (الأول) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (ثلثي) رأس مال المساهمة العقارية، وإذا لم يتوافر النصاب اللازم لعقد اجتماع الجمعية (الأول)، وجهت الدعوة إلى اجتماع (ثانٍ) يعقد خلال الأيام الـــ(خمسة عشر) التالية للاجتماع (الأول)، ولا يكون الاجتماع (الثاني) صحيحاً إلا إذا حضره مساهمون يمثلون ما لا يقل عن (نصف) رأس مال المساهمة العقارية. وتصدر قرارات الجمعية في الاجتماعين (الأول) و(الثاني) بأغلبية الحصص الممثلة في الاجتماع، وفي حال تساوي الأصوات يعاد التصويت مرة أخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-25::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "وإذا لم يتوافر النصاب اللازم في الاجتماع (الثاني)، وجهت الدعوة إلى اجتماع (ثالث) يعقد خلال الأيام الـــــ(سبعة) التالية للاجتماع (الثاني)، ويكون الاجتماع صحيحا أيًّا كانت نسبة الحصص الممثلة فيه بشرط ألا يقل عدد الحضور عن (ثلاثة) أشخاص، وتصدر قرارات الجمعية بأغلبية حصص الممثلين في الاجتماع.",
+          "text_for_index": "وإذا لم يتوافر النصاب اللازم في الاجتماع (الثاني)، وجهت الدعوة إلى اجتماع (ثالث) يعقد خلال الأيام الـــــ(سبعة) التالية للاجتماع (الثاني)، ويكون الاجتماع صحيحا أيًّا كانت نسبة الحصص الممثلة فيه بشرط ألا يقل عدد الحضور عن (ثلاثة) أشخاص، وتصدر قرارات الجمعية بأغلبية حصص الممثلين في الاجتماع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السادسة والعشرون",
+      "text_verbatim": "يجوز عقد اجتماعات الجمعية والتصويت على قراراتها؛ بواسطة وسائل التقنية الحديثة التي تحددها اللائحة.",
+      "text_for_index": "يجوز عقد اجتماعات الجمعية والتصويت على قراراتها؛ بواسطة وسائل التقنية الحديثة التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز عقد اجتماعات الجمعية والتصويت على قراراتها؛ بواسطة وسائل التقنية الحديثة التي تحددها اللائحة.",
+          "text_for_index": "يجوز عقد اجتماعات الجمعية والتصويت على قراراتها؛ بواسطة وسائل التقنية الحديثة التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السابعة والعشرون",
+      "text_verbatim": "لا يجوز بيع أصول المساهمة العقارية إلا بعد تقييم الأصول من مقيمين معتمدين وفقاً لنظام المقيمين المعتمدين، ووفقاً لما تحدده اللائحة من إجراءات. ويعد باطلاً أي تصرف ينطوي على إخلال بما نصت عليه هذه المادة.",
+      "text_for_index": "لا يجوز بيع أصول المساهمة العقارية إلا بعد تقييم الأصول من مقيمين معتمدين وفقاً لنظام المقيمين المعتمدين، ووفقاً لما تحدده اللائحة من إجراءات. ويعد باطلاً أي تصرف ينطوي على إخلال بما نصت عليه هذه المادة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا يجوز بيع أصول المساهمة العقارية إلا بعد تقييم الأصول من مقيمين معتمدين وفقاً لنظام المقيمين المعتمدين، ووفقاً لما تحدده اللائحة من إجراءات. ويعد باطلاً أي تصرف ينطوي على إخلال بما نصت عليه هذه المادة.",
+          "text_for_index": "لا يجوز بيع أصول المساهمة العقارية إلا بعد تقييم الأصول من مقيمين معتمدين وفقاً لنظام المقيمين المعتمدين، ووفقاً لما تحدده اللائحة من إجراءات. ويعد باطلاً أي تصرف ينطوي على إخلال بما نصت عليه هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثامنة والعشرون",
+      "text_verbatim": "يكون بيع أصول المساهمة العقارية بإحدى الطرق الآتية:\n\n\t• البيع بمزاد علني.\n\n\t• البيع المباشر لكامل أو لجزء من المساهمة العقارية.\n\n\t• أي طريقة أخرى تحددها اللائحة.",
+      "text_for_index": "يكون بيع أصول المساهمة العقارية بإحدى الطرق الآتية:\n\n • البيع بمزاد علني.\n\n • البيع المباشر لكامل أو لجزء من المساهمة العقارية.\n\n • أي طريقة أخرى تحددها اللائحة.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون بيع أصول المساهمة العقارية بإحدى الطرق الآتية:",
+          "text_for_index": "يكون بيع أصول المساهمة العقارية بإحدى الطرق الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-28::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• البيع بمزاد علني.",
+          "text_for_index": "• البيع بمزاد علني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-28::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• البيع المباشر لكامل أو لجزء من المساهمة العقارية.",
+          "text_for_index": "• البيع المباشر لكامل أو لجزء من المساهمة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-28::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أي طريقة أخرى تحددها اللائحة.",
+          "text_for_index": "• أي طريقة أخرى تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة التاسعة والعشرون",
+      "text_verbatim": "دون إخلال بما نصت عليه المادة (السابعة عشرة) من النظام، تحتفظ المساهمة العقارية بالشخصية الاعتبارية بالقدر اللازم لتصفيتها، وتنقضي بإحدى الحالات الآتية:\n\n\t• بيعها وفقاً لأحكام النظام واللائحة.\n\n\t• انقضاء المدة المحددة لها ما لم تمدد وفقاً لأحكام النظام واللائحة.\n\n\t• استحالة تحقق الغرض الذي أسست من أجله.\n\n\t• إلغاؤها وفقاً لأحكام النظام واللائحة.\n\n\t• صدور حكم قضائي نهائي بتصفيتها.",
+      "text_for_index": "دون إخلال بما نصت عليه المادة (السابعة عشرة) من النظام، تحتفظ المساهمة العقارية بالشخصية الاعتبارية بالقدر اللازم لتصفيتها، وتنقضي بإحدى الحالات الآتية:\n\n • بيعها وفقاً لأحكام النظام واللائحة.\n\n • انقضاء المدة المحددة لها ما لم تمدد وفقاً لأحكام النظام واللائحة.\n\n • استحالة تحقق الغرض الذي أسست من أجله.\n\n • إلغاؤها وفقاً لأحكام النظام واللائحة.\n\n • صدور حكم قضائي نهائي بتصفيتها.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بما نصت عليه المادة (السابعة عشرة) من النظام، تحتفظ المساهمة العقارية بالشخصية الاعتبارية بالقدر اللازم لتصفيتها، وتنقضي بإحدى الحالات الآتية:",
+          "text_for_index": "دون إخلال بما نصت عليه المادة (السابعة عشرة) من النظام، تحتفظ المساهمة العقارية بالشخصية الاعتبارية بالقدر اللازم لتصفيتها، وتنقضي بإحدى الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-29::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• بيعها وفقاً لأحكام النظام واللائحة.",
+          "text_for_index": "• بيعها وفقاً لأحكام النظام واللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-29::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• انقضاء المدة المحددة لها ما لم تمدد وفقاً لأحكام النظام واللائحة.",
+          "text_for_index": "• انقضاء المدة المحددة لها ما لم تمدد وفقاً لأحكام النظام واللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-29::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• استحالة تحقق الغرض الذي أسست من أجله.",
+          "text_for_index": "• استحالة تحقق الغرض الذي أسست من أجله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-29::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• إلغاؤها وفقاً لأحكام النظام واللائحة.",
+          "text_for_index": "• إلغاؤها وفقاً لأحكام النظام واللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-29::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• صدور حكم قضائي نهائي بتصفيتها.",
+          "text_for_index": "• صدور حكم قضائي نهائي بتصفيتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثلاثون",
+      "text_verbatim": "يجب أن تودع جميع العوائد المالية المتعلقة بالمساهمة العقارية مباشرة في حساب الضمان.",
+      "text_for_index": "يجب أن تودع جميع العوائد المالية المتعلقة بالمساهمة العقارية مباشرة في حساب الضمان.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن تودع جميع العوائد المالية المتعلقة بالمساهمة العقارية مباشرة في حساب الضمان.",
+          "text_for_index": "يجب أن تودع جميع العوائد المالية المتعلقة بالمساهمة العقارية مباشرة في حساب الضمان.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الحادية والثلاثون",
+      "text_verbatim": "يتولى ضبط ما يقع من مخالفات لأحكام النظام أو اللائحة موظفون من الهيئة ومن أي جهة أخرى ترى الهيئة الاستعانة بموظفيها، يصدر بتعيينهم قرار من الرئيس بعد موافقة جهاتهم. ولمسؤولي الضبط دخول المواقع والمشاريع المتعلقة بالأنشطة المشمولة بالنظام بما فيها مقر المرخص له، وعليهم ضبط المخالفات والتحفظ على المستندات والوثائق والأدلة المتعلقة بها وفقاً لإجراءات الضبط الصادرة عن الهيئة ويكونون تحت إشراف الهيئة، ولهم الاستعانة بالجهات الأمنية عند الحاجة. وتحدد اللائحة طريقة عملهم، وصلاحياتهم، ومكافآتهم.",
+      "text_for_index": "يتولى ضبط ما يقع من مخالفات لأحكام النظام أو اللائحة موظفون من الهيئة ومن أي جهة أخرى ترى الهيئة الاستعانة بموظفيها، يصدر بتعيينهم قرار من الرئيس بعد موافقة جهاتهم. ولمسؤولي الضبط دخول المواقع والمشاريع المتعلقة بالأنشطة المشمولة بالنظام بما فيها مقر المرخص له، وعليهم ضبط المخالفات والتحفظ على المستندات والوثائق والأدلة المتعلقة بها وفقاً لإجراءات الضبط الصادرة عن الهيئة ويكونون تحت إشراف الهيئة، ولهم الاستعانة بالجهات الأمنية عند الحاجة. وتحدد اللائحة طريقة عملهم، وصلاحياتهم، ومكافآتهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "يتولى ضبط ما يقع من مخالفات لأحكام النظام أو اللائحة موظفون من الهيئة ومن أي جهة أخرى ترى الهيئة الاستعانة بموظفيها، يصدر بتعيينهم قرار من الرئيس بعد موافقة جهاتهم. ولمسؤولي الضبط دخول المواقع والمشاريع المتعلقة بالأنشطة المشمولة بالنظام بما فيها مقر المرخص له، وعليهم ضبط المخالفات والتحفظ على المستندات والوثائق والأدلة المتعلقة بها وفقاً لإجراءات الضبط الصادرة عن الهيئة ويكونون تحت إشراف الهيئة، ولهم الاستعانة بالجهات الأمنية عند الحاجة. وتحدد اللائحة طريقة عملهم، وصلاحياتهم، ومكافآتهم.",
+          "text_for_index": "يتولى ضبط ما يقع من مخالفات لأحكام النظام أو اللائحة موظفون من الهيئة ومن أي جهة أخرى ترى الهيئة الاستعانة بموظفيها، يصدر بتعيينهم قرار من الرئيس بعد موافقة جهاتهم. ولمسؤولي الضبط دخول المواقع والمشاريع المتعلقة بالأنشطة المشمولة بالنظام بما فيها مقر المرخص له، وعليهم ضبط المخالفات والتحفظ على المستندات والوثائق والأدلة المتعلقة بها وفقاً لإجراءات الضبط الصادرة عن الهيئة ويكونون تحت إشراف الهيئة، ولهم الاستعانة بالجهات الأمنية عند الحاجة. وتحدد اللائحة طريقة عملهم، وصلاحياتهم، ومكافآتهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثانية والثلاثون",
+      "text_verbatim": "دون إخلال بما نصت عليه المادة (الخامسة والثلاثون) من النظام، يعاقب كل من يخالف أيًّا من أحكام النظام أو اللائحة بواحدة أو أكثر من العقوبات الآتية:\n\n\t• الإنذار.\n\n\t• إيقاف الترخيص مدة لا تزيد على (سنة).\n\n\t• إلغاء الترخيص.\n\n\t• غرامة لا تزيد على (10,000,000) عشرة ملايين ريال.\n\n\t• منع المرخص له أو مدير المساهمة العقارية من القيام -مستقبلاً- بأي عمل مرتبط بالمساهمات العقارية لمدة لا تتجاوز (10) عشر سنوات.\n\n\tويصدر المجلس جدولاً يتضمن تصنيفاً للمخالفات والعقوبات المقررة لها بناءً على ما نصت عليه هذه المادة.",
+      "text_for_index": "دون إخلال بما نصت عليه المادة (الخامسة والثلاثون) من النظام، يعاقب كل من يخالف أيًّا من أحكام النظام أو اللائحة بواحدة أو أكثر من العقوبات الآتية:\n\n • الإنذار.\n\n • إيقاف الترخيص مدة لا تزيد على (سنة).\n\n • إلغاء الترخيص.\n\n • غرامة لا تزيد على (10,000,000) عشرة ملايين ريال.\n\n • منع المرخص له أو مدير المساهمة العقارية من القيام -مستقبلاً- بأي عمل مرتبط بالمساهمات العقارية لمدة لا تتجاوز (10) عشر سنوات.\n\n ويصدر المجلس جدولاً يتضمن تصنيفاً للمخالفات والعقوبات المقررة لها بناءً على ما نصت عليه هذه المادة.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بما نصت عليه المادة (الخامسة والثلاثون) من النظام، يعاقب كل من يخالف أيًّا من أحكام النظام أو اللائحة بواحدة أو أكثر من العقوبات الآتية:",
+          "text_for_index": "دون إخلال بما نصت عليه المادة (الخامسة والثلاثون) من النظام، يعاقب كل من يخالف أيًّا من أحكام النظام أو اللائحة بواحدة أو أكثر من العقوبات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• الإنذار.",
+          "text_for_index": "• الإنذار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• إيقاف الترخيص مدة لا تزيد على (سنة).",
+          "text_for_index": "• إيقاف الترخيص مدة لا تزيد على (سنة).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• إلغاء الترخيص.",
+          "text_for_index": "• إلغاء الترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• غرامة لا تزيد على (10,000,000) عشرة ملايين ريال.",
+          "text_for_index": "• غرامة لا تزيد على (10,000,000) عشرة ملايين ريال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• منع المرخص له أو مدير المساهمة العقارية من القيام -مستقبلاً- بأي عمل مرتبط بالمساهمات العقارية لمدة لا تتجاوز (10) عشر سنوات.",
+          "text_for_index": "• منع المرخص له أو مدير المساهمة العقارية من القيام -مستقبلاً- بأي عمل مرتبط بالمساهمات العقارية لمدة لا تتجاوز (10) عشر سنوات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-32::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ويصدر المجلس جدولاً يتضمن تصنيفاً للمخالفات والعقوبات المقررة لها بناءً على ما نصت عليه هذه المادة.",
+          "text_for_index": "ويصدر المجلس جدولاً يتضمن تصنيفاً للمخالفات والعقوبات المقررة لها بناءً على ما نصت عليه هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثالثة والثلاثون",
+      "text_verbatim": "تُكوّن بقرار من رئيس الهيئة لجنة أو أكثر لا يقل عدد أعضائها عن ثلاثة ويسمى أحدهم رئيساً، ويكون من بينهم مستشار شرعي أو نظامي؛ تتولى النظر في المخالفات وإيقاع العقوبات المنصوص عليها في المادة (الثانية والثلاثين) من النظام، وذلك بحسب نوع المخالفة المرتكبة وجسامتها ومدى تأثيرها، ويعتمد قرار اللجنة من رئيس الهيئة أو من يفوضه بذلك. ويصدر الرئيس قواعد عمل اللجنة وتحديد مكافآت أعضائها.",
+      "text_for_index": "تُكوّن بقرار من رئيس الهيئة لجنة أو أكثر لا يقل عدد أعضائها عن ثلاثة ويسمى أحدهم رئيساً، ويكون من بينهم مستشار شرعي أو نظامي؛ تتولى النظر في المخالفات وإيقاع العقوبات المنصوص عليها في المادة (الثانية والثلاثين) من النظام، وذلك بحسب نوع المخالفة المرتكبة وجسامتها ومدى تأثيرها، ويعتمد قرار اللجنة من رئيس الهيئة أو من يفوضه بذلك. ويصدر الرئيس قواعد عمل اللجنة وتحديد مكافآت أعضائها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "جزاء"
+          ],
+          "text_verbatim": "تُكوّن بقرار من رئيس الهيئة لجنة أو أكثر لا يقل عدد أعضائها عن ثلاثة ويسمى أحدهم رئيساً، ويكون من بينهم مستشار شرعي أو نظامي؛ تتولى النظر في المخالفات وإيقاع العقوبات المنصوص عليها في المادة (الثانية والثلاثين) من النظام، وذلك بحسب نوع المخالفة المرتكبة وجسامتها ومدى تأثيرها، ويعتمد قرار اللجنة من رئيس الهيئة أو من يفوضه بذلك. ويصدر الرئيس قواعد عمل اللجنة وتحديد مكافآت أعضائها.",
+          "text_for_index": "تُكوّن بقرار من رئيس الهيئة لجنة أو أكثر لا يقل عدد أعضائها عن ثلاثة ويسمى أحدهم رئيساً، ويكون من بينهم مستشار شرعي أو نظامي؛ تتولى النظر في المخالفات وإيقاع العقوبات المنصوص عليها في المادة (الثانية والثلاثين) من النظام، وذلك بحسب نوع المخالفة المرتكبة وجسامتها ومدى تأثيرها، ويعتمد قرار اللجنة من رئيس الهيئة أو من يفوضه بذلك. ويصدر الرئيس قواعد عمل اللجنة وتحديد مكافآت أعضائها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الرابعة والثلاثون",
+      "text_verbatim": "يجوز التظلم من قرار اللجنة المنصوص عليها في المادة (الثالثة والثلاثين) من النظام أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ الإبلاغ بالقرار.",
+      "text_for_index": "يجوز التظلم من قرار اللجنة المنصوص عليها في المادة (الثالثة والثلاثين) من النظام أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ الإبلاغ بالقرار.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز التظلم من قرار اللجنة المنصوص عليها في المادة (الثالثة والثلاثين) من النظام أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ الإبلاغ بالقرار.",
+          "text_for_index": "يجوز التظلم من قرار اللجنة المنصوص عليها في المادة (الثالثة والثلاثين) من النظام أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ الإبلاغ بالقرار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الخامسة والثلاثون",
+      "text_verbatim": "دون إخلال بأي عقوبة منصوص عليها في أي نظام آخر، يعاقب بالسجن مدة لا تزيد على (ثلاث) سنوات، كل من يخالف أيًّا من أحكام المواد الآتية: (الرابعة)، و(الحادية والعشرون)، و(السابعة والعشرون)، و(الثلاثون)، من النظام، وتحال إلى النيابة العامة؛ للتحقيق فيها، والادعاء فيها أمام المحكمة المختصة.",
+      "text_for_index": "دون إخلال بأي عقوبة منصوص عليها في أي نظام آخر، يعاقب بالسجن مدة لا تزيد على (ثلاث) سنوات، كل من يخالف أيًّا من أحكام المواد الآتية: (الرابعة)، و(الحادية والعشرون)، و(السابعة والعشرون)، و(الثلاثون)، من النظام، وتحال إلى النيابة العامة؛ للتحقيق فيها، والادعاء فيها أمام المحكمة المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بأي عقوبة منصوص عليها في أي نظام آخر، يعاقب بالسجن مدة لا تزيد على (ثلاث) سنوات، كل من يخالف أيًّا من أحكام المواد الآتية: (الرابعة)، و(الحادية والعشرون)، و(السابعة والعشرون)، و(الثلاثون)، من النظام، وتحال إلى النيابة العامة؛ للتحقيق فيها، والادعاء فيها أمام المحكمة المختصة.",
+          "text_for_index": "دون إخلال بأي عقوبة منصوص عليها في أي نظام آخر، يعاقب بالسجن مدة لا تزيد على (ثلاث) سنوات، كل من يخالف أيًّا من أحكام المواد الآتية: (الرابعة)، و(الحادية والعشرون)، و(السابعة والعشرون)، و(الثلاثون)، من النظام، وتحال إلى النيابة العامة؛ للتحقيق فيها، والادعاء فيها أمام المحكمة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السادسة والثلاثون",
+      "text_verbatim": "دون إخلال باختصاصات الهيئة، تنظم هيئة السوق المالية بالاتفاق مع الهيئة ما يتعلق بجمع الأموال لغرض طرح المساهمة العقارية.",
+      "text_for_index": "دون إخلال باختصاصات الهيئة، تنظم هيئة السوق المالية بالاتفاق مع الهيئة ما يتعلق بجمع الأموال لغرض طرح المساهمة العقارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال باختصاصات الهيئة، تنظم هيئة السوق المالية بالاتفاق مع الهيئة ما يتعلق بجمع الأموال لغرض طرح المساهمة العقارية.",
+          "text_for_index": "دون إخلال باختصاصات الهيئة، تنظم هيئة السوق المالية بالاتفاق مع الهيئة ما يتعلق بجمع الأموال لغرض طرح المساهمة العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة السابعة والثلاثون",
+      "text_verbatim": "يصدر المجلس اللائحة بالاتفاق مع هيئة السوق المالية، وذلك خلال (مائة وعشرين) يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ العمل به.",
+      "text_for_index": "يصدر المجلس اللائحة بالاتفاق مع هيئة السوق المالية، وذلك خلال (مائة وعشرين) يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ العمل به.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر المجلس اللائحة بالاتفاق مع هيئة السوق المالية، وذلك خلال (مائة وعشرين) يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ العمل به.",
+          "text_for_index": "يصدر المجلس اللائحة بالاتفاق مع هيئة السوق المالية، وذلك خلال (مائة وعشرين) يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ العمل به.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المساهمات العقارية، المادة الثامنة والثلاثون",
+      "text_verbatim": "ينشر النظام في الجريدة الرسمية، ويعمل به بعد (مائة وعشرين) يوماً من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "ينشر النظام في الجريدة الرسمية، ويعمل به بعد (مائة وعشرين) يوماً من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almsahmat-alaqaryh::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ينشر النظام في الجريدة الرسمية، ويعمل به بعد (مائة وعشرين) يوماً من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "ينشر النظام في الجريدة الرسمية، ويعمل به بعد (مائة وعشرين) يوماً من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

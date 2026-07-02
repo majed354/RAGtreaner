@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-04-24T11:10:38.467117+00:00",
+  "folder_url": "https://laws.boe.gov.sa/BoeLaws/Laws/Folders/1",
+  "total_candidates": 306,
+  "written_entries": 280,
+  "inactive_skipped": 21,
+  "unresolved_skipped": 5,
+  "failed_count": 0,
+  "backup_catalog": "catalog/saudi_regulations_catalog.backup.json",
+  "inactive_examples": [
+    {
+      "title_ar": "نظام إدارة النفايات البلدية الصلبة",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/de0a2f61-27e3-47fa-a710-a9a700f21a67/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام البريد 1406هـ",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/87aa6473-8e77-4dc5-b45d-a9a700f2e50f/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام التسجيل العيني للعقار 1423هـ",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/eb5cc9e3-b938-42db-b375-a9a700f2156b/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام الثروة الحيوانية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/965f24c7-0ddb-4d8f-a658-a9a700f24b24/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام الرهن التجاري",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7b6436fd-e7c0-4a51-afcc-a9a700f1ae15/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام الزراعة العضوية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e37044a1-c673-4e80-af59-a9a700f25663/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام المؤسسة العامة لتحلية المياه المالحة",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/37f95015-f360-45be-8f91-a9a700f244c1/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام المحافظة على مصادر المياه",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/588efd09-dc0d-4491-82e4-a9a700f245f6/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام المحاسبين القانونيين",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/56195fdf-46c2-44f0-88e5-a9a700f1be50/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام المنافسة",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6b615a05-f637-41cf-8419-a9a700f1afd7/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام المنافسات والمشتريات الحكومية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c2c05ee1-201a-48de-91e7-a9a700f2d14f/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام الموانئ والمرافئ والمنائر البحرية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b680a5b2-1ed3-4014-9f49-a9a700f2e298/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام تربية النحل",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a5fa054e-a124-4cce-96a2-a9a700f254a0/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام رعاية المعوقين",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/872950d8-7059-41fd-a6f1-a9a700f2a962/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام صندوق الاستثمارات العامة",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2541255e-9e5b-4393-a8b0-a9a700f1a596/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام صندوق التنمية العقارية1394هـ",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/76ad693d-d427-4de8-8980-a9a700f210be/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام صيد واستثمار وحماية الثروات المائية الحية في المياه الاقليمية للمملكة العربية السعودية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e74c8b2e-f6e6-4eaf-ad6d-a9a700f24e39/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام مجلس التعليم العالي والجامعات",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a6843359-3237-4553-8271-a9a700f1fcda/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام مدينة الملك عبد العزيز للعلوم والتقنية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4033de9e-45f5-406f-9b3c-a9a700f1fbf0/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام ملكية الوحدات العقارية وفرزها",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c104908b-d32d-411a-b71e-a9a700f214b0/1",
+      "status": "لاغي"
+    },
+    {
+      "title_ar": "نظام مياه الصرف الصحي المعالجة وإعادة استخدامها",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c440e774-b1d8-42f5-9169-a9a700f24951/1",
+      "status": "لاغي"
+    }
+  ],
+  "unresolved_examples": [
+    {
+      "title_ar": "نظام الإقامة",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6383680e-0543-4ac7-8e62-b320009dbfa0/1"
+    },
+    {
+      "title_ar": "نظام الرقابة المالية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a73b2b40-64c8-449e-aa8f-b3ca009257ce/1"
+    },
+    {
+      "title_ar": "نظام الرياضة",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/50a73b74-b979-4baa-90b1-b3d000c23f5e/1"
+    },
+    {
+      "title_ar": "نظام الغرف التجارية والصناعية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/737705df-17ad-42b0-9094-a9a700f1bb61/1"
+    },
+    {
+      "title_ar": "نظام حماية المؤشرات الجغرافية",
+      "detail_url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b6c66cda-7f2c-408d-94b7-b3d300dbffe8/1"
+    }
+  ],
+  "failure_examples": []
+}

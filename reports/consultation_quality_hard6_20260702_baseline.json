@@ -1,0 +1,2091 @@
+{
+  "summary": {
+    "evaluated_at": "2026-07-02T16:47:22.208215+00:00",
+    "benchmark_id": "consultation_quality_hard6_20260702_baseline",
+    "answer_mode": "consultation",
+    "retrieval_profile": "jamia_recall",
+    "cases_total": 6,
+    "non_operational_cases": 6,
+    "transport_error_cases": 0,
+    "consultation_quality_score_100": 75.267,
+    "pass_rate": 0.0,
+    "passed_cases": 0,
+    "failed_cases": 6,
+    "classification_counts": {
+      "answer-level issue": 5,
+      "retrieval/package issue": 1
+    },
+    "axis_averages": {
+      "answer_material_score": 0.799,
+      "caveat_risk_score": 1.0,
+      "companion_regulation_presence_score": 0.833,
+      "confidence_score": 1.0,
+      "governing_system_presence_score": 0.917,
+      "issue_answer_score": 0.671,
+      "issue_context_score": 0.882,
+      "material_context_score": 0.87,
+      "practical_application_score": 0.38,
+      "precise_articles_answer_score": 0.847,
+      "precise_articles_context_score": 0.847,
+      "structure_score": 1.0
+    },
+    "by_category": {
+      "hard_bundle_ecommerce": {
+        "cases": 1,
+        "score": 82.2,
+        "pass_rate": 0.0,
+        "classification_counts": {
+          "answer-level issue": 1
+        }
+      },
+      "hard_bundle_labor": {
+        "cases": 1,
+        "score": 73.9,
+        "pass_rate": 0.0,
+        "classification_counts": {
+          "answer-level issue": 1
+        }
+      },
+      "hard_bundle_pdpl": {
+        "cases": 1,
+        "score": 77.2,
+        "pass_rate": 0.0,
+        "classification_counts": {
+          "answer-level issue": 1
+        }
+      },
+      "hard_companies_conflict": {
+        "cases": 1,
+        "score": 78.8,
+        "pass_rate": 0.0,
+        "classification_counts": {
+          "answer-level issue": 1
+        }
+      },
+      "hard_cross_domain_civil_evidence": {
+        "cases": 1,
+        "score": 82.9,
+        "pass_rate": 0.0,
+        "classification_counts": {
+          "answer-level issue": 1
+        }
+      },
+      "hard_special_law_workplace": {
+        "cases": 1,
+        "score": 56.6,
+        "pass_rate": 0.0,
+        "classification_counts": {
+          "retrieval/package issue": 1
+        }
+      }
+    },
+    "worst_cases": [
+      {
+        "question_id": "hard_005",
+        "score": 56.6,
+        "classification": "retrieval/package issue",
+        "top_gaps": [
+          "companion_regulation_presence_score",
+          "practical_application_score",
+          "answer_material_score",
+          "material_context_score",
+          "issue_answer_score"
+        ],
+        "missing_context_regulations": [
+          "nzam-mkafhh-jrymh-althrsh",
+          "workplace-behavioral-misconduct-controls"
+        ],
+        "missing_context_articles": [
+          6
+        ],
+        "missing_answer_articles": [
+          6
+        ],
+        "axis_scores": {
+          "governing_system_presence_score": 0.5,
+          "companion_regulation_presence_score": 0.0,
+          "precise_articles_context_score": 0.75,
+          "precise_articles_answer_score": 0.75,
+          "material_context_score": 0.454,
+          "answer_material_score": 0.437,
+          "issue_context_score": 0.667,
+          "issue_answer_score": 0.492,
+          "practical_application_score": 0.31,
+          "structure_score": 1.0,
+          "caveat_risk_score": 1.0,
+          "confidence_score": 1.0
+        }
+      },
+      {
+        "question_id": "hard_001",
+        "score": 73.9,
+        "classification": "answer-level issue",
+        "top_gaps": [
+          "practical_application_score",
+          "issue_answer_score",
+          "precise_articles_context_score",
+          "precise_articles_answer_score"
+        ],
+        "missing_context_regulations": [],
+        "missing_context_articles": [
+          71,
+          74
+        ],
+        "missing_answer_articles": [
+          71,
+          74
+        ],
+        "axis_scores": {
+          "governing_system_presence_score": 1.0,
+          "companion_regulation_presence_score": 1.0,
+          "precise_articles_context_score": 0.667,
+          "precise_articles_answer_score": 0.667,
+          "material_context_score": 0.883,
+          "answer_material_score": 0.8,
+          "issue_context_score": 0.833,
+          "issue_answer_score": 0.6,
+          "practical_application_score": 0.368,
+          "structure_score": 1.0,
+          "caveat_risk_score": 1.0,
+          "confidence_score": 1.0
+        }
+      },
+      {
+        "question_id": "hard_003",
+        "score": 77.2,
+        "classification": "answer-level issue",
+        "top_gaps": [
+          "practical_application_score",
+          "precise_articles_context_score",
+          "precise_articles_answer_score",
+          "answer_material_score",
+          "issue_answer_score"
+        ],
+        "missing_context_regulations": [],
+        "missing_context_articles": [
+          21
+        ],
+        "missing_answer_articles": [
+          21
+        ],
+        "axis_scores": {
+          "governing_system_presence_score": 1.0,
+          "companion_regulation_presence_score": 1.0,
+          "precise_articles_context_score": 0.667,
+          "precise_articles_answer_score": 0.667,
+          "material_context_score": 0.883,
+          "answer_material_score": 0.683,
+          "issue_context_score": 0.875,
+          "issue_answer_score": 0.744,
+          "practical_application_score": 0.49,
+          "structure_score": 1.0,
+          "caveat_risk_score": 1.0,
+          "confidence_score": 1.0
+        }
+      },
+      {
+        "question_id": "hard_006",
+        "score": 78.8,
+        "classification": "answer-level issue",
+        "top_gaps": [
+          "practical_application_score",
+          "issue_answer_score"
+        ],
+        "missing_context_regulations": [],
+        "missing_context_articles": [],
+        "missing_answer_articles": [],
+        "axis_scores": {
+          "governing_system_presence_score": 1.0,
+          "companion_regulation_presence_score": 1.0,
+          "precise_articles_context_score": 1.0,
+          "precise_articles_answer_score": 1.0,
+          "material_context_score": 1.0,
+          "answer_material_score": 0.875,
+          "issue_context_score": 1.0,
+          "issue_answer_score": 0.738,
+          "practical_application_score": 0.31,
+          "structure_score": 1.0,
+          "caveat_risk_score": 1.0,
+          "confidence_score": 1.0
+        }
+      },
+      {
+        "question_id": "hard_002",
+        "score": 82.2,
+        "classification": "answer-level issue",
+        "top_gaps": [
+          "practical_application_score",
+          "issue_answer_score"
+        ],
+        "missing_context_regulations": [],
+        "missing_context_articles": [],
+        "missing_answer_articles": [],
+        "axis_scores": {
+          "governing_system_presence_score": 1.0,
+          "companion_regulation_presence_score": 1.0,
+          "precise_articles_context_score": 1.0,
+          "precise_articles_answer_score": 1.0,
+          "material_context_score": 1.0,
+          "answer_material_score": 1.0,
+          "issue_context_score": 1.0,
+          "issue_answer_score": 0.738,
+          "practical_application_score": 0.37,
+          "structure_score": 1.0,
+          "caveat_risk_score": 1.0,
+          "confidence_score": 1.0
+        }
+      },
+      {
+        "question_id": "hard_004",
+        "score": 82.9,
+        "classification": "answer-level issue",
+        "top_gaps": [
+          "practical_application_score",
+          "issue_answer_score"
+        ],
+        "missing_context_regulations": [],
+        "missing_context_articles": [],
+        "missing_answer_articles": [],
+        "axis_scores": {
+          "governing_system_presence_score": 1.0,
+          "companion_regulation_presence_score": 1.0,
+          "precise_articles_context_score": 1.0,
+          "precise_articles_answer_score": 1.0,
+          "material_context_score": 1.0,
+          "answer_material_score": 1.0,
+          "issue_context_score": 0.917,
+          "issue_answer_score": 0.713,
+          "practical_application_score": 0.43,
+          "structure_score": 1.0,
+          "caveat_risk_score": 1.0,
+          "confidence_score": 1.0
+        }
+      }
+    ]
+  },
+  "rows": [
+    {
+      "question_id": "hard_001",
+      "benchmark_category": "hard_bundle_labor",
+      "question_type": "multi_issue",
+      "question": "موظف في شركة خاصة، عقده غير محدد المدة وأجره شهري. تغيب 12 يومًا متصلة بلا عذر، فأرسل له صاحب العمل رسالة واتساب بالفصل فورًا دون إنذار مكتوب ودون تحقيق أو سماع دفاعه. ما الأنظمة والمواد الأقرب؟",
+      "expected_regulations": [
+        "labor-law"
+      ],
+      "expected_articles": [
+        71,
+        74,
+        75,
+        76,
+        77,
+        80
+      ],
+      "matched_context_regulations": [
+        "labor-law"
+      ],
+      "matched_answer_regulations": [
+        "labor-law"
+      ],
+      "matched_context_articles": [
+        75,
+        76,
+        77,
+        80
+      ],
+      "matched_answer_articles": [
+        75,
+        76,
+        77,
+        80
+      ],
+      "answer_bound_article_pairs": [
+        "labor-law:75",
+        "labor-law:76",
+        "labor-law:77",
+        "labor-law:80"
+      ],
+      "missing_context_regulations": [],
+      "missing_context_articles": [
+        71,
+        74
+      ],
+      "missing_answer_regulations": [],
+      "missing_answer_articles": [
+        71,
+        74
+      ],
+      "sub_issue_details": [
+        {
+          "issue": "مشروعية الفصل بسبب الغياب",
+          "issue_keywords": [
+            "مشروعيه",
+            "الفصل",
+            "بسبب",
+            "الغياب"
+          ],
+          "expected_regulations": [
+            "labor-law"
+          ],
+          "expected_articles": [
+            80
+          ],
+          "context_matched_regulations": [
+            "labor-law"
+          ],
+          "answer_matched_regulations": [
+            "labor-law"
+          ],
+          "context_matched_articles": [
+            80
+          ],
+          "answer_matched_articles": [
+            80
+          ],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "إجراءات التحقيق وسماع الدفاع",
+          "issue_keywords": [
+            "اجراءات",
+            "التحقيق",
+            "وسماع"
+          ],
+          "expected_regulations": [
+            "labor-law"
+          ],
+          "expected_articles": [
+            71
+          ],
+          "context_matched_regulations": [
+            "labor-law"
+          ],
+          "answer_matched_regulations": [
+            "labor-law"
+          ],
+          "context_matched_articles": [],
+          "answer_matched_articles": [],
+          "keyword_score": 0.0,
+          "context_score": 0.5,
+          "answer_issue_score": 0.325,
+          "covered_in_context": false,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "آثار الإشعار والتعويض في العقد غير المحدد المدة",
+          "issue_keywords": [
+            "اثار",
+            "الاشعار",
+            "والتعويض",
+            "العقد",
+            "المحدد",
+            "المده"
+          ],
+          "expected_regulations": [
+            "labor-law"
+          ],
+          "expected_articles": [
+            75,
+            76,
+            77
+          ],
+          "context_matched_regulations": [
+            "labor-law"
+          ],
+          "answer_matched_regulations": [
+            "labor-law"
+          ],
+          "context_matched_articles": [
+            75,
+            76,
+            77
+          ],
+          "answer_matched_articles": [
+            75,
+            76,
+            77
+          ],
+          "keyword_score": 0.5,
+          "context_score": 1.0,
+          "answer_issue_score": 0.825,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        }
+      ],
+      "classification": "answer-level issue",
+      "passed": false,
+      "transport_error": false,
+      "confidence": "high",
+      "consultation_quality_score_100": 73.9,
+      "axis_scores": {
+        "governing_system_presence_score": 1.0,
+        "companion_regulation_presence_score": 1.0,
+        "precise_articles_context_score": 0.667,
+        "precise_articles_answer_score": 0.667,
+        "material_context_score": 0.883,
+        "answer_material_score": 0.8,
+        "issue_context_score": 0.833,
+        "issue_answer_score": 0.6,
+        "practical_application_score": 0.368,
+        "structure_score": 1.0,
+        "caveat_risk_score": 1.0,
+        "confidence_score": 1.0
+      },
+      "top_gaps": [
+        "practical_application_score",
+        "issue_answer_score",
+        "precise_articles_context_score",
+        "precise_articles_answer_score"
+      ],
+      "answer_preview": "1. النظام المنطبق\nنظام الإثبات؛ نظام التعاملات الإلكترونية؛ نظام العمل؛ اللائحة التنفيذية لنظام العمل؛ جدول المخالفات والعقوبات لنظام العمل؛ قواعد/برنامج حماية الأجور؛ قواعد توثيق عقود العمل؛ نظام المعاملات المدنية؛ نظام المرافعات الشرعية؛ نظام الأحوال الشخصية؛ النظام التجاري ( نظام المحكمة التجارية)؛ نظام المؤسسات الصحية الخاصة؛ نظام التنفيذ أمام ديوان المظالم\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام العمل: المادة 39، المادة 50، المادة 51، المادة 52، المادة 53، المادة 58، المادة 75، المادة 76، المادة 77، المادة 80، المادة 92، المادة 94\n- نظام الأحوال الشخصية: المادة 137، المادة 140، المادة 142\n- نظام التعاملات الإلكترونية: المادة 5، المادة 7، المادة 8، المادة 9، المادة 12، المادة 14\n- نظام الإثبات: المادة 55، المادة 56، المادة 57\n- نظام المعاملات المدنية: المادة 94، المادة 95، المادة 120، المادة 136\n- النظام التجاري ( نظام المحكمة التجارية): المادة 32، المادة 88، المادة 163، المادة 251، المادة 257، المادة 342، المادة 371، المادة 377، المادة 386، المادة 396\n- نظام المؤسسات الصحية الخاصة: المادة 15، المادة 18، المادة 19، المادة 26، المادة 35\n- نظام التنفيذ أمام ديوان المظالم: المادة 7، المادة 8، المادة 13، المادة 36، المادة 37\n- جدول المخالفات والعقوبات لنظام العمل ولائحته التنفيذية: المادة 2\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 3\n- اللائحة التنفيذية لنظام العمل وملحقاتها: المادة 1\n- نظام المرافعات الشرعية: المادة 34\n- قواعد وبرنامج حماية الأجور: المادة 4\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "source_count": 30,
+      "diagnostics": {
+        "quality_status": "high",
+        "retrieval_profile": "jamia_recall",
+        "retrieval_profile_config": {
+          "dense_norm_weight": 0.7,
+          "lexical_norm_weight": 0.3,
+          "dense_k": 180,
+          "lexical_k": 180,
+          "context_limit": 72,
+          "slug_article_seed_count": 8,
+          "learned_slug_article_seed_limit": 12,
+          "coverage_packer_seed_limit": 36,
+          "coverage_packer_per_slug": 4,
+          "heldout_axis_packer_seed_limit": 18,
+          "heldout_axis_packer_per_slug": 4,
+          "required_article_seed_limit": 32,
+          "required_article_seed_per_slug": 8
+        },
+        "issue_flags": [],
+        "dominant_domain": "law-of-evidence",
+        "top_regulations": [
+          "law-of-evidence",
+          "electronic-transactions-law",
+          "labor-law",
+          "labor-implementing-regulation",
+          "labor-violations-penalties-table",
+          "wage-protection-rules",
+          "labor-contract-documentation-rules",
+          "civil-transactions-law",
+          "law-of-sharia-procedure",
+          "alnzam-altjary-nzam-almhkmh-altjaryh",
+          "nzam-almwssat-alshyh-alkhash",
+          "nzam-altnfydh-amam-dywan-almzalm"
+        ],
+        "top_articles": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          12,
+          13,
+          14,
+          15,
+          18,
+          19,
+          26,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          64,
+          67,
+          69,
+          75,
+          76,
+          77,
+          80,
+          83,
+          84,
+          88,
+          90,
+          92,
+          94,
+          95,
+          117,
+          120,
+          136,
+          137,
+          140,
+          142,
+          149,
+          155,
+          163,
+          251,
+          257,
+          342,
+          371,
+          377,
+          386,
+          396
+        ],
+        "required_core_regulations": [
+          "law-of-evidence",
+          "electronic-transactions-law",
+          "labor-law"
+        ],
+        "covered_core_regulations": [
+          "law-of-evidence",
+          "electronic-transactions-law",
+          "labor-law"
+        ],
+        "missing_core_regulations": [],
+        "core_doc_recall": 1.0,
+        "required_companion_regulations": [
+          "labor-implementing-regulation",
+          "labor-violations-penalties-table",
+          "wage-protection-rules",
+          "labor-contract-documentation-rules",
+          "law-of-evidence",
+          "civil-transactions-law",
+          "law-of-sharia-procedure"
+        ],
+        "covered_companion_regulations": [
+          "labor-implementing-regulation",
+          "labor-violations-penalties-table",
+          "wage-protection-rules",
+          "labor-contract-documentation-rules",
+          "law-of-evidence",
+          "civil-transactions-law",
+          "law-of-sharia-procedure"
+        ],
+        "missing_companion_regulations": [],
+        "companion_doc_recall": 1.0,
+        "direct_article_recall": 1.0,
+        "expected_article_entered_context_rate": 1.0,
+        "expected_article_mean_context_position": 29.2,
+        "bundle_completeness": 1.0,
+        "fatal_core_doc_miss": false,
+        "pollution_rate": 0.0,
+        "document_class_counts": {
+          "labor-law": 31,
+          "alnzam-altjary-nzam-almhkmh-altjaryh": 10,
+          "nzam-almwssat-alshyh-alkhash": 5,
+          "nzam-altnfydh-amam-dywan-almzalm": 5,
+          "personal-status-law": 3,
+          "electronic-transactions-law": 6,
+          "law-of-evidence": 3,
+          "civil-transactions-law": 4,
+          "labor-violations-penalties-table": 1,
+          "labor-implementing-regulation": 1,
+          "labor-contract-documentation-rules": 1,
+          "law-of-sharia-procedure": 1,
+          "wage-protection-rules": 1
+        }
+      }
+    },
+    {
+      "question_id": "hard_002",
+      "benchmark_category": "hard_bundle_ecommerce",
+      "question_type": "multi_issue",
+      "question": "مستهلك اشترى هاتفًا من متجر إلكتروني سعودي. الإعلان ذكر مواصفات معينة، لكن المنتج المسلَّم جاء بلون وسعة مختلفين. كذلك الفاتورة لم تُظهر أجور الشحن ولا موعد التسليم بوضوح، ثم رفض المتجر الاسترجاع بحجة أنه لا يوجد استرجاع بعد فتح التغليف. ما الأنظمة والمواد الأقرب؟",
+      "expected_regulations": [
+        "e-commerce-law"
+      ],
+      "expected_articles": [
+        6,
+        10,
+        13,
+        17
+      ],
+      "matched_context_regulations": [
+        "e-commerce-law"
+      ],
+      "matched_answer_regulations": [
+        "e-commerce-law"
+      ],
+      "matched_context_articles": [
+        6,
+        10,
+        13,
+        17
+      ],
+      "matched_answer_articles": [
+        6,
+        10,
+        13,
+        17
+      ],
+      "answer_bound_article_pairs": [
+        "e-commerce-law:10",
+        "e-commerce-law:13",
+        "e-commerce-law:17",
+        "e-commerce-law:6"
+      ],
+      "missing_context_regulations": [],
+      "missing_context_articles": [],
+      "missing_answer_regulations": [],
+      "missing_answer_articles": [],
+      "sub_issue_details": [
+        {
+          "issue": "الإفصاح عن بيانات الفاتورة والتسليم",
+          "issue_keywords": [
+            "الافصاح",
+            "بيانات",
+            "الفاتوره",
+            "والتسليم"
+          ],
+          "expected_regulations": [
+            "e-commerce-law"
+          ],
+          "expected_articles": [
+            6
+          ],
+          "context_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "answer_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "context_matched_articles": [
+            6
+          ],
+          "answer_matched_articles": [
+            6
+          ],
+          "keyword_score": 0.5,
+          "context_score": 1.0,
+          "answer_issue_score": 0.825,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        },
+        {
+          "issue": "أثر الإعلان الإلكتروني كوثيقة تعاقدية",
+          "issue_keywords": [
+            "الاعلان",
+            "الالكتروني",
+            "كوثيقه",
+            "تعاقديه"
+          ],
+          "expected_regulations": [
+            "e-commerce-law"
+          ],
+          "expected_articles": [
+            10
+          ],
+          "context_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "answer_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "context_matched_articles": [
+            10
+          ],
+          "answer_matched_articles": [
+            10
+          ],
+          "keyword_score": 0.5,
+          "context_score": 1.0,
+          "answer_issue_score": 0.825,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        },
+        {
+          "issue": "حق المستهلك في الفسخ أو الاسترجاع",
+          "issue_keywords": [
+            "المستهلك",
+            "الفسخ",
+            "الاسترجاع"
+          ],
+          "expected_regulations": [
+            "e-commerce-law"
+          ],
+          "expected_articles": [
+            13
+          ],
+          "context_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "answer_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "context_matched_articles": [
+            13
+          ],
+          "answer_matched_articles": [
+            13
+          ],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "الجزاءات على مخالفة النظام",
+          "issue_keywords": [
+            "الجزاءات",
+            "مخالفه"
+          ],
+          "expected_regulations": [
+            "e-commerce-law"
+          ],
+          "expected_articles": [
+            17
+          ],
+          "context_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "answer_matched_regulations": [
+            "e-commerce-law"
+          ],
+          "context_matched_articles": [
+            17
+          ],
+          "answer_matched_articles": [
+            17
+          ],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        }
+      ],
+      "classification": "answer-level issue",
+      "passed": false,
+      "transport_error": false,
+      "confidence": "high",
+      "consultation_quality_score_100": 82.2,
+      "axis_scores": {
+        "governing_system_presence_score": 1.0,
+        "companion_regulation_presence_score": 1.0,
+        "precise_articles_context_score": 1.0,
+        "precise_articles_answer_score": 1.0,
+        "material_context_score": 1.0,
+        "answer_material_score": 1.0,
+        "issue_context_score": 1.0,
+        "issue_answer_score": 0.738,
+        "practical_application_score": 0.37,
+        "structure_score": 1.0,
+        "caveat_risk_score": 1.0,
+        "confidence_score": 1.0
+      },
+      "top_gaps": [
+        "practical_application_score",
+        "issue_answer_score"
+      ],
+      "answer_preview": "1. النظام المنطبق\nنظام التجارة الإلكترونية؛ اللائحة التنفيذية لنظام التجارة الإلكترونية؛ نظام مكافحة الغش التجاري؛ نظام المعاملات المدنية؛ نظام التعاملات الإلكترونية؛ نظام الإثبات؛ نظام القضاء؛ نظام العمل؛ قانون نظام العلامات التجارية لدول مجلس التعاون لدول الخليج العربية؛ نظام ملكية الوحدات العقارية وفرزها وإدارتها؛ نظام حماية الطفل؛ جدول المخالفات والعقوبات لنظام العمل؛ قواعد توثيق عقود العمل؛ قواعد/برنامج حماية الأجور؛ نظام مراقبة شركات التأمين التعاوني؛ نظام المرافعات الشرعية؛ نظام التنفيذ أمام ديوان المظالم\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام المعاملات المدنية: المادة 32، المادة 94، المادة 95، المادة 109، المادة 120، المادة 136، المادة 310، المادة 311، المادة 312، المادة 314، المادة 321، المادة 325\n- اللائحة التنفيذية لنظام التجارة الإلكترونية: المادة 4، المادة 5، المادة 6، المادة 7، المادة 8، المادة 10، المادة 11، المادة 18\n- نظام التجارة الإلكترونية: المادة 2، المادة 5، المادة 6، المادة 8، المادة 10، المادة 11، المادة 13، المادة 14، المادة 17، المادة 18، المادة 20، المادة 22\n- نظام الإثبات: المادة 55، المادة 56، المادة 57، المادة 118\n- نظام مكافحة الغش التجاري: المادة 1، المادة 2، المادة 3، المادة 4، المادة 5، المادة 7، المادة 14، المادة 16، المادة 18، المادة 22\n- نظام التعاملات الإلكترونية: المادة 5، المادة 7، المادة 8، المادة 9، المادة 12، المادة 14، المادة 28\n- نظام القضاء: المادة 57\n- نظام العمل: المادة 92\n- قانون (نظام) العلامات التجارية لدول مجلس التعاون لدول الخليج العربية: المادة 42\n- نظام ملكية الوحدات العقارية وفرزها وإدارتها: المادة 10\n- نظام حماية الطفل: المادة 23\n- جدول المخالفات والعقوبات لنظام العمل ولائحته التنفيذية: المادة 3\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 2\n- قواعد وبرنامج حماية الأجور: المادة 2\n- نظام مراقبة شركات التأمين التعاوني: المادة 2\n- نظام المرافعات الشرعية: المادة 27\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح وال",
+      "source_count": 30,
+      "diagnostics": {
+        "quality_status": "high",
+        "retrieval_profile": "jamia_recall",
+        "retrieval_profile_config": {
+          "dense_norm_weight": 0.7,
+          "lexical_norm_weight": 0.3,
+          "dense_k": 180,
+          "lexical_k": 180,
+          "context_limit": 72,
+          "slug_article_seed_count": 8,
+          "learned_slug_article_seed_limit": 12,
+          "coverage_packer_seed_limit": 36,
+          "coverage_packer_per_slug": 4,
+          "heldout_axis_packer_seed_limit": 18,
+          "heldout_axis_packer_per_slug": 4,
+          "required_article_seed_limit": 32,
+          "required_article_seed_per_slug": 8
+        },
+        "issue_flags": [],
+        "dominant_domain": "e-commerce-law",
+        "top_regulations": [
+          "e-commerce-law",
+          "ecommerce-implementing-regulation",
+          "commercial-fraud-law",
+          "civil-transactions-law",
+          "electronic-transactions-law",
+          "law-of-evidence",
+          "nzam-alqdaa",
+          "qanwn-nzam-alalamat-altjaryh-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+          "nzam-mraqbh-shrkat-altamyn-altaawny",
+          "labor-law",
+          "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha",
+          "law-of-sharia-procedure"
+        ],
+        "top_articles": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          20,
+          22,
+          23,
+          27,
+          28,
+          32,
+          42,
+          55,
+          56,
+          57,
+          92,
+          94,
+          95,
+          109,
+          118,
+          120,
+          136,
+          137,
+          175,
+          310,
+          311,
+          312,
+          314,
+          321,
+          325,
+          329,
+          339,
+          425,
+          560,
+          654
+        ],
+        "required_core_regulations": [
+          "e-commerce-law"
+        ],
+        "covered_core_regulations": [
+          "e-commerce-law"
+        ],
+        "missing_core_regulations": [],
+        "core_doc_recall": 1.0,
+        "required_companion_regulations": [
+          "ecommerce-implementing-regulation",
+          "commercial-fraud-law",
+          "civil-transactions-law",
+          "electronic-transactions-law",
+          "law-of-evidence"
+        ],
+        "covered_companion_regulations": [
+          "ecommerce-implementing-regulation",
+          "commercial-fraud-law",
+          "civil-transactions-law",
+          "electronic-transactions-law",
+          "law-of-evidence"
+        ],
+        "missing_companion_regulations": [],
+        "companion_doc_recall": 1.0,
+        "direct_article_recall": 1.0,
+        "expected_article_entered_context_rate": 1.0,
+        "expected_article_mean_context_position": 25.4,
+        "bundle_completeness": 1.0,
+        "fatal_core_doc_miss": false,
+        "pollution_rate": 0.0,
+        "document_class_counts": {
+          "civil-transactions-law": 19,
+          "e-commerce-law": 13,
+          "ecommerce-implementing-regulation": 8,
+          "law-of-evidence": 4,
+          "commercial-fraud-law": 10,
+          "electronic-transactions-law": 7,
+          "nzam-alqdaa": 1,
+          "qanwn-nzam-alalamat-altjaryh-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh": 1,
+          "nzam-mraqbh-shrkat-altamyn-altaawny": 1,
+          "labor-law": 1,
+          "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha": 1,
+          "law-of-sharia-procedure": 1,
+          "nzam-hmayh-altfl": 1,
+          "labor-violations-penalties-table": 1,
+          "labor-contract-documentation-rules": 1,
+          "wage-protection-rules": 1,
+          "nzam-altnfydh-amam-dywan-almzalm": 1
+        }
+      }
+    },
+    {
+      "question_id": "hard_003",
+      "benchmark_category": "hard_bundle_pdpl",
+      "question_type": "multi_issue",
+      "question": "تطبيق صحي يحتفظ بصور الهوية والتقارير الطبية. حدث وصول غير مشروع إلى قاعدة البيانات، ثم تبيّن أن النسخ الاحتياطية تُرسل إلى مزود خدمة خارج المملكة دون تقييم واضح للمخاطر. كما أن الشركة تُبقي بيانات المستخدمين بعد انتهاء الغرض منها، وتستخدمها لاحقًا في حملات تسويقية. ما الأنظمة والمواد الأقرب؟",
+      "expected_regulations": [
+        "personal-data-protection-law",
+        "pdpl-implementing-regulation",
+        "pdpl-transfer-regulation"
+      ],
+      "expected_articles": [
+        20,
+        21,
+        29
+      ],
+      "matched_context_regulations": [
+        "pdpl-implementing-regulation",
+        "pdpl-transfer-regulation",
+        "personal-data-protection-law"
+      ],
+      "matched_answer_regulations": [
+        "pdpl-implementing-regulation",
+        "pdpl-transfer-regulation",
+        "personal-data-protection-law"
+      ],
+      "matched_context_articles": [
+        20,
+        29
+      ],
+      "matched_answer_articles": [
+        20,
+        29
+      ],
+      "answer_bound_article_pairs": [
+        "personal-data-protection-law:20"
+      ],
+      "missing_context_regulations": [],
+      "missing_context_articles": [
+        21
+      ],
+      "missing_answer_regulations": [],
+      "missing_answer_articles": [
+        21
+      ],
+      "sub_issue_details": [
+        {
+          "issue": "الإخطار عن الوصول غير المشروع أو التسرب",
+          "issue_keywords": [
+            "الاخطار",
+            "الوصول",
+            "المشروع",
+            "التسرب"
+          ],
+          "expected_regulations": [
+            "personal-data-protection-law"
+          ],
+          "expected_articles": [
+            20
+          ],
+          "context_matched_regulations": [
+            "personal-data-protection-law"
+          ],
+          "answer_matched_regulations": [
+            "personal-data-protection-law"
+          ],
+          "context_matched_articles": [
+            20
+          ],
+          "answer_matched_articles": [
+            20
+          ],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "إتلاف البيانات بعد انتهاء الغرض",
+          "issue_keywords": [
+            "اتلاف",
+            "البيانات",
+            "انتهاء",
+            "الغرض"
+          ],
+          "expected_regulations": [
+            "personal-data-protection-law"
+          ],
+          "expected_articles": [
+            21
+          ],
+          "context_matched_regulations": [
+            "personal-data-protection-law"
+          ],
+          "answer_matched_regulations": [
+            "personal-data-protection-law"
+          ],
+          "context_matched_articles": [],
+          "answer_matched_articles": [],
+          "keyword_score": 0.5,
+          "context_score": 0.5,
+          "answer_issue_score": 0.5,
+          "covered_in_context": false,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "نقل البيانات خارج المملكة والضمانات",
+          "issue_keywords": [
+            "البيانات",
+            "خارج",
+            "المملكه",
+            "والضمانات"
+          ],
+          "expected_regulations": [
+            "personal-data-protection-law",
+            "pdpl-transfer-regulation"
+          ],
+          "expected_articles": [
+            29
+          ],
+          "context_matched_regulations": [
+            "pdpl-transfer-regulation",
+            "personal-data-protection-law"
+          ],
+          "answer_matched_regulations": [
+            "pdpl-transfer-regulation",
+            "personal-data-protection-law"
+          ],
+          "context_matched_articles": [
+            29
+          ],
+          "answer_matched_articles": [
+            29
+          ],
+          "keyword_score": 1.0,
+          "context_score": 1.0,
+          "answer_issue_score": 1.0,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        },
+        {
+          "issue": "الإطار التنفيذي والاستجابة للحوادث",
+          "issue_keywords": [
+            "التنفيذي",
+            "والاستجابه",
+            "للحوادث"
+          ],
+          "expected_regulations": [
+            "pdpl-implementing-regulation"
+          ],
+          "expected_articles": [],
+          "context_matched_regulations": [
+            "pdpl-implementing-regulation"
+          ],
+          "answer_matched_regulations": [
+            "pdpl-implementing-regulation"
+          ],
+          "context_matched_articles": [],
+          "answer_matched_articles": [],
+          "keyword_score": 0.5,
+          "context_score": 1.0,
+          "answer_issue_score": 0.825,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        }
+      ],
+      "classification": "answer-level issue",
+      "passed": false,
+      "transport_error": false,
+      "confidence": "high",
+      "consultation_quality_score_100": 77.2,
+      "axis_scores": {
+        "governing_system_presence_score": 1.0,
+        "companion_regulation_presence_score": 1.0,
+        "precise_articles_context_score": 0.667,
+        "precise_articles_answer_score": 0.667,
+        "material_context_score": 0.883,
+        "answer_material_score": 0.683,
+        "issue_context_score": 0.875,
+        "issue_answer_score": 0.744,
+        "practical_application_score": 0.49,
+        "structure_score": 1.0,
+        "caveat_risk_score": 1.0,
+        "confidence_score": 1.0
+      },
+      "top_gaps": [
+        "practical_application_score",
+        "precise_articles_context_score",
+        "precise_articles_answer_score",
+        "answer_material_score",
+        "issue_answer_score"
+      ],
+      "answer_preview": "1. النظام المنطبق\nنظام حماية البيانات الشخصية؛ اللائحة التنفيذية لنظام حماية البيانات الشخصية؛ لائحة نقل البيانات الشخصية إلى خارج المملكة؛ نظام مكافحة جرائم المعلوماتية؛ النظام الصحي؛ نظام المؤسسات الصحية الخاصة؛ نظام مزاولة المهن الصحية؛ نظام الإثبات؛ نظام الشركات؛ نظام المعاملات المدنية؛ نظام مكافحة غسل الأموال\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- لائحة نقل البيانات الشخصية إلى خارج المملكة: المادة 2، المادة 4، المادة 5، المادة 7\n- اللائحة التنفيذية لنظام حماية البيانات الشخصية: المادة 2، المادة 4، المادة 17، المادة 19، المادة 24، المادة 25، المادة 30، المادة 32، المادة 37\n- نظام حماية البيانات الشخصية: المادة 1، المادة 2، المادة 4، المادة 5، المادة 8، المادة 10، المادة 13، المادة 20، المادة 23، المادة 29، المادة 31، المادة 32\n- نظام مكافحة جرائم المعلوماتية: المادة 3، المادة 4، المادة 5، المادة 6، المادة 12\n- نظام الشركات: المادة 20، المادة 31، المادة 61، المادة 71، المادة 140، المادة 165، المادة 192، المادة 231، المادة 239، المادة 261، المادة 262، المادة 265\n- نظام المعاملات المدنية: المادة 131، المادة 315، المادة 337، المادة 386، المادة 436، المادة 442، المادة 537، المادة 538، المادة 544، المادة 548، المادة 560\n- نظام مكافحة غسل الأموال: المادة 4، المادة 8، المادة 9، المادة 12، المادة 22، المادة 23، المادة 24، المادة 28، المادة 39، المادة 43\n- نظام الإثبات: المادة 13، المادة 52\n- النظام الصحي: المادة 5\n- نظام مزاولة المهن الصحية: المادة 23\n- نظام المؤسسات الصحية الخاصة: المادة 25\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "source_count": 30,
+      "diagnostics": {
+        "quality_status": "high",
+        "retrieval_profile": "jamia_recall",
+        "retrieval_profile_config": {
+          "dense_norm_weight": 0.7,
+          "lexical_norm_weight": 0.3,
+          "dense_k": 180,
+          "lexical_k": 180,
+          "context_limit": 72,
+          "slug_article_seed_count": 8,
+          "learned_slug_article_seed_limit": 12,
+          "coverage_packer_seed_limit": 36,
+          "coverage_packer_per_slug": 4,
+          "heldout_axis_packer_seed_limit": 18,
+          "heldout_axis_packer_per_slug": 4,
+          "required_article_seed_limit": 32,
+          "required_article_seed_per_slug": 8
+        },
+        "issue_flags": [],
+        "dominant_domain": "personal-data-protection-law",
+        "top_regulations": [
+          "personal-data-protection-law",
+          "pdpl-implementing-regulation",
+          "pdpl-transfer-regulation",
+          "anti-cybercrime-law",
+          "alnzam-alshy",
+          "nzam-almwssat-alshyh-alkhash",
+          "nzam-mzawlh-almhn-alshyh",
+          "law-of-evidence",
+          "companies-law",
+          "civil-transactions-law",
+          "anti-money-laundering-law"
+        ],
+        "top_articles": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          15,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31,
+          32,
+          37,
+          39,
+          43,
+          52,
+          61,
+          71,
+          131,
+          140,
+          165,
+          192,
+          231,
+          239,
+          261,
+          262,
+          265,
+          315,
+          337,
+          386,
+          436,
+          442,
+          537,
+          538,
+          544,
+          548,
+          560
+        ],
+        "required_core_regulations": [
+          "personal-data-protection-law",
+          "pdpl-implementing-regulation",
+          "pdpl-transfer-regulation",
+          "anti-cybercrime-law"
+        ],
+        "covered_core_regulations": [
+          "personal-data-protection-law",
+          "pdpl-implementing-regulation",
+          "pdpl-transfer-regulation",
+          "anti-cybercrime-law"
+        ],
+        "missing_core_regulations": [],
+        "core_doc_recall": 1.0,
+        "required_companion_regulations": [
+          "alnzam-alshy",
+          "nzam-almwssat-alshyh-alkhash",
+          "nzam-mzawlh-almhn-alshyh",
+          "law-of-evidence",
+          "anti-cybercrime-law",
+          "pdpl-implementing-regulation",
+          "personal-data-protection-law"
+        ],
+        "covered_companion_regulations": [
+          "alnzam-alshy",
+          "nzam-almwssat-alshyh-alkhash",
+          "nzam-mzawlh-almhn-alshyh",
+          "law-of-evidence",
+          "anti-cybercrime-law",
+          "pdpl-implementing-regulation",
+          "personal-data-protection-law"
+        ],
+        "missing_companion_regulations": [],
+        "companion_doc_recall": 1.0,
+        "direct_article_recall": 1.0,
+        "expected_article_entered_context_rate": 1.0,
+        "expected_article_mean_context_position": 21.5,
+        "bundle_completeness": 1.0,
+        "fatal_core_doc_miss": false,
+        "pollution_rate": 0.0,
+        "document_class_counts": {
+          "companies-law": 12,
+          "civil-transactions-law": 11,
+          "anti-money-laundering-law": 10,
+          "pdpl-implementing-regulation": 9,
+          "pdpl-transfer-regulation": 4,
+          "personal-data-protection-law": 16,
+          "anti-cybercrime-law": 5,
+          "law-of-evidence": 2,
+          "nzam-mzawlh-almhn-alshyh": 1,
+          "alnzam-alshy": 1,
+          "nzam-almwssat-alshyh-alkhash": 1
+        }
+      }
+    },
+    {
+      "question_id": "hard_004",
+      "benchmark_category": "hard_cross_domain_civil_evidence",
+      "question_type": "cross_domain",
+      "question": "مشتري تفاوض مع بائع على شراء آلة صناعية عبر واتساب والبريد الإلكتروني، ثم حوّل 50,000 ريال بوصفه عربونًا. بعد يومين عدل عن الشراء وطالب باسترداد العربون كاملًا، ويحتج برسائل واتساب وإشعار التحويل البنكي. ما الأنظمة والمواد الأقرب؟",
+      "expected_regulations": [
+        "civil-transactions-law",
+        "law-of-evidence",
+        "electronic-transactions-law"
+      ],
+      "expected_articles": [],
+      "matched_context_regulations": [
+        "civil-transactions-law",
+        "electronic-transactions-law",
+        "law-of-evidence"
+      ],
+      "matched_answer_regulations": [
+        "civil-transactions-law",
+        "electronic-transactions-law",
+        "law-of-evidence"
+      ],
+      "matched_context_articles": [],
+      "matched_answer_articles": [],
+      "answer_bound_article_pairs": [
+        "law-of-evidence:57"
+      ],
+      "missing_context_regulations": [],
+      "missing_context_articles": [],
+      "missing_answer_regulations": [],
+      "missing_answer_articles": [],
+      "sub_issue_details": [
+        {
+          "issue": "حكم العربون عند العدول",
+          "issue_keywords": [
+            "العربون",
+            "العدول"
+          ],
+          "expected_regulations": [
+            "civil-transactions-law"
+          ],
+          "expected_articles": [],
+          "context_matched_regulations": [
+            "civil-transactions-law"
+          ],
+          "answer_matched_regulations": [
+            "civil-transactions-law"
+          ],
+          "context_matched_articles": [],
+          "answer_matched_articles": [],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "حجية رسائل واتساب كدليل رقمي",
+          "issue_keywords": [
+            "حجيه",
+            "رسايل",
+            "واتساب",
+            "كدليل",
+            "رقمي"
+          ],
+          "expected_regulations": [
+            "law-of-evidence"
+          ],
+          "expected_articles": [
+            53,
+            57,
+            63
+          ],
+          "context_matched_regulations": [
+            "law-of-evidence"
+          ],
+          "answer_matched_regulations": [
+            "law-of-evidence"
+          ],
+          "context_matched_articles": [
+            57
+          ],
+          "answer_matched_articles": [
+            57
+          ],
+          "keyword_score": 0.0,
+          "context_score": 0.75,
+          "answer_issue_score": 0.488,
+          "covered_in_context": false,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "قبول السجل أو التعامل الإلكتروني في الإثبات",
+          "issue_keywords": [
+            "قبول",
+            "السجل",
+            "التعامل",
+            "الالكتروني",
+            "الاثبات"
+          ],
+          "expected_regulations": [
+            "electronic-transactions-law"
+          ],
+          "expected_articles": [],
+          "context_matched_regulations": [
+            "electronic-transactions-law"
+          ],
+          "answer_matched_regulations": [
+            "electronic-transactions-law"
+          ],
+          "context_matched_articles": [],
+          "answer_matched_articles": [],
+          "keyword_score": 1.0,
+          "context_score": 1.0,
+          "answer_issue_score": 1.0,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        }
+      ],
+      "classification": "answer-level issue",
+      "passed": false,
+      "transport_error": false,
+      "confidence": "high",
+      "consultation_quality_score_100": 82.9,
+      "axis_scores": {
+        "governing_system_presence_score": 1.0,
+        "companion_regulation_presence_score": 1.0,
+        "precise_articles_context_score": 1.0,
+        "precise_articles_answer_score": 1.0,
+        "material_context_score": 1.0,
+        "answer_material_score": 1.0,
+        "issue_context_score": 0.917,
+        "issue_answer_score": 0.713,
+        "practical_application_score": 0.43,
+        "structure_score": 1.0,
+        "caveat_risk_score": 1.0,
+        "confidence_score": 1.0
+      },
+      "top_gaps": [
+        "practical_application_score",
+        "issue_answer_score"
+      ],
+      "answer_preview": "1. النظام المنطبق\nنظام الإثبات؛ نظام التعاملات الإلكترونية؛ نظام الوساطة العقارية؛ نظام المعاملات المدنية؛ نظام المرافعات الشرعية؛ نظام التكاليف القضائية؛ نظام العمل؛ نظام ملكية الوحدات العقارية وفرزها وإدارتها؛ اللائحة التنفيذية لنظام التنفيذ؛ نظام العلامات التجارية؛ نظام القضاء؛ نظام التسجيل العيني للعقار؛ نظام الأسماء التجارية؛ قواعد/برنامج حماية الأجور؛ نظام مراقبة شركات التأمين التعاوني؛ قواعد توثيق عقود العمل؛ نظام التمويل العقاري؛ جدول المخالفات والعقوبات لنظام العمل\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الوساطة العقارية: المادة 1، المادة 3، المادة 4، المادة 5، المادة 6، المادة 8، المادة 12، المادة 13، المادة 14، المادة 17، المادة 18، المادة 19\n- نظام التكاليف القضائية: المادة 3، المادة 6، المادة 9، المادة 10، المادة 12، المادة 13\n- نظام المعاملات المدنية: المادة 94، المادة 95، المادة 120، المادة 136، المادة 321، المادة 349، المادة 361، المادة 362، المادة 542، المادة 576\n- نظام التعاملات الإلكترونية: المادة 5، المادة 6، المادة 7، المادة 8، المادة 9، المادة 12، المادة 14، المادة 18\n- نظام الإثبات: المادة 55، المادة 56، المادة 57، المادة 67، المادة 113\n- نظام العمل: المادة 137، المادة 138\n- نظام المرافعات الشرعية: المادة 73، المادة 206، المادة 209\n- نظام ملكية الوحدات العقارية وفرزها وإدارتها: المادة 6، المادة 10\n- اللائحة التنفيذية لنظام التنفيذ: المادة 34، المادة 45\n- نظام العلامات التجارية: المادة 37، المادة 43\n- نظام القضاء: المادة 6، المادة 35\n- نظام التسجيل العيني للعقار: المادة 11، المادة 36\n- نظام الأسماء التجارية: المادة 6، المادة 14\n- قواعد وبرنامج حماية الأجور: المادة 2، المادة 3\n- نظام مراقبة شركات التأمين التعاوني: المادة 2، المادة 21\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 3، المادة 4\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "source_count": 30,
+      "diagnostics": {
+        "quality_status": "high",
+        "retrieval_profile": "jamia_recall",
+        "retrieval_profile_config": {
+          "dense_norm_weight": 0.7,
+          "lexical_norm_weight": 0.3,
+          "dense_k": 180,
+          "lexical_k": 180,
+          "context_limit": 72,
+          "slug_article_seed_count": 8,
+          "learned_slug_article_seed_limit": 12,
+          "coverage_packer_seed_limit": 36,
+          "coverage_packer_per_slug": 4,
+          "heldout_axis_packer_seed_limit": 18,
+          "heldout_axis_packer_per_slug": 4,
+          "required_article_seed_limit": 32,
+          "required_article_seed_per_slug": 8
+        },
+        "issue_flags": [],
+        "dominant_domain": "law-of-evidence",
+        "top_regulations": [
+          "law-of-evidence",
+          "electronic-transactions-law",
+          "real-estate-brokerage-law",
+          "civil-transactions-law",
+          "law-of-sharia-procedure",
+          "nzam-altkalyf-alqdayyh",
+          "labor-law",
+          "labor-implementing-regulation",
+          "execution-implementing-regulation",
+          "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha",
+          "nzam-alalamat-altjaryh",
+          "nzam-alqdaa"
+        ],
+        "top_articles": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          21,
+          34,
+          35,
+          36,
+          37,
+          43,
+          45,
+          55,
+          56,
+          57,
+          67,
+          73,
+          94,
+          95,
+          113,
+          120,
+          136,
+          137,
+          138,
+          206,
+          209,
+          321,
+          349,
+          361,
+          362,
+          542,
+          576
+        ],
+        "required_core_regulations": [
+          "law-of-evidence",
+          "electronic-transactions-law",
+          "real-estate-brokerage-law"
+        ],
+        "covered_core_regulations": [
+          "law-of-evidence",
+          "electronic-transactions-law",
+          "real-estate-brokerage-law"
+        ],
+        "missing_core_regulations": [],
+        "core_doc_recall": 1.0,
+        "required_companion_regulations": [
+          "civil-transactions-law",
+          "law-of-evidence",
+          "law-of-sharia-procedure"
+        ],
+        "covered_companion_regulations": [
+          "civil-transactions-law",
+          "law-of-evidence",
+          "law-of-sharia-procedure"
+        ],
+        "missing_companion_regulations": [],
+        "companion_doc_recall": 1.0,
+        "direct_article_recall": 1.0,
+        "expected_article_entered_context_rate": 1.0,
+        "expected_article_mean_context_position": 17.5,
+        "bundle_completeness": 1.0,
+        "fatal_core_doc_miss": false,
+        "pollution_rate": 0.0,
+        "document_class_counts": {
+          "real-estate-brokerage-law": 16,
+          "nzam-altkalyf-alqdayyh": 6,
+          "civil-transactions-law": 10,
+          "electronic-transactions-law": 8,
+          "law-of-evidence": 5,
+          "law-of-sharia-procedure": 3,
+          "labor-law": 2,
+          "labor-implementing-regulation": 1,
+          "execution-implementing-regulation": 2,
+          "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha": 2,
+          "nzam-alalamat-altjaryh": 2,
+          "nzam-alqdaa": 2,
+          "nzam-altsjyl-alayny-llaqar": 2,
+          "nzam-mraqbh-shrkat-altamyn-altaawny": 2,
+          "nzam-alasmaa-altjaryh": 2,
+          "wage-protection-rules": 2,
+          "labor-contract-documentation-rules": 2,
+          "nzam-altmwyl-alaqary": 1,
+          "labor-violations-penalties-table": 2
+        }
+      }
+    },
+    {
+      "question_id": "hard_005",
+      "benchmark_category": "hard_special_law_workplace",
+      "question_type": "cross_domain",
+      "question": "موظفة في منشأة خاصة اشتكت من رسائل وإيحاءات وطلب لقاءات منفردة من مديرها، وتقول إن المنشأة لم تضع آلية داخلية فعالة لاستقبال الشكوى أو التحقيق السري. ما الأنظمة واللوائح ذات الصلة؟",
+      "expected_regulations": [
+        "nzam-mkafhh-jrymh-althrsh",
+        "workplace-behavioral-misconduct-controls",
+        "labor-law"
+      ],
+      "expected_articles": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "matched_context_regulations": [
+        "labor-law"
+      ],
+      "matched_answer_regulations": [
+        "labor-law"
+      ],
+      "matched_context_articles": [
+        1,
+        3,
+        4
+      ],
+      "matched_answer_articles": [
+        1,
+        3,
+        4
+      ],
+      "answer_bound_article_pairs": [],
+      "missing_context_regulations": [
+        "nzam-mkafhh-jrymh-althrsh",
+        "workplace-behavioral-misconduct-controls"
+      ],
+      "missing_context_articles": [
+        6
+      ],
+      "missing_answer_regulations": [
+        "nzam-mkafhh-jrymh-althrsh",
+        "workplace-behavioral-misconduct-controls"
+      ],
+      "missing_answer_articles": [
+        6
+      ],
+      "sub_issue_details": [
+        {
+          "issue": "النظام الخاص بجريمة التحرش",
+          "issue_keywords": [
+            "بجريمه",
+            "التحرش"
+          ],
+          "expected_regulations": [
+            "nzam-mkafhh-jrymh-althrsh"
+          ],
+          "expected_articles": [
+            1,
+            6
+          ],
+          "context_matched_regulations": [],
+          "answer_matched_regulations": [],
+          "context_matched_articles": [
+            1
+          ],
+          "answer_matched_articles": [
+            1
+          ],
+          "keyword_score": 0.0,
+          "context_score": 0.5,
+          "answer_issue_score": 0.325,
+          "covered_in_context": false,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "الآلية الداخلية وسرية الشكوى في بيئة العمل",
+          "issue_keywords": [
+            "الاليه",
+            "الداخليه",
+            "وسريه",
+            "الشكوي",
+            "بييه",
+            "العمل"
+          ],
+          "expected_regulations": [
+            "workplace-behavioral-misconduct-controls"
+          ],
+          "expected_articles": [
+            1,
+            2,
+            3
+          ],
+          "context_matched_regulations": [],
+          "answer_matched_regulations": [],
+          "context_matched_articles": [
+            1,
+            2,
+            3
+          ],
+          "answer_matched_articles": [
+            1,
+            2,
+            3
+          ],
+          "keyword_score": 0.5,
+          "context_score": 0.5,
+          "answer_issue_score": 0.5,
+          "covered_in_context": false,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "الإطار العمالي المساند",
+          "issue_keywords": [
+            "العمالي",
+            "المساند"
+          ],
+          "expected_regulations": [
+            "labor-law"
+          ],
+          "expected_articles": [],
+          "context_matched_regulations": [
+            "labor-law"
+          ],
+          "answer_matched_regulations": [
+            "labor-law"
+          ],
+          "context_matched_articles": [],
+          "answer_matched_articles": [],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        }
+      ],
+      "classification": "retrieval/package issue",
+      "passed": false,
+      "transport_error": false,
+      "confidence": "high",
+      "consultation_quality_score_100": 56.6,
+      "axis_scores": {
+        "governing_system_presence_score": 0.5,
+        "companion_regulation_presence_score": 0.0,
+        "precise_articles_context_score": 0.75,
+        "precise_articles_answer_score": 0.75,
+        "material_context_score": 0.454,
+        "answer_material_score": 0.437,
+        "issue_context_score": 0.667,
+        "issue_answer_score": 0.492,
+        "practical_application_score": 0.31,
+        "structure_score": 1.0,
+        "caveat_risk_score": 1.0,
+        "confidence_score": 1.0
+      },
+      "top_gaps": [
+        "companion_regulation_presence_score",
+        "practical_application_score",
+        "answer_material_score",
+        "material_context_score",
+        "issue_answer_score"
+      ],
+      "answer_preview": "1. النظام المنطبق\nنظام مجلس الوزراء؛ نظام الإثبات؛ نظام الزراعة؛ نظام الحماية من الإيذاء؛ لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية؛ نظام العمل؛ نظام التنفيذ؛ نظام المرافعات الشرعية؛ نظام القضاء؛ اللائحة التنفيذية لنظام العمل؛ نظام مراقبة شركات التأمين التعاوني؛ النظام الصحي؛ جدول المخالفات والعقوبات لنظام العمل؛ اللائحة التنفيذية لنظام الإفلاس؛ نظام التكاليف القضائية؛ قواعد توثيق عقود العمل؛ قواعد/برنامج حماية الأجور\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام مجلس الوزراء: المادة 3، المادة 4، المادة 11، المادة 13، المادة 15، المادة 18، المادة 20، المادة 21، المادة 22، المادة 23، المادة 24، المادة 29\n- نظام الإثبات: المادة 27، المادة 34، المادة 49، المادة 56، المادة 71، المادة 99، المادة 113، المادة 118، المادة 121، المادة 125، المادة 126، المادة 127\n- نظام الزراعة: المادة 1، المادة 3، المادة 7، المادة 14، المادة 15، المادة 17، المادة 20، المادة 24، المادة 26، المادة 29، المادة 34، المادة 35\n- نظام الحماية من الإيذاء: المادة 3، المادة 12\n- لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية: المادة 10\n- نظام العمل: المادة 51، المادة 71\n- نظام التنفيذ 1433هـ: المادة 10، المادة 29\n- نظام المرافعات الشرعية: المادة 127، المادة 225\n- نظام القضاء: المادة 31، المادة 35\n- اللائحة التنفيذية لنظام العمل وملحقاتها: المادة 1\n- نظام مراقبة شركات التأمين التعاوني: المادة 2، المادة 13\n- النظام الصحي: المادة 5، المادة 16\n- جدول المخالفات والعقوبات لنظام العمل ولائحته التنفيذية: المادة 2، المادة 3\n- اللائحة التنفيذية لنظام الإفلاس: المادة 62، المادة 92\n- نظام التكاليف القضائية: المادة 16، المادة 17\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 3، المادة 4\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "source_count": 30,
+      "diagnostics": {
+        "quality_status": "high",
+        "retrieval_profile": "jamia_recall",
+        "retrieval_profile_config": {
+          "dense_norm_weight": 0.7,
+          "lexical_norm_weight": 0.3,
+          "dense_k": 180,
+          "lexical_k": 180,
+          "context_limit": 72,
+          "slug_article_seed_count": 8,
+          "learned_slug_article_seed_limit": 12,
+          "coverage_packer_seed_limit": 36,
+          "coverage_packer_per_slug": 4,
+          "heldout_axis_packer_seed_limit": 18,
+          "heldout_axis_packer_per_slug": 4,
+          "required_article_seed_limit": 32,
+          "required_article_seed_per_slug": 8
+        },
+        "issue_flags": [],
+        "dominant_domain": null,
+        "top_regulations": [
+          "nzam-alzraah",
+          "nzam-mjls-alwzraa",
+          "law-of-evidence",
+          "protection-from-abuse-law",
+          "procurement-conflict-of-interest-regulation",
+          "labor-implementing-regulation",
+          "labor-law",
+          "law-of-sharia-procedure",
+          "execution-law",
+          "nzam-alqdaa",
+          "nzam-mraqbh-shrkat-altamyn-altaawny",
+          "alnzam-alshy"
+        ],
+        "top_articles": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          34,
+          35,
+          43,
+          49,
+          51,
+          56,
+          62,
+          71,
+          92,
+          99,
+          113,
+          118,
+          121,
+          125,
+          126,
+          127,
+          225
+        ],
+        "required_core_regulations": [],
+        "covered_core_regulations": [],
+        "missing_core_regulations": [],
+        "core_doc_recall": 1.0,
+        "required_companion_regulations": [],
+        "covered_companion_regulations": [],
+        "missing_companion_regulations": [],
+        "companion_doc_recall": 1.0,
+        "direct_article_recall": 1.0,
+        "expected_article_entered_context_rate": 1.0,
+        "expected_article_mean_context_position": 7.5,
+        "bundle_completeness": 1.0,
+        "fatal_core_doc_miss": false,
+        "pollution_rate": 0.0,
+        "document_class_counts": {
+          "nzam-alzraah": 20,
+          "nzam-mjls-alwzraa": 13,
+          "law-of-evidence": 13,
+          "protection-from-abuse-law": 2,
+          "procurement-conflict-of-interest-regulation": 1,
+          "labor-implementing-regulation": 1,
+          "labor-law": 2,
+          "law-of-sharia-procedure": 2,
+          "execution-law": 2,
+          "nzam-alqdaa": 2,
+          "nzam-mraqbh-shrkat-altamyn-altaawny": 2,
+          "alnzam-alshy": 2,
+          "labor-violations-penalties-table": 2,
+          "nzam-altkalyf-alqdayyh": 2,
+          "bankruptcy-implementing-regulation": 2,
+          "labor-contract-documentation-rules": 2,
+          "wage-protection-rules": 2
+        }
+      }
+    },
+    {
+      "question_id": "hard_006",
+      "benchmark_category": "hard_companies_conflict",
+      "question_type": "multi_issue",
+      "question": "مدير في شركة ذات مسؤولية محدودة أبرم صفقة مع طرف تربطه به مصلحة غير مباشرة عبر قريب له، من دون إفصاح مسبق للشركاء. ما النظام والمواد الأقرب قبل الحديث عن الجزاءات؟",
+      "expected_regulations": [
+        "companies-law"
+      ],
+      "expected_articles": [
+        26,
+        27
+      ],
+      "matched_context_regulations": [
+        "companies-law"
+      ],
+      "matched_answer_regulations": [
+        "companies-law"
+      ],
+      "matched_context_articles": [
+        26,
+        27
+      ],
+      "matched_answer_articles": [
+        26,
+        27
+      ],
+      "answer_bound_article_pairs": [
+        "companies-law:27"
+      ],
+      "missing_context_regulations": [],
+      "missing_context_articles": [],
+      "missing_answer_regulations": [],
+      "missing_answer_articles": [],
+      "sub_issue_details": [
+        {
+          "issue": "واجب العناية والولاء",
+          "issue_keywords": [
+            "واجب",
+            "العنايه",
+            "والولاء"
+          ],
+          "expected_regulations": [
+            "companies-law"
+          ],
+          "expected_articles": [
+            26
+          ],
+          "context_matched_regulations": [
+            "companies-law"
+          ],
+          "answer_matched_regulations": [
+            "companies-law"
+          ],
+          "context_matched_articles": [
+            26
+          ],
+          "answer_matched_articles": [
+            26
+          ],
+          "keyword_score": 0.0,
+          "context_score": 1.0,
+          "answer_issue_score": 0.65,
+          "covered_in_context": true,
+          "covered_in_answer": false
+        },
+        {
+          "issue": "تعارض المصالح والإفصاح",
+          "issue_keywords": [
+            "تعارض",
+            "المصالح",
+            "والافصاح"
+          ],
+          "expected_regulations": [
+            "companies-law"
+          ],
+          "expected_articles": [
+            27
+          ],
+          "context_matched_regulations": [
+            "companies-law"
+          ],
+          "answer_matched_regulations": [
+            "companies-law"
+          ],
+          "context_matched_articles": [
+            27
+          ],
+          "answer_matched_articles": [
+            27
+          ],
+          "keyword_score": 0.5,
+          "context_score": 1.0,
+          "answer_issue_score": 0.825,
+          "covered_in_context": true,
+          "covered_in_answer": true
+        }
+      ],
+      "classification": "answer-level issue",
+      "passed": false,
+      "transport_error": false,
+      "confidence": "high",
+      "consultation_quality_score_100": 78.8,
+      "axis_scores": {
+        "governing_system_presence_score": 1.0,
+        "companion_regulation_presence_score": 1.0,
+        "precise_articles_context_score": 1.0,
+        "precise_articles_answer_score": 1.0,
+        "material_context_score": 1.0,
+        "answer_material_score": 0.875,
+        "issue_context_score": 1.0,
+        "issue_answer_score": 0.738,
+        "practical_application_score": 0.31,
+        "structure_score": 1.0,
+        "caveat_risk_score": 1.0,
+        "confidence_score": 1.0
+      },
+      "top_gaps": [
+        "practical_application_score",
+        "issue_answer_score"
+      ],
+      "answer_preview": "1. النظام المنطبق\nنظام الشركات؛ اللائحة التنفيذية لنظام الشركات؛ نظام المعاملات المدنية؛ نظام الإثبات؛ نظام المحاكم التجارية؛ النظام البحري التجاري؛ نظام السوق المالية؛ قواعد طرح الأوراق المالية والالتزامات المستمرة؛ نظام الإفلاس؛ نظام أمن الحدود؛ نظام التكاليف القضائية؛ نظام السجن والتوقيف؛ لائحة حوكمة الشركات؛ قواعد توثيق عقود العمل\n\n2. الحكم المباشر\nالنصوص المسترجعة تشير إلى وجوب معالجة الواقعة من خلال الحزمة النظامية أعلاه، مع تنزيل المواد بحسب كل محور من محاور السؤال.\n\n3. المواد المستند إليها\n- نظام الشركات: المادة 8، المادة 9، المادة 13، المادة 22، المادة 27، المادة 28، المادة 220، المادة 225، المادة 260، المادة 261، المادة 262، المادة 276\n- نظام الإثبات: المادة 2، المادة 3، المادة 25، المادة 26، المادة 55، المادة 113\n- نظام المحاكم التجارية: المادة 13، المادة 16، المادة 17، المادة 19\n- نظام المعاملات المدنية: المادة 94، المادة 95، المادة 119، المادة 120، المادة 128، المادة 136، المادة 137، المادة 138\n- النظام البحري التجاري: المادة 312، المادة 356، المادة 374، المادة 377، المادة 379، المادة 380، المادة 381، المادة 384، المادة 385، المادة 388\n- نظام السوق المالية: المادة 25\n- قواعد طرح الأوراق المالية والالتزامات المستمرة: المادة 226\n- نظام الإفلاس: المادة 205\n- اللائحة التنفيذية لنظام الشركات الخاصة بشركات المساهمة المدرجة: المادة 4، المادة 66\n- نظام أمن الحدود: المادة 6\n- نظام التكاليف القضائية: المادة 13\n- نظام السجن والتوقيف: المادة 20\n- لائحة حوكمة الشركات: المادة 173\n- الدليل الإجرائي لتوثيق عقود العمل: المادة 3\n\n4. القيود أو الاستثناءات\nيلزم التحقق من شروط الواقعة والعقد والإفصاحات والموافقات والمواعيد قبل الجزم بالنتيجة النهائية.\n\n5. ما لم يثبته النص\nإذا لم تظهر لائحة قطاعية متخصصة ضمن قاعدة المعرفة فلا تعد غائبة قانونيا، بل غائبة عن النصوص المسترجعة.\n\n6. الخلاصة العملية\nالأولوية العملية هي تثبيت النظام الحاكم ثم اللوائح والضوابط المرافقة، وبعدها تصفية النصوص غير اللازمة.",
+      "source_count": 30,
+      "diagnostics": {
+        "quality_status": "high",
+        "retrieval_profile": "jamia_recall",
+        "retrieval_profile_config": {
+          "dense_norm_weight": 0.7,
+          "lexical_norm_weight": 0.3,
+          "dense_k": 180,
+          "lexical_k": 180,
+          "context_limit": 72,
+          "slug_article_seed_count": 8,
+          "learned_slug_article_seed_limit": 12,
+          "coverage_packer_seed_limit": 36,
+          "coverage_packer_per_slug": 4,
+          "heldout_axis_packer_seed_limit": 18,
+          "heldout_axis_packer_per_slug": 4,
+          "required_article_seed_limit": 32,
+          "required_article_seed_per_slug": 8
+        },
+        "issue_flags": [],
+        "dominant_domain": "companies-law",
+        "top_regulations": [
+          "companies-law",
+          "companies-implementing-regulation",
+          "civil-transactions-law",
+          "law-of-evidence",
+          "nzam-almhakm-altjaryh",
+          "alnzam-albhry-altjary",
+          "cma-continuing-obligations-rules",
+          "nzam-alswq-almalyh",
+          "nzam-aliflas",
+          "nzam-alsjn-waltwqyf",
+          "cma-corporate-governance-regulations",
+          "nzam-amn-alhdwd"
+        ],
+        "top_articles": [
+          2,
+          3,
+          4,
+          6,
+          8,
+          9,
+          13,
+          16,
+          17,
+          19,
+          20,
+          22,
+          25,
+          26,
+          27,
+          28,
+          55,
+          66,
+          94,
+          95,
+          113,
+          119,
+          120,
+          128,
+          136,
+          137,
+          138,
+          158,
+          165,
+          167,
+          168,
+          170,
+          171,
+          172,
+          173,
+          174,
+          176,
+          177,
+          182,
+          205,
+          206,
+          207,
+          220,
+          225,
+          226,
+          242,
+          244,
+          254,
+          260,
+          261,
+          262,
+          264,
+          266,
+          267,
+          269,
+          276,
+          281,
+          312,
+          356,
+          374,
+          377,
+          379,
+          380,
+          381,
+          384,
+          385,
+          388
+        ],
+        "required_core_regulations": [
+          "companies-law"
+        ],
+        "covered_core_regulations": [
+          "companies-law"
+        ],
+        "missing_core_regulations": [],
+        "core_doc_recall": 1.0,
+        "required_companion_regulations": [
+          "companies-implementing-regulation",
+          "civil-transactions-law",
+          "law-of-evidence",
+          "nzam-almhakm-altjaryh"
+        ],
+        "covered_companion_regulations": [
+          "companies-implementing-regulation",
+          "civil-transactions-law",
+          "law-of-evidence",
+          "nzam-almhakm-altjaryh"
+        ],
+        "missing_companion_regulations": [],
+        "companion_doc_recall": 1.0,
+        "direct_article_recall": 1.0,
+        "expected_article_entered_context_rate": 1.0,
+        "expected_article_mean_context_position": 28.5,
+        "bundle_completeness": 1.0,
+        "fatal_core_doc_miss": false,
+        "pollution_rate": 0.0,
+        "document_class_counts": {
+          "companies-law": 34,
+          "alnzam-albhry-altjary": 10,
+          "law-of-evidence": 6,
+          "nzam-almhakm-altjaryh": 4,
+          "civil-transactions-law": 8,
+          "companies-implementing-regulation": 2,
+          "cma-continuing-obligations-rules": 1,
+          "nzam-alswq-almalyh": 1,
+          "nzam-aliflas": 1,
+          "nzam-alsjn-waltwqyf": 1,
+          "cma-corporate-governance-regulations": 1,
+          "nzam-amn-alhdwd": 1,
+          "nzam-altkalyf-alqdayyh": 1,
+          "labor-contract-documentation-rules": 1
+        }
+      }
+    }
+  ]
+}

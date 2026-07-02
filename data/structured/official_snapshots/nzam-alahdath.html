@@ -1,0 +1,999 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "081573c41f84e0004ab23ca8e6f877e81ac7b82e82c6cf398416f082425d3789ba4759cff63b805e4581a081a6c0aada8a33782b20e76c980d4451aecd3488c086ed401a1cf57409ae43e3d763249008e6631c0c8bb51103af279eed89edfee5f536c2a964061c12a3f9f3a3f7726728af63a089ea8a42bf19d643ce5bc610f53abc34294957b17fbe6cdb22522d04ef1b14f84915bb0d7651080cb6faa803a04546657fcc9ea8d048de30b264c3e89b84435bfd4850ff152ea8e1a8699f1b442078e4a4f496ac6bb81058137b13f91e2caca5f84101a959955a5882337cec30772825eaa8d1fd08";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام الأحداث
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام الأحداث</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">العمل والرعاية الاجتماعية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام الأحداث</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام الأحداث</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>364942</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="4ec27eee-f917-408c-85eb-a9f6011ea426">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p dir="RTL" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:22.0pt"><span style="font-family:&quot;Royal Arabic&quot;"><span style="color:black">نظام الأحداث</span></span></span></strong></span></span></p>
+                    </div>
+                    <br />
+                        <div dir="ltr">
+                            <h4>Law name</h4>
+                            <div dir="ltr" class="HTMLContainer">
+                                Juveniles Law
+                            </div>
+                        </div>
+                        <div dir="ltr">
+                            <h4>Law description</h4>
+
+
+                            <div dir="ltr" class="HTMLContainer">
+
+                                Juveniles Law
+                            </div>
+                        </div>
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام الأحداث</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1439/11/19 هـ  الموافق : 01/08/2018 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1440/02/22  هـ الموافق : 31/10/2018 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/cd3fe53a-f105-4fd2-a088-aa3800de7287?lawId=4ec27eee-f917-408c-85eb-a9f6011ea426">مرسوم ملكي رقم م/113 بتاريخ 1439/11/19 هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/68cb4b2f-eaac-49df-9e93-a9f6011ea42f?lawId=4ec27eee-f917-408c-85eb-a9f6011ea426">قرار مجلس الوزراء رقم (594) بتاريخ 1439/11/18 هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="4ec27eee-f917-408c-85eb-a9f6011ea426" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/874d5de7-3fbd-4e93-8a0b-a9f6011ea99f?lawId=4ec27eee-f917-408c-85eb-a9f6011ea426" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+                    <a href="/Files/Download/?attId=9f97e68f-4c39-48e5-9bb8-adbb010b0363" target="_blank">
+                        <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                        <span>Translated document</span>
+                    </a>
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="4ec27eee-f917-408c-85eb-a9f6011ea426">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="4ec27eee-f917-408c-85eb-a9f6011ea426" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام الأحداث</h3>
+        <h3 class="center">1439 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم م/113 بتاريخ 1439/11/19 هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون&nbsp;الله تعالى<br />
+نحن سلمان بن عبدالعزيز آل سعود<br />
+ملك المملكة العربية السعودية</strong></p>
+
+<p>بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ/90) بتاريخ 1412/8/27هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ/13) بتاريخ 1414/3/3هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ/91) بتاريخ 1412/8/27هـ.<br />
+وبعد الاطلاع على قراري مجلس الشورى رقم (195/63) بتاريخ 1438/2/9هـ، ورقم (119/26) بتاريخ 1439/7/4هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (594) بتاريخ 1439/11/18هـ.</p>
+
+<p><strong>رسمنا بما هو آت:</strong></p>
+
+<p>أولاً: الموافقة على نظام الاحداث، بالصيغة المرافقة.<br />
+ثانيا: على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة - كل فيما يخصه - تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود&nbsp;</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (594) بتاريخ 1439/11/18 هـ</h4>
+            <p><p>قرار مجلس الوزراء<br />
+إن مجلس الوزراء<br />
+بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم (37716)&nbsp;<br />
+وتاريخ 29 / 7 / 1439 هـ، المشتملة على خطاب وزارة العمل والتنمية الاجتماعية&nbsp;<br />
+رقم (68167) وتاريخ 26 / 7 / 1433 هـ، في شأن مشروع نظام الأحداث.&nbsp;<br />
+وبعد الاطلاع على مشروع النظام المشار إليه.<br />
+وبعد الاطلاع على المحاضر: رقم (496) وتاريخ 16 / 9 / 1433 هـ، ورقم (591) وتاريخ 20 / 9 / 1435 هـ، ورقم (334) وتاريخ 27 / 6 / 1436 هـ، ورقم (601)&nbsp;<br />
+وتاريخ 21 / 9 / 1436 هـ، ورقم (1399) وتاريخ 29 / 11 / 1438 هـ، ورقم (134)&nbsp;<br />
+وتاريخ 3 / 2/ 1439 هـ، ورقم ( 1497 ) وتاريخ&nbsp;11 / 11 / 1439هـ، والمذكرة رقم (703) وتاريخ 4 / 11 / 1436 هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+وبعد النظر في قراري مجلس الشورى رقم (159/63) وتاريخ 9 / 2/ 1438 هـ،&nbsp;<br />
+ورقم (119/26) وتاريخ 4 / 7 / 1439 هـ،&nbsp;<br />
+وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم ( 5440 ) وتاريخ&nbsp;17 / 11 /1439هـ.&nbsp;</p>
+
+<p style="text-align:center"><strong>يـقـرر&nbsp;</strong></p>
+
+<p>الموافقة على نظام الأحداث، بالصيغة المرافقة.<br />
+وقد أعد مشروع مرسوم ملكي بذلك, صيغته مرافقة لهذا.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p style="text-align:left"><strong>&nbsp;&nbsp;رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام الأحداث</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p>يقصد بالكلمات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:<br />
+1ـ النظام: نظام الأحداث.<br />
+2 ـ اللائحة: اللائحة التنفيذية للنظام.&nbsp;<br />
+3- النيابة: النيابة العامة.<br />
+4- الوزارة: وزارة العمل والتنمية الاجتماعية.<br />
+5- الحدث: كل ذكر أو أنثى أتم (السابعة) ولم يتم (الثامنة عشرة) من عمره.<br />
+6- المحكمة: المحكمة -أو الدائرة- المختصة بالنظر في قضايا الأحداث.<br />
+7- الدار: جهة تابعة للوزارة، تخصص فيها أماكن مستقلة لإيداع الأحداث من (الذكور), وأخرى خاصة بالإناث, وأماكن توقيف مستقلة للأحداث الموقوفين من (الذكور), وأخرى خاصة بالإناث الموقوفات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p>لا يساءل جزائيًّا من لم يتم (السابعة) من عمره، وقت ارتكاب الفعل المعاقب عليه.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p>لأغراض تطبيق النظام, يكون احتساب السن بالتقويم الهجري استناداً إلى ما هو مدون في أي وثيقة رسمية، وللمحكمة عند نظر القضية إحالة الحدث إلى الجهة الطبية المختصة لتقدير سنّه.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>تكون في مكان مناسب إجراءات ضبط بلاغات الأحداث المدعين،&nbsp;وسماع الشهود من الأحداث, وما يتبعها من إجراءات تتطلب حضور الحدث -لأول مرة- (بوجود ولي أمره أو من يقوم مقامه). وتحدد اللائحة ما يلزم حيال ذلك بما يكفل عدم الحاجة إلى حضوره مستقبلاً لأي إجراء، ما لم تقتضِ الضرورة خلاف ذلك،&nbsp;وفقاً لما يقدره المحقق أو القاضي.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <p>يراعى عند القبض على الحدث في حالات التلبس إبلاغ ولي أمره فوراً أو من يقوم مقامه.<br />
+أما في غير حالات التلبس فيراعى حال الحدث، وأن يكون القبض عليه بحضور ولي أمره أو من يقوم مقامه أو مندوب من الدار أو بما يمنع الخلوة أو الانفراد به، ويحاط الحدث وولي أمره أو من يقوم مقامه بالتهمة المنسوبة إليه، وتحدد اللائحة إجراءات القبض.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <p>في جميع الأحوال لا يكون إجراء تبليغ الحدث صحيحاً إلاَّ إذا بُلّغ ولي أمره أو من يقوم مقامه.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز إيقاف الحدث لغرض التحقيق؛ ما لم ترَ النيابة أن المصلحة تقتضي إيقافه، وفي جميع الأحوال لا يوقف الحدث إلا في الدار، ويكون أمر الإيقاف مسبباً.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p>1- إذا لم تكن هناك دار في المحافظة أو المركز الذي يقيم فيه الحدث المراد إيداعه أو إيقافه, فيرحل فوراً إلى أقرب دار لمكان إقامته.<br />
+2- يرحّل الحدث الذكر بصحبة ولي أمره أو من يقوم مقامه، وإن تعذر ذلك فيرحل بصحبة مندوب من الوزارة إن أمكن أو بما يمنع الانفراد به، وإن كان الحدث أنثى فترحل بصحبة ولي أمرها أو من يقوم مقامه، وإن تعذر ذلك فترحل بصحبة محرمٍ لها أو سجانة أو أكثر إن أمكن أو بما يمنع الخلوة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <p>ينتهي توقيف الحدث بمضي خمسة أيام، إلاَّ إذا رأى المحقق تمديد مدة التوقيف، فيجب -قبل انقضائها- أن يقوم بعرض الأوراق على رئيس فرع النيابة، أو من ينيبه من رؤساء الدوائر الداخلة في نطاق اختصاصه، ليصدر أمراً بالإفراج عن الحدث أو بتمديد التوقيف مدة أو مدداً متعاقبة، على ألاّ تزيد في مجموعها على خمسة عشر يوماً من تاريخ القبض عليه.<br />
+وفي الحالات التي تتطلب التوقيف مدة أطول، يرفع الأمر إلى النائب العام أو من يفوضه من نوابه؛ ليصدر أمره بالتمديد مدة أو مدداً متعاقبة لا تزيد أي منها على عشرة أيام، ولا يزيد مجموعها على ستين يوماً من تاريخ القبض على الحدث، ويتعين بعدها مباشرة إحالته إلى المحكمة المختصة أو الإفراج عنه.<br />
+وفي الحالات التي تتطلب التوقيف مدة أطول، للمحكمة الموافقة على طلب تمديد التوقيف مدة أو مدداً متعاقبة بحسب ما تراه، وأن تصدر أمراً قضائيًّا مسبباً في ذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يسمع رئيس جهة الضبط أو من ينيبه أقوال الحدث -في الأماكن التي ليس فيها دار- بحضور ولي أمره أو من يقوم مقامه، أو مندوبٍ من الوزارة أو بما يمنع الخلوة أو الانفراد به، وتحال الأوراق إلى النيابة، ويسلم الحدث لولي أمره أو من يقوم مقامه بعد أخذ التعهد عليه بإحضاره عند الطلب، ما لم ترَ النيابة خلاف ذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>لا تحقق النيابة مع الحدث إلاَّ بحضور ولي أمره أو من يقوم مقامه أو باحث أو أخصائي اجتماعي أو بحضور محامٍ له, ويكون التحقيق داخل الدار. وإن اقتضت مصلحة التحقيق غير ذلك فيكون التحقيق في مكان آخر يتناسب مع عمر الحدث، وتحدد اللائحة الإجراءات والضوابط اللازمة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تُعِد الدار -فور إيداع الحدث لديها- تقريرًا اجتماعيًّا عن حالته، وتقدمه إلى المحكمة مع ملف القضية، وكلما طلبت المحكمة ذلك.<br />
+وفي جميع الأحوال يجب أن تُقدِّم الدار إلى المحكمة - بصفة مستمرة- تقريرًا اجتماعيًّا عن حالة الحدث، وتحدد اللائحة المدد اللازمة لذلك.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>مع عدم الإخلال بحق أطراف الدعوى في الاعتراض، يكتفى في قضايا الأحداث بقرار اتهام دون حاجة إلى لائحة دعوى، ويستثنى من ذلك القضايا التي يستوجب النظر فيها ثلاثة قضاة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تجرى محاكمة الحدث أمام المحكمة بحضوره وولي أمره أو من يقوم مقامه، فإن تعذر ذلك فمندوب من الدار، وذلك دون الإخلال بحق الحدث في الاستعانة بمحامٍ وفق الأحكام المقررة نظاماً.<br />
+وللمحكمة -بناء على طلب مَنْ له مصلحة- أن تسمح بعدم حضور الحدث أو ولي أمره أو من يقوم مقامه للمحاكمة، ويكتفى بحضور من يمثله وتعد المحاكمة حضورية في حقه.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>1- إذا لم يكن الحدث متمًّا (الخامسة عشرة) من عمره وقت ارتكابه فعلاً أو أفعالاً معاقباً عليها، فلا يفرض عليه سوى تدبيرٍ أو أكثر من التدابير الآتية:<br />
+أ) توبيخه وتحذيره.<br />
+ب) تسليمه لمن يعيش معه من الأبوين أو لمن له الولاية.<br />
+ج) منعه من ارتياد أماكن معينة لمدة لا تتجاوز ثلاث سنوات.<br />
+د) منعه من مزاولة عمل معين.<br />
+هـ) وضعه تحت المراقبة الاجتماعية في بيئته الطبيعية لمدة لا تتجاوز سنتين.<br />
+و) إلزامه بواجبات معينة لمدة لا تتجاوز ثلاث سنوات.<br />
+ز) الإيداع في مؤسسة اجتماعية أو علاجية لمدة لا تتجاوز سنة، بشرط أن يكون متمًّا (الثانية عشرة) من عمره وقت ارتكابه الفعل المعاقب عليه.<br />
+2- إذا كان الحدث متمًّا (الخامسة عشرة) من عمره وقت ارتكابه فعلاً أو أفعالاً معاقباً عليها فتطبق عليه العقوبات المقررة عدا عقوبة السجن؛ فيعاقب بالإيداع في الدار مدة لا تتجاوز نصف الحد الأقصى للعقوبة الأعلى المقررة لذلك الفعل ودون التقيد بالحد الأدنى لتلك العقوبة. وأما إذا كانت الجريمة مما يعاقب عليه بالقتل، فيعاقب بالإيداع في الدار مدة لا تتجاوز عشر سنوات.<br />
+3- للمحكمة أن تحكم على الحدث الذي ارتكب فعلاً أو أفعالاً معاقباً عليها وهو متم (الخامسة عشرة) من عمره بتدبيرٍ أو أكثر من التدابير المنصوص عليها في الفقرة (1) من هذه المادة، إذا رأت من أخلاقه أو ماضيه أو ظروفه الشخصية أو الظروف التي ارتكب فيها الفعل أو الأفعال المعاقب عليها أنه لن يعود إليها.<br />
+4ـ تكلف المحكمة من تراه من الجهات التنفيذية لمتابعة تنفيذ التدبير أو التدابير المحكوم بها على الحدث.<br />
+5ـ يجوز للمحكمة في أي وقت فرضُ تدبيرٍ -أو أكثر- أو إنهاؤه، أو إبدال آخر به.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>لا تخل الأحكام الواردة في النظام بالأحكام المقررة شرعاً فيما يتعلق بجرائم الحدود والقصاص.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>إذا أتم الحدث (الثامنة عشرة) من عمره قبل انتهاء مدة الإيداع المحكوم بها عليه، فينقل إلى السجن لإتمام المدة الباقية، إلاَّ إذا رأت المحكمة من تلقاء نفسها -أو بناء على طلب من له مصلحة- غير ذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>إذا اشترك في الجريمة أحداث وغير أحداث تنظم النيابة ملفاً خاصاً بغير الأحداث يحال إلى المحكمة المختصة بنظرها، وملفاً خاصاً بالأحداث يحال إلى المحكمة، ما لم تكن غير مختصة نوعاً. وفي كل الأحوال يطبق في حق الحدث الإجراءات والأحكام المنصوص عليها في النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تسجل الأحكام الصادرة في حق الحدث في سجلٍّ خاص لدى الدار ولا تسجل عليه سابقة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العشرون</h3>
+                <div class="HTMLContainer">
+                    <p>1ـ يجوز للمحكمة -بقرار مسبب- من تلقاء نفسها أو بناءً على طلب الحدث أو ولي أمره أو من له مصلحة؛ الإفراجُ المشروط عن الحدث المحكوم عليه بالإيداع، وذلك بشرط أن يكون الحدث قد أمضى مدة لا تقل عن ربع المدة المحكوم بها عليه.<br />
+2ـ إذا أخلَّ الحدث بما اشتُرط عليه عند الإفراج عنه وفق ما ورد في الفقرة (1) من هذه المادة قبل انتهاء المدة المحكوم بها عليه، فيعاد إلى الدار؛ ليمضي المدة الباقية من الحكم.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>مع مراعاة حكم المادة (الخامسة عشرة) من النظام، تنًّفذ جميع الأحكام الصادرة في شأن الحدث داخل الدار وبحضور مندوب من المحكمة، ما لم ترَ المحكمة غير ذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>فيما لم يرد فيه نص في النظام، تطبق أحكام نظام الإجراءات الجزائية على الحدث، وذلك بالقدر الذي لا يتعارض مع وضعه بوصفه حدثاً.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر مجلس الوزراء اللائحة -بعد أن تعدّها وزارة العدل ووزارة الداخلية ووزارة العمل والتنمية الاجتماعية والمجلس الأعلى للقضاء والنيابة العامة- في مدة لا تتجاوز تسعين يوماً من تاريخ صدور النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة والعشرون</h3>
+                <div class="HTMLContainer">
+                    <p>يعمل بالنظام بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية، ويُلغي كل ما يتعارض معه من إجراءات وأحكام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="4ec27eee-f917-408c-85eb-a9f6011ea426" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="190f78b5-c6d5-4c8b-873e-a9f6011f94f3">المادة الأولى </option>
+<option value="aa78209a-69c2-4712-a85d-a9f6011fd7f5">المادة الثانية </option>
+<option value="2508b3ff-39b9-47b3-ac77-a9f6012005c7">المادة الثالثة </option>
+<option value="f245df30-fafb-4023-a43b-a9f601205deb">المادة الرابعة </option>
+<option value="bda6aaa6-176f-4f4c-ad38-a9f60120999a">المادة الخامسة </option>
+<option value="93c9ce6f-3b69-4e48-9ea8-a9f60120bd32">المادة السادسة </option>
+<option value="404d35e1-a8b4-4edf-9065-a9f60120f0c8">المادة السابعة </option>
+<option value="3f6c63be-47eb-4dbd-9dfe-a9f6012126fc">المادة الثامنة </option>
+<option value="a3bbcd8e-757a-4892-b1a5-a9f601217c48">المادة التاسعة </option>
+<option value="e0a6abfd-8481-42ea-8de8-a9f60121c691">المادة العاشرة </option>
+<option value="71e7a3d9-fdef-4e9e-830e-a9f60121f24e">المادة الحادية عشرة </option>
+<option value="8466200d-15b4-4877-b9e6-a9f60122247f">المادة الثانية عشرة </option>
+<option value="1daad9ff-31bc-4f9d-b4b4-a9f601224a2d">المادة الثالثة عشرة </option>
+<option value="79f4d1a7-21d9-46e7-ac84-a9f6012299dc">المادة الرابعة عشرة </option>
+<option value="d4f542e3-024f-475c-ba57-a9f60122ea32">المادة الخامسة عشرة </option>
+<option value="63b5fb0b-32e9-4fbe-89d5-a9f6012310c6">المادة السادسة عشرة </option>
+<option value="b604f204-6df6-45fd-83ec-a9f6012339d6">المادة السابعة عشرة </option>
+<option value="4f56737a-ba2f-40a8-b032-a9f601239527">المادة الثامنة عشرة </option>
+<option value="6140ea6e-0c97-440f-8670-a9f60123be9f">المادة التاسعة عشرة </option>
+<option value="8cc8b20b-a21e-4d29-a4bc-a9f60123f5ce">المادة العشرون </option>
+<option value="17f614c9-27ba-4401-8fed-a9f601246e1f">المادة الحادية والعشرون </option>
+<option value="78a1e2e8-34be-4ea7-aedd-a9f601249d12">المادة الثانية والعشرون </option>
+<option value="091a1eec-e4f6-4864-a9e9-a9f60124c288">المادة الثالثة والعشرون </option>
+<option value="85e24b42-552a-4b9d-9844-a9f60124f03b">المادة الرابعة والعشرون </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha8WXY' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha8WXY' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha8WXY = new CaptchaWidget('divCaptchaContainer_captcha8WXY', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha8WXY.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription4ec27eee-f917-408c-85eb-a9f6011ea426" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="4ec27eee-f917-408c-85eb-a9f6011ea426" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha08O6' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha08O6' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-4ec27eee-f917-408c-85eb-a9f6011ea426">
+                    <input type="checkbox" id="agreement-4ec27eee-f917-408c-85eb-a9f6011ea426" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='4ec27eee-f917-408c-85eb-a9f6011ea426' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-4ec27eee-f917-408c-85eb-a9f6011ea426"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-4ec27eee-f917-408c-85eb-a9f6011ea426"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha8WXY = new CaptchaWidget('divCaptchaContainer_captcha8WXY', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha8WXY.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha08O6 = new CaptchaWidget('divCaptchaContainer_captcha08O6', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha08O6.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="4ec27eee-f917-408c-85eb-a9f6011ea426">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha8WXY = new CaptchaWidget('divCaptchaContainer_captcha8WXY', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha8WXY.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha08O6 = new CaptchaWidget('divCaptchaContainer_captcha08O6', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha08O6.load(); 
+                    }); </script>
+</body>
+
+</html>

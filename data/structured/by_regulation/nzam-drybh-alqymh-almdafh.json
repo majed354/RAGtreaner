@@ -1,0 +1,2404 @@
+{
+  "metadata": {
+    "slug": "nzam-drybh-alqymh-almdafh",
+    "title_ar": "نظام ضريبة القيمة المضافة",
+    "status": "ساري",
+    "issue_date_hijri": "1438/11/02 هـ الموافق : 25/07/2017 مـ",
+    "issue_date_gregorian": "2017-07-25",
+    "publish_date_hijri": "1440/03/21 هـ الموافق : 29/11/2018 مـ",
+    "publish_date_gregorian": "2018-11-29",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f98f4238-0289-4891-8a22-a9a700f1f538/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-drybh-alqymh-almdafh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-drybh-alqymh-almdafh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1440/03/21 هـ الموافق : 29/11/2018 مـ",
+    "effective_date_gregorian": "2018-11-29",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 53,
+    "paragraph_count": 68,
+    "indexable_paragraph_count": 68,
+    "text_chars": 15146,
+    "verbatim_chars": 15154,
+    "citation_base_ar": "نظام ضريبة القيمة المضافة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f98f4238-0289-4891-8a22-a9a700f1f538/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-drybh-alqymh-almdafh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-drybh-alqymh-almdafh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الفصل الأول: أحكام تمهيدية",
+      "article_label_raw": "الفصل الأول: أحكام تمهيدية",
+      "article_heading": "الفصل الأول: أحكام تمهيدية",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "guardianship",
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية",
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الأول: أحكام تمهيدية",
+      "text_verbatim": "1- يُقصد بالألفاظ والعبارات الآتية - أينما وردت في النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\nالهيئة:  الهيئة العامة للزكاة والدخل.\n\nالنظام:  نظام ضريبة القيمة المضافة.\n\nالاتفاقية:  الاتفاقية الموحدة لضريبة القيمة المضافة لدول مجلس التعاون لدول الخليج العربية.\n\nالمملكة:  إقليم المملكة العربية السعودية، ويشمل ذلك المناطق الواقعة خارج المياه الإقليمية التي تمارس المملكة العربية السعودية على مياهها وقاع بحرها والطبقات الواقعة تحت التربة والموارد الطبيعية حقوق السيادة والولاية بمقتضى نظامها والقانون الدولي.\n\nاللائحة:  أي لائحة تنفيذية للنظام.\n\nمجلس الإدارة:  مجلس إدارة الهيئة.\n\nضريبة المخرجات:  الضريبة المستحقة والمفروضة على أي توريد خاضع للضريبة لسلع أو خدمات، يقوم به شخص خاضع للضريبة.\n\nالفاتورة الضريبية:  فاتورة يتم إصدارها في شأن توريدات خاضعة للضريبة، وفقاً للمتطلبات المنصوص عليها في النظام واللائحة.",
+      "text_for_index": "1- يُقصد بالألفاظ والعبارات الآتية - أينما وردت في النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\nالهيئة: الهيئة العامة للزكاة والدخل.\n\nالنظام: نظام ضريبة القيمة المضافة.\n\nالاتفاقية: الاتفاقية الموحدة لضريبة القيمة المضافة لدول مجلس التعاون لدول الخليج العربية.\n\nالمملكة: إقليم المملكة العربية السعودية، ويشمل ذلك المناطق الواقعة خارج المياه الإقليمية التي تمارس المملكة العربية السعودية على مياهها وقاع بحرها والطبقات الواقعة تحت التربة والموارد الطبيعية حقوق السيادة والولاية بمقتضى نظامها والقانون الدولي.\n\nاللائحة: أي لائحة تنفيذية للنظام.\n\nمجلس الإدارة: مجلس إدارة الهيئة.\n\nضريبة المخرجات: الضريبة المستحقة والمفروضة على أي توريد خاضع للضريبة لسلع أو خدمات، يقوم به شخص خاضع للضريبة.\n\nالفاتورة الضريبية: فاتورة يتم إصدارها في شأن توريدات خاضعة للضريبة، وفقاً للمتطلبات المنصوص عليها في النظام واللائحة.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "استثناء"
+          ],
+          "text_verbatim": "1- يُقصد بالألفاظ والعبارات الآتية - أينما وردت في النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\nالهيئة:  الهيئة العامة للزكاة والدخل.",
+          "text_for_index": "1- يُقصد بالألفاظ والعبارات الآتية - أينما وردت في النظام - المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\nالهيئة: الهيئة العامة للزكاة والدخل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "النظام:  نظام ضريبة القيمة المضافة.",
+          "text_for_index": "النظام: نظام ضريبة القيمة المضافة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الاتفاقية:  الاتفاقية الموحدة لضريبة القيمة المضافة لدول مجلس التعاون لدول الخليج العربية.",
+          "text_for_index": "الاتفاقية: الاتفاقية الموحدة لضريبة القيمة المضافة لدول مجلس التعاون لدول الخليج العربية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "المملكة:  إقليم المملكة العربية السعودية، ويشمل ذلك المناطق الواقعة خارج المياه الإقليمية التي تمارس المملكة العربية السعودية على مياهها وقاع بحرها والطبقات الواقعة تحت التربة والموارد الطبيعية حقوق السيادة والولاية بمقتضى نظامها والقانون الدولي.",
+          "text_for_index": "المملكة: إقليم المملكة العربية السعودية، ويشمل ذلك المناطق الواقعة خارج المياه الإقليمية التي تمارس المملكة العربية السعودية على مياهها وقاع بحرها والطبقات الواقعة تحت التربة والموارد الطبيعية حقوق السيادة والولاية بمقتضى نظامها والقانون الدولي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة:  أي لائحة تنفيذية للنظام.",
+          "text_for_index": "اللائحة: أي لائحة تنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "مجلس الإدارة:  مجلس إدارة الهيئة.",
+          "text_for_index": "مجلس الإدارة: مجلس إدارة الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ضريبة المخرجات:  الضريبة المستحقة والمفروضة على أي توريد خاضع للضريبة لسلع أو خدمات، يقوم به شخص خاضع للضريبة.",
+          "text_for_index": "ضريبة المخرجات: الضريبة المستحقة والمفروضة على أي توريد خاضع للضريبة لسلع أو خدمات، يقوم به شخص خاضع للضريبة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الفاتورة الضريبية:  فاتورة يتم إصدارها في شأن توريدات خاضعة للضريبة، وفقاً للمتطلبات المنصوص عليها في النظام واللائحة.",
+          "text_for_index": "الفاتورة الضريبية: فاتورة يتم إصدارها في شأن توريدات خاضعة للضريبة، وفقاً للمتطلبات المنصوص عليها في النظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثانية",
+      "text_verbatim": "تفرض الضريبة على استيراد وتوريد السلع والخدمات، وفقاً للأحكام المنصوص عليها في الاتفاقية والنظام واللائحة.",
+      "text_for_index": "تفرض الضريبة على استيراد وتوريد السلع والخدمات، وفقاً للأحكام المنصوص عليها في الاتفاقية والنظام واللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تفرض الضريبة على استيراد وتوريد السلع والخدمات، وفقاً للأحكام المنصوص عليها في الاتفاقية والنظام واللائحة.",
+          "text_for_index": "تفرض الضريبة على استيراد وتوريد السلع والخدمات، وفقاً للأحكام المنصوص عليها في الاتفاقية والنظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الفصل الثاني: التسجيل لأغراض الضريبة",
+      "article_label_raw": "الفصل الثاني: التسجيل لأغراض الضريبة",
+      "article_heading": "الفصل الثاني: التسجيل لأغراض الضريبة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الثاني: التسجيل لأغراض الضريبة",
+      "text_verbatim": "1- يكون الخاضع للضريبة ملزماً بالتسجيل تبعاً لأنشطته الاقتصادية التي يمارسها في المملكة، وذلك بما يتوافق مع الأحكام المنصوص عليها في الاتفاقية.\n2 - للشخص الذي يمارس نشاطاً اقتصادياً وهو غير ملزم بالتسجيل وفقاً للأحكام المنصوص عليها في الاتفاقية؛ التسجيل بشكل اختياري، شريطة أن يستوفي الشروط والضوابط المنصوص عليها في اللائحة.\n3 - تصدر الهيئة شهادة تسجيل لكل شخص مسجل، وتحدد اللائحة البيانات الواجب تضمينها في الشهادة.\n4 - تنشئ الهيئة سجلاً يحتوي على البيانات ذات الصلة بكل شخص مسجل.\n\n5 - تحدد اللائحة ما يأتي:\n\nأ - الشروط والضوابط والإجراءات اللازمة للتسجيل، والمهل المحددة له، وحالات رفض طلب التسجيل، وآليات إبلاغ المسجل بالقرارات الصادرة عن الهيئة في هذا الشأن.\nب - الشروط والضوابط اللازمة لاستثناء الخاضع للضريبة، الذي يقوم فقط بتوريدات خاضعة للضريبة بنسبة الصفر بالمائة، من وجوب التسجيل.",
+      "text_for_index": "1- يكون الخاضع للضريبة ملزماً بالتسجيل تبعاً لأنشطته الاقتصادية التي يمارسها في المملكة، وذلك بما يتوافق مع الأحكام المنصوص عليها في الاتفاقية.\n2 - للشخص الذي يمارس نشاطاً اقتصادياً وهو غير ملزم بالتسجيل وفقاً للأحكام المنصوص عليها في الاتفاقية؛ التسجيل بشكل اختياري، شريطة أن يستوفي الشروط والضوابط المنصوص عليها في اللائحة.\n3 - تصدر الهيئة شهادة تسجيل لكل شخص مسجل، وتحدد اللائحة البيانات الواجب تضمينها في الشهادة.\n4 - تنشئ الهيئة سجلاً يحتوي على البيانات ذات الصلة بكل شخص مسجل.\n\n5 - تحدد اللائحة ما يأتي:\n\nأ - الشروط والضوابط والإجراءات اللازمة للتسجيل، والمهل المحددة له، وحالات رفض طلب التسجيل، وآليات إبلاغ المسجل بالقرارات الصادرة عن الهيئة في هذا الشأن.\nب - الشروط والضوابط اللازمة لاستثناء الخاضع للضريبة، الذي يقوم فقط بتوريدات خاضعة للضريبة بنسبة الصفر بالمائة، من وجوب التسجيل.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "1- يكون الخاضع للضريبة ملزماً بالتسجيل تبعاً لأنشطته الاقتصادية التي يمارسها في المملكة، وذلك بما يتوافق مع الأحكام المنصوص عليها في الاتفاقية.\n2 - للشخص الذي يمارس نشاطاً اقتصادياً وهو غير ملزم بالتسجيل وفقاً للأحكام المنصوص عليها في الاتفاقية؛ التسجيل بشكل اختياري، شريطة أن يستوفي الشروط والضوابط المنصوص عليها في اللائحة.\n3 - تصدر الهيئة شهادة تسجيل لكل شخص مسجل، وتحدد اللائحة البيانات الواجب تضمينها في الشهادة.\n4 - تنشئ الهيئة سجلاً يحتوي على البيانات ذات الصلة بكل شخص مسجل.",
+          "text_for_index": "1- يكون الخاضع للضريبة ملزماً بالتسجيل تبعاً لأنشطته الاقتصادية التي يمارسها في المملكة، وذلك بما يتوافق مع الأحكام المنصوص عليها في الاتفاقية.\n2 - للشخص الذي يمارس نشاطاً اقتصادياً وهو غير ملزم بالتسجيل وفقاً للأحكام المنصوص عليها في الاتفاقية؛ التسجيل بشكل اختياري، شريطة أن يستوفي الشروط والضوابط المنصوص عليها في اللائحة.\n3 - تصدر الهيئة شهادة تسجيل لكل شخص مسجل، وتحدد اللائحة البيانات الواجب تضمينها في الشهادة.\n4 - تنشئ الهيئة سجلاً يحتوي على البيانات ذات الصلة بكل شخص مسجل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "5 - تحدد اللائحة ما يأتي:",
+          "text_for_index": "5 - تحدد اللائحة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "أ - الشروط والضوابط والإجراءات اللازمة للتسجيل، والمهل المحددة له، وحالات رفض طلب التسجيل، وآليات إبلاغ المسجل بالقرارات الصادرة عن الهيئة في هذا الشأن.\nب - الشروط والضوابط اللازمة لاستثناء الخاضع للضريبة، الذي يقوم فقط بتوريدات خاضعة للضريبة بنسبة الصفر بالمائة، من وجوب التسجيل.",
+          "text_for_index": "أ - الشروط والضوابط والإجراءات اللازمة للتسجيل، والمهل المحددة له، وحالات رفض طلب التسجيل، وآليات إبلاغ المسجل بالقرارات الصادرة عن الهيئة في هذا الشأن.\nب - الشروط والضوابط اللازمة لاستثناء الخاضع للضريبة، الذي يقوم فقط بتوريدات خاضعة للضريبة بنسبة الصفر بالمائة، من وجوب التسجيل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الرابعة",
+      "text_verbatim": "1- تحدد اللائحة الضوابط والشروط التي يمكن بموجبها تسجيل مجموعة ضريبية، أو تعديل تسجيلها، أو إلغائه.\n2 - يعامل أعضاء المجموعة الضريبية كشخص واحد خاضع للضريبة.\n3 - يكون جميع أعضاء المجموعة الضريبية مسؤولين - منفردين ومتضامنين - عن الالتزامات الضريبية الخاصة بتلك المجموعة، والناشئة خلال فترة عضويتهم فيها.",
+      "text_for_index": "1- تحدد اللائحة الضوابط والشروط التي يمكن بموجبها تسجيل مجموعة ضريبية، أو تعديل تسجيلها، أو إلغائه.\n2 - يعامل أعضاء المجموعة الضريبية كشخص واحد خاضع للضريبة.\n3 - يكون جميع أعضاء المجموعة الضريبية مسؤولين - منفردين ومتضامنين - عن الالتزامات الضريبية الخاصة بتلك المجموعة، والناشئة خلال فترة عضويتهم فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- تحدد اللائحة الضوابط والشروط التي يمكن بموجبها تسجيل مجموعة ضريبية، أو تعديل تسجيلها، أو إلغائه.\n2 - يعامل أعضاء المجموعة الضريبية كشخص واحد خاضع للضريبة.\n3 - يكون جميع أعضاء المجموعة الضريبية مسؤولين - منفردين ومتضامنين - عن الالتزامات الضريبية الخاصة بتلك المجموعة، والناشئة خلال فترة عضويتهم فيها.",
+          "text_for_index": "1- تحدد اللائحة الضوابط والشروط التي يمكن بموجبها تسجيل مجموعة ضريبية، أو تعديل تسجيلها، أو إلغائه.\n2 - يعامل أعضاء المجموعة الضريبية كشخص واحد خاضع للضريبة.\n3 - يكون جميع أعضاء المجموعة الضريبية مسؤولين - منفردين ومتضامنين - عن الالتزامات الضريبية الخاصة بتلك المجموعة، والناشئة خلال فترة عضويتهم فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الخامسة",
+      "text_verbatim": "1 - على الشخص الخاضع للضريبة التقدم بطلب إلغاء تسجيله في أي من الحالات الآتية:\n\nأ - الحالات المنصوص عليها في الاتفاقية.\nب - إذا كان الشخص مقيماً ولم يتجاوز مجموع رقم أعماله السنوي حد التسجيل الاختياري خلال المدة التي تحددها اللائحة.\nج - إذا كان الشخص غير مقيم ولم يقم بأي توريد خاضع للضريبة خلال المدة التي تحددها اللائحة.",
+      "text_for_index": "1 - على الشخص الخاضع للضريبة التقدم بطلب إلغاء تسجيله في أي من الحالات الآتية:\n\nأ - الحالات المنصوص عليها في الاتفاقية.\nب - إذا كان الشخص مقيماً ولم يتجاوز مجموع رقم أعماله السنوي حد التسجيل الاختياري خلال المدة التي تحددها اللائحة.\nج - إذا كان الشخص غير مقيم ولم يقم بأي توريد خاضع للضريبة خلال المدة التي تحددها اللائحة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - على الشخص الخاضع للضريبة التقدم بطلب إلغاء تسجيله في أي من الحالات الآتية:",
+          "text_for_index": "1 - على الشخص الخاضع للضريبة التقدم بطلب إلغاء تسجيله في أي من الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ - الحالات المنصوص عليها في الاتفاقية.\nب - إذا كان الشخص مقيماً ولم يتجاوز مجموع رقم أعماله السنوي حد التسجيل الاختياري خلال المدة التي تحددها اللائحة.\nج - إذا كان الشخص غير مقيم ولم يقم بأي توريد خاضع للضريبة خلال المدة التي تحددها اللائحة.",
+          "text_for_index": "أ - الحالات المنصوص عليها في الاتفاقية.\nب - إذا كان الشخص مقيماً ولم يتجاوز مجموع رقم أعماله السنوي حد التسجيل الاختياري خلال المدة التي تحددها اللائحة.\nج - إذا كان الشخص غير مقيم ولم يقم بأي توريد خاضع للضريبة خلال المدة التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "الفصل الثالث: توريدات السلع والخدمات",
+      "article_label_raw": "الفصل الثالث: توريدات السلع والخدمات",
+      "article_heading": "الفصل الثالث: توريدات السلع والخدمات",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الثالث: توريدات السلع والخدمات",
+      "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لتطبيق الأحكام ذات الصلة بالتوريد المفترض التي تنص عليها الاتفاقية.",
+      "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لتطبيق الأحكام ذات الصلة بالتوريد المفترض التي تنص عليها الاتفاقية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لتطبيق الأحكام ذات الصلة بالتوريد المفترض التي تنص عليها الاتفاقية.",
+          "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لتطبيق الأحكام ذات الصلة بالتوريد المفترض التي تنص عليها الاتفاقية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة السابعة",
+      "text_verbatim": "تحدد اللائحة الشروط والضوابط المتعلقة بنقل الخاضع للضريبة سلعاً تشكل جزءاً من أصوله من المملكة إلى أي دولة عضو أو العكس.",
+      "text_for_index": "تحدد اللائحة الشروط والضوابط المتعلقة بنقل الخاضع للضريبة سلعاً تشكل جزءاً من أصوله من المملكة إلى أي دولة عضو أو العكس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الشروط والضوابط المتعلقة بنقل الخاضع للضريبة سلعاً تشكل جزءاً من أصوله من المملكة إلى أي دولة عضو أو العكس.",
+          "text_for_index": "تحدد اللائحة الشروط والضوابط المتعلقة بنقل الخاضع للضريبة سلعاً تشكل جزءاً من أصوله من المملكة إلى أي دولة عضو أو العكس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثامنة",
+      "text_verbatim": "تحدد اللائحة المعاملات التي يكون فيها توريد السلع والخدمات خارج نطاق الضريبة.",
+      "text_for_index": "تحدد اللائحة المعاملات التي يكون فيها توريد السلع والخدمات خارج نطاق الضريبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحدد اللائحة المعاملات التي يكون فيها توريد السلع والخدمات خارج نطاق الضريبة.",
+          "text_for_index": "تحدد اللائحة المعاملات التي يكون فيها توريد السلع والخدمات خارج نطاق الضريبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة التاسعة",
+      "text_verbatim": "في حال قيام الخاضع للضريبة ـ باسمه الخاص ـ بتوريد أو تلقي سلع أو خدمات نيابةً عن شخص آخر، فإنه يعامل - لأغراض تطبيق النظام واللائحة - باعتباره قد قام بتوريد أو تلقي تلك السلع أو الخدمات لنفسه.",
+      "text_for_index": "في حال قيام الخاضع للضريبة ـ باسمه الخاص ـ بتوريد أو تلقي سلع أو خدمات نيابةً عن شخص آخر، فإنه يعامل - لأغراض تطبيق النظام واللائحة - باعتباره قد قام بتوريد أو تلقي تلك السلع أو الخدمات لنفسه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "في حال قيام الخاضع للضريبة ـ باسمه الخاص ـ بتوريد أو تلقي سلع أو خدمات نيابةً عن شخص آخر، فإنه يعامل - لأغراض تطبيق النظام واللائحة - باعتباره قد قام بتوريد أو تلقي تلك السلع أو الخدمات لنفسه.",
+          "text_for_index": "في حال قيام الخاضع للضريبة ـ باسمه الخاص ـ بتوريد أو تلقي سلع أو خدمات نيابةً عن شخص آخر، فإنه يعامل - لأغراض تطبيق النظام واللائحة - باعتباره قد قام بتوريد أو تلقي تلك السلع أو الخدمات لنفسه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة العاشرة",
+      "text_verbatim": "تحدد اللائحة التوريدات المعفاة من الضريبة، والتوريدات الخاضعة للضريبة بنسبة الصفر في المائة، والشروط والضوابط اللازمة لذلك.",
+      "text_for_index": "تحدد اللائحة التوريدات المعفاة من الضريبة، والتوريدات الخاضعة للضريبة بنسبة الصفر في المائة، والشروط والضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة التوريدات المعفاة من الضريبة، والتوريدات الخاضعة للضريبة بنسبة الصفر في المائة، والشروط والضوابط اللازمة لذلك.",
+          "text_for_index": "تحدد اللائحة التوريدات المعفاة من الضريبة، والتوريدات الخاضعة للضريبة بنسبة الصفر في المائة، والشروط والضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الحادية عشرة",
+      "text_verbatim": "تحدد اللائحة المعايير والفترة الزمنية اللازمة لحساب قيمة التوريدات السنوية المتوقع أن يحققها الخاضع للضريبة.",
+      "text_for_index": "تحدد اللائحة المعايير والفترة الزمنية اللازمة لحساب قيمة التوريدات السنوية المتوقع أن يحققها الخاضع للضريبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تحدد اللائحة المعايير والفترة الزمنية اللازمة لحساب قيمة التوريدات السنوية المتوقع أن يحققها الخاضع للضريبة.",
+          "text_for_index": "تحدد اللائحة المعايير والفترة الزمنية اللازمة لحساب قيمة التوريدات السنوية المتوقع أن يحققها الخاضع للضريبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثانية عشرة",
+      "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لتجميع رقم أعمال الأشخاص المرتبطين الذين يزاولون أنشطة متشابهة أو مترابطة، وتسجيل كل منهم أو تسجيلهم إلزامياً على أساس رقم الأعمال الإجمالي.",
+      "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لتجميع رقم أعمال الأشخاص المرتبطين الذين يزاولون أنشطة متشابهة أو مترابطة، وتسجيل كل منهم أو تسجيلهم إلزامياً على أساس رقم الأعمال الإجمالي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لتجميع رقم أعمال الأشخاص المرتبطين الذين يزاولون أنشطة متشابهة أو مترابطة، وتسجيل كل منهم أو تسجيلهم إلزامياً على أساس رقم الأعمال الإجمالي.",
+          "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لتجميع رقم أعمال الأشخاص المرتبطين الذين يزاولون أنشطة متشابهة أو مترابطة، وتسجيل كل منهم أو تسجيلهم إلزامياً على أساس رقم الأعمال الإجمالي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الفصل الرابع: مكان التوريد",
+      "article_label_raw": "الفصل الرابع: مكان التوريد",
+      "article_heading": "الفصل الرابع: مكان التوريد",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الرابع: مكان التوريد",
+      "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لتعيين مكان توريد السلع والخدمات، وفقاً لأحكام الاتفاقية.",
+      "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لتعيين مكان توريد السلع والخدمات، وفقاً لأحكام الاتفاقية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لتعيين مكان توريد السلع والخدمات، وفقاً لأحكام الاتفاقية.",
+          "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لتعيين مكان توريد السلع والخدمات، وفقاً لأحكام الاتفاقية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الرابعة عشرة",
+      "text_verbatim": "يجوز أن تحدد اللائحة الشروط والأحكام المتعلقة بتحديد محل إقامة الشخص.",
+      "text_for_index": "يجوز أن تحدد اللائحة الشروط والأحكام المتعلقة بتحديد محل إقامة الشخص.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يجوز أن تحدد اللائحة الشروط والأحكام المتعلقة بتحديد محل إقامة الشخص.",
+          "text_for_index": "يجوز أن تحدد اللائحة الشروط والأحكام المتعلقة بتحديد محل إقامة الشخص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الفصل الخامس: القيمة الخاضعة للضريبة",
+      "article_label_raw": "الفصل الخامس: القيمة الخاضعة للضريبة",
+      "article_heading": "الفصل الخامس: القيمة الخاضعة للضريبة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الخامس: القيمة الخاضعة للضريبة",
+      "text_verbatim": "1- تحدد قيمة السلع المستوردة وفقاً للأحكام المنصوص عليها في نظام (قانون) الجمارك الموحد.\n2- تحدد اللائحة الشروط التنافسية اللازمة لتحديد القيمة السوقية العادلة للسلع والخدمات، والشروط والضوابط اللازمة لتعديل قيمة التوريد بين أشخاص مرتبطين، وكذلك قيمة التوريد لحالات التوريد غير المنصوص عليها في الاتفاقية.",
+      "text_for_index": "1- تحدد قيمة السلع المستوردة وفقاً للأحكام المنصوص عليها في نظام (قانون) الجمارك الموحد.\n2- تحدد اللائحة الشروط التنافسية اللازمة لتحديد القيمة السوقية العادلة للسلع والخدمات، والشروط والضوابط اللازمة لتعديل قيمة التوريد بين أشخاص مرتبطين، وكذلك قيمة التوريد لحالات التوريد غير المنصوص عليها في الاتفاقية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "1- تحدد قيمة السلع المستوردة وفقاً للأحكام المنصوص عليها في نظام (قانون) الجمارك الموحد.\n2- تحدد اللائحة الشروط التنافسية اللازمة لتحديد القيمة السوقية العادلة للسلع والخدمات، والشروط والضوابط اللازمة لتعديل قيمة التوريد بين أشخاص مرتبطين، وكذلك قيمة التوريد لحالات التوريد غير المنصوص عليها في الاتفاقية.",
+          "text_for_index": "1- تحدد قيمة السلع المستوردة وفقاً للأحكام المنصوص عليها في نظام (قانون) الجمارك الموحد.\n2- تحدد اللائحة الشروط التنافسية اللازمة لتحديد القيمة السوقية العادلة للسلع والخدمات، والشروط والضوابط اللازمة لتعديل قيمة التوريد بين أشخاص مرتبطين، وكذلك قيمة التوريد لحالات التوريد غير المنصوص عليها في الاتفاقية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "الفصل السادس: الاستيراد",
+      "article_label_raw": "الفصل السادس: الاستيراد",
+      "article_heading": "الفصل السادس: الاستيراد",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل السادس: الاستيراد",
+      "text_verbatim": "1 - تستحق الضريبة عند الاستيراد إلى المملكة، وفقاً للأحكام المنصوص عليها في الاتفاقية.\n2 - في حالة تعليق الضريبة على استيراد السلع وفقاً لنظام (قانون) الجمارك الموحد، فيجب على المستورد تقديم تأمين يغطي قيمة الضريبة، وفقاً لما تحدده اللائحة.",
+      "text_for_index": "1 - تستحق الضريبة عند الاستيراد إلى المملكة، وفقاً للأحكام المنصوص عليها في الاتفاقية.\n2 - في حالة تعليق الضريبة على استيراد السلع وفقاً لنظام (قانون) الجمارك الموحد، فيجب على المستورد تقديم تأمين يغطي قيمة الضريبة، وفقاً لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "1 - تستحق الضريبة عند الاستيراد إلى المملكة، وفقاً للأحكام المنصوص عليها في الاتفاقية.\n2 - في حالة تعليق الضريبة على استيراد السلع وفقاً لنظام (قانون) الجمارك الموحد، فيجب على المستورد تقديم تأمين يغطي قيمة الضريبة، وفقاً لما تحدده اللائحة.",
+          "text_for_index": "1 - تستحق الضريبة عند الاستيراد إلى المملكة، وفقاً للأحكام المنصوص عليها في الاتفاقية.\n2 - في حالة تعليق الضريبة على استيراد السلع وفقاً لنظام (قانون) الجمارك الموحد، فيجب على المستورد تقديم تأمين يغطي قيمة الضريبة، وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة السابعة عشرة",
+      "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لإعفاء الأمتعة الشخصية والهدايا التي ترد بصحبة المسافرين، ومستلزمات ذوي الاحتياجات الخاصة، من الضريبة، وذلك بما يتوافق مع نظام (قانون) الجمارك الموحد.",
+      "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لإعفاء الأمتعة الشخصية والهدايا التي ترد بصحبة المسافرين، ومستلزمات ذوي الاحتياجات الخاصة، من الضريبة، وذلك بما يتوافق مع نظام (قانون) الجمارك الموحد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لإعفاء الأمتعة الشخصية والهدايا التي ترد بصحبة المسافرين، ومستلزمات ذوي الاحتياجات الخاصة، من الضريبة، وذلك بما يتوافق مع نظام (قانون) الجمارك الموحد.",
+          "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لإعفاء الأمتعة الشخصية والهدايا التي ترد بصحبة المسافرين، ومستلزمات ذوي الاحتياجات الخاصة، من الضريبة، وذلك بما يتوافق مع نظام (قانون) الجمارك الموحد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الفصل السابع: احتساب الضريبة",
+      "article_label_raw": "الفصل السابع: احتساب الضريبة",
+      "article_heading": "الفصل السابع: احتساب الضريبة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل السابع: احتساب الضريبة",
+      "text_verbatim": "تكون نسبة الضريبة المستحقة هي النسبة المطبقة في تاريخ التوريد، أو في تاريخ الاستيراد.",
+      "text_for_index": "تكون نسبة الضريبة المستحقة هي النسبة المطبقة في تاريخ التوريد، أو في تاريخ الاستيراد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكون نسبة الضريبة المستحقة هي النسبة المطبقة في تاريخ التوريد، أو في تاريخ الاستيراد.",
+          "text_for_index": "تكون نسبة الضريبة المستحقة هي النسبة المطبقة في تاريخ التوريد، أو في تاريخ الاستيراد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة التاسعة عشرة",
+      "text_verbatim": "تحدد اللائحة تاريخ استحقاق الضريبة بالنسبة إلى التوريدات غير المنصوص عليها في الاتفاقية.",
+      "text_for_index": "تحدد اللائحة تاريخ استحقاق الضريبة بالنسبة إلى التوريدات غير المنصوص عليها في الاتفاقية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحدد اللائحة تاريخ استحقاق الضريبة بالنسبة إلى التوريدات غير المنصوص عليها في الاتفاقية.",
+          "text_for_index": "تحدد اللائحة تاريخ استحقاق الضريبة بالنسبة إلى التوريدات غير المنصوص عليها في الاتفاقية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون:",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة العشرون",
+      "text_verbatim": "تحدد اللائحة مدد احتساب الضريبة وشروطه وضوابطه.",
+      "text_for_index": "تحدد اللائحة مدد احتساب الضريبة وشروطه وضوابطه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة مدد احتساب الضريبة وشروطه وضوابطه.",
+          "text_for_index": "تحدد اللائحة مدد احتساب الضريبة وشروطه وضوابطه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون:",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الحادية والعشرون",
+      "text_verbatim": "1 - في حال تم إصدار فاتورة أو سداد مقابل السلعة أو الخدمة قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وتم التوريد بعد هذا التاريخ، فإن تاريخ استحقاق الضريبة يكون بتاريخ التوريد.\n2 - يسري حكم الفقرة (1) من هذه المادة على التوريدات البينية التي تتم بين مورد خاضع للضريبة مقيم في المملكة وعميل في دولة عضو أخرى، أو العكس.\n3 - فيما يتعلق بالتوريدات المستمرة التي يتم تنفيذها جزئياً قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وجزئياً بعد هذا التاريخ، فإن الضريبة لا تستحق على الجزء الذي ينفذ قبل تاريخ النفاذ أو التسجيل.",
+      "text_for_index": "1 - في حال تم إصدار فاتورة أو سداد مقابل السلعة أو الخدمة قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وتم التوريد بعد هذا التاريخ، فإن تاريخ استحقاق الضريبة يكون بتاريخ التوريد.\n2 - يسري حكم الفقرة (1) من هذه المادة على التوريدات البينية التي تتم بين مورد خاضع للضريبة مقيم في المملكة وعميل في دولة عضو أخرى، أو العكس.\n3 - فيما يتعلق بالتوريدات المستمرة التي يتم تنفيذها جزئياً قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وجزئياً بعد هذا التاريخ، فإن الضريبة لا تستحق على الجزء الذي ينفذ قبل تاريخ النفاذ أو التسجيل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "1 - في حال تم إصدار فاتورة أو سداد مقابل السلعة أو الخدمة قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وتم التوريد بعد هذا التاريخ، فإن تاريخ استحقاق الضريبة يكون بتاريخ التوريد.\n2 - يسري حكم الفقرة (1) من هذه المادة على التوريدات البينية التي تتم بين مورد خاضع للضريبة مقيم في المملكة وعميل في دولة عضو أخرى، أو العكس.\n3 - فيما يتعلق بالتوريدات المستمرة التي يتم تنفيذها جزئياً قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وجزئياً بعد هذا التاريخ، فإن الضريبة لا تستحق على الجزء الذي ينفذ قبل تاريخ النفاذ أو التسجيل.",
+          "text_for_index": "1 - في حال تم إصدار فاتورة أو سداد مقابل السلعة أو الخدمة قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وتم التوريد بعد هذا التاريخ، فإن تاريخ استحقاق الضريبة يكون بتاريخ التوريد.\n2 - يسري حكم الفقرة (1) من هذه المادة على التوريدات البينية التي تتم بين مورد خاضع للضريبة مقيم في المملكة وعميل في دولة عضو أخرى، أو العكس.\n3 - فيما يتعلق بالتوريدات المستمرة التي يتم تنفيذها جزئياً قبل تاريخ نفاذ النظام أو قبل تاريخ التسجيل، وجزئياً بعد هذا التاريخ، فإن الضريبة لا تستحق على الجزء الذي ينفذ قبل تاريخ النفاذ أو التسجيل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الفصل الثامن: خصم الضريبة",
+      "article_label_raw": "الفصل الثامن: خصم الضريبة",
+      "article_heading": "الفصل الثامن: خصم الضريبة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الثامن: خصم الضريبة",
+      "text_verbatim": "تحدد اللائحة ما يأتي:\n\n1 - شروط وضوابط خصم الضريبة، وطرق احتساب نسبة الخصم، وشروط اعتبار قيمة ضريبة المدخلات غير القابلة للخصم على أنها تعادل صفراً.\n2 - ضريبة المدخلات التي تم تحملها لغير غايات النشاط الاقتصادي.\n3 - الشروط والضوابط اللازمة لإثبات الخاضع للضريبة خسارة السلع الموردة له، أو تلفها، أو سرقتها.\n4 - الفترة الزمنية التي تخول الخاضع للضريبة حق خصم ضريبة المدخلات عن الخدمات التي تلقاها قبل تاريخ التسجيل.\n5 - شروط وضوابط خصم ضريبة المدخلات على الأصول الرأسمالية وفقاً للقيمة الدفترية الصافية للأصول بتاريخ التسجيل.\n6 - وسائل إثبات الخاضع للضريبة لقيمة الضريبة المستحقة في حال عدم توافر الفاتورة الضريبية، أو عدم استيفائها للشروط المنصوص عليها في الاتفاقية والنظام واللائحة.",
+      "text_for_index": "تحدد اللائحة ما يأتي:\n\n1 - شروط وضوابط خصم الضريبة، وطرق احتساب نسبة الخصم، وشروط اعتبار قيمة ضريبة المدخلات غير القابلة للخصم على أنها تعادل صفراً.\n2 - ضريبة المدخلات التي تم تحملها لغير غايات النشاط الاقتصادي.\n3 - الشروط والضوابط اللازمة لإثبات الخاضع للضريبة خسارة السلع الموردة له، أو تلفها، أو سرقتها.\n4 - الفترة الزمنية التي تخول الخاضع للضريبة حق خصم ضريبة المدخلات عن الخدمات التي تلقاها قبل تاريخ التسجيل.\n5 - شروط وضوابط خصم ضريبة المدخلات على الأصول الرأسمالية وفقاً للقيمة الدفترية الصافية للأصول بتاريخ التسجيل.\n6 - وسائل إثبات الخاضع للضريبة لقيمة الضريبة المستحقة في حال عدم توافر الفاتورة الضريبية، أو عدم استيفائها للشروط المنصوص عليها في الاتفاقية والنظام واللائحة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحدد اللائحة ما يأتي:",
+          "text_for_index": "تحدد اللائحة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "1 - شروط وضوابط خصم الضريبة، وطرق احتساب نسبة الخصم، وشروط اعتبار قيمة ضريبة المدخلات غير القابلة للخصم على أنها تعادل صفراً.\n2 - ضريبة المدخلات التي تم تحملها لغير غايات النشاط الاقتصادي.\n3 - الشروط والضوابط اللازمة لإثبات الخاضع للضريبة خسارة السلع الموردة له، أو تلفها، أو سرقتها.\n4 - الفترة الزمنية التي تخول الخاضع للضريبة حق خصم ضريبة المدخلات عن الخدمات التي تلقاها قبل تاريخ التسجيل.\n5 - شروط وضوابط خصم ضريبة المدخلات على الأصول الرأسمالية وفقاً للقيمة الدفترية الصافية للأصول بتاريخ التسجيل.\n6 - وسائل إثبات الخاضع للضريبة لقيمة الضريبة المستحقة في حال عدم توافر الفاتورة الضريبية، أو عدم استيفائها للشروط المنصوص عليها في الاتفاقية والنظام واللائحة.",
+          "text_for_index": "1 - شروط وضوابط خصم الضريبة، وطرق احتساب نسبة الخصم، وشروط اعتبار قيمة ضريبة المدخلات غير القابلة للخصم على أنها تعادل صفراً.\n2 - ضريبة المدخلات التي تم تحملها لغير غايات النشاط الاقتصادي.\n3 - الشروط والضوابط اللازمة لإثبات الخاضع للضريبة خسارة السلع الموردة له، أو تلفها، أو سرقتها.\n4 - الفترة الزمنية التي تخول الخاضع للضريبة حق خصم ضريبة المدخلات عن الخدمات التي تلقاها قبل تاريخ التسجيل.\n5 - شروط وضوابط خصم ضريبة المدخلات على الأصول الرأسمالية وفقاً للقيمة الدفترية الصافية للأصول بتاريخ التسجيل.\n6 - وسائل إثبات الخاضع للضريبة لقيمة الضريبة المستحقة في حال عدم توافر الفاتورة الضريبية، أو عدم استيفائها للشروط المنصوص عليها في الاتفاقية والنظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الفصل التاسع: الفواتير الضريبية",
+      "article_label_raw": "الفصل التاسع: الفواتير الضريبية",
+      "article_heading": "الفصل التاسع: الفواتير الضريبية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل التاسع: الفواتير الضريبية",
+      "text_verbatim": "تحدد اللائحة ما يأتي:\n\n1 - محتويات وشكل الفواتير الضريبية، ومهل إصدارها.\n2 - الشروط والضوابط اللازمة لإصدار فواتير ضريبية ملخصة أو مبسطة.\n3 - شروط وضوابط استثناء الخاضع للضريبة من إصدار الفواتير الضريبية بالنسبة إلى التوريدات المعفاة من الضريبة.\n4 - شروط وإجراءات قبول الفواتير من حيث الشكل.\n5 - الشروط اللازمة للموافقة للخاضع للضريبة على الاستعانة بغيره لإصدار الفواتير الضريبية نيابة عنه.",
+      "text_for_index": "تحدد اللائحة ما يأتي:\n\n1 - محتويات وشكل الفواتير الضريبية، ومهل إصدارها.\n2 - الشروط والضوابط اللازمة لإصدار فواتير ضريبية ملخصة أو مبسطة.\n3 - شروط وضوابط استثناء الخاضع للضريبة من إصدار الفواتير الضريبية بالنسبة إلى التوريدات المعفاة من الضريبة.\n4 - شروط وإجراءات قبول الفواتير من حيث الشكل.\n5 - الشروط اللازمة للموافقة للخاضع للضريبة على الاستعانة بغيره لإصدار الفواتير الضريبية نيابة عنه.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تحدد اللائحة ما يأتي:",
+          "text_for_index": "تحدد اللائحة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-23::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "1 - محتويات وشكل الفواتير الضريبية، ومهل إصدارها.\n2 - الشروط والضوابط اللازمة لإصدار فواتير ضريبية ملخصة أو مبسطة.\n3 - شروط وضوابط استثناء الخاضع للضريبة من إصدار الفواتير الضريبية بالنسبة إلى التوريدات المعفاة من الضريبة.\n4 - شروط وإجراءات قبول الفواتير من حيث الشكل.\n5 - الشروط اللازمة للموافقة للخاضع للضريبة على الاستعانة بغيره لإصدار الفواتير الضريبية نيابة عنه.",
+          "text_for_index": "1 - محتويات وشكل الفواتير الضريبية، ومهل إصدارها.\n2 - الشروط والضوابط اللازمة لإصدار فواتير ضريبية ملخصة أو مبسطة.\n3 - شروط وضوابط استثناء الخاضع للضريبة من إصدار الفواتير الضريبية بالنسبة إلى التوريدات المعفاة من الضريبة.\n4 - شروط وإجراءات قبول الفواتير من حيث الشكل.\n5 - الشروط اللازمة للموافقة للخاضع للضريبة على الاستعانة بغيره لإصدار الفواتير الضريبية نيابة عنه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الفصل العاشر: الإقرار الضريبي",
+      "article_label_raw": "الفصل العاشر: الإقرار الضريبي",
+      "article_heading": "الفصل العاشر: الإقرار الضريبي",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل العاشر: الإقرار الضريبي",
+      "text_verbatim": "1 - تحدد اللائحة الفترة الضريبية التي يلتزم الخاضع للضريبة بتقديم إقرار عنها.\n2 - على الشخص الخاضع للضريبة أن يقدم إلى الهيئة إقراراً ضريبياً عن الفترة الضريبية خلال المدة ووفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - على الشخص الخاضع للضريبة الذي وصل إلى علمه وجود خطأ في إقرار ضريبي قدمه إلى الهيئة؛ إبلاغ الهيئة بهذا الخطأ وفقاً للإجراءات التي تحددها اللائحة.",
+      "text_for_index": "1 - تحدد اللائحة الفترة الضريبية التي يلتزم الخاضع للضريبة بتقديم إقرار عنها.\n2 - على الشخص الخاضع للضريبة أن يقدم إلى الهيئة إقراراً ضريبياً عن الفترة الضريبية خلال المدة ووفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - على الشخص الخاضع للضريبة الذي وصل إلى علمه وجود خطأ في إقرار ضريبي قدمه إلى الهيئة؛ إبلاغ الهيئة بهذا الخطأ وفقاً للإجراءات التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - تحدد اللائحة الفترة الضريبية التي يلتزم الخاضع للضريبة بتقديم إقرار عنها.\n2 - على الشخص الخاضع للضريبة أن يقدم إلى الهيئة إقراراً ضريبياً عن الفترة الضريبية خلال المدة ووفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - على الشخص الخاضع للضريبة الذي وصل إلى علمه وجود خطأ في إقرار ضريبي قدمه إلى الهيئة؛ إبلاغ الهيئة بهذا الخطأ وفقاً للإجراءات التي تحددها اللائحة.",
+          "text_for_index": "1 - تحدد اللائحة الفترة الضريبية التي يلتزم الخاضع للضريبة بتقديم إقرار عنها.\n2 - على الشخص الخاضع للضريبة أن يقدم إلى الهيئة إقراراً ضريبياً عن الفترة الضريبية خلال المدة ووفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - على الشخص الخاضع للضريبة الذي وصل إلى علمه وجود خطأ في إقرار ضريبي قدمه إلى الهيئة؛ إبلاغ الهيئة بهذا الخطأ وفقاً للإجراءات التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون:",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الخامسة والعشرون",
+      "text_verbatim": "تحدد اللائحة الضوابط والشروط اللازمة لتعديل مقابل التوريد في الفواتير الضريبية الأصلية، أو تعديل الإقرار الضريبي.",
+      "text_for_index": "تحدد اللائحة الضوابط والشروط اللازمة لتعديل مقابل التوريد في الفواتير الضريبية الأصلية، أو تعديل الإقرار الضريبي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الضوابط والشروط اللازمة لتعديل مقابل التوريد في الفواتير الضريبية الأصلية، أو تعديل الإقرار الضريبي.",
+          "text_for_index": "تحدد اللائحة الضوابط والشروط اللازمة لتعديل مقابل التوريد في الفواتير الضريبية الأصلية، أو تعديل الإقرار الضريبي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون:",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة السادسة والعشرون",
+      "text_verbatim": "1 - للهيئة إجراء تقييم ضريبي للخاضع للضريبة بصرف النظر عن الإقرار الضريبي المقدم منه.\n2 - للهيئة إجراء تقييم ضريبي جديد يعدل تقييماً سابقاً لها.\n3 - على الهيئة إبلاغ الخاضع للضريبة بالتقييم الضريبي الصادر عنها وفقاً لهذه المادة.\n4 - تحدد اللائحة المدد والإجراءات اللازمة لإجراء التقييم الضريبي، وإجراءات الاعتراض عليه، ووسائل إبلاغ الخاضع للضريبة به، وآليات تقدمه بطلب تصحيحه.",
+      "text_for_index": "1 - للهيئة إجراء تقييم ضريبي للخاضع للضريبة بصرف النظر عن الإقرار الضريبي المقدم منه.\n2 - للهيئة إجراء تقييم ضريبي جديد يعدل تقييماً سابقاً لها.\n3 - على الهيئة إبلاغ الخاضع للضريبة بالتقييم الضريبي الصادر عنها وفقاً لهذه المادة.\n4 - تحدد اللائحة المدد والإجراءات اللازمة لإجراء التقييم الضريبي، وإجراءات الاعتراض عليه، ووسائل إبلاغ الخاضع للضريبة به، وآليات تقدمه بطلب تصحيحه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - للهيئة إجراء تقييم ضريبي للخاضع للضريبة بصرف النظر عن الإقرار الضريبي المقدم منه.\n2 - للهيئة إجراء تقييم ضريبي جديد يعدل تقييماً سابقاً لها.\n3 - على الهيئة إبلاغ الخاضع للضريبة بالتقييم الضريبي الصادر عنها وفقاً لهذه المادة.\n4 - تحدد اللائحة المدد والإجراءات اللازمة لإجراء التقييم الضريبي، وإجراءات الاعتراض عليه، ووسائل إبلاغ الخاضع للضريبة به، وآليات تقدمه بطلب تصحيحه.",
+          "text_for_index": "1 - للهيئة إجراء تقييم ضريبي للخاضع للضريبة بصرف النظر عن الإقرار الضريبي المقدم منه.\n2 - للهيئة إجراء تقييم ضريبي جديد يعدل تقييماً سابقاً لها.\n3 - على الهيئة إبلاغ الخاضع للضريبة بالتقييم الضريبي الصادر عنها وفقاً لهذه المادة.\n4 - تحدد اللائحة المدد والإجراءات اللازمة لإجراء التقييم الضريبي، وإجراءات الاعتراض عليه، ووسائل إبلاغ الخاضع للضريبة به، وآليات تقدمه بطلب تصحيحه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "الفصل الحادي عشر: سداد الضريبة",
+      "article_label_raw": "الفصل الحادي عشر: سداد الضريبة",
+      "article_heading": "الفصل الحادي عشر: سداد الضريبة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الحادي عشر: سداد الضريبة",
+      "text_verbatim": "1 - تحدد اللائحة مدد وشروط وضوابط سداد الضريبة الصافية المستحقة السداد من قبل الخاضع للضريبة.\n2 - للهيئة أن تسمح للخاضع للضريبة بتغيير فترته الضريبية بموجب طلب يقدمه إلى الهيئة، وفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - للهيئة - بقرار مسبب - إلزام الخاضع للضريبة بتغيير فترته الضريبية.\n4 - على الهيئة إبلاغ الخاضع للضريبة بأي تغيير يطرأ على فترته الضريبية، وفقاً للمواعيد والوسائل التي تحددها اللائحة.",
+      "text_for_index": "1 - تحدد اللائحة مدد وشروط وضوابط سداد الضريبة الصافية المستحقة السداد من قبل الخاضع للضريبة.\n2 - للهيئة أن تسمح للخاضع للضريبة بتغيير فترته الضريبية بموجب طلب يقدمه إلى الهيئة، وفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - للهيئة - بقرار مسبب - إلزام الخاضع للضريبة بتغيير فترته الضريبية.\n4 - على الهيئة إبلاغ الخاضع للضريبة بأي تغيير يطرأ على فترته الضريبية، وفقاً للمواعيد والوسائل التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "1 - تحدد اللائحة مدد وشروط وضوابط سداد الضريبة الصافية المستحقة السداد من قبل الخاضع للضريبة.\n2 - للهيئة أن تسمح للخاضع للضريبة بتغيير فترته الضريبية بموجب طلب يقدمه إلى الهيئة، وفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - للهيئة - بقرار مسبب - إلزام الخاضع للضريبة بتغيير فترته الضريبية.\n4 - على الهيئة إبلاغ الخاضع للضريبة بأي تغيير يطرأ على فترته الضريبية، وفقاً للمواعيد والوسائل التي تحددها اللائحة.",
+          "text_for_index": "1 - تحدد اللائحة مدد وشروط وضوابط سداد الضريبة الصافية المستحقة السداد من قبل الخاضع للضريبة.\n2 - للهيئة أن تسمح للخاضع للضريبة بتغيير فترته الضريبية بموجب طلب يقدمه إلى الهيئة، وفقاً للشروط والضوابط التي تحددها اللائحة.\n3 - للهيئة - بقرار مسبب - إلزام الخاضع للضريبة بتغيير فترته الضريبية.\n4 - على الهيئة إبلاغ الخاضع للضريبة بأي تغيير يطرأ على فترته الضريبية، وفقاً للمواعيد والوسائل التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون:",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثامنة والعشرون",
+      "text_verbatim": "1 - تتولى مصلحة الجمارك العامة تحصيل الضريبة المستحقة عند الاستيراد، وفقاً للإجراءات المتبعة لديها، وتحويلها إلى الحساب الذي يُحدد بالاتفاق بين وزارة المالية والهيئة.\n2 - استثناءً من الفقرة (1) من هذه المادة، للهيئة السماح للخاضع للضريبة بتأجيل سداد الضريبة المستحقة على السلع المستوردة لغايات النشاط الاقتصادي، وفقاً للشروط والضوابط التي تحددها اللائحة. وفي جميع الأحوال، يجب على الخاضع للضريبة أن يصرح عنها في إقراره الضريبي.",
+      "text_for_index": "1 - تتولى مصلحة الجمارك العامة تحصيل الضريبة المستحقة عند الاستيراد، وفقاً للإجراءات المتبعة لديها، وتحويلها إلى الحساب الذي يُحدد بالاتفاق بين وزارة المالية والهيئة.\n2 - استثناءً من الفقرة (1) من هذه المادة، للهيئة السماح للخاضع للضريبة بتأجيل سداد الضريبة المستحقة على السلع المستوردة لغايات النشاط الاقتصادي، وفقاً للشروط والضوابط التي تحددها اللائحة. وفي جميع الأحوال، يجب على الخاضع للضريبة أن يصرح عنها في إقراره الضريبي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "1 - تتولى مصلحة الجمارك العامة تحصيل الضريبة المستحقة عند الاستيراد، وفقاً للإجراءات المتبعة لديها، وتحويلها إلى الحساب الذي يُحدد بالاتفاق بين وزارة المالية والهيئة.\n2 - استثناءً من الفقرة (1) من هذه المادة، للهيئة السماح للخاضع للضريبة بتأجيل سداد الضريبة المستحقة على السلع المستوردة لغايات النشاط الاقتصادي، وفقاً للشروط والضوابط التي تحددها اللائحة. وفي جميع الأحوال، يجب على الخاضع للضريبة أن يصرح عنها في إقراره الضريبي.",
+          "text_for_index": "1 - تتولى مصلحة الجمارك العامة تحصيل الضريبة المستحقة عند الاستيراد، وفقاً للإجراءات المتبعة لديها، وتحويلها إلى الحساب الذي يُحدد بالاتفاق بين وزارة المالية والهيئة.\n2 - استثناءً من الفقرة (1) من هذه المادة، للهيئة السماح للخاضع للضريبة بتأجيل سداد الضريبة المستحقة على السلع المستوردة لغايات النشاط الاقتصادي، وفقاً للشروط والضوابط التي تحددها اللائحة. وفي جميع الأحوال، يجب على الخاضع للضريبة أن يصرح عنها في إقراره الضريبي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون:",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة التاسعة والعشرون",
+      "text_verbatim": "تحدد اللائحة آلية سداد الضريبة المستحقة في الحالات التي يقع فيها مكان توريد السلع أو الخدمات في المملكة دون أن يكون المورد مقيماً فيها.",
+      "text_for_index": "تحدد اللائحة آلية سداد الضريبة المستحقة في الحالات التي يقع فيها مكان توريد السلع أو الخدمات في المملكة دون أن يكون المورد مقيماً فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحدد اللائحة آلية سداد الضريبة المستحقة في الحالات التي يقع فيها مكان توريد السلع أو الخدمات في المملكة دون أن يكون المورد مقيماً فيها.",
+          "text_for_index": "تحدد اللائحة آلية سداد الضريبة المستحقة في الحالات التي يقع فيها مكان توريد السلع أو الخدمات في المملكة دون أن يكون المورد مقيماً فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون:",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثلاثون",
+      "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لفرض الضريبة على توريد السلع المستعملة من قبل الخاضع للضريبة؛ على أساس هامش الربح.",
+      "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لفرض الضريبة على توريد السلع المستعملة من قبل الخاضع للضريبة؛ على أساس هامش الربح.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تحدد اللائحة الشروط والضوابط اللازمة لفرض الضريبة على توريد السلع المستعملة من قبل الخاضع للضريبة؛ على أساس هامش الربح.",
+          "text_for_index": "تحدد اللائحة الشروط والضوابط اللازمة لفرض الضريبة على توريد السلع المستعملة من قبل الخاضع للضريبة؛ على أساس هامش الربح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الفصل الثاني عشر: استرداد الضريبة",
+      "article_label_raw": "الفصل الثاني عشر: استرداد الضريبة",
+      "article_heading": "الفصل الثاني عشر: استرداد الضريبة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الثاني عشر: استرداد الضريبة",
+      "text_verbatim": "للهيئة استثناء الفئات المنصوص عليها في الاتفاقية من دفع الضريبة عند تلقي السلع والخدمات في المملكة، والسماح لها باسترداد الضريبة التي تكبدتها على السلع والخدمات، وذلك وفقاً للشروط والضوابط التي تحددها اللائحة.",
+      "text_for_index": "للهيئة استثناء الفئات المنصوص عليها في الاتفاقية من دفع الضريبة عند تلقي السلع والخدمات في المملكة، والسماح لها باسترداد الضريبة التي تكبدتها على السلع والخدمات، وذلك وفقاً للشروط والضوابط التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "للهيئة استثناء الفئات المنصوص عليها في الاتفاقية من دفع الضريبة عند تلقي السلع والخدمات في المملكة، والسماح لها باسترداد الضريبة التي تكبدتها على السلع والخدمات، وذلك وفقاً للشروط والضوابط التي تحددها اللائحة.",
+          "text_for_index": "للهيئة استثناء الفئات المنصوص عليها في الاتفاقية من دفع الضريبة عند تلقي السلع والخدمات في المملكة، والسماح لها باسترداد الضريبة التي تكبدتها على السلع والخدمات، وذلك وفقاً للشروط والضوابط التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون:",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثانية والثلاثون",
+      "text_verbatim": "تحدد اللائحة شروط وضوابط منح الحكومات الأجنبية والمنظمات الدولية والهيئات والبعثات الدبلوماسية والقنصلية والعسكرية حق طلب استرداد الضريبة التي تكبدتها على السلع والخدمات في المملكة، والشروط والضوابط اللازمة لتطبيق الضريبة بنسبة الصفر بالمائة على توريدات السلع والخدمات لهذه الجهات.",
+      "text_for_index": "تحدد اللائحة شروط وضوابط منح الحكومات الأجنبية والمنظمات الدولية والهيئات والبعثات الدبلوماسية والقنصلية والعسكرية حق طلب استرداد الضريبة التي تكبدتها على السلع والخدمات في المملكة، والشروط والضوابط اللازمة لتطبيق الضريبة بنسبة الصفر بالمائة على توريدات السلع والخدمات لهذه الجهات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "تحدد اللائحة شروط وضوابط منح الحكومات الأجنبية والمنظمات الدولية والهيئات والبعثات الدبلوماسية والقنصلية والعسكرية حق طلب استرداد الضريبة التي تكبدتها على السلع والخدمات في المملكة، والشروط والضوابط اللازمة لتطبيق الضريبة بنسبة الصفر بالمائة على توريدات السلع والخدمات لهذه الجهات.",
+          "text_for_index": "تحدد اللائحة شروط وضوابط منح الحكومات الأجنبية والمنظمات الدولية والهيئات والبعثات الدبلوماسية والقنصلية والعسكرية حق طلب استرداد الضريبة التي تكبدتها على السلع والخدمات في المملكة، والشروط والضوابط اللازمة لتطبيق الضريبة بنسبة الصفر بالمائة على توريدات السلع والخدمات لهذه الجهات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون:",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثالثة والثلاثون",
+      "text_verbatim": "1- تحدد اللائحة الإجراءات اللازمة لاسترداد الأشخاص غير المقيمين في إقليم دول المجلس للضريبة المسددة في المملكة.\n2 - تحدد اللائحة الشروط والضوابط اللازمة لتطبيق نظام استرداد السياح للضريبة.",
+      "text_for_index": "1- تحدد اللائحة الإجراءات اللازمة لاسترداد الأشخاص غير المقيمين في إقليم دول المجلس للضريبة المسددة في المملكة.\n2 - تحدد اللائحة الشروط والضوابط اللازمة لتطبيق نظام استرداد السياح للضريبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "1- تحدد اللائحة الإجراءات اللازمة لاسترداد الأشخاص غير المقيمين في إقليم دول المجلس للضريبة المسددة في المملكة.\n2 - تحدد اللائحة الشروط والضوابط اللازمة لتطبيق نظام استرداد السياح للضريبة.",
+          "text_for_index": "1- تحدد اللائحة الإجراءات اللازمة لاسترداد الأشخاص غير المقيمين في إقليم دول المجلس للضريبة المسددة في المملكة.\n2 - تحدد اللائحة الشروط والضوابط اللازمة لتطبيق نظام استرداد السياح للضريبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون:",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الرابعة والثلاثون",
+      "text_verbatim": "تحدد اللائحة شروط وضوابط السماح للخاضع للضريبة بطلب استرداد الضريبة الصافية القابلة للخصم أو الاسترداد، أو ترحيلها لفترات ضريبية قادمة.",
+      "text_for_index": "تحدد اللائحة شروط وضوابط السماح للخاضع للضريبة بطلب استرداد الضريبة الصافية القابلة للخصم أو الاسترداد، أو ترحيلها لفترات ضريبية قادمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "تحدد اللائحة شروط وضوابط السماح للخاضع للضريبة بطلب استرداد الضريبة الصافية القابلة للخصم أو الاسترداد، أو ترحيلها لفترات ضريبية قادمة.",
+          "text_for_index": "تحدد اللائحة شروط وضوابط السماح للخاضع للضريبة بطلب استرداد الضريبة الصافية القابلة للخصم أو الاسترداد، أو ترحيلها لفترات ضريبية قادمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الفصل الثالث عشر: سرية المعلومات وتبادلها",
+      "article_label_raw": "الفصل الثالث عشر: سرية المعلومات وتبادلها",
+      "article_heading": "الفصل الثالث عشر: سرية المعلومات وتبادلها",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الثالث عشر: سرية المعلومات وتبادلها",
+      "text_verbatim": "1 - على موظفي الهيئة وجميع العاملين لديها أو لمصلحتها المحافظة على سرية المعلومات الضريبية التي تلقوها بحكم عملهم، ولا يجوز لهم الكشف عن تلك المعلومات إلا في الحالات المنصوص عليها في اللائحة، ووفقاً للضوابط والشروط التي تحددها، وذلك دون إخلال بالأنظمة السارية في المملكة.\n2 - على كل من يتلقى المعلومات - وفقاً للفقرة (1) من هذه المادة - استخدامها فقط للأغراض التي منح بموجبها حق الاطلاع عليها، وعليه المحافظة على سرية هذه المعلومات وفقاً للفقرة (1) من هذه المادة.\n3 - باستثناء الحالات المنصوص عليها في اللائحة، لا يجوز للشخص الذي تلقى واطلع على المعلومات الضريبية إعادة الإفصاح عنها لأي شخص آخر، وعليه إعادة المستندات المتعلقة بهذه المعلومات إلى الهيئة.",
+      "text_for_index": "1 - على موظفي الهيئة وجميع العاملين لديها أو لمصلحتها المحافظة على سرية المعلومات الضريبية التي تلقوها بحكم عملهم، ولا يجوز لهم الكشف عن تلك المعلومات إلا في الحالات المنصوص عليها في اللائحة، ووفقاً للضوابط والشروط التي تحددها، وذلك دون إخلال بالأنظمة السارية في المملكة.\n2 - على كل من يتلقى المعلومات - وفقاً للفقرة (1) من هذه المادة - استخدامها فقط للأغراض التي منح بموجبها حق الاطلاع عليها، وعليه المحافظة على سرية هذه المعلومات وفقاً للفقرة (1) من هذه المادة.\n3 - باستثناء الحالات المنصوص عليها في اللائحة، لا يجوز للشخص الذي تلقى واطلع على المعلومات الضريبية إعادة الإفصاح عنها لأي شخص آخر، وعليه إعادة المستندات المتعلقة بهذه المعلومات إلى الهيئة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - على موظفي الهيئة وجميع العاملين لديها أو لمصلحتها المحافظة على سرية المعلومات الضريبية التي تلقوها بحكم عملهم، ولا يجوز لهم الكشف عن تلك المعلومات إلا في الحالات المنصوص عليها في اللائحة، ووفقاً للضوابط والشروط التي تحددها، وذلك دون إخلال بالأنظمة السارية في المملكة.\n2 - على كل من يتلقى المعلومات - وفقاً للفقرة (1) من هذه المادة - استخدامها فقط للأغراض التي منح بموجبها حق الاطلاع عليها، وعليه المحافظة على سرية هذه المعلومات وفقاً للفقرة (1) من هذه المادة.\n3 - باستثناء الحالات المنصوص عليها في اللائحة، لا يجوز للشخص الذي تلقى واطلع على المعلومات الضريبية إعادة الإفصاح عنها لأي شخص آخر، وعليه إعادة المستندات المتعلقة بهذه المعلومات إلى الهيئة.",
+          "text_for_index": "1 - على موظفي الهيئة وجميع العاملين لديها أو لمصلحتها المحافظة على سرية المعلومات الضريبية التي تلقوها بحكم عملهم، ولا يجوز لهم الكشف عن تلك المعلومات إلا في الحالات المنصوص عليها في اللائحة، ووفقاً للضوابط والشروط التي تحددها، وذلك دون إخلال بالأنظمة السارية في المملكة.\n2 - على كل من يتلقى المعلومات - وفقاً للفقرة (1) من هذه المادة - استخدامها فقط للأغراض التي منح بموجبها حق الاطلاع عليها، وعليه المحافظة على سرية هذه المعلومات وفقاً للفقرة (1) من هذه المادة.\n3 - باستثناء الحالات المنصوص عليها في اللائحة، لا يجوز للشخص الذي تلقى واطلع على المعلومات الضريبية إعادة الإفصاح عنها لأي شخص آخر، وعليه إعادة المستندات المتعلقة بهذه المعلومات إلى الهيئة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "الفصل الرابع عشر: حفظ المستندات والمسؤولية التضامنية",
+      "article_label_raw": "الفصل الرابع عشر: حفظ المستندات والمسؤولية التضامنية",
+      "article_heading": "الفصل الرابع عشر: حفظ المستندات والمسؤولية التضامنية",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الرابع عشر: حفظ المستندات والمسؤولية التضامنية",
+      "text_verbatim": "تحدد اللائحة المدة اللازمة لحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية.",
+      "text_for_index": "تحدد اللائحة المدة اللازمة لحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تحدد اللائحة المدة اللازمة لحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية.",
+          "text_for_index": "تحدد اللائحة المدة اللازمة لحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون:",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة السابعة والثلاثون",
+      "text_verbatim": "دون إخلال بحالات المسؤولية التضامنية المنصوص عليها في الاتفاقية والنظام، تحدد اللائحة الحالات الأخرى التي تتقرر فيها المسؤولية التضامنية مع الشخص الخاضع للضريبة، والإجراءات التي تتخذ في حق أي شخص تتقرر مسؤوليته التضامنية.",
+      "text_for_index": "دون إخلال بحالات المسؤولية التضامنية المنصوص عليها في الاتفاقية والنظام، تحدد اللائحة الحالات الأخرى التي تتقرر فيها المسؤولية التضامنية مع الشخص الخاضع للضريبة، والإجراءات التي تتخذ في حق أي شخص تتقرر مسؤوليته التضامنية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بحالات المسؤولية التضامنية المنصوص عليها في الاتفاقية والنظام، تحدد اللائحة الحالات الأخرى التي تتقرر فيها المسؤولية التضامنية مع الشخص الخاضع للضريبة، والإجراءات التي تتخذ في حق أي شخص تتقرر مسؤوليته التضامنية.",
+          "text_for_index": "دون إخلال بحالات المسؤولية التضامنية المنصوص عليها في الاتفاقية والنظام، تحدد اللائحة الحالات الأخرى التي تتقرر فيها المسؤولية التضامنية مع الشخص الخاضع للضريبة، والإجراءات التي تتخذ في حق أي شخص تتقرر مسؤوليته التضامنية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الفصل الخامس عشر: التفتيش والضبط",
+      "article_label_raw": "الفصل الخامس عشر: التفتيش والضبط",
+      "article_heading": "الفصل الخامس عشر: التفتيش والضبط",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الخامس عشر: التفتيش والضبط",
+      "text_verbatim": "يتولى موظفون - يصدر بتسميتهم قرار من مجلس إدارة الهيئة - الرقابة والتفتيش وضبط مخالفات أحكام النظام، ولهم جميع الصلاحيات اللازمة لأداء مهماتهم. وتحدد اللائحة إجراءات قيامهم بأعمالهم.",
+      "text_for_index": "يتولى موظفون - يصدر بتسميتهم قرار من مجلس إدارة الهيئة - الرقابة والتفتيش وضبط مخالفات أحكام النظام، ولهم جميع الصلاحيات اللازمة لأداء مهماتهم. وتحدد اللائحة إجراءات قيامهم بأعمالهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يتولى موظفون - يصدر بتسميتهم قرار من مجلس إدارة الهيئة - الرقابة والتفتيش وضبط مخالفات أحكام النظام، ولهم جميع الصلاحيات اللازمة لأداء مهماتهم. وتحدد اللائحة إجراءات قيامهم بأعمالهم.",
+          "text_for_index": "يتولى موظفون - يصدر بتسميتهم قرار من مجلس إدارة الهيئة - الرقابة والتفتيش وضبط مخالفات أحكام النظام، ولهم جميع الصلاحيات اللازمة لأداء مهماتهم. وتحدد اللائحة إجراءات قيامهم بأعمالهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "الفصل السادس عشر: التهرب الضريبي والعقوبات",
+      "article_label_raw": "الفصل السادس عشر: التهرب الضريبي والعقوبات",
+      "article_heading": "الفصل السادس عشر: التهرب الضريبي والعقوبات",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل السادس عشر: التهرب الضريبي والعقوبات",
+      "text_verbatim": "يعد ما يأتي تهرباً ضريبياً:\n\n1 - تقديم مستندات أو إقرارات أو سجلات أو معلومات غير صحيحة أو مزورة أو مصطنعة بقصد التهرب من تأدية الضريبة المستحقة، أو تخفيض قيمتها، أو استردادها دون وجه حق، ويقع على عاتق الخاضع للضريبة عبء إثبات انتفاء القصد.\n2 - إدخال أو محاولة إدخال سلع أو خدمات إلى المملكة أو إخراجها أو محاولة إخراجها منها؛ بالمخالفة للأنظمة السارية، دون سداد الضريبة كلياً أو جزئياً، أو بالمخالفة لأحكام المنع والتقييد المنصوص عليها في النظام أو أي نظام آخر.",
+      "text_for_index": "يعد ما يأتي تهرباً ضريبياً:\n\n1 - تقديم مستندات أو إقرارات أو سجلات أو معلومات غير صحيحة أو مزورة أو مصطنعة بقصد التهرب من تأدية الضريبة المستحقة، أو تخفيض قيمتها، أو استردادها دون وجه حق، ويقع على عاتق الخاضع للضريبة عبء إثبات انتفاء القصد.\n2 - إدخال أو محاولة إدخال سلع أو خدمات إلى المملكة أو إخراجها أو محاولة إخراجها منها؛ بالمخالفة للأنظمة السارية، دون سداد الضريبة كلياً أو جزئياً، أو بالمخالفة لأحكام المنع والتقييد المنصوص عليها في النظام أو أي نظام آخر.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعد ما يأتي تهرباً ضريبياً:",
+          "text_for_index": "يعد ما يأتي تهرباً ضريبياً:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-39::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "1 - تقديم مستندات أو إقرارات أو سجلات أو معلومات غير صحيحة أو مزورة أو مصطنعة بقصد التهرب من تأدية الضريبة المستحقة، أو تخفيض قيمتها، أو استردادها دون وجه حق، ويقع على عاتق الخاضع للضريبة عبء إثبات انتفاء القصد.\n2 - إدخال أو محاولة إدخال سلع أو خدمات إلى المملكة أو إخراجها أو محاولة إخراجها منها؛ بالمخالفة للأنظمة السارية، دون سداد الضريبة كلياً أو جزئياً، أو بالمخالفة لأحكام المنع والتقييد المنصوص عليها في النظام أو أي نظام آخر.",
+          "text_for_index": "1 - تقديم مستندات أو إقرارات أو سجلات أو معلومات غير صحيحة أو مزورة أو مصطنعة بقصد التهرب من تأدية الضريبة المستحقة، أو تخفيض قيمتها، أو استردادها دون وجه حق، ويقع على عاتق الخاضع للضريبة عبء إثبات انتفاء القصد.\n2 - إدخال أو محاولة إدخال سلع أو خدمات إلى المملكة أو إخراجها أو محاولة إخراجها منها؛ بالمخالفة للأنظمة السارية، دون سداد الضريبة كلياً أو جزئياً، أو بالمخالفة لأحكام المنع والتقييد المنصوص عليها في النظام أو أي نظام آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون:",
+      "article_heading": "الأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الأربعون",
+      "text_verbatim": "يعاقب على التهرب الضريبي بغرامة لا تقل عن قيمة الضريبة المستحقة، ولا تزيد على ثلاثة أمثال قيمة السلع أو الخدمات محل التهرب.",
+      "text_for_index": "يعاقب على التهرب الضريبي بغرامة لا تقل عن قيمة الضريبة المستحقة، ولا تزيد على ثلاثة أمثال قيمة السلع أو الخدمات محل التهرب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب على التهرب الضريبي بغرامة لا تقل عن قيمة الضريبة المستحقة، ولا تزيد على ثلاثة أمثال قيمة السلع أو الخدمات محل التهرب.",
+          "text_for_index": "يعاقب على التهرب الضريبي بغرامة لا تقل عن قيمة الضريبة المستحقة، ولا تزيد على ثلاثة أمثال قيمة السلع أو الخدمات محل التهرب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون:",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الحادية والأربعون",
+      "text_verbatim": "يعاقب كل من لم يتقدم بطلب التسجيل خلال المدد المحددة في اللائحة بغرامة مقدارها (10.000) عشرة آلاف ريـال.",
+      "text_for_index": "يعاقب كل من لم يتقدم بطلب التسجيل خلال المدد المحددة في اللائحة بغرامة مقدارها (10.000) عشرة آلاف ريـال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب كل من لم يتقدم بطلب التسجيل خلال المدد المحددة في اللائحة بغرامة مقدارها (10.000) عشرة آلاف ريـال.",
+          "text_for_index": "يعاقب كل من لم يتقدم بطلب التسجيل خلال المدد المحددة في اللائحة بغرامة مقدارها (10.000) عشرة آلاف ريـال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون:",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثانية والأربعون",
+      "text_verbatim": "1- يعاقب كل من قدم إلى الهيئة إقراراً ضريبياً خاطئاً، أو قام بتعديل إقرار ضريبي بعد تقديمه، أو قدم أي مستند إلى الهيئة يخص الضريبة المستحقة عليه ونتج عن ذلك خطأ في احتساب مبلغ الضريبة أقل من المستحق؛ بغرامة تعادل (50%) من قيمة الفرق بين الضريبة المحتسبة والمستحقة.\n2 - يجوز للهيئة - وفق ضوابط يحددها مجلس إدارتها - الإعفاء من العقوبة الواردة في الفقرة (1) من هذه المادة، أو تخفيضها.\n3 - يعاقب كل من لم يقدم الإقرار الضريبي خلال المدة التي تحددها اللائحة بغرامة لا تقل عن (5%) ولا تزيد على (25%) من قيمة الضريبة التي كان يتعين عليه الإقرار بها.",
+      "text_for_index": "1- يعاقب كل من قدم إلى الهيئة إقراراً ضريبياً خاطئاً، أو قام بتعديل إقرار ضريبي بعد تقديمه، أو قدم أي مستند إلى الهيئة يخص الضريبة المستحقة عليه ونتج عن ذلك خطأ في احتساب مبلغ الضريبة أقل من المستحق؛ بغرامة تعادل (50%) من قيمة الفرق بين الضريبة المحتسبة والمستحقة.\n2 - يجوز للهيئة - وفق ضوابط يحددها مجلس إدارتها - الإعفاء من العقوبة الواردة في الفقرة (1) من هذه المادة، أو تخفيضها.\n3 - يعاقب كل من لم يقدم الإقرار الضريبي خلال المدة التي تحددها اللائحة بغرامة لا تقل عن (5%) ولا تزيد على (25%) من قيمة الضريبة التي كان يتعين عليه الإقرار بها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- يعاقب كل من قدم إلى الهيئة إقراراً ضريبياً خاطئاً، أو قام بتعديل إقرار ضريبي بعد تقديمه، أو قدم أي مستند إلى الهيئة يخص الضريبة المستحقة عليه ونتج عن ذلك خطأ في احتساب مبلغ الضريبة أقل من المستحق؛ بغرامة تعادل (50%) من قيمة الفرق بين الضريبة المحتسبة والمستحقة.\n2 - يجوز للهيئة - وفق ضوابط يحددها مجلس إدارتها - الإعفاء من العقوبة الواردة في الفقرة (1) من هذه المادة، أو تخفيضها.\n3 - يعاقب كل من لم يقدم الإقرار الضريبي خلال المدة التي تحددها اللائحة بغرامة لا تقل عن (5%) ولا تزيد على (25%) من قيمة الضريبة التي كان يتعين عليه الإقرار بها.",
+          "text_for_index": "1- يعاقب كل من قدم إلى الهيئة إقراراً ضريبياً خاطئاً، أو قام بتعديل إقرار ضريبي بعد تقديمه، أو قدم أي مستند إلى الهيئة يخص الضريبة المستحقة عليه ونتج عن ذلك خطأ في احتساب مبلغ الضريبة أقل من المستحق؛ بغرامة تعادل (50%) من قيمة الفرق بين الضريبة المحتسبة والمستحقة.\n2 - يجوز للهيئة - وفق ضوابط يحددها مجلس إدارتها - الإعفاء من العقوبة الواردة في الفقرة (1) من هذه المادة، أو تخفيضها.\n3 - يعاقب كل من لم يقدم الإقرار الضريبي خلال المدة التي تحددها اللائحة بغرامة لا تقل عن (5%) ولا تزيد على (25%) من قيمة الضريبة التي كان يتعين عليه الإقرار بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون:",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثالثة والأربعون",
+      "text_verbatim": "يعاقب كل من لم يسدد الضريبة المستحقة خلال المدة التي تحددها اللائحة بغرامة تعادل (5%) من قيمة الضريبة غير المسددة؛ عن كل شهر أو جزء منه لم تسدد عنه الضريبة.",
+      "text_for_index": "يعاقب كل من لم يسدد الضريبة المستحقة خلال المدة التي تحددها اللائحة بغرامة تعادل (5%) من قيمة الضريبة غير المسددة؛ عن كل شهر أو جزء منه لم تسدد عنه الضريبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب كل من لم يسدد الضريبة المستحقة خلال المدة التي تحددها اللائحة بغرامة تعادل (5%) من قيمة الضريبة غير المسددة؛ عن كل شهر أو جزء منه لم تسدد عنه الضريبة.",
+          "text_for_index": "يعاقب كل من لم يسدد الضريبة المستحقة خلال المدة التي تحددها اللائحة بغرامة تعادل (5%) من قيمة الضريبة غير المسددة؛ عن كل شهر أو جزء منه لم تسدد عنه الضريبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون:",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الرابعة والأربعون",
+      "text_verbatim": "يعاقب غير المسجل في حال قيامه بإصدار فاتورة ضريبية بغرامة لا تتجاوز (100.000) مائة ألف ريـال، وذلك دون الإخلال بأي عقوبة أشد ينص عليها أي نظام آخر.",
+      "text_for_index": "يعاقب غير المسجل في حال قيامه بإصدار فاتورة ضريبية بغرامة لا تتجاوز (100.000) مائة ألف ريـال، وذلك دون الإخلال بأي عقوبة أشد ينص عليها أي نظام آخر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب غير المسجل في حال قيامه بإصدار فاتورة ضريبية بغرامة لا تتجاوز (100.000) مائة ألف ريـال، وذلك دون الإخلال بأي عقوبة أشد ينص عليها أي نظام آخر.",
+          "text_for_index": "يعاقب غير المسجل في حال قيامه بإصدار فاتورة ضريبية بغرامة لا تتجاوز (100.000) مائة ألف ريـال، وذلك دون الإخلال بأي عقوبة أشد ينص عليها أي نظام آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون:",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الخامسة والأربعون",
+      "text_verbatim": "يعاقب بغرامة لا تزيد على (50.000) خمسين ألف ريـال، كل من:\n\n1 - لم يلتزم بحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية خلال الفترة المنصوص عليها في اللائحة، وتكون الغرامة عن كل فترة ضريبية.\n\n2 - منع أو أعاق موظفي الهيئة أو أي من العاملين لديها من أداء واجباتهم الوظيفية.\n3 - خالف أي حكم آخر من أحكام النظام أو اللائحة.",
+      "text_for_index": "يعاقب بغرامة لا تزيد على (50.000) خمسين ألف ريـال، كل من:\n\n1 - لم يلتزم بحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية خلال الفترة المنصوص عليها في اللائحة، وتكون الغرامة عن كل فترة ضريبية.\n\n2 - منع أو أعاق موظفي الهيئة أو أي من العاملين لديها من أداء واجباتهم الوظيفية.\n3 - خالف أي حكم آخر من أحكام النظام أو اللائحة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب بغرامة لا تزيد على (50.000) خمسين ألف ريـال، كل من:",
+          "text_for_index": "يعاقب بغرامة لا تزيد على (50.000) خمسين ألف ريـال، كل من:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-45::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - لم يلتزم بحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية خلال الفترة المنصوص عليها في اللائحة، وتكون الغرامة عن كل فترة ضريبية.",
+          "text_for_index": "1 - لم يلتزم بحفظ الفواتير الضريبية والدفاتر والسجلات والمستندات المحاسبية خلال الفترة المنصوص عليها في اللائحة، وتكون الغرامة عن كل فترة ضريبية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-45::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "2 - منع أو أعاق موظفي الهيئة أو أي من العاملين لديها من أداء واجباتهم الوظيفية.\n3 - خالف أي حكم آخر من أحكام النظام أو اللائحة.",
+          "text_for_index": "2 - منع أو أعاق موظفي الهيئة أو أي من العاملين لديها من أداء واجباتهم الوظيفية.\n3 - خالف أي حكم آخر من أحكام النظام أو اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون:",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة السادسة والأربعون",
+      "text_verbatim": "1 - لا يخل إيقاع أي من الغرامات المنصوص عليها في النظام باستيفاء الضريبة المستحقة.\n2 - لا يخل تطبيق أي من العقوبات المنصوص عليها في النظام بأي عقوبة أخرى ينص عليها أي نظام آخر.",
+      "text_for_index": "1 - لا يخل إيقاع أي من الغرامات المنصوص عليها في النظام باستيفاء الضريبة المستحقة.\n2 - لا يخل تطبيق أي من العقوبات المنصوص عليها في النظام بأي عقوبة أخرى ينص عليها أي نظام آخر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "1 - لا يخل إيقاع أي من الغرامات المنصوص عليها في النظام باستيفاء الضريبة المستحقة.\n2 - لا يخل تطبيق أي من العقوبات المنصوص عليها في النظام بأي عقوبة أخرى ينص عليها أي نظام آخر.",
+          "text_for_index": "1 - لا يخل إيقاع أي من الغرامات المنصوص عليها في النظام باستيفاء الضريبة المستحقة.\n2 - لا يخل تطبيق أي من العقوبات المنصوص عليها في النظام بأي عقوبة أخرى ينص عليها أي نظام آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون:",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة السابعة والأربعون",
+      "text_verbatim": "في حال تكرار المخالفة نفسها خلال ثلاث سنوات من تاريخ صيرورة قرار العقوبة السابقة نهائيًّا، تجوز مضاعفة الغرامة في حق المخالف بموجب ذلك القرار.",
+      "text_for_index": "في حال تكرار المخالفة نفسها خلال ثلاث سنوات من تاريخ صيرورة قرار العقوبة السابقة نهائيًّا، تجوز مضاعفة الغرامة في حق المخالف بموجب ذلك القرار.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "في حال تكرار المخالفة نفسها خلال ثلاث سنوات من تاريخ صيرورة قرار العقوبة السابقة نهائيًّا، تجوز مضاعفة الغرامة في حق المخالف بموجب ذلك القرار.",
+          "text_for_index": "في حال تكرار المخالفة نفسها خلال ثلاث سنوات من تاريخ صيرورة قرار العقوبة السابقة نهائيًّا، تجوز مضاعفة الغرامة في حق المخالف بموجب ذلك القرار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 48,
+      "article_label": "الفصل السابع عشر: إيقاع العقوبات والنظر في المخالفات",
+      "article_label_raw": "الفصل السابع عشر: إيقاع العقوبات والنظر في المخالفات",
+      "article_heading": "الفصل السابع عشر: إيقاع العقوبات والنظر في المخالفات",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "company_management",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل السابع عشر: إيقاع العقوبات والنظر في المخالفات",
+      "text_verbatim": "1 - تتولى الهيئة إيقاع العقوبات المنصوص عليها في النظام وفقاً لتصنيف للمخالفات وتحديد للعقوبات يصدر به قرار من مجلس الإدارة، ويراعى فيه التناسب بين المخالفة والعقوبة.\n2 - يكون إيقاع العقوبة بقرار من محافظ الهيئة، أو من يفوضه مجلس الإدارة بذلك.\n3 - يجوز تضمين القرار الصادر بالعقوبة النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وآثارها، وبعد اكتساب القرار الصفة القطعية.",
+      "text_for_index": "1 - تتولى الهيئة إيقاع العقوبات المنصوص عليها في النظام وفقاً لتصنيف للمخالفات وتحديد للعقوبات يصدر به قرار من مجلس الإدارة، ويراعى فيه التناسب بين المخالفة والعقوبة.\n2 - يكون إيقاع العقوبة بقرار من محافظ الهيئة، أو من يفوضه مجلس الإدارة بذلك.\n3 - يجوز تضمين القرار الصادر بالعقوبة النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وآثارها، وبعد اكتساب القرار الصفة القطعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-48::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "جزاء"
+          ],
+          "text_verbatim": "1 - تتولى الهيئة إيقاع العقوبات المنصوص عليها في النظام وفقاً لتصنيف للمخالفات وتحديد للعقوبات يصدر به قرار من مجلس الإدارة، ويراعى فيه التناسب بين المخالفة والعقوبة.\n2 - يكون إيقاع العقوبة بقرار من محافظ الهيئة، أو من يفوضه مجلس الإدارة بذلك.\n3 - يجوز تضمين القرار الصادر بالعقوبة النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وآثارها، وبعد اكتساب القرار الصفة القطعية.",
+          "text_for_index": "1 - تتولى الهيئة إيقاع العقوبات المنصوص عليها في النظام وفقاً لتصنيف للمخالفات وتحديد للعقوبات يصدر به قرار من مجلس الإدارة، ويراعى فيه التناسب بين المخالفة والعقوبة.\n2 - يكون إيقاع العقوبة بقرار من محافظ الهيئة، أو من يفوضه مجلس الإدارة بذلك.\n3 - يجوز تضمين القرار الصادر بالعقوبة النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وآثارها، وبعد اكتساب القرار الصفة القطعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 49,
+      "article_label": "التاسعة والأربعون",
+      "article_label_raw": "التاسعة والأربعون:",
+      "article_heading": "التاسعة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة التاسعة والأربعون",
+      "text_verbatim": "يجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام الجهة القضائية المختصة خلال ثلاثين يوماً من تاريخ العل به، وإلا عُدّ نهائياً غير قابل للطعن أمام أي جهة قضائية أخرى.",
+      "text_for_index": "يجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام الجهة القضائية المختصة خلال ثلاثين يوماً من تاريخ العل به، وإلا عُدّ نهائياً غير قابل للطعن أمام أي جهة قضائية أخرى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-49::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام الجهة القضائية المختصة خلال ثلاثين يوماً من تاريخ العل به، وإلا عُدّ نهائياً غير قابل للطعن أمام أي جهة قضائية أخرى.",
+          "text_for_index": "يجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام الجهة القضائية المختصة خلال ثلاثين يوماً من تاريخ العل به، وإلا عُدّ نهائياً غير قابل للطعن أمام أي جهة قضائية أخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 50,
+      "article_label": "الفصل الثامن عشر: أحكام ختامية",
+      "article_label_raw": "الفصل الثامن عشر: أحكام ختامية",
+      "article_heading": "الفصل الثامن عشر: أحكام ختامية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الفصل الثامن عشر: أحكام ختامية",
+      "text_verbatim": "مع مراعاة ما تقضي به المادة (الثامنة والعشرون) من النظام، تتولى الهيئة مسؤولية إدارة وفحص وتقييم وتحصيل الضريبة، ولها في سبيل ذلك اتخاذ ما تراه من إجراءات.",
+      "text_for_index": "مع مراعاة ما تقضي به المادة (الثامنة والعشرون) من النظام، تتولى الهيئة مسؤولية إدارة وفحص وتقييم وتحصيل الضريبة، ولها في سبيل ذلك اتخاذ ما تراه من إجراءات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-50::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "مع مراعاة ما تقضي به المادة (الثامنة والعشرون) من النظام، تتولى الهيئة مسؤولية إدارة وفحص وتقييم وتحصيل الضريبة، ولها في سبيل ذلك اتخاذ ما تراه من إجراءات.",
+          "text_for_index": "مع مراعاة ما تقضي به المادة (الثامنة والعشرون) من النظام، تتولى الهيئة مسؤولية إدارة وفحص وتقييم وتحصيل الضريبة، ولها في سبيل ذلك اتخاذ ما تراه من إجراءات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 51,
+      "article_label": "الحادية والخمسون",
+      "article_label_raw": "الحادية والخمسون:",
+      "article_heading": "الحادية والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الحادية والخمسون",
+      "text_verbatim": "1 - للهيئة التنسيق مع الجهات الحكومية في كل ما له علاقة بتنفيذ أحكام الاتفاقية والنظام واللائحة.\n2 - على جميع الجهات الحكومية والأشخاص تزويد الهيئة بالمعلومات التي تطلبها لأغراض الضريبة.",
+      "text_for_index": "1 - للهيئة التنسيق مع الجهات الحكومية في كل ما له علاقة بتنفيذ أحكام الاتفاقية والنظام واللائحة.\n2 - على جميع الجهات الحكومية والأشخاص تزويد الهيئة بالمعلومات التي تطلبها لأغراض الضريبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-51::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "1 - للهيئة التنسيق مع الجهات الحكومية في كل ما له علاقة بتنفيذ أحكام الاتفاقية والنظام واللائحة.\n2 - على جميع الجهات الحكومية والأشخاص تزويد الهيئة بالمعلومات التي تطلبها لأغراض الضريبة.",
+          "text_for_index": "1 - للهيئة التنسيق مع الجهات الحكومية في كل ما له علاقة بتنفيذ أحكام الاتفاقية والنظام واللائحة.\n2 - على جميع الجهات الحكومية والأشخاص تزويد الهيئة بالمعلومات التي تطلبها لأغراض الضريبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 52,
+      "article_label": "الثانية والخمسون",
+      "article_label_raw": "الثانية والخمسون:",
+      "article_heading": "الثانية والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثانية والخمسون",
+      "text_verbatim": "يصدر مجلس إدارة الهيئة اللائحة خلال ثلاثين يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ نفاذه. ويصدر كذلك القرارات والتعليمات اللازمة لتنفيذ أحكام النظام واللائحة.",
+      "text_for_index": "يصدر مجلس إدارة الهيئة اللائحة خلال ثلاثين يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ نفاذه. ويصدر كذلك القرارات والتعليمات اللازمة لتنفيذ أحكام النظام واللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-52::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر مجلس إدارة الهيئة اللائحة خلال ثلاثين يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ نفاذه. ويصدر كذلك القرارات والتعليمات اللازمة لتنفيذ أحكام النظام واللائحة.",
+          "text_for_index": "يصدر مجلس إدارة الهيئة اللائحة خلال ثلاثين يوماً من تاريخ صدور النظام، ويعمل بها من تاريخ نفاذه. ويصدر كذلك القرارات والتعليمات اللازمة لتنفيذ أحكام النظام واللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 53,
+      "article_label": "الثالثة والخمسون",
+      "article_label_raw": "الثالثة والخمسون:",
+      "article_heading": "الثالثة والخمسون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام ضريبة القيمة المضافة، المادة الثالثة والخمسون",
+      "text_verbatim": "1 - يُعمل بالنظام اعتباراً من بداية السنة المالية التالية لتاريخ نشره في الجريدة الرسمية.\n2 - استثناءً من الفقرة (1) من هذه المادة، على الأشخاص الملزمين بالتسجيل لأغراض الضريبة التسجيل لدى الهيئة خلال ثلاثين يوماً من تاريخ نشر النظام.",
+      "text_for_index": "1 - يُعمل بالنظام اعتباراً من بداية السنة المالية التالية لتاريخ نشره في الجريدة الرسمية.\n2 - استثناءً من الفقرة (1) من هذه المادة، على الأشخاص الملزمين بالتسجيل لأغراض الضريبة التسجيل لدى الهيئة خلال ثلاثين يوماً من تاريخ نشر النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-drybh-alqymh-almdafh::article-53::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - يُعمل بالنظام اعتباراً من بداية السنة المالية التالية لتاريخ نشره في الجريدة الرسمية.\n2 - استثناءً من الفقرة (1) من هذه المادة، على الأشخاص الملزمين بالتسجيل لأغراض الضريبة التسجيل لدى الهيئة خلال ثلاثين يوماً من تاريخ نشر النظام.",
+          "text_for_index": "1 - يُعمل بالنظام اعتباراً من بداية السنة المالية التالية لتاريخ نشره في الجريدة الرسمية.\n2 - استثناءً من الفقرة (1) من هذه المادة، على الأشخاص الملزمين بالتسجيل لأغراض الضريبة التسجيل لدى الهيئة خلال ثلاثين يوماً من تاريخ نشر النظام.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

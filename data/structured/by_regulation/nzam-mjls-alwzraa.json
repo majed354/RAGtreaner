@@ -1,0 +1,1270 @@
+{
+  "metadata": {
+    "slug": "nzam-mjls-alwzraa",
+    "title_ar": "نظام مجلس الوزراء",
+    "status": "ساري",
+    "issue_date_hijri": "1414/03/03 هـ الموافق : 20/08/1993 مـ",
+    "issue_date_gregorian": "1993-08-20",
+    "publish_date_hijri": "1414/03/10 هـ الموافق : 27/08/1993 مـ",
+    "publish_date_gregorian": "1993-08-27",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93e87aa7-f344-4711-b97c-a9a700f1662b/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-mjls-alwzraa.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-mjls-alwzraa.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1414/03/10 هـ الموافق : 27/08/1993 مـ",
+    "effective_date_gregorian": "1993-08-27",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 32,
+    "paragraph_count": 41,
+    "indexable_paragraph_count": 41,
+    "text_chars": 6265,
+    "verbatim_chars": 6408,
+    "citation_base_ar": "نظام مجلس الوزراء",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93e87aa7-f344-4711-b97c-a9a700f1662b/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-mjls-alwzraa.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-mjls-alwzraa.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "(1)",
+      "article_label_raw": "(1)",
+      "article_heading": "(1)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (1)",
+      "text_verbatim": "مجلس الوزراء هيئة نظامية يرأسها الملك.",
+      "text_for_index": "مجلس الوزراء هيئة نظامية يرأسها الملك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مجلس الوزراء هيئة نظامية يرأسها الملك.",
+          "text_for_index": "مجلس الوزراء هيئة نظامية يرأسها الملك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "(2)",
+      "article_label_raw": "(2)",
+      "article_heading": "(2)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (2)",
+      "text_verbatim": "مقر مجلس الوزراء  مدينة الرياض ويجوز عقد جلساته في جهة أخرى من المملكة.",
+      "text_for_index": "مقر مجلس الوزراء مدينة الرياض ويجوز عقد جلساته في جهة أخرى من المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مقر مجلس الوزراء  مدينة الرياض ويجوز عقد جلساته في جهة أخرى من المملكة.",
+          "text_for_index": "مقر مجلس الوزراء مدينة الرياض ويجوز عقد جلساته في جهة أخرى من المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "(3)",
+      "article_label_raw": "(3)",
+      "article_heading": "(3)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (3)",
+      "text_verbatim": "يشترط في عضو مجلس الوزراء  ما يلي:\n\nأ - أن يكون سعودي الجنسية بالأصل والمنشأ.\nب -  أن يكون من المشهود لهم بالصلاح والكفاية.\nج - أن لا يكون محكوما عليه بجريمة مخلة بالدين والشرف.",
+      "text_for_index": "يشترط في عضو مجلس الوزراء ما يلي:\n\nأ - أن يكون سعودي الجنسية بالأصل والمنشأ.\nب - أن يكون من المشهود لهم بالصلاح والكفاية.\nج - أن لا يكون محكوما عليه بجريمة مخلة بالدين والشرف.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يشترط في عضو مجلس الوزراء  ما يلي:",
+          "text_for_index": "يشترط في عضو مجلس الوزراء ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ - أن يكون سعودي الجنسية بالأصل والمنشأ.\nب -  أن يكون من المشهود لهم بالصلاح والكفاية.\nج - أن لا يكون محكوما عليه بجريمة مخلة بالدين والشرف.",
+          "text_for_index": "أ - أن يكون سعودي الجنسية بالأصل والمنشأ.\nب - أن يكون من المشهود لهم بالصلاح والكفاية.\nج - أن لا يكون محكوما عليه بجريمة مخلة بالدين والشرف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "(4)",
+      "article_label_raw": "(4)",
+      "article_heading": "(4)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (4)",
+      "text_verbatim": "لا يباشر أعضاء مجلس الوزراء  أعمالهم إلا بعد أداء اليمين الآتية: \"أقسم بالله العظيم أن أكون مخلصا لديني، ثم لمليكي، وبلادي، وأن لا أبوح بسر من أسرار الدولة، وأن أحافظ على مصالحها وأنظمتها، وأن أؤدي أعمالي بالصدق والأمانة والإخلاص\".",
+      "text_for_index": "لا يباشر أعضاء مجلس الوزراء أعمالهم إلا بعد أداء اليمين الآتية: \"أقسم بالله العظيم أن أكون مخلصا لديني، ثم لمليكي، وبلادي، وأن لا أبوح بسر من أسرار الدولة، وأن أحافظ على مصالحها وأنظمتها، وأن أؤدي أعمالي بالصدق والأمانة والإخلاص\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لا يباشر أعضاء مجلس الوزراء  أعمالهم إلا بعد أداء اليمين الآتية: \"أقسم بالله العظيم أن أكون مخلصا لديني، ثم لمليكي، وبلادي، وأن لا أبوح بسر من أسرار الدولة، وأن أحافظ على مصالحها وأنظمتها، وأن أؤدي أعمالي بالصدق والأمانة والإخلاص\".",
+          "text_for_index": "لا يباشر أعضاء مجلس الوزراء أعمالهم إلا بعد أداء اليمين الآتية: \"أقسم بالله العظيم أن أكون مخلصا لديني، ثم لمليكي، وبلادي، وأن لا أبوح بسر من أسرار الدولة، وأن أحافظ على مصالحها وأنظمتها، وأن أؤدي أعمالي بالصدق والأمانة والإخلاص\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "(5)",
+      "article_label_raw": "(5)",
+      "article_heading": "(5)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (5)",
+      "text_verbatim": "لا يجوز الجمع بين عضوية مجلس الوزراء  وأية وظيفة حكومية أخرى، إلا إذا رأى رئيس مجلس الوزراء  أن الضرورة تدعو إلى ذلك.",
+      "text_for_index": "لا يجوز الجمع بين عضوية مجلس الوزراء وأية وظيفة حكومية أخرى، إلا إذا رأى رئيس مجلس الوزراء أن الضرورة تدعو إلى ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز الجمع بين عضوية مجلس الوزراء  وأية وظيفة حكومية أخرى، إلا إذا رأى رئيس مجلس الوزراء  أن الضرورة تدعو إلى ذلك.",
+          "text_for_index": "لا يجوز الجمع بين عضوية مجلس الوزراء وأية وظيفة حكومية أخرى، إلا إذا رأى رئيس مجلس الوزراء أن الضرورة تدعو إلى ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "(6)",
+      "article_label_raw": "(6)",
+      "article_heading": "(6)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (6)",
+      "text_verbatim": "لا يجوز لعضو    مجلس الوزراء     أثناء تولية   العضوية    أن يشتري أو يستأجر مباشرة أو بالواسطة أو   بالمزاد العام    أيا كان من أملاك الدولة، كما لا يجوز له بيع أو إيجار أي شيء من أملاكه إلى الحكومة وليس له مزاولة أي عمل تجاري أو مالي أو قبول   العضوية    لمجلس إدارة أي شركة.",
+      "text_for_index": "لا يجوز لعضو مجلس الوزراء أثناء تولية العضوية أن يشتري أو يستأجر مباشرة أو بالواسطة أو بالمزاد العام أيا كان من أملاك الدولة، كما لا يجوز له بيع أو إيجار أي شيء من أملاكه إلى الحكومة وليس له مزاولة أي عمل تجاري أو مالي أو قبول العضوية لمجلس إدارة أي شركة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز لعضو    مجلس الوزراء     أثناء تولية   العضوية    أن يشتري أو يستأجر مباشرة أو بالواسطة أو   بالمزاد العام    أيا كان من أملاك الدولة، كما لا يجوز له بيع أو إيجار أي شيء من أملاكه إلى الحكومة وليس له مزاولة أي عمل تجاري أو مالي أو قبول   العضوية    لمجلس إدارة أي شركة.",
+          "text_for_index": "لا يجوز لعضو مجلس الوزراء أثناء تولية العضوية أن يشتري أو يستأجر مباشرة أو بالواسطة أو بالمزاد العام أيا كان من أملاك الدولة، كما لا يجوز له بيع أو إيجار أي شيء من أملاكه إلى الحكومة وليس له مزاولة أي عمل تجاري أو مالي أو قبول العضوية لمجلس إدارة أي شركة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "(7)",
+      "article_label_raw": "(7)",
+      "article_heading": "(7)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (7)",
+      "text_verbatim": "تعقد اجتماعات مجلس الوزراء  برئاسة الملك  رئيس المجلس أو أحد نواب الرئيس وتصبح قراراته نهائية بعد موافقة الملك  عليها.",
+      "text_for_index": "تعقد اجتماعات مجلس الوزراء برئاسة الملك رئيس المجلس أو أحد نواب الرئيس وتصبح قراراته نهائية بعد موافقة الملك عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعقد اجتماعات مجلس الوزراء  برئاسة الملك  رئيس المجلس أو أحد نواب الرئيس وتصبح قراراته نهائية بعد موافقة الملك  عليها.",
+          "text_for_index": "تعقد اجتماعات مجلس الوزراء برئاسة الملك رئيس المجلس أو أحد نواب الرئيس وتصبح قراراته نهائية بعد موافقة الملك عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "(8)",
+      "article_label_raw": "(8)",
+      "article_heading": "(8)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (8)",
+      "text_verbatim": "يتم تعيين أعضاء مجلس الوزراء  وإعفاؤهم من مناصبهم وقبول استقالاتهم بأمر ملكي، وتحدد مسئولياتهم وفقا للمادتين السابعة والخمسين والثامنة والخمسين من   النظام الأساسي    للحكم.\nويبين النظام الداخلي للمجلس حقوقهم.",
+      "text_for_index": "يتم تعيين أعضاء مجلس الوزراء وإعفاؤهم من مناصبهم وقبول استقالاتهم بأمر ملكي، وتحدد مسئولياتهم وفقا للمادتين السابعة والخمسين والثامنة والخمسين من النظام الأساسي للحكم.\nويبين النظام الداخلي للمجلس حقوقهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يتم تعيين أعضاء مجلس الوزراء  وإعفاؤهم من مناصبهم وقبول استقالاتهم بأمر ملكي، وتحدد مسئولياتهم وفقا للمادتين السابعة والخمسين والثامنة والخمسين من   النظام الأساسي    للحكم.\nويبين النظام الداخلي للمجلس حقوقهم.",
+          "text_for_index": "يتم تعيين أعضاء مجلس الوزراء وإعفاؤهم من مناصبهم وقبول استقالاتهم بأمر ملكي، وتحدد مسئولياتهم وفقا للمادتين السابعة والخمسين والثامنة والخمسين من النظام الأساسي للحكم.\nويبين النظام الداخلي للمجلس حقوقهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "(9)",
+      "article_label_raw": "(9)",
+      "article_heading": "(9)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (9)",
+      "text_verbatim": "مدة مجلس الوزراء لا تزيد عن أربع سنوات يتم خلالها إعادة تشكيله بأمر ملكي، وفي حالة انتهاء المدة قبل إعادة تشكيله يستمر في أداء عمله حتى إعادة التشكيل.",
+      "text_for_index": "مدة مجلس الوزراء لا تزيد عن أربع سنوات يتم خلالها إعادة تشكيله بأمر ملكي، وفي حالة انتهاء المدة قبل إعادة تشكيله يستمر في أداء عمله حتى إعادة التشكيل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مدة مجلس الوزراء لا تزيد عن أربع سنوات يتم خلالها إعادة تشكيله بأمر ملكي، وفي حالة انتهاء المدة قبل إعادة تشكيله يستمر في أداء عمله حتى إعادة التشكيل.",
+          "text_for_index": "مدة مجلس الوزراء لا تزيد عن أربع سنوات يتم خلالها إعادة تشكيله بأمر ملكي، وفي حالة انتهاء المدة قبل إعادة تشكيله يستمر في أداء عمله حتى إعادة التشكيل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "(10)",
+      "article_label_raw": "(10)",
+      "article_heading": "(10)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (10)",
+      "text_verbatim": "يعتبر الوزير  هو الرئيس المباشر  والمرجع النهائي لشئون وزارته ويمارس أعماله وفق أحكام هذا النظام والأنظمة    واللوائح    الأخرى.",
+      "text_for_index": "يعتبر الوزير هو الرئيس المباشر والمرجع النهائي لشئون وزارته ويمارس أعماله وفق أحكام هذا النظام والأنظمة واللوائح الأخرى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعتبر الوزير  هو الرئيس المباشر  والمرجع النهائي لشئون وزارته ويمارس أعماله وفق أحكام هذا النظام والأنظمة    واللوائح    الأخرى.",
+          "text_for_index": "يعتبر الوزير هو الرئيس المباشر والمرجع النهائي لشئون وزارته ويمارس أعماله وفق أحكام هذا النظام والأنظمة واللوائح الأخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "(11)",
+      "article_label_raw": "(11)",
+      "article_heading": "(11)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (11)",
+      "text_verbatim": "أ - النيابة عن الوزير  في مجلس الوزراء  لا تكون إلا لوزير آخر وبموجب أمر يصدر من رئيس مجلس الوزراء .\nب - يتولى نائب الوزير  ممارسة صلاحيات الوزير  في حالة غيابه.",
+      "text_for_index": "أ - النيابة عن الوزير في مجلس الوزراء لا تكون إلا لوزير آخر وبموجب أمر يصدر من رئيس مجلس الوزراء .\nب - يتولى نائب الوزير ممارسة صلاحيات الوزير في حالة غيابه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "أ - النيابة عن الوزير  في مجلس الوزراء  لا تكون إلا لوزير آخر وبموجب أمر يصدر من رئيس مجلس الوزراء .\nب - يتولى نائب الوزير  ممارسة صلاحيات الوزير  في حالة غيابه.",
+          "text_for_index": "أ - النيابة عن الوزير في مجلس الوزراء لا تكون إلا لوزير آخر وبموجب أمر يصدر من رئيس مجلس الوزراء .\nب - يتولى نائب الوزير ممارسة صلاحيات الوزير في حالة غيابه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "(12)",
+      "article_label_raw": "(12)",
+      "article_heading": "(12)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (12)",
+      "text_verbatim": "يتألف مجلس الوزراء  من:\n\nأ -   رئيس مجلس الوزراء   .\nب -   نواب رئيس مجلس الوزراء  .\nجـ - الوزراء العاملين .\nد - وزراء الدولة  الذين يعينون أعضاء في مجلس الوزراء    بأمر ملكي.\nهـ - مستشاري الملك  الذين يعينون أعضاء في مجلس الوزراء    بأمر ملكي.",
+      "text_for_index": "يتألف مجلس الوزراء من:\n\nأ - رئيس مجلس الوزراء .\nب - نواب رئيس مجلس الوزراء .\nجـ - الوزراء العاملين .\nد - وزراء الدولة الذين يعينون أعضاء في مجلس الوزراء بأمر ملكي.\nهـ - مستشاري الملك الذين يعينون أعضاء في مجلس الوزراء بأمر ملكي.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يتألف مجلس الوزراء  من:",
+          "text_for_index": "يتألف مجلس الوزراء من:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ -   رئيس مجلس الوزراء   .\nب -   نواب رئيس مجلس الوزراء  .\nجـ - الوزراء العاملين .\nد - وزراء الدولة  الذين يعينون أعضاء في مجلس الوزراء    بأمر ملكي.\nهـ - مستشاري الملك  الذين يعينون أعضاء في مجلس الوزراء    بأمر ملكي.",
+          "text_for_index": "أ - رئيس مجلس الوزراء .\nب - نواب رئيس مجلس الوزراء .\nجـ - الوزراء العاملين .\nد - وزراء الدولة الذين يعينون أعضاء في مجلس الوزراء بأمر ملكي.\nهـ - مستشاري الملك الذين يعينون أعضاء في مجلس الوزراء بأمر ملكي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "(13)",
+      "article_label_raw": "(13)",
+      "article_heading": "(13)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (13)",
+      "text_verbatim": "حضور اجتماعات مجلس الوزراء  حق خاص بأعضائه فقط   وبالأمين العام لمجلس الوزراء   ، ويجوز بناء على طلب الرئيس  أو أحد الأعضاء  بعد موافقة رئيس مجلس الوزراء  السماح لأحد المسئولين أو الخبراء بحضور جلسات المجلس لتقديم ما لديه من معلومات وإيضاحات على أن يكون   حق التصويت    خاصا بالأعضاء فقط.",
+      "text_for_index": "حضور اجتماعات مجلس الوزراء حق خاص بأعضائه فقط وبالأمين العام لمجلس الوزراء ، ويجوز بناء على طلب الرئيس أو أحد الأعضاء بعد موافقة رئيس مجلس الوزراء السماح لأحد المسئولين أو الخبراء بحضور جلسات المجلس لتقديم ما لديه من معلومات وإيضاحات على أن يكون حق التصويت خاصا بالأعضاء فقط.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "حضور اجتماعات مجلس الوزراء  حق خاص بأعضائه فقط   وبالأمين العام لمجلس الوزراء   ، ويجوز بناء على طلب الرئيس  أو أحد الأعضاء  بعد موافقة رئيس مجلس الوزراء  السماح لأحد المسئولين أو الخبراء بحضور جلسات المجلس لتقديم ما لديه من معلومات وإيضاحات على أن يكون   حق التصويت    خاصا بالأعضاء فقط.",
+          "text_for_index": "حضور اجتماعات مجلس الوزراء حق خاص بأعضائه فقط وبالأمين العام لمجلس الوزراء ، ويجوز بناء على طلب الرئيس أو أحد الأعضاء بعد موافقة رئيس مجلس الوزراء السماح لأحد المسئولين أو الخبراء بحضور جلسات المجلس لتقديم ما لديه من معلومات وإيضاحات على أن يكون حق التصويت خاصا بالأعضاء فقط.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "(14)",
+      "article_label_raw": "(14)",
+      "article_heading": "(14)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (14)",
+      "text_verbatim": "لا يعتبر اجتماع مجلس الوزراء  صحيحا إلا بحضور ثلثي أعضائه ولا تكون قراراته نظامية إلا بعد صدورها بأغلبية الحاضرين وفي حالة التساوي يعتبر صوت الرئيس  مرجحا، وفي الحالات الاستثنائية يكون انعقاد المجلس صحيحا بحضور نصف أعضائه ولا تكون قراراته نظامية في هذه الحالة إلا بموافقة ثلثي أعضائه الحاضرين،   ولرئيس مجلس الوزراء     تقدير الحالات الاستثنائية.",
+      "text_for_index": "لا يعتبر اجتماع مجلس الوزراء صحيحا إلا بحضور ثلثي أعضائه ولا تكون قراراته نظامية إلا بعد صدورها بأغلبية الحاضرين وفي حالة التساوي يعتبر صوت الرئيس مرجحا، وفي الحالات الاستثنائية يكون انعقاد المجلس صحيحا بحضور نصف أعضائه ولا تكون قراراته نظامية في هذه الحالة إلا بموافقة ثلثي أعضائه الحاضرين، ولرئيس مجلس الوزراء تقدير الحالات الاستثنائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يعتبر اجتماع مجلس الوزراء  صحيحا إلا بحضور ثلثي أعضائه ولا تكون قراراته نظامية إلا بعد صدورها بأغلبية الحاضرين وفي حالة التساوي يعتبر صوت الرئيس  مرجحا، وفي الحالات الاستثنائية يكون انعقاد المجلس صحيحا بحضور نصف أعضائه ولا تكون قراراته نظامية في هذه الحالة إلا بموافقة ثلثي أعضائه الحاضرين،   ولرئيس مجلس الوزراء     تقدير الحالات الاستثنائية.",
+          "text_for_index": "لا يعتبر اجتماع مجلس الوزراء صحيحا إلا بحضور ثلثي أعضائه ولا تكون قراراته نظامية إلا بعد صدورها بأغلبية الحاضرين وفي حالة التساوي يعتبر صوت الرئيس مرجحا، وفي الحالات الاستثنائية يكون انعقاد المجلس صحيحا بحضور نصف أعضائه ولا تكون قراراته نظامية في هذه الحالة إلا بموافقة ثلثي أعضائه الحاضرين، ولرئيس مجلس الوزراء تقدير الحالات الاستثنائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "(15)",
+      "article_label_raw": "(15)",
+      "article_heading": "(15)",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (15)",
+      "text_verbatim": "لا يتخذ مجلس الوزراء  قرارا في موضوع خاص بأعمال وزارة من الوزارات إلا بحضور وزيرها أو من ينوب عنه ما لم تدع الضرورة لذلك.",
+      "text_for_index": "لا يتخذ مجلس الوزراء قرارا في موضوع خاص بأعمال وزارة من الوزارات إلا بحضور وزيرها أو من ينوب عنه ما لم تدع الضرورة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لا يتخذ مجلس الوزراء  قرارا في موضوع خاص بأعمال وزارة من الوزارات إلا بحضور وزيرها أو من ينوب عنه ما لم تدع الضرورة لذلك.",
+          "text_for_index": "لا يتخذ مجلس الوزراء قرارا في موضوع خاص بأعمال وزارة من الوزارات إلا بحضور وزيرها أو من ينوب عنه ما لم تدع الضرورة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "(16)",
+      "article_label_raw": "(16)",
+      "article_heading": "(16)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (16)",
+      "text_verbatim": "مداولات المجلس سرية أما قراراته فالأصل فيها العلنية عدا ما اعتبر منها سريا بقرار من المجلس.",
+      "text_for_index": "مداولات المجلس سرية أما قراراته فالأصل فيها العلنية عدا ما اعتبر منها سريا بقرار من المجلس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مداولات المجلس سرية أما قراراته فالأصل فيها العلنية عدا ما اعتبر منها سريا بقرار من المجلس.",
+          "text_for_index": "مداولات المجلس سرية أما قراراته فالأصل فيها العلنية عدا ما اعتبر منها سريا بقرار من المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "(17)",
+      "article_label_raw": "(17)",
+      "article_heading": "(17)",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (17)",
+      "text_verbatim": "يحاكم أعضاء مجلس الوزراء عن المخالفات التي يرتكبونها في أعمالهم الرسمية بموجب نظام خاص يتضمن بيان المخالفات وتحديد إجراءات الاتهام والمحاكمة وكيفية تأليف هيئة المحكمة.",
+      "text_for_index": "يحاكم أعضاء مجلس الوزراء عن المخالفات التي يرتكبونها في أعمالهم الرسمية بموجب نظام خاص يتضمن بيان المخالفات وتحديد إجراءات الاتهام والمحاكمة وكيفية تأليف هيئة المحكمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "يحاكم أعضاء مجلس الوزراء عن المخالفات التي يرتكبونها في أعمالهم الرسمية بموجب نظام خاص يتضمن بيان المخالفات وتحديد إجراءات الاتهام والمحاكمة وكيفية تأليف هيئة المحكمة.",
+          "text_for_index": "يحاكم أعضاء مجلس الوزراء عن المخالفات التي يرتكبونها في أعمالهم الرسمية بموجب نظام خاص يتضمن بيان المخالفات وتحديد إجراءات الاتهام والمحاكمة وكيفية تأليف هيئة المحكمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "(18)",
+      "article_label_raw": "(18)",
+      "article_heading": "(18)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (18)",
+      "text_verbatim": "يجوز لمجلس الوزراء أن يؤلف لجانا من بين أعضائه أو من غيرهم لبحث مسألة مدرجة بجدول أعماله لتقديم تقرير خاص عنها ويتولى النظام الداخلي للمجلس بيان عدد اللجان وسير أعمالها.",
+      "text_for_index": "يجوز لمجلس الوزراء أن يؤلف لجانا من بين أعضائه أو من غيرهم لبحث مسألة مدرجة بجدول أعماله لتقديم تقرير خاص عنها ويتولى النظام الداخلي للمجلس بيان عدد اللجان وسير أعمالها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يجوز لمجلس الوزراء أن يؤلف لجانا من بين أعضائه أو من غيرهم لبحث مسألة مدرجة بجدول أعماله لتقديم تقرير خاص عنها ويتولى النظام الداخلي للمجلس بيان عدد اللجان وسير أعمالها.",
+          "text_for_index": "يجوز لمجلس الوزراء أن يؤلف لجانا من بين أعضائه أو من غيرهم لبحث مسألة مدرجة بجدول أعماله لتقديم تقرير خاص عنها ويتولى النظام الداخلي للمجلس بيان عدد اللجان وسير أعمالها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "(19)",
+      "article_label_raw": "(19)",
+      "article_heading": "(19)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (19)",
+      "text_verbatim": "مع مراعاة ما ورد في النظام الأساسي للحكم ونظام مجلس الشورى يرسم مجلس الوزراء السياسة الداخلية والخارجية والمالية والاقتصادية والتعليمية والدفاعية وجميع الشؤون العامة للدولة ويشرف على تنفيذها. وينظر في قرارات مجلس الشورى . وله السلطة التنفيذية وهو المرجع للشؤون المالية والإدارية في سائر الوزارات والأجهزة الحكومية الأخرى.",
+      "text_for_index": "مع مراعاة ما ورد في النظام الأساسي للحكم ونظام مجلس الشورى يرسم مجلس الوزراء السياسة الداخلية والخارجية والمالية والاقتصادية والتعليمية والدفاعية وجميع الشؤون العامة للدولة ويشرف على تنفيذها. وينظر في قرارات مجلس الشورى . وله السلطة التنفيذية وهو المرجع للشؤون المالية والإدارية في سائر الوزارات والأجهزة الحكومية الأخرى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "مع مراعاة ما ورد في النظام الأساسي للحكم ونظام مجلس الشورى يرسم مجلس الوزراء السياسة الداخلية والخارجية والمالية والاقتصادية والتعليمية والدفاعية وجميع الشؤون العامة للدولة ويشرف على تنفيذها. وينظر في قرارات مجلس الشورى . وله السلطة التنفيذية وهو المرجع للشؤون المالية والإدارية في سائر الوزارات والأجهزة الحكومية الأخرى.",
+          "text_for_index": "مع مراعاة ما ورد في النظام الأساسي للحكم ونظام مجلس الشورى يرسم مجلس الوزراء السياسة الداخلية والخارجية والمالية والاقتصادية والتعليمية والدفاعية وجميع الشؤون العامة للدولة ويشرف على تنفيذها. وينظر في قرارات مجلس الشورى . وله السلطة التنفيذية وهو المرجع للشؤون المالية والإدارية في سائر الوزارات والأجهزة الحكومية الأخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "(20)",
+      "article_label_raw": "(20)",
+      "article_heading": "(20)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (20)",
+      "text_verbatim": "مع مراعاة ما ورد في نظام مجلس الشورى، تصدر الأنظمة، والمعاهدات، والاتفاقيات الدولية والامتيازات، وتعدل بموجب مراسيم ملكية بعد دراستها من مجلس الوزراء.",
+      "text_for_index": "مع مراعاة ما ورد في نظام مجلس الشورى، تصدر الأنظمة، والمعاهدات، والاتفاقيات الدولية والامتيازات، وتعدل بموجب مراسيم ملكية بعد دراستها من مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مع مراعاة ما ورد في نظام مجلس الشورى، تصدر الأنظمة، والمعاهدات، والاتفاقيات الدولية والامتيازات، وتعدل بموجب مراسيم ملكية بعد دراستها من مجلس الوزراء.",
+          "text_for_index": "مع مراعاة ما ورد في نظام مجلس الشورى، تصدر الأنظمة، والمعاهدات، والاتفاقيات الدولية والامتيازات، وتعدل بموجب مراسيم ملكية بعد دراستها من مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "(21)",
+      "article_label_raw": "(21)",
+      "article_heading": "(21)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (21)",
+      "text_verbatim": "يدرس مجلس الوزراء مشروعات الأنظمة واللوائح المعروضة عليه ويصوت عليها مادة مادة ثم يصوت عليها بالجملة وذلك حسب الإجراءات المرسومة في النظام الداخلي للمجلس.",
+      "text_for_index": "يدرس مجلس الوزراء مشروعات الأنظمة واللوائح المعروضة عليه ويصوت عليها مادة مادة ثم يصوت عليها بالجملة وذلك حسب الإجراءات المرسومة في النظام الداخلي للمجلس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يدرس مجلس الوزراء مشروعات الأنظمة واللوائح المعروضة عليه ويصوت عليها مادة مادة ثم يصوت عليها بالجملة وذلك حسب الإجراءات المرسومة في النظام الداخلي للمجلس.",
+          "text_for_index": "يدرس مجلس الوزراء مشروعات الأنظمة واللوائح المعروضة عليه ويصوت عليها مادة مادة ثم يصوت عليها بالجملة وذلك حسب الإجراءات المرسومة في النظام الداخلي للمجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "(22)",
+      "article_label_raw": "(22)",
+      "article_heading": "(22)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (22)",
+      "text_verbatim": "لكل وزير الحق بأن يقترح مشروع نظام أو لائحة يتعلق بأعمال وزارته. كما يحق لكل عضو من أعضاء مجلس الوزراء أن يقترح ما يرى مصلحة من بحثه في المجلس بعد موافقة رئيس مجلس الوزراء.",
+      "text_for_index": "لكل وزير الحق بأن يقترح مشروع نظام أو لائحة يتعلق بأعمال وزارته. كما يحق لكل عضو من أعضاء مجلس الوزراء أن يقترح ما يرى مصلحة من بحثه في المجلس بعد موافقة رئيس مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "لكل وزير الحق بأن يقترح مشروع نظام أو لائحة يتعلق بأعمال وزارته. كما يحق لكل عضو من أعضاء مجلس الوزراء أن يقترح ما يرى مصلحة من بحثه في المجلس بعد موافقة رئيس مجلس الوزراء.",
+          "text_for_index": "لكل وزير الحق بأن يقترح مشروع نظام أو لائحة يتعلق بأعمال وزارته. كما يحق لكل عضو من أعضاء مجلس الوزراء أن يقترح ما يرى مصلحة من بحثه في المجلس بعد موافقة رئيس مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "(23)",
+      "article_label_raw": "(23)",
+      "article_heading": "(23)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (23)",
+      "text_verbatim": "يجب نشر جميع المراسيم في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها ما لم ينص على تاريخ آخر.",
+      "text_for_index": "يجب نشر جميع المراسيم في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها ما لم ينص على تاريخ آخر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "يجب نشر جميع المراسيم في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها ما لم ينص على تاريخ آخر.",
+          "text_for_index": "يجب نشر جميع المراسيم في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها ما لم ينص على تاريخ آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "(24)",
+      "article_label_raw": "(24)",
+      "article_heading": "(24)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (24)",
+      "text_verbatim": "للمجلس باعتباره السلطة التنفيذية المباشرة الهيمنة التامة على شؤون التنفيذ والإدارة، ويدخل في اختصاصاته التنفيذية الأمور الآتية:\n\n1 - مراقبة تنفيذ الأنظمة واللوائح والقرارات.\n\n2 - إحداث وترتيب المصالح العامة .\n\n3 - متابعة تنفيذ الخطة العامة للتنمية .\n\n4 - إنشاء لجان تتحرى عن سير أعمال الوزارات والأجهزة الحكومية الأخرى أو عن قضية معينة وترفع هذه اللجان نتائج تحرياتها إلى المجلس في الوقت الذي يحدده لها وينظر المجلس في نتيجة تحرياتها وله إنشاء لجان للتحقيق على ضوء ذلك والبت في النتيجة مع مراعاة ما تقضي به الأنظمة واللوائح.",
+      "text_for_index": "للمجلس باعتباره السلطة التنفيذية المباشرة الهيمنة التامة على شؤون التنفيذ والإدارة، ويدخل في اختصاصاته التنفيذية الأمور الآتية:\n\n1 - مراقبة تنفيذ الأنظمة واللوائح والقرارات.\n\n2 - إحداث وترتيب المصالح العامة .\n\n3 - متابعة تنفيذ الخطة العامة للتنمية .\n\n4 - إنشاء لجان تتحرى عن سير أعمال الوزارات والأجهزة الحكومية الأخرى أو عن قضية معينة وترفع هذه اللجان نتائج تحرياتها إلى المجلس في الوقت الذي يحدده لها وينظر المجلس في نتيجة تحرياتها وله إنشاء لجان للتحقيق على ضوء ذلك والبت في النتيجة مع مراعاة ما تقضي به الأنظمة واللوائح.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "للمجلس باعتباره السلطة التنفيذية المباشرة الهيمنة التامة على شؤون التنفيذ والإدارة، ويدخل في اختصاصاته التنفيذية الأمور الآتية:",
+          "text_for_index": "للمجلس باعتباره السلطة التنفيذية المباشرة الهيمنة التامة على شؤون التنفيذ والإدارة، ويدخل في اختصاصاته التنفيذية الأمور الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-24::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "1 - مراقبة تنفيذ الأنظمة واللوائح والقرارات.",
+          "text_for_index": "1 - مراقبة تنفيذ الأنظمة واللوائح والقرارات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-24::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "2 - إحداث وترتيب المصالح العامة .",
+          "text_for_index": "2 - إحداث وترتيب المصالح العامة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-24::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "3 - متابعة تنفيذ الخطة العامة للتنمية .",
+          "text_for_index": "3 - متابعة تنفيذ الخطة العامة للتنمية .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-24::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "4 - إنشاء لجان تتحرى عن سير أعمال الوزارات والأجهزة الحكومية الأخرى أو عن قضية معينة وترفع هذه اللجان نتائج تحرياتها إلى المجلس في الوقت الذي يحدده لها وينظر المجلس في نتيجة تحرياتها وله إنشاء لجان للتحقيق على ضوء ذلك والبت في النتيجة مع مراعاة ما تقضي به الأنظمة واللوائح.",
+          "text_for_index": "4 - إنشاء لجان تتحرى عن سير أعمال الوزارات والأجهزة الحكومية الأخرى أو عن قضية معينة وترفع هذه اللجان نتائج تحرياتها إلى المجلس في الوقت الذي يحدده لها وينظر المجلس في نتيجة تحرياتها وله إنشاء لجان للتحقيق على ضوء ذلك والبت في النتيجة مع مراعاة ما تقضي به الأنظمة واللوائح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "(25)",
+      "article_label_raw": "(25)",
+      "article_heading": "(25)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (25)",
+      "text_verbatim": "لا يجوز للحكومة أن تعقد قرضا إلا بعد موافقة مجلس الوزراء  وصدور  مرسوم ملكي   بذلك.",
+      "text_for_index": "لا يجوز للحكومة أن تعقد قرضا إلا بعد موافقة مجلس الوزراء وصدور مرسوم ملكي بذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للحكومة أن تعقد قرضا إلا بعد موافقة مجلس الوزراء  وصدور  مرسوم ملكي   بذلك.",
+          "text_for_index": "لا يجوز للحكومة أن تعقد قرضا إلا بعد موافقة مجلس الوزراء وصدور مرسوم ملكي بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "(26)",
+      "article_label_raw": "(26)",
+      "article_heading": "(26)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (26)",
+      "text_verbatim": "يدرس مجلس الوزراء    ميزانية الدولة    ويصوت عليها فصلا فصلا وتصدر بموجب   مرسوم ملكي.",
+      "text_for_index": "يدرس مجلس الوزراء ميزانية الدولة ويصوت عليها فصلا فصلا وتصدر بموجب مرسوم ملكي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يدرس مجلس الوزراء    ميزانية الدولة    ويصوت عليها فصلا فصلا وتصدر بموجب   مرسوم ملكي.",
+          "text_for_index": "يدرس مجلس الوزراء ميزانية الدولة ويصوت عليها فصلا فصلا وتصدر بموجب مرسوم ملكي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "(27)",
+      "article_label_raw": "(27)",
+      "article_heading": "(27)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (27)",
+      "text_verbatim": "كل زيادة يراد إحداثها على   الميزانية    لا تكون إلا بموجب   مرسوم ملكي.",
+      "text_for_index": "كل زيادة يراد إحداثها على الميزانية لا تكون إلا بموجب مرسوم ملكي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "كل زيادة يراد إحداثها على   الميزانية    لا تكون إلا بموجب   مرسوم ملكي.",
+          "text_for_index": "كل زيادة يراد إحداثها على الميزانية لا تكون إلا بموجب مرسوم ملكي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "(28)",
+      "article_label_raw": "(28)",
+      "article_heading": "(28)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (28)",
+      "text_verbatim": "يرفع وزير المالية والاقتصاد الوطني الحساب الختامي للدولة عن   العام المالي    المنقضي إلى رئيس مجلس الوزراء  لإحالته إلى مجلس الوزراء  لغرض اعتماده.",
+      "text_for_index": "يرفع وزير المالية والاقتصاد الوطني الحساب الختامي للدولة عن العام المالي المنقضي إلى رئيس مجلس الوزراء لإحالته إلى مجلس الوزراء لغرض اعتماده.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يرفع وزير المالية والاقتصاد الوطني الحساب الختامي للدولة عن   العام المالي    المنقضي إلى رئيس مجلس الوزراء  لإحالته إلى مجلس الوزراء  لغرض اعتماده.",
+          "text_for_index": "يرفع وزير المالية والاقتصاد الوطني الحساب الختامي للدولة عن العام المالي المنقضي إلى رئيس مجلس الوزراء لإحالته إلى مجلس الوزراء لغرض اعتماده.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "(29)",
+      "article_label_raw": "(29)",
+      "article_heading": "(29)",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (29)",
+      "text_verbatim": "الملك رئيس مجلس الوزراء  هو الذي يوجه   السياسة العامة للدولة   ، ويكفل التوجيه والتنسيق والتعاون بين مختلف   الأجهزة الحكومية   ، ويضمن الانسجام والاستمرار والوحدة في أعمال  مجلس الوزراء.   وله الإشراف على مجلس الوزراء  والوزارات والأجهزة الحكومية، وهو الذي يراقب تنفيذ الأنظمة     واللوائح    والقرارات.\nوعلى جميع الوزارات  والأجهزة الحكومية  الأخرى أن ترفع إلى رئيس مجلس الوزراء  خلال تسعين يوما من بداية كل سنة مالية تقريرا عما حققته من إنجازات مقارنة بما ورد في  الخطة العامة للتنمية   خلال السنة المالية المنقضية، وما واجهها من صعوبات وما تراه من مقترحات لحسن سير العمل فيها.",
+      "text_for_index": "الملك رئيس مجلس الوزراء هو الذي يوجه السياسة العامة للدولة ، ويكفل التوجيه والتنسيق والتعاون بين مختلف الأجهزة الحكومية ، ويضمن الانسجام والاستمرار والوحدة في أعمال مجلس الوزراء. وله الإشراف على مجلس الوزراء والوزارات والأجهزة الحكومية، وهو الذي يراقب تنفيذ الأنظمة واللوائح والقرارات.\nوعلى جميع الوزارات والأجهزة الحكومية الأخرى أن ترفع إلى رئيس مجلس الوزراء خلال تسعين يوما من بداية كل سنة مالية تقريرا عما حققته من إنجازات مقارنة بما ورد في الخطة العامة للتنمية خلال السنة المالية المنقضية، وما واجهها من صعوبات وما تراه من مقترحات لحسن سير العمل فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "الملك رئيس مجلس الوزراء  هو الذي يوجه   السياسة العامة للدولة   ، ويكفل التوجيه والتنسيق والتعاون بين مختلف   الأجهزة الحكومية   ، ويضمن الانسجام والاستمرار والوحدة في أعمال  مجلس الوزراء.   وله الإشراف على مجلس الوزراء  والوزارات والأجهزة الحكومية، وهو الذي يراقب تنفيذ الأنظمة     واللوائح    والقرارات.\nوعلى جميع الوزارات  والأجهزة الحكومية  الأخرى أن ترفع إلى رئيس مجلس الوزراء  خلال تسعين يوما من بداية كل سنة مالية تقريرا عما حققته من إنجازات مقارنة بما ورد في  الخطة العامة للتنمية   خلال السنة المالية المنقضية، وما واجهها من صعوبات وما تراه من مقترحات لحسن سير العمل فيها.",
+          "text_for_index": "الملك رئيس مجلس الوزراء هو الذي يوجه السياسة العامة للدولة ، ويكفل التوجيه والتنسيق والتعاون بين مختلف الأجهزة الحكومية ، ويضمن الانسجام والاستمرار والوحدة في أعمال مجلس الوزراء. وله الإشراف على مجلس الوزراء والوزارات والأجهزة الحكومية، وهو الذي يراقب تنفيذ الأنظمة واللوائح والقرارات.\nوعلى جميع الوزارات والأجهزة الحكومية الأخرى أن ترفع إلى رئيس مجلس الوزراء خلال تسعين يوما من بداية كل سنة مالية تقريرا عما حققته من إنجازات مقارنة بما ورد في الخطة العامة للتنمية خلال السنة المالية المنقضية، وما واجهها من صعوبات وما تراه من مقترحات لحسن سير العمل فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "(30)",
+      "article_label_raw": "(30)",
+      "article_heading": "(30)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (30)",
+      "text_verbatim": "عدلت هذه المادة بالأمر الملكي رقم ( أ / 151 ) وتاريخ 3 / 9 / 1432 هـ ، لتصبح بالنص الآتي :\n\n\" يدخل في تشكيلات مجلس الوزراء الإدارية الجهازان الآتيان :\n\n أولاً -  الأمانة العامة لمجلس الوزراء.\n\n ثانياً -  هيئة الخبراء.\nويبين النظام الداخلي لمجلس الوزراء تشكيلات هذين الجهازين واختصاصاتهما وكيفية قيامهما بأعمالهما وعلاقاتهما بالديوان الملكي.\"",
+      "text_for_index": "عدلت هذه المادة بالأمر الملكي رقم ( أ / 151 ) وتاريخ 3 / 9 / 1432 هـ ، لتصبح بالنص الآتي :\n\n\" يدخل في تشكيلات مجلس الوزراء الإدارية الجهازان الآتيان :\n\n أولاً - الأمانة العامة لمجلس الوزراء.\n\n ثانياً - هيئة الخبراء.\nويبين النظام الداخلي لمجلس الوزراء تشكيلات هذين الجهازين واختصاصاتهما وكيفية قيامهما بأعمالهما وعلاقاتهما بالديوان الملكي.\"",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عدلت هذه المادة بالأمر الملكي رقم ( أ / 151 ) وتاريخ 3 / 9 / 1432 هـ ، لتصبح بالنص الآتي :",
+          "text_for_index": "عدلت هذه المادة بالأمر الملكي رقم ( أ / 151 ) وتاريخ 3 / 9 / 1432 هـ ، لتصبح بالنص الآتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-30::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\" يدخل في تشكيلات مجلس الوزراء الإدارية الجهازان الآتيان :",
+          "text_for_index": "\" يدخل في تشكيلات مجلس الوزراء الإدارية الجهازان الآتيان :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-30::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أولاً -  الأمانة العامة لمجلس الوزراء.",
+          "text_for_index": "أولاً - الأمانة العامة لمجلس الوزراء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-30::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ثانياً -  هيئة الخبراء.\nويبين النظام الداخلي لمجلس الوزراء تشكيلات هذين الجهازين واختصاصاتهما وكيفية قيامهما بأعمالهما وعلاقاتهما بالديوان الملكي.\"",
+          "text_for_index": "ثانياً - هيئة الخبراء.\nويبين النظام الداخلي لمجلس الوزراء تشكيلات هذين الجهازين واختصاصاتهما وكيفية قيامهما بأعمالهما وعلاقاتهما بالديوان الملكي.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "(31)",
+      "article_label_raw": "(31)",
+      "article_heading": "(31)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (31)",
+      "text_verbatim": "يصدر النظام الداخلي لمجلس الوزراء   بأمر ملكي.",
+      "text_for_index": "يصدر النظام الداخلي لمجلس الوزراء بأمر ملكي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يصدر النظام الداخلي لمجلس الوزراء   بأمر ملكي.",
+          "text_for_index": "يصدر النظام الداخلي لمجلس الوزراء بأمر ملكي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "(32)",
+      "article_label_raw": "(32)",
+      "article_heading": "(32)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مجلس الوزراء، المادة (32)",
+      "text_verbatim": "لا يجري تعديل هذا النظام إلا بالطريقة التي تم بها إصداره.",
+      "text_for_index": "لا يجري تعديل هذا النظام إلا بالطريقة التي تم بها إصداره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mjls-alwzraa::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجري تعديل هذا النظام إلا بالطريقة التي تم بها إصداره.",
+          "text_for_index": "لا يجري تعديل هذا النظام إلا بالطريقة التي تم بها إصداره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

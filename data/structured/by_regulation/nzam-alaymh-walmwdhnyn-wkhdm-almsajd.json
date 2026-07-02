@@ -1,0 +1,1058 @@
+{
+  "metadata": {
+    "slug": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd",
+    "title_ar": "نظام الأئمة والمؤذنين وخدم المساجد",
+    "status": "ساري",
+    "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+    "issue_date_gregorian": "1972-02-16",
+    "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+    "publish_date_gregorian": "1972-02-16",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/23b12c1f-6823-4759-982e-a9a700f2031a/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alaymh-walmwdhnyn-wkhdm-almsajd.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alaymh-walmwdhnyn-wkhdm-almsajd.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+    "effective_date_gregorian": "1972-02-16",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 28,
+    "paragraph_count": 29,
+    "indexable_paragraph_count": 29,
+    "text_chars": 4752,
+    "verbatim_chars": 4791,
+    "citation_base_ar": "نظام الأئمة والمؤذنين وخدم المساجد",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/23b12c1f-6823-4759-982e-a9a700f2031a/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alaymh-walmwdhnyn-wkhdm-almsajd.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alaymh-walmwdhnyn-wkhdm-almsajd.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "(1)",
+      "article_label_raw": "(1):",
+      "article_heading": "(1)",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (1)",
+      "text_verbatim": "تسري أحكام هذا النِظام على جميع الأئمة والمؤذنين وخدم المساجد باستثناء العاملين في   الحرمين الشريفين    فسيصدُر بشأنِهم تنظيم خاص.",
+      "text_for_index": "تسري أحكام هذا النِظام على جميع الأئمة والمؤذنين وخدم المساجد باستثناء العاملين في الحرمين الشريفين فسيصدُر بشأنِهم تنظيم خاص.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "تسري أحكام هذا النِظام على جميع الأئمة والمؤذنين وخدم المساجد باستثناء العاملين في   الحرمين الشريفين    فسيصدُر بشأنِهم تنظيم خاص.",
+          "text_for_index": "تسري أحكام هذا النِظام على جميع الأئمة والمؤذنين وخدم المساجد باستثناء العاملين في الحرمين الشريفين فسيصدُر بشأنِهم تنظيم خاص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "(2)",
+      "article_label_raw": "(2):",
+      "article_heading": "(2)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (2)",
+      "text_verbatim": "يُعامل جميع المعينين بموجب أحكام هذا النِظام على أساس مبدأ  المكافأة المقطوعة   وليس على أساس المراتب الثابِتة في الميزانية.",
+      "text_for_index": "يُعامل جميع المعينين بموجب أحكام هذا النِظام على أساس مبدأ المكافأة المقطوعة وليس على أساس المراتب الثابِتة في الميزانية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُعامل جميع المعينين بموجب أحكام هذا النِظام على أساس مبدأ  المكافأة المقطوعة   وليس على أساس المراتب الثابِتة في الميزانية.",
+          "text_for_index": "يُعامل جميع المعينين بموجب أحكام هذا النِظام على أساس مبدأ المكافأة المقطوعة وليس على أساس المراتب الثابِتة في الميزانية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "(3)",
+      "article_label_raw": "(3):",
+      "article_heading": "(3)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (3)",
+      "text_verbatim": "يُشترط فيمن يعين طبقًا لأحكام هذا النِظام ما يأتي:\n\nأ - أن يكون سعودي الجنسية.\nب - أن يكون بالغًا (21) سنة على الأقل.",
+      "text_for_index": "يُشترط فيمن يعين طبقًا لأحكام هذا النِظام ما يأتي:\n\nأ - أن يكون سعودي الجنسية.\nب - أن يكون بالغًا (21) سنة على الأقل.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُشترط فيمن يعين طبقًا لأحكام هذا النِظام ما يأتي:",
+          "text_for_index": "يُشترط فيمن يعين طبقًا لأحكام هذا النِظام ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - أن يكون سعودي الجنسية.\nب - أن يكون بالغًا (21) سنة على الأقل.",
+          "text_for_index": "أ - أن يكون سعودي الجنسية.\nب - أن يكون بالغًا (21) سنة على الأقل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "(4)",
+      "article_label_raw": "(4)",
+      "article_heading": "(4)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (4)",
+      "text_verbatim": "يُشترط فيمن يُعين لشغل وظيفة إمام لأحد الجوامع من فئة (أ ، ب) ما يلي:\n1 - أن يكون قارئًا ومُجوِّدًا لكتاب الله حافِظًا لما لا يقل عن ثُلُثِِه.\n2 - أن يكون ذا دراية كافية بالفقه وعلى وجه الخصوص بالأحكام المُتعلِّقة بالعبادات.\n3 - أن يكون عارِفًا بقواعد اللُّغة العربية قادِرًا على إنشاء خُطب الجمعة وإلقائها دون لحن.",
+      "text_for_index": "يُشترط فيمن يُعين لشغل وظيفة إمام لأحد الجوامع من فئة (أ ، ب) ما يلي:\n1 - أن يكون قارئًا ومُجوِّدًا لكتاب الله حافِظًا لما لا يقل عن ثُلُثِِه.\n2 - أن يكون ذا دراية كافية بالفقه وعلى وجه الخصوص بالأحكام المُتعلِّقة بالعبادات.\n3 - أن يكون عارِفًا بقواعد اللُّغة العربية قادِرًا على إنشاء خُطب الجمعة وإلقائها دون لحن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُشترط فيمن يُعين لشغل وظيفة إمام لأحد الجوامع من فئة (أ ، ب) ما يلي:\n1 - أن يكون قارئًا ومُجوِّدًا لكتاب الله حافِظًا لما لا يقل عن ثُلُثِِه.\n2 - أن يكون ذا دراية كافية بالفقه وعلى وجه الخصوص بالأحكام المُتعلِّقة بالعبادات.\n3 - أن يكون عارِفًا بقواعد اللُّغة العربية قادِرًا على إنشاء خُطب الجمعة وإلقائها دون لحن.",
+          "text_for_index": "يُشترط فيمن يُعين لشغل وظيفة إمام لأحد الجوامع من فئة (أ ، ب) ما يلي:\n1 - أن يكون قارئًا ومُجوِّدًا لكتاب الله حافِظًا لما لا يقل عن ثُلُثِِه.\n2 - أن يكون ذا دراية كافية بالفقه وعلى وجه الخصوص بالأحكام المُتعلِّقة بالعبادات.\n3 - أن يكون عارِفًا بقواعد اللُّغة العربية قادِرًا على إنشاء خُطب الجمعة وإلقائها دون لحن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "(5)",
+      "article_label_raw": "(5):",
+      "article_heading": "(5)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (5)",
+      "text_verbatim": "يُشترط    فيمن يُعين لشغل وظيفة إمام جامع فئة (ج) ومسجد فئة (أ) ما يلي:\n1 - أن يكون قارئًا لكتاب الله حافِظًا لما لا يقل عن الأجزاء الثلاثة الأخيرة مِنه.\n2 - أن يكون ذا معرِفة كافية بالأحكام المُتعلِّقة بالصلاة قادِرًا على إلقاء خُطب الجمعة المكتوبة.\n3 - أن يكون عارِفًا باللُّغة العربية بالقدر الذي يستطيع به تجنُب اللحن.",
+      "text_for_index": "يُشترط فيمن يُعين لشغل وظيفة إمام جامع فئة (ج) ومسجد فئة (أ) ما يلي:\n1 - أن يكون قارئًا لكتاب الله حافِظًا لما لا يقل عن الأجزاء الثلاثة الأخيرة مِنه.\n2 - أن يكون ذا معرِفة كافية بالأحكام المُتعلِّقة بالصلاة قادِرًا على إلقاء خُطب الجمعة المكتوبة.\n3 - أن يكون عارِفًا باللُّغة العربية بالقدر الذي يستطيع به تجنُب اللحن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُشترط    فيمن يُعين لشغل وظيفة إمام جامع فئة (ج) ومسجد فئة (أ) ما يلي:\n1 - أن يكون قارئًا لكتاب الله حافِظًا لما لا يقل عن الأجزاء الثلاثة الأخيرة مِنه.\n2 - أن يكون ذا معرِفة كافية بالأحكام المُتعلِّقة بالصلاة قادِرًا على إلقاء خُطب الجمعة المكتوبة.\n3 - أن يكون عارِفًا باللُّغة العربية بالقدر الذي يستطيع به تجنُب اللحن.",
+          "text_for_index": "يُشترط فيمن يُعين لشغل وظيفة إمام جامع فئة (ج) ومسجد فئة (أ) ما يلي:\n1 - أن يكون قارئًا لكتاب الله حافِظًا لما لا يقل عن الأجزاء الثلاثة الأخيرة مِنه.\n2 - أن يكون ذا معرِفة كافية بالأحكام المُتعلِّقة بالصلاة قادِرًا على إلقاء خُطب الجمعة المكتوبة.\n3 - أن يكون عارِفًا باللُّغة العربية بالقدر الذي يستطيع به تجنُب اللحن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "(6)",
+      "article_label_raw": "(6):",
+      "article_heading": "(6)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (6)",
+      "text_verbatim": "يُكتفى بالنسبة لمن يُعين لشغل وظيفة إمام مسجد (ب ، ج) أن يكون قارئًا لكتاب الله حافِظًا للجُزء الأخير مِنه على الأقل ذا إلمام بالأحكام العامة المُتعلِّقة بالصلاة.",
+      "text_for_index": "يُكتفى بالنسبة لمن يُعين لشغل وظيفة إمام مسجد (ب ، ج) أن يكون قارئًا لكتاب الله حافِظًا للجُزء الأخير مِنه على الأقل ذا إلمام بالأحكام العامة المُتعلِّقة بالصلاة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُكتفى بالنسبة لمن يُعين لشغل وظيفة إمام مسجد (ب ، ج) أن يكون قارئًا لكتاب الله حافِظًا للجُزء الأخير مِنه على الأقل ذا إلمام بالأحكام العامة المُتعلِّقة بالصلاة.",
+          "text_for_index": "يُكتفى بالنسبة لمن يُعين لشغل وظيفة إمام مسجد (ب ، ج) أن يكون قارئًا لكتاب الله حافِظًا للجُزء الأخير مِنه على الأقل ذا إلمام بالأحكام العامة المُتعلِّقة بالصلاة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "(7)",
+      "article_label_raw": "(7):",
+      "article_heading": "(7)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (7)",
+      "text_verbatim": "يُشترط فيمن يُعين للأذان أن يكون صيتًا حسن الآداء، ويُفضل أن يكون قارئًا لكتاب الله حافِظًا لبعض أجزائه ذا معرِفة بالأحكام المُتعلِّقة بالعبادات.",
+      "text_for_index": "يُشترط فيمن يُعين للأذان أن يكون صيتًا حسن الآداء، ويُفضل أن يكون قارئًا لكتاب الله حافِظًا لبعض أجزائه ذا معرِفة بالأحكام المُتعلِّقة بالعبادات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُشترط فيمن يُعين للأذان أن يكون صيتًا حسن الآداء، ويُفضل أن يكون قارئًا لكتاب الله حافِظًا لبعض أجزائه ذا معرِفة بالأحكام المُتعلِّقة بالعبادات.",
+          "text_for_index": "يُشترط فيمن يُعين للأذان أن يكون صيتًا حسن الآداء، ويُفضل أن يكون قارئًا لكتاب الله حافِظًا لبعض أجزائه ذا معرِفة بالأحكام المُتعلِّقة بالعبادات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "(8)",
+      "article_label_raw": "(8):",
+      "article_heading": "(8)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (8)",
+      "text_verbatim": "يُشترط فيمن يُعين للخدمة في أحد الجوامع أو المساجد، أن يكون صحيح الجسم قادِرًا على أعمال النظافة.",
+      "text_for_index": "يُشترط فيمن يُعين للخدمة في أحد الجوامع أو المساجد، أن يكون صحيح الجسم قادِرًا على أعمال النظافة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُشترط فيمن يُعين للخدمة في أحد الجوامع أو المساجد، أن يكون صحيح الجسم قادِرًا على أعمال النظافة.",
+          "text_for_index": "يُشترط فيمن يُعين للخدمة في أحد الجوامع أو المساجد، أن يكون صحيح الجسم قادِرًا على أعمال النظافة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "(9)",
+      "article_label_raw": "(9):",
+      "article_heading": "(9)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (9)",
+      "text_verbatim": "يجوز تعيين الأجانب لشغل وظائف المساجد إذا استحال شغلها بسعوديين.",
+      "text_for_index": "يجوز تعيين الأجانب لشغل وظائف المساجد إذا استحال شغلها بسعوديين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يجوز تعيين الأجانب لشغل وظائف المساجد إذا استحال شغلها بسعوديين.",
+          "text_for_index": "يجوز تعيين الأجانب لشغل وظائف المساجد إذا استحال شغلها بسعوديين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "(10)",
+      "article_label_raw": "(10):",
+      "article_heading": "(10)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (10)",
+      "text_verbatim": "يكون تعيين موظفي المساجد بقرار من  وزير الحج والأوقاف  أو من يُنيبُه في ذلك.",
+      "text_for_index": "يكون تعيين موظفي المساجد بقرار من وزير الحج والأوقاف أو من يُنيبُه في ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يكون تعيين موظفي المساجد بقرار من  وزير الحج والأوقاف  أو من يُنيبُه في ذلك.",
+          "text_for_index": "يكون تعيين موظفي المساجد بقرار من وزير الحج والأوقاف أو من يُنيبُه في ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "(11)",
+      "article_label_raw": "(11):",
+      "article_heading": "(11)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (11)",
+      "text_verbatim": "يُصنف موظفو المساجد وتُصرف مُكافآتِهم وفق هذا النظام.",
+      "text_for_index": "يُصنف موظفو المساجد وتُصرف مُكافآتِهم وفق هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُصنف موظفو المساجد وتُصرف مُكافآتِهم وفق هذا النظام.",
+          "text_for_index": "يُصنف موظفو المساجد وتُصرف مُكافآتِهم وفق هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "(12)",
+      "article_label_raw": "(12):",
+      "article_heading": "(12)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (12)",
+      "text_verbatim": "يستحق الموظف مُكافأة الوظيفة اعتِبارًا من تاريخ مباشرتِه العمل، بشرط أن لا يسبق ذلك صدور قرار تعيينه.",
+      "text_for_index": "يستحق الموظف مُكافأة الوظيفة اعتِبارًا من تاريخ مباشرتِه العمل، بشرط أن لا يسبق ذلك صدور قرار تعيينه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يستحق الموظف مُكافأة الوظيفة اعتِبارًا من تاريخ مباشرتِه العمل، بشرط أن لا يسبق ذلك صدور قرار تعيينه.",
+          "text_for_index": "يستحق الموظف مُكافأة الوظيفة اعتِبارًا من تاريخ مباشرتِه العمل، بشرط أن لا يسبق ذلك صدور قرار تعيينه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "(13)",
+      "article_label_raw": "(13):",
+      "article_heading": "(13)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (13)",
+      "text_verbatim": "يجوز أن يُعين على وظائف المساجد من يشغلون   وظائف عامة    أو  وظائف المُستخدمين  ، كما يجوز في الحالات التي يراها  وزير الحج والأوقاف   أن يجمع شخص واحد بين وظيفتين من وظائف المساجد.",
+      "text_for_index": "يجوز أن يُعين على وظائف المساجد من يشغلون وظائف عامة أو وظائف المُستخدمين ، كما يجوز في الحالات التي يراها وزير الحج والأوقاف أن يجمع شخص واحد بين وظيفتين من وظائف المساجد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز أن يُعين على وظائف المساجد من يشغلون   وظائف عامة    أو  وظائف المُستخدمين  ، كما يجوز في الحالات التي يراها  وزير الحج والأوقاف   أن يجمع شخص واحد بين وظيفتين من وظائف المساجد.",
+          "text_for_index": "يجوز أن يُعين على وظائف المساجد من يشغلون وظائف عامة أو وظائف المُستخدمين ، كما يجوز في الحالات التي يراها وزير الحج والأوقاف أن يجمع شخص واحد بين وظيفتين من وظائف المساجد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "(14)",
+      "article_label_raw": "(14):",
+      "article_heading": "(14)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "remedy",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "علاج أو تعويض",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (14)",
+      "text_verbatim": "لا يستحق موظفو المساجد إجازات إلا في حال المرض، ولكن يجوز الأذن بغياب الموظف لعذر مشروع مُدة لا تتجاوز شهرًا في السنة، بشرط أن يُنيب شخصًا آخر تقبله   وزارة الحج والأوقاف   للقيام بعمله وأن يُدفع له مُكافأة الوظيفة بعدد أيام الغياب.",
+      "text_for_index": "لا يستحق موظفو المساجد إجازات إلا في حال المرض، ولكن يجوز الأذن بغياب الموظف لعذر مشروع مُدة لا تتجاوز شهرًا في السنة، بشرط أن يُنيب شخصًا آخر تقبله وزارة الحج والأوقاف للقيام بعمله وأن يُدفع له مُكافأة الوظيفة بعدد أيام الغياب.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "remedy",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "علاج أو تعويض",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا يستحق موظفو المساجد إجازات إلا في حال المرض، ولكن يجوز الأذن بغياب الموظف لعذر مشروع مُدة لا تتجاوز شهرًا في السنة، بشرط أن يُنيب شخصًا آخر تقبله   وزارة الحج والأوقاف   للقيام بعمله وأن يُدفع له مُكافأة الوظيفة بعدد أيام الغياب.",
+          "text_for_index": "لا يستحق موظفو المساجد إجازات إلا في حال المرض، ولكن يجوز الأذن بغياب الموظف لعذر مشروع مُدة لا تتجاوز شهرًا في السنة، بشرط أن يُنيب شخصًا آخر تقبله وزارة الحج والأوقاف للقيام بعمله وأن يُدفع له مُكافأة الوظيفة بعدد أيام الغياب.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "(15)",
+      "article_label_raw": "(15):",
+      "article_heading": "(15)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "remedy",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (15)",
+      "text_verbatim": "يستحق الموظف الذي يثبت مرضُه بموجب تقرير طبي صادِر من الجهة المعنية لذلك  إجازة مرضية  لمُدة ثلاثة أشهُر بكامل المُكافأة، وثلاثة أشهُر بنصف المُكافأة، وثلاثة أشهُر بربع المُكافأة، وستة أشهر بدون مُكافأة.",
+      "text_for_index": "يستحق الموظف الذي يثبت مرضُه بموجب تقرير طبي صادِر من الجهة المعنية لذلك إجازة مرضية لمُدة ثلاثة أشهُر بكامل المُكافأة، وثلاثة أشهُر بنصف المُكافأة، وثلاثة أشهُر بربع المُكافأة، وستة أشهر بدون مُكافأة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "يستحق الموظف الذي يثبت مرضُه بموجب تقرير طبي صادِر من الجهة المعنية لذلك  إجازة مرضية  لمُدة ثلاثة أشهُر بكامل المُكافأة، وثلاثة أشهُر بنصف المُكافأة، وثلاثة أشهُر بربع المُكافأة، وستة أشهر بدون مُكافأة.",
+          "text_for_index": "يستحق الموظف الذي يثبت مرضُه بموجب تقرير طبي صادِر من الجهة المعنية لذلك إجازة مرضية لمُدة ثلاثة أشهُر بكامل المُكافأة، وثلاثة أشهُر بنصف المُكافأة، وثلاثة أشهُر بربع المُكافأة، وستة أشهر بدون مُكافأة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "(16)",
+      "article_label_raw": "(16):",
+      "article_heading": "(16)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (16)",
+      "text_verbatim": "يجب على موظفي المساجد ما يلي:\nأ - مُراعاة مواعيد الصلاة.\nب - المُحافظة على نظافة المساجد وسلامة محتوياتِها.\nجـ - القيام بالواجب حسبما تقتضيه الشريعة الإسلامية.\nد - الابتِعاد عن كل ما يُخِل بشرف الوظيفة وكرامتِها أو يمس بالسُمعة وحسن السيرة.",
+      "text_for_index": "يجب على موظفي المساجد ما يلي:\nأ - مُراعاة مواعيد الصلاة.\nب - المُحافظة على نظافة المساجد وسلامة محتوياتِها.\nجـ - القيام بالواجب حسبما تقتضيه الشريعة الإسلامية.\nد - الابتِعاد عن كل ما يُخِل بشرف الوظيفة وكرامتِها أو يمس بالسُمعة وحسن السيرة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على موظفي المساجد ما يلي:\nأ - مُراعاة مواعيد الصلاة.\nب - المُحافظة على نظافة المساجد وسلامة محتوياتِها.\nجـ - القيام بالواجب حسبما تقتضيه الشريعة الإسلامية.\nد - الابتِعاد عن كل ما يُخِل بشرف الوظيفة وكرامتِها أو يمس بالسُمعة وحسن السيرة.",
+          "text_for_index": "يجب على موظفي المساجد ما يلي:\nأ - مُراعاة مواعيد الصلاة.\nب - المُحافظة على نظافة المساجد وسلامة محتوياتِها.\nجـ - القيام بالواجب حسبما تقتضيه الشريعة الإسلامية.\nد - الابتِعاد عن كل ما يُخِل بشرف الوظيفة وكرامتِها أو يمس بالسُمعة وحسن السيرة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "(17)",
+      "article_label_raw": "(17):",
+      "article_heading": "(17)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (17)",
+      "text_verbatim": "الجزاءات التي يُمكِن توقيعُها على موظفي المساجد هي:\nأ -  الإنذار.\n ب -  اللوم.\nجـ - حسم المكافأة بما لا يتجاوز استحقاق ثلاثة أشهُر.\nد - الفصل.",
+      "text_for_index": "الجزاءات التي يُمكِن توقيعُها على موظفي المساجد هي:\nأ - الإنذار.\n ب - اللوم.\nجـ - حسم المكافأة بما لا يتجاوز استحقاق ثلاثة أشهُر.\nد - الفصل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "الجزاءات التي يُمكِن توقيعُها على موظفي المساجد هي:\nأ -  الإنذار.\n ب -  اللوم.\nجـ - حسم المكافأة بما لا يتجاوز استحقاق ثلاثة أشهُر.\nد - الفصل.",
+          "text_for_index": "الجزاءات التي يُمكِن توقيعُها على موظفي المساجد هي:\nأ - الإنذار.\n ب - اللوم.\nجـ - حسم المكافأة بما لا يتجاوز استحقاق ثلاثة أشهُر.\nد - الفصل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "(18)",
+      "article_label_raw": "(18):",
+      "article_heading": "(18)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "penalty",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "جزاء",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (18)",
+      "text_verbatim": "لا يجوز توقيع الجزاء إلا بعد إجراء تحقيق مكتوب مع المُتهم وسماع أقوالِه وثُبوت ارتِكابه المُخالفة.",
+      "text_for_index": "لا يجوز توقيع الجزاء إلا بعد إجراء تحقيق مكتوب مع المُتهم وسماع أقوالِه وثُبوت ارتِكابه المُخالفة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "penalty",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "جزاء",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز توقيع الجزاء إلا بعد إجراء تحقيق مكتوب مع المُتهم وسماع أقوالِه وثُبوت ارتِكابه المُخالفة.",
+          "text_for_index": "لا يجوز توقيع الجزاء إلا بعد إجراء تحقيق مكتوب مع المُتهم وسماع أقوالِه وثُبوت ارتِكابه المُخالفة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "(19)",
+      "article_label_raw": "(19):",
+      "article_heading": "(19)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (19)",
+      "text_verbatim": "يكون توقيع الجزاءات بقرار من  وزير الحج والأوقاف   أو من يُنيبُه.",
+      "text_for_index": "يكون توقيع الجزاءات بقرار من وزير الحج والأوقاف أو من يُنيبُه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يكون توقيع الجزاءات بقرار من  وزير الحج والأوقاف   أو من يُنيبُه.",
+          "text_for_index": "يكون توقيع الجزاءات بقرار من وزير الحج والأوقاف أو من يُنيبُه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "(20)",
+      "article_label_raw": "(20):",
+      "article_heading": "(20)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (20)",
+      "text_verbatim": "يُبلغ الموظف بالقرار الصادِر بالجزاء فور صدوره بخطاب رسمي.",
+      "text_for_index": "يُبلغ الموظف بالقرار الصادِر بالجزاء فور صدوره بخطاب رسمي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يُبلغ الموظف بالقرار الصادِر بالجزاء فور صدوره بخطاب رسمي.",
+          "text_for_index": "يُبلغ الموظف بالقرار الصادِر بالجزاء فور صدوره بخطاب رسمي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "(21)",
+      "article_label_raw": "(21):",
+      "article_heading": "(21)",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (21)",
+      "text_verbatim": "تنتهي خِدمة الموظف ويُعتبر مُستقيلًا لأحد الأسباب الآتية:\nأ - إذا لم يُباشِر عمله خِلال خمسة عشر يومًا من تاريخ إبلاغه بقرار التعيين أو النقل.\nب - إذا غاب عن عمله بدون عذر مشروع لمُدة خمسة عشر يومًا.\nجـ - إذا فقد أحد شروط التعيين.\nد - إذا عجز عن مُباشرتِه عمله بسبب المرض لمُدة تزيد عن خمسة عشر شهرًا.\nهـ - إذا حُكِم عليه بالسجن لمُدة تزيد عن ستة أشهُر.",
+      "text_for_index": "تنتهي خِدمة الموظف ويُعتبر مُستقيلًا لأحد الأسباب الآتية:\nأ - إذا لم يُباشِر عمله خِلال خمسة عشر يومًا من تاريخ إبلاغه بقرار التعيين أو النقل.\nب - إذا غاب عن عمله بدون عذر مشروع لمُدة خمسة عشر يومًا.\nجـ - إذا فقد أحد شروط التعيين.\nد - إذا عجز عن مُباشرتِه عمله بسبب المرض لمُدة تزيد عن خمسة عشر شهرًا.\nهـ - إذا حُكِم عليه بالسجن لمُدة تزيد عن ستة أشهُر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تنتهي خِدمة الموظف ويُعتبر مُستقيلًا لأحد الأسباب الآتية:\nأ - إذا لم يُباشِر عمله خِلال خمسة عشر يومًا من تاريخ إبلاغه بقرار التعيين أو النقل.\nب - إذا غاب عن عمله بدون عذر مشروع لمُدة خمسة عشر يومًا.\nجـ - إذا فقد أحد شروط التعيين.\nد - إذا عجز عن مُباشرتِه عمله بسبب المرض لمُدة تزيد عن خمسة عشر شهرًا.\nهـ - إذا حُكِم عليه بالسجن لمُدة تزيد عن ستة أشهُر.",
+          "text_for_index": "تنتهي خِدمة الموظف ويُعتبر مُستقيلًا لأحد الأسباب الآتية:\nأ - إذا لم يُباشِر عمله خِلال خمسة عشر يومًا من تاريخ إبلاغه بقرار التعيين أو النقل.\nب - إذا غاب عن عمله بدون عذر مشروع لمُدة خمسة عشر يومًا.\nجـ - إذا فقد أحد شروط التعيين.\nد - إذا عجز عن مُباشرتِه عمله بسبب المرض لمُدة تزيد عن خمسة عشر شهرًا.\nهـ - إذا حُكِم عليه بالسجن لمُدة تزيد عن ستة أشهُر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "(22)",
+      "article_label_raw": "(22):",
+      "article_heading": "(22)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (22)",
+      "text_verbatim": "الموظفون الذين يتقاضون مُكافآت عند صدور هذا النِظام يُعاملون بموجبه، فإذا كانت مُكافآتِهم التي يتقاضونها عند صدوره أكثر من المُكافآت المُستحقة وفق هذا النِظام، صُرِف لهم الفرق.",
+      "text_for_index": "الموظفون الذين يتقاضون مُكافآت عند صدور هذا النِظام يُعاملون بموجبه، فإذا كانت مُكافآتِهم التي يتقاضونها عند صدوره أكثر من المُكافآت المُستحقة وفق هذا النِظام، صُرِف لهم الفرق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "الموظفون الذين يتقاضون مُكافآت عند صدور هذا النِظام يُعاملون بموجبه، فإذا كانت مُكافآتِهم التي يتقاضونها عند صدوره أكثر من المُكافآت المُستحقة وفق هذا النِظام، صُرِف لهم الفرق.",
+          "text_for_index": "الموظفون الذين يتقاضون مُكافآت عند صدور هذا النِظام يُعاملون بموجبه، فإذا كانت مُكافآتِهم التي يتقاضونها عند صدوره أكثر من المُكافآت المُستحقة وفق هذا النِظام، صُرِف لهم الفرق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "(23)",
+      "article_label_raw": "(23):",
+      "article_heading": "(23)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (23)",
+      "text_verbatim": "الموظفون الذين يتقاضون رواتِب من وظائف ثابِتة في الميزانية عند صدور هذا النِظام يُخيرون بين البقاء على وظائفِهم المُعينين عليها وبرواتِبها المُقرَّرة أو نقلِهم إلى بند المُكافآت وفق هذا النِظام.",
+      "text_for_index": "الموظفون الذين يتقاضون رواتِب من وظائف ثابِتة في الميزانية عند صدور هذا النِظام يُخيرون بين البقاء على وظائفِهم المُعينين عليها وبرواتِبها المُقرَّرة أو نقلِهم إلى بند المُكافآت وفق هذا النِظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "الموظفون الذين يتقاضون رواتِب من وظائف ثابِتة في الميزانية عند صدور هذا النِظام يُخيرون بين البقاء على وظائفِهم المُعينين عليها وبرواتِبها المُقرَّرة أو نقلِهم إلى بند المُكافآت وفق هذا النِظام.",
+          "text_for_index": "الموظفون الذين يتقاضون رواتِب من وظائف ثابِتة في الميزانية عند صدور هذا النِظام يُخيرون بين البقاء على وظائفِهم المُعينين عليها وبرواتِبها المُقرَّرة أو نقلِهم إلى بند المُكافآت وفق هذا النِظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "(24)",
+      "article_label_raw": "(24):",
+      "article_heading": "(24)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (24)",
+      "text_verbatim": "الموظفون الذين يجمعون بين وظيفتين ثابتتين عند صدور هذا النِظام إحداهُما من  وظائف المساجد يُنقلون بالنسبة لوظائف المساجد إلى جدول المُكافآت ويُصرف لهُم الفرق- في حال وجودِه- بين راتب الوظيفة ومقدار المُكافأة المستحقة بموجب هذا النِظام.",
+      "text_for_index": "الموظفون الذين يجمعون بين وظيفتين ثابتتين عند صدور هذا النِظام إحداهُما من وظائف المساجد يُنقلون بالنسبة لوظائف المساجد إلى جدول المُكافآت ويُصرف لهُم الفرق- في حال وجودِه- بين راتب الوظيفة ومقدار المُكافأة المستحقة بموجب هذا النِظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "الموظفون الذين يجمعون بين وظيفتين ثابتتين عند صدور هذا النِظام إحداهُما من  وظائف المساجد يُنقلون بالنسبة لوظائف المساجد إلى جدول المُكافآت ويُصرف لهُم الفرق- في حال وجودِه- بين راتب الوظيفة ومقدار المُكافأة المستحقة بموجب هذا النِظام.",
+          "text_for_index": "الموظفون الذين يجمعون بين وظيفتين ثابتتين عند صدور هذا النِظام إحداهُما من وظائف المساجد يُنقلون بالنسبة لوظائف المساجد إلى جدول المُكافآت ويُصرف لهُم الفرق- في حال وجودِه- بين راتب الوظيفة ومقدار المُكافأة المستحقة بموجب هذا النِظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "(25)",
+      "article_label_raw": "(25):",
+      "article_heading": "(25)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (25)",
+      "text_verbatim": "يُمنح موظفو المساجد عند إنتهاء خدماتِهم اللاحِقة لصدور هذا النِظام- إذا كان ذلك لأسباب غير تأديبية- مُكافآت بمقدار نصف المُكافأة الشهرية عن كل سنة من السنوات الخمس الأولى وبمقدار كامل المُكافأة الشهرية عن كل سنة من السنوات التالية، وتُحسب المُكافآت على أساس آخر مُكافأة شهرية استحقها الموظف.",
+      "text_for_index": "يُمنح موظفو المساجد عند إنتهاء خدماتِهم اللاحِقة لصدور هذا النِظام- إذا كان ذلك لأسباب غير تأديبية- مُكافآت بمقدار نصف المُكافأة الشهرية عن كل سنة من السنوات الخمس الأولى وبمقدار كامل المُكافأة الشهرية عن كل سنة من السنوات التالية، وتُحسب المُكافآت على أساس آخر مُكافأة شهرية استحقها الموظف.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يُمنح موظفو المساجد عند إنتهاء خدماتِهم اللاحِقة لصدور هذا النِظام- إذا كان ذلك لأسباب غير تأديبية- مُكافآت بمقدار نصف المُكافأة الشهرية عن كل سنة من السنوات الخمس الأولى وبمقدار كامل المُكافأة الشهرية عن كل سنة من السنوات التالية، وتُحسب المُكافآت على أساس آخر مُكافأة شهرية استحقها الموظف.",
+          "text_for_index": "يُمنح موظفو المساجد عند إنتهاء خدماتِهم اللاحِقة لصدور هذا النِظام- إذا كان ذلك لأسباب غير تأديبية- مُكافآت بمقدار نصف المُكافأة الشهرية عن كل سنة من السنوات الخمس الأولى وبمقدار كامل المُكافأة الشهرية عن كل سنة من السنوات التالية، وتُحسب المُكافآت على أساس آخر مُكافأة شهرية استحقها الموظف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "(26)",
+      "article_label_raw": "(26):",
+      "article_heading": "(26)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (26)",
+      "text_verbatim": "تُحدَّد مُكافآت موظفي المساجد بقرار من  مجلِس الوزراء.",
+      "text_for_index": "تُحدَّد مُكافآت موظفي المساجد بقرار من مجلِس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تُحدَّد مُكافآت موظفي المساجد بقرار من  مجلِس الوزراء.",
+          "text_for_index": "تُحدَّد مُكافآت موظفي المساجد بقرار من مجلِس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "(27)",
+      "article_label_raw": "(27):",
+      "article_heading": "(27)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (27)",
+      "text_verbatim": "يُصدِر  وزير الحج والأوقاف   التعليمات اللازِمة لتنفيذ هذا النِظام وفي الحدود المُبينة به.",
+      "text_for_index": "يُصدِر وزير الحج والأوقاف التعليمات اللازِمة لتنفيذ هذا النِظام وفي الحدود المُبينة به.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يُصدِر  وزير الحج والأوقاف   التعليمات اللازِمة لتنفيذ هذا النِظام وفي الحدود المُبينة به.",
+          "text_for_index": "يُصدِر وزير الحج والأوقاف التعليمات اللازِمة لتنفيذ هذا النِظام وفي الحدود المُبينة به.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "(28)",
+      "article_label_raw": "(28):",
+      "article_heading": "(28)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأئمة والمؤذنين وخدم المساجد، المادة (28)",
+      "text_verbatim": "يلغي هذا النِظام كُل ما يتعارض معه.",
+      "text_for_index": "يلغي هذا النِظام كُل ما يتعارض معه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي هذا النِظام كُل ما يتعارض معه.",
+          "text_for_index": "يلغي هذا النِظام كُل ما يتعارض معه.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

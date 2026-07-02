@@ -1,0 +1,2077 @@
+{
+  "metadata": {
+    "slug": "nzam-altnfydh-amam-dywan-almzalm",
+    "title_ar": "نظام التنفيذ أمام ديوان المظالم",
+    "status": "ساري",
+    "issue_date_hijri": "1443/01/27 هـ الموافق : 04/09/2021 مـ",
+    "issue_date_gregorian": "2021-09-04",
+    "publish_date_hijri": "1443/02/03 هـ الموافق : 10/09/2021 مـ",
+    "publish_date_gregorian": "2021-09-10",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ae1d79bf-3716-4bc5-a85e-ada100c8a870/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-altnfydh-amam-dywan-almzalm.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-altnfydh-amam-dywan-almzalm.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1443/02/03 هـ الموافق : 10/09/2021 مـ",
+    "effective_date_gregorian": "2021-09-10",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 37,
+    "paragraph_count": 61,
+    "indexable_paragraph_count": 61,
+    "text_chars": 10887,
+    "verbatim_chars": 10887,
+    "citation_base_ar": "نظام التنفيذ أمام ديوان المظالم",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ae1d79bf-3716-4bc5-a85e-ada100c8a870/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-altnfydh-amam-dywan-almzalm.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-altnfydh-amam-dywan-almzalm.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\n\n\t• النظام: نظام التنفيذ أمام ديوان المظالم.\n\n\t• اللائحة: اللائحة التنفيذية للنظام.\n\n\t• المجلس: مجلس القضاء الإداري.\n\n\t• المحكمة: محكمة التنفيذ الإدارية.\n\n\t• السند: سند التنفيذ المشمول بأحكام النظام.\n\n\t• منازعة التنفيذ: دعوى تتعلق بشروط صحة التنفيذ وسلامة إجراءاته.",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:\n\n • النظام: نظام التنفيذ أمام ديوان المظالم.\n\n • اللائحة: اللائحة التنفيذية للنظام.\n\n • المجلس: مجلس القضاء الإداري.\n\n • المحكمة: محكمة التنفيذ الإدارية.\n\n • السند: سند التنفيذ المشمول بأحكام النظام.\n\n • منازعة التنفيذ: دعوى تتعلق بشروط صحة التنفيذ وسلامة إجراءاته.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• النظام: نظام التنفيذ أمام ديوان المظالم.",
+          "text_for_index": "• النظام: نظام التنفيذ أمام ديوان المظالم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "• اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• المجلس: مجلس القضاء الإداري.",
+          "text_for_index": "• المجلس: مجلس القضاء الإداري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• المحكمة: محكمة التنفيذ الإدارية.",
+          "text_for_index": "• المحكمة: محكمة التنفيذ الإدارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• السند: سند التنفيذ المشمول بأحكام النظام.",
+          "text_for_index": "• السند: سند التنفيذ المشمول بأحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• منازعة التنفيذ: دعوى تتعلق بشروط صحة التنفيذ وسلامة إجراءاته.",
+          "text_for_index": "• منازعة التنفيذ: دعوى تتعلق بشروط صحة التنفيذ وسلامة إجراءاته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثانية",
+      "text_verbatim": "على المحكوم عليه المبادرة بتنفيذ الأحكام النهائية والأحكام المشمولة بالنفاذ المعجل الصادرة من محاكم ديوان المظالم.",
+      "text_for_index": "على المحكوم عليه المبادرة بتنفيذ الأحكام النهائية والأحكام المشمولة بالنفاذ المعجل الصادرة من محاكم ديوان المظالم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "على المحكوم عليه المبادرة بتنفيذ الأحكام النهائية والأحكام المشمولة بالنفاذ المعجل الصادرة من محاكم ديوان المظالم.",
+          "text_for_index": "على المحكوم عليه المبادرة بتنفيذ الأحكام النهائية والأحكام المشمولة بالنفاذ المعجل الصادرة من محاكم ديوان المظالم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثالثة",
+      "text_verbatim": "• تُنشأ بقرار من المجلس محكمة أو أكثر -بحسب الحاجة- تؤلف من رئيس وعدد كافٍ من القضاة، وتختص بتنفيذ السند والفصل في منازعة تنفيذه، وتباشر اختصاصاتها من خلال دوائر تكوّن كل منها من قاضٍ واحد.\n\n\t• تنشأ دائرة للتنفيذ أو أكثر -بحسب الحاجة- في المحاكم الإدارية في المناطق والمحافظات التي لم تنشأ فيها محكمة، يكون لها الاختصاصات المقررة للمحكمة.",
+      "text_for_index": "• تُنشأ بقرار من المجلس محكمة أو أكثر -بحسب الحاجة- تؤلف من رئيس وعدد كافٍ من القضاة، وتختص بتنفيذ السند والفصل في منازعة تنفيذه، وتباشر اختصاصاتها من خلال دوائر تكوّن كل منها من قاضٍ واحد.\n\n • تنشأ دائرة للتنفيذ أو أكثر -بحسب الحاجة- في المحاكم الإدارية في المناطق والمحافظات التي لم تنشأ فيها محكمة، يكون لها الاختصاصات المقررة للمحكمة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تُنشأ بقرار من المجلس محكمة أو أكثر -بحسب الحاجة- تؤلف من رئيس وعدد كافٍ من القضاة، وتختص بتنفيذ السند والفصل في منازعة تنفيذه، وتباشر اختصاصاتها من خلال دوائر تكوّن كل منها من قاضٍ واحد.",
+          "text_for_index": "• تُنشأ بقرار من المجلس محكمة أو أكثر -بحسب الحاجة- تؤلف من رئيس وعدد كافٍ من القضاة، وتختص بتنفيذ السند والفصل في منازعة تنفيذه، وتباشر اختصاصاتها من خلال دوائر تكوّن كل منها من قاضٍ واحد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تنشأ دائرة للتنفيذ أو أكثر -بحسب الحاجة- في المحاكم الإدارية في المناطق والمحافظات التي لم تنشأ فيها محكمة، يكون لها الاختصاصات المقررة للمحكمة.",
+          "text_for_index": "• تنشأ دائرة للتنفيذ أو أكثر -بحسب الحاجة- في المحاكم الإدارية في المناطق والمحافظات التي لم تنشأ فيها محكمة، يكون لها الاختصاصات المقررة للمحكمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الرابعة",
+      "text_verbatim": "لا يجوز التنفيذ الجبري إلا بسند تنفيذي لحق محدد المقدار حال الأداء. والسندات التنفيذية المشمولة بأحكام النظام هي:\n\n\t• الأحكام النهائية أو العاجلة الصادرة من محاكم ديوان المظالم.\n\n\t• الأحكام النهائية أو العاجلة التي تكون جهة الإدارة طرفًا فيها.\n\n\t• العقود التي تكون جهة الإدارة طرفاً فيها، والمحررات التي تصدرها إذا كانت موثقة.\n\n\t• أحكام المحكمين التي تكون جهة الإدارة طرفًا فيها.\n\n\t• الأوراق التجارية التي تكون جهة الإدارة طرفًا فيها.\n\n\tوتحدد اللائحة الأحكام المتعلقة بذلك.",
+      "text_for_index": "لا يجوز التنفيذ الجبري إلا بسند تنفيذي لحق محدد المقدار حال الأداء. والسندات التنفيذية المشمولة بأحكام النظام هي:\n\n • الأحكام النهائية أو العاجلة الصادرة من محاكم ديوان المظالم.\n\n • الأحكام النهائية أو العاجلة التي تكون جهة الإدارة طرفًا فيها.\n\n • العقود التي تكون جهة الإدارة طرفاً فيها، والمحررات التي تصدرها إذا كانت موثقة.\n\n • أحكام المحكمين التي تكون جهة الإدارة طرفًا فيها.\n\n • الأوراق التجارية التي تكون جهة الإدارة طرفًا فيها.\n\n وتحدد اللائحة الأحكام المتعلقة بذلك.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز التنفيذ الجبري إلا بسند تنفيذي لحق محدد المقدار حال الأداء. والسندات التنفيذية المشمولة بأحكام النظام هي:",
+          "text_for_index": "لا يجوز التنفيذ الجبري إلا بسند تنفيذي لحق محدد المقدار حال الأداء. والسندات التنفيذية المشمولة بأحكام النظام هي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• الأحكام النهائية أو العاجلة الصادرة من محاكم ديوان المظالم.",
+          "text_for_index": "• الأحكام النهائية أو العاجلة الصادرة من محاكم ديوان المظالم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• الأحكام النهائية أو العاجلة التي تكون جهة الإدارة طرفًا فيها.",
+          "text_for_index": "• الأحكام النهائية أو العاجلة التي تكون جهة الإدارة طرفًا فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• العقود التي تكون جهة الإدارة طرفاً فيها، والمحررات التي تصدرها إذا كانت موثقة.",
+          "text_for_index": "• العقود التي تكون جهة الإدارة طرفاً فيها، والمحررات التي تصدرها إذا كانت موثقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• أحكام المحكمين التي تكون جهة الإدارة طرفًا فيها.",
+          "text_for_index": "• أحكام المحكمين التي تكون جهة الإدارة طرفًا فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• الأوراق التجارية التي تكون جهة الإدارة طرفًا فيها.",
+          "text_for_index": "• الأوراق التجارية التي تكون جهة الإدارة طرفًا فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-4::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "وتحدد اللائحة الأحكام المتعلقة بذلك.",
+          "text_for_index": "وتحدد اللائحة الأحكام المتعلقة بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الخامسة",
+      "text_verbatim": "تكون قرارات المحكمة وأوامرها نهائية وغير قابلة للاعتراض، وتخضع جميع أحكامها للاعتراض أمام محكمة الاستئناف الإدارية المختصة؛ وفقًا للقواعد والإجراءات المقررة للاعتراض على أحكام المحاكم الإدارية.",
+      "text_for_index": "تكون قرارات المحكمة وأوامرها نهائية وغير قابلة للاعتراض، وتخضع جميع أحكامها للاعتراض أمام محكمة الاستئناف الإدارية المختصة؛ وفقًا للقواعد والإجراءات المقررة للاعتراض على أحكام المحاكم الإدارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تكون قرارات المحكمة وأوامرها نهائية وغير قابلة للاعتراض، وتخضع جميع أحكامها للاعتراض أمام محكمة الاستئناف الإدارية المختصة؛ وفقًا للقواعد والإجراءات المقررة للاعتراض على أحكام المحاكم الإدارية.",
+          "text_for_index": "تكون قرارات المحكمة وأوامرها نهائية وغير قابلة للاعتراض، وتخضع جميع أحكامها للاعتراض أمام محكمة الاستئناف الإدارية المختصة؛ وفقًا للقواعد والإجراءات المقررة للاعتراض على أحكام المحاكم الإدارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "الفصل الأول ( رفع طلب التنفيذ وقيده )",
+      "article_label_raw": "الفصل الأول ( رفع طلب التنفيذ وقيده )",
+      "article_heading": "الفصل الأول ( رفع طلب التنفيذ وقيده )",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الفصل الأول ( رفع طلب التنفيذ وقيده )",
+      "text_verbatim": "يرفع طلب التنفيذ بصحيفة يودعها طالب التنفيذ لدى المحكمة المختصة، على أن تتضمن الصحيفة: بيانات رافع الطلب أو من يمثله، وبيانات السند، وأية بيانات أو مرفقات أخرى تحددها اللائحة.",
+      "text_for_index": "يرفع طلب التنفيذ بصحيفة يودعها طالب التنفيذ لدى المحكمة المختصة، على أن تتضمن الصحيفة: بيانات رافع الطلب أو من يمثله، وبيانات السند، وأية بيانات أو مرفقات أخرى تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يرفع طلب التنفيذ بصحيفة يودعها طالب التنفيذ لدى المحكمة المختصة، على أن تتضمن الصحيفة: بيانات رافع الطلب أو من يمثله، وبيانات السند، وأية بيانات أو مرفقات أخرى تحددها اللائحة.",
+          "text_for_index": "يرفع طلب التنفيذ بصحيفة يودعها طالب التنفيذ لدى المحكمة المختصة، على أن تتضمن الصحيفة: بيانات رافع الطلب أو من يمثله، وبيانات السند، وأية بيانات أو مرفقات أخرى تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة السابعة",
+      "text_verbatim": "• تقيد الإدارة المختصة في المحكمة صحيفة طلب التنفيذ إذا كانت مستوفية المطلوب وفقاً للمادة (السادسة) من النظام، وتحيلها -فور قيدها- إلى دائرة التنفيذ. وإذا قررت الإدارة عدم قيد الصحيفة؛ لعدم الاستيفاء، فعلى طالب القيد استيفاء ما نقص خلال (عشرين) يوماً من تاريخ إبلاغه بذلك، وإن لم يستوفِ ما طلب منه خلال هذه المدة عُدَّ الطلب كأن لم يكن.\n\n\t• لطالب القيد التظلم أمام رئيس المحكمة من عدم القيد خلال (خمسة عشر) يوماً من تاريخ اعتبار الطلب كأن لم يكن، ويفصل رئيس المحكمة في التظلم خلال (خمسة عشر) يومًا من تاريخ التظلم، ويعد قراره في هذا الشأن نهائيًّا وغير قابل للاعتراض.",
+      "text_for_index": "• تقيد الإدارة المختصة في المحكمة صحيفة طلب التنفيذ إذا كانت مستوفية المطلوب وفقاً للمادة (السادسة) من النظام، وتحيلها -فور قيدها- إلى دائرة التنفيذ. وإذا قررت الإدارة عدم قيد الصحيفة؛ لعدم الاستيفاء، فعلى طالب القيد استيفاء ما نقص خلال (عشرين) يوماً من تاريخ إبلاغه بذلك، وإن لم يستوفِ ما طلب منه خلال هذه المدة عُدَّ الطلب كأن لم يكن.\n\n • لطالب القيد التظلم أمام رئيس المحكمة من عدم القيد خلال (خمسة عشر) يوماً من تاريخ اعتبار الطلب كأن لم يكن، ويفصل رئيس المحكمة في التظلم خلال (خمسة عشر) يومًا من تاريخ التظلم، ويعد قراره في هذا الشأن نهائيًّا وغير قابل للاعتراض.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تقيد الإدارة المختصة في المحكمة صحيفة طلب التنفيذ إذا كانت مستوفية المطلوب وفقاً للمادة (السادسة) من النظام، وتحيلها -فور قيدها- إلى دائرة التنفيذ. وإذا قررت الإدارة عدم قيد الصحيفة؛ لعدم الاستيفاء، فعلى طالب القيد استيفاء ما نقص خلال (عشرين) يوماً من تاريخ إبلاغه بذلك، وإن لم يستوفِ ما طلب منه خلال هذه المدة عُدَّ الطلب كأن لم يكن.",
+          "text_for_index": "• تقيد الإدارة المختصة في المحكمة صحيفة طلب التنفيذ إذا كانت مستوفية المطلوب وفقاً للمادة (السادسة) من النظام، وتحيلها -فور قيدها- إلى دائرة التنفيذ. وإذا قررت الإدارة عدم قيد الصحيفة؛ لعدم الاستيفاء، فعلى طالب القيد استيفاء ما نقص خلال (عشرين) يوماً من تاريخ إبلاغه بذلك، وإن لم يستوفِ ما طلب منه خلال هذه المدة عُدَّ الطلب كأن لم يكن.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• لطالب القيد التظلم أمام رئيس المحكمة من عدم القيد خلال (خمسة عشر) يوماً من تاريخ اعتبار الطلب كأن لم يكن، ويفصل رئيس المحكمة في التظلم خلال (خمسة عشر) يومًا من تاريخ التظلم، ويعد قراره في هذا الشأن نهائيًّا وغير قابل للاعتراض.",
+          "text_for_index": "• لطالب القيد التظلم أمام رئيس المحكمة من عدم القيد خلال (خمسة عشر) يوماً من تاريخ اعتبار الطلب كأن لم يكن، ويفصل رئيس المحكمة في التظلم خلال (خمسة عشر) يومًا من تاريخ التظلم، ويعد قراره في هذا الشأن نهائيًّا وغير قابل للاعتراض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثامنة",
+      "text_verbatim": "• يجب على صاحب الشأن -قبل رفع طلب التنفيذ- أن يطالب من عليه الحق -الوارد في السند- بالأداء، وذلك خلال مدة لا تتجاوز (عشر) سنوات من تاريخ اكتساب الحكم الصفة النهائية، أو من تاريخ نشوء الحق الوارد في السندات التنفيذية الأخرى.\n\n\t• لا يقبل طلب التنفيذ قبل مضي ثلاثين يوماً من تاريخ المطالبة بالأداء، فإذا مضت هذه المهلة دون أن يتم التنفيذ، أو صرح خلالها المطالَب بالأداء بما يفيد الرفض، فلصاحب الشأن أن يتقدم بطلبه إلى المحكمة المختصة خلال ما تبقى من المدة المذكورة في الفقرة (1) من هذه المادة أو في اليوم التالي لانقضاء مهلة (الثلاثين) يوماً، أيهما أطول.\n\n\t• تكون المهلة المنصوص عليها في الفقرة (2) من هذه المادة (خمسة) أيام إذا كان المطلوب تنفيذه حكماً عاجلاً، ما لم يحدد الحكم العاجل مهلة أقل.",
+      "text_for_index": "• يجب على صاحب الشأن -قبل رفع طلب التنفيذ- أن يطالب من عليه الحق -الوارد في السند- بالأداء، وذلك خلال مدة لا تتجاوز (عشر) سنوات من تاريخ اكتساب الحكم الصفة النهائية، أو من تاريخ نشوء الحق الوارد في السندات التنفيذية الأخرى.\n\n • لا يقبل طلب التنفيذ قبل مضي ثلاثين يوماً من تاريخ المطالبة بالأداء، فإذا مضت هذه المهلة دون أن يتم التنفيذ، أو صرح خلالها المطالَب بالأداء بما يفيد الرفض، فلصاحب الشأن أن يتقدم بطلبه إلى المحكمة المختصة خلال ما تبقى من المدة المذكورة في الفقرة (1) من هذه المادة أو في اليوم التالي لانقضاء مهلة (الثلاثين) يوماً، أيهما أطول.\n\n • تكون المهلة المنصوص عليها في الفقرة (2) من هذه المادة (خمسة) أيام إذا كان المطلوب تنفيذه حكماً عاجلاً، ما لم يحدد الحكم العاجل مهلة أقل.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجب على صاحب الشأن -قبل رفع طلب التنفيذ- أن يطالب من عليه الحق -الوارد في السند- بالأداء، وذلك خلال مدة لا تتجاوز (عشر) سنوات من تاريخ اكتساب الحكم الصفة النهائية، أو من تاريخ نشوء الحق الوارد في السندات التنفيذية الأخرى.",
+          "text_for_index": "• يجب على صاحب الشأن -قبل رفع طلب التنفيذ- أن يطالب من عليه الحق -الوارد في السند- بالأداء، وذلك خلال مدة لا تتجاوز (عشر) سنوات من تاريخ اكتساب الحكم الصفة النهائية، أو من تاريخ نشوء الحق الوارد في السندات التنفيذية الأخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• لا يقبل طلب التنفيذ قبل مضي ثلاثين يوماً من تاريخ المطالبة بالأداء، فإذا مضت هذه المهلة دون أن يتم التنفيذ، أو صرح خلالها المطالَب بالأداء بما يفيد الرفض، فلصاحب الشأن أن يتقدم بطلبه إلى المحكمة المختصة خلال ما تبقى من المدة المذكورة في الفقرة (1) من هذه المادة أو في اليوم التالي لانقضاء مهلة (الثلاثين) يوماً، أيهما أطول.",
+          "text_for_index": "• لا يقبل طلب التنفيذ قبل مضي ثلاثين يوماً من تاريخ المطالبة بالأداء، فإذا مضت هذه المهلة دون أن يتم التنفيذ، أو صرح خلالها المطالَب بالأداء بما يفيد الرفض، فلصاحب الشأن أن يتقدم بطلبه إلى المحكمة المختصة خلال ما تبقى من المدة المذكورة في الفقرة (1) من هذه المادة أو في اليوم التالي لانقضاء مهلة (الثلاثين) يوماً، أيهما أطول.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-8::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تكون المهلة المنصوص عليها في الفقرة (2) من هذه المادة (خمسة) أيام إذا كان المطلوب تنفيذه حكماً عاجلاً، ما لم يحدد الحكم العاجل مهلة أقل.",
+          "text_for_index": "• تكون المهلة المنصوص عليها في الفقرة (2) من هذه المادة (خمسة) أيام إذا كان المطلوب تنفيذه حكماً عاجلاً، ما لم يحدد الحكم العاجل مهلة أقل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة التاسعة",
+      "text_verbatim": "لا يترتب على عدم قبول طلب التنفيذ -لفوات المدد المنصوص عليها في المادة (الثامنة) من النظام- انقضاء الالتزام، أو عدم تطبيق أحكام الباب (الرابع) من النظام.",
+      "text_for_index": "لا يترتب على عدم قبول طلب التنفيذ -لفوات المدد المنصوص عليها في المادة (الثامنة) من النظام- انقضاء الالتزام، أو عدم تطبيق أحكام الباب (الرابع) من النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "لا يترتب على عدم قبول طلب التنفيذ -لفوات المدد المنصوص عليها في المادة (الثامنة) من النظام- انقضاء الالتزام، أو عدم تطبيق أحكام الباب (الرابع) من النظام.",
+          "text_for_index": "لا يترتب على عدم قبول طلب التنفيذ -لفوات المدد المنصوص عليها في المادة (الثامنة) من النظام- انقضاء الالتزام، أو عدم تطبيق أحكام الباب (الرابع) من النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "الفصل الثاني ( التنفيذ ضد الجهات الإدارية )",
+      "article_label_raw": "الفصل الثاني ( التنفيذ ضد الجهات الإدارية )",
+      "article_heading": "الفصل الثاني ( التنفيذ ضد الجهات الإدارية )",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الفصل الثاني ( التنفيذ ضد الجهات الإدارية )",
+      "text_verbatim": "تصدر دائرة التنفيذ -فور إحالة الطلب إليها- إنذاراً للجهة الإدارية للتنفيذ خلال مهلة لا تتجاوز (خمسة) أيام في الأحكام العاجلة، و(ثلاثين) يوماً فيما عداها، وذلك من تاريخ التبليغ بالإنذار، ما لم تر الدائرة تحديد مهلة أقل. ويتضمن الإنذار بيانات السند المطلوب تنفيذه وترافقه صورة منه، وللدائرة أن تُبلغ بذلك الجهة الرقابية المختصة للنظر في مباشرة الإجراءات التأديبية عند الاقتضاء.",
+      "text_for_index": "تصدر دائرة التنفيذ -فور إحالة الطلب إليها- إنذاراً للجهة الإدارية للتنفيذ خلال مهلة لا تتجاوز (خمسة) أيام في الأحكام العاجلة، و(ثلاثين) يوماً فيما عداها، وذلك من تاريخ التبليغ بالإنذار، ما لم تر الدائرة تحديد مهلة أقل. ويتضمن الإنذار بيانات السند المطلوب تنفيذه وترافقه صورة منه، وللدائرة أن تُبلغ بذلك الجهة الرقابية المختصة للنظر في مباشرة الإجراءات التأديبية عند الاقتضاء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تصدر دائرة التنفيذ -فور إحالة الطلب إليها- إنذاراً للجهة الإدارية للتنفيذ خلال مهلة لا تتجاوز (خمسة) أيام في الأحكام العاجلة، و(ثلاثين) يوماً فيما عداها، وذلك من تاريخ التبليغ بالإنذار، ما لم تر الدائرة تحديد مهلة أقل. ويتضمن الإنذار بيانات السند المطلوب تنفيذه وترافقه صورة منه، وللدائرة أن تُبلغ بذلك الجهة الرقابية المختصة للنظر في مباشرة الإجراءات التأديبية عند الاقتضاء.",
+          "text_for_index": "تصدر دائرة التنفيذ -فور إحالة الطلب إليها- إنذاراً للجهة الإدارية للتنفيذ خلال مهلة لا تتجاوز (خمسة) أيام في الأحكام العاجلة، و(ثلاثين) يوماً فيما عداها، وذلك من تاريخ التبليغ بالإنذار، ما لم تر الدائرة تحديد مهلة أقل. ويتضمن الإنذار بيانات السند المطلوب تنفيذه وترافقه صورة منه، وللدائرة أن تُبلغ بذلك الجهة الرقابية المختصة للنظر في مباشرة الإجراءات التأديبية عند الاقتضاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الحادية عشرة",
+      "text_verbatim": "لدائرة التنفيذ أن تأمر الجهات الإدارية بالتدابير اللازمة للتنفيذ، بما في ذلك اطلاعها على الميزانيات والوظائف والإجراءات وأي مستند ترى ضرورة الاطلاع عليه، وعلى الجهات الإدارية تنفيذ هذه الأوامر خلال المهل المحددة فيها.",
+      "text_for_index": "لدائرة التنفيذ أن تأمر الجهات الإدارية بالتدابير اللازمة للتنفيذ، بما في ذلك اطلاعها على الميزانيات والوظائف والإجراءات وأي مستند ترى ضرورة الاطلاع عليه، وعلى الجهات الإدارية تنفيذ هذه الأوامر خلال المهل المحددة فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لدائرة التنفيذ أن تأمر الجهات الإدارية بالتدابير اللازمة للتنفيذ، بما في ذلك اطلاعها على الميزانيات والوظائف والإجراءات وأي مستند ترى ضرورة الاطلاع عليه، وعلى الجهات الإدارية تنفيذ هذه الأوامر خلال المهل المحددة فيها.",
+          "text_for_index": "لدائرة التنفيذ أن تأمر الجهات الإدارية بالتدابير اللازمة للتنفيذ، بما في ذلك اطلاعها على الميزانيات والوظائف والإجراءات وأي مستند ترى ضرورة الاطلاع عليه، وعلى الجهات الإدارية تنفيذ هذه الأوامر خلال المهل المحددة فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثانية عشرة",
+      "text_verbatim": "تصدر دائرة التنفيذ أمراً بالتنفيذ إلى الجهة الإدارية إذا انتهت المهلة المنصوص عليها في المادة (العاشرة) دون أن يتم التنفيذ، أو إذا صرحت خلالها الجهة بما يفيد رفضه. وإذا كان تنفيذ السند يتطلب اتخاذ إجراءات معينة بما في ذلك إصدار قرارات إدارية فيتضمن أمر التنفيذ تحديدها. وتبلغ الجهة المختصة بصورة من الأمر للنظر في مباشرة الإجراءات الجزائية ضد المتسبب في عدم التنفيذ.",
+      "text_for_index": "تصدر دائرة التنفيذ أمراً بالتنفيذ إلى الجهة الإدارية إذا انتهت المهلة المنصوص عليها في المادة (العاشرة) دون أن يتم التنفيذ، أو إذا صرحت خلالها الجهة بما يفيد رفضه. وإذا كان تنفيذ السند يتطلب اتخاذ إجراءات معينة بما في ذلك إصدار قرارات إدارية فيتضمن أمر التنفيذ تحديدها. وتبلغ الجهة المختصة بصورة من الأمر للنظر في مباشرة الإجراءات الجزائية ضد المتسبب في عدم التنفيذ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تصدر دائرة التنفيذ أمراً بالتنفيذ إلى الجهة الإدارية إذا انتهت المهلة المنصوص عليها في المادة (العاشرة) دون أن يتم التنفيذ، أو إذا صرحت خلالها الجهة بما يفيد رفضه. وإذا كان تنفيذ السند يتطلب اتخاذ إجراءات معينة بما في ذلك إصدار قرارات إدارية فيتضمن أمر التنفيذ تحديدها. وتبلغ الجهة المختصة بصورة من الأمر للنظر في مباشرة الإجراءات الجزائية ضد المتسبب في عدم التنفيذ.",
+          "text_for_index": "تصدر دائرة التنفيذ أمراً بالتنفيذ إلى الجهة الإدارية إذا انتهت المهلة المنصوص عليها في المادة (العاشرة) دون أن يتم التنفيذ، أو إذا صرحت خلالها الجهة بما يفيد رفضه. وإذا كان تنفيذ السند يتطلب اتخاذ إجراءات معينة بما في ذلك إصدار قرارات إدارية فيتضمن أمر التنفيذ تحديدها. وتبلغ الجهة المختصة بصورة من الأمر للنظر في مباشرة الإجراءات الجزائية ضد المتسبب في عدم التنفيذ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثالثة عشرة",
+      "text_verbatim": "إذا تبين لدائرة التنفيذ أن الجهة الإدارية -الملزمة بأداء مبلغ مالي أو ما يؤول إليه- قد استوفت ما تختص به من الإجراءات اللازمة للتنفيذ، دون أن يتم ذلك بسبب يعود إلى وزارة المالية؛ فللدائرة أن توجه إلى الوزارة إنذار التنفيذ وتطبق ضدها الإجراءات المنصوص عليها في النظام.",
+      "text_for_index": "إذا تبين لدائرة التنفيذ أن الجهة الإدارية -الملزمة بأداء مبلغ مالي أو ما يؤول إليه- قد استوفت ما تختص به من الإجراءات اللازمة للتنفيذ، دون أن يتم ذلك بسبب يعود إلى وزارة المالية؛ فللدائرة أن توجه إلى الوزارة إنذار التنفيذ وتطبق ضدها الإجراءات المنصوص عليها في النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "إذا تبين لدائرة التنفيذ أن الجهة الإدارية -الملزمة بأداء مبلغ مالي أو ما يؤول إليه- قد استوفت ما تختص به من الإجراءات اللازمة للتنفيذ، دون أن يتم ذلك بسبب يعود إلى وزارة المالية؛ فللدائرة أن توجه إلى الوزارة إنذار التنفيذ وتطبق ضدها الإجراءات المنصوص عليها في النظام.",
+          "text_for_index": "إذا تبين لدائرة التنفيذ أن الجهة الإدارية -الملزمة بأداء مبلغ مالي أو ما يؤول إليه- قد استوفت ما تختص به من الإجراءات اللازمة للتنفيذ، دون أن يتم ذلك بسبب يعود إلى وزارة المالية؛ فللدائرة أن توجه إلى الوزارة إنذار التنفيذ وتطبق ضدها الإجراءات المنصوص عليها في النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الرابعة عشرة",
+      "text_verbatim": "للجهة الإدارية -قبل صدور الأمر المنصوص عليه في المادة (الثانية عشرة) من النظام- أن تطلب من دائرة التنفيذ إرشادها إلى كيفية التنفيذ، وتصدر دائرة التنفيذ -عند الاقتضاء- أمراً يتضمن بيان الإجراءات التي يتطلبها التنفيذ.",
+      "text_for_index": "للجهة الإدارية -قبل صدور الأمر المنصوص عليه في المادة (الثانية عشرة) من النظام- أن تطلب من دائرة التنفيذ إرشادها إلى كيفية التنفيذ، وتصدر دائرة التنفيذ -عند الاقتضاء- أمراً يتضمن بيان الإجراءات التي يتطلبها التنفيذ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "للجهة الإدارية -قبل صدور الأمر المنصوص عليه في المادة (الثانية عشرة) من النظام- أن تطلب من دائرة التنفيذ إرشادها إلى كيفية التنفيذ، وتصدر دائرة التنفيذ -عند الاقتضاء- أمراً يتضمن بيان الإجراءات التي يتطلبها التنفيذ.",
+          "text_for_index": "للجهة الإدارية -قبل صدور الأمر المنصوص عليه في المادة (الثانية عشرة) من النظام- أن تطلب من دائرة التنفيذ إرشادها إلى كيفية التنفيذ، وتصدر دائرة التنفيذ -عند الاقتضاء- أمراً يتضمن بيان الإجراءات التي يتطلبها التنفيذ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الخامسة عشرة",
+      "text_verbatim": "لا يترتب على طلب الإرشاد والبت فيه وقف الإجراءات والمهل المنصوص عليها في النظام.",
+      "text_for_index": "لا يترتب على طلب الإرشاد والبت فيه وقف الإجراءات والمهل المنصوص عليها في النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "لا يترتب على طلب الإرشاد والبت فيه وقف الإجراءات والمهل المنصوص عليها في النظام.",
+          "text_for_index": "لا يترتب على طلب الإرشاد والبت فيه وقف الإجراءات والمهل المنصوص عليها في النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "الفصل الثالث ( التنفيذ لصالح الجهات الإدارية )",
+      "article_label_raw": "الفصل الثالث ( التنفيذ لصالح الجهات الإدارية )",
+      "article_heading": "الفصل الثالث ( التنفيذ لصالح الجهات الإدارية )",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الفصل الثالث ( التنفيذ لصالح الجهات الإدارية )",
+      "text_verbatim": "في سبيل تنفيذ السند الصادر لمصلحة الجهة الإدارية، تصدر دائرة التنفيذ فور إحالة طلب التنفيذ إليها أمراً إلى المطلوب التنفيذ ضده لتنفيذ السند خلال مهلة لا تتجاوز (ثلاثين) يوماً من تاريخ تبليغه بأمر التنفيذ، على أن يتضمن الأمر بيانات السند وترافقه صورة منه.",
+      "text_for_index": "في سبيل تنفيذ السند الصادر لمصلحة الجهة الإدارية، تصدر دائرة التنفيذ فور إحالة طلب التنفيذ إليها أمراً إلى المطلوب التنفيذ ضده لتنفيذ السند خلال مهلة لا تتجاوز (ثلاثين) يوماً من تاريخ تبليغه بأمر التنفيذ، على أن يتضمن الأمر بيانات السند وترافقه صورة منه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "في سبيل تنفيذ السند الصادر لمصلحة الجهة الإدارية، تصدر دائرة التنفيذ فور إحالة طلب التنفيذ إليها أمراً إلى المطلوب التنفيذ ضده لتنفيذ السند خلال مهلة لا تتجاوز (ثلاثين) يوماً من تاريخ تبليغه بأمر التنفيذ، على أن يتضمن الأمر بيانات السند وترافقه صورة منه.",
+          "text_for_index": "في سبيل تنفيذ السند الصادر لمصلحة الجهة الإدارية، تصدر دائرة التنفيذ فور إحالة طلب التنفيذ إليها أمراً إلى المطلوب التنفيذ ضده لتنفيذ السند خلال مهلة لا تتجاوز (ثلاثين) يوماً من تاريخ تبليغه بأمر التنفيذ، على أن يتضمن الأمر بيانات السند وترافقه صورة منه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement",
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ",
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة السابعة عشرة",
+      "text_verbatim": "إذا انتهت المهلة المنصوص عليها في المادة (السادسة عشرة) دون أن يتم التنفيذ، أمرت دائرة التنفيذ -فوراً- بالإفصاح عن أمـوال المنفذ ضده وحجزها، بما في ذلك مستحقاته لدى الجهات الإدارية، وذلك بمقدار ما يفي بالمبلغ المستحق عليه في السند.\n\nوللدائرة إضافةً إلى ما سبق أن تأمر -بحسب الأحوال- بمنع المنفذ ضده من السفر، أو منع الجهات الإدارية والمنشآت المالية من التعامل معه، أو بهما معًا.",
+      "text_for_index": "إذا انتهت المهلة المنصوص عليها في المادة (السادسة عشرة) دون أن يتم التنفيذ، أمرت دائرة التنفيذ -فوراً- بالإفصاح عن أمـوال المنفذ ضده وحجزها، بما في ذلك مستحقاته لدى الجهات الإدارية، وذلك بمقدار ما يفي بالمبلغ المستحق عليه في السند.\n\nوللدائرة إضافةً إلى ما سبق أن تأمر -بحسب الأحوال- بمنع المنفذ ضده من السفر، أو منع الجهات الإدارية والمنشآت المالية من التعامل معه، أو بهما معًا.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "إذا انتهت المهلة المنصوص عليها في المادة (السادسة عشرة) دون أن يتم التنفيذ، أمرت دائرة التنفيذ -فوراً- بالإفصاح عن أمـوال المنفذ ضده وحجزها، بما في ذلك مستحقاته لدى الجهات الإدارية، وذلك بمقدار ما يفي بالمبلغ المستحق عليه في السند.",
+          "text_for_index": "إذا انتهت المهلة المنصوص عليها في المادة (السادسة عشرة) دون أن يتم التنفيذ، أمرت دائرة التنفيذ -فوراً- بالإفصاح عن أمـوال المنفذ ضده وحجزها، بما في ذلك مستحقاته لدى الجهات الإدارية، وذلك بمقدار ما يفي بالمبلغ المستحق عليه في السند.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-17::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "وللدائرة إضافةً إلى ما سبق أن تأمر -بحسب الأحوال- بمنع المنفذ ضده من السفر، أو منع الجهات الإدارية والمنشآت المالية من التعامل معه، أو بهما معًا.",
+          "text_for_index": "وللدائرة إضافةً إلى ما سبق أن تأمر -بحسب الأحوال- بمنع المنفذ ضده من السفر، أو منع الجهات الإدارية والمنشآت المالية من التعامل معه، أو بهما معًا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثامنة عشرة",
+      "text_verbatim": "فيما لم يرد فيه نص خاص في النظام ولائحته، تطبق -في تنفيذ السندات المشمولة بأحكام هذا الفصل- الإجراءات الواردة في نظام التنفيذ، ويكون لدوائر التنفيذ اختصاصات قاضي التنفيذ الواردة في نظام التنفيذ.",
+      "text_for_index": "فيما لم يرد فيه نص خاص في النظام ولائحته، تطبق -في تنفيذ السندات المشمولة بأحكام هذا الفصل- الإجراءات الواردة في نظام التنفيذ، ويكون لدوائر التنفيذ اختصاصات قاضي التنفيذ الواردة في نظام التنفيذ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "فيما لم يرد فيه نص خاص في النظام ولائحته، تطبق -في تنفيذ السندات المشمولة بأحكام هذا الفصل- الإجراءات الواردة في نظام التنفيذ، ويكون لدوائر التنفيذ اختصاصات قاضي التنفيذ الواردة في نظام التنفيذ.",
+          "text_for_index": "فيما لم يرد فيه نص خاص في النظام ولائحته، تطبق -في تنفيذ السندات المشمولة بأحكام هذا الفصل- الإجراءات الواردة في نظام التنفيذ، ويكون لدوائر التنفيذ اختصاصات قاضي التنفيذ الواردة في نظام التنفيذ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة التاسعة عشرة",
+      "text_verbatim": "باستثناء الإجراءات المنصوص عليها في المادتين (السابعة عشرة) و(العشرين) من النظام، لدائرة التنفيذ أن تكلف الجهة الإدارية طالبة التنفيذ -أو غيرها- بمباشرة ما تراه الدائرة من الإجراءات.",
+      "text_for_index": "باستثناء الإجراءات المنصوص عليها في المادتين (السابعة عشرة) و(العشرين) من النظام، لدائرة التنفيذ أن تكلف الجهة الإدارية طالبة التنفيذ -أو غيرها- بمباشرة ما تراه الدائرة من الإجراءات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "باستثناء الإجراءات المنصوص عليها في المادتين (السابعة عشرة) و(العشرين) من النظام، لدائرة التنفيذ أن تكلف الجهة الإدارية طالبة التنفيذ -أو غيرها- بمباشرة ما تراه الدائرة من الإجراءات.",
+          "text_for_index": "باستثناء الإجراءات المنصوص عليها في المادتين (السابعة عشرة) و(العشرين) من النظام، لدائرة التنفيذ أن تكلف الجهة الإدارية طالبة التنفيذ -أو غيرها- بمباشرة ما تراه الدائرة من الإجراءات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "الفصل الرابع ( إجراءات التنفيذ ضد الجهات الإدارية ولصالحها )",
+      "article_label_raw": "الفصل الرابع ( إجراءات التنفيذ ضد الجهات الإدارية ولصالحها )",
+      "article_heading": "الفصل الرابع ( إجراءات التنفيذ ضد الجهات الإدارية ولصالحها )",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الفصل الرابع ( إجراءات التنفيذ ضد الجهات الإدارية ولصالحها )",
+      "text_verbatim": "فيما عدا التنفيذ لاقتضاء المبالغ المالية، لدائرة التنفيذ -بعد انقضاء المهلة المنصوص عليها في المادة (العاشرة) أو المادة (السادسة عشرة) بحسب الأحوال- أن تفرض غرامة لا تزيد على عشرة آلاف ريال على المنفذ ضده عن كل يوم يمضي دون إتمام التنفيذ.",
+      "text_for_index": "فيما عدا التنفيذ لاقتضاء المبالغ المالية، لدائرة التنفيذ -بعد انقضاء المهلة المنصوص عليها في المادة (العاشرة) أو المادة (السادسة عشرة) بحسب الأحوال- أن تفرض غرامة لا تزيد على عشرة آلاف ريال على المنفذ ضده عن كل يوم يمضي دون إتمام التنفيذ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "فيما عدا التنفيذ لاقتضاء المبالغ المالية، لدائرة التنفيذ -بعد انقضاء المهلة المنصوص عليها في المادة (العاشرة) أو المادة (السادسة عشرة) بحسب الأحوال- أن تفرض غرامة لا تزيد على عشرة آلاف ريال على المنفذ ضده عن كل يوم يمضي دون إتمام التنفيذ.",
+          "text_for_index": "فيما عدا التنفيذ لاقتضاء المبالغ المالية، لدائرة التنفيذ -بعد انقضاء المهلة المنصوص عليها في المادة (العاشرة) أو المادة (السادسة عشرة) بحسب الأحوال- أن تفرض غرامة لا تزيد على عشرة آلاف ريال على المنفذ ضده عن كل يوم يمضي دون إتمام التنفيذ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الحادية والعشرون",
+      "text_verbatim": "عند إتمام التنفيذ أو تعذره أو مضي (ستة) أشهر من سريان الغرامة دون إتمام التنفيذ؛ تتولى دائرة التنفيذ تصفية الغرامة بتحديد مبلغها، وتصدر في جلسة تحددها حكماً بإلزام المنفذ ضده بأن يؤدي لطالب التنفيذ -بناءً على طلبه- المبلغ الذي حددته، أو بإلغاء الغرامة أو جزء منها.",
+      "text_for_index": "عند إتمام التنفيذ أو تعذره أو مضي (ستة) أشهر من سريان الغرامة دون إتمام التنفيذ؛ تتولى دائرة التنفيذ تصفية الغرامة بتحديد مبلغها، وتصدر في جلسة تحددها حكماً بإلزام المنفذ ضده بأن يؤدي لطالب التنفيذ -بناءً على طلبه- المبلغ الذي حددته، أو بإلغاء الغرامة أو جزء منها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "عند إتمام التنفيذ أو تعذره أو مضي (ستة) أشهر من سريان الغرامة دون إتمام التنفيذ؛ تتولى دائرة التنفيذ تصفية الغرامة بتحديد مبلغها، وتصدر في جلسة تحددها حكماً بإلزام المنفذ ضده بأن يؤدي لطالب التنفيذ -بناءً على طلبه- المبلغ الذي حددته، أو بإلغاء الغرامة أو جزء منها.",
+          "text_for_index": "عند إتمام التنفيذ أو تعذره أو مضي (ستة) أشهر من سريان الغرامة دون إتمام التنفيذ؛ تتولى دائرة التنفيذ تصفية الغرامة بتحديد مبلغها، وتصدر في جلسة تحددها حكماً بإلزام المنفذ ضده بأن يؤدي لطالب التنفيذ -بناءً على طلبه- المبلغ الذي حددته، أو بإلغاء الغرامة أو جزء منها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثانية والعشرون",
+      "text_verbatim": "• لدائرة التنفيذ -بناءً على أسباب ملجئة يبديها المنفذ ضده- أن تأمر بوقف المهل المنصوص عليها في المادتين (العاشرة) و(السادسة عشرة) لمدة أو مدد لا تزيد في مجموعها على (ستة) أشهر، ويجوز أن يكون الوقف أو تمديده باتفاق أطراف التنفيذ أمام الدائرة، على ألا يزيد مجموع وقف المهل أو تمديدها -في جميع الأحوال- على (اثني عشر) شهرًا.\n\n\t• يقف سريان المهلة من تاريخ صدور أمر الوقف، وتُستكمل من تاريخ انقضاء المدة المحددة فيه أو عدول دائرة التنفيذ عنه في أي وقت.",
+      "text_for_index": "• لدائرة التنفيذ -بناءً على أسباب ملجئة يبديها المنفذ ضده- أن تأمر بوقف المهل المنصوص عليها في المادتين (العاشرة) و(السادسة عشرة) لمدة أو مدد لا تزيد في مجموعها على (ستة) أشهر، ويجوز أن يكون الوقف أو تمديده باتفاق أطراف التنفيذ أمام الدائرة، على ألا يزيد مجموع وقف المهل أو تمديدها -في جميع الأحوال- على (اثني عشر) شهرًا.\n\n • يقف سريان المهلة من تاريخ صدور أمر الوقف، وتُستكمل من تاريخ انقضاء المدة المحددة فيه أو عدول دائرة التنفيذ عنه في أي وقت.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• لدائرة التنفيذ -بناءً على أسباب ملجئة يبديها المنفذ ضده- أن تأمر بوقف المهل المنصوص عليها في المادتين (العاشرة) و(السادسة عشرة) لمدة أو مدد لا تزيد في مجموعها على (ستة) أشهر، ويجوز أن يكون الوقف أو تمديده باتفاق أطراف التنفيذ أمام الدائرة، على ألا يزيد مجموع وقف المهل أو تمديدها -في جميع الأحوال- على (اثني عشر) شهرًا.",
+          "text_for_index": "• لدائرة التنفيذ -بناءً على أسباب ملجئة يبديها المنفذ ضده- أن تأمر بوقف المهل المنصوص عليها في المادتين (العاشرة) و(السادسة عشرة) لمدة أو مدد لا تزيد في مجموعها على (ستة) أشهر، ويجوز أن يكون الوقف أو تمديده باتفاق أطراف التنفيذ أمام الدائرة، على ألا يزيد مجموع وقف المهل أو تمديدها -في جميع الأحوال- على (اثني عشر) شهرًا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يقف سريان المهلة من تاريخ صدور أمر الوقف، وتُستكمل من تاريخ انقضاء المدة المحددة فيه أو عدول دائرة التنفيذ عنه في أي وقت.",
+          "text_for_index": "• يقف سريان المهلة من تاريخ صدور أمر الوقف، وتُستكمل من تاريخ انقضاء المدة المحددة فيه أو عدول دائرة التنفيذ عنه في أي وقت.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثالثة والعشرون",
+      "text_verbatim": "يجب أن يشتمل طلب وقف المهل -إضافة إلى البيانات اللازمة وفقاً للمادة (السادسة) من النظام- على أسبابه، وبيان الإجراءات، والمدد اللازمة للتنفيذ.",
+      "text_for_index": "يجب أن يشتمل طلب وقف المهل -إضافة إلى البيانات اللازمة وفقاً للمادة (السادسة) من النظام- على أسبابه، وبيان الإجراءات، والمدد اللازمة للتنفيذ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب أن يشتمل طلب وقف المهل -إضافة إلى البيانات اللازمة وفقاً للمادة (السادسة) من النظام- على أسبابه، وبيان الإجراءات، والمدد اللازمة للتنفيذ.",
+          "text_for_index": "يجب أن يشتمل طلب وقف المهل -إضافة إلى البيانات اللازمة وفقاً للمادة (السادسة) من النظام- على أسبابه، وبيان الإجراءات، والمدد اللازمة للتنفيذ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الرابعة والعشرون",
+      "text_verbatim": "لطالب التنفيذ أن يقرر أمام دائرة التنفيذ ترك طلبه في أي مرحلة كان عليها، ويترتب على الترك زوال طلب التنفيذ وما تم من إجراءات بناءً عليه، ولا يمنع ذلك من رفع طلب جديد وفقاً لأحكام النظام.",
+      "text_for_index": "لطالب التنفيذ أن يقرر أمام دائرة التنفيذ ترك طلبه في أي مرحلة كان عليها، ويترتب على الترك زوال طلب التنفيذ وما تم من إجراءات بناءً عليه، ولا يمنع ذلك من رفع طلب جديد وفقاً لأحكام النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "لطالب التنفيذ أن يقرر أمام دائرة التنفيذ ترك طلبه في أي مرحلة كان عليها، ويترتب على الترك زوال طلب التنفيذ وما تم من إجراءات بناءً عليه، ولا يمنع ذلك من رفع طلب جديد وفقاً لأحكام النظام.",
+          "text_for_index": "لطالب التنفيذ أن يقرر أمام دائرة التنفيذ ترك طلبه في أي مرحلة كان عليها، ويترتب على الترك زوال طلب التنفيذ وما تم من إجراءات بناءً عليه، ولا يمنع ذلك من رفع طلب جديد وفقاً لأحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الخامسة والعشرون",
+      "text_verbatim": "ترفع منازعة التنفيذ -من كل ذي مصلحة من أطراف التنفيذ أو غيرهم- بصحيفة تودع لدى المحكمة المختصة وفق الإجراءات المعتادة لرفع الدعوى، على أن تتضمن الصحيفة بيانات السند المتنازع في تنفيذه، وملخصاً عنه، وأسباب المنازعة، وطلبات مقدمها.",
+      "text_for_index": "ترفع منازعة التنفيذ -من كل ذي مصلحة من أطراف التنفيذ أو غيرهم- بصحيفة تودع لدى المحكمة المختصة وفق الإجراءات المعتادة لرفع الدعوى، على أن تتضمن الصحيفة بيانات السند المتنازع في تنفيذه، وملخصاً عنه، وأسباب المنازعة، وطلبات مقدمها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ترفع منازعة التنفيذ -من كل ذي مصلحة من أطراف التنفيذ أو غيرهم- بصحيفة تودع لدى المحكمة المختصة وفق الإجراءات المعتادة لرفع الدعوى، على أن تتضمن الصحيفة بيانات السند المتنازع في تنفيذه، وملخصاً عنه، وأسباب المنازعة، وطلبات مقدمها.",
+          "text_for_index": "ترفع منازعة التنفيذ -من كل ذي مصلحة من أطراف التنفيذ أو غيرهم- بصحيفة تودع لدى المحكمة المختصة وفق الإجراءات المعتادة لرفع الدعوى، على أن تتضمن الصحيفة بيانات السند المتنازع في تنفيذه، وملخصاً عنه، وأسباب المنازعة، وطلبات مقدمها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة السادسة والعشرون",
+      "text_verbatim": "• تنظر منازعة التنفيذ على وجه السرعة، وإذا تضمنت طلباً وقتيًا بوقف التنفيذ أو الاستمرار فيه فيخضع للأحكام المنظمة للدعاوى المستعجلة.\n\n\t• يترتب على الحكم بوقف التنفيذ توقف جميع الإجراءات والمهل المتعلقة به.",
+      "text_for_index": "• تنظر منازعة التنفيذ على وجه السرعة، وإذا تضمنت طلباً وقتيًا بوقف التنفيذ أو الاستمرار فيه فيخضع للأحكام المنظمة للدعاوى المستعجلة.\n\n • يترتب على الحكم بوقف التنفيذ توقف جميع الإجراءات والمهل المتعلقة به.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• تنظر منازعة التنفيذ على وجه السرعة، وإذا تضمنت طلباً وقتيًا بوقف التنفيذ أو الاستمرار فيه فيخضع للأحكام المنظمة للدعاوى المستعجلة.",
+          "text_for_index": "• تنظر منازعة التنفيذ على وجه السرعة، وإذا تضمنت طلباً وقتيًا بوقف التنفيذ أو الاستمرار فيه فيخضع للأحكام المنظمة للدعاوى المستعجلة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-26::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• يترتب على الحكم بوقف التنفيذ توقف جميع الإجراءات والمهل المتعلقة به.",
+          "text_for_index": "• يترتب على الحكم بوقف التنفيذ توقف جميع الإجراءات والمهل المتعلقة به.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة السابعة والعشرون",
+      "text_verbatim": "• لا يجوز أن تتضمن منازعة التنفيذ اعتراضاً على الحكم المتنازع في تنفيذه.\n\n\t• يترتب على صدور أمر بوقف التنفيذ من المحكمة المختصة بنظر الاعتراض على الحكم توقف جميع الإجراءات والمهل المتعلقة به، ولا تقبل الطلبات والمنازعات التي ترفع بعد أمر الوقف حتى يتم الفصل في الاعتراض.",
+      "text_for_index": "• لا يجوز أن تتضمن منازعة التنفيذ اعتراضاً على الحكم المتنازع في تنفيذه.\n\n • يترتب على صدور أمر بوقف التنفيذ من المحكمة المختصة بنظر الاعتراض على الحكم توقف جميع الإجراءات والمهل المتعلقة به، ولا تقبل الطلبات والمنازعات التي ترفع بعد أمر الوقف حتى يتم الفصل في الاعتراض.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• لا يجوز أن تتضمن منازعة التنفيذ اعتراضاً على الحكم المتنازع في تنفيذه.",
+          "text_for_index": "• لا يجوز أن تتضمن منازعة التنفيذ اعتراضاً على الحكم المتنازع في تنفيذه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-27::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• يترتب على صدور أمر بوقف التنفيذ من المحكمة المختصة بنظر الاعتراض على الحكم توقف جميع الإجراءات والمهل المتعلقة به، ولا تقبل الطلبات والمنازعات التي ترفع بعد أمر الوقف حتى يتم الفصل في الاعتراض.",
+          "text_for_index": "• يترتب على صدور أمر بوقف التنفيذ من المحكمة المختصة بنظر الاعتراض على الحكم توقف جميع الإجراءات والمهل المتعلقة به، ولا تقبل الطلبات والمنازعات التي ترفع بعد أمر الوقف حتى يتم الفصل في الاعتراض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثامنة والعشرون",
+      "text_verbatim": "• لأي من أطراف التنفيذ أو المنازعة أن يطلب من دائرة التنفيذ وقف التنفيذ عند وجود غموض أو لبس في الحكم محل الطلب أو المنازعة يحول دون تنفيذه، وللدائرة أن تأمر بالوقف وذلك إلى حين الفصل في طلب تفسير الحكم من المحكمة المختصة.\n\n\t• لأي من أطراف التنفيذ -عند صدور أمر وقف التنفيذ وفقًا لحكم الفقرة (1) من هذه المادة- التقدم إلى المحكمة المختصة بطلب التفسير خلال (خمسة عشر) يومًا من تاريخ التبليغ بأمر الوقف، على أن تشعر المحكمة المختصة دائرة التنفيذ بذلك.",
+      "text_for_index": "• لأي من أطراف التنفيذ أو المنازعة أن يطلب من دائرة التنفيذ وقف التنفيذ عند وجود غموض أو لبس في الحكم محل الطلب أو المنازعة يحول دون تنفيذه، وللدائرة أن تأمر بالوقف وذلك إلى حين الفصل في طلب تفسير الحكم من المحكمة المختصة.\n\n • لأي من أطراف التنفيذ -عند صدور أمر وقف التنفيذ وفقًا لحكم الفقرة (1) من هذه المادة- التقدم إلى المحكمة المختصة بطلب التفسير خلال (خمسة عشر) يومًا من تاريخ التبليغ بأمر الوقف، على أن تشعر المحكمة المختصة دائرة التنفيذ بذلك.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• لأي من أطراف التنفيذ أو المنازعة أن يطلب من دائرة التنفيذ وقف التنفيذ عند وجود غموض أو لبس في الحكم محل الطلب أو المنازعة يحول دون تنفيذه، وللدائرة أن تأمر بالوقف وذلك إلى حين الفصل في طلب تفسير الحكم من المحكمة المختصة.",
+          "text_for_index": "• لأي من أطراف التنفيذ أو المنازعة أن يطلب من دائرة التنفيذ وقف التنفيذ عند وجود غموض أو لبس في الحكم محل الطلب أو المنازعة يحول دون تنفيذه، وللدائرة أن تأمر بالوقف وذلك إلى حين الفصل في طلب تفسير الحكم من المحكمة المختصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-28::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• لأي من أطراف التنفيذ -عند صدور أمر وقف التنفيذ وفقًا لحكم الفقرة (1) من هذه المادة- التقدم إلى المحكمة المختصة بطلب التفسير خلال (خمسة عشر) يومًا من تاريخ التبليغ بأمر الوقف، على أن تشعر المحكمة المختصة دائرة التنفيذ بذلك.",
+          "text_for_index": "• لأي من أطراف التنفيذ -عند صدور أمر وقف التنفيذ وفقًا لحكم الفقرة (1) من هذه المادة- التقدم إلى المحكمة المختصة بطلب التفسير خلال (خمسة عشر) يومًا من تاريخ التبليغ بأمر الوقف، على أن تشعر المحكمة المختصة دائرة التنفيذ بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة التاسعة والعشرون",
+      "text_verbatim": "إذا تبين لدائرة التنفيذ أن تنفيذ السند أصبح متعذرًا لأي سبب فإنها تحكم بإثبات ذلك، ولا يعد من حالات تعذر التنفيذ عدم توفر الاعتمادات أو الوظائف في ميزانية الجهة الإدارية المنفذ ضدها.",
+      "text_for_index": "إذا تبين لدائرة التنفيذ أن تنفيذ السند أصبح متعذرًا لأي سبب فإنها تحكم بإثبات ذلك، ولا يعد من حالات تعذر التنفيذ عدم توفر الاعتمادات أو الوظائف في ميزانية الجهة الإدارية المنفذ ضدها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "إذا تبين لدائرة التنفيذ أن تنفيذ السند أصبح متعذرًا لأي سبب فإنها تحكم بإثبات ذلك، ولا يعد من حالات تعذر التنفيذ عدم توفر الاعتمادات أو الوظائف في ميزانية الجهة الإدارية المنفذ ضدها.",
+          "text_for_index": "إذا تبين لدائرة التنفيذ أن تنفيذ السند أصبح متعذرًا لأي سبب فإنها تحكم بإثبات ذلك، ولا يعد من حالات تعذر التنفيذ عدم توفر الاعتمادات أو الوظائف في ميزانية الجهة الإدارية المنفذ ضدها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثلاثون",
+      "text_verbatim": "• دون إخلال بأي عقوبة أخرى منصوص عليها في نظام آخر، يعاقب الموظف العام:‌\n\n\tأ- إذا استغل نفوذه أو سلطته الوظيفية في منع تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه؛ بالسجن مدة لا تزيد على (سبع) سنوات وبغرامة لا تزيد على سبعمائة ألف ريال أو بإحدى هاتين العقوبتين.\n\n\t‌ب- إذا امتنع عمداً عن تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه، وذلك بعد مضي (ثمانية) أيام من تبليغه بالإنذار المنصوص عليه في المادة (العاشرة) من النظام، أو وصول إجراءات التنفيذ التالية للإنذار إليه، وكان التنفيذ من اختصاصه؛ بالسجن مدة لا تزيد على (خمس) سنوات وبغرامة لا تزيد على خمسمائة ألف ريال أو بإحدى هاتين العقوبتين.\n\n\t• تُطبق عقوبات الجرائم الواردة في نظام التنفيذ عند وقوعها بمناسبة تنفيذ سند مشمول بأحكام النظام.",
+      "text_for_index": "• دون إخلال بأي عقوبة أخرى منصوص عليها في نظام آخر، يعاقب الموظف العام:‌\n\n أ- إذا استغل نفوذه أو سلطته الوظيفية في منع تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه؛ بالسجن مدة لا تزيد على (سبع) سنوات وبغرامة لا تزيد على سبعمائة ألف ريال أو بإحدى هاتين العقوبتين.\n\n ‌ب- إذا امتنع عمداً عن تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه، وذلك بعد مضي (ثمانية) أيام من تبليغه بالإنذار المنصوص عليه في المادة (العاشرة) من النظام، أو وصول إجراءات التنفيذ التالية للإنذار إليه، وكان التنفيذ من اختصاصه؛ بالسجن مدة لا تزيد على (خمس) سنوات وبغرامة لا تزيد على خمسمائة ألف ريال أو بإحدى هاتين العقوبتين.\n\n • تُطبق عقوبات الجرائم الواردة في نظام التنفيذ عند وقوعها بمناسبة تنفيذ سند مشمول بأحكام النظام.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بأي عقوبة أخرى منصوص عليها في نظام آخر، يعاقب الموظف العام:‌",
+          "text_for_index": "• دون إخلال بأي عقوبة أخرى منصوص عليها في نظام آخر، يعاقب الموظف العام:‌",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-30::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ- إذا استغل نفوذه أو سلطته الوظيفية في منع تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه؛ بالسجن مدة لا تزيد على (سبع) سنوات وبغرامة لا تزيد على سبعمائة ألف ريال أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "أ- إذا استغل نفوذه أو سلطته الوظيفية في منع تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه؛ بالسجن مدة لا تزيد على (سبع) سنوات وبغرامة لا تزيد على سبعمائة ألف ريال أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-30::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "‌ب- إذا امتنع عمداً عن تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه، وذلك بعد مضي (ثمانية) أيام من تبليغه بالإنذار المنصوص عليه في المادة (العاشرة) من النظام، أو وصول إجراءات التنفيذ التالية للإنذار إليه، وكان التنفيذ من اختصاصه؛ بالسجن مدة لا تزيد على (خمس) سنوات وبغرامة لا تزيد على خمسمائة ألف ريال أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "‌ب- إذا امتنع عمداً عن تنفيذ السند المطلوب تنفيذه -جزئيًا أو كليًا- بقصد تعطيل تنفيذه، وذلك بعد مضي (ثمانية) أيام من تبليغه بالإنذار المنصوص عليه في المادة (العاشرة) من النظام، أو وصول إجراءات التنفيذ التالية للإنذار إليه، وكان التنفيذ من اختصاصه؛ بالسجن مدة لا تزيد على (خمس) سنوات وبغرامة لا تزيد على خمسمائة ألف ريال أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-30::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "• تُطبق عقوبات الجرائم الواردة في نظام التنفيذ عند وقوعها بمناسبة تنفيذ سند مشمول بأحكام النظام.",
+          "text_for_index": "• تُطبق عقوبات الجرائم الواردة في نظام التنفيذ عند وقوعها بمناسبة تنفيذ سند مشمول بأحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الحادية والثلاثون",
+      "text_verbatim": "يعاقب كل من اشترك في ارتكاب جريمة من الجرائم المنصوص عليها في المادة (الثلاثين) من النظام بالعقوبة المقررة لتلك الجريمة.",
+      "text_for_index": "يعاقب كل من اشترك في ارتكاب جريمة من الجرائم المنصوص عليها في المادة (الثلاثين) من النظام بالعقوبة المقررة لتلك الجريمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب كل من اشترك في ارتكاب جريمة من الجرائم المنصوص عليها في المادة (الثلاثين) من النظام بالعقوبة المقررة لتلك الجريمة.",
+          "text_for_index": "يعاقب كل من اشترك في ارتكاب جريمة من الجرائم المنصوص عليها في المادة (الثلاثين) من النظام بالعقوبة المقررة لتلك الجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثانية والثلاثون",
+      "text_verbatim": "للمحكمة تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، على أن يكون نشر الحكم بعد اكتسابه الصفة النهائية.",
+      "text_for_index": "للمحكمة تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، على أن يكون نشر الحكم بعد اكتسابه الصفة النهائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للمحكمة تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، على أن يكون نشر الحكم بعد اكتسابه الصفة النهائية.",
+          "text_for_index": "للمحكمة تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، على أن يكون نشر الحكم بعد اكتسابه الصفة النهائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الثالثة والثلاثون",
+      "text_verbatim": "تعد الجرائم المنصوص عليها في المادة (الثلاثين) من النظام من جرائم الفساد، ومن الجرائم الكبيرة الموجبة للتوقيف.",
+      "text_for_index": "تعد الجرائم المنصوص عليها في المادة (الثلاثين) من النظام من جرائم الفساد، ومن الجرائم الكبيرة الموجبة للتوقيف.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعد الجرائم المنصوص عليها في المادة (الثلاثين) من النظام من جرائم الفساد، ومن الجرائم الكبيرة الموجبة للتوقيف.",
+          "text_for_index": "تعد الجرائم المنصوص عليها في المادة (الثلاثين) من النظام من جرائم الفساد، ومن الجرائم الكبيرة الموجبة للتوقيف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الرابعة والثلاثون",
+      "text_verbatim": "يجوز الاستعانة بمقدمي خدمات التنفيذ المرخص لهم وفقًا لأحكام نظام التنفيذ. ويصدر المجلس الضوابط اللازمة لذلك.",
+      "text_for_index": "يجوز الاستعانة بمقدمي خدمات التنفيذ المرخص لهم وفقًا لأحكام نظام التنفيذ. ويصدر المجلس الضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يجوز الاستعانة بمقدمي خدمات التنفيذ المرخص لهم وفقًا لأحكام نظام التنفيذ. ويصدر المجلس الضوابط اللازمة لذلك.",
+          "text_for_index": "يجوز الاستعانة بمقدمي خدمات التنفيذ المرخص لهم وفقًا لأحكام نظام التنفيذ. ويصدر المجلس الضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة الخامسة والثلاثون",
+      "text_verbatim": "يجوز أن تتم الإجراءات المنصوص عليها في النظام إلكترونياً. ويصدر المجلس الضوابط اللازمة لذلك.",
+      "text_for_index": "يجوز أن تتم الإجراءات المنصوص عليها في النظام إلكترونياً. ويصدر المجلس الضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز أن تتم الإجراءات المنصوص عليها في النظام إلكترونياً. ويصدر المجلس الضوابط اللازمة لذلك.",
+          "text_for_index": "يجوز أن تتم الإجراءات المنصوص عليها في النظام إلكترونياً. ويصدر المجلس الضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة السادسة والثلاثون",
+      "text_verbatim": "فيما لم يرد فيه نص خاص، تطبق على الطلبات والمنازعات الواردة في النظام -بما لا يتعارض مع طبيعتها- أحكام نظام المرافعات أمام ديوان المظالم.",
+      "text_for_index": "فيما لم يرد فيه نص خاص، تطبق على الطلبات والمنازعات الواردة في النظام -بما لا يتعارض مع طبيعتها- أحكام نظام المرافعات أمام ديوان المظالم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "فيما لم يرد فيه نص خاص، تطبق على الطلبات والمنازعات الواردة في النظام -بما لا يتعارض مع طبيعتها- أحكام نظام المرافعات أمام ديوان المظالم.",
+          "text_for_index": "فيما لم يرد فيه نص خاص، تطبق على الطلبات والمنازعات الواردة في النظام -بما لا يتعارض مع طبيعتها- أحكام نظام المرافعات أمام ديوان المظالم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام التنفيذ أمام ديوان المظالم، المادة السابعة والثلاثون",
+      "text_verbatim": "يصدر المجلس اللائحة خلال (ثلاثين) يومًا من تاريخ العمل بالنظام، على أن تنشر في الجريدة الرسمية، ويعمل بها بعد نشرها.",
+      "text_for_index": "يصدر المجلس اللائحة خلال (ثلاثين) يومًا من تاريخ العمل بالنظام، على أن تنشر في الجريدة الرسمية، ويعمل بها بعد نشرها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-altnfydh-amam-dywan-almzalm::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر المجلس اللائحة خلال (ثلاثين) يومًا من تاريخ العمل بالنظام، على أن تنشر في الجريدة الرسمية، ويعمل بها بعد نشرها.",
+          "text_for_index": "يصدر المجلس اللائحة خلال (ثلاثين) يومًا من تاريخ العمل بالنظام، على أن تنشر في الجريدة الرسمية، ويعمل بها بعد نشرها.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

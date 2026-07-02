@@ -1,0 +1,986 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08f13cb97d84e000243bb1bf900178631ac7b82e82c6cf39d7aac09116026eacee46f6d5dec6c9ff89410d7937fd8fc139367daf1196a485d6257e3007313074500b6bdb64cd13b67b6b99f82f4325fa0538ade0a2566f001a99bf1fecdb8b40eafcb2df6f633fe21026296f6101185ece873d370789e5308dfee15012f1a161f1ecca096c572168f94875ba1466e8d3a1628fa9373eb184619ed2a761c5d0c8bb54e14f40fe3b651a5199008505ee3d701114a0ecc4f5b43c5f23461d51d5f51c3b653179ade70cd4e1879e1059e48c9c7f535d13c843caaa4faf69e35ed5f0793049db76f2f2f0";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام القياس والمعايرة
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام القياس والمعايرة</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">التجارة والاقتصاد والاستثمار</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام القياس والمعايرة</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام القياس والمعايرة</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>9481</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="ad9ed861-70e6-4d31-9268-b20400d68915">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>تضمن النظام:</strong> التعريفات، اهداف النظام، أحكام النظام، الترخيص، المتطلبات، وحدات القياس، أنشطة الإشراف المترولوجي، للهيئة إسناد أنشطة الإشراف المترولوجي أو جزء منها إلى الجهات المرخصة، مفتشون المجلس، مكافآت مالية للمفتشين، عقوبات مخالف النظام، تشكيل لجنة، تصدر اللائحة خلال (90) يوما من تاريخ نشر النظام في الجريدة الرسمية ويعمل بها من تاريخ النفاذ، يحل النظام محل نظام القياس والمعايرة، الصادر بالمرسوم الملكي رقم (م / 51) وتاريخ 13 / 11 / 1434هـ، ويلغي كل مايتعارض معه من أحكام، يعمل بالنظام بعد (90) يوماً من تاريخ نشره في الجريدة الرسمية.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام القياس والمعايرة</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1446/03/06 هـ  الموافق : 09/09/2024 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1446/03/17  هـ الموافق : 20/09/2024 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/770fc9f4-c31f-45bc-b104-b20400d68923?lawId=ad9ed861-70e6-4d31-9268-b20400d68915">مرسوم ملكي رقم (م/79) وتاريخ 1446/3/6هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/a8d149eb-782a-4b12-ada2-b20400d6896e?lawId=ad9ed861-70e6-4d31-9268-b20400d68915">قرار مجلس الوزراء رقم (202) وتاريخ 1446/2/30هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="ad9ed861-70e6-4d31-9268-b20400d68915" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/7c287cd1-10f0-4a22-9afe-b20400d689ec?lawId=ad9ed861-70e6-4d31-9268-b20400d68915" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="ad9ed861-70e6-4d31-9268-b20400d68915">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="ad9ed861-70e6-4d31-9268-b20400d68915" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام القياس والمعايرة</h3>
+        <h3 class="center">1446 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/79) وتاريخ 1446/3/6هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالـى<br />
+&nbsp; &nbsp;نحن سلمان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;ملك المملكة العربية السعودية</strong><br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.&nbsp;<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.&nbsp;<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.&nbsp;<br />
+وبعد الاطلاع على قرار مجلس الشورى رقم (300 / 28) بتاريخ 28 / 10 / 1445هـ. وبعد الاطلاع على قرار مجلس الوزراء رقم (202) بتاريخ 30 / 2 / 1446هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p><strong>أولاً: </strong>الموافقة على نظام القياس والمعايرة، بالصيغة المرافقة.<br />
+<strong>ثانياً:</strong> لا يخل تطبيق أحكام النظام -المشار إليه في البند (أولاً) من هذا المرسوم- باختصاصات وزارة الطاقة المتصلة بعمليات القياس والمعايرة المنصوص عليها في نظام المواد الهيدروكربونية، الصادر بالمرسوم الملكي رقم (م / 37) بتاريخ 2 / 4 / 1439هـ، ولا بحقوق شركة الزيت العربية السعودية (أرامكو السعودية) المنصوص عليها في اتفاقية الامتياز بين حكومة المملكة العربية السعودية وشركة الزيت العربية السعودية (أرامكو السعودية)، الموافق عليها بالمرسوم الملكي رقم (م / 38) بتاريخ 6 / 4 / 1439هـ.<br />
+<strong>ثالثاً: </strong>على سمو رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخُصُّه- تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (202) وتاريخ 1446/2/30هـ</h4>
+            <p><p><strong>إن مجلس الوزراء&nbsp;<br />
+بعد الاطلاع</strong> في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم 79228 وتاريخ 4 / 11 / 1445هـ، المشتملة على برقية معالي وزير التجارة رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة رقم 35993 وتاريخ 5 / 12 / 1442هـ، في شأن مشروع نظام القياس والمعايرة.<br />
+<strong>وبعد الاطلاع </strong>على مشروع النظام المشار إليه.<br />
+<strong>وبعد الاطلاع </strong>على نظام القياس والمعايرة، الصادر بالمرسوم الملكي رقم (م / 51) وتاريخ 13 / 11 / 1434هـ.<br />
+<strong>وبعد الاطلاع </strong>على نظام المواد الهيدروكربونية، الصادر بالمرسوم الملكي رقم (م / 37) وتاريخ 2 / 4 / 1439ه.<br />
+<strong>وبعد الاطلاع </strong>على اتفاقية الامتياز بين حكومة المملكة العربية السعودية وشركة الزيت العربية السعودية (أرامكو السعودية)، الموافق عليها بالمرسوم الملكي رقم (م / 38) وتاريخ 6 / 4 / 1439هـ.<br />
+<strong>وبعد الاطلاع</strong> على تنظيم الهيئة السعودية للمواصفات والمقاييس والجودة، الصادر بقرار مجلس الوزراء رقم (216) وتاريخ 17 / 6 / 1431هـ.<br />
+<strong>وبعد الاطلاع </strong>على المحضر رقم (318) وتاريخ 4 / 11 / 1444هـ، والمذكرات رقم (3809) وتاريخ 8 / 12 / 1444هـ، ورقم (870) وتاريخ 12 / 3 / 1445هـ، ورقم (2532) وتاريخ 13 / 7 / 1445هـ، ورقم (2958) وتاريخ 15 / 8 / 1445هـ، ورقم (4202) وتاريخ 6 / 12 / 1445هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع </strong>على توصية مجلس الشؤون الاقتصادية والتنمية رقم (2-10 / 45 / ت) وتاريخ 19 / 8 / 1445هـ.<br />
+<strong>وبعد النظر</strong> في قرار مجلس الشورى رقم (300 / 28) وتاريخ 28 / 10 / 1445هـ.<br />
+<strong>وبعد الاطلاع </strong>على توصية اللجنة العامة لمجلس الوزراء رقم (1415) وتاريخ 8 / 2 / 1446هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p><strong>أولاً: </strong>الموافقة على نظام القياس والمعايرة، بالصيغة المرافقة.<br />
+<strong>ثانياً: </strong>لا يخل تطبيق أحكام النظام -المشار إليه في البند (أولاً) من هذا القرار- باختصاصات وزارة الطاقة المتصلة بعمليات القياس والمعايرة المنصوص عليها في نظام المواد الهيدروكربونية، الصادر بالمرسوم الملكي رقم (م / 37) وتاريخ 2 / 4 / 1439هـ، ولا بحقوق شركة الزيت العربية السعودية (أرامكو السعودية) المنصوص عليها في اتفاقية الامتياز بين حكومة المملكة العربية السعودية وشركة الزيت العربية السعودية (أرامكو السعودية)، الموافق عليها بالمرسوم الملكي رقم (م / 38) وتاريخ 6 / 4 / 1439هـ.<br />
+<strong>وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.<br />
+ثالثاً: </strong>قيام الهيئة السعودية للمواصفات والمقاييس والجودة بمراجعة اختصاصاتها -الواردة في تنظيمها الصادر بقرار مجلس الوزراء رقم (216) وتاريخ 17 / 6 / 1431هـ- في ضوء ما ورد في النظام -المشار إليه في البند (أولاً) من هذا القرار- من أحكام تضبط ممارسة نشاط القياس والمعايرة، ورفع ما يستلزم اتخاذ إجراء في شأنه.<br />
+<strong>رابعاً: </strong>يكون منح المكافآت المالية المشار إليها في المادة (الثانية عشرة) من النظام -المشار إليه في البند (أولاً) من هذا القرار- وفق حوكمة يُتفق عليها مع وزارة المالية تتضمن سقفًا للمكافآت وضوابط لصرفها.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام القياس والمعايرة</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:&nbsp;<br />
+النظام</strong>: نظام القياس والمعايرة.&nbsp;<br />
+<strong>الهيئة</strong>: الهيئة السعودية للمواصفات والمقاييس والجودة.<br />
+<strong>المجلس</strong>: مجلس إدارة الهيئة.<br />
+<strong>المحافظ</strong>: محافظ الهيئة.<br />
+<strong>اللائحة</strong>: اللائحة التنفيذية للنظام.&nbsp;&nbsp; &nbsp;<br />
+<strong>المركز</strong>: المركز الوطني للقياس والمعايرة.&nbsp;<br />
+<strong>الوثائق الفنية: </strong>وثائق صادرة من المجلس أو مَن يفوضه، توضح خصائص أدوات القياس والعمليات المرتبطة بها وطرق صنعها، بما في ذلك الأحكام التي تشمل، بشكل خاص، المصطلحات والتعاريف والمتطلبات والمواصفات والاشتراطات والتوصيات المنظمة للمترولوجيا والتكاليف التي يجب الالتزام بها.<br />
+<strong>القياس</strong>: مجموعة العمليات التي تُجرى بغرض إيجاد قيمة كمية ما.<br />
+<strong>المعايرة</strong>: مجموعة العمليات والإجراءات التي تحدد في ظروف محددة بشكل معين قيمة المقيس، ويكون الهدف منها تعيين القيمة الحقيقية له بالحصول على أصح قيمة للمقيس يمكن أن تقترب من القيمة الحقيقية بالأدوات والإمكانيات المتاحة، مقرونة بالارتياب لتعطي نتيجة القياس.&nbsp;<br />
+<strong>شهادة المعايرة:</strong> وثيقة تسجل فيها نتائج المعايرة.<br />
+النظام الدولي للوحدات (SI Units): نظام لكميات القياس وأسمائها ورموزها بما في ذلك مجموعة من البادئات وأسمائها ورموزها إلى جانب قواعد استخدامها التي اعتمدها المؤتمر العام للأوزان والمقاييس (CGPM).<br />
+<strong>المترولوجيا:</strong> علم القياس، وتشمل المترولوجيا العلمية والصناعية والقانونية.<br />
+<strong>المترولوجيا العلمية:</strong> جزء من علم القياس يتعلق بوحدات القياس والمعايير الأولية، والمختبرات المعنية بتجسيمها وحفظها وتطويرها.&nbsp;<br />
+<strong>المترولوجيا الصناعية: </strong>جزء من علم القياس يتعلق بالأنشطة المترولوجية في مجال الإنتاج الصناعي والتقني.&nbsp;<br />
+<strong>المترولوجيا القانونية: </strong>جزء من علم القياس يختص بوحدات القياس، وأدوات القياس، ومتطلباتها الفنية والقانونية.&nbsp;<br />
+<strong>الإشراف المترولوجي:</strong> الأنشطة التي تنفذ للتأكد من مطابقة صنع واستيراد وبيع وعرض وصيانة وتركيب واستخدام أدوات القياس وامتثال المنتجات المعبأة مسبقًا للمتطلبات الإلزامية المنصوص عليها في النظام واللائحة والوثائق الفنية.<br />
+<strong>الإسناد المترولوجي:</strong> خاصية لنتيجة القياس بحيث يمكن ربط النتيجة بمرجع من خلال سلسلة موثقة ومتصلة من المعايرات والمقارنات التي تسهم كل منها في الارتياب بالقياس.<br />
+<strong>الارتياب:</strong> أحد المفاهيم المترولوجية الرئيسة للعاملين في حقل القياس والمعايرة، وهو رقم صحيح يصحب القيمة الحقيقية للمقيس، بحيث يعطي حيزاً (مساحةً) على جانبي هذه القيمة.<br />
+<strong>المعايير الوطنية: </strong>معايير تصدر بقرار من الهيئة بصفتها أساسًا لتثبيت قيمة جميع المعايير الأخرى للكمية المعينة في بلد ما، وتكون مسندة للمعايير الدولية أو مكافئة لها.&nbsp;<br />
+<strong>المعايير الدولية:</strong> معايير معترف بها باتفاق دولي، تستخدم دوليًّا أساساً لتثبيت قيمة جميع المعايير الأخرى لربطها بالنظام الدولي للوحدات (SI Units).<br />
+<strong>المعايير المرجعية:</strong> المعايير التي تتوافر فيها أعلى مستويات الجودة المترولوجية في مكان محدد.<br />
+<strong>المستخدم: </strong>كل منشأة مالكة أو مستخدمة لأدوات القياس.<br />
+<strong>الصانع: </strong>كل منشأة تقوم بتصنيع منتج معبأ مسبقاً أو أداة قياس، أو توكل تصنيعه إلى منشأة أخرى، ثم تقوم بتسويقه باسمها أو بعلامتها التجارية.<br />
+<strong>الممثل المعتمد: </strong>كل منشأة تم تأسيسها في المملكة؛ حاصلة على تفويض من صانع مقيم خارج المملكة للتصرف نيابة عنه وفق الإجراءات النظامية المتبعة.<br />
+<strong>المستورد: </strong>كل منشأة تستورد منتجاً معبأ مسبقًا أو أداة قياس من خارج المملكة.&nbsp;<br />
+<strong>الموزع: </strong>كل منشأة في سلسلة الإمداد -غير الصانع والمستورد- تعرض المنتجات المعبأة مسبقًا أو أداة القياس في الأسواق.&nbsp;<br />
+<strong>المشغل الاقتصادي:</strong> الصانع، والممثل المعتمد، والمستورد، والموزع.&nbsp;<br />
+<strong>الجهات المرخصة: </strong>منشأة حاصلة من الهيئة على ترخيص في أنشطة الإشراف المترولوجي.&nbsp;<br />
+<strong>الجهات المعينة: </strong>جهات عامة أو خاصة مسندة إليها أعمال حفظ وتطوير بعض من المعايير الوطنية.&nbsp;<br />
+<strong>المنتجات المعبأة مسبقاً: </strong>منتج داخل علبة أو مغلف بأي طريقة كانت، بحيث لا يمكن تغيير أو إحداث تعديل ملموس عليه دون فتحه، وتحدد الكمية الاسمية أو الفعلية للمنتج على بطاقة البيان قبل عرضه للبيع.&nbsp;<br />
+<strong>أداة القياس: </strong>جهاز يستخدم لإجراء القياسات الكمية؛ سواء كان منفرداً أو مرتبطاً بمعدات أخرى.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يهدف النظام إلى ما يأتي:</strong></p>
+
+<ol>
+	<li>تعزيز الإطار المؤسسي للقياس في المملكة.</li>
+	<li>فرض استخدام وحدات القياس المتوافقة مع النظام الدولي للوحدات (SI Units).</li>
+	<li>ضمان الإسناد المترولوجي لجميع أدوات القياس في المملكة إلى النظام الدولي للوحدات (SI Units).</li>
+	<li>توجيه ودعم أنشطة البحث والتطوير في مجال المترولوجيا.</li>
+	<li>تسهيل عمليات التبادل التجاري للسلع بين المملكة ودول العالم فيما يتعلق بالقياس والمعايرة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p>تسري أحكام النظام على جميع عمليات القياس والمعايرة التي تتم في المملكة، بما فيها ما يتعلق بالمنتجات المعبأة مسبقاً التي يتم بيعها أو تصنيعها أو استخدامها أو عرضها بغض النظر عن منشئها سواءً كانت محلية أو مستوردة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز لأي جهة ممارسة أيٍّ من نشاطات الإشراف المترولوجي إلا بعد الحصول على ترخيص من الهيئة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <p>يلتزم المشغل الاقتصادي والمستخدم بأن تكون أداة القياس أو المنتجات المعبأة مسبقاً في المملكة، مطابقة للمتطلبات الإلزامية المنصوص عليها في النظام واللائحة والوثائق الفنية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يتعين على مختبرات القياس والمعايرة لتحقيق الإسناد المترولوجي لمعايرة أداة القياس، استيفاء المتطلبات الآتية:&nbsp;</strong></p>
+
+<ol>
+	<li>حصول المعايير الوطنية على شهادة معايرة أو تقرير مقارنة دولي صادر من المكتب الدولي للأوزان والمقاييس (BIPM)، أو من أي مركز (معهد) معايرة معترف به لدى المكتب الدولي للأوزان والمقاييس (BIPM)؛ لتأكيد الإسناد إلى المعايير الدولية.</li>
+	<li>أن تكون شهادة المعايرة أو تقرير المقارنة الدولي الخاص بالمعايير الوطنية المحفوظة لدى المركز أو الجهات المعينة؛ سارية الصلاحية، وأن تتضمن الارتياب في القيم، وأن تكون مسندة إلى النظام الدولي للوحدات (SI Units).&nbsp;</li>
+	<li>أن تتم معايرة المعايير المرجعية للمركز وللجهات المعينة داخل مختبراتهما، وأن يكون الارتياب في القيم مرافقاً لها لتأكيد الإسناد إلى المعايير الوطنية.&nbsp;</li>
+	<li>أن تتضمن شهادات المعايرة الخاصة بالمعايير المرجعية لمختبرات القياس والمعايرة الارتياب في القيم، وأن تكون مسندة إلى المعايير الوطنية.</li>
+	<li>أن تتم معايرة أداة القياس بمختبرات القياس والمعايرة، وأن تتضمن شهادات المعايرة الارتياب في القيم، وأن تكون مسندة إلى المعايير الوطنية.</li>
+</ol>
+
+<p>6- الحصول على الاعتماد من المركز السعودي للاعتماد؛ لتأكيد إسناديتها إلى المعايير الوطنية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>يتخذ النظام الدولي للوحدات (SI Units) أساساً لوحدات القياس التي يرجع إليها في جميع القياسات في المملكة، وهذه الوحدات مبنية على الوحدات الأساسية الآتية:</strong><br />
+	<strong>أ- </strong>وحدة الطول: المتر.<br />
+	<strong>ب- </strong>وحدة الكتلة: الكيلوغرام.<br />
+	<strong>ج- </strong>وحدة الزمن: الثانية.<br />
+	<strong>د-</strong> وحدة درجة الحرارة: الكلفن.<br />
+	<strong>هـ- </strong>وحدة شدة التيار الكهربائي: الأمبير.<br />
+	<strong>و- </strong>وحدة كمية المادة: المول.<br />
+	<strong>ز-</strong> وحدة شدة الإضاءة: الشمعة.</li>
+	<li><strong>يجوز للمجلس -بناء على توصية من لجنة فنية يشكلها لهذا الغرض- الموافقة على طلب الجهات العامة أو الخاصة تطبيق وحدات قياس غير الوحدات المنصوص عليها في الفقرة (1) من هذه المادة، وذلك وفقاً لشروط وضوابط تحددها اللائحة والوثائق الفنية.</strong></li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>تشمل أنشطة الإشراف المترولوجي ما يلي:</strong></p>
+
+<ol>
+	<li>اعتماد الطراز.</li>
+	<li>التحقق الأولي.</li>
+	<li>التحقق الدوري.&nbsp;</li>
+	<li>التحقق بعد الصيانة.&nbsp;</li>
+	<li>التحقق الذاتي.</li>
+	<li>التدقيق والإشراف على أعمال الجهات المرخصة.</li>
+	<li>التدقيق والإشراف على المستخدم والمشغل الاقتصادي.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <p>للهيئة إسناد أنشطة الإشراف المترولوجي أو جزء منها إلى الجهات المرخصة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يتولى مفتشون -يعينهم المجلس- مجتمعين أو منفردين ضبط وإثبات مخالفات أحكام النظام واللائحة والوثائق الفنية، ولهم في سبيل ذلك الآتي:&nbsp;</strong></p>
+
+<ol>
+	<li>الدخول -في أي وقت- لمنشآت الجهات المرخصة والمشغل الاقتصادي والمستخدم وما يلحق بها من مستودعات وأماكن تخزين أو وسائل نقل أو غيرها، وتفتيشها.</li>
+	<li>تحرير محاضر الضبط لإثبات المخالفات.</li>
+	<li>سماع أقوال المخالف، وضبطها وإثباتها في محضر.</li>
+	<li>إغلاق مكان وقوع المخالفة -في الحالات الضرورية التي تستلزم ذلك بناءً على ما تحدده اللائحة- إلى حين استكمال إجراءات الضبط، على ألا تتجاوز مدة الإغلاق في كل الأحوال (خمسة) أيام عمل.</li>
+	<li>التحفظ على أداة القياس والمنتجات المعبأة مسبقاً المخالفة -أو المشتبه في مخالفتها- لأحكام النظام أو اللائحة أو الوثائق الفنية، وعلى الوثائق المتعلقة بها.</li>
+	<li>سحب عينات من أداة القياس والمنتجات المعبأة مسبقاً المخالفة -أو المشتبه في مخالفتها- لأحكام النظام واللائحة والوثائق الفنية.</li>
+	<li>الاطلاع على جميع المستندات والسجلات والملفات والشكاوى والفواتير وغيرها من الوثائق المتعلقة بالمخالفة، والحصول على نسخ منها. ولا يجوز -بأي حال من الأحوال- حجب أي من تلك الوثائق عنهم.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>على المفتش إبراز بطاقته الوظيفية عند تأديته لأعمال التفتيش والضبط، وعلى الجهات المرخصة والمشغل الاقتصادي والمستخدم تمكينه من أداء عمله، وعدم إعاقته.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تمنح بقرار من المجلس بناء على اقتراح من المحافظ مكافآت مالية للمفتشين المنصوص عليهم في المادة (العاشرة) من النظام.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يجب على المفتش المحافظة على سرية المعلومات التي يحصل عليها بحكم عمله.&nbsp;</li>
+	<li>لا تحول المحافظة على سرية المعلومات دون إفصاح الجهات المختصة عن المعلومات اللازمة لضمان مراقبة فاعلة للأسواق أو لمنع خطر يهدد سلامة المستهلك والممتلكات والبيئة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>دون الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام النظام أو اللائحة أو الوثائق الفنية، بعقوبة (أو أكثر) من العقوبات الآتية:&nbsp;<br />
+	أ- </strong>الإنذار.<br />
+	<strong>ب- </strong>غرامة لا تزيد على (عشرة) ملايين ريال.<br />
+	<strong>ج-</strong> إغلاق المنشأة لمدة لا تزيد على (سنة).<br />
+	<strong>د-</strong> تعليق الترخيص لمدة لا تزيد على (سنة).<br />
+	<strong>هـ- </strong>إلغاء الترخيص.</li>
+	<li><strong>يجوز للجنة -المنصوص عليها في المادة (الخامسة عشرة) من النظام- تضمين القرار الصادر بالعقوبة النص على نشر ملخصه على نفقة المخالف في صحيفة محلية تصدر في مكان إقامته، فإن لم يكن في مكان إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون نشره بعد تحصن القرار بفوات ميعاد التظلم عليه أو بتأييده من المحكمة المختصة.</strong></li>
+	<li><strong>يتولى المحافظ -أو من ينيبه- توقيع عقوبة لا يتجاوز مقدارها (عشرة) آلاف ريال على من يخالف أحكام النظام أو اللائحة أو الوثائق الفنية، بناءً على توصية من المفتش.&nbsp;</strong></li>
+	<li><strong>يُصدر المجلس جدولاً يتضمن الآتي:</strong><br />
+	<strong>أ-</strong><strong> </strong>تصنيف المخالفات وما يقابلها من عقوبات منصوص عليها في الفقرة (١) من هذه المادة ومقدارها ومدتها. ويراعى فيها التدرج في العقوبة.<br />
+	<strong>ب- </strong>تصنيف المخالفات وما يقابلها من عقوبات منصوص عليها في الفقرة (3) من هذه المادة ومقدارها ومدتها. ويراعى فيها التدرج في العقوبة.<br />
+	وتجوز مضاعفة العقوبة الموقعة على المخالف وفقًا للفقرتين الفرعيتين (ب) و(ج) من الفقرة (1) من هذه المادة في حال تكرار ارتكاب المخالفة بما لا يتجاوز حدها الأقصى، وتعد المخالفة مكررة إذا وقعت خلال (سنة) من تاريخ ارتكاب المخالفة السابقة لها.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>تشكل لجنة أو أكثر -بقرار من المجلس- من (خمسة) أعضاء، يكون من بينهم (ثلاثة) مستشارين نظاميين على الأقل يكون أحدهم رئيسًا لها.</strong></li>
+	<li><strong>تتولى اللجنة الآتي:&nbsp;</strong><br />
+	<strong>أ&zwnj;- </strong>فرض إجراءات تصحيحية على الجهات المرخصة والمشغل الاقتصادي والمستخدم وفقًا لما تحدده اللائحة والوثائق الفنية.<br />
+	<strong>ب&zwnj;-</strong> تطبيق العقوبات المنصوص عليها في الفقرة (۱) من المادة (الرابعة عشرة) من النظام.&nbsp;</li>
+	<li><strong>تصدر اللجنة قراراتها وفقاً للقواعد والإجراءات التي تحددها اللائحة. ويجوز لمن صدر ضـده القرار التظلم منه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ علمه بالقرار.</strong></li>
+	<li><strong>تحدد مكافآت أعضاء اللجنة بقرار من المجلس.</strong></li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر المجلس اللائحة والوثائق الفنية خلال (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يحل النظام محل نظام القياس والمعايرة، الصادر بالمرسوم الملكي رقم (م / 51) وتاريخ 13 / 11 / 1434هـ، ويلغي كل ما يتعارض معه من أحكام.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="ad9ed861-70e6-4d31-9268-b20400d68915" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="f1e7881c-c2ec-499f-9e8f-b20400d74e33">المادة الأولى </option>
+<option value="927621fa-789d-495c-ad5a-b20400d7743e">المادة الثانية </option>
+<option value="fbdc9b7d-bea0-4456-bfc9-b20400d785a1">المادة الثالثة </option>
+<option value="76c31a3c-f9bc-4f47-ba95-b20400d795f3">المادة الرابعة </option>
+<option value="f6bf27a5-d36b-40c6-a63e-b20400d7a781">المادة الخامسة </option>
+<option value="cab23cfb-63dd-4bd2-9d1f-b20400d7d39d">المادة السادسة </option>
+<option value="bc7f20c3-4b6e-429e-a859-b20400d81ab3">المادة السابعة </option>
+<option value="b96f9c72-4f2f-47ff-91f8-b20400d85553">المادة الثامنة </option>
+<option value="8e0975a9-8ccd-450b-8003-b20400d86bb4">المادة التاسعة </option>
+<option value="bad28df5-e666-47be-acf0-b20400d899ad">المادة العاشرة </option>
+<option value="70a2d5b2-42c4-43c0-9a70-b20400d8abc2">المادة الحادية عشرة </option>
+<option value="49c1d802-f02d-4846-9933-b20400d8bf8e">المادة الثانية عشرة </option>
+<option value="022db1ae-5c94-4af5-ad6d-b20400d8de80">المادة الثالثة عشرة </option>
+<option value="c47c8ece-aa80-4334-894a-b20400dac203">المادة الرابعة عشرة </option>
+<option value="31b42639-8532-4358-9195-b20400db182c">المادة الخامسة عشرة </option>
+<option value="58c208a0-f2df-447b-8dcc-b20400db2a66">المادة السادسة عشرة </option>
+<option value="1006bc02-de66-4253-b946-b20400db4417">المادة السابعة عشرة </option>
+<option value="3e874f04-6764-479f-8c90-b20400db549b">المادة الثامنة عشرة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaSLXA' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaSLXA' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaSLXA = new CaptchaWidget('divCaptchaContainer_captchaSLXA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaSLXA.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptionad9ed861-70e6-4d31-9268-b20400d68915" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="ad9ed861-70e6-4d31-9268-b20400d68915" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha2JXK' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha2JXK' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-ad9ed861-70e6-4d31-9268-b20400d68915">
+                    <input type="checkbox" id="agreement-ad9ed861-70e6-4d31-9268-b20400d68915" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='ad9ed861-70e6-4d31-9268-b20400d68915' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-ad9ed861-70e6-4d31-9268-b20400d68915"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-ad9ed861-70e6-4d31-9268-b20400d68915"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaSLXA = new CaptchaWidget('divCaptchaContainer_captchaSLXA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaSLXA.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha2JXK = new CaptchaWidget('divCaptchaContainer_captcha2JXK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha2JXK.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="ad9ed861-70e6-4d31-9268-b20400d68915">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaSLXA = new CaptchaWidget('divCaptchaContainer_captchaSLXA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaSLXA.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha2JXK = new CaptchaWidget('divCaptchaContainer_captcha2JXK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha2JXK.load(); 
+                    }); </script>
+</body>
+
+</html>

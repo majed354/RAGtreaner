@@ -1,0 +1,979 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "0843f830e084e0008cb148185facb4d977400bdc31009b09f0f8c6dfdc9fbad31551a0253f1aa664f19771e634c2972a5326cfe0d6ce03e77e9e16ecc1558aa7e4285f1392c13bed516a12ff4d32c8eb39604fa96a4311e33cebc1419125584f1f0be33e5678c09f450b42a8c03d5e61c772e4e2120e43918b6860942c764035ad084b7780ba44e744e96a22cb63bc2e9f50831c94a183587b24a97ec46359e15a6b9cd182b7a888af61b7d98974fdec29141a068db5c1a081b714093e22258f0ad8c32c0c438e4d7df1cf63761975240131c60f45b5bedef64c4936a429402ccba0635119594837";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab20007276be85ccd1c6c269f5fb900baa5e4d8e2cb7aa9d1abaa92c954c81f50dcdc6?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام مكافحة التستر
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام مكافحة التستر</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">التجارة والاقتصاد والاستثمار</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام مكافحة التستر</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام مكافحة التستر</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>358756</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="bf9e0aae-6df6-4785-a305-ac2300bd0856">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p>الموافقة على نظام مكافحة التستر بموجب المرسوم الملكي رقم (م/4) وتاريخ 1442/1/1هـ.</p>
+                    </div>
+                    <br />
+                        <div dir="ltr">
+                            <h4>Law name</h4>
+                            <div dir="ltr" class="HTMLContainer">
+                                Anti-Concealment Law
+                            </div>
+                        </div>
+                        <div dir="ltr">
+                            <h4>Law description</h4>
+
+
+                            <div dir="ltr" class="HTMLContainer">
+
+                                Anti-Concealment Law
+                            </div>
+                        </div>
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام مكافحة التستر</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1442/01/01 هـ  الموافق : 20/08/2020 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1442/01/09  هـ الموافق : 28/08/2020 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/1fba25d8-4cff-45d6-b986-ac2300bd086e?lawId=bf9e0aae-6df6-4785-a305-ac2300bd0856">مرسوم ملكي رقم (م/4) وتاريخ 1442/1/1هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/8de5bb7c-109a-431d-8fad-ac2300bd510d?lawId=bf9e0aae-6df6-4785-a305-ac2300bd0856">قرار مجلس الوزراء رقم (785) وتاريخ 1441/12/28هـ.</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="bf9e0aae-6df6-4785-a305-ac2300bd0856" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/9336f169-d6f8-4601-a21c-ac2300bd0a39?lawId=bf9e0aae-6df6-4785-a305-ac2300bd0856" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+                    <a href="/Files/Download/?attId=8b35c145-6c95-41d0-876c-adbb010f198f" target="_blank">
+                        <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                        <span>Translated document</span>
+                    </a>
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="bf9e0aae-6df6-4785-a305-ac2300bd0856">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="1" href="#" class="">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="bf9e0aae-6df6-4785-a305-ac2300bd0856" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام مكافحة التستر</h3>
+        <h3 class="center">1442 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/4) وتاريخ 1442/1/1هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالى<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; نحن سلمان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;مـلـك المملكة العربية السعودية</strong></p>
+
+<p style="text-align:justify">بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قرار مجلس الشورى رقم (289 / 50) بتاريخ 22 / 11 / 1441هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم ( 785 ) بتاريخ 28 / 12 / 1441هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p style="text-align:justify">أولاً: الموافقة على نظام مكافحة التستر، بالصيغة المرافقة.<br />
+ثانياً: تعد وزارة التجارة ووزارة الداخلية بالتنسيق مع: وزارتي (الموارد البشرية والتنمية الاجتماعية، والاستثمار)، ومركز الإقامة المميزة، ومن تريانه من جهات مختصة أخرى -خلال (ستين) يوماً من تاريخ الموافقة على نظام مكافحة التستر- لائحة تصدر بقرار من مجلس الوزراء تتضمن آلية لتصحيح أوضاع مخالفي نظام مكافحة التستر الصادر بالمرسوم الملكي رقم (م / 22) بتاريخ 4 / 5 / 1425ه، المستمرين في مخالفاتهم بعد نفاذ النظام المنصوص عليه في البند (أولاً) من هذا المرسوم، يراعى فيها الآتي:</p>
+
+<ol>
+	<li style="text-align:justify">تحديد الخيارات المتاحة لتصحيح الأوضاع.</li>
+	<li style="text-align:justify">إعفاء من يتقدم -خلال (180) يوماً من تاريخ نفاذ هذا النظام- إلى وزارة التجارة بطلب تصحيح أوضاعه؛ من العقوبات المقررة في النظامين المشار إليهما أعلاه، ومن دفع ضريبة الدخل بأثر رجعي.</li>
+	<li style="text-align:justify">ألا يشمل الإعفاء المنصوص عليه في الفقرة (2) من هذا البند، من ارتكب ابتداءً مخالفة في ظل نظام مكافحة التستر -المنصوص في البند (أولاً) من هذا المرسوم-وكذلك من ضبطت مخالفة أو جريمة وقعت منه في ظل أي من النظامين المشار إليهما في هذا البند، ومن أحيل إلى النيابة العامة، أو المحكمة المختصة.</li>
+	<li style="text-align:justify">آلية التعامل مع من تم تصحيح أوضاعهم من الراغبين في مغادرة المملكة نهائيًا.</li>
+	<li style="text-align:justify">ألا تخل هذه الآلية بالحقوق الخاصة المترتبة على التعاملات التي أبرموها.&nbsp;</li>
+</ol>
+
+<p style="text-align:justify">ثالثاً: على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخُصُّه- تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (785) وتاريخ 1441/12/28هـ.</h4>
+            <p><p style="text-align:center">قرار مجلس الوزراء</p>
+
+<p style="text-align:justify">إن مجلس الوزراء<br />
+بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم 62676 وتاريخ 22 / 11 / 1441هـ، المشتملة على برقية معالي وزير التجارة رقم 93901 وتاريخ 5 / 12 / 1440هـ، في شأن مشروع نظام مكافحة التستر.<br />
+وبعد الاطلاع على مشروع النظام، المشار إليه.<br />
+وبعد الاطلاع على نظام مكافحة التستر، الصادر بالمرسوم الملكي رقم (م / 22) وتاريخ 4 / 5 / 1425هـ.<br />
+وبعد الاطلاع على الأمر السامي رقم (31623) وتاريخ 9 / 6 / 1440هـ.<br />
+وبعد الاطلاع على المحضر رقم (1330) وتاريخ 25 / 10 / 1441هـ، والمذكرتين رقم (1162) وتاريخ 20 / 12 / 1441هـ، ورقم (1198) وتاريخ 26 / 12 / 1441هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+وبعد الاطلاع على المحضر المعد في مجلس الشؤون الاقتصادية والتنمية رقم (336 / 41 / م) وتاريخ 22 / 12 / 1441هـ.<br />
+وبعد النظر في قرار مجلس الشورى رقم (289 / 50) وتاريخ 22 / 11 / 1441هـ.<br />
+وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم (8525) وتاريخ 26 / 12 / 1441هـ.</p>
+
+<p style="text-align:center">يقرر ما يلي:</p>
+
+<p style="text-align:justify">أولاً: الموافقة على نظام مكافحة التستر، بالصيغة المرافقة.<br />
+ثانياً: تعد وزارة التجارة ووزارة الداخلية بالتنسيق مع: وزارتي (الموارد البشرية والتنمية الاجتماعية، والاستثمار)، ومركز الإقامة المميزة، ومن تريانه من جهات مختصة أخرى -خلال (ستين) يوماً من تاريخ الموافقة على نظام مكافحة التستر- لائحة تصدر بقرار من مجلس الوزراء تتضمن آلية لتصحيح أوضاع مخالفي نظام مكافحة التستر الصادر بالمرسوم الملكي رقم (م / 22) وتاريخ 4 / 5 / 1425هـ، المستمرين في مخالفاتهم بعد نفاذ النظام المنصوص عليه في البند (أولاً) من هذا القرار، يراعى فيها الآتي:</p>
+
+<ol>
+	<li style="text-align:justify">تحديد الخيارات المتاحة لتصحيح الأوضاع.</li>
+	<li style="text-align:justify">إعفاء من يتقدم -خلال (180) يوماً من تاريخ نفاذ هذا النظام- إلى وزارة التجارة بطلب تصحيح أوضاعه، من العقوبات المقررة في النظامين المشار إليهما أعلاه، ومن دفع ضريبة الدخل بأثر رجعي.</li>
+	<li style="text-align:justify">ألا يشمل الإعفاء المنصوص عليه في الفقرة (2) من هذا البند، من ارتكب ابتداءً مخالفة في ظل نظام مكافحة التستر -المنصوص عليه في البند (أولاً) من هذا القرار- وكذلك من ضبطت مخالفة أو جريمة وقعت منه في ظل أي من النظامين المشار إليهما في هذا البند، ومن أحيل إلى النيابة العامة، أو المحكمة المختصة.</li>
+	<li style="text-align:justify">آلية التعامل مع من تم تصحيح أوضاعهم من الراغبين في مغادرة المملكة نهائيًا.</li>
+	<li style="text-align:justify">ألا تخل هذه الآلية بالحقوق الخاصة المترتبة على التعاملات التي أبرموها.&nbsp;<br />
+	وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</li>
+</ol>
+
+<p style="text-align:justify">ثالثاً: قيام وزارة المالية بالاتفاق مع وزارة التجارة لتخصيص مبلغ مالي لها لدعم جهود مكافحة ظاهرة التستر وتشجيع نمو المنشآت الصغيرة والناشئة ورواد الأعمال.<br />
+رابعاً: لوزارة التجارة -في سبيل تنفيذها لأحكام نظام مكافحة التستر- أن تطلب من الجهة المختصة وضع من يشتبه في ارتكابه أيًّا من الجرائم المنصوص عليها في النظام على قائمة إبلاغ بالمراجعة.</p>
+
+<p style="text-align:left">رئيس مجلس الوزراء</p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام مكافحة التستر</h1></div>
+
+            <h3 class="center">الفصل الأول : التعريفات</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الأولى</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">يقصد بالكلمات والعبارات الآتية -أينما وردت في النظام- المعاني المبينة أمام كل منها:<br />
+النظام: نظام مكافحة التستر.<br />
+اللائحة: اللائحة التنفيذية للنظام.<br />
+الوزارة: وزارة التجارة.<br />
+الوزير: وزير التجارة.<br />
+غير السعودي: الشخص ذو الصفة الطبيعية أو الاعتبارية الذي لا يحمل الجنسية العربية السعودية ولا يعامل معاملة حاملها.<br />
+النشاط الاقتصادي: كل نشاط يستهدف تحقيق الربح ويشترط لممارسته الحصول على موافقات أو تراخيص من الجهات المختصة؛ سواء أكان تجاريًّا أم استثماريًّا أم خدميًّا أم مهنيًّا أم صناعيًّا أم زراعيًّا أم غير ذلك.&nbsp;<br />
+المتحصلات: أموال ناشئة أو متحصلة -بشكل مباشر أو غير مباشر- من ارتكاب أيّ من الجريمتين المنصوص عليهما في الفقرتين (أ) و(ب) من المادة (الثالثة) من النظام، بما فيها الأموال التي حولت أو بدلت كليًّا أو جزئيًّا إلى أموال مماثلة.<br />
+الحجز التحفظي: الحظر المؤقت على نقل الأموال أو تحويلها أو تبديلها أو التصرف فيها أو تحريكها، أو وضع اليد عليها؛ استنادًا إلى أمر صادر من المحكمة الجزائية أو السلطة المختصة بذلك.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الثاني: الجرائم والمخالفات</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثانية</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>لأغراض تطبيق أحكام النظام يقصد بالتستر اتفاق أو ترتيب يُمكِّن من خلاله شخصٌ شخصًا آخر غير سعودي من ممارسة نشاط اقتصادي في المملكة غير مرخص له بممارسته باستخدام الترخيص أو الموافقة الصادرة للمتستر.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثالثة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">يعد جريمة يعاقب عليها النظام ارتكاب أي مما يأتي:<br />
+أ. قيام شخص بتمكين غير السعودي من أن يمارس -لحسابه الخاص- نشاطًا اقتصاديًّا في المملكة غير مرخص له بممارسته، ويشمل ذلك تمكينه غير السعودي من استعمال: اسمه، أو الترخيص أو الموافقة الصادرة له، أو سجله التجاري، أو اسمه التجاري، أو نحو ذلك.<br />
+ب. قيام غير السعودي بممارسة نشاط اقتصادي لحسابه الخاص في المملكة غير مرخص له بممارسته، وذلك من خلال الشخص الممكّن له.<br />
+ج. الاشتراك في ارتكاب أيّ من الجريمتين المنصوص عليهما في الفقرتين (أ) و(ب) من هذه المادة. ويعد شريكًا في الجريمة كل من حرض أو ساعد أو قدم المشورة في ارتكابها مع علمه بذلك متى ما تمت الجريمة أو استمرت بناءً على هذا التحريض أو المساعدة أو المشورة. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+د. عرقلة أو منع ممارسة المكلفين بتنفيذ أحكام النظام من أداء واجباتهم بأي وسيلة، بما في ذلك عدم الإفصاح عن المعلومات، أو تقديم معلومات غير صحيحة أو مضللة.<br />
+&nbsp;</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الرابعة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p>يعد مخالفة يعاقب عليها النظام ارتكاب أي مما يأتي:<br />
+أ. قيام أي منشأة بمنح غير السعودي بصورة غير نظامية أدوات تؤدي إلى التصرف على نحو مطلق في المنشأة.<br />
+ب. حيازة أو استخدام غير السعودي بصورة غير نظامية لأدوات تؤدي إلى التصرف على نحو مطلق في المنشأة.&nbsp;<br />
+ج. استخدام المنشأة في تعاملاتها الخاصة بنشاطها الاقتصادي حسابًا بنكيًّا آخر غير عائد لها.<br />
+وتحدد اللائحة الأحكام المتعلقة بهذه المادة، مع مراعاة الحالات التي يكون فيها منح الأدوات أو حيازتها قد تم بحسن نية.&nbsp;</p></div></p>
+                </div>
+            <h3 class="center">الفصل الثالث: الضبط والتحقيق والمحاكمة</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الخامسة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li>تختص الوزارة بالرقابة وتلقي البلاغات وضبط الجرائم والمخالفات المنصوص عليها في النظام.</li>
+	<li>تختص النيابة العامة بالتحقيق والادعاء في الجرائم المنصوص عليها في النظام.</li>
+	<li>تختص المحكمة الجزائية بالنظر والفصل في الجرائم المنصوص عليها في النظام.</li>
+	<li>تكوّن بقرار من الوزير لجنة من عدد لا يقل عن ثلاثة أعضاء، على أن يكون رئيسها وأحد أعضائها على الأقل من ذوي التأهيل النظامي؛ للنظر في مخالفات أحكام المادة (الرابعة) من النظام، وإيقاع العقوبات المنصوص عليها في المادة (الرابعة عشرة) من النظام. وتصدر قواعد عمل اللجنة وتحدد مكافآت أعضائها وأمانة السر بقرار من الوزير.&nbsp;</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السادسة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">يتولى ضبط الجرائم والمخالفات المنصوص عليها في النظام موظفون من: الوزارة، ووزارة الشؤون البلدية والقروية، ووزارة الموارد البشرية والتنمية الاجتماعية، ووزارة البيئة والمياه والزراعة، والهيئة العامة للزكاة والدخل، والجهات المختصة الأخرى، يصدر بتسميتهم قرار من الوزير -بعد موافقة جهاتهم- وتكون لهم صفة الضبط الجنائي.</li>
+	<li style="text-align: justify;">تحدد اللائحة معايير اختيار الموظفين الذين لهم صفة الضبط الجنائي.&nbsp;</li>
+	<li style="text-align: justify;">يقوم الموظفون الذين لهم صفة الضبط الجنائي -مجتمعين أو منفردين- بإجراء التقصي والبحث والاستدلال وضبط ما يقع من جرائم ومخالفات منصوص عليها في النظام، وتكون لهم الصلاحيات الآتية:<br />
+	أ- الزيارات الرقابية ودخول المنشآت المشتبه بها ومكاتبها وفروعها ومستودعاتها وتفتيش المركبات التي تستخدمها، ويشمل ذلك أي موقع يمارس فيه النشاط الاقتصادي.&nbsp;<br />
+	ب- فحص وضبط السجلات والبيانات والوثائق لدى المنشآت المشتبه بها.<br />
+	ج- الاطلاع على تسجيلات كاميرات المراقبة للمنشآت.<br />
+	د- طلب الإفصاح وتقديمِ المعلومات ذات الصلة بنشاط المنشأة من أي جهة أو شخص.<br />
+	ه- تشميع المواقع والخزائن التي لا يمكن فتحها إلى حين فحصها.<br />
+	و- استدعاء كل من يشتبه به وكل من لديه معلومة قد تفيد في كشف الجريمة أو المخالفة وسماع أقواله، وضبطها.<br />
+	ز- الاستعانة بالشرطة والجهات المختصة عند الحاجة.<br />
+	وعلى من له صفة الضبط الجنائي تقديم ما يثبت صفته عند ممارسة صلاحياته.</li>
+	<li style="text-align: justify;">تحدد اللائحة الضوابط والإجراءات التي يتعين على من لهم صفة الضبط الجنائي التقيد بها في أداء مهماتهم وممارسة الصلاحيات المنصوص عليها في هذه المادة.&nbsp;</li>
+	<li style="text-align: justify;">تكون إجراءات الضبط سرية، ولا يجوز الإفصاح ولا الكشف عن المعلومات والسجلات والبيانات والوثائق الخاصة بالمنشآت إلا في حدود ما يقتضيه العمل وفقًا لأحكام الأنظمة والقواعد ذات العلاقة.&nbsp;</li>
+	<li style="text-align: justify;">تصدر بقرار من مجلس الوزراء -بناءً على اقتراح من الوزير- قواعد منح مكافآت مالية للعاملين على كشف الجرائم والمخالفات المنصوص عليها في النظام.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السابعة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">يكون الإثبات في الجرائم والمخالفات المنصوص عليها في النظام بجميع طرق الإثبات، بما فيها الأدلة الإلكترونية.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثامنة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">للوزارة أن تطلب من النيابة العامة منع سفر من يشتبه في ارتكابه أيًّا من الجرائم المنصوص عليها في النظام، وتحدد اللائحة ضوابط وحالات ذلك.</li>
+	<li style="text-align: justify;">دون إخلال بحقوق الغير (الحسن النية)، للنيابة العامة من تلقاء نفسها، أو بطلب من موظفي الضبط الجنائي، عند الاشتباه بارتكاب أيّ من الجرائم المنصوص عليها في النظام، أن تأمر بالحجز التحفظي على الأموال التي قد تصبح محلًا للمصادرة، لمدة لا تتجاوز (ستين) يومًا. ويصدر الأمر، ويطبق، ويُشعر الطرف المعني، ويمكن تمديد المدة بأمر قضائي من المحكمة الجزائية.</li>
+	<li style="text-align: justify;">للنيابة العامة -عند إصدار أمر الحجز التحفظي- أن تبقي الأموال المحجوزة تحت إدارة صاحب المصلحة فيها أو أي طرف آخر، أو أن تطلب من المحكمة الجزائية الأمر بنقل هذه الأموال إلى جهة مختصة للحد من احتمال اختفائها.</li>
+</ol></div></p>
+                </div>
+            <h3 class="center">الفصل الرابع: العقوبات</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة التاسعة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">دون إخلال بأي عقوبة ينص عليها أي نظام آخر، يعاقب كل من يرتكب أيًّا من الجرائم المنصوص عليها في النظام بالسجن مدة لا تزيد على (خمس) سنوات وبغرامة لا تزيد على (خمسة) ملايين ريال أو بإحدى هاتين العقوبتين، على أن يراعى عند تحديد العقوبة: حجم النشاط الاقتصادي محل الجريمة، وإيراداته، ومدة مزاولة النشاط، والآثار المترتبة على الجريمة.&nbsp;</li>
+	<li style="text-align: justify;">تضاعف في حالة العود العقوبات المقررة للجرائم المنصوص عليها في النظام، ويعد عائدًا كل من ارتكب أيًّا من الجرائم المحكوم عليه فيها بحكم نهائي؛ خلال (ثلاث (سنوات من تاريخ الحكم عليه.</li>
+	<li style="text-align: justify;">للمحكمة الجزائية تخفيف العقوبات المنصوص عليها في النظام، إذا بادر المتهم&nbsp;-بعد علم الوزارة عن وقوع الجريمة- بتقديم دليل أو معلومة لم يكن من المستطاع الحصول عليها بطريق آخر واستند إليها لإثبات الجريمة.&nbsp;</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة العاشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">دون إخلال بحقوق الغير (الحسن النية)، في حال الإدانة بارتكاب أيّ من الجريمتين المنصوص عليهما في الفقرتين (أ) و(ب) من المادة (الثالثة) من النظام؛ تصادر بحكم قضائي المتحصلات بصرف النظر عمّا إذا كانت في حيازة أو ملكية المدان أو أي طرف آخر. &nbsp;</li>
+	<li style="text-align: justify;">إذا تعذرت مصادرة المتحصلات وفقًا للفقرة (1) من هذه المادة أو اختلطت بأموال اكتسبت من مصادر مشروعة أو لم يمكن تحديد مكانها، فتصادر بحكم قضائي أي أموال أخرى تعادل قيمة تلك المتحصلات.</li>
+	<li style="text-align: justify;">دون إخلال بحقوق الغير (الحسن النية)، للمحكمة الجزائية -من تلقاء نفسها أو بناءً على طلب من ذي مصلحة- إبطال أو منع تنفيذ أي إجراء أو عمل -تعاقدي أو غير ذلك- إذا علم أطرافه أو أحدهم أو كان لمثلهم أن يعلموا بأن أيًّا من تلك الإجراءات أو الأعمال من شأنها أن تؤثر في قدرة السلطات المختصة في استرداد المتحصلات الخاضعة للمصادرة.</li>
+	<li style="text-align: justify;">ما لم ينص نظام آخر على غير ذلك، تؤول الأموال المصادَرة إلى الخزينة العامة للدولة، وتظل هذه الأموال محملة في حدود قيمتها بأي حقوق تتقرر بصورة مشروعة لأي طرف آخر حسن النية.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الحادية عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">يضمَّن الحكم -الصادر بإدانة من يرتكب أيًّا من الجريمتين المنصوص عليهما في الفقرتين (أ) و(ب) من المادة (الثالثة) من النظام وإيقاع العقوبة بحقه- النص على نشر ملخصه، على أن يكون النشر بعد اكتساب الحكم الصفة النهائية. وتنشر الوزارة ملخص الحكم النهائي في الوسيلة التي تراها مناسبة.&nbsp;</li>
+	<li style="text-align: justify;">يترتب على الحكم بإدانة غير السعودي بارتكاب أيّ من الجرائم -المنصوص عليها في المادة (الثالثة) من النظام- إبعاده عن المملكة ومنعه من دخولها وفقًا للأنظمة والقواعد ذات العلاقة وما تحدده اللائحة، وذلك بعد تنفيذ الحكم القضائي في حقه وأداء ما عليه من رسوم وضرائب والتزامات أخرى وفقًا لما تقرره المحكمة الجزائية.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثانية عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">يترتب على الإدانة بارتكاب الجريمة المنصوص عليها في الفقرة (أ) من المادة (الثالثة) من النظام الآتي:&nbsp;<br />
+	أ- حل المنشأة محل الجريمة، وإلغاء الترخيص والموافقة الصادرة لها على ممارسة النشاط، وشطب السجل التجاري للمدان، ما لم ترَ المحكمة الجزائية خلاف ذلك.&nbsp;<br />
+	ب -منع المدان من ممارسة النشاط الاقتصادي محل الجريمة وأي عمل تجاري آخر لمدة (خمس) سنوات تبدأ من تاريخ اكتساب الحكم الصفة النهائية.</li>
+	<li style="text-align: justify;">تستوفى، بالتضامن بين المدانين بارتكاب أي من الجريمتين المنصوص عليهما في الفقرتين (أ) و(ب) من المادة (الثالثة) من النظام؛ الزكاة والضرائب والرسوم، وأي التزام آخر مقرر على المنشأة.</li>
+	<li style="text-align: justify;">تقوم الجهة المختصة بتزويد الوزارة بصورة من الحكم الصادر بشأن أيّ من الجرائم المنصوص عليها في النظام؛ لاتخاذ ما يلزم من إجراءات نظامًا.</li>
+	<li style="text-align: justify;">تقوم الجهة المختصة بتزويد الهيئة العامة للزكاة والدخل بصورة من الحكم الصادر بالإدانة بارتكاب أيّ من الجريمتين المنصوص عليهما في الفقرتين (أ) و(ب) من المادة (الثالثة) من النظام؛ لاتخاذ ما يلزم من إجراءات نظامًا.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثالثة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">إذا أبلغ أي من مرتكبي الجرائم -المنصوص عليها في النظام- الجهات المختصة عن الجريمة أو عن مرتكبيها الآخرين قبل اكتشافها، وأدى إبلاغه إلى ضبطهم أو ضبط الأموال أو الوسائط أو متحصلات الجريمة، فيجوز للمحكمة الجزائية إعفاؤه من العقوبات الواردة في الفقرة (1) من المادة (التاسعة) من النظام؛ وفقًا لقواعد تعدها الوزارة وتصدر بقرار من مجلس الوزراء، ولا يشمل ذلك الإعفاء من الالتزامات الزكوية والضريبية.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الرابعة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">دون إخلال بأي عقوبة ينص عليها أي نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (الرابعة) من النظام بإحدى العقوبتين الآتيتين أو بهما معًا:&nbsp;<br />
+	أ. غرامة لا تزيد على (خمسمائة ألف) ريال.<br />
+	ب. إغلاق المنشأة لمدة لا تزيد على (تسعين) يومًا.</li>
+	<li style="text-align: justify;">للجنة المنصوص عليها في الفقرة (4) من المادة (الخامسة) من النظام تضمين قرارها إلزام المخالف بتقديم أي من الوثائق والمعلومات الآتية للوزارة لمدة لا تزيد على (خمس) سنوات:<br />
+	أ- القوائم المالية للمنشأة.&nbsp;<br />
+	ب- كشوف حسابات المنشأة البنكية.&nbsp;<br />
+	ج- مسيَّرات الرواتب لعاملي المنشأة.&nbsp;<br />
+	ويجوز للجنة إيقاع العقوبات الواردة في الفقرة (1) من هذه المادة على من لم يتقيد بما يُلزم بتقديمه بناء على هذه الفقرة.&nbsp;</li>
+	<li style="text-align: justify;">يراعى في تحديد العقوبة التي توقعها اللجنة حجم النشاط الاقتصادي محل المخالفة وإيراداته ومدة مزاولة النشاط ومدى جسامة المخالفة وتكرارها والأثر المترتب عليها.</li>
+	<li style="text-align: justify;">إذا تبين للجنة من خلال نظرها مخالفة ما يشير إلى وجود جريمة؛ فعليها إحالة ما يتعلق بالجريمة إلى الجهة المختصة، وتستمر اللجنة في نظر المخالفة، ما لم يتبين لها أنه لا يمكنها الاستمرار في ذلك إلا بعد أن تبت الجهة المختصة في الجريمة</li>
+	<li style="text-align: justify;">يحق لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (ستين) يومًا من تاريخ إبلاغه بالقرار وفقًا لوسائل الإبلاغ التي تحددها اللائحة.&nbsp;</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الخامسة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">دون إخلال بحقوق الغير (الحسن النية)، يعد باطلًا كل عقد أو تصرف يكون محله أو غايته التستر.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السادسة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">تودع الغرامات المحصلة بموجب النظام في حساب جاري وزارة المالية لدى مؤسسة النقد العربي السعودي بعد خصم المكافآت المنصوص عليها في الفقرة (2) من المادة (الثامنة عشرة) من النظام.</p></div></p>
+                </div>
+            <h3 class="center">الفصل الخامس: أحكام ختامية</h3>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة السابعة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">على كل جهة تصدر تراخيص لممارسة أي نشاط اقتصادي متابعة المنشآت التي رخصت لها، وإبلاغ الوزارة بما يظهر لها من اشتباه في وقوع جرائم أو مخالفات منصوص عليها في النظام.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة الثامنة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><ol>
+	<li style="text-align: justify;">يجب الحفاظ على سرية هوية المبلّغين في سجل سري وعدم تضمينها ملف القضية، ولا يخل ذلك بحق النيابة العامة في طلب الكشف عن هوية المبلّغ إذا تطلب إجراء التحقيق ذلك وفق إجراءات تضمن الحفاظ على سرية هوية المبلّغ. &nbsp;&nbsp;</li>
+	<li style="text-align: justify;">تمنح بقرار من الوزير مكافأة مالية لا تزيد على (30%) من الغرامة المحصلة عن أي جريمة أو مخالفة منصوص عليها في النظام لمن يبلغ عنها -من غير المختصين بتطبيق أحكام النظام- إذا قدم معلومات يصلح الاستناد إليها في البدء في التحقيق، وصدر حكم نهائي بثبوت الجريمة أو أصبح القرار نهائيًّا بثبوت المخالفة، ولم يكن ذاك المبلغ مدانًا فيها. وتحدد اللائحة الإجراءات الواجب اتباعها للإبلاغ عن الجرائم والمخالفات المنصوص عليها في النظام، وضوابط صرف المكافآت، وآلية قسمتها إذا تعدد المبلّغون.</li>
+</ol></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة التاسعة عشرة</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">يصدر الوزير -بالاتفاق مع وزير الداخلية- اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام، ويعمل بها من تاريخ نفاذه.</p></div></p>
+                </div>
+                <div class="article_item no_alternate ">
+                    <h3 class="center">المادة العشرون</h3>
+
+                    <div class="article_btns">
+                    </div>
+
+                    <p><div class="HTMLContainer"><p style="text-align:justify">يحل النظام محل نظام مكافحة التستر الصادر بالمرسوم الملكي رقم (م/22) وتاريخ 4/5/1425هـ، ويلغي كل ما يتعارض معه من أحكام، ويعمل به بعد مضي (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.</p></div></p>
+                </div>
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="bf9e0aae-6df6-4785-a305-ac2300bd0856" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="3852af27-ef50-4a8e-9779-ac2300bef10f">المادة الأولى </option>
+<option value="33b45c82-6ad2-46f2-9103-ac2300bf3797">المادة الثانية </option>
+<option value="1edcea37-86dd-4260-884c-ac2300c01223">المادة الخامسة </option>
+<option value="3f8fbfc5-3ca7-4a0e-bf6c-ac2300c188ba">المادة التاسعة </option>
+<option value="24689679-a740-4278-9381-ac2300c9fdc8">المادة السابعة عشرة </option>
+<option value="60fbcf7c-f597-4369-ad1c-ac2300caa087">المادة الثامنة عشرة </option>
+<option value="6d65334e-bf5b-49f1-9bc3-ac2300c1f7ed">المادة العاشرة </option>
+<option value="e6f73a93-ba5c-4819-858b-ac2300c0ad0a">المادة السادسة </option>
+<option value="97fe6d1a-005a-4ba7-9926-ac2300bf7c35">المادة الثالثة </option>
+<option value="9a984642-a373-4788-b0b8-ac2300bfa6db">المادة الرابعة </option>
+<option value="37403323-3b25-4f06-8f01-ac2300c0d52f">المادة السابعة </option>
+<option value="9f7e6783-ee6d-4af4-9758-ac2300c22a9c">المادة الحادية عشرة </option>
+<option value="79cf64c9-bc34-48da-828f-ac2300cae4e4">المادة التاسعة عشرة </option>
+<option value="4b2a4a12-aa32-4e39-8f1d-ac2300cb0ca7">المادة العشرون </option>
+<option value="304e870c-8368-482f-b9e1-ac2300c6d2cd">المادة الثانية عشرة </option>
+<option value="e8ccbb8e-ba1a-4d91-8afe-ac2300c10d78">المادة الثامنة </option>
+<option value="b6e30d93-728f-4d5b-8f38-ac2300c6f779">المادة الثالثة عشرة </option>
+<option value="186a5ebd-3ce3-447c-a52e-ac2300c80450">المادة الرابعة عشرة </option>
+<option value="d17c56f6-afb0-433f-a61f-ac2300c84176">المادة الخامسة عشرة </option>
+<option value="4281d350-3a26-449a-907b-ac2300c86d69">المادة السادسة عشرة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha6M9V' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha6M9V' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha6M9V = new CaptchaWidget('divCaptchaContainer_captcha6M9V', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha6M9V.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptionbf9e0aae-6df6-4785-a305-ac2300bd0856" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="bf9e0aae-6df6-4785-a305-ac2300bd0856" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha916N' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha916N' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-bf9e0aae-6df6-4785-a305-ac2300bd0856">
+                    <input type="checkbox" id="agreement-bf9e0aae-6df6-4785-a305-ac2300bd0856" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='bf9e0aae-6df6-4785-a305-ac2300bd0856' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-bf9e0aae-6df6-4785-a305-ac2300bd0856"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-bf9e0aae-6df6-4785-a305-ac2300bd0856"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha6M9V = new CaptchaWidget('divCaptchaContainer_captcha6M9V', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha6M9V.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha916N = new CaptchaWidget('divCaptchaContainer_captcha916N', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha916N.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                            <tr>
+                                <td>
+                                    <a href="/BoeLaws/Laws/LawDetails/07e87d88-b2c4-40ab-8770-a9a700f1af21/1"> نظام مكافحة التستر1425هـ</a>
+
+                                </td>
+                                <td>
+                                    04/05/1425
+                                </td>
+                                <td>
+                                    لاغي
+                                </td>
+                            </tr>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="bf9e0aae-6df6-4785-a305-ac2300bd0856">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha6M9V = new CaptchaWidget('divCaptchaContainer_captcha6M9V', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha6M9V.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha916N = new CaptchaWidget('divCaptchaContainer_captcha916N', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha916N.load(); 
+                    }); </script>
+</body>
+
+</html>

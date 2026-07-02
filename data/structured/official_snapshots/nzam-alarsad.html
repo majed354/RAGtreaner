@@ -1,0 +1,987 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08c164f1fc84e0005330aac63dffa3721ac7b82e82c6cf39a5b45885c568c0f61451eef8cb2520086c972a41c422a9e84ab3e5e1bb586a9693c958060c1812067de52cec7d3693ef2d8b0b30fe26cac7ce03bc5c6014dcbe64c6c42d75d6f4babea7b1506558d2076c4d44834a4dfa45d56adc0e0fe351362508e3776f9d0f2e7f176995484b2cc9cda7d22ac65db1331a51ba8f2263cd8d1f5d0ca7f48a5e1494d2967f970e793ae9a686f7a1dd057f708ce451b22b0910e5f9a92c78d866c972a47c380334fb2718833a49dceedcb534215955cdd49a5b2a138732a825459f63fad04d00c57acc";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام الأرصاد
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام الأرصاد</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الزراعة والمياه والثروات الحية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام الأرصاد</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام الأرصاد</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>134649</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>الموافقة على&nbsp;نظام الأرصاد</strong></p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام الأرصاد</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1442/09/24 هـ  الموافق : 06/05/2021 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1442/10/02  هـ الموافق : 14/05/2021 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/3e17cb26-7646-4d59-808b-ad2e00a7f8bb?lawId=cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f">مرسوم ملكي رقم (م/86) وتاريخ 1442/9/24هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/973da247-79c4-408b-8d8c-ad2e00a7f8e0?lawId=cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f">قرار مجلس الوزراء رقم (568) وتاريخ 1442/9/22هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/a7ef2145-7e9d-48db-b1b3-ad2e00a7f922?lawId=cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام الأرصاد</h3>
+        <h3 class="center">1442 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/86) وتاريخ 1442/9/24هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعــــــون الله تعـــالـى<br />
+&nbsp; &nbsp; &nbsp;نحن سلمـــــان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ملك المملكــــــة العربيــــة السعوديــــــة</strong><br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قراري مجلس الشورى رقم (353 / 60) بتاريخ 18 / 2 / 1442هـ، ورقم (130 / 24) بتاريخ 23 / 8 / 1442هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (568) بتاريخ 22 / 9 / 1442هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً: </strong>الموافقة على نظام الأرصاد، بالصيغة المرافقة.<br />
+<strong>ثانيًا:</strong> قيام كل من يمارس عملاً أو نشاطاً يتعلق بالأرصاد الجوية بتصحيح أوضاعه بما يتوافق مع أحكام نظام الأرصاد -المشار إليه في البند (أولاً) من هذا المرسوم- ولوائحه، وذلك خلال مدة لا تزيد على (اثني عشر) شهراً من تاريخ نفاذ النظام. ولوزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز الوطني للأرصاد منح مهلة إضافية بما لا يتجاوز (ستة) أشهر من تاريخ انتهاء المدة المحددة، وذلك وفقاً لما يراه محققاً للمصلحة العامة.<br />
+<strong>ثالثاً: </strong>على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخصه- تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (568) وتاريخ 1442/9/22هـ</h4>
+            <p><p><strong>إن مجلس الوزراء<br />
+بعد الاطلاع</strong> على المعاملة الواردة من الديوان الملكي برقم 48620 وتاريخ 25 / 8 / 1442هـ، المشتملة على برقية معالي وزير البيئة والمياه والزراعة رقم 839054 / 78080 / 1وتاريخ 11 / 1 / 1441هـ، في شأن مشروع نظام الأرصاد.<br />
+<strong>وبعد الاطلاع</strong> على مشروع النظام المشار إليه.<br />
+<strong>وبعد الاطلاع</strong> على تنظيم المركز الوطني للأرصاد، الصادر بقرار مجلس الوزراء رقم (417) وتاريخ 19 / 7 / 1440هـ.<br />
+<strong>وبعد الاطلاع على المذكرات</strong> رقم (94) وتاريخ 10 / 2 / 1441هـ، ورقم (920) وتاريخ 4 / 11 / 1441هـ، ورقم (34) وتاريخ 7 / 1 / 1442هـ، ورقم (514) وتاريخ 26 / 3 / 1442هـ، ورقم (791) وتاريخ 15 / 5 / 1442هـ، ورقم (1111) وتاريخ 5 / 7 / 1442هـ، ورقم (1599) وتاريخ 14 / 9 / 1442هـ، <strong>والمحضر</strong> رقم (1275) وتاريخ 27 / 9 / 1441هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد النظر في قراري مجلس الشورى</strong> رقم (353 / 60) وتاريخ 18 / 2 / 1442هـ، ورقم (130 / 24) وتاريخ 23 / 8 / 1442هـ.<br />
+<strong>وبعد الاطلاع </strong>على التوصية المعدة في مجلس الشؤون الاقتصادية والتنمية رقم (9 - 22 / 42 / د) وتاريخ 1 / 6 / 1442هـ.<br />
+<strong>وبعد الاطلاع</strong> على توصية اللجنة العامة لمجلس الوزراء رقم (6509) وتاريخ 16 / 9 / 1442هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً:</strong> الموافقة على نظام الأرصاد، بالصيغة المرافقة.<br />
+<strong>ثانيًا:</strong> قيام كل من يمارس عملاً أو نشاطاً يتعلق بالأرصاد الجوية بتصحيح أوضاعه بما يتوافق مع أحكام نظام الأرصاد -المشار إليه في البند (أولاً) من هذا القرار- ولوائحه، وذلك خلال مدة لا تزيد على (اثني عشر) شهراً من تاريخ نفاذ النظام. ولوزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز الوطني للأرصاد منح مهلة إضافية بما لا يتجاوز (ستة) أشهر من تاريخ انتهاء المدة المحددة، وذلك وفقاً لما يراه محققاً للمصلحة العامة.<br />
+<strong>وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</strong><br />
+<strong>ثالثاً:</strong> تكون صلاحية تحديد المقابل المالي -المنصوص عليه في الفقرة (3) من المادة (التاسعة) من نظام الأرصاد- للمركز الوطني للأرصاد بعد الاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية.<br />
+<strong>رابعاً:</strong> تشكل لجنة تنسيقية لقطاع الأرصاد بقرار من مجلس الوزراء -بناءً على اقتراح وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز الوطني للأرصاد- برئاسته أو من ينيبه، تتولى الآتي:</p>
+
+<ol>
+	<li style="text-align: justify;">العمل على توفير منصة للتكامل والعمل المشترك بين الجهات ذات العلاقة للارتقاء بالأداء الوطني في قطاع الأرصاد.</li>
+	<li style="text-align: justify;">تشخيص التحديات التي تواجهها القطاعات ذات العلاقة في سياق تنفيذها لنظام الأرصاد ولوائحه، واقتراح الحلول، لمعالجتها، ومتابعة تنفيذ تلك الحلول.</li>
+	<li style="text-align: justify;">العمل على تحقيق التوازن بين الحاجات الأمنية والتنموية والأرصادية.<br />
+	وللجنة تشكيل فرق عمل -عند الحاجة- للقيام ببعض مهماتها.</li>
+</ol>
+
+<p style="text-align:justify"><strong>خامساً:</strong> قيام الجهات الحكومية بالآتي:</p>
+
+<ol>
+	<li style="text-align: justify;">التعاون مع المركز الوطني للأرصاد في تحقيق الأهداف المنشودة من نظام الأرصاد.</li>
+	<li style="text-align: justify;">اتخاذ ما يلزم لتضمين برامجها الالتزام بالحصول على بيانات الأرصاد&nbsp; -عند الحاجة- من المركز الوطني للأرصاد أو من المرخص له بتقديم خدمات الأرصاد الجوية.</li>
+	<li style="text-align: justify;">إبلاغ المركز الوطني للأرصاد فور علمها بوقوع أي مخالفة لأحكام نظام الأرصاد ولوائحه، لاتخاذ ما يلزم.</li>
+	<li style="text-align: justify;">الحصول على موافقة المركز الوطني للأرصاد قبل نشر أي مؤشرات أو تقارير محلياً أو دولياً تتعلق بالأرصاد الجوية.</li>
+</ol>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام الأرصاد</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p><strong>لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:<br />
+النظام:</strong> نظام الأرصاد.<br />
+<strong>اللوائح:</strong> لوائح النظام.<br />
+<strong>المركز:</strong> المركز الوطني للأرصاد.<br />
+<strong>الوزير:</strong> وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.<br />
+<strong>الشخص:</strong> أي شخص ذي صفة طبيعية أو اعتبارية.<br />
+<strong>الطقس:</strong> حالة الجو في موقع معين لمدة زمنية قصيرة.<br />
+ا<strong>لمناخ:</strong> حالة الجو في موقع معين لمدة زمنية طويلة.<br />
+<strong>الأرصاد الجوية:</strong> عملية الرصد أو المراقبة أو التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.&nbsp;<br />
+<strong>معلومات الأرصاد الجوية:</strong> تقارير وتحاليل وتنبؤات الأرصاد الجوية وأي بيانات أخرى تتعلق بالأحوال الجوية السائدة أو المتوقعة.&nbsp;<br />
+<strong>خدمات الأرصاد الجوية:</strong> أنشطة ونواتج ومعلومات عن الأرصاد الجوية.&nbsp;<br />
+<strong>خدمات الأرصاد الجوية السيادية:</strong> أنشطة ونواتج ومعلومات عن الأرصاد الجوية ذات العلاقة بالأمن الوطني.<br />
+<strong>محطات الرصد: </strong>كل منشأة أو معدّة أو جهاز، تُستخدم للقيام بأي من خدمات الأرصاد الجوية.<br />
+<strong>التصريح: </strong>وثيقة يُصدرها المركز للشخص قبل البدء في ممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.<br />
+<strong>الترخيص: </strong>وثيقة يُصدرها المركز للشخص لممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.<br />
+<strong>المصرح له:</strong> الشخص الحاصل على التصريح.<br />
+<strong>المرخص له:</strong> الشخص الحاصل على الترخيص.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p>يجب عند القيام بأي من خدمات الأرصاد الجوية الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة للأرصاد الجوية، وذلك وفقاً لما تُحدده اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p>يجب عند القيام بأي من خدمات الأرصاد الجوية، أو نشر أي من معلومات الأرصاد الجوية سواء بإنشاء موقع إلكتروني، أو بأي وسيلة كانت؛ الحصول -بحسب الأحوال- على ترخيص أو تصريح (أو كليهما). وتُصنف اللوائح أنواع تلك الخدمات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>يجب عند إنشاء مشروع تتطلب طبيعته معرفة معلوماتٍ عن الأرصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في إنشاء ذلك المشروع- من المركز أو من مقدمي خدمات الأرصاد الجوية المرخص لهم، وتُحدد اللوائح طبيعة تلك المشروعات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يجب عند القيام بنشاط استيراد محطات الرصد، أو تركيبها، أو تشغيلها، أو نقلها، أو تداولها، أو معايرتها، أو صيانتها؛ الحصول على ترخيص، وتُحدد اللوائح أوصاف محطات الرصد.</li>
+	<li>يجب عند التنازل عن محطات الرصد الحصول على ترخيص.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يجب على من يمارس نشاط تدريب أشخاص على القيام بأي من خدمات الأرصاد الجوية؛ الحصول على ترخيص.</li>
+	<li>يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الأرصاد الجوية.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <p>تُصنف اللوائح أنواع التراخيص والتصاريح، بناءً على الاشتراطات والضوابط والإجراءات اللازمة لكل منها، وتُحدد تلك الاشتراطات والضوابط والإجراءات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p>يُقصر القيام بخدمات الأرصاد الجوية السيادية على المركز، وتُصنف اللوائح أنواع تلك الخدمات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة؛ وفقاً لأنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها.</li>
+	<li>يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.</li>
+	<li>يُحدد المركز المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقاً للأحكام المتعلقة بذلك في أنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يُعد القيام بأي من الأفعال الآتية مخالفة لأحكام النظام:</strong></p>
+
+<ol>
+	<li>المساس بأي من محطات الرصد أو مرافقها أو شبكاتها أو البيانات الصادرة عنها، سواء بالتعدي عليها أو العبث بها أو تعطيلها أو نقلها أو إتلافها جزئياً أو كلياً؛ سواء بشكل مباشر أو غير مباشر.</li>
+	<li>استخدام الترخيص أو التصريح لغير الأغراض التي أُصدر من أجلها.&nbsp;</li>
+	<li>القيام بأي من خدمات الأرصاد الجوية دون الحصول على الترخيص أو التصريح.</li>
+	<li>إنشاء محطات الرصد دون الحصول على ترخيص.</li>
+	<li>مخالفة أي حكم آخر من أحكام النظام واللوائح.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يتولى مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها وإثباتها، وتُحدد اللوائح آليات وإجراءات عملهم.</li>
+	<li>للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتُحدد اللوائح الآليات اللازمة لذلك.&nbsp;</li>
+	<li>للمفتش التحفظ الفوري على كل ما يشتبه باستخدامه بما يخالف أحكام النظام واللوائح، على أن يحرر محضراً يوضح الأصناف المحرزة وأوصافها أثناء الضبط، ويعرضه على اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد على (سبعة) أيام- لتقرير استمرار التحفظ أو إلغائه؛ وذلك وفقاً لما تُحدده اللوائح.</li>
+	<li>يُحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصاته.</li>
+	<li>دون إخلال بما ورد في الفقرة (1) من هذه المادة، للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية، إلى شركات متخصصة؛ وذلك وفق ضوابط ومعايير تُحددها اللوائح.&nbsp;</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>دون إخلال بأي عقوبة أشد يُنص عليها في نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة أو أكثر من العقوبات الآتية:</strong><br />
+	<strong>أ- </strong>غرامة لا تزيد على (500.000) خمسمائة ألف ريال.<br />
+	<strong>ب-</strong> تعليق الترخيص أو التصريح لمدة لا تزيد على (ستة) أشهر.&nbsp;<br />
+	<strong>ج- </strong>إلغاء الترخيص أو التصريح.<br />
+	<strong>د- </strong>مصادرة المضبوطات محل المخالفة.<br />
+	<strong>هـ -</strong> إلزام المخالف بإصلاح الضرر الناتج عن المخالفة تحت إشراف المركز أو التعويض عن قيمة الإصلاح، وفوات المنفعة.</li>
+	<li><strong>يُصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعى فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.</strong></li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (أو أكثر) تُكوَّن بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) أعضاء، ويحدد قرار تكوينها من يتولى رئاستها، على أن يكون من المتخصصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية على الأقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد على (100.000) مئة ألف ريال، أو بإلغاء الترخيص أو التصريح. وتُحدد اللوائح قواعد عمل اللجنة وإجراءاتها، ومكافآت أعضائها.</strong></li>
+	<li><strong>للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقاً لأحكام النظام ما يأتي:</strong><br />
+	<strong>أ-</strong> فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.<br />
+	<strong>ب-</strong> مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة.<br />
+	<strong>ج-</strong> الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة<br />
+	<strong>ويجوز لصاحب الشأن التظلم من القرارات الصادرة في حقه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.</strong></li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (2.000,000) مليوني ريال، أو بإحدى هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- بأي من أعمال خدمات الأرصاد الجوية السيادية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تتولى النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>تتولى المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وإيقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما يأتي:</strong></p>
+
+<ol>
+	<li>فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.</li>
+	<li>مضاعفة الغرامة الموقعة على المخالف في حالة تكرار المخالفة.</li>
+	<li>مصادرة المضبوطات محل المخالفة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز تضمين الحكم أو القرار الصادر بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم منه، أو صدور حكم نهائي برفض التظلم.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>تُمثل الأحكام الواردة في النظام واللوائح الحد الأدنى فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الأرصاد.</li>
+	<li>دون إخلال بما ورد في الفقرة (1) من هذه المادة، تُطبق أحكام النظام فيما لم يرد في شأنه نص نظامي خاص، على ألا يخل ذلك النص بالتقيد بالأحكام الأخرى الواردة في النظام.&nbsp;</li>
+	<li>لا يخل تطبيق أحكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها، والأنظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يُصِدر الوزير اللوائح خلال (مائة وثمانين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العشرون</h3>
+                <div class="HTMLContainer">
+                    <p>يُعمَل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="cdd926fa-fb63-4c28-a9fe-ad2e00aa8f59">المادة الأولى </option>
+<option value="111ea0db-d8a1-4426-b5e8-ad2e00aab356">المادة الثانية </option>
+<option value="420daf45-a278-4b98-a05b-ad2e00aad44a">المادة الثالثة </option>
+<option value="8033dd1e-b265-4308-87ca-ad2e00aaecaf">المادة الرابعة </option>
+<option value="415cbf28-34dc-4bb7-9e9f-ad2e00ab16c7">المادة الخامسة </option>
+<option value="f68b6333-abb2-4b8f-85f5-ad2e00ab3c99">المادة السادسة </option>
+<option value="876ed8fd-f00f-48ea-8ef8-ad2e00ab59e8">المادة السابعة </option>
+<option value="ab3d8b1a-2a67-4a23-a29b-ad2e00ab752b">المادة الثامنة </option>
+<option value="441e16c8-f4a1-4f00-a1b9-ad2e00abb91c">المادة التاسعة </option>
+<option value="b75be90c-3da9-472b-af41-ad2e00ac81d2">المادة العاشرة </option>
+<option value="c4adebe4-9337-4e60-8dbe-ad2e00acb5c4">المادة الحادية عشرة </option>
+<option value="a245a0f6-a74a-4793-a53e-ad2e00ad1472">المادة الثانية عشرة </option>
+<option value="0c4abb26-c9aa-4015-b64c-ad2e00add9a4">المادة الثالثة عشرة </option>
+<option value="166c82b4-d662-4bd9-bac7-ad2e00adf9ca">المادة الرابعة عشرة </option>
+<option value="411045a6-6dac-428f-af14-ad2e00ae1036">المادة الخامسة عشرة </option>
+<option value="ab22be46-84d7-4bf7-a1c8-ad2e00ae382f">المادة السادسة عشرة </option>
+<option value="5b0f18c7-e79f-4935-ae90-ad2e00ae5429">المادة السابعة عشرة </option>
+<option value="286c399c-c983-4bfb-9455-ad2e00ae79d9">المادة الثامنة عشرة </option>
+<option value="59dfd0f8-9c3a-46dc-b688-ad2e00ae8fc9">المادة التاسعة عشرة </option>
+<option value="e05f6b93-8f60-4745-af81-ad2e00aea5a1">المادة العشرون </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaQ8HA' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaQ8HA' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaQ8HA = new CaptchaWidget('divCaptchaContainer_captchaQ8HA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaQ8HA.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptioncd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha8YHJ' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha8YHJ' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f">
+                    <input type="checkbox" id="agreement-cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaQ8HA = new CaptchaWidget('divCaptchaContainer_captchaQ8HA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaQ8HA.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha8YHJ = new CaptchaWidget('divCaptchaContainer_captcha8YHJ', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha8YHJ.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaQ8HA = new CaptchaWidget('divCaptchaContainer_captchaQ8HA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaQ8HA.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha8YHJ = new CaptchaWidget('divCaptchaContainer_captcha8YHJ', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha8YHJ.load(); 
+                    }); </script>
+</body>
+
+</html>

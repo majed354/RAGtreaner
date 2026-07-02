@@ -1,0 +1,700 @@
+{
+  "metadata": {
+    "slug": "nzam-jmayh-alkshafh-alarbyh-alsawdyh",
+    "title_ar": "نظام جمعية الكشافة العربية السعودية",
+    "status": "ساري",
+    "issue_date_hijri": "1407/04/20 هـ الموافق : 21/12/1986 مـ",
+    "issue_date_gregorian": "1986-12-21",
+    "publish_date_hijri": "1407/05/09 هـ الموافق : 09/01/1987 مـ",
+    "publish_date_gregorian": "1987-01-09",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bbfab460-8fe8-4425-9202-a9a700f27ba7/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-jmayh-alkshafh-alarbyh-alsawdyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-jmayh-alkshafh-alarbyh-alsawdyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1407/05/09 هـ الموافق : 09/01/1987 مـ",
+    "effective_date_gregorian": "1987-01-09",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 19,
+    "paragraph_count": 26,
+    "indexable_paragraph_count": 26,
+    "text_chars": 4350,
+    "verbatim_chars": 4402,
+    "citation_base_ar": "نظام جمعية الكشافة العربية السعودية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bbfab460-8fe8-4425-9202-a9a700f27ba7/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-jmayh-alkshafh-alarbyh-alsawdyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-jmayh-alkshafh-alarbyh-alsawdyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الأولى",
+      "text_verbatim": "يُقصد بالألفاظ التالية المعاني المُبينة إزاءها:\n\n - الجمعية:   جمعية الكشافة العربية السعوديِّة   .\n\n - المجلِس:  مجلِس إدارة الجمعية، المُكون وفقًا للمادة الثامنة من هذا النِظام.\n\n - الرئيس:  رئيس مجلِس إدارة الجمعية.",
+      "text_for_index": "يُقصد بالألفاظ التالية المعاني المُبينة إزاءها:\n\n - الجمعية: جمعية الكشافة العربية السعوديِّة .\n\n - المجلِس: مجلِس إدارة الجمعية، المُكون وفقًا للمادة الثامنة من هذا النِظام.\n\n - الرئيس: رئيس مجلِس إدارة الجمعية.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُقصد بالألفاظ التالية المعاني المُبينة إزاءها:",
+          "text_for_index": "يُقصد بالألفاظ التالية المعاني المُبينة إزاءها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- الجمعية:   جمعية الكشافة العربية السعوديِّة   .",
+          "text_for_index": "- الجمعية: جمعية الكشافة العربية السعوديِّة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- المجلِس:  مجلِس إدارة الجمعية، المُكون وفقًا للمادة الثامنة من هذا النِظام.",
+          "text_for_index": "- المجلِس: مجلِس إدارة الجمعية، المُكون وفقًا للمادة الثامنة من هذا النِظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- الرئيس:  رئيس مجلِس إدارة الجمعية.",
+          "text_for_index": "- الرئيس: رئيس مجلِس إدارة الجمعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الثانية",
+      "text_verbatim": "جمعية الكشافة العربية السعودية  هيئة ذات شخصية اعتبارية، ومقرُها الرئيسي في مدينة الرياض، ويجوز إنشاء فروع ومكاتِب للجمعية في أنحاء المملكة.",
+      "text_for_index": "جمعية الكشافة العربية السعودية هيئة ذات شخصية اعتبارية، ومقرُها الرئيسي في مدينة الرياض، ويجوز إنشاء فروع ومكاتِب للجمعية في أنحاء المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "جمعية الكشافة العربية السعودية  هيئة ذات شخصية اعتبارية، ومقرُها الرئيسي في مدينة الرياض، ويجوز إنشاء فروع ومكاتِب للجمعية في أنحاء المملكة.",
+          "text_for_index": "جمعية الكشافة العربية السعودية هيئة ذات شخصية اعتبارية، ومقرُها الرئيسي في مدينة الرياض، ويجوز إنشاء فروع ومكاتِب للجمعية في أنحاء المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الثالثة",
+      "text_verbatim": "تهدف الجمعية إلى نشر الحركة الكشفية وتشجيعها وتنظيمِها في أنحاء المملكة، والمُساهمة في تهيئة النشء، وتوجيه الشباب وإعدادُهم خُلُقيًّا وثقافيًّا واجتِماعيًّا، وتنمية شعورِهم بالواجِب نحو الله جل شأنُه ثم الملِك والوطن.",
+      "text_for_index": "تهدف الجمعية إلى نشر الحركة الكشفية وتشجيعها وتنظيمِها في أنحاء المملكة، والمُساهمة في تهيئة النشء، وتوجيه الشباب وإعدادُهم خُلُقيًّا وثقافيًّا واجتِماعيًّا، وتنمية شعورِهم بالواجِب نحو الله جل شأنُه ثم الملِك والوطن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تهدف الجمعية إلى نشر الحركة الكشفية وتشجيعها وتنظيمِها في أنحاء المملكة، والمُساهمة في تهيئة النشء، وتوجيه الشباب وإعدادُهم خُلُقيًّا وثقافيًّا واجتِماعيًّا، وتنمية شعورِهم بالواجِب نحو الله جل شأنُه ثم الملِك والوطن.",
+          "text_for_index": "تهدف الجمعية إلى نشر الحركة الكشفية وتشجيعها وتنظيمِها في أنحاء المملكة، والمُساهمة في تهيئة النشء، وتوجيه الشباب وإعدادُهم خُلُقيًّا وثقافيًّا واجتِماعيًّا، وتنمية شعورِهم بالواجِب نحو الله جل شأنُه ثم الملِك والوطن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الرابعة",
+      "text_verbatim": "ترعى حكومة المملكة العربية السعودية الجمعية وتدعم الحركة الكشفية بالبِلاد وتُساعِدها ماليًّا ومعنويًّا.",
+      "text_for_index": "ترعى حكومة المملكة العربية السعودية الجمعية وتدعم الحركة الكشفية بالبِلاد وتُساعِدها ماليًّا ومعنويًّا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ترعى حكومة المملكة العربية السعودية الجمعية وتدعم الحركة الكشفية بالبِلاد وتُساعِدها ماليًّا ومعنويًّا.",
+          "text_for_index": "ترعى حكومة المملكة العربية السعودية الجمعية وتدعم الحركة الكشفية بالبِلاد وتُساعِدها ماليًّا ومعنويًّا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الخامسة",
+      "text_verbatim": "تُشرف  جمعية الكشافة العربية السعودية    على الحركة الكشفية في المملكة وفق الأنظِمة المرعية في البِلاد.",
+      "text_for_index": "تُشرف جمعية الكشافة العربية السعودية على الحركة الكشفية في المملكة وفق الأنظِمة المرعية في البِلاد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تُشرف  جمعية الكشافة العربية السعودية    على الحركة الكشفية في المملكة وفق الأنظِمة المرعية في البِلاد.",
+          "text_for_index": "تُشرف جمعية الكشافة العربية السعودية على الحركة الكشفية في المملكة وفق الأنظِمة المرعية في البِلاد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة السادسة",
+      "text_verbatim": "لا يجوز للجمعية الاشتِغال بالأمور السياسية أو التِجارية أو في أية أمور أُخرى، تتعارض مع أهداف الحركة الكشفية.",
+      "text_for_index": "لا يجوز للجمعية الاشتِغال بالأمور السياسية أو التِجارية أو في أية أمور أُخرى، تتعارض مع أهداف الحركة الكشفية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز للجمعية الاشتِغال بالأمور السياسية أو التِجارية أو في أية أمور أُخرى، تتعارض مع أهداف الحركة الكشفية.",
+          "text_for_index": "لا يجوز للجمعية الاشتِغال بالأمور السياسية أو التِجارية أو في أية أمور أُخرى، تتعارض مع أهداف الحركة الكشفية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة السابعة",
+      "text_verbatim": "تقوم الجمعية بالمهام اللازِمة لتحقيق أهدافِها في نِطاق مبادئ وقواعِد وتعاليم الأنظِمة الكشفية العربية والعالمية، وبمُراعاة واقِع البِلاد التاريخي والاجتِماعي والثقافي، وفي ضوء تعاليم الإسلام الحنيف. وتتولى بوجه خاص ما يلي:\n\nأ - نشر الحركة الكشفية في أنحاء المملكة وتطويرها لكي تُساهِم في تنمية المُجتمع وبِناء المواطِن الصالِح.\nب - رسم الخطة العامة للحركة الكشفية في المملكة.\nج - تنظيم الاشتراك في المؤتمرات والندوات والدورات والمخيمات العربية والإسلامية والدولية، والإشراف على إعداد البعثات الكشفية التي تُمثل المملكة في مُختلف أوجه النشاط الكشفي في المُحيط العربي والإسلامي والدولي.\nد - الإشراف على النشاط الكشفي ولقاءاته العامة في المملكة.\nهـ - منح الأوسِمة الكشفية لِمن يدعمون الحركة الكشفية.\nو - الاشتراك مع الجهات المختصة- متى دعت الحاجة- في أعمال الحج وخِدمة الحُجاج وتنظيم أسابيع المرور والمُناسبات الأُخرى.",
+      "text_for_index": "تقوم الجمعية بالمهام اللازِمة لتحقيق أهدافِها في نِطاق مبادئ وقواعِد وتعاليم الأنظِمة الكشفية العربية والعالمية، وبمُراعاة واقِع البِلاد التاريخي والاجتِماعي والثقافي، وفي ضوء تعاليم الإسلام الحنيف. وتتولى بوجه خاص ما يلي:\n\nأ - نشر الحركة الكشفية في أنحاء المملكة وتطويرها لكي تُساهِم في تنمية المُجتمع وبِناء المواطِن الصالِح.\nب - رسم الخطة العامة للحركة الكشفية في المملكة.\nج - تنظيم الاشتراك في المؤتمرات والندوات والدورات والمخيمات العربية والإسلامية والدولية، والإشراف على إعداد البعثات الكشفية التي تُمثل المملكة في مُختلف أوجه النشاط الكشفي في المُحيط العربي والإسلامي والدولي.\nد - الإشراف على النشاط الكشفي ولقاءاته العامة في المملكة.\nهـ - منح الأوسِمة الكشفية لِمن يدعمون الحركة الكشفية.\nو - الاشتراك مع الجهات المختصة- متى دعت الحاجة- في أعمال الحج وخِدمة الحُجاج وتنظيم أسابيع المرور والمُناسبات الأُخرى.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقوم الجمعية بالمهام اللازِمة لتحقيق أهدافِها في نِطاق مبادئ وقواعِد وتعاليم الأنظِمة الكشفية العربية والعالمية، وبمُراعاة واقِع البِلاد التاريخي والاجتِماعي والثقافي، وفي ضوء تعاليم الإسلام الحنيف. وتتولى بوجه خاص ما يلي:",
+          "text_for_index": "تقوم الجمعية بالمهام اللازِمة لتحقيق أهدافِها في نِطاق مبادئ وقواعِد وتعاليم الأنظِمة الكشفية العربية والعالمية، وبمُراعاة واقِع البِلاد التاريخي والاجتِماعي والثقافي، وفي ضوء تعاليم الإسلام الحنيف. وتتولى بوجه خاص ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "أ - نشر الحركة الكشفية في أنحاء المملكة وتطويرها لكي تُساهِم في تنمية المُجتمع وبِناء المواطِن الصالِح.\nب - رسم الخطة العامة للحركة الكشفية في المملكة.\nج - تنظيم الاشتراك في المؤتمرات والندوات والدورات والمخيمات العربية والإسلامية والدولية، والإشراف على إعداد البعثات الكشفية التي تُمثل المملكة في مُختلف أوجه النشاط الكشفي في المُحيط العربي والإسلامي والدولي.\nد - الإشراف على النشاط الكشفي ولقاءاته العامة في المملكة.\nهـ - منح الأوسِمة الكشفية لِمن يدعمون الحركة الكشفية.\nو - الاشتراك مع الجهات المختصة- متى دعت الحاجة- في أعمال الحج وخِدمة الحُجاج وتنظيم أسابيع المرور والمُناسبات الأُخرى.",
+          "text_for_index": "أ - نشر الحركة الكشفية في أنحاء المملكة وتطويرها لكي تُساهِم في تنمية المُجتمع وبِناء المواطِن الصالِح.\nب - رسم الخطة العامة للحركة الكشفية في المملكة.\nج - تنظيم الاشتراك في المؤتمرات والندوات والدورات والمخيمات العربية والإسلامية والدولية، والإشراف على إعداد البعثات الكشفية التي تُمثل المملكة في مُختلف أوجه النشاط الكشفي في المُحيط العربي والإسلامي والدولي.\nد - الإشراف على النشاط الكشفي ولقاءاته العامة في المملكة.\nهـ - منح الأوسِمة الكشفية لِمن يدعمون الحركة الكشفية.\nو - الاشتراك مع الجهات المختصة- متى دعت الحاجة- في أعمال الحج وخِدمة الحُجاج وتنظيم أسابيع المرور والمُناسبات الأُخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الثامنة",
+      "text_verbatim": "للجمعية وحدها حق تسجيل أي جماعة أو هيئة حُكومية أو أهلية، والسماح لها بمُمارسة النشاط الكشفي، ولا يجوز لفرد أو جماعة أن تنتحِل أية صِفة كشفية، كما لا يجوز استِخدام اسم الجمعية في أي عمل أو مشروع بدون   تصريح  منها.",
+      "text_for_index": "للجمعية وحدها حق تسجيل أي جماعة أو هيئة حُكومية أو أهلية، والسماح لها بمُمارسة النشاط الكشفي، ولا يجوز لفرد أو جماعة أن تنتحِل أية صِفة كشفية، كما لا يجوز استِخدام اسم الجمعية في أي عمل أو مشروع بدون تصريح منها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "للجمعية وحدها حق تسجيل أي جماعة أو هيئة حُكومية أو أهلية، والسماح لها بمُمارسة النشاط الكشفي، ولا يجوز لفرد أو جماعة أن تنتحِل أية صِفة كشفية، كما لا يجوز استِخدام اسم الجمعية في أي عمل أو مشروع بدون   تصريح  منها.",
+          "text_for_index": "للجمعية وحدها حق تسجيل أي جماعة أو هيئة حُكومية أو أهلية، والسماح لها بمُمارسة النشاط الكشفي، ولا يجوز لفرد أو جماعة أن تنتحِل أية صِفة كشفية، كما لا يجوز استِخدام اسم الجمعية في أي عمل أو مشروع بدون تصريح منها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة التاسعة",
+      "text_verbatim": "تتقيد الفرق الكشفية المُسجلة في الجمعية، بالأنظِمة واللوائِح الصادِرة عنها، والمُنظمة لأوجه النشاط المُختلِفة.",
+      "text_for_index": "تتقيد الفرق الكشفية المُسجلة في الجمعية، بالأنظِمة واللوائِح الصادِرة عنها، والمُنظمة لأوجه النشاط المُختلِفة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتقيد الفرق الكشفية المُسجلة في الجمعية، بالأنظِمة واللوائِح الصادِرة عنها، والمُنظمة لأوجه النشاط المُختلِفة.",
+          "text_for_index": "تتقيد الفرق الكشفية المُسجلة في الجمعية، بالأنظِمة واللوائِح الصادِرة عنها، والمُنظمة لأوجه النشاط المُختلِفة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة العاشرة",
+      "text_verbatim": "تعتمد الجمعية الشارات التي تُميزها وشعاراتها وأعلامها وعلاماتها المُميزة، ولا يجوز تقليدُها أو تزييفُها، وتُطبَّق على من زيف أو زور شيئًا مِنها عقوبات التزييف أو التزوير المنصوص عليها في الأنظِمة المرعية في البِلاد.",
+      "text_for_index": "تعتمد الجمعية الشارات التي تُميزها وشعاراتها وأعلامها وعلاماتها المُميزة، ولا يجوز تقليدُها أو تزييفُها، وتُطبَّق على من زيف أو زور شيئًا مِنها عقوبات التزييف أو التزوير المنصوص عليها في الأنظِمة المرعية في البِلاد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تعتمد الجمعية الشارات التي تُميزها وشعاراتها وأعلامها وعلاماتها المُميزة، ولا يجوز تقليدُها أو تزييفُها، وتُطبَّق على من زيف أو زور شيئًا مِنها عقوبات التزييف أو التزوير المنصوص عليها في الأنظِمة المرعية في البِلاد.",
+          "text_for_index": "تعتمد الجمعية الشارات التي تُميزها وشعاراتها وأعلامها وعلاماتها المُميزة، ولا يجوز تقليدُها أو تزييفُها، وتُطبَّق على من زيف أو زور شيئًا مِنها عقوبات التزييف أو التزوير المنصوص عليها في الأنظِمة المرعية في البِلاد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الحادية عشرة",
+      "text_verbatim": "يتولى شؤون الجمعية وتصريف أمورِها ورسم سياستِها مجلِس إدارة يتألف مِن:\n\nأ -  وزير المعارِف    رئيساً.\nب - ثمانية أعضاء من المُهتمين بالحركة الكشفية، يتم اختيارُهم لِمُدة خمس سنوات باقتِراح من الرئيس وموافقة   رئيس مجلِس الوزراء    . ويُسمي الرئيس من بين الأعضاء نائب الرئيس، وأمين السر العام، وأمين الصندوق، ومفوض العلاقات الخارجية.\nج - لا يكون انعِقاد المجلِس صحيحًا، إلا بحضور أغلبية الأعضاء. وتُتخذ القرارات بأغلبية أصوات الحاضرين، وعند التساوي يُرجح الجانب الذي صوت معهُ الرئيس.",
+      "text_for_index": "يتولى شؤون الجمعية وتصريف أمورِها ورسم سياستِها مجلِس إدارة يتألف مِن:\n\nأ - وزير المعارِف رئيساً.\nب - ثمانية أعضاء من المُهتمين بالحركة الكشفية، يتم اختيارُهم لِمُدة خمس سنوات باقتِراح من الرئيس وموافقة رئيس مجلِس الوزراء . ويُسمي الرئيس من بين الأعضاء نائب الرئيس، وأمين السر العام، وأمين الصندوق، ومفوض العلاقات الخارجية.\nج - لا يكون انعِقاد المجلِس صحيحًا، إلا بحضور أغلبية الأعضاء. وتُتخذ القرارات بأغلبية أصوات الحاضرين، وعند التساوي يُرجح الجانب الذي صوت معهُ الرئيس.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يتولى شؤون الجمعية وتصريف أمورِها ورسم سياستِها مجلِس إدارة يتألف مِن:",
+          "text_for_index": "يتولى شؤون الجمعية وتصريف أمورِها ورسم سياستِها مجلِس إدارة يتألف مِن:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "أ -  وزير المعارِف    رئيساً.\nب - ثمانية أعضاء من المُهتمين بالحركة الكشفية، يتم اختيارُهم لِمُدة خمس سنوات باقتِراح من الرئيس وموافقة   رئيس مجلِس الوزراء    . ويُسمي الرئيس من بين الأعضاء نائب الرئيس، وأمين السر العام، وأمين الصندوق، ومفوض العلاقات الخارجية.\nج - لا يكون انعِقاد المجلِس صحيحًا، إلا بحضور أغلبية الأعضاء. وتُتخذ القرارات بأغلبية أصوات الحاضرين، وعند التساوي يُرجح الجانب الذي صوت معهُ الرئيس.",
+          "text_for_index": "أ - وزير المعارِف رئيساً.\nب - ثمانية أعضاء من المُهتمين بالحركة الكشفية، يتم اختيارُهم لِمُدة خمس سنوات باقتِراح من الرئيس وموافقة رئيس مجلِس الوزراء . ويُسمي الرئيس من بين الأعضاء نائب الرئيس، وأمين السر العام، وأمين الصندوق، ومفوض العلاقات الخارجية.\nج - لا يكون انعِقاد المجلِس صحيحًا، إلا بحضور أغلبية الأعضاء. وتُتخذ القرارات بأغلبية أصوات الحاضرين، وعند التساوي يُرجح الجانب الذي صوت معهُ الرئيس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الثانية عشرة",
+      "text_verbatim": "تنتهي العضوية في مجلِس إدارة الجمعية، قبل المُدة المُحدَّدة للأسباب التالية:\n\n1 - الاستِقالة.\n2 - الإقالة لأسباب يراها المجلِس.\n3 - التغيُّب عن حضور اجتِماعات المجلِس ثلاث جلسات مُتتالية، بدون عُذر مقبول.\n4 - الوفاة.\nويتم ترشيح بدل العضو المُنتهية عضويتُه للأسباب المُشار إليها. ويُرفع   لرئيس مجلِس الوزراء    للموافقة عليه عن المُدة المُتبقية.",
+      "text_for_index": "تنتهي العضوية في مجلِس إدارة الجمعية، قبل المُدة المُحدَّدة للأسباب التالية:\n\n1 - الاستِقالة.\n2 - الإقالة لأسباب يراها المجلِس.\n3 - التغيُّب عن حضور اجتِماعات المجلِس ثلاث جلسات مُتتالية، بدون عُذر مقبول.\n4 - الوفاة.\nويتم ترشيح بدل العضو المُنتهية عضويتُه للأسباب المُشار إليها. ويُرفع لرئيس مجلِس الوزراء للموافقة عليه عن المُدة المُتبقية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنتهي العضوية في مجلِس إدارة الجمعية، قبل المُدة المُحدَّدة للأسباب التالية:",
+          "text_for_index": "تنتهي العضوية في مجلِس إدارة الجمعية، قبل المُدة المُحدَّدة للأسباب التالية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - الاستِقالة.\n2 - الإقالة لأسباب يراها المجلِس.\n3 - التغيُّب عن حضور اجتِماعات المجلِس ثلاث جلسات مُتتالية، بدون عُذر مقبول.\n4 - الوفاة.\nويتم ترشيح بدل العضو المُنتهية عضويتُه للأسباب المُشار إليها. ويُرفع   لرئيس مجلِس الوزراء    للموافقة عليه عن المُدة المُتبقية.",
+          "text_for_index": "1 - الاستِقالة.\n2 - الإقالة لأسباب يراها المجلِس.\n3 - التغيُّب عن حضور اجتِماعات المجلِس ثلاث جلسات مُتتالية، بدون عُذر مقبول.\n4 - الوفاة.\nويتم ترشيح بدل العضو المُنتهية عضويتُه للأسباب المُشار إليها. ويُرفع لرئيس مجلِس الوزراء للموافقة عليه عن المُدة المُتبقية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الثالثة عشرة",
+      "text_verbatim": "حق الإشراف على الجمعية وتمثيلِها أمام الجِهات القضائية والإدارية من صلاحيات الرئيس، ويجوز أن يُخوِّل بعض صلاحياتِه لنائبِه أو لأحد الأعضاء.",
+      "text_for_index": "حق الإشراف على الجمعية وتمثيلِها أمام الجِهات القضائية والإدارية من صلاحيات الرئيس، ويجوز أن يُخوِّل بعض صلاحياتِه لنائبِه أو لأحد الأعضاء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "حق الإشراف على الجمعية وتمثيلِها أمام الجِهات القضائية والإدارية من صلاحيات الرئيس، ويجوز أن يُخوِّل بعض صلاحياتِه لنائبِه أو لأحد الأعضاء.",
+          "text_for_index": "حق الإشراف على الجمعية وتمثيلِها أمام الجِهات القضائية والإدارية من صلاحيات الرئيس، ويجوز أن يُخوِّل بعض صلاحياتِه لنائبِه أو لأحد الأعضاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الرابعة عشرة",
+      "text_verbatim": "يُصدِر المجلِس اللوائح الداخلية اللازِمة للجمعية، كما يُصدِر اللوائح والتعليمات الكشفية والإدارية والمالية، التي تُساعِد الجمعية على تدعيم الحركة وتقدُّمها في نِطاق أحكام هذا النِظام.",
+      "text_for_index": "يُصدِر المجلِس اللوائح الداخلية اللازِمة للجمعية، كما يُصدِر اللوائح والتعليمات الكشفية والإدارية والمالية، التي تُساعِد الجمعية على تدعيم الحركة وتقدُّمها في نِطاق أحكام هذا النِظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُصدِر المجلِس اللوائح الداخلية اللازِمة للجمعية، كما يُصدِر اللوائح والتعليمات الكشفية والإدارية والمالية، التي تُساعِد الجمعية على تدعيم الحركة وتقدُّمها في نِطاق أحكام هذا النِظام.",
+          "text_for_index": "يُصدِر المجلِس اللوائح الداخلية اللازِمة للجمعية، كما يُصدِر اللوائح والتعليمات الكشفية والإدارية والمالية، التي تُساعِد الجمعية على تدعيم الحركة وتقدُّمها في نِطاق أحكام هذا النِظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الخامسة عشرة",
+      "text_verbatim": "يكون للجمعية ميزانية سنوية تتفق في بدايتِها ونهايتِها مع ميزانية الدولة.",
+      "text_for_index": "يكون للجمعية ميزانية سنوية تتفق في بدايتِها ونهايتِها مع ميزانية الدولة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون للجمعية ميزانية سنوية تتفق في بدايتِها ونهايتِها مع ميزانية الدولة.",
+          "text_for_index": "يكون للجمعية ميزانية سنوية تتفق في بدايتِها ونهايتِها مع ميزانية الدولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة السادسة عشرة",
+      "text_verbatim": "تتألف   الموارِد المالية     للجمعية من الآتي:\n\nأ - الاشتِراكات ورسوم التسجيل.\nب - الإعانات الحكومية والتبرُعات المشروعة.\nج - موارِد الجمعية الخاصة.",
+      "text_for_index": "تتألف الموارِد المالية للجمعية من الآتي:\n\nأ - الاشتِراكات ورسوم التسجيل.\nب - الإعانات الحكومية والتبرُعات المشروعة.\nج - موارِد الجمعية الخاصة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتألف   الموارِد المالية     للجمعية من الآتي:",
+          "text_for_index": "تتألف الموارِد المالية للجمعية من الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - الاشتِراكات ورسوم التسجيل.\nب - الإعانات الحكومية والتبرُعات المشروعة.\nج - موارِد الجمعية الخاصة.",
+          "text_for_index": "أ - الاشتِراكات ورسوم التسجيل.\nب - الإعانات الحكومية والتبرُعات المشروعة.\nج - موارِد الجمعية الخاصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة السابعة عشرة",
+      "text_verbatim": "لا يجوز للجمعية أن تنتسِب أو تنضم لأية جمعية خارِج المملكة، أو عقد أيِّ اتِفاق مع أيِّ هيئة كشفية أجنبية، إلا بإذن من   رئيس مجلِس الوزراء   .",
+      "text_for_index": "لا يجوز للجمعية أن تنتسِب أو تنضم لأية جمعية خارِج المملكة، أو عقد أيِّ اتِفاق مع أيِّ هيئة كشفية أجنبية، إلا بإذن من رئيس مجلِس الوزراء .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للجمعية أن تنتسِب أو تنضم لأية جمعية خارِج المملكة، أو عقد أيِّ اتِفاق مع أيِّ هيئة كشفية أجنبية، إلا بإذن من   رئيس مجلِس الوزراء   .",
+          "text_for_index": "لا يجوز للجمعية أن تنتسِب أو تنضم لأية جمعية خارِج المملكة، أو عقد أيِّ اتِفاق مع أيِّ هيئة كشفية أجنبية، إلا بإذن من رئيس مجلِس الوزراء .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة:",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة الثامنة عشرة",
+      "text_verbatim": "يلغي هذا النِظام النِظام الأساسي   لجمعية الكشافة العربية السعودية ، الصادِر   بالمرسوم الملكي     رقم (م/22) في تاريخ 19/ 4/ 1381هـ. المُعدل   بالمرسوم الملكي     رقم (م/42) في 13/ 7/ 1394هـ.",
+      "text_for_index": "يلغي هذا النِظام النِظام الأساسي لجمعية الكشافة العربية السعودية ، الصادِر بالمرسوم الملكي رقم (م/22) في تاريخ 19/ 4/ 1381هـ. المُعدل بالمرسوم الملكي رقم (م/42) في 13/ 7/ 1394هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي هذا النِظام النِظام الأساسي   لجمعية الكشافة العربية السعودية ، الصادِر   بالمرسوم الملكي     رقم (م/22) في تاريخ 19/ 4/ 1381هـ. المُعدل   بالمرسوم الملكي     رقم (م/42) في 13/ 7/ 1394هـ.",
+          "text_for_index": "يلغي هذا النِظام النِظام الأساسي لجمعية الكشافة العربية السعودية ، الصادِر بالمرسوم الملكي رقم (م/22) في تاريخ 19/ 4/ 1381هـ. المُعدل بالمرسوم الملكي رقم (م/42) في 13/ 7/ 1394هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جمعية الكشافة العربية السعودية، المادة التاسعة عشرة",
+      "text_verbatim": "يُعمل بهذا النِظام من تاريخ نشرِه في الجريدة الرسمية",
+      "text_for_index": "يُعمل بهذا النِظام من تاريخ نشرِه في الجريدة الرسمية",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jmayh-alkshafh-alarbyh-alsawdyh::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُعمل بهذا النِظام من تاريخ نشرِه في الجريدة الرسمية",
+          "text_for_index": "يُعمل بهذا النِظام من تاريخ نشرِه في الجريدة الرسمية",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

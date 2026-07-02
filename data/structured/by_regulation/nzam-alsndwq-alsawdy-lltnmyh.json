@@ -1,0 +1,849 @@
+{
+  "metadata": {
+    "slug": "nzam-alsndwq-alsawdy-lltnmyh",
+    "title_ar": "نظام الصندوق السعودي للتنمية",
+    "status": "ساري",
+    "issue_date_hijri": "1394/08/14 هـ الموافق : 31/08/1974 مـ",
+    "issue_date_gregorian": "1974-08-31",
+    "publish_date_hijri": "1394/08/14 هـ الموافق : 31/08/1974 مـ",
+    "publish_date_gregorian": "1974-08-31",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7017dc70-15bb-4137-b87d-a9a700f1b950/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alsndwq-alsawdy-lltnmyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alsndwq-alsawdy-lltnmyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1394/08/14 هـ الموافق : 31/08/1974 مـ",
+    "effective_date_gregorian": "1974-08-31",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 12,
+    "paragraph_count": 34,
+    "indexable_paragraph_count": 34,
+    "text_chars": 4474,
+    "verbatim_chars": 4474,
+    "citation_base_ar": "نظام الصندوق السعودي للتنمية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7017dc70-15bb-4137-b87d-a9a700f1b950/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alsndwq-alsawdy-lltnmyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alsndwq-alsawdy-lltnmyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الأولى",
+      "text_verbatim": "تنشأ بموجب هذا النظام مؤسسة عامة تسمى الصندوق السعودي للتنمية، يكون مقره مدينة الرياض ويتمتع بالشخصية المعنوية والذمة المالية المستقلة، ويتولى المساهمة في تمويل المشاريع الإنسانية في الدول النامية عن طريق منح القروض لتلك الدول.",
+      "text_for_index": "تنشأ بموجب هذا النظام مؤسسة عامة تسمى الصندوق السعودي للتنمية، يكون مقره مدينة الرياض ويتمتع بالشخصية المعنوية والذمة المالية المستقلة، ويتولى المساهمة في تمويل المشاريع الإنسانية في الدول النامية عن طريق منح القروض لتلك الدول.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تنشأ بموجب هذا النظام مؤسسة عامة تسمى الصندوق السعودي للتنمية، يكون مقره مدينة الرياض ويتمتع بالشخصية المعنوية والذمة المالية المستقلة، ويتولى المساهمة في تمويل المشاريع الإنسانية في الدول النامية عن طريق منح القروض لتلك الدول.",
+          "text_for_index": "تنشأ بموجب هذا النظام مؤسسة عامة تسمى الصندوق السعودي للتنمية، يكون مقره مدينة الرياض ويتمتع بالشخصية المعنوية والذمة المالية المستقلة، ويتولى المساهمة في تمويل المشاريع الإنسانية في الدول النامية عن طريق منح القروض لتلك الدول.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الثانية",
+      "text_verbatim": "يحدد رأسمال الصندوق بمبلغ عشرة آلاف مليون ريال يغطى نصفه خلال الثلاث السنوات التالية وفقا لاعتمادات الميزانية ويغطى الباقي بعد ذلك وفقًا لما تحدده الميزانية العامة للدولة في كل سنة.\n\nويجوز بقرار من مجلس الوزراء زيادة رأسمال الصندوق.",
+      "text_for_index": "يحدد رأسمال الصندوق بمبلغ عشرة آلاف مليون ريال يغطى نصفه خلال الثلاث السنوات التالية وفقا لاعتمادات الميزانية ويغطى الباقي بعد ذلك وفقًا لما تحدده الميزانية العامة للدولة في كل سنة.\n\nويجوز بقرار من مجلس الوزراء زيادة رأسمال الصندوق.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يحدد رأسمال الصندوق بمبلغ عشرة آلاف مليون ريال يغطى نصفه خلال الثلاث السنوات التالية وفقا لاعتمادات الميزانية ويغطى الباقي بعد ذلك وفقًا لما تحدده الميزانية العامة للدولة في كل سنة.",
+          "text_for_index": "يحدد رأسمال الصندوق بمبلغ عشرة آلاف مليون ريال يغطى نصفه خلال الثلاث السنوات التالية وفقا لاعتمادات الميزانية ويغطى الباقي بعد ذلك وفقًا لما تحدده الميزانية العامة للدولة في كل سنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ويجوز بقرار من مجلس الوزراء زيادة رأسمال الصندوق.",
+          "text_for_index": "ويجوز بقرار من مجلس الوزراء زيادة رأسمال الصندوق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الثالثة",
+      "text_verbatim": "يدير الصندوق مجلس إدارة يرأسه وزير المالية والاقتصاد الوطني ويشكل أعضاء المجلس كما يلي:\n\nأ ) نائب للرئيس وعضو منتدب للمجلس – يصدر بتعيينه قرار من مجلس الوزراء يحدد راتبه وشروط خدمته وكيفية إنهائها – بناء على اقتراح وزير المالية والاقتصاد الوطني.\n\nب ) أربعة أعضاء آخرين من ذوي الخبرة والاختصاص يصدر باختيارهم قرار من مجلس الوزراء بناء على اقتراح وزير المالية والاقتصاد الوطني، وتكون مدة عضوية هؤلاء الأعضاء ثلاث سنوات، ويجوز دائمًا إعادة اختيارهم عند انتهاء مدة عضويتهم.\n\nويجتمع مجلس الإدارة بدعوة من رئيسه أو نائبه كلما دعت الحاجة لاجتماعه، ويكون انعقاده صحيحا بحضور أغلبية أعضائه.\n\nوبدون إخلال بما ورد به نص خاص تكون قراراته نافذة بموافقة الأغلبية المطلقة للحاضرين وعند التساوي يرجح رأي الجانب الذي فيه الرئيس.",
+      "text_for_index": "يدير الصندوق مجلس إدارة يرأسه وزير المالية والاقتصاد الوطني ويشكل أعضاء المجلس كما يلي:\n\nأ ) نائب للرئيس وعضو منتدب للمجلس – يصدر بتعيينه قرار من مجلس الوزراء يحدد راتبه وشروط خدمته وكيفية إنهائها – بناء على اقتراح وزير المالية والاقتصاد الوطني.\n\nب ) أربعة أعضاء آخرين من ذوي الخبرة والاختصاص يصدر باختيارهم قرار من مجلس الوزراء بناء على اقتراح وزير المالية والاقتصاد الوطني، وتكون مدة عضوية هؤلاء الأعضاء ثلاث سنوات، ويجوز دائمًا إعادة اختيارهم عند انتهاء مدة عضويتهم.\n\nويجتمع مجلس الإدارة بدعوة من رئيسه أو نائبه كلما دعت الحاجة لاجتماعه، ويكون انعقاده صحيحا بحضور أغلبية أعضائه.\n\nوبدون إخلال بما ورد به نص خاص تكون قراراته نافذة بموافقة الأغلبية المطلقة للحاضرين وعند التساوي يرجح رأي الجانب الذي فيه الرئيس.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يدير الصندوق مجلس إدارة يرأسه وزير المالية والاقتصاد الوطني ويشكل أعضاء المجلس كما يلي:",
+          "text_for_index": "يدير الصندوق مجلس إدارة يرأسه وزير المالية والاقتصاد الوطني ويشكل أعضاء المجلس كما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "أ ) نائب للرئيس وعضو منتدب للمجلس – يصدر بتعيينه قرار من مجلس الوزراء يحدد راتبه وشروط خدمته وكيفية إنهائها – بناء على اقتراح وزير المالية والاقتصاد الوطني.",
+          "text_for_index": "أ ) نائب للرئيس وعضو منتدب للمجلس – يصدر بتعيينه قرار من مجلس الوزراء يحدد راتبه وشروط خدمته وكيفية إنهائها – بناء على اقتراح وزير المالية والاقتصاد الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ب ) أربعة أعضاء آخرين من ذوي الخبرة والاختصاص يصدر باختيارهم قرار من مجلس الوزراء بناء على اقتراح وزير المالية والاقتصاد الوطني، وتكون مدة عضوية هؤلاء الأعضاء ثلاث سنوات، ويجوز دائمًا إعادة اختيارهم عند انتهاء مدة عضويتهم.",
+          "text_for_index": "ب ) أربعة أعضاء آخرين من ذوي الخبرة والاختصاص يصدر باختيارهم قرار من مجلس الوزراء بناء على اقتراح وزير المالية والاقتصاد الوطني، وتكون مدة عضوية هؤلاء الأعضاء ثلاث سنوات، ويجوز دائمًا إعادة اختيارهم عند انتهاء مدة عضويتهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ويجتمع مجلس الإدارة بدعوة من رئيسه أو نائبه كلما دعت الحاجة لاجتماعه، ويكون انعقاده صحيحا بحضور أغلبية أعضائه.",
+          "text_for_index": "ويجتمع مجلس الإدارة بدعوة من رئيسه أو نائبه كلما دعت الحاجة لاجتماعه، ويكون انعقاده صحيحا بحضور أغلبية أعضائه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-3::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "وبدون إخلال بما ورد به نص خاص تكون قراراته نافذة بموافقة الأغلبية المطلقة للحاضرين وعند التساوي يرجح رأي الجانب الذي فيه الرئيس.",
+          "text_for_index": "وبدون إخلال بما ورد به نص خاص تكون قراراته نافذة بموافقة الأغلبية المطلقة للحاضرين وعند التساوي يرجح رأي الجانب الذي فيه الرئيس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الرابعة",
+      "text_verbatim": "مجلس إدارة الصندوق هو السلطة المهيمنة على شئونه وتصريف أموره وله في سبيل ذلك:\n\n1 ) إقرار قواعد وشروط منح القروض واستردادها وفقا لأحكام هذا النظام.",
+      "text_for_index": "مجلس إدارة الصندوق هو السلطة المهيمنة على شئونه وتصريف أموره وله في سبيل ذلك:\n\n1 ) إقرار قواعد وشروط منح القروض واستردادها وفقا لأحكام هذا النظام.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مجلس إدارة الصندوق هو السلطة المهيمنة على شئونه وتصريف أموره وله في سبيل ذلك:",
+          "text_for_index": "مجلس إدارة الصندوق هو السلطة المهيمنة على شئونه وتصريف أموره وله في سبيل ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "1 ) إقرار قواعد وشروط منح القروض واستردادها وفقا لأحكام هذا النظام.",
+          "text_for_index": "1 ) إقرار قواعد وشروط منح القروض واستردادها وفقا لأحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "company_management",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الخامسة",
+      "text_verbatim": "يتولى نائب الرئيس والعضو المنتدب مهام الإدارة التنفيذية للصندوق ويقوم بتمثيله أمام القضاء وفي علاقته بالغير وهو مسئول عن تنفيذ مقررات مجلس الإدارة.",
+      "text_for_index": "يتولى نائب الرئيس والعضو المنتدب مهام الإدارة التنفيذية للصندوق ويقوم بتمثيله أمام القضاء وفي علاقته بالغير وهو مسئول عن تنفيذ مقررات مجلس الإدارة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يتولى نائب الرئيس والعضو المنتدب مهام الإدارة التنفيذية للصندوق ويقوم بتمثيله أمام القضاء وفي علاقته بالغير وهو مسئول عن تنفيذ مقررات مجلس الإدارة.",
+          "text_for_index": "يتولى نائب الرئيس والعضو المنتدب مهام الإدارة التنفيذية للصندوق ويقوم بتمثيله أمام القضاء وفي علاقته بالغير وهو مسئول عن تنفيذ مقررات مجلس الإدارة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة السادسة",
+      "text_verbatim": "يجب أن يتحرى الصندوق قبل منح القرض مدى إنتاجيته وضمان الوفاء به مراعياً الاعتبارات التالية:\n\nأ ) الملاءمة المالية التي تتمتع بها الدولة طالبة القرض بالنسبة لحجم القرض والموارد المالية والاقتصادية التي تستند إليها في الوفاء به وكفاية هذه العناصر.\n\nب ) أهمية المشروع المقترض له، وأولويته على غيره من المشاريع وتكامله مع المرافق الاقتصادية الأخرى للدولة المقترضة.\n\nج ) كفاية الدراسات التقييمية والتحليلية للمشروع من الوجهتين الاقتصادية والفنية.\n\nد ) توفر المال اللازم لتنفيذ المشروع لدى الدولة المقترضة بالإضافة إلى مبلغ القرض.",
+      "text_for_index": "يجب أن يتحرى الصندوق قبل منح القرض مدى إنتاجيته وضمان الوفاء به مراعياً الاعتبارات التالية:\n\nأ ) الملاءمة المالية التي تتمتع بها الدولة طالبة القرض بالنسبة لحجم القرض والموارد المالية والاقتصادية التي تستند إليها في الوفاء به وكفاية هذه العناصر.\n\nب ) أهمية المشروع المقترض له، وأولويته على غيره من المشاريع وتكامله مع المرافق الاقتصادية الأخرى للدولة المقترضة.\n\nج ) كفاية الدراسات التقييمية والتحليلية للمشروع من الوجهتين الاقتصادية والفنية.\n\nد ) توفر المال اللازم لتنفيذ المشروع لدى الدولة المقترضة بالإضافة إلى مبلغ القرض.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن يتحرى الصندوق قبل منح القرض مدى إنتاجيته وضمان الوفاء به مراعياً الاعتبارات التالية:",
+          "text_for_index": "يجب أن يتحرى الصندوق قبل منح القرض مدى إنتاجيته وضمان الوفاء به مراعياً الاعتبارات التالية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ ) الملاءمة المالية التي تتمتع بها الدولة طالبة القرض بالنسبة لحجم القرض والموارد المالية والاقتصادية التي تستند إليها في الوفاء به وكفاية هذه العناصر.",
+          "text_for_index": "أ ) الملاءمة المالية التي تتمتع بها الدولة طالبة القرض بالنسبة لحجم القرض والموارد المالية والاقتصادية التي تستند إليها في الوفاء به وكفاية هذه العناصر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب ) أهمية المشروع المقترض له، وأولويته على غيره من المشاريع وتكامله مع المرافق الاقتصادية الأخرى للدولة المقترضة.",
+          "text_for_index": "ب ) أهمية المشروع المقترض له، وأولويته على غيره من المشاريع وتكامله مع المرافق الاقتصادية الأخرى للدولة المقترضة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج ) كفاية الدراسات التقييمية والتحليلية للمشروع من الوجهتين الاقتصادية والفنية.",
+          "text_for_index": "ج ) كفاية الدراسات التقييمية والتحليلية للمشروع من الوجهتين الاقتصادية والفنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "د ) توفر المال اللازم لتنفيذ المشروع لدى الدولة المقترضة بالإضافة إلى مبلغ القرض.",
+          "text_for_index": "د ) توفر المال اللازم لتنفيذ المشروع لدى الدولة المقترضة بالإضافة إلى مبلغ القرض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "remedy",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "علاج أو تعويض",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة السابعة",
+      "text_verbatim": "يمنح الصندوق القروض مراعيا الشروط الآتية:\n\nأ ) أن يثبت لصندوق الجدوى الاقتصادية أو الاجتماعية في البلد المقترض للمشروع المطلوب تمويله.\n\nب ) أن يتم دفع القرض واسترداده بالريال السعودي.\n\nج ) ألا يتجاوز مبلغ القرض لأي مشروع نسبة 5% خمسة في المائة من رأسمال الصندوق ونسبة 50% خمسين في المائة من التكلفة الإجمالية للمشروع المقترض له.",
+      "text_for_index": "يمنح الصندوق القروض مراعيا الشروط الآتية:\n\nأ ) أن يثبت لصندوق الجدوى الاقتصادية أو الاجتماعية في البلد المقترض للمشروع المطلوب تمويله.\n\nب ) أن يتم دفع القرض واسترداده بالريال السعودي.\n\nج ) ألا يتجاوز مبلغ القرض لأي مشروع نسبة 5% خمسة في المائة من رأسمال الصندوق ونسبة 50% خمسين في المائة من التكلفة الإجمالية للمشروع المقترض له.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يمنح الصندوق القروض مراعيا الشروط الآتية:",
+          "text_for_index": "يمنح الصندوق القروض مراعيا الشروط الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "عبء إثبات"
+          ],
+          "text_verbatim": "أ ) أن يثبت لصندوق الجدوى الاقتصادية أو الاجتماعية في البلد المقترض للمشروع المطلوب تمويله.",
+          "text_for_index": "أ ) أن يثبت لصندوق الجدوى الاقتصادية أو الاجتماعية في البلد المقترض للمشروع المطلوب تمويله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "ب ) أن يتم دفع القرض واسترداده بالريال السعودي.",
+          "text_for_index": "ب ) أن يتم دفع القرض واسترداده بالريال السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ج ) ألا يتجاوز مبلغ القرض لأي مشروع نسبة 5% خمسة في المائة من رأسمال الصندوق ونسبة 50% خمسين في المائة من التكلفة الإجمالية للمشروع المقترض له.",
+          "text_for_index": "ج ) ألا يتجاوز مبلغ القرض لأي مشروع نسبة 5% خمسة في المائة من رأسمال الصندوق ونسبة 50% خمسين في المائة من التكلفة الإجمالية للمشروع المقترض له.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "remedy",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "علاج أو تعويض",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الثامنة",
+      "text_verbatim": "يجب أن تتضمن جميع العقود التي يبرمها الصندوق مع أي بلد مستفيد بالقرض ما يلي:\n\nأ ) تخصيص كامل قيمة القرض للمشروع المقترض له واطلاع الصندوق على كيفية صرف القيمة وطريقة التنسيق مع مصادر التمويل الأخرى.\n\nب ) تقديم جميع المعلومات والتسهيلات التي يطلبها الصندوق عن سير العمل في المشروع المقترض له ابتداءً من تاريخ توقيع العقد حتى تمام استرداد قيمة القرض.\n\nج ) تقديم جميع التسهيلات للموظفين الذين يكلفهم الصندوق بمهام تتعلق بالقرض في البلد المقترض ومنحهم الحصانات المماثلة لحصانات البعثات الدبلوماسية.\n\nد ) تسهيل جميع عمليات الصندوق المالية في البلد المقترض وإعفاء مبلغ القرض وموجودات الصندوق في ذلك البلد من جميع القيود الخاصة بالرقابة على تحويل الأموال والعملات والصكوك الناشئة عن مقدار القرض بصورة مباشرة أو غير مباشرة.\n\nهـ ) إعفاء جميع معاملات الصندوق ودخله في البلد المقترض من جميع الضرائب والرسوم والتكاليف الرسمية الأخرى مهما كان نوعها.\n\nو ) إعفاء جميع موجودات الصندوق في البلد المقترض أيا كان نوعها من المصادرة والتأميم والحراسة بجميع أنواعها والحجز والاستيلاء.\n\nز ) اعتبار جميع مستندات وسجلات ومراسلات الصندوق سرية وتوفير الحصانة التامة للصندوق في البلد المقترض بالنسبة لمراقبة المطبوعات وتفتيشها.",
+      "text_for_index": "يجب أن تتضمن جميع العقود التي يبرمها الصندوق مع أي بلد مستفيد بالقرض ما يلي:\n\nأ ) تخصيص كامل قيمة القرض للمشروع المقترض له واطلاع الصندوق على كيفية صرف القيمة وطريقة التنسيق مع مصادر التمويل الأخرى.\n\nب ) تقديم جميع المعلومات والتسهيلات التي يطلبها الصندوق عن سير العمل في المشروع المقترض له ابتداءً من تاريخ توقيع العقد حتى تمام استرداد قيمة القرض.\n\nج ) تقديم جميع التسهيلات للموظفين الذين يكلفهم الصندوق بمهام تتعلق بالقرض في البلد المقترض ومنحهم الحصانات المماثلة لحصانات البعثات الدبلوماسية.\n\nد ) تسهيل جميع عمليات الصندوق المالية في البلد المقترض وإعفاء مبلغ القرض وموجودات الصندوق في ذلك البلد من جميع القيود الخاصة بالرقابة على تحويل الأموال والعملات والصكوك الناشئة عن مقدار القرض بصورة مباشرة أو غير مباشرة.\n\nهـ ) إعفاء جميع معاملات الصندوق ودخله في البلد المقترض من جميع الضرائب والرسوم والتكاليف الرسمية الأخرى مهما كان نوعها.\n\nو ) إعفاء جميع موجودات الصندوق في البلد المقترض أيا كان نوعها من المصادرة والتأميم والحراسة بجميع أنواعها والحجز والاستيلاء.\n\nز ) اعتبار جميع مستندات وسجلات ومراسلات الصندوق سرية وتوفير الحصانة التامة للصندوق في البلد المقترض بالنسبة لمراقبة المطبوعات وتفتيشها.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن تتضمن جميع العقود التي يبرمها الصندوق مع أي بلد مستفيد بالقرض ما يلي:",
+          "text_for_index": "يجب أن تتضمن جميع العقود التي يبرمها الصندوق مع أي بلد مستفيد بالقرض ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ ) تخصيص كامل قيمة القرض للمشروع المقترض له واطلاع الصندوق على كيفية صرف القيمة وطريقة التنسيق مع مصادر التمويل الأخرى.",
+          "text_for_index": "أ ) تخصيص كامل قيمة القرض للمشروع المقترض له واطلاع الصندوق على كيفية صرف القيمة وطريقة التنسيق مع مصادر التمويل الأخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "remedy",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "علاج أو تعويض",
+            "إجراء"
+          ],
+          "text_verbatim": "ب ) تقديم جميع المعلومات والتسهيلات التي يطلبها الصندوق عن سير العمل في المشروع المقترض له ابتداءً من تاريخ توقيع العقد حتى تمام استرداد قيمة القرض.",
+          "text_for_index": "ب ) تقديم جميع المعلومات والتسهيلات التي يطلبها الصندوق عن سير العمل في المشروع المقترض له ابتداءً من تاريخ توقيع العقد حتى تمام استرداد قيمة القرض.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج ) تقديم جميع التسهيلات للموظفين الذين يكلفهم الصندوق بمهام تتعلق بالقرض في البلد المقترض ومنحهم الحصانات المماثلة لحصانات البعثات الدبلوماسية.",
+          "text_for_index": "ج ) تقديم جميع التسهيلات للموظفين الذين يكلفهم الصندوق بمهام تتعلق بالقرض في البلد المقترض ومنحهم الحصانات المماثلة لحصانات البعثات الدبلوماسية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "د ) تسهيل جميع عمليات الصندوق المالية في البلد المقترض وإعفاء مبلغ القرض وموجودات الصندوق في ذلك البلد من جميع القيود الخاصة بالرقابة على تحويل الأموال والعملات والصكوك الناشئة عن مقدار القرض بصورة مباشرة أو غير مباشرة.",
+          "text_for_index": "د ) تسهيل جميع عمليات الصندوق المالية في البلد المقترض وإعفاء مبلغ القرض وموجودات الصندوق في ذلك البلد من جميع القيود الخاصة بالرقابة على تحويل الأموال والعملات والصكوك الناشئة عن مقدار القرض بصورة مباشرة أو غير مباشرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "هـ ) إعفاء جميع معاملات الصندوق ودخله في البلد المقترض من جميع الضرائب والرسوم والتكاليف الرسمية الأخرى مهما كان نوعها.",
+          "text_for_index": "هـ ) إعفاء جميع معاملات الصندوق ودخله في البلد المقترض من جميع الضرائب والرسوم والتكاليف الرسمية الأخرى مهما كان نوعها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "و ) إعفاء جميع موجودات الصندوق في البلد المقترض أيا كان نوعها من المصادرة والتأميم والحراسة بجميع أنواعها والحجز والاستيلاء.",
+          "text_for_index": "و ) إعفاء جميع موجودات الصندوق في البلد المقترض أيا كان نوعها من المصادرة والتأميم والحراسة بجميع أنواعها والحجز والاستيلاء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-8::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ز ) اعتبار جميع مستندات وسجلات ومراسلات الصندوق سرية وتوفير الحصانة التامة للصندوق في البلد المقترض بالنسبة لمراقبة المطبوعات وتفتيشها.",
+          "text_for_index": "ز ) اعتبار جميع مستندات وسجلات ومراسلات الصندوق سرية وتوفير الحصانة التامة للصندوق في البلد المقترض بالنسبة لمراقبة المطبوعات وتفتيشها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة التاسعة",
+      "text_verbatim": "يجوز للصندوق وفقاً لما يراه أن يطلب من المقترض ضمانات ملائمة للقرض.",
+      "text_for_index": "يجوز للصندوق وفقاً لما يراه أن يطلب من المقترض ضمانات ملائمة للقرض.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز للصندوق وفقاً لما يراه أن يطلب من المقترض ضمانات ملائمة للقرض.",
+          "text_for_index": "يجوز للصندوق وفقاً لما يراه أن يطلب من المقترض ضمانات ملائمة للقرض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة العاشرة",
+      "text_verbatim": "بدون إخلال بحقوق الصندوق الناشئة عن عقد القرض أو قواعد القانون العام أو العرف الدولي يجوز للصندوق إذا أخلت الدولة المقترضة بأي التزام من التزامات عقد القرض أن يوقف أداء أقساط القرض التي لم تدفع وأن يعتبر ما أداه مستحق الأداء فوراً ويسترده مضافاً إليه جميع التكاليف المقررة بعقد القرض وذلك دون حاجة إلى تنبيه أو إنذار أو اتخاذ أي إجراء قضائي.",
+      "text_for_index": "بدون إخلال بحقوق الصندوق الناشئة عن عقد القرض أو قواعد القانون العام أو العرف الدولي يجوز للصندوق إذا أخلت الدولة المقترضة بأي التزام من التزامات عقد القرض أن يوقف أداء أقساط القرض التي لم تدفع وأن يعتبر ما أداه مستحق الأداء فوراً ويسترده مضافاً إليه جميع التكاليف المقررة بعقد القرض وذلك دون حاجة إلى تنبيه أو إنذار أو اتخاذ أي إجراء قضائي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "بدون إخلال بحقوق الصندوق الناشئة عن عقد القرض أو قواعد القانون العام أو العرف الدولي يجوز للصندوق إذا أخلت الدولة المقترضة بأي التزام من التزامات عقد القرض أن يوقف أداء أقساط القرض التي لم تدفع وأن يعتبر ما أداه مستحق الأداء فوراً ويسترده مضافاً إليه جميع التكاليف المقررة بعقد القرض وذلك دون حاجة إلى تنبيه أو إنذار أو اتخاذ أي إجراء قضائي.",
+          "text_for_index": "بدون إخلال بحقوق الصندوق الناشئة عن عقد القرض أو قواعد القانون العام أو العرف الدولي يجوز للصندوق إذا أخلت الدولة المقترضة بأي التزام من التزامات عقد القرض أن يوقف أداء أقساط القرض التي لم تدفع وأن يعتبر ما أداه مستحق الأداء فوراً ويسترده مضافاً إليه جميع التكاليف المقررة بعقد القرض وذلك دون حاجة إلى تنبيه أو إنذار أو اتخاذ أي إجراء قضائي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الحادية عشرة",
+      "text_verbatim": "السنة المالية للصندوق هي السنة المالية للدولة، وفي نهاية كل سنة مالية يرفع وزير المالية والاقتصاد الوطني إلى مجلس الوزراء:\n\nأ ) تقريراً سنوياً مفصلاً عن أعمال الصندوق يتضمن عرضاً شاملاً للأعمال في السنة المنتهية وما يعتزم القيام به في السنة اللاحقة.\n\nب ) الميزانية العامة للصندوق وحسابه الختامي.",
+      "text_for_index": "السنة المالية للصندوق هي السنة المالية للدولة، وفي نهاية كل سنة مالية يرفع وزير المالية والاقتصاد الوطني إلى مجلس الوزراء:\n\nأ ) تقريراً سنوياً مفصلاً عن أعمال الصندوق يتضمن عرضاً شاملاً للأعمال في السنة المنتهية وما يعتزم القيام به في السنة اللاحقة.\n\nب ) الميزانية العامة للصندوق وحسابه الختامي.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "السنة المالية للصندوق هي السنة المالية للدولة، وفي نهاية كل سنة مالية يرفع وزير المالية والاقتصاد الوطني إلى مجلس الوزراء:",
+          "text_for_index": "السنة المالية للصندوق هي السنة المالية للدولة، وفي نهاية كل سنة مالية يرفع وزير المالية والاقتصاد الوطني إلى مجلس الوزراء:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ ) تقريراً سنوياً مفصلاً عن أعمال الصندوق يتضمن عرضاً شاملاً للأعمال في السنة المنتهية وما يعتزم القيام به في السنة اللاحقة.",
+          "text_for_index": "أ ) تقريراً سنوياً مفصلاً عن أعمال الصندوق يتضمن عرضاً شاملاً للأعمال في السنة المنتهية وما يعتزم القيام به في السنة اللاحقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-11::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب ) الميزانية العامة للصندوق وحسابه الختامي.",
+          "text_for_index": "ب ) الميزانية العامة للصندوق وحسابه الختامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الصندوق السعودي للتنمية، المادة الثانية عشرة",
+      "text_verbatim": "بدون إخلال لسلطة ديوان المراقبة في المراجعة المالية يجوز لمجلس إدارة الصندوق أن يعين مراقباً ومراجع حسابات قانوني أو أكثر.",
+      "text_for_index": "بدون إخلال لسلطة ديوان المراقبة في المراجعة المالية يجوز لمجلس إدارة الصندوق أن يعين مراقباً ومراجع حسابات قانوني أو أكثر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsndwq-alsawdy-lltnmyh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "بدون إخلال لسلطة ديوان المراقبة في المراجعة المالية يجوز لمجلس إدارة الصندوق أن يعين مراقباً ومراجع حسابات قانوني أو أكثر.",
+          "text_for_index": "بدون إخلال لسلطة ديوان المراقبة في المراجعة المالية يجوز لمجلس إدارة الصندوق أن يعين مراقباً ومراجع حسابات قانوني أو أكثر.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

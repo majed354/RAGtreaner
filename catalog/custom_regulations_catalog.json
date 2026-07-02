@@ -1,0 +1,584 @@
+{
+  "generated_on": "2026-05-15T09:57:51.166698+00:00",
+  "entries": [
+    {
+      "slug": "nzam-hmayh-almwshrat-aljghrafyh",
+      "title_ar": "نظام حماية المؤشرات الجغرافية",
+      "status": "ساري",
+      "issue_date_hijri": "1447/05/26 هـ الموافق : 18/11/2025 مـ",
+      "issue_date_gregorian": "2025-11-18",
+      "publish_date_hijri": "1447/06/07 هـ الموافق : 28/11/2025 مـ",
+      "publish_date_gregorian": "2025-11-28",
+      "official_source_urls": [
+        "https://www.uqn.gov.sa/details?p=28662",
+        "https://www.uqn.gov.sa/details?p=28660",
+        "https://www.uqn.gov.sa/details?p=28661"
+      ],
+      "organized_filename": "nzam-hmayh-almwshrat-aljghrafyh.pdf",
+      "knowledge_filename": "nzam-hmayh-almwshrat-aljghrafyh.txt",
+      "document_scope": "system_only",
+      "verification_note": "أضيف هذا النظام من جريدة أم القرى كبديل رسمي لأن صفحة بوابة الأنظمة كانت متعذرة عند الاكتشاف الشامل."
+    },
+    {
+      "slug": "nzam-alryadh",
+      "title_ar": "نظام الرياضة",
+      "status": "ساري",
+      "issue_date_hijri": "1447/06/10 هـ الموافق : 01/12/2025 مـ",
+      "issue_date_gregorian": "2025-12-01",
+      "publish_date_hijri": "1447/06/21 هـ الموافق : 12/12/2025 مـ",
+      "publish_date_gregorian": "2025-12-12",
+      "official_source_urls": [
+        "https://www.uqn.gov.sa/details?p=28707",
+        "https://www.uqn.gov.sa/details?p=28705",
+        "https://www.uqn.gov.sa/details?p=28706"
+      ],
+      "organized_filename": "nzam-alryadh.pdf",
+      "knowledge_filename": "nzam-alryadh.txt",
+      "document_scope": "system_only",
+      "verification_note": "اعتمد نص النظام من جريدة أم القرى مع إرفاق صفحة المرسوم الملكي، لأن صفحة بوابة الأنظمة الرسمية كانت متعذرة عند الفحص."
+    },
+    {
+      "slug": "nzam-alrqabh-almalyh",
+      "title_ar": "نظام الرقابة المالية",
+      "status": "ساري",
+      "issue_date_hijri": "1447/06/10 هـ الموافق : 01/12/2025 مـ",
+      "issue_date_gregorian": "2025-12-01",
+      "publish_date_hijri": "1447/06/21 هـ الموافق : 12/12/2025 مـ",
+      "publish_date_gregorian": "2025-12-12",
+      "official_source_urls": [
+        "https://www.uqn.gov.sa/details?p=28704",
+        "https://www.uqn.gov.sa/details?p=28702",
+        "https://www.uqn.gov.sa/details?p=28703"
+      ],
+      "organized_filename": "nzam-alrqabh-almalyh.pdf",
+      "knowledge_filename": "nzam-alrqabh-almalyh.txt",
+      "document_scope": "system_only",
+      "verification_note": "اعتمد نص النظام من جريدة أم القرى مع إرفاق صفحة المرسوم الملكي، لأن صفحة بوابة الأنظمة الرسمية كانت متعذرة عند الفحص."
+    },
+    {
+      "slug": "pdpl-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام حماية البيانات الشخصية",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter/details/PDPL2"
+      ],
+      "organized_filename": "pdpl-implementing-regulation.pdf",
+      "knowledge_filename": "pdpl-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "verification_note": "نص اللائحة التنفيذية مستخرج من المركز المعرفي الرسمي لسدايا."
+    },
+    {
+      "slug": "pdpl-transfer-regulation",
+      "title_ar": "لائحة نقل البيانات الشخصية إلى خارج المملكة",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter/details/RegulationonPersonalDataTransferOutsidetheKingdom"
+      ],
+      "organized_filename": "pdpl-transfer-regulation.pdf",
+      "knowledge_filename": "pdpl-transfer-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "verification_note": "نص لائحة النقل مستخرج من المركز المعرفي الرسمي لسدايا."
+    },
+    {
+      "slug": "workplace-behavioral-misconduct-controls",
+      "title_ar": "ضوابط الحماية من التعديات السلوكية في بيئة العمل",
+      "status": "ساري",
+      "issue_date_hijri": "1441/02/04 هـ",
+      "issue_date_gregorian": "2019-10-03",
+      "publish_date_hijri": "1441/02/04 هـ",
+      "publish_date_gregorian": "2019-10-03",
+      "official_source_urls": [
+        "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/ministerial-decisions/343368",
+        "https://www.hrsd.gov.sa/sites/default/files/2019-10/%D9%82%D8%B1%D8%A7%D8%B1%20%D9%88%D8%B2%D8%A7%D8%B1%D9%8A%2020912%20%D8%B6%D9%88%D8%A7%D8%A8%D8%B7%20%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%A8%D9%8A%D8%A6%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84.pdf"
+      ],
+      "organized_filename": "workplace-behavioral-misconduct-controls.pdf",
+      "knowledge_filename": "workplace-behavioral-misconduct-controls.txt",
+      "document_scope": "supplementary_regulation",
+      "related_regulations": [
+        "nzam-mkafhh-jrymh-althrsh",
+        "labor-law"
+      ],
+      "verification_note": "ضوابط رسمية من وزارة الموارد البشرية والتنمية الاجتماعية تتعلق بآليات الوقاية والشكوى والتحقيق في التعديات السلوكية داخل بيئة العمل."
+    },
+    {
+      "slug": "zatca-e-invoicing-bylaw",
+      "title_ar": "لائحة الفوترة الإلكترونية",
+      "status": "قيد المراجعة المرجعية",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [],
+      "source_relpath": "documents/saudi_regulations/onboarded/zatca-e-invoicing-bylaw.pdf",
+      "organized_filename": "zatca-e-invoicing-bylaw.pdf",
+      "knowledge_filename": "zatca-e-invoicing-bylaw.txt",
+      "document_scope": "uploaded_reference",
+      "onboarding_metadata": {
+        "candidate_id": "f78158011f5f",
+        "source_filename": "zatca-e-invoicing-bylaw-ar.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 7,
+        "text_chars": 7690,
+        "approved_on": "2026-05-14T21:01:10.805297+00:00"
+      }
+    },
+    {
+      "slug": "zatca-e-invoicing-technical-controls",
+      "title_ar": "الضوابط والمتطلبات والمواصفات الفنية والقواعد الإجرائية لتنفيذ أحكام لائحة الفوترة الإلكترونية",
+      "status": "قيد المراجعة المرجعية",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [],
+      "source_relpath": "documents/saudi_regulations/onboarded/zatca-e-invoicing-technical-controls.pdf",
+      "organized_filename": "zatca-e-invoicing-technical-controls.pdf",
+      "knowledge_filename": "zatca-e-invoicing-technical-controls.txt",
+      "document_scope": "uploaded_reference",
+      "onboarding_metadata": {
+        "candidate_id": "9d09d8d5051b",
+        "source_filename": "zatca-e-invoicing-technical-controls-20230519-ar.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 4,
+        "text_chars": 55733,
+        "approved_on": "2026-05-14T21:01:14.042740+00:00"
+      }
+    },
+    {
+      "slug": "zatca-vat-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام ضريبة القيمة المضافة",
+      "status": "قيد المراجعة المرجعية",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [],
+      "source_relpath": "documents/saudi_regulations/onboarded/zatca-vat-implementing-regulation.pdf",
+      "organized_filename": "zatca-vat-implementing-regulation.pdf",
+      "knowledge_filename": "zatca-vat-implementing-regulation.txt",
+      "document_scope": "uploaded_reference",
+      "onboarding_metadata": {
+        "candidate_id": "3187fdcb90bb",
+        "source_filename": "zatca-vat-implementing-regulations-ar.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 223,
+        "text_chars": 310114,
+        "approved_on": "2026-05-14T21:01:16.951922+00:00"
+      }
+    },
+    {
+      "slug": "ecommerce-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام التجارة الإلكترونية",
+      "status": "ساري",
+      "issue_date_hijri": "1441/05/19 هـ",
+      "issue_date_gregorian": "2020-01-14",
+      "publish_date_hijri": "1441/06/06 هـ",
+      "publish_date_gregorian": "2020-01-31",
+      "official_source_urls": [
+        "https://mc.gov.sa/ar/About/ECC",
+        "https://uqn.gov.sa/wp-content/uploads/2022/10/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF-4816.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/ecommerce-implementing-regulation.txt",
+      "organized_filename": "ecommerce-implementing-regulation.txt",
+      "knowledge_filename": "ecommerce-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "related_regulations": [
+        "e-commerce-law",
+        "personal-data-protection-law"
+      ],
+      "verification_note": "نص اللائحة التنفيذية المثبت للجولة 36 مأخوذ من الجريدة الرسمية أم القرى عدد 4816 ومطابق للعناصر المعروضة في صفحة وزارة التجارة لنظام التجارة الإلكترونية."
+    },
+    {
+      "slug": "procurement-conflict-of-interest-regulation",
+      "title_ar": "لائحة تنظيم تعارض المصالح في تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية",
+      "status": "ساري",
+      "issue_date_hijri": "1441/08/21 هـ",
+      "issue_date_gregorian": "2020-04-14",
+      "publish_date_hijri": "1441/09/01 هـ",
+      "publish_date_gregorian": "2020-04-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a64ba260-aa19-46f7-8b9f-acbb014c23b5/1"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/procurement-conflict-of-interest-regulation.txt",
+      "organized_filename": "procurement-conflict-of-interest-regulation.txt",
+      "knowledge_filename": "procurement-conflict-of-interest-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "related_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "verification_note": "نص رسمي من بوابة الأنظمة السعودية؛ أضيف لمعالجة فجوة تعارض المصالح في منافسات الجهات الحكومية."
+    },
+    {
+      "slug": "bankruptcy-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام الإفلاس",
+      "status": "ساري",
+      "issue_date_hijri": "1439/12/24 هـ",
+      "issue_date_gregorian": "2018-09-04",
+      "publish_date_hijri": "1439/12/30 هـ",
+      "publish_date_gregorian": "2018-09-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a748e485-620c-45c4-8ca8-a9f40166406d/1"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/bankruptcy-implementing-regulation.txt",
+      "organized_filename": "bankruptcy-implementing-regulation.txt",
+      "knowledge_filename": "bankruptcy-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "related_regulations": [
+        "nzam-aliflas",
+        "labor-law",
+        "companies-law"
+      ],
+      "verification_note": "نص رسمي من بوابة الأنظمة السعودية؛ يثبت في الجولة 36 مواد P0 التشغيلية ذات الصلة بإعادة التنظيم المالي، المطالبات، التوزيع، عقود العمل، وسجل الإفلاس."
+    },
+    {
+      "slug": "cma-continuing-obligations-rules",
+      "title_ar": "قواعد طرح الأوراق المالية والالتزامات المستمرة",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://cma.org.sa/RulesRegulations/Regulations/Documents/RULES_ON_THE_OFFER_OF_SECURITIES_AND_CONTINUING_OBLIGATIONS_ar2026.pdf",
+        "https://cma.gov.sa/RulesRegulations/Regulations/Documents/RULES_ON_THE_OFFER_OF_SECURITIES_AND_CONTINUING_OBLIGATIONS_ar2026.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/cma-continuing-obligations-rules.pdf",
+      "organized_filename": "cma-continuing-obligations-rules.pdf",
+      "knowledge_filename": "cma-continuing-obligations-rules.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "287e7e4b9e03",
+        "source_filename": "cma-continuing-obligations-rules.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 226,
+        "text_chars": 425752,
+        "approved_on": "2026-05-15T09:08:25.947939+00:00"
+      },
+      "related_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh"
+      ],
+      "verification_note": "نص رسمي من هيئة السوق المالية؛ يستخدم في حزمة الشركات المدرجة عند مسائل الطرح، زيادة رأس المال، الإفصاح، والالتزامات المستمرة."
+    },
+    {
+      "slug": "cma-corporate-governance-regulations",
+      "title_ar": "لائحة حوكمة الشركات",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://cma.gov.sa/RulesRegulations/Regulations/Documents/CorpGovReg.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/cma-corporate-governance-regulations.pdf",
+      "organized_filename": "cma-corporate-governance-regulations.pdf",
+      "knowledge_filename": "cma-corporate-governance-regulations.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "9bf17e5673d1",
+        "source_filename": "cma-corporate-governance-regulations.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 180,
+        "text_chars": 94290,
+        "approved_on": "2026-05-15T09:08:30.361644+00:00"
+      },
+      "related_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh"
+      ],
+      "verification_note": "نص رسمي من هيئة السوق المالية؛ يساند حزمة الشركات المدرجة في الحوكمة والجمعيات وحقوق المساهمين والإفصاح."
+    },
+    {
+      "slug": "cma-securities-offering-rules",
+      "title_ar": "قواعد طرح الأوراق المالية والالتزامات المستمرة",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://cma.org.sa/RulesRegulations/Regulations/Documents/RULES_ON_THE_OFFER_OF_SECURITIES_AND_CONTINUING_OBLIGATIONS_ar2026.pdf",
+        "https://cma.gov.sa/RulesRegulations/Regulations/Documents/RULES_ON_THE_OFFER_OF_SECURITIES_AND_CONTINUING_OBLIGATIONS_ar2026.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/cma-securities-offering-rules.pdf",
+      "organized_filename": "cma-securities-offering-rules.pdf",
+      "knowledge_filename": "cma-securities-offering-rules.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "29859947b31d",
+        "source_filename": "cma-securities-offering-rules.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 226,
+        "text_chars": 425752,
+        "approved_on": "2026-05-15T09:08:34.542743+00:00"
+      },
+      "related_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh"
+      ],
+      "verification_note": "مرادف مفهرس للنص الرسمي نفسه: قواعد طرح الأوراق المالية والالتزامات المستمرة، لحفظ الاستدعاء عند صياغات الطرح والأوراق المالية وزيادة رأس المال."
+    },
+    {
+      "slug": "companies-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام الشركات الخاصة بشركات المساهمة المدرجة",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://cma.org.sa/RulesRegulations/Regulations/Documents/Implementing_Regulation_of_the_Companies_Law_for_Listed_Joint_Stock_Companies_ar2026.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/companies-implementing-regulation.pdf",
+      "organized_filename": "companies-implementing-regulation.pdf",
+      "knowledge_filename": "companies-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "ff96f7c6201b",
+        "source_filename": "companies-implementing-regulation.pdf",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 138,
+        "text_chars": 57396,
+        "approved_on": "2026-05-15T09:08:38.741136+00:00"
+      },
+      "related_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh"
+      ],
+      "verification_note": "نص رسمي من هيئة السوق المالية للائحة التنفيذية لنظام الشركات الخاصة بشركات المساهمة المدرجة؛ يساند قضايا الجمعيات وزيادة رأس المال وحقوق المساهمين."
+    },
+    {
+      "slug": "execution-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام التنفيذ",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://www.moj.gov.sa/Documents/Regulations/pdf/11.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/execution-implementing-regulation.pdf",
+      "organized_filename": "execution-implementing-regulation.pdf",
+      "knowledge_filename": "execution-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "e95b1b719b22",
+        "source_filename": "execution-implementing-regulation.pdf",
+        "quality_level": "weak",
+        "quality_flags": [
+          "no_articles_detected"
+        ],
+        "article_count": 0,
+        "text_chars": 78062,
+        "approved_on": "2026-05-15T09:08:43.599058+00:00"
+      },
+      "related_regulations": [
+        "execution-law",
+        "law-of-evidence"
+      ],
+      "verification_note": "نص PDF رسمي من وزارة العدل؛ أُدخل للجمع في قضايا السند التنفيذي والتنفيذ. جودة تقسيم المواد ضعيفة بسبب استخراج PDF، لكن النص الكامل متاح للفهرسة."
+    },
+    {
+      "slug": "labor-contract-documentation-rules",
+      "title_ar": "الدليل الإجرائي لتوثيق عقود العمل",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/الدليل-الإجرائي-لتوثيق-العقود"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/labor-contract-documentation-rules.txt",
+      "organized_filename": "labor-contract-documentation-rules.txt",
+      "knowledge_filename": "labor-contract-documentation-rules.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "7e96150edcbc",
+        "source_filename": "labor-contract-documentation-rules.txt",
+        "quality_level": "medium",
+        "quality_flags": [],
+        "article_count": 5,
+        "text_chars": 1352,
+        "approved_on": "2026-05-15T09:08:51.972999+00:00"
+      },
+      "related_regulations": [
+        "labor-law",
+        "labor-implementing-regulation"
+      ],
+      "verification_note": "مرجع رسمي من وزارة الموارد البشرية والتنمية الاجتماعية للدليل الإجرائي لتوثيق عقود العمل؛ أُدخل لحزمة العقد والتوثيق والامتثال العمالي."
+    },
+    {
+      "slug": "labor-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام العمل وملحقاتها",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://www.hrsd.gov.sa/sites/default/files/2025-04/%D8%A7%D9%84%D9%84%D8%A7%D8%A6%D8%AD%D8%A9%20%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0%D9%8A%D8%A9%20%D9%84%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%20%D9%88%D9%85%D9%84%D8%AD%D9%82%D8%A7%D8%AA%D9%87%D8%A7.pdf"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/labor-implementing-regulation.pdf",
+      "organized_filename": "labor-implementing-regulation.pdf",
+      "knowledge_filename": "labor-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "4dcc479f7352",
+        "source_filename": "labor-implementing-regulation.pdf",
+        "quality_level": "weak",
+        "quality_flags": [
+          "no_articles_detected"
+        ],
+        "article_count": 0,
+        "text_chars": 236687,
+        "approved_on": "2026-05-15T09:08:58.112487+00:00"
+      },
+      "related_regulations": [
+        "labor-law"
+      ],
+      "verification_note": "نص PDF رسمي من وزارة الموارد البشرية والتنمية الاجتماعية؛ أُدخل لحزمة العمل. جودة تقسيم المواد ضعيفة بسبب استخراج PDF، لكن النص الكامل متاح للفهرسة."
+    },
+    {
+      "slug": "labor-violations-penalties-table",
+      "title_ar": "جدول المخالفات والعقوبات لنظام العمل ولائحته التنفيذية",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/جدول-المخالفات-والعقوبات"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/labor-violations-penalties-table.txt",
+      "organized_filename": "labor-violations-penalties-table.txt",
+      "knowledge_filename": "labor-violations-penalties-table.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "79b30aa445de",
+        "source_filename": "labor-violations-penalties-table.txt",
+        "quality_level": "medium",
+        "quality_flags": [],
+        "article_count": 4,
+        "text_chars": 1580,
+        "approved_on": "2026-05-15T09:09:05.573169+00:00"
+      },
+      "related_regulations": [
+        "labor-law",
+        "labor-implementing-regulation"
+      ],
+      "verification_note": "مرجع رسمي من وزارة الموارد البشرية والتنمية الاجتماعية؛ أُدخل كحزمة مساندة عند قضايا مخالفات العمل والجزاءات وحماية الأجور."
+    },
+    {
+      "slug": "wage-protection-rules",
+      "title_ar": "قواعد وبرنامج حماية الأجور",
+      "status": "ساري",
+      "issue_date_hijri": "",
+      "issue_date_gregorian": "",
+      "publish_date_hijri": "",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://www.hrsd.gov.sa/ministry-services/services/wage-protection-file-upload-service"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/wage-protection-rules.txt",
+      "organized_filename": "wage-protection-rules.txt",
+      "knowledge_filename": "wage-protection-rules.txt",
+      "document_scope": "supplementary_regulation",
+      "onboarding_metadata": {
+        "candidate_id": "a856b6deb6d6",
+        "source_filename": "wage-protection-rules.txt",
+        "quality_level": "medium",
+        "quality_flags": [],
+        "article_count": 5,
+        "text_chars": 1299,
+        "approved_on": "2026-05-15T09:09:09.570112+00:00"
+      },
+      "related_regulations": [
+        "labor-law",
+        "labor-implementing-regulation"
+      ],
+      "verification_note": "مرجع رسمي من وزارة الموارد البشرية والتنمية الاجتماعية لخدمة واشتراطات حماية الأجور؛ أُدخل لحزمة تأخر الأجور والحسم والامتثال."
+    },
+    {
+      "slug": "government-procurement-implementing-regulation",
+      "title_ar": "اللائحة التنفيذية لنظام المنافسات والمشتريات الحكومية",
+      "status": "ساري",
+      "issue_date_hijri": "1441/03/21 هـ",
+      "issue_date_gregorian": "2019-11-18",
+      "publish_date_hijri": "1441/09/01 هـ",
+      "publish_date_gregorian": "2020-04-24",
+      "official_source_urls": [
+        "https://www.mof.gov.sa/Knowledgecenter/newGovTendandProcLow/Documents/Approved_Regulations.pdf",
+        "https://portal.uqn.gov.sa/details?p=24851"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/government-procurement-implementing-regulation.txt",
+      "organized_filename": "government-procurement-implementing-regulation.txt",
+      "knowledge_filename": "government-procurement-implementing-regulation.txt",
+      "document_scope": "supplementary_regulation_selected",
+      "onboarding_metadata": {
+        "candidate_id": "895725235295",
+        "source_filename": "government-procurement-implementing-regulation.txt",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 10,
+        "text_chars": 4116,
+        "approved_on": "2026-05-15T09:57:51.049956+00:00"
+      },
+      "related_regulations": [
+        "government-tenders-and-procurement-law",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation"
+      ],
+      "verification_note": "مواد P0 منتخبة من اللائحة التنفيذية الرسمية لنظام المنافسات والمشتريات الحكومية لإغلاق فجوة الجمع في التظلم والترسية وفحص العروض وفترة التوقف؛ مصدر وزارة المالية الرسمي مع إحالة تعديل أم القرى."
+    },
+    {
+      "slug": "procurement-conduct-ethics-regulation",
+      "title_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية",
+      "status": "ساري",
+      "issue_date_hijri": "1441/08/21 هـ",
+      "issue_date_gregorian": "2020-04-14",
+      "publish_date_hijri": "1441/09/01 هـ",
+      "publish_date_gregorian": "2020-04-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/262382ab-7ff9-4e3a-9291-acbb01406f5e/1"
+      ],
+      "source_relpath": "documents/saudi_regulations/onboarded/procurement-conduct-ethics-regulation.txt",
+      "organized_filename": "procurement-conduct-ethics-regulation.txt",
+      "knowledge_filename": "procurement-conduct-ethics-regulation.txt",
+      "document_scope": "supplementary_regulation_selected",
+      "onboarding_metadata": {
+        "candidate_id": "5db8cf1120a6",
+        "source_filename": "procurement-conduct-ethics-regulation.txt",
+        "quality_level": "strong",
+        "quality_flags": [],
+        "article_count": 8,
+        "text_chars": 3835,
+        "approved_on": "2026-05-15T09:57:51.166604+00:00"
+      },
+      "related_regulations": [
+        "government-tenders-and-procurement-law",
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation"
+      ],
+      "verification_note": "مواد P0 منتخبة من بوابة الأنظمة السعودية للائحة السلوكيات والأخلاقيات؛ أضيفت لإغلاق فجوة الجمع في سلوك أعضاء اللجان والموظفين في المنافسات الحكومية."
+    }
+  ]
+}

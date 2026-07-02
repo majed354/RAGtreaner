@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "slug": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh",
+    "title_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة",
+    "status": "ساري",
+    "issue_date_hijri": "1408/09/08 هـ الموافق : 24/04/1988 مـ",
+    "issue_date_gregorian": "1988-04-24",
+    "publish_date_hijri": "1408/10/12 هـ الموافق : 27/05/1988 مـ",
+    "publish_date_gregorian": "1988-05-27",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ebd54fd4-fb61-458b-a837-a9a700f17e56/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1408/10/12 هـ الموافق : 27/05/1988 مـ",
+    "effective_date_gregorian": "1988-05-27",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 6,
+    "paragraph_count": 6,
+    "indexable_paragraph_count": 6,
+    "text_chars": 977,
+    "verbatim_chars": 1009,
+    "citation_base_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ebd54fd4-fb61-458b-a837-a9a700f17e56/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "education",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "تعليم",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة، المادة الأولى",
+      "text_verbatim": "رجل السلطة العامة    في تطبيق أحكام هذا النظام هو كل من يخوله النظام سلطة تنفيذ الأوامر والتعليمات وضبط المخالفات التي تقع في دائرة اختصاصه.",
+      "text_for_index": "رجل السلطة العامة في تطبيق أحكام هذا النظام هو كل من يخوله النظام سلطة تنفيذ الأوامر والتعليمات وضبط المخالفات التي تقع في دائرة اختصاصه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "رجل السلطة العامة    في تطبيق أحكام هذا النظام هو كل من يخوله النظام سلطة تنفيذ الأوامر والتعليمات وضبط المخالفات التي تقع في دائرة اختصاصه.",
+          "text_for_index": "رجل السلطة العامة في تطبيق أحكام هذا النظام هو كل من يخوله النظام سلطة تنفيذ الأوامر والتعليمات وضبط المخالفات التي تقع في دائرة اختصاصه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة، المادة الثانية",
+      "text_verbatim": "كل من انتحل صفة   رجل السلطة العامة    يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات، أو بغرامة لا تزيد على خمسين ألف ريال أو بهما معا. فإذا كان ارتكاب الجريمة مصحوبا بالإرهاب أو الاستغلال، أو كان من انتحلت صفته من  رجال المباحث  أو   الاستخبارات    أو أحد العسكريين أو من في حكمهم فيعاقب الفاعل بالسجن مدة لا تتجاوز عشر سنوات، أو بغرامة لا تزيد على مائة وخمسين ألف ريال (150.000) أو بهما معا.",
+      "text_for_index": "كل من انتحل صفة رجل السلطة العامة يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات، أو بغرامة لا تزيد على خمسين ألف ريال أو بهما معا. فإذا كان ارتكاب الجريمة مصحوبا بالإرهاب أو الاستغلال، أو كان من انتحلت صفته من رجال المباحث أو الاستخبارات أو أحد العسكريين أو من في حكمهم فيعاقب الفاعل بالسجن مدة لا تتجاوز عشر سنوات، أو بغرامة لا تزيد على مائة وخمسين ألف ريال (150.000) أو بهما معا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من انتحل صفة   رجل السلطة العامة    يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات، أو بغرامة لا تزيد على خمسين ألف ريال أو بهما معا. فإذا كان ارتكاب الجريمة مصحوبا بالإرهاب أو الاستغلال، أو كان من انتحلت صفته من  رجال المباحث  أو   الاستخبارات    أو أحد العسكريين أو من في حكمهم فيعاقب الفاعل بالسجن مدة لا تتجاوز عشر سنوات، أو بغرامة لا تزيد على مائة وخمسين ألف ريال (150.000) أو بهما معا.",
+          "text_for_index": "كل من انتحل صفة رجل السلطة العامة يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات، أو بغرامة لا تزيد على خمسين ألف ريال أو بهما معا. فإذا كان ارتكاب الجريمة مصحوبا بالإرهاب أو الاستغلال، أو كان من انتحلت صفته من رجال المباحث أو الاستخبارات أو أحد العسكريين أو من في حكمهم فيعاقب الفاعل بالسجن مدة لا تتجاوز عشر سنوات، أو بغرامة لا تزيد على مائة وخمسين ألف ريال (150.000) أو بهما معا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة، المادة الثالثة",
+      "text_verbatim": "تقام دعوى الاتهام بارتكاب الجرائم المنصوص عليها في هذا النظام من قبل    المدعي العام     أمام    ديوان المظالم     للفصل فيها.",
+      "text_for_index": "تقام دعوى الاتهام بارتكاب الجرائم المنصوص عليها في هذا النظام من قبل المدعي العام أمام ديوان المظالم للفصل فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تقام دعوى الاتهام بارتكاب الجرائم المنصوص عليها في هذا النظام من قبل    المدعي العام     أمام    ديوان المظالم     للفصل فيها.",
+          "text_for_index": "تقام دعوى الاتهام بارتكاب الجرائم المنصوص عليها في هذا النظام من قبل المدعي العام أمام ديوان المظالم للفصل فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة، المادة الرابعة",
+      "text_verbatim": "لا يمنع تطبيق العقوبات المنصوص عليها في هذا النظام من محاكمة الجاني أمام القضاء المختص عن أي جريمة أخرى.",
+      "text_for_index": "لا يمنع تطبيق العقوبات المنصوص عليها في هذا النظام من محاكمة الجاني أمام القضاء المختص عن أي جريمة أخرى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "جزاء"
+          ],
+          "text_verbatim": "لا يمنع تطبيق العقوبات المنصوص عليها في هذا النظام من محاكمة الجاني أمام القضاء المختص عن أي جريمة أخرى.",
+          "text_for_index": "لا يمنع تطبيق العقوبات المنصوص عليها في هذا النظام من محاكمة الجاني أمام القضاء المختص عن أي جريمة أخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة، المادة الخامسة",
+      "text_verbatim": "يصدر  وزير الداخلية  القرارات اللازمة لتنفيذ هذا النظام.",
+      "text_for_index": "يصدر وزير الداخلية القرارات اللازمة لتنفيذ هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يصدر  وزير الداخلية  القرارات اللازمة لتنفيذ هذا النظام.",
+          "text_for_index": "يصدر وزير الداخلية القرارات اللازمة لتنفيذ هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة، المادة السادسة",
+      "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية  ، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية  ، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

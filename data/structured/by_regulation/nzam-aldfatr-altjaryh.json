@@ -1,0 +1,665 @@
+{
+  "metadata": {
+    "slug": "nzam-aldfatr-altjaryh",
+    "title_ar": "نظام الدفاتر التجارية",
+    "status": "ساري",
+    "issue_date_hijri": "1409/12/17 هـ الموافق : 20/07/1989 مـ",
+    "issue_date_gregorian": "1989-07-20",
+    "publish_date_hijri": "1410/01/10 هـ الموافق : 11/08/1989 مـ",
+    "publish_date_gregorian": "1989-08-11",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-aldfatr-altjaryh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-aldfatr-altjaryh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1410/01/10 هـ الموافق : 11/08/1989 مـ",
+    "effective_date_gregorian": "1989-08-11",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 16,
+    "paragraph_count": 16,
+    "indexable_paragraph_count": 16,
+    "text_chars": 3342,
+    "verbatim_chars": 3351,
+    "citation_base_ar": "نظام الدفاتر التجارية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-aldfatr-altjaryh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-aldfatr-altjaryh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الأولى",
+      "text_verbatim": "يجب على كل تاجر أن يمسك الدفاتر التجارية التي تستلزمها طبيعة تجارته وأهميتها بطريقة تكفل بيان مركزه المالي بدقة، وبيان ما له من حقوق وما عليه من التزامات متعلقة بتجارته، ويجب أن تكون هذه الدفاتر منتظمة وباللغة العربية، ويجب أن يمسك على الأقل الدفاتر الآتية:\n- دفتر اليومية الأصلي.\n- دفتر الجرد.\n- الدفتر الأستاذ العام.\nويعفى من مسك هذه الدفاتر التاجر الذي لا يزيد رأس ماله على مائة ألف ريال.",
+      "text_for_index": "يجب على كل تاجر أن يمسك الدفاتر التجارية التي تستلزمها طبيعة تجارته وأهميتها بطريقة تكفل بيان مركزه المالي بدقة، وبيان ما له من حقوق وما عليه من التزامات متعلقة بتجارته، ويجب أن تكون هذه الدفاتر منتظمة وباللغة العربية، ويجب أن يمسك على الأقل الدفاتر الآتية:\n- دفتر اليومية الأصلي.\n- دفتر الجرد.\n- الدفتر الأستاذ العام.\nويعفى من مسك هذه الدفاتر التاجر الذي لا يزيد رأس ماله على مائة ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على كل تاجر أن يمسك الدفاتر التجارية التي تستلزمها طبيعة تجارته وأهميتها بطريقة تكفل بيان مركزه المالي بدقة، وبيان ما له من حقوق وما عليه من التزامات متعلقة بتجارته، ويجب أن تكون هذه الدفاتر منتظمة وباللغة العربية، ويجب أن يمسك على الأقل الدفاتر الآتية:\n- دفتر اليومية الأصلي.\n- دفتر الجرد.\n- الدفتر الأستاذ العام.\nويعفى من مسك هذه الدفاتر التاجر الذي لا يزيد رأس ماله على مائة ألف ريال.",
+          "text_for_index": "يجب على كل تاجر أن يمسك الدفاتر التجارية التي تستلزمها طبيعة تجارته وأهميتها بطريقة تكفل بيان مركزه المالي بدقة، وبيان ما له من حقوق وما عليه من التزامات متعلقة بتجارته، ويجب أن تكون هذه الدفاتر منتظمة وباللغة العربية، ويجب أن يمسك على الأقل الدفاتر الآتية:\n- دفتر اليومية الأصلي.\n- دفتر الجرد.\n- الدفتر الأستاذ العام.\nويعفى من مسك هذه الدفاتر التاجر الذي لا يزيد رأس ماله على مائة ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "عبء إثبات"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الثانية",
+      "text_verbatim": "يجوز أن تدون البيانات الخاصة بالدفاتر التجارية عن طريق الحاسب الآلي، وذلك بالنسبة للمؤسسات والشركات التي تستخدم الحاسب الآلي في حساباتها، وتحدد اللائحة التنفيذية الإجراءات والقواعد التي تكفل صحة وسلامة البيانات التي يثبتها الحاسب الآلي.",
+      "text_for_index": "يجوز أن تدون البيانات الخاصة بالدفاتر التجارية عن طريق الحاسب الآلي، وذلك بالنسبة للمؤسسات والشركات التي تستخدم الحاسب الآلي في حساباتها، وتحدد اللائحة التنفيذية الإجراءات والقواعد التي تكفل صحة وسلامة البيانات التي يثبتها الحاسب الآلي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "يجوز أن تدون البيانات الخاصة بالدفاتر التجارية عن طريق الحاسب الآلي، وذلك بالنسبة للمؤسسات والشركات التي تستخدم الحاسب الآلي في حساباتها، وتحدد اللائحة التنفيذية الإجراءات والقواعد التي تكفل صحة وسلامة البيانات التي يثبتها الحاسب الآلي.",
+          "text_for_index": "يجوز أن تدون البيانات الخاصة بالدفاتر التجارية عن طريق الحاسب الآلي، وذلك بالنسبة للمؤسسات والشركات التي تستخدم الحاسب الآلي في حساباتها، وتحدد اللائحة التنفيذية الإجراءات والقواعد التي تكفل صحة وسلامة البيانات التي يثبتها الحاسب الآلي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الثالثة",
+      "text_verbatim": "تقيد في دفتر اليومية الأصلي جميع العمليات المالية التي يقوم بها التاجر وكذلك مسحوباته الشخصية، ويتم هذا القيد يومًا بيوم بالتفصيل باستثناء المسحوبات الشخصية التي يمكن أن تقيد إجمالا شهرًا بشهر، ويجوز  للتاجر أن يستعمل دفاتر يومية مساعدة لإثبات تفاصيل الأنواع المختلفة من العمليات المالية، ويكتفي في هذه الحالة بتقييد إجمالي لهذه العمليات في دفتر اليومية الأصلي في فترات منتظمة من واقع هذه الدفاتر، فإذا لم يتبع هذا الإجراء اعتبر كل دفتر مساعد دفترًا أصليًّا.",
+      "text_for_index": "تقيد في دفتر اليومية الأصلي جميع العمليات المالية التي يقوم بها التاجر وكذلك مسحوباته الشخصية، ويتم هذا القيد يومًا بيوم بالتفصيل باستثناء المسحوبات الشخصية التي يمكن أن تقيد إجمالا شهرًا بشهر، ويجوز للتاجر أن يستعمل دفاتر يومية مساعدة لإثبات تفاصيل الأنواع المختلفة من العمليات المالية، ويكتفي في هذه الحالة بتقييد إجمالي لهذه العمليات في دفتر اليومية الأصلي في فترات منتظمة من واقع هذه الدفاتر، فإذا لم يتبع هذا الإجراء اعتبر كل دفتر مساعد دفترًا أصليًّا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تقيد في دفتر اليومية الأصلي جميع العمليات المالية التي يقوم بها التاجر وكذلك مسحوباته الشخصية، ويتم هذا القيد يومًا بيوم بالتفصيل باستثناء المسحوبات الشخصية التي يمكن أن تقيد إجمالا شهرًا بشهر، ويجوز  للتاجر أن يستعمل دفاتر يومية مساعدة لإثبات تفاصيل الأنواع المختلفة من العمليات المالية، ويكتفي في هذه الحالة بتقييد إجمالي لهذه العمليات في دفتر اليومية الأصلي في فترات منتظمة من واقع هذه الدفاتر، فإذا لم يتبع هذا الإجراء اعتبر كل دفتر مساعد دفترًا أصليًّا.",
+          "text_for_index": "تقيد في دفتر اليومية الأصلي جميع العمليات المالية التي يقوم بها التاجر وكذلك مسحوباته الشخصية، ويتم هذا القيد يومًا بيوم بالتفصيل باستثناء المسحوبات الشخصية التي يمكن أن تقيد إجمالا شهرًا بشهر، ويجوز للتاجر أن يستعمل دفاتر يومية مساعدة لإثبات تفاصيل الأنواع المختلفة من العمليات المالية، ويكتفي في هذه الحالة بتقييد إجمالي لهذه العمليات في دفتر اليومية الأصلي في فترات منتظمة من واقع هذه الدفاتر، فإذا لم يتبع هذا الإجراء اعتبر كل دفتر مساعد دفترًا أصليًّا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الرابعة",
+      "text_verbatim": "تقيد في دفتر الجرد تفاصيل البضاعة الموجودة لدى التاجر في آخر سنته المالية، أو بيان إجمالي عنها إذا كانت تفاصيلها واردة بدفاتر أو قوائم مستقلة، وفي هذه الحالة تعتبر هذه الدفاتر أو القوائم جزءا متمما للدفتر المذكور، كما تقيد بدفتر الجرد صورة من قائمة المركز المالي للتاجر في كل سنة إذا لم تقيد في دفتر آخر.",
+      "text_for_index": "تقيد في دفتر الجرد تفاصيل البضاعة الموجودة لدى التاجر في آخر سنته المالية، أو بيان إجمالي عنها إذا كانت تفاصيلها واردة بدفاتر أو قوائم مستقلة، وفي هذه الحالة تعتبر هذه الدفاتر أو القوائم جزءا متمما للدفتر المذكور، كما تقيد بدفتر الجرد صورة من قائمة المركز المالي للتاجر في كل سنة إذا لم تقيد في دفتر آخر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تقيد في دفتر الجرد تفاصيل البضاعة الموجودة لدى التاجر في آخر سنته المالية، أو بيان إجمالي عنها إذا كانت تفاصيلها واردة بدفاتر أو قوائم مستقلة، وفي هذه الحالة تعتبر هذه الدفاتر أو القوائم جزءا متمما للدفتر المذكور، كما تقيد بدفتر الجرد صورة من قائمة المركز المالي للتاجر في كل سنة إذا لم تقيد في دفتر آخر.",
+          "text_for_index": "تقيد في دفتر الجرد تفاصيل البضاعة الموجودة لدى التاجر في آخر سنته المالية، أو بيان إجمالي عنها إذا كانت تفاصيلها واردة بدفاتر أو قوائم مستقلة، وفي هذه الحالة تعتبر هذه الدفاتر أو القوائم جزءا متمما للدفتر المذكور، كما تقيد بدفتر الجرد صورة من قائمة المركز المالي للتاجر في كل سنة إذا لم تقيد في دفتر آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الخامسة",
+      "text_verbatim": "ترحل إلى دفتر الأستاذ العام العمليات المالية ذات الطبيعة الواحدة من دفتر اليومية بحيث يمكن استخلاص نتيجة كل حساب على حدة بسهولة في أي وقت.",
+      "text_for_index": "ترحل إلى دفتر الأستاذ العام العمليات المالية ذات الطبيعة الواحدة من دفتر اليومية بحيث يمكن استخلاص نتيجة كل حساب على حدة بسهولة في أي وقت.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ترحل إلى دفتر الأستاذ العام العمليات المالية ذات الطبيعة الواحدة من دفتر اليومية بحيث يمكن استخلاص نتيجة كل حساب على حدة بسهولة في أي وقت.",
+          "text_for_index": "ترحل إلى دفتر الأستاذ العام العمليات المالية ذات الطبيعة الواحدة من دفتر اليومية بحيث يمكن استخلاص نتيجة كل حساب على حدة بسهولة في أي وقت.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة السادسة",
+      "text_verbatim": "على التاجر أن يحتفظ بصورة طبق الأصل من جميع المراسلات والوثائق المتعلقة بتجارته الصادرة منه والواردة إليه، ويكون الحفظ بطريقة منتظمة تسهل معها مراجعة القيود الحسابية وتكفل عند اللزوم التحقق من الأرباح والخسائر.",
+      "text_for_index": "على التاجر أن يحتفظ بصورة طبق الأصل من جميع المراسلات والوثائق المتعلقة بتجارته الصادرة منه والواردة إليه، ويكون الحفظ بطريقة منتظمة تسهل معها مراجعة القيود الحسابية وتكفل عند اللزوم التحقق من الأرباح والخسائر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "على التاجر أن يحتفظ بصورة طبق الأصل من جميع المراسلات والوثائق المتعلقة بتجارته الصادرة منه والواردة إليه، ويكون الحفظ بطريقة منتظمة تسهل معها مراجعة القيود الحسابية وتكفل عند اللزوم التحقق من الأرباح والخسائر.",
+          "text_for_index": "على التاجر أن يحتفظ بصورة طبق الأصل من جميع المراسلات والوثائق المتعلقة بتجارته الصادرة منه والواردة إليه، ويكون الحفظ بطريقة منتظمة تسهل معها مراجعة القيود الحسابية وتكفل عند اللزوم التحقق من الأرباح والخسائر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة السابعة",
+      "text_verbatim": "يجب أن تكون الدفاتر المنصوص عليها في هذا النظام وفقا للنموذج الذي تحدده وزارة التجارة على أن تكون صفحات هذه الدفاتر مرقمة.",
+      "text_for_index": "يجب أن تكون الدفاتر المنصوص عليها في هذا النظام وفقا للنموذج الذي تحدده وزارة التجارة على أن تكون صفحات هذه الدفاتر مرقمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن تكون الدفاتر المنصوص عليها في هذا النظام وفقا للنموذج الذي تحدده وزارة التجارة على أن تكون صفحات هذه الدفاتر مرقمة.",
+          "text_for_index": "يجب أن تكون الدفاتر المنصوص عليها في هذا النظام وفقا للنموذج الذي تحدده وزارة التجارة على أن تكون صفحات هذه الدفاتر مرقمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الثامنة",
+      "text_verbatim": "على التاجر وورثته الاحتفاظ بالدفاتر المنصوص عليها في هذا النظام، والمراسلات، والمستندات المشار إليها في المادة السادسة مدة عشر سنوات على الأقل.",
+      "text_for_index": "على التاجر وورثته الاحتفاظ بالدفاتر المنصوص عليها في هذا النظام، والمراسلات، والمستندات المشار إليها في المادة السادسة مدة عشر سنوات على الأقل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على التاجر وورثته الاحتفاظ بالدفاتر المنصوص عليها في هذا النظام، والمراسلات، والمستندات المشار إليها في المادة السادسة مدة عشر سنوات على الأقل.",
+          "text_for_index": "على التاجر وورثته الاحتفاظ بالدفاتر المنصوص عليها في هذا النظام، والمراسلات، والمستندات المشار إليها في المادة السادسة مدة عشر سنوات على الأقل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة التاسعة",
+      "text_verbatim": "يفترض أن جميع القيود المدونة في دفاتر التاجر قد دونت بعلمه ورضاه ما لم يقم الدليل على عكس ذلك.",
+      "text_for_index": "يفترض أن جميع القيود المدونة في دفاتر التاجر قد دونت بعلمه ورضاه ما لم يقم الدليل على عكس ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "يفترض أن جميع القيود المدونة في دفاتر التاجر قد دونت بعلمه ورضاه ما لم يقم الدليل على عكس ذلك.",
+          "text_for_index": "يفترض أن جميع القيود المدونة في دفاتر التاجر قد دونت بعلمه ورضاه ما لم يقم الدليل على عكس ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة العاشرة",
+      "text_verbatim": "للجهة القضائية المختصة عند نظر الدعوى أن تقرر من تلقاء نفسها أو بناء على طلب أحد الخصوم تقديم الدفاتر التجارية لفحص القيود المتعلقة بالموضوع المتنازع فيه، واستخلاص ما ترى استخلاصه منها. وللجهة القضائية المختصة عند امتناع التاجر عن تقديم دفاتره أن تعتبر امتناعه بمثابة قرينة على صحة الوقائع المراد إثباتها بالدفاتر.",
+      "text_for_index": "للجهة القضائية المختصة عند نظر الدعوى أن تقرر من تلقاء نفسها أو بناء على طلب أحد الخصوم تقديم الدفاتر التجارية لفحص القيود المتعلقة بالموضوع المتنازع فيه، واستخلاص ما ترى استخلاصه منها. وللجهة القضائية المختصة عند امتناع التاجر عن تقديم دفاتره أن تعتبر امتناعه بمثابة قرينة على صحة الوقائع المراد إثباتها بالدفاتر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "شرط"
+          ],
+          "text_verbatim": "للجهة القضائية المختصة عند نظر الدعوى أن تقرر من تلقاء نفسها أو بناء على طلب أحد الخصوم تقديم الدفاتر التجارية لفحص القيود المتعلقة بالموضوع المتنازع فيه، واستخلاص ما ترى استخلاصه منها. وللجهة القضائية المختصة عند امتناع التاجر عن تقديم دفاتره أن تعتبر امتناعه بمثابة قرينة على صحة الوقائع المراد إثباتها بالدفاتر.",
+          "text_for_index": "للجهة القضائية المختصة عند نظر الدعوى أن تقرر من تلقاء نفسها أو بناء على طلب أحد الخصوم تقديم الدفاتر التجارية لفحص القيود المتعلقة بالموضوع المتنازع فيه، واستخلاص ما ترى استخلاصه منها. وللجهة القضائية المختصة عند امتناع التاجر عن تقديم دفاتره أن تعتبر امتناعه بمثابة قرينة على صحة الوقائع المراد إثباتها بالدفاتر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الحادية عشرة",
+      "text_verbatim": "يتولى ضبط ما يقع من مخالفات لأحكام هذا النظام والقرارات الصادرة تنفيذا له موظفون يصدر بتعيينهم قرار من وزير التجارة.",
+      "text_for_index": "يتولى ضبط ما يقع من مخالفات لأحكام هذا النظام والقرارات الصادرة تنفيذا له موظفون يصدر بتعيينهم قرار من وزير التجارة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يتولى ضبط ما يقع من مخالفات لأحكام هذا النظام والقرارات الصادرة تنفيذا له موظفون يصدر بتعيينهم قرار من وزير التجارة.",
+          "text_for_index": "يتولى ضبط ما يقع من مخالفات لأحكام هذا النظام والقرارات الصادرة تنفيذا له موظفون يصدر بتعيينهم قرار من وزير التجارة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الثانية عشرة",
+      "text_verbatim": "كل مخالفة لأحكام هذا النظام أو اللوائح والقرارات الصادرة تنفيذا له يعاقب مرتكبها بغرامة لا تقل عن خمسة آلاف ريال ولا تزيد على خمسين ألف ريال.",
+      "text_for_index": "كل مخالفة لأحكام هذا النظام أو اللوائح والقرارات الصادرة تنفيذا له يعاقب مرتكبها بغرامة لا تقل عن خمسة آلاف ريال ولا تزيد على خمسين ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "كل مخالفة لأحكام هذا النظام أو اللوائح والقرارات الصادرة تنفيذا له يعاقب مرتكبها بغرامة لا تقل عن خمسة آلاف ريال ولا تزيد على خمسين ألف ريال.",
+          "text_for_index": "كل مخالفة لأحكام هذا النظام أو اللوائح والقرارات الصادرة تنفيذا له يعاقب مرتكبها بغرامة لا تقل عن خمسة آلاف ريال ولا تزيد على خمسين ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الثالثة عشرة",
+      "text_verbatim": "يختص  ديوان المظالم    بتوقيع العقوبات المنصوص عليها في هذا النظام.",
+      "text_for_index": "يختص ديوان المظالم بتوقيع العقوبات المنصوص عليها في هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يختص  ديوان المظالم    بتوقيع العقوبات المنصوص عليها في هذا النظام.",
+          "text_for_index": "يختص ديوان المظالم بتوقيع العقوبات المنصوص عليها في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الرابعة عشرة",
+      "text_verbatim": "تلغى أحكام المواد (6 ،7 ،8 ،9 ،10) من نظام المحكمة التجارية الصادرة بالأمر رقم (32) وتاريخ 15 / 1 / 1350 هـ، وكل حكم يتعارض مع أحكام هذا النظام.",
+      "text_for_index": "تلغى أحكام المواد (6 ،7 ،8 ،9 ،10) من نظام المحكمة التجارية الصادرة بالأمر رقم (32) وتاريخ 15 / 1 / 1350 هـ، وكل حكم يتعارض مع أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تلغى أحكام المواد (6 ،7 ،8 ،9 ،10) من نظام المحكمة التجارية الصادرة بالأمر رقم (32) وتاريخ 15 / 1 / 1350 هـ، وكل حكم يتعارض مع أحكام هذا النظام.",
+          "text_for_index": "تلغى أحكام المواد (6 ،7 ،8 ،9 ،10) من نظام المحكمة التجارية الصادرة بالأمر رقم (32) وتاريخ 15 / 1 / 1350 هـ، وكل حكم يتعارض مع أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة الخامسة عشرة",
+      "text_verbatim": "على  وزير التجارة    إصدار اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+      "text_for_index": "على وزير التجارة إصدار اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "على  وزير التجارة    إصدار اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+          "text_for_index": "على وزير التجارة إصدار اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الدفاتر التجارية، المادة السادسة عشرة",
+      "text_verbatim": "ينشر هذا النظام بالجريدة الرسمية ، ويعمل به بعد ستة أشهر من تاريخ نشره.",
+      "text_for_index": "ينشر هذا النظام بالجريدة الرسمية ، ويعمل به بعد ستة أشهر من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aldfatr-altjaryh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ينشر هذا النظام بالجريدة الرسمية ، ويعمل به بعد ستة أشهر من تاريخ نشره.",
+          "text_for_index": "ينشر هذا النظام بالجريدة الرسمية ، ويعمل به بعد ستة أشهر من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

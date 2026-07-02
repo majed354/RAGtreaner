@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "slug": "nzam-jbayh-alzkah",
+    "title_ar": "نظام جباية الزكاة",
+    "status": "ساري",
+    "issue_date_hijri": "1370/01/01 هـ الموافق : 12/10/1950 مـ",
+    "issue_date_gregorian": "1950-10-12",
+    "publish_date_hijri": "1370/01/01 هـ الموافق : 12/10/1950 مـ",
+    "publish_date_gregorian": "1950-10-12",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/25fed59a-2790-4a77-ab11-a9a700f2c5fd/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-jbayh-alzkah.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-jbayh-alzkah.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1370/01/01 هـ الموافق : 12/10/1950 مـ",
+    "effective_date_gregorian": "1950-10-12",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 4,
+    "paragraph_count": 5,
+    "indexable_paragraph_count": 5,
+    "text_chars": 475,
+    "verbatim_chars": 491,
+    "citation_base_ar": "نظام جباية الزكاة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/25fed59a-2790-4a77-ab11-a9a700f2c5fd/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-jbayh-alzkah.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-jbayh-alzkah.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جباية الزكاة، المادة الأولى",
+      "text_verbatim": "تعتبر أحكام  المرسوم    رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370، خاصة بالأفراد والشركات الذين لا يحملون الرعوية السعودية.",
+      "text_for_index": "تعتبر أحكام المرسوم رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370، خاصة بالأفراد والشركات الذين لا يحملون الرعوية السعودية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jbayh-alzkah::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعتبر أحكام  المرسوم    رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370، خاصة بالأفراد والشركات الذين لا يحملون الرعوية السعودية.",
+          "text_for_index": "تعتبر أحكام المرسوم رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370، خاصة بالأفراد والشركات الذين لا يحملون الرعوية السعودية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جباية الزكاة، المادة الثانية",
+      "text_verbatim": "تستوفى من الأفراد والشركات الذين يحملون الرعوية السعودية  الزكاة الشرعية    وفقا لأحكام الشريعة الإسلامية السمحاء.",
+      "text_for_index": "تستوفى من الأفراد والشركات الذين يحملون الرعوية السعودية الزكاة الشرعية وفقا لأحكام الشريعة الإسلامية السمحاء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jbayh-alzkah::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تستوفى من الأفراد والشركات الذين يحملون الرعوية السعودية  الزكاة الشرعية    وفقا لأحكام الشريعة الإسلامية السمحاء.",
+          "text_for_index": "تستوفى من الأفراد والشركات الذين يحملون الرعوية السعودية الزكاة الشرعية وفقا لأحكام الشريعة الإسلامية السمحاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جباية الزكاة، المادة الثالثة",
+      "text_verbatim": "تعتبر أحكام هذا  المرسوم    نافذة اعتبارا من تاريخ تطبيق أحكام  المرسوم    رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370.",
+      "text_for_index": "تعتبر أحكام هذا المرسوم نافذة اعتبارا من تاريخ تطبيق أحكام المرسوم رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jbayh-alzkah::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعتبر أحكام هذا  المرسوم    نافذة اعتبارا من تاريخ تطبيق أحكام  المرسوم    رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370.",
+          "text_for_index": "تعتبر أحكام هذا المرسوم نافذة اعتبارا من تاريخ تطبيق أحكام المرسوم رقم (17 / 2 / 28 /3321) وتاريخ 21 المحرم 1370.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام جباية الزكاة، المادة الرابعة",
+      "text_verbatim": "يبلغ هذا المرسوم لمن يلزم لتنفيذ أحكامه.\n\nالتوقيع الملكي",
+      "text_for_index": "يبلغ هذا المرسوم لمن يلزم لتنفيذ أحكامه.\n\nالتوقيع الملكي",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-jbayh-alzkah::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يبلغ هذا المرسوم لمن يلزم لتنفيذ أحكامه.",
+          "text_for_index": "يبلغ هذا المرسوم لمن يلزم لتنفيذ أحكامه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-jbayh-alzkah::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "التوقيع الملكي",
+          "text_for_index": "التوقيع الملكي",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

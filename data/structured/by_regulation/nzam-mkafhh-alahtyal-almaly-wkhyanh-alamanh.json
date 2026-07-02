@@ -1,0 +1,503 @@
+{
+  "metadata": {
+    "slug": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh",
+    "title_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة",
+    "status": "ساري",
+    "issue_date_hijri": "1442/09/10 هـ الموافق : 22/04/2021 مـ",
+    "issue_date_gregorian": "2021-04-22",
+    "publish_date_hijri": "1442/09/18 هـ الموافق : 30/04/2021 مـ",
+    "publish_date_gregorian": "2021-04-30",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/905e11b3-4d66-496c-9c1b-ad240106367f/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1442/09/18 هـ الموافق : 30/04/2021 مـ",
+    "effective_date_gregorian": "2021-04-30",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 11,
+    "paragraph_count": 13,
+    "indexable_paragraph_count": 13,
+    "text_chars": 2416,
+    "verbatim_chars": 2416,
+    "citation_base_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/905e11b3-4d66-496c-9c1b-ad240106367f/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "commercial_fraud",
+        "cybercrime"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري",
+        "جرائم معلوماتية"
+      ],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الأولى",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز (سبع) سنوات، وبغرامة مالية لا تزيد على (خمسة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى على مال للغير دون وجه حق بارتكابه فعلاً (أو أكثر) ينطوي على استخدام أيٍّ من طرق الاحتيال، بما فيها الكذب، أو الخداع، أو الإيهام.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز (سبع) سنوات، وبغرامة مالية لا تزيد على (خمسة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى على مال للغير دون وجه حق بارتكابه فعلاً (أو أكثر) ينطوي على استخدام أيٍّ من طرق الاحتيال، بما فيها الكذب، أو الخداع، أو الإيهام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز (سبع) سنوات، وبغرامة مالية لا تزيد على (خمسة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى على مال للغير دون وجه حق بارتكابه فعلاً (أو أكثر) ينطوي على استخدام أيٍّ من طرق الاحتيال، بما فيها الكذب، أو الخداع، أو الإيهام.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز (سبع) سنوات، وبغرامة مالية لا تزيد على (خمسة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى على مال للغير دون وجه حق بارتكابه فعلاً (أو أكثر) ينطوي على استخدام أيٍّ من طرق الاحتيال، بما فيها الكذب، أو الخداع، أو الإيهام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الثانية",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز (خمس) سنوات، وبغرامة مالية لا تزيد على (ثلاثة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى دون وجه حق على مال سُلّم إليه بحكم عمله أو على ســبيل الأمانة، أو الشــراكة، أو الوديعــة، أو الإعارة، أو الإجـارة، أو الرهن، أو الوكالة، أو تصرف فيه بسوء نية، أو أحدث به ضرراً عمداً، وذلك في غير المال العام.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز (خمس) سنوات، وبغرامة مالية لا تزيد على (ثلاثة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى دون وجه حق على مال سُلّم إليه بحكم عمله أو على ســبيل الأمانة، أو الشــراكة، أو الوديعــة، أو الإعارة، أو الإجـارة، أو الرهن، أو الوكالة، أو تصرف فيه بسوء نية، أو أحدث به ضرراً عمداً، وذلك في غير المال العام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز (خمس) سنوات، وبغرامة مالية لا تزيد على (ثلاثة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى دون وجه حق على مال سُلّم إليه بحكم عمله أو على ســبيل الأمانة، أو الشــراكة، أو الوديعــة، أو الإعارة، أو الإجـارة، أو الرهن، أو الوكالة، أو تصرف فيه بسوء نية، أو أحدث به ضرراً عمداً، وذلك في غير المال العام.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز (خمس) سنوات، وبغرامة مالية لا تزيد على (ثلاثة) ملايين ريال، أو بإحدى هاتين العقوبتين؛ كل من استولى دون وجه حق على مال سُلّم إليه بحكم عمله أو على ســبيل الأمانة، أو الشــراكة، أو الوديعــة، أو الإعارة، أو الإجـارة، أو الرهن، أو الوكالة، أو تصرف فيه بسوء نية، أو أحدث به ضرراً عمداً، وذلك في غير المال العام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الثالثة",
+      "text_verbatim": "يعاقب كل من حرض غيره، على ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، أو اتفق معه، أو ساعده؛ إذا وقعت الجريمة بناء على هذا التحريض أو الاتفاق أو المساعدة، بما لا يتجاوز الحد الأعلى للعقوبة المقررة لها، ويعاقب بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها إذا لم تقع الجريمة الأصلية.",
+      "text_for_index": "يعاقب كل من حرض غيره، على ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، أو اتفق معه، أو ساعده؛ إذا وقعت الجريمة بناء على هذا التحريض أو الاتفاق أو المساعدة، بما لا يتجاوز الحد الأعلى للعقوبة المقررة لها، ويعاقب بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها إذا لم تقع الجريمة الأصلية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "يعاقب كل من حرض غيره، على ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، أو اتفق معه، أو ساعده؛ إذا وقعت الجريمة بناء على هذا التحريض أو الاتفاق أو المساعدة، بما لا يتجاوز الحد الأعلى للعقوبة المقررة لها، ويعاقب بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها إذا لم تقع الجريمة الأصلية.",
+          "text_for_index": "يعاقب كل من حرض غيره، على ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، أو اتفق معه، أو ساعده؛ إذا وقعت الجريمة بناء على هذا التحريض أو الاتفاق أو المساعدة، بما لا يتجاوز الحد الأعلى للعقوبة المقررة لها، ويعاقب بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة لها إذا لم تقع الجريمة الأصلية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الرابعة",
+      "text_verbatim": "يعاقب كل من شرع في القيام بأي من الجرائم المنصوص عليها في هذا النظام بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة على الجريمة التامة.",
+      "text_for_index": "يعاقب كل من شرع في القيام بأي من الجرائم المنصوص عليها في هذا النظام بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة على الجريمة التامة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب كل من شرع في القيام بأي من الجرائم المنصوص عليها في هذا النظام بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة على الجريمة التامة.",
+          "text_for_index": "يعاقب كل من شرع في القيام بأي من الجرائم المنصوص عليها في هذا النظام بما لا يتجاوز نصف الحد الأعلى للعقوبة المقررة على الجريمة التامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الخامسة",
+      "text_verbatim": "لا تقل العقوبات المحكوم بها عن نصف حدها الأعلى -المقرر في هذا النظام- ولا تتجاوز ضعفه، وذلك في أي من الحالتين الآتيتين:\n\n\t• إذا ارتكبت الجريمة من خلال عصابة منظمة.\n\n\t• حالة العود.",
+      "text_for_index": "لا تقل العقوبات المحكوم بها عن نصف حدها الأعلى -المقرر في هذا النظام- ولا تتجاوز ضعفه، وذلك في أي من الحالتين الآتيتين:\n\n • إذا ارتكبت الجريمة من خلال عصابة منظمة.\n\n • حالة العود.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "لا تقل العقوبات المحكوم بها عن نصف حدها الأعلى -المقرر في هذا النظام- ولا تتجاوز ضعفه، وذلك في أي من الحالتين الآتيتين:",
+          "text_for_index": "لا تقل العقوبات المحكوم بها عن نصف حدها الأعلى -المقرر في هذا النظام- ولا تتجاوز ضعفه، وذلك في أي من الحالتين الآتيتين:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• إذا ارتكبت الجريمة من خلال عصابة منظمة.",
+          "text_for_index": "• إذا ارتكبت الجريمة من خلال عصابة منظمة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• حالة العود.",
+          "text_for_index": "• حالة العود.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "anti_money_laundering"
+      ],
+      "topic_tags_ar": [
+        "مكافحة غسل الأموال"
+      ],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة السادسة",
+      "text_verbatim": "دون إخلال بحق الغير حسن النية، تُصادر بحكم قضائي الأدوات والآلات المستخدمة في ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، وكذلك المتحصلات المتحققة من ارتكابها.",
+      "text_for_index": "دون إخلال بحق الغير حسن النية، تُصادر بحكم قضائي الأدوات والآلات المستخدمة في ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، وكذلك المتحصلات المتحققة من ارتكابها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بحق الغير حسن النية، تُصادر بحكم قضائي الأدوات والآلات المستخدمة في ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، وكذلك المتحصلات المتحققة من ارتكابها.",
+          "text_for_index": "دون إخلال بحق الغير حسن النية، تُصادر بحكم قضائي الأدوات والآلات المستخدمة في ارتكاب أي من الجرائم المنصوص عليها في هذا النظام، وكذلك المتحصلات المتحققة من ارتكابها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة السابعة",
+      "text_verbatim": "يجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة -أو أكثر- من الصحف التي تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد أن يكتسب الحكم الصفة النهائية.",
+      "text_for_index": "يجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة -أو أكثر- من الصحف التي تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد أن يكتسب الحكم الصفة النهائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة -أو أكثر- من الصحف التي تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد أن يكتسب الحكم الصفة النهائية.",
+          "text_for_index": "يجوز تضمين الحكم الصادر بالعقوبة النص على نشر ملخصه على نفقة المحكوم عليه في صحيفة -أو أكثر- من الصحف التي تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع الجريمة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد أن يكتسب الحكم الصفة النهائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الثامنة",
+      "text_verbatim": "للمحكمة المختصة أن تعفي من العقوبات المنصوص عليها في هذا النظام كل من بادر من الجناة بإبلاغ السلطة المختصة بالجريمة قبل العلم بها وقبل وقوع الضرر، وإن كان الإبلاغ بعد العلم بالجريمة تعيّن للإعفاء أن يكون من شأن الإبلاغ ضبط باقي الجناة في حال تعددهم.",
+      "text_for_index": "للمحكمة المختصة أن تعفي من العقوبات المنصوص عليها في هذا النظام كل من بادر من الجناة بإبلاغ السلطة المختصة بالجريمة قبل العلم بها وقبل وقوع الضرر، وإن كان الإبلاغ بعد العلم بالجريمة تعيّن للإعفاء أن يكون من شأن الإبلاغ ضبط باقي الجناة في حال تعددهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "جزاء"
+          ],
+          "text_verbatim": "للمحكمة المختصة أن تعفي من العقوبات المنصوص عليها في هذا النظام كل من بادر من الجناة بإبلاغ السلطة المختصة بالجريمة قبل العلم بها وقبل وقوع الضرر، وإن كان الإبلاغ بعد العلم بالجريمة تعيّن للإعفاء أن يكون من شأن الإبلاغ ضبط باقي الجناة في حال تعددهم.",
+          "text_for_index": "للمحكمة المختصة أن تعفي من العقوبات المنصوص عليها في هذا النظام كل من بادر من الجناة بإبلاغ السلطة المختصة بالجريمة قبل العلم بها وقبل وقوع الضرر، وإن كان الإبلاغ بعد العلم بالجريمة تعيّن للإعفاء أن يكون من شأن الإبلاغ ضبط باقي الجناة في حال تعددهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة التاسعة",
+      "text_verbatim": "إذا شكل أي من الأفعال المشار إليها في المادتين (الأولى) و(الثانية) من هذا النظام؛ جريمة بموجب أنظمة أخرى؛ فتطبق العقوبة الأشد.",
+      "text_for_index": "إذا شكل أي من الأفعال المشار إليها في المادتين (الأولى) و(الثانية) من هذا النظام؛ جريمة بموجب أنظمة أخرى؛ فتطبق العقوبة الأشد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "إذا شكل أي من الأفعال المشار إليها في المادتين (الأولى) و(الثانية) من هذا النظام؛ جريمة بموجب أنظمة أخرى؛ فتطبق العقوبة الأشد.",
+          "text_for_index": "إذا شكل أي من الأفعال المشار إليها في المادتين (الأولى) و(الثانية) من هذا النظام؛ جريمة بموجب أنظمة أخرى؛ فتطبق العقوبة الأشد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة العاشرة",
+      "text_verbatim": "تتولى النيابة العامة التحقيق، والادعاء أمام المحكمة المختصة بالفصل في الجرائم الواردة في هذا النظام.",
+      "text_for_index": "تتولى النيابة العامة التحقيق، والادعاء أمام المحكمة المختصة بالفصل في الجرائم الواردة في هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتولى النيابة العامة التحقيق، والادعاء أمام المحكمة المختصة بالفصل في الجرائم الواردة في هذا النظام.",
+          "text_for_index": "تتولى النيابة العامة التحقيق، والادعاء أمام المحكمة المختصة بالفصل في الجرائم الواردة في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة، المادة الحادية عشرة",
+      "text_verbatim": "يعمل بهذا النظام بعد مضي (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام بعد مضي (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بهذا النظام بعد مضي (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام بعد مضي (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

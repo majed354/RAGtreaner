@@ -1,0 +1,1990 @@
+{
+  "metadata": {
+    "slug": "nzam-alhyyh-alaamh-llawqaf",
+    "title_ar": "نظام الهيئة العامة للأوقاف",
+    "status": "ساري",
+    "issue_date_hijri": "1437/02/26 هـ الموافق : 08/12/2015 مـ",
+    "issue_date_gregorian": "2015-12-08",
+    "publish_date_hijri": "1437/03/14 هـ الموافق : 25/12/2015 مـ",
+    "publish_date_gregorian": "2015-12-25",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cabff788-438d-4003-be74-a9a700f2bcde/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alhyyh-alaamh-llawqaf.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alhyyh-alaamh-llawqaf.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1437/03/14 هـ الموافق : 25/12/2015 مـ",
+    "effective_date_gregorian": "2015-12-25",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 25,
+    "paragraph_count": 96,
+    "indexable_paragraph_count": 96,
+    "text_chars": 14508,
+    "verbatim_chars": 14709,
+    "citation_base_ar": "نظام الهيئة العامة للأوقاف",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cabff788-438d-4003-be74-a9a700f2bcde/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alhyyh-alaamh-llawqaf.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alhyyh-alaamh-llawqaf.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "definition",
+        "condition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "تعريف",
+        "شرط",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:\n\n الهيئة :  الهيئة العامة للأوقاف.\n\n المجلس :  مجلس إدارة الهيئة.\n\n الرئيس :  رئيس المجلس.\n\n المحافظ :  محافظ الهيئة.\n\n الوقف العام :  الوقف المشروط على أوجه برّ عامة معينة بالذات أو بالوصف.\n\n الوقف الخاص (الأهلي) :  الوقف المشروط على معين من ذرية وأقارب بالذات أو بالوصف.\n\n الوقف المشترك :  الوقف الذي يشترك في شرطه أكثر من نوع من أنواع الوقف.\n\n الواقف :  من ينشئ الوقف.\n\n شرط الواقف :  الصيغة التي يحددها الواقف بشأن الوقف أو إيراده أو مصرفه أو ناظره، أو الموقوف عليه.\n\n الموقوف عليه :  المستفيد من الوقف وفق شرط الواقف.\n\n الناظر :  الشخص ذو الصفة الطبيعية أو الاعتبارية الذي يتولى نظارة الوقف.\n\n النظارة :  إجراء التصرفات التي تحقق الغبطة والمصلحة لعين الوقف وإيراده، وذلك بحفظه وإيجاره وتنميته وإصلاحه والمخاصمة فيه وصرف غلته، وفقاً لشرط الواقف.\n\n الإدارة :  ما يعهد به الناظر إلى غيره - سواء أكان شخصاً ذا صفة طبيعية أو اعتبارية - في شأن تصريف شؤون الوقف بحفظه وإيجاره وتنميته وإصلاحه.",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:\n\n الهيئة : الهيئة العامة للأوقاف.\n\n المجلس : مجلس إدارة الهيئة.\n\n الرئيس : رئيس المجلس.\n\n المحافظ : محافظ الهيئة.\n\n الوقف العام : الوقف المشروط على أوجه برّ عامة معينة بالذات أو بالوصف.\n\n الوقف الخاص (الأهلي) : الوقف المشروط على معين من ذرية وأقارب بالذات أو بالوصف.\n\n الوقف المشترك : الوقف الذي يشترك في شرطه أكثر من نوع من أنواع الوقف.\n\n الواقف : من ينشئ الوقف.\n\n شرط الواقف : الصيغة التي يحددها الواقف بشأن الوقف أو إيراده أو مصرفه أو ناظره، أو الموقوف عليه.\n\n الموقوف عليه : المستفيد من الوقف وفق شرط الواقف.\n\n الناظر : الشخص ذو الصفة الطبيعية أو الاعتبارية الذي يتولى نظارة الوقف.\n\n النظارة : إجراء التصرفات التي تحقق الغبطة والمصلحة لعين الوقف وإيراده، وذلك بحفظه وإيجاره وتنميته وإصلاحه والمخاصمة فيه وصرف غلته، وفقاً لشرط الواقف.\n\n الإدارة : ما يعهد به الناظر إلى غيره - سواء أكان شخصاً ذا صفة طبيعية أو اعتبارية - في شأن تصريف شؤون الوقف بحفظه وإيجاره وتنميته وإصلاحه.",
+      "paragraph_count": 14,
+      "indexable_paragraph_count": 14,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الهيئة :  الهيئة العامة للأوقاف.",
+          "text_for_index": "الهيئة : الهيئة العامة للأوقاف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "المجلس :  مجلس إدارة الهيئة.",
+          "text_for_index": "المجلس : مجلس إدارة الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الرئيس :  رئيس المجلس.",
+          "text_for_index": "الرئيس : رئيس المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "المحافظ :  محافظ الهيئة.",
+          "text_for_index": "المحافظ : محافظ الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "الوقف العام :  الوقف المشروط على أوجه برّ عامة معينة بالذات أو بالوصف.",
+          "text_for_index": "الوقف العام : الوقف المشروط على أوجه برّ عامة معينة بالذات أو بالوصف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "الوقف الخاص (الأهلي) :  الوقف المشروط على معين من ذرية وأقارب بالذات أو بالوصف.",
+          "text_for_index": "الوقف الخاص (الأهلي) : الوقف المشروط على معين من ذرية وأقارب بالذات أو بالوصف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "الوقف المشترك :  الوقف الذي يشترك في شرطه أكثر من نوع من أنواع الوقف.",
+          "text_for_index": "الوقف المشترك : الوقف الذي يشترك في شرطه أكثر من نوع من أنواع الوقف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الواقف :  من ينشئ الوقف.",
+          "text_for_index": "الواقف : من ينشئ الوقف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "شرط الواقف :  الصيغة التي يحددها الواقف بشأن الوقف أو إيراده أو مصرفه أو ناظره، أو الموقوف عليه.",
+          "text_for_index": "شرط الواقف : الصيغة التي يحددها الواقف بشأن الوقف أو إيراده أو مصرفه أو ناظره، أو الموقوف عليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "الموقوف عليه :  المستفيد من الوقف وفق شرط الواقف.",
+          "text_for_index": "الموقوف عليه : المستفيد من الوقف وفق شرط الواقف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الناظر :  الشخص ذو الصفة الطبيعية أو الاعتبارية الذي يتولى نظارة الوقف.",
+          "text_for_index": "الناظر : الشخص ذو الصفة الطبيعية أو الاعتبارية الذي يتولى نظارة الوقف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "النظارة :  إجراء التصرفات التي تحقق الغبطة والمصلحة لعين الوقف وإيراده، وذلك بحفظه وإيجاره وتنميته وإصلاحه والمخاصمة فيه وصرف غلته، وفقاً لشرط الواقف.",
+          "text_for_index": "النظارة : إجراء التصرفات التي تحقق الغبطة والمصلحة لعين الوقف وإيراده، وذلك بحفظه وإيجاره وتنميته وإصلاحه والمخاصمة فيه وصرف غلته، وفقاً لشرط الواقف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الإدارة :  ما يعهد به الناظر إلى غيره - سواء أكان شخصاً ذا صفة طبيعية أو اعتبارية - في شأن تصريف شؤون الوقف بحفظه وإيجاره وتنميته وإصلاحه.",
+          "text_for_index": "الإدارة : ما يعهد به الناظر إلى غيره - سواء أكان شخصاً ذا صفة طبيعية أو اعتبارية - في شأن تصريف شؤون الوقف بحفظه وإيجاره وتنميته وإصلاحه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثانية",
+      "text_verbatim": "الهيئة العامة للأوقاف هيئة عامة ذات شخصية اعتبارية مستقلة، تتمتع بالاستقلال المالي والإداري، وترتبط برئيس مجلس الوزراء، وتباشر المهمات والاختصاصات المنوطة بها بمقتضى هذا النظام، ويكون مقرها الرئيس في مدينة الرياض، ولها إنشاء فروع داخل المملكة بحسب الحاجة.",
+      "text_for_index": "الهيئة العامة للأوقاف هيئة عامة ذات شخصية اعتبارية مستقلة، تتمتع بالاستقلال المالي والإداري، وترتبط برئيس مجلس الوزراء، وتباشر المهمات والاختصاصات المنوطة بها بمقتضى هذا النظام، ويكون مقرها الرئيس في مدينة الرياض، ولها إنشاء فروع داخل المملكة بحسب الحاجة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الهيئة العامة للأوقاف هيئة عامة ذات شخصية اعتبارية مستقلة، تتمتع بالاستقلال المالي والإداري، وترتبط برئيس مجلس الوزراء، وتباشر المهمات والاختصاصات المنوطة بها بمقتضى هذا النظام، ويكون مقرها الرئيس في مدينة الرياض، ولها إنشاء فروع داخل المملكة بحسب الحاجة.",
+          "text_for_index": "الهيئة العامة للأوقاف هيئة عامة ذات شخصية اعتبارية مستقلة، تتمتع بالاستقلال المالي والإداري، وترتبط برئيس مجلس الوزراء، وتباشر المهمات والاختصاصات المنوطة بها بمقتضى هذا النظام، ويكون مقرها الرئيس في مدينة الرياض، ولها إنشاء فروع داخل المملكة بحسب الحاجة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثالثة",
+      "text_verbatim": "تهدف الهيئة إلى تنظيم الأوقاف، والمحافظة عليها، وتطويرها، وتنميتها؛ بما يحقق شروط واقفيها، ويعزز دورها في التنمية الاقتصادية والاجتماعية والتكافل الاجتماعي، وفقاً لمقاصد الشريعة الإسلامية والأنظمة.",
+      "text_for_index": "تهدف الهيئة إلى تنظيم الأوقاف، والمحافظة عليها، وتطويرها، وتنميتها؛ بما يحقق شروط واقفيها، ويعزز دورها في التنمية الاقتصادية والاجتماعية والتكافل الاجتماعي، وفقاً لمقاصد الشريعة الإسلامية والأنظمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "تهدف الهيئة إلى تنظيم الأوقاف، والمحافظة عليها، وتطويرها، وتنميتها؛ بما يحقق شروط واقفيها، ويعزز دورها في التنمية الاقتصادية والاجتماعية والتكافل الاجتماعي، وفقاً لمقاصد الشريعة الإسلامية والأنظمة.",
+          "text_for_index": "تهدف الهيئة إلى تنظيم الأوقاف، والمحافظة عليها، وتطويرها، وتنميتها؛ بما يحقق شروط واقفيها، ويعزز دورها في التنمية الاقتصادية والاجتماعية والتكافل الاجتماعي، وفقاً لمقاصد الشريعة الإسلامية والأنظمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الرابعة",
+      "text_verbatim": "1 - تشرف الهيئة على جميع الأوقاف العامة، والخاصة (الأهلية)، والمشتركة، وفقاً لما ورد في الفقرة (5) من المادة (الخامسة) من هذا النظام.\n2 - تشرف الهيئة على أعمال النظار الذين يعينهم الواقفون في حدود ما تقضي به الأنظمة، وبما لا يخالف شروط الواقفين، أو يدخل في أعمال النظارة.",
+      "text_for_index": "1 - تشرف الهيئة على جميع الأوقاف العامة، والخاصة (الأهلية)، والمشتركة، وفقاً لما ورد في الفقرة (5) من المادة (الخامسة) من هذا النظام.\n2 - تشرف الهيئة على أعمال النظار الذين يعينهم الواقفون في حدود ما تقضي به الأنظمة، وبما لا يخالف شروط الواقفين، أو يدخل في أعمال النظارة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "1 - تشرف الهيئة على جميع الأوقاف العامة، والخاصة (الأهلية)، والمشتركة، وفقاً لما ورد في الفقرة (5) من المادة (الخامسة) من هذا النظام.\n2 - تشرف الهيئة على أعمال النظار الذين يعينهم الواقفون في حدود ما تقضي به الأنظمة، وبما لا يخالف شروط الواقفين، أو يدخل في أعمال النظارة.",
+          "text_for_index": "1 - تشرف الهيئة على جميع الأوقاف العامة، والخاصة (الأهلية)، والمشتركة، وفقاً لما ورد في الفقرة (5) من المادة (الخامسة) من هذا النظام.\n2 - تشرف الهيئة على أعمال النظار الذين يعينهم الواقفون في حدود ما تقضي به الأنظمة، وبما لا يخالف شروط الواقفين، أو يدخل في أعمال النظارة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الخامسة",
+      "text_verbatim": "تتولى الهيئة المهمات الآتية:\n\n 1 - تسجيل جميع الأوقاف في المملكة بعد توثيقها.\n\n2 - حصر جميع الأموال الموقوفة، وبناء قاعدة معلومات عامة عنها.\n\n3 - النظارة على الأوقاف الآتية:\n أ - الأوقاف العامة والخاصة (الأهلية) والمشتركة؛ إلا إذا اشترط الواقف أن يتولى نظارة الوقف شخص أو جهة غير الهيئة.\nب - أوقاف مواقيت الحج والعمرة.",
+      "text_for_index": "تتولى الهيئة المهمات الآتية:\n\n 1 - تسجيل جميع الأوقاف في المملكة بعد توثيقها.\n\n2 - حصر جميع الأموال الموقوفة، وبناء قاعدة معلومات عامة عنها.\n\n3 - النظارة على الأوقاف الآتية:\n أ - الأوقاف العامة والخاصة (الأهلية) والمشتركة؛ إلا إذا اشترط الواقف أن يتولى نظارة الوقف شخص أو جهة غير الهيئة.\nب - أوقاف مواقيت الحج والعمرة.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تتولى الهيئة المهمات الآتية:",
+          "text_for_index": "تتولى الهيئة المهمات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "1 - تسجيل جميع الأوقاف في المملكة بعد توثيقها.",
+          "text_for_index": "1 - تسجيل جميع الأوقاف في المملكة بعد توثيقها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "2 - حصر جميع الأموال الموقوفة، وبناء قاعدة معلومات عامة عنها.",
+          "text_for_index": "2 - حصر جميع الأموال الموقوفة، وبناء قاعدة معلومات عامة عنها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-5::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "3 - النظارة على الأوقاف الآتية:\n أ - الأوقاف العامة والخاصة (الأهلية) والمشتركة؛ إلا إذا اشترط الواقف أن يتولى نظارة الوقف شخص أو جهة غير الهيئة.\nب - أوقاف مواقيت الحج والعمرة.",
+          "text_for_index": "3 - النظارة على الأوقاف الآتية:\n أ - الأوقاف العامة والخاصة (الأهلية) والمشتركة؛ إلا إذا اشترط الواقف أن يتولى نظارة الوقف شخص أو جهة غير الهيئة.\nب - أوقاف مواقيت الحج والعمرة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "guardianship",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة السادسة",
+      "text_verbatim": "• يكون للهيئة مجلس إدارة يشكل من رئيس يعين بأمر من رئيس مجلس الوزراء، وخمسة عشر عضواً على النحو الآتي:\n\t\n\t\t\n\t\t\t\n\t\t\t\tأ.\n\t\t\t\tالمحافظ\n\t\t\t\tعضواً ونائب الرئيس\n\t\t\t\n\t\t\t\n\t\t\t\tب.\n\t\t\t\tممثل من وزارة الشؤون الإسلامية والأوقاف والدعوة والإرشاد\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tج.\n\t\t\t\t ممثل وزارة العدل\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tد.\n\t\t\t\tممثل من الرئاسة العامة لشؤون المسجد الحرام والمسجد النبوي\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tهـ.\n\t\t\t\tممثل من وزارة المالية\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tو.\n\t\t\t\tممثل من وزارة الشؤون الاجتماعية\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tز.\n\t\t\t\tممثل من وزارة التعليم\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tح.\n\t\t\t\tممثل من الهيئة العامة للسياحة والتراث الوطني\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tط.\n\t\t\t\tممثل من الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tي.\n\t\t\t\tممثل من الجمعيات والمؤسسات الخيرية التي لها نشاط في مجال الأوقاف\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tك.\n\t\t\t\tأحد رجال الأعمال الذين لهم أوقاف\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tل.\n\t\t\t\tاثنين من المتخصصين البارزين في مجال الاقتصاد والاستثمار\n\t\t\t\tعضوين\n\t\t\t\n\t\t\t\n\t\t\t\tم.\n\t\t\t\tأحد المختصين الشرعيين في المعاملات المالية والاقتصادية\n\t\t\t\tعضواً\n\t\t\t\n\t\t\t\n\t\t\t\tن.\n\t\t\t\tممثل من المؤسسات الوقفية الخاصة\n\t\t\t\tعضواً\n\t\t\t\n\t\t\n\t\n\n\t\n\n\t\n\n\t•\n\t- يجب ألا تقل مرتبة ممثلي الجهات المشار إليها في الفقرات ( ب، ج، د، هـ، و، ز، ح، ط) عن المرتبة ( الرابعة عشرة) أو مايعادلها.\n\n\t\n\n\t• يعين الأعضاء المشار إليهم في الفقرات (ي، ك، ل، م، ن) بقرار مجلس الوزراء بناء على ترشيح من الرئيس لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.\n\n\t•  تحدد مكافأت حضور جلسات المجلس للرئيس والأعضاء بقرار مجلس الوزراء.",
+      "text_for_index": "• يكون للهيئة مجلس إدارة يشكل من رئيس يعين بأمر من رئيس مجلس الوزراء، وخمسة عشر عضواً على النحو الآتي:\n \n \n \n أ.\n المحافظ\n عضواً ونائب الرئيس\n \n \n ب.\n ممثل من وزارة الشؤون الإسلامية والأوقاف والدعوة والإرشاد\n عضواً\n \n \n ج.\n ممثل وزارة العدل\n عضواً\n \n \n د.\n ممثل من الرئاسة العامة لشؤون المسجد الحرام والمسجد النبوي\n عضواً\n \n \n هـ.\n ممثل من وزارة المالية\n عضواً\n \n \n و.\n ممثل من وزارة الشؤون الاجتماعية\n عضواً\n \n \n ز.\n ممثل من وزارة التعليم\n عضواً\n \n \n ح.\n ممثل من الهيئة العامة للسياحة والتراث الوطني\n عضواً\n \n \n ط.\n ممثل من الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم\n عضواً\n \n \n ي.\n ممثل من الجمعيات والمؤسسات الخيرية التي لها نشاط في مجال الأوقاف\n عضواً\n \n \n ك.\n أحد رجال الأعمال الذين لهم أوقاف\n عضواً\n \n \n ل.\n اثنين من المتخصصين البارزين في مجال الاقتصاد والاستثمار\n عضوين\n \n \n م.\n أحد المختصين الشرعيين في المعاملات المالية والاقتصادية\n عضواً\n \n \n ن.\n ممثل من المؤسسات الوقفية الخاصة\n عضواً\n \n \n \n\n \n\n \n\n •\n - يجب ألا تقل مرتبة ممثلي الجهات المشار إليها في الفقرات ( ب، ج، د، هـ، و، ز، ح، ط) عن المرتبة ( الرابعة عشرة) أو مايعادلها.\n\n \n\n • يعين الأعضاء المشار إليهم في الفقرات (ي، ك، ل، م، ن) بقرار مجلس الوزراء بناء على ترشيح من الرئيس لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.\n\n • تحدد مكافأت حضور جلسات المجلس للرئيس والأعضاء بقرار مجلس الوزراء.",
+      "paragraph_count": 18,
+      "indexable_paragraph_count": 18,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يكون للهيئة مجلس إدارة يشكل من رئيس يعين بأمر من رئيس مجلس الوزراء، وخمسة عشر عضواً على النحو الآتي:",
+          "text_for_index": "• يكون للهيئة مجلس إدارة يشكل من رئيس يعين بأمر من رئيس مجلس الوزراء، وخمسة عشر عضواً على النحو الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ.\n\t\t\t\tالمحافظ\n\t\t\t\tعضواً ونائب الرئيس",
+          "text_for_index": "أ.\n المحافظ\n عضواً ونائب الرئيس",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب.\n\t\t\t\tممثل من وزارة الشؤون الإسلامية والأوقاف والدعوة والإرشاد\n\t\t\t\tعضواً",
+          "text_for_index": "ب.\n ممثل من وزارة الشؤون الإسلامية والأوقاف والدعوة والإرشاد\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج.\n\t\t\t\t ممثل وزارة العدل\n\t\t\t\tعضواً",
+          "text_for_index": "ج.\n ممثل وزارة العدل\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "د.\n\t\t\t\tممثل من الرئاسة العامة لشؤون المسجد الحرام والمسجد النبوي\n\t\t\t\tعضواً",
+          "text_for_index": "د.\n ممثل من الرئاسة العامة لشؤون المسجد الحرام والمسجد النبوي\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "هـ.\n\t\t\t\tممثل من وزارة المالية\n\t\t\t\tعضواً",
+          "text_for_index": "هـ.\n ممثل من وزارة المالية\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "و.\n\t\t\t\tممثل من وزارة الشؤون الاجتماعية\n\t\t\t\tعضواً",
+          "text_for_index": "و.\n ممثل من وزارة الشؤون الاجتماعية\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ز.\n\t\t\t\tممثل من وزارة التعليم\n\t\t\t\tعضواً",
+          "text_for_index": "ز.\n ممثل من وزارة التعليم\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ح.\n\t\t\t\tممثل من الهيئة العامة للسياحة والتراث الوطني\n\t\t\t\tعضواً",
+          "text_for_index": "ح.\n ممثل من الهيئة العامة للسياحة والتراث الوطني\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ط.\n\t\t\t\tممثل من الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم\n\t\t\t\tعضواً",
+          "text_for_index": "ط.\n ممثل من الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ي.\n\t\t\t\tممثل من الجمعيات والمؤسسات الخيرية التي لها نشاط في مجال الأوقاف\n\t\t\t\tعضواً",
+          "text_for_index": "ي.\n ممثل من الجمعيات والمؤسسات الخيرية التي لها نشاط في مجال الأوقاف\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ك.\n\t\t\t\tأحد رجال الأعمال الذين لهم أوقاف\n\t\t\t\tعضواً",
+          "text_for_index": "ك.\n أحد رجال الأعمال الذين لهم أوقاف\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ل.\n\t\t\t\tاثنين من المتخصصين البارزين في مجال الاقتصاد والاستثمار\n\t\t\t\tعضوين",
+          "text_for_index": "ل.\n اثنين من المتخصصين البارزين في مجال الاقتصاد والاستثمار\n عضوين",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "م.\n\t\t\t\tأحد المختصين الشرعيين في المعاملات المالية والاقتصادية\n\t\t\t\tعضواً",
+          "text_for_index": "م.\n أحد المختصين الشرعيين في المعاملات المالية والاقتصادية\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ن.\n\t\t\t\tممثل من المؤسسات الوقفية الخاصة\n\t\t\t\tعضواً",
+          "text_for_index": "ن.\n ممثل من المؤسسات الوقفية الخاصة\n عضواً",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "•\n\t- يجب ألا تقل مرتبة ممثلي الجهات المشار إليها في الفقرات ( ب، ج، د، هـ، و، ز، ح، ط) عن المرتبة ( الرابعة عشرة) أو مايعادلها.",
+          "text_for_index": "•\n - يجب ألا تقل مرتبة ممثلي الجهات المشار إليها في الفقرات ( ب، ج، د، هـ، و، ز، ح، ط) عن المرتبة ( الرابعة عشرة) أو مايعادلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يعين الأعضاء المشار إليهم في الفقرات (ي، ك، ل، م، ن) بقرار مجلس الوزراء بناء على ترشيح من الرئيس لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.",
+          "text_for_index": "• يعين الأعضاء المشار إليهم في الفقرات (ي، ك، ل، م، ن) بقرار مجلس الوزراء بناء على ترشيح من الرئيس لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-6::paragraph-18",
+          "paragraph_index": 18,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "•  تحدد مكافأت حضور جلسات المجلس للرئيس والأعضاء بقرار مجلس الوزراء.",
+          "text_for_index": "• تحدد مكافأت حضور جلسات المجلس للرئيس والأعضاء بقرار مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة :",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة السابعة",
+      "text_verbatim": "المجلس هو السلطة العليا المشرفة على إدارة شؤون الهيئة وتصريف أمورها، وله اتخاذ القرارات اللازمة لتحقيق أغراضها في حدود أحكام هذا النظام، وعلى وجه الخصوص ما يأتي:\n\n1 - اقتراح الأنظمة المتعلقة بنشاط الأوقاف، ورفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات النظامية المتبعة.\n2 - وضع الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، ومراجعتها، وتقويمها، والعمل على تطويرها وتحديثها.\n3 - إقرار الهيكل التنظيمي للهيئة، ولوائحها (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية.\n4 - الموافقة على مشروع ميزانية الأوقاف - التي تكون الهيئة ناظرة عليها - وحسابها الختامي، وتقرير مراجع الحسابات.\n5 - الموافقة على مشروع ميزانية الهيئة، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي؛ تمهيداً لرفعها بحسب الإجراءات المتبعة.\n6 - الموافقة على التصرف في أصول الأوقاف التي تكون الهيئة ناظرة عليها، بقصد تنميتها وبما يحقق شرط الواقف؛ سواء ببيعها وشراء بديل عنها، أو الدخول بها لتصبح حصة في شركة، أو غير ذلك من المعاوضات. وذلك وفقاً لاختصاصات المجلس، وبحسب الضوابط الشرعية والإجراءات التي تبينها لائحة الاستثمار.\n7 - الموافقة على إنشاء صناديق ومحافظ استثمارية وقفية، وتأسيس مؤسسات وشركات وقفية، أو المشاركة في تأسيسها، أو تملك حصص في شركات قائمة، وذلك وفقاً للإجراءات النظامية المتبعة.\n8 - الموافقة على المشروعات التي تنفذ من أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.\n9 - الموافقة على الحصول على قروض لتمويل المشروعات الوقفية التي تكون الهيئة ناظرة عليها أو مديرة لها، وصيانة الأوقاف القائمة منها وتطويرها؛ بما يحقق شرط الواقف، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.\n10 - قبول الأموال الموقوفة على الهيئة، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.\n11 - إقرار الآلية التي يتم بموجبها حصر الأوقاف، وتسجيلها، وتوثيقها، والمحافظة عليها من أي تعدٍّ قد يقع عليها.\n12 - إقرار برامج للتوعية بمكانة الوقف، ودوره الاجتماعي والاقتصادي.\n13 - إقرار إنشاء فروع للهيئة داخل المملكة بحسب الحاجة.\n14 - تكوين اللجان المتخصصة الدائمة والمؤقتة، من بين أعضائه أو من غيرهم، واعتماد إجراءات عملها، وتحديد واجبات أعضائها ومكافآتهم، وذلك دون الإخلال بما ورد في المادتين (الحادية عشرة) و(الثانية عشرة) من هذا النظام.\n15 - الاستعانة بمن يلزم من الخبراء والمستشارين، والتعاقد مع من تدعو الحاجة إليهم وفق القواعد التي يحددها، وتحديد مكافآتهم.\nويجوز للمجلس تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+      "text_for_index": "المجلس هو السلطة العليا المشرفة على إدارة شؤون الهيئة وتصريف أمورها، وله اتخاذ القرارات اللازمة لتحقيق أغراضها في حدود أحكام هذا النظام، وعلى وجه الخصوص ما يأتي:\n\n1 - اقتراح الأنظمة المتعلقة بنشاط الأوقاف، ورفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات النظامية المتبعة.\n2 - وضع الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، ومراجعتها، وتقويمها، والعمل على تطويرها وتحديثها.\n3 - إقرار الهيكل التنظيمي للهيئة، ولوائحها (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية.\n4 - الموافقة على مشروع ميزانية الأوقاف - التي تكون الهيئة ناظرة عليها - وحسابها الختامي، وتقرير مراجع الحسابات.\n5 - الموافقة على مشروع ميزانية الهيئة، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي؛ تمهيداً لرفعها بحسب الإجراءات المتبعة.\n6 - الموافقة على التصرف في أصول الأوقاف التي تكون الهيئة ناظرة عليها، بقصد تنميتها وبما يحقق شرط الواقف؛ سواء ببيعها وشراء بديل عنها، أو الدخول بها لتصبح حصة في شركة، أو غير ذلك من المعاوضات. وذلك وفقاً لاختصاصات المجلس، وبحسب الضوابط الشرعية والإجراءات التي تبينها لائحة الاستثمار.\n7 - الموافقة على إنشاء صناديق ومحافظ استثمارية وقفية، وتأسيس مؤسسات وشركات وقفية، أو المشاركة في تأسيسها، أو تملك حصص في شركات قائمة، وذلك وفقاً للإجراءات النظامية المتبعة.\n8 - الموافقة على المشروعات التي تنفذ من أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.\n9 - الموافقة على الحصول على قروض لتمويل المشروعات الوقفية التي تكون الهيئة ناظرة عليها أو مديرة لها، وصيانة الأوقاف القائمة منها وتطويرها؛ بما يحقق شرط الواقف، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.\n10 - قبول الأموال الموقوفة على الهيئة، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.\n11 - إقرار الآلية التي يتم بموجبها حصر الأوقاف، وتسجيلها، وتوثيقها، والمحافظة عليها من أي تعدٍّ قد يقع عليها.\n12 - إقرار برامج للتوعية بمكانة الوقف، ودوره الاجتماعي والاقتصادي.\n13 - إقرار إنشاء فروع للهيئة داخل المملكة بحسب الحاجة.\n14 - تكوين اللجان المتخصصة الدائمة والمؤقتة، من بين أعضائه أو من غيرهم، واعتماد إجراءات عملها، وتحديد واجبات أعضائها ومكافآتهم، وذلك دون الإخلال بما ورد في المادتين (الحادية عشرة) و(الثانية عشرة) من هذا النظام.\n15 - الاستعانة بمن يلزم من الخبراء والمستشارين، والتعاقد مع من تدعو الحاجة إليهم وفق القواعد التي يحددها، وتحديد مكافآتهم.\nويجوز للمجلس تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "المجلس هو السلطة العليا المشرفة على إدارة شؤون الهيئة وتصريف أمورها، وله اتخاذ القرارات اللازمة لتحقيق أغراضها في حدود أحكام هذا النظام، وعلى وجه الخصوص ما يأتي:",
+          "text_for_index": "المجلس هو السلطة العليا المشرفة على إدارة شؤون الهيئة وتصريف أمورها، وله اتخاذ القرارات اللازمة لتحقيق أغراضها في حدود أحكام هذا النظام، وعلى وجه الخصوص ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "1 - اقتراح الأنظمة المتعلقة بنشاط الأوقاف، ورفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات النظامية المتبعة.\n2 - وضع الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، ومراجعتها، وتقويمها، والعمل على تطويرها وتحديثها.\n3 - إقرار الهيكل التنظيمي للهيئة، ولوائحها (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية.\n4 - الموافقة على مشروع ميزانية الأوقاف - التي تكون الهيئة ناظرة عليها - وحسابها الختامي، وتقرير مراجع الحسابات.\n5 - الموافقة على مشروع ميزانية الهيئة، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي؛ تمهيداً لرفعها بحسب الإجراءات المتبعة.",
+          "text_for_index": "1 - اقتراح الأنظمة المتعلقة بنشاط الأوقاف، ورفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات النظامية المتبعة.\n2 - وضع الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، ومراجعتها، وتقويمها، والعمل على تطويرها وتحديثها.\n3 - إقرار الهيكل التنظيمي للهيئة، ولوائحها (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية.\n4 - الموافقة على مشروع ميزانية الأوقاف - التي تكون الهيئة ناظرة عليها - وحسابها الختامي، وتقرير مراجع الحسابات.\n5 - الموافقة على مشروع ميزانية الهيئة، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي؛ تمهيداً لرفعها بحسب الإجراءات المتبعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "6 - الموافقة على التصرف في أصول الأوقاف التي تكون الهيئة ناظرة عليها، بقصد تنميتها وبما يحقق شرط الواقف؛ سواء ببيعها وشراء بديل عنها، أو الدخول بها لتصبح حصة في شركة، أو غير ذلك من المعاوضات. وذلك وفقاً لاختصاصات المجلس، وبحسب الضوابط الشرعية والإجراءات التي تبينها لائحة الاستثمار.\n7 - الموافقة على إنشاء صناديق ومحافظ استثمارية وقفية، وتأسيس مؤسسات وشركات وقفية، أو المشاركة في تأسيسها، أو تملك حصص في شركات قائمة، وذلك وفقاً للإجراءات النظامية المتبعة.\n8 - الموافقة على المشروعات التي تنفذ من أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.",
+          "text_for_index": "6 - الموافقة على التصرف في أصول الأوقاف التي تكون الهيئة ناظرة عليها، بقصد تنميتها وبما يحقق شرط الواقف؛ سواء ببيعها وشراء بديل عنها، أو الدخول بها لتصبح حصة في شركة، أو غير ذلك من المعاوضات. وذلك وفقاً لاختصاصات المجلس، وبحسب الضوابط الشرعية والإجراءات التي تبينها لائحة الاستثمار.\n7 - الموافقة على إنشاء صناديق ومحافظ استثمارية وقفية، وتأسيس مؤسسات وشركات وقفية، أو المشاركة في تأسيسها، أو تملك حصص في شركات قائمة، وذلك وفقاً للإجراءات النظامية المتبعة.\n8 - الموافقة على المشروعات التي تنفذ من أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "9 - الموافقة على الحصول على قروض لتمويل المشروعات الوقفية التي تكون الهيئة ناظرة عليها أو مديرة لها، وصيانة الأوقاف القائمة منها وتطويرها؛ بما يحقق شرط الواقف، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.\n10 - قبول الأموال الموقوفة على الهيئة، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.\n11 - إقرار الآلية التي يتم بموجبها حصر الأوقاف، وتسجيلها، وتوثيقها، والمحافظة عليها من أي تعدٍّ قد يقع عليها.\n12 - إقرار برامج للتوعية بمكانة الوقف، ودوره الاجتماعي والاقتصادي.\n13 - إقرار إنشاء فروع للهيئة داخل المملكة بحسب الحاجة.",
+          "text_for_index": "9 - الموافقة على الحصول على قروض لتمويل المشروعات الوقفية التي تكون الهيئة ناظرة عليها أو مديرة لها، وصيانة الأوقاف القائمة منها وتطويرها؛ بما يحقق شرط الواقف، وذلك وفقاً لاختصاصات المجلس التي تحددها لائحة الاستثمار.\n10 - قبول الأموال الموقوفة على الهيئة، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.\n11 - إقرار الآلية التي يتم بموجبها حصر الأوقاف، وتسجيلها، وتوثيقها، والمحافظة عليها من أي تعدٍّ قد يقع عليها.\n12 - إقرار برامج للتوعية بمكانة الوقف، ودوره الاجتماعي والاقتصادي.\n13 - إقرار إنشاء فروع للهيئة داخل المملكة بحسب الحاجة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-7::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "14 - تكوين اللجان المتخصصة الدائمة والمؤقتة، من بين أعضائه أو من غيرهم، واعتماد إجراءات عملها، وتحديد واجبات أعضائها ومكافآتهم، وذلك دون الإخلال بما ورد في المادتين (الحادية عشرة) و(الثانية عشرة) من هذا النظام.\n15 - الاستعانة بمن يلزم من الخبراء والمستشارين، والتعاقد مع من تدعو الحاجة إليهم وفق القواعد التي يحددها، وتحديد مكافآتهم.\nويجوز للمجلس تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+          "text_for_index": "14 - تكوين اللجان المتخصصة الدائمة والمؤقتة، من بين أعضائه أو من غيرهم، واعتماد إجراءات عملها، وتحديد واجبات أعضائها ومكافآتهم، وذلك دون الإخلال بما ورد في المادتين (الحادية عشرة) و(الثانية عشرة) من هذا النظام.\n15 - الاستعانة بمن يلزم من الخبراء والمستشارين، والتعاقد مع من تدعو الحاجة إليهم وفق القواعد التي يحددها، وتحديد مكافآتهم.\nويجوز للمجلس تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثامنة",
+      "text_verbatim": "1- يجتمع المجلس مرة - على الأقل - كل شهرين بناء على دعوة من الرئيس، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره الرئيس، ويتعين أن تكون الدعوة مصحوبة بجدول أعمال الاجتماع. وعلى الرئيس أن يدعو المجلس إلى الاجتماع متى طلب ذلك أربعة من أعضائه.\n2 - يشترط لصحة الاجتماع حضور أغلبية الأعضاء بمن فيهم الرئيس أو نائبه، وتصدر القرارات بأغلبية المجلس، وعند التساوي يرجح الجانب الذي صوت معه رئيس الاجتماع.\n3 - يعقد المجلس اجتماعاته في مقر الهيئة، وله - عند الاقتضاء - أن يعقدها في مكان آخر داخل المملكة.\n4 - تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع، والأعضاء الحاضرون.\n5 - للمجلس دعوة من يرى الاستعانة بهم من المتخصصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم الحق في التصويت.\n6 - لا يجوز للعضو تفويض شخص آخر للتصويت عنه عند غيابه، وللعضو الحاضر تسجيل اعتراضه الذي أبداه في الجلسة وأسباب الاعتراض ضمن محضر المجلس.\n7 - لا يجوز للعضو أن يفشي شيئاً مما وقف عليه من أسرار الهيئة بسبب عضويته في المجلس.\n8 - يكون للمجلس أمين عام يصدر بتعيينه قرار من المجلس.\n9 - يضع المجلس لائحة داخلية لسير أعماله بما يتفق مع أحكام هذا النظام.",
+      "text_for_index": "1- يجتمع المجلس مرة - على الأقل - كل شهرين بناء على دعوة من الرئيس، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره الرئيس، ويتعين أن تكون الدعوة مصحوبة بجدول أعمال الاجتماع. وعلى الرئيس أن يدعو المجلس إلى الاجتماع متى طلب ذلك أربعة من أعضائه.\n2 - يشترط لصحة الاجتماع حضور أغلبية الأعضاء بمن فيهم الرئيس أو نائبه، وتصدر القرارات بأغلبية المجلس، وعند التساوي يرجح الجانب الذي صوت معه رئيس الاجتماع.\n3 - يعقد المجلس اجتماعاته في مقر الهيئة، وله - عند الاقتضاء - أن يعقدها في مكان آخر داخل المملكة.\n4 - تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع، والأعضاء الحاضرون.\n5 - للمجلس دعوة من يرى الاستعانة بهم من المتخصصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم الحق في التصويت.\n6 - لا يجوز للعضو تفويض شخص آخر للتصويت عنه عند غيابه، وللعضو الحاضر تسجيل اعتراضه الذي أبداه في الجلسة وأسباب الاعتراض ضمن محضر المجلس.\n7 - لا يجوز للعضو أن يفشي شيئاً مما وقف عليه من أسرار الهيئة بسبب عضويته في المجلس.\n8 - يكون للمجلس أمين عام يصدر بتعيينه قرار من المجلس.\n9 - يضع المجلس لائحة داخلية لسير أعماله بما يتفق مع أحكام هذا النظام.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- يجتمع المجلس مرة - على الأقل - كل شهرين بناء على دعوة من الرئيس، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره الرئيس، ويتعين أن تكون الدعوة مصحوبة بجدول أعمال الاجتماع. وعلى الرئيس أن يدعو المجلس إلى الاجتماع متى طلب ذلك أربعة من أعضائه.\n2 - يشترط لصحة الاجتماع حضور أغلبية الأعضاء بمن فيهم الرئيس أو نائبه، وتصدر القرارات بأغلبية المجلس، وعند التساوي يرجح الجانب الذي صوت معه رئيس الاجتماع.\n3 - يعقد المجلس اجتماعاته في مقر الهيئة، وله - عند الاقتضاء - أن يعقدها في مكان آخر داخل المملكة.\n4 - تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع، والأعضاء الحاضرون.\n5 - للمجلس دعوة من يرى الاستعانة بهم من المتخصصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم الحق في التصويت.",
+          "text_for_index": "1- يجتمع المجلس مرة - على الأقل - كل شهرين بناء على دعوة من الرئيس، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره الرئيس، ويتعين أن تكون الدعوة مصحوبة بجدول أعمال الاجتماع. وعلى الرئيس أن يدعو المجلس إلى الاجتماع متى طلب ذلك أربعة من أعضائه.\n2 - يشترط لصحة الاجتماع حضور أغلبية الأعضاء بمن فيهم الرئيس أو نائبه، وتصدر القرارات بأغلبية المجلس، وعند التساوي يرجح الجانب الذي صوت معه رئيس الاجتماع.\n3 - يعقد المجلس اجتماعاته في مقر الهيئة، وله - عند الاقتضاء - أن يعقدها في مكان آخر داخل المملكة.\n4 - تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع، والأعضاء الحاضرون.\n5 - للمجلس دعوة من يرى الاستعانة بهم من المتخصصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم الحق في التصويت.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "6 - لا يجوز للعضو تفويض شخص آخر للتصويت عنه عند غيابه، وللعضو الحاضر تسجيل اعتراضه الذي أبداه في الجلسة وأسباب الاعتراض ضمن محضر المجلس.\n7 - لا يجوز للعضو أن يفشي شيئاً مما وقف عليه من أسرار الهيئة بسبب عضويته في المجلس.\n8 - يكون للمجلس أمين عام يصدر بتعيينه قرار من المجلس.\n9 - يضع المجلس لائحة داخلية لسير أعماله بما يتفق مع أحكام هذا النظام.",
+          "text_for_index": "6 - لا يجوز للعضو تفويض شخص آخر للتصويت عنه عند غيابه، وللعضو الحاضر تسجيل اعتراضه الذي أبداه في الجلسة وأسباب الاعتراض ضمن محضر المجلس.\n7 - لا يجوز للعضو أن يفشي شيئاً مما وقف عليه من أسرار الهيئة بسبب عضويته في المجلس.\n8 - يكون للمجلس أمين عام يصدر بتعيينه قرار من المجلس.\n9 - يضع المجلس لائحة داخلية لسير أعماله بما يتفق مع أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة التاسعة",
+      "text_verbatim": "يكون للهيئة محافظ يُعيّن ويُعفى من منصبه بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الهيئة، وتتركز مسؤولياته في حدود ما ينص عليه هذا النظام وما يقرره المجلس، ويمارس الاختصاصات الآتية:\n\n1 - متابعة القرارات التي يصدرها المجلس، والإشراف على تنفيذها، وإطلاع المجلس على ما تم في شأنها.\n\n2 - اقتراح خطط الهيئة، وبرامجها، والإشراف على تنفيذها بعد موافقة المجلس عليها.\n\n3 - اقتراح الهيكل التنظيمي للهيئة.\n\n4 - الإشراف على إعداد لوائح الهيئة (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية، واقتراح تعديلها.\n\n5 - الإشراف على سير العمل في الهيئة؛ وفقاً للوائح المعتمدة.\n\n6 - الإشراف على إعداد مشروعات الأنظمة المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها؛ تمهيداً لرفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات المتبعة، وتقديم المقترحات في شأن تعديلها وتطويرها.\n\n 7 - الإشراف على إعداد مشروعات الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها.\n\n8 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي للأوقاف التي تكون الهيئة ناظرة عليها، وعرضها على المجلس.\n\n9 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي، والتقرير السنوي للهيئة، وعرضها على المجلس.\n\n10 - تقديم تقارير دورية إلى المجلس عن أعمال الهيئة، ومنجزاتها، ونشاطاتها.\n\n11 - الإشراف على منسوبي الهيئة؛ طبقاً للصلاحيات الممنوحة له، وما تحدده اللوائح.\n\n12 - اعتماد أوامر الصرف الخاصة بالهيئة؛ وفقاً للميزانية السنوية المعتمدة.\n\n13 - تمثيل الهيئة في صلاتها بغيرها من الجهات، وأمام القضاء.\n\n14 - مباشرة ما تخوله إياه قرارات المجلس والأنظمة واللوائح الخاصة بالهيئة من اختصاصات.\n وللمحافظ تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+      "text_for_index": "يكون للهيئة محافظ يُعيّن ويُعفى من منصبه بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الهيئة، وتتركز مسؤولياته في حدود ما ينص عليه هذا النظام وما يقرره المجلس، ويمارس الاختصاصات الآتية:\n\n1 - متابعة القرارات التي يصدرها المجلس، والإشراف على تنفيذها، وإطلاع المجلس على ما تم في شأنها.\n\n2 - اقتراح خطط الهيئة، وبرامجها، والإشراف على تنفيذها بعد موافقة المجلس عليها.\n\n3 - اقتراح الهيكل التنظيمي للهيئة.\n\n4 - الإشراف على إعداد لوائح الهيئة (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية، واقتراح تعديلها.\n\n5 - الإشراف على سير العمل في الهيئة؛ وفقاً للوائح المعتمدة.\n\n6 - الإشراف على إعداد مشروعات الأنظمة المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها؛ تمهيداً لرفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات المتبعة، وتقديم المقترحات في شأن تعديلها وتطويرها.\n\n 7 - الإشراف على إعداد مشروعات الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها.\n\n8 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي للأوقاف التي تكون الهيئة ناظرة عليها، وعرضها على المجلس.\n\n9 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي، والتقرير السنوي للهيئة، وعرضها على المجلس.\n\n10 - تقديم تقارير دورية إلى المجلس عن أعمال الهيئة، ومنجزاتها، ونشاطاتها.\n\n11 - الإشراف على منسوبي الهيئة؛ طبقاً للصلاحيات الممنوحة له، وما تحدده اللوائح.\n\n12 - اعتماد أوامر الصرف الخاصة بالهيئة؛ وفقاً للميزانية السنوية المعتمدة.\n\n13 - تمثيل الهيئة في صلاتها بغيرها من الجهات، وأمام القضاء.\n\n14 - مباشرة ما تخوله إياه قرارات المجلس والأنظمة واللوائح الخاصة بالهيئة من اختصاصات.\n وللمحافظ تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+      "paragraph_count": 15,
+      "indexable_paragraph_count": 15,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يكون للهيئة محافظ يُعيّن ويُعفى من منصبه بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الهيئة، وتتركز مسؤولياته في حدود ما ينص عليه هذا النظام وما يقرره المجلس، ويمارس الاختصاصات الآتية:",
+          "text_for_index": "يكون للهيئة محافظ يُعيّن ويُعفى من منصبه بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الهيئة، وتتركز مسؤولياته في حدود ما ينص عليه هذا النظام وما يقرره المجلس، ويمارس الاختصاصات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - متابعة القرارات التي يصدرها المجلس، والإشراف على تنفيذها، وإطلاع المجلس على ما تم في شأنها.",
+          "text_for_index": "1 - متابعة القرارات التي يصدرها المجلس، والإشراف على تنفيذها، وإطلاع المجلس على ما تم في شأنها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2 - اقتراح خطط الهيئة، وبرامجها، والإشراف على تنفيذها بعد موافقة المجلس عليها.",
+          "text_for_index": "2 - اقتراح خطط الهيئة، وبرامجها، والإشراف على تنفيذها بعد موافقة المجلس عليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "3 - اقتراح الهيكل التنظيمي للهيئة.",
+          "text_for_index": "3 - اقتراح الهيكل التنظيمي للهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "4 - الإشراف على إعداد لوائح الهيئة (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية، واقتراح تعديلها.",
+          "text_for_index": "4 - الإشراف على إعداد لوائح الهيئة (الإدارية، والمالية، والاستثمارية)، وغيرها من اللوائح الداخلية، واقتراح تعديلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "5 - الإشراف على سير العمل في الهيئة؛ وفقاً للوائح المعتمدة.",
+          "text_for_index": "5 - الإشراف على سير العمل في الهيئة؛ وفقاً للوائح المعتمدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "6 - الإشراف على إعداد مشروعات الأنظمة المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها؛ تمهيداً لرفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات المتبعة، وتقديم المقترحات في شأن تعديلها وتطويرها.",
+          "text_for_index": "6 - الإشراف على إعداد مشروعات الأنظمة المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها؛ تمهيداً لرفعها إلى الجهات المختصة لاعتمادها وفقاً للإجراءات المتبعة، وتقديم المقترحات في شأن تعديلها وتطويرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "7 - الإشراف على إعداد مشروعات الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها.",
+          "text_for_index": "7 - الإشراف على إعداد مشروعات الإستراتيجيات والخطط والسياسات المتعلقة بنشاط الأوقاف، وعرضها على المجلس لإقرارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "8 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي للأوقاف التي تكون الهيئة ناظرة عليها، وعرضها على المجلس.",
+          "text_for_index": "8 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي للأوقاف التي تكون الهيئة ناظرة عليها، وعرضها على المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "9 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي، والتقرير السنوي للهيئة، وعرضها على المجلس.",
+          "text_for_index": "9 - الإشراف على إعداد مشروع الميزانية السنوية، والتقديرات المالية، والحساب الختامي، والتقرير السنوي للهيئة، وعرضها على المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "10 - تقديم تقارير دورية إلى المجلس عن أعمال الهيئة، ومنجزاتها، ونشاطاتها.",
+          "text_for_index": "10 - تقديم تقارير دورية إلى المجلس عن أعمال الهيئة، ومنجزاتها، ونشاطاتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "11 - الإشراف على منسوبي الهيئة؛ طبقاً للصلاحيات الممنوحة له، وما تحدده اللوائح.",
+          "text_for_index": "11 - الإشراف على منسوبي الهيئة؛ طبقاً للصلاحيات الممنوحة له، وما تحدده اللوائح.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "12 - اعتماد أوامر الصرف الخاصة بالهيئة؛ وفقاً للميزانية السنوية المعتمدة.",
+          "text_for_index": "12 - اعتماد أوامر الصرف الخاصة بالهيئة؛ وفقاً للميزانية السنوية المعتمدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "13 - تمثيل الهيئة في صلاتها بغيرها من الجهات، وأمام القضاء.",
+          "text_for_index": "13 - تمثيل الهيئة في صلاتها بغيرها من الجهات، وأمام القضاء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-9::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "14 - مباشرة ما تخوله إياه قرارات المجلس والأنظمة واللوائح الخاصة بالهيئة من اختصاصات.\n وللمحافظ تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+          "text_for_index": "14 - مباشرة ما تخوله إياه قرارات المجلس والأنظمة واللوائح الخاصة بالهيئة من اختصاصات.\n وللمحافظ تفويض بعض اختصاصاته إلى من يراه من المسؤولين أو اللجان في الهيئة وفق ما يقتضيه سير العمل فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة العاشرة",
+      "text_verbatim": "يكون للمحافظ نائب (أو أكثر) يعين بقرار من المجلس بناء على ترشيح المحافظ؛ يتولى القيام بالأعمال وفقاً للصلاحيات التي يمنحه إياها الرئيس في حدود ما يقضي به هذا النظام.",
+      "text_for_index": "يكون للمحافظ نائب (أو أكثر) يعين بقرار من المجلس بناء على ترشيح المحافظ؛ يتولى القيام بالأعمال وفقاً للصلاحيات التي يمنحه إياها الرئيس في حدود ما يقضي به هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يكون للمحافظ نائب (أو أكثر) يعين بقرار من المجلس بناء على ترشيح المحافظ؛ يتولى القيام بالأعمال وفقاً للصلاحيات التي يمنحه إياها الرئيس في حدود ما يقضي به هذا النظام.",
+          "text_for_index": "يكون للمحافظ نائب (أو أكثر) يعين بقرار من المجلس بناء على ترشيح المحافظ؛ يتولى القيام بالأعمال وفقاً للصلاحيات التي يمنحه إياها الرئيس في حدود ما يقضي به هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الحادية عشرة",
+      "text_verbatim": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة استشارية دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (اللجنة الاستشارية)؛ ترتبط تنظيميًّا بالمجلس، وتُعنى بتقديم الاستشارات الشرعية، والنظامية، والمالية، والاقتصادية، والاستثمارية، والاجتماعية، وذلك وفقاً لما يأتي:\n\n1 - يكون تشكيل اللجنة على النحو الآتي:\n أ - اثنان من المتخصصين في مجال الاقتصاد والاستثمار.\nب - اثنان من المتخصصين الشرعيين في المعاملات المالية والاقتصادية ممن لهم معرفة وخبرة في مجال الأوقاف.\nج - أحد المتخصصين في مجال الأنظمة.\nد - أحد المتخصصين الماليين.\nهـ - أحد المتخصصين الاجتماعيين.",
+      "text_for_index": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة استشارية دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (اللجنة الاستشارية)؛ ترتبط تنظيميًّا بالمجلس، وتُعنى بتقديم الاستشارات الشرعية، والنظامية، والمالية، والاقتصادية، والاستثمارية، والاجتماعية، وذلك وفقاً لما يأتي:\n\n1 - يكون تشكيل اللجنة على النحو الآتي:\n أ - اثنان من المتخصصين في مجال الاقتصاد والاستثمار.\nب - اثنان من المتخصصين الشرعيين في المعاملات المالية والاقتصادية ممن لهم معرفة وخبرة في مجال الأوقاف.\nج - أحد المتخصصين في مجال الأنظمة.\nد - أحد المتخصصين الماليين.\nهـ - أحد المتخصصين الاجتماعيين.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة استشارية دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (اللجنة الاستشارية)؛ ترتبط تنظيميًّا بالمجلس، وتُعنى بتقديم الاستشارات الشرعية، والنظامية، والمالية، والاقتصادية، والاستثمارية، والاجتماعية، وذلك وفقاً لما يأتي:",
+          "text_for_index": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة استشارية دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (اللجنة الاستشارية)؛ ترتبط تنظيميًّا بالمجلس، وتُعنى بتقديم الاستشارات الشرعية، والنظامية، والمالية، والاقتصادية، والاستثمارية، والاجتماعية، وذلك وفقاً لما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - يكون تشكيل اللجنة على النحو الآتي:\n أ - اثنان من المتخصصين في مجال الاقتصاد والاستثمار.\nب - اثنان من المتخصصين الشرعيين في المعاملات المالية والاقتصادية ممن لهم معرفة وخبرة في مجال الأوقاف.\nج - أحد المتخصصين في مجال الأنظمة.\nد - أحد المتخصصين الماليين.\nهـ - أحد المتخصصين الاجتماعيين.",
+          "text_for_index": "1 - يكون تشكيل اللجنة على النحو الآتي:\n أ - اثنان من المتخصصين في مجال الاقتصاد والاستثمار.\nب - اثنان من المتخصصين الشرعيين في المعاملات المالية والاقتصادية ممن لهم معرفة وخبرة في مجال الأوقاف.\nج - أحد المتخصصين في مجال الأنظمة.\nد - أحد المتخصصين الماليين.\nهـ - أحد المتخصصين الاجتماعيين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة :",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثانية عشرة",
+      "text_verbatim": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (لجنة الرقابة والمراجعة الداخلية)؛ ترتبط تنظيميًّا بالمجلس، وذلك وفقاً لما يأتي :\n\n1 - يكون تشكيل اللجنة على النحو الآتي :\n أ ـ ممثل من وزارة الداخلية لا تقل مرتبته عن (الثالثة عشرة).\n\nب - اثنان من المتخصصين في المحاسبة.\n\nج - اثنان من المتخصصين في الإدارة وقياس الأداء.\n\nد - أحد المتخصصين في الأنظمة.",
+      "text_for_index": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (لجنة الرقابة والمراجعة الداخلية)؛ ترتبط تنظيميًّا بالمجلس، وذلك وفقاً لما يأتي :\n\n1 - يكون تشكيل اللجنة على النحو الآتي :\n أ ـ ممثل من وزارة الداخلية لا تقل مرتبته عن (الثالثة عشرة).\n\nب - اثنان من المتخصصين في المحاسبة.\n\nج - اثنان من المتخصصين في الإدارة وقياس الأداء.\n\nد - أحد المتخصصين في الأنظمة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (لجنة الرقابة والمراجعة الداخلية)؛ ترتبط تنظيميًّا بالمجلس، وذلك وفقاً لما يأتي :",
+          "text_for_index": "تشكل - بقرار من المجلس، وفي مركز الهيئة الرئيس - لجنة دائمة (من غير أعضاء المجلس ومن غير منسوبي الهيئة) تُسمى (لجنة الرقابة والمراجعة الداخلية)؛ ترتبط تنظيميًّا بالمجلس، وذلك وفقاً لما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - يكون تشكيل اللجنة على النحو الآتي :\n أ ـ ممثل من وزارة الداخلية لا تقل مرتبته عن (الثالثة عشرة).",
+          "text_for_index": "1 - يكون تشكيل اللجنة على النحو الآتي :\n أ ـ ممثل من وزارة الداخلية لا تقل مرتبته عن (الثالثة عشرة).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب - اثنان من المتخصصين في المحاسبة.",
+          "text_for_index": "ب - اثنان من المتخصصين في المحاسبة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ج - اثنان من المتخصصين في الإدارة وقياس الأداء.",
+          "text_for_index": "ج - اثنان من المتخصصين في الإدارة وقياس الأداء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "د - أحد المتخصصين في الأنظمة.",
+          "text_for_index": "د - أحد المتخصصين في الأنظمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "labor",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثالثة عشرة",
+      "text_verbatim": "تهدف لجنة الرقابة والمراجعة الداخلية إلى حماية أموال الهيئة وممتلكاتها، وضمان سلامة أنظمة الرقابة الداخلية وفاعليتها، ودقة البيانات المالية والسجلات المحاسبية واكتمالها، وضمان فاعلية العمليات الإدارية والمالية وكفايتها؛ بما يحقق الاستغلال الأمثل للموارد المتاحة، والتحقق من التقيد بالأنظمة، واللوائح، والتعليمات، والسياسات، والخطط المقرة. وتحدد اللائحة المنظمة لأعمال الرقابة والمراجعة تفصيلاً للاختصاصات التي يعهد بها المجلس إلى اللجنة.",
+      "text_for_index": "تهدف لجنة الرقابة والمراجعة الداخلية إلى حماية أموال الهيئة وممتلكاتها، وضمان سلامة أنظمة الرقابة الداخلية وفاعليتها، ودقة البيانات المالية والسجلات المحاسبية واكتمالها، وضمان فاعلية العمليات الإدارية والمالية وكفايتها؛ بما يحقق الاستغلال الأمثل للموارد المتاحة، والتحقق من التقيد بالأنظمة، واللوائح، والتعليمات، والسياسات، والخطط المقرة. وتحدد اللائحة المنظمة لأعمال الرقابة والمراجعة تفصيلاً للاختصاصات التي يعهد بها المجلس إلى اللجنة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تهدف لجنة الرقابة والمراجعة الداخلية إلى حماية أموال الهيئة وممتلكاتها، وضمان سلامة أنظمة الرقابة الداخلية وفاعليتها، ودقة البيانات المالية والسجلات المحاسبية واكتمالها، وضمان فاعلية العمليات الإدارية والمالية وكفايتها؛ بما يحقق الاستغلال الأمثل للموارد المتاحة، والتحقق من التقيد بالأنظمة، واللوائح، والتعليمات، والسياسات، والخطط المقرة. وتحدد اللائحة المنظمة لأعمال الرقابة والمراجعة تفصيلاً للاختصاصات التي يعهد بها المجلس إلى اللجنة.",
+          "text_for_index": "تهدف لجنة الرقابة والمراجعة الداخلية إلى حماية أموال الهيئة وممتلكاتها، وضمان سلامة أنظمة الرقابة الداخلية وفاعليتها، ودقة البيانات المالية والسجلات المحاسبية واكتمالها، وضمان فاعلية العمليات الإدارية والمالية وكفايتها؛ بما يحقق الاستغلال الأمثل للموارد المتاحة، والتحقق من التقيد بالأنظمة، واللوائح، والتعليمات، والسياسات، والخطط المقرة. وتحدد اللائحة المنظمة لأعمال الرقابة والمراجعة تفصيلاً للاختصاصات التي يعهد بها المجلس إلى اللجنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الرابعة عشرة",
+      "text_verbatim": "تحصل الهيئة على مقابل أتعاب نظير إدارتها للأوقاف التي لها ناظرٌ غيرها وعُهد إليها إدارتها، ويحدد المجلس هذا المقابل بعد الاتفاق مع الواقف أو الناظر، على ألا تزيد نسبة المقابل على (10٪) من صافي الدخل السنوي لتلك الأوقاف.",
+      "text_for_index": "تحصل الهيئة على مقابل أتعاب نظير إدارتها للأوقاف التي لها ناظرٌ غيرها وعُهد إليها إدارتها، ويحدد المجلس هذا المقابل بعد الاتفاق مع الواقف أو الناظر، على ألا تزيد نسبة المقابل على (10٪) من صافي الدخل السنوي لتلك الأوقاف.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحصل الهيئة على مقابل أتعاب نظير إدارتها للأوقاف التي لها ناظرٌ غيرها وعُهد إليها إدارتها، ويحدد المجلس هذا المقابل بعد الاتفاق مع الواقف أو الناظر، على ألا تزيد نسبة المقابل على (10٪) من صافي الدخل السنوي لتلك الأوقاف.",
+          "text_for_index": "تحصل الهيئة على مقابل أتعاب نظير إدارتها للأوقاف التي لها ناظرٌ غيرها وعُهد إليها إدارتها، ويحدد المجلس هذا المقابل بعد الاتفاق مع الواقف أو الناظر، على ألا تزيد نسبة المقابل على (10٪) من صافي الدخل السنوي لتلك الأوقاف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الخامسة عشرة",
+      "text_verbatim": "مع الالتزام بشرط الواقف، وعدم الإضرار بالمستفيدين من الوقف؛ للهيئة القيام بالآتي:\n\n1 - استثمار أصول الأوقاف - التي تكون ناظرة عليها - وفوائض إيراداتها، وذلك بعد إجراء الدراسات اللازمة للتحقق من جدواه.\n\n2 - استقطاع نسبة لا تتجاوز (25٪) من صافي الإيرادات السنوية للوقف الذي تكون ناظرة عليه؛ لاستثمارها لمصلحته.\n\n3 - استقطاع نسبة لا تتجاوز (20٪) من الفوائض السنوية لإيرادات وقف أو مجموعة أوقاف تكون ناظرة عليها؛ لاستثمارها لأجل تنمية وقف أو أوقاف أخرى تكون ناظرة عليها كذلك؛ على أن تعيد النسبة المستقطعة لحساب الوقف خلال مدة خمس سنوات - كحد أقصى - من تاريخ الاستقطاع.",
+      "text_for_index": "مع الالتزام بشرط الواقف، وعدم الإضرار بالمستفيدين من الوقف؛ للهيئة القيام بالآتي:\n\n1 - استثمار أصول الأوقاف - التي تكون ناظرة عليها - وفوائض إيراداتها، وذلك بعد إجراء الدراسات اللازمة للتحقق من جدواه.\n\n2 - استقطاع نسبة لا تتجاوز (25٪) من صافي الإيرادات السنوية للوقف الذي تكون ناظرة عليه؛ لاستثمارها لمصلحته.\n\n3 - استقطاع نسبة لا تتجاوز (20٪) من الفوائض السنوية لإيرادات وقف أو مجموعة أوقاف تكون ناظرة عليها؛ لاستثمارها لأجل تنمية وقف أو أوقاف أخرى تكون ناظرة عليها كذلك؛ على أن تعيد النسبة المستقطعة لحساب الوقف خلال مدة خمس سنوات - كحد أقصى - من تاريخ الاستقطاع.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "مع الالتزام بشرط الواقف، وعدم الإضرار بالمستفيدين من الوقف؛ للهيئة القيام بالآتي:",
+          "text_for_index": "مع الالتزام بشرط الواقف، وعدم الإضرار بالمستفيدين من الوقف؛ للهيئة القيام بالآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-15::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - استثمار أصول الأوقاف - التي تكون ناظرة عليها - وفوائض إيراداتها، وذلك بعد إجراء الدراسات اللازمة للتحقق من جدواه.",
+          "text_for_index": "1 - استثمار أصول الأوقاف - التي تكون ناظرة عليها - وفوائض إيراداتها، وذلك بعد إجراء الدراسات اللازمة للتحقق من جدواه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-15::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2 - استقطاع نسبة لا تتجاوز (25٪) من صافي الإيرادات السنوية للوقف الذي تكون ناظرة عليه؛ لاستثمارها لمصلحته.",
+          "text_for_index": "2 - استقطاع نسبة لا تتجاوز (25٪) من صافي الإيرادات السنوية للوقف الذي تكون ناظرة عليه؛ لاستثمارها لمصلحته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-15::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "3 - استقطاع نسبة لا تتجاوز (20٪) من الفوائض السنوية لإيرادات وقف أو مجموعة أوقاف تكون ناظرة عليها؛ لاستثمارها لأجل تنمية وقف أو أوقاف أخرى تكون ناظرة عليها كذلك؛ على أن تعيد النسبة المستقطعة لحساب الوقف خلال مدة خمس سنوات - كحد أقصى - من تاريخ الاستقطاع.",
+          "text_for_index": "3 - استقطاع نسبة لا تتجاوز (20٪) من الفوائض السنوية لإيرادات وقف أو مجموعة أوقاف تكون ناظرة عليها؛ لاستثمارها لأجل تنمية وقف أو أوقاف أخرى تكون ناظرة عليها كذلك؛ على أن تعيد النسبة المستقطعة لحساب الوقف خلال مدة خمس سنوات - كحد أقصى - من تاريخ الاستقطاع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة السادسة عشرة",
+      "text_verbatim": "1- تحتفظ الهيئة بحسابات خاصة للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ تكون مستقلة عن حساباتها، وبميزانية خاصة بها.\n\n2 - تحتفظ الهيئة بحسابات خاصة بأوقاف الحرمين.\n\n3 - تودع أموال الأوقاف - التي تكون الهيئة ناظرة عليها أو مديرة لها - في حسابات مستقلة لدى مؤسسة النقد العربي السعودي، أو أي من المصارف السعودية المرخص لها.",
+      "text_for_index": "1- تحتفظ الهيئة بحسابات خاصة للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ تكون مستقلة عن حساباتها، وبميزانية خاصة بها.\n\n2 - تحتفظ الهيئة بحسابات خاصة بأوقاف الحرمين.\n\n3 - تودع أموال الأوقاف - التي تكون الهيئة ناظرة عليها أو مديرة لها - في حسابات مستقلة لدى مؤسسة النقد العربي السعودي، أو أي من المصارف السعودية المرخص لها.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1- تحتفظ الهيئة بحسابات خاصة للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ تكون مستقلة عن حساباتها، وبميزانية خاصة بها.",
+          "text_for_index": "1- تحتفظ الهيئة بحسابات خاصة للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ تكون مستقلة عن حساباتها، وبميزانية خاصة بها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "2 - تحتفظ الهيئة بحسابات خاصة بأوقاف الحرمين.",
+          "text_for_index": "2 - تحتفظ الهيئة بحسابات خاصة بأوقاف الحرمين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-16::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "3 - تودع أموال الأوقاف - التي تكون الهيئة ناظرة عليها أو مديرة لها - في حسابات مستقلة لدى مؤسسة النقد العربي السعودي، أو أي من المصارف السعودية المرخص لها.",
+          "text_for_index": "3 - تودع أموال الأوقاف - التي تكون الهيئة ناظرة عليها أو مديرة لها - في حسابات مستقلة لدى مؤسسة النقد العربي السعودي، أو أي من المصارف السعودية المرخص لها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة السابعة عشرة",
+      "text_verbatim": "السنة المالية للهيئة هي السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام.",
+      "text_for_index": "السنة المالية للهيئة هي السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "السنة المالية للهيئة هي السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام.",
+          "text_for_index": "السنة المالية للهيئة هي السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة:",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثامنة عشرة",
+      "text_verbatim": "1- تضع الهيئة نظاماً ماليًّا محاسبيًّا للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ يتوافق مع طبيعتها، ويضمن حفظ أموال الأوقاف واستثماراتها، وفقاً لما يقرره هذا النظام.\n2 - تضع الهيئة نظاماً ماليًّا محاسبيًّا استرشاديًّا للأوقاف التي لا تكون ناظرة عليها أو مديرة لها؛ لمساعدة النظار في حفظ أموال الأوقاف واستثماراتها.\n\n3 - تنظم اللائحة المالية للهيئة جميع ما له علاقة بالنواحي المالية، ومن ذلك ما يأتي:\n أ - الحسابات.\nب - الإيرادات، والنفقات.\nج - تحصيل إيرادات الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وإنفاقها على مصارفها؛ وفقاً لشروط الواقفين.\nد - الميزانية، والحساب الختامي.",
+      "text_for_index": "1- تضع الهيئة نظاماً ماليًّا محاسبيًّا للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ يتوافق مع طبيعتها، ويضمن حفظ أموال الأوقاف واستثماراتها، وفقاً لما يقرره هذا النظام.\n2 - تضع الهيئة نظاماً ماليًّا محاسبيًّا استرشاديًّا للأوقاف التي لا تكون ناظرة عليها أو مديرة لها؛ لمساعدة النظار في حفظ أموال الأوقاف واستثماراتها.\n\n3 - تنظم اللائحة المالية للهيئة جميع ما له علاقة بالنواحي المالية، ومن ذلك ما يأتي:\n أ - الحسابات.\nب - الإيرادات، والنفقات.\nج - تحصيل إيرادات الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وإنفاقها على مصارفها؛ وفقاً لشروط الواقفين.\nد - الميزانية، والحساب الختامي.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "1- تضع الهيئة نظاماً ماليًّا محاسبيًّا للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ يتوافق مع طبيعتها، ويضمن حفظ أموال الأوقاف واستثماراتها، وفقاً لما يقرره هذا النظام.\n2 - تضع الهيئة نظاماً ماليًّا محاسبيًّا استرشاديًّا للأوقاف التي لا تكون ناظرة عليها أو مديرة لها؛ لمساعدة النظار في حفظ أموال الأوقاف واستثماراتها.",
+          "text_for_index": "1- تضع الهيئة نظاماً ماليًّا محاسبيًّا للأوقاف التي تكون ناظرة عليها أو مديرة لها؛ يتوافق مع طبيعتها، ويضمن حفظ أموال الأوقاف واستثماراتها، وفقاً لما يقرره هذا النظام.\n2 - تضع الهيئة نظاماً ماليًّا محاسبيًّا استرشاديًّا للأوقاف التي لا تكون ناظرة عليها أو مديرة لها؛ لمساعدة النظار في حفظ أموال الأوقاف واستثماراتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "3 - تنظم اللائحة المالية للهيئة جميع ما له علاقة بالنواحي المالية، ومن ذلك ما يأتي:\n أ - الحسابات.\nب - الإيرادات، والنفقات.\nج - تحصيل إيرادات الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وإنفاقها على مصارفها؛ وفقاً لشروط الواقفين.\nد - الميزانية، والحساب الختامي.",
+          "text_for_index": "3 - تنظم اللائحة المالية للهيئة جميع ما له علاقة بالنواحي المالية، ومن ذلك ما يأتي:\n أ - الحسابات.\nب - الإيرادات، والنفقات.\nج - تحصيل إيرادات الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، وإنفاقها على مصارفها؛ وفقاً لشروط الواقفين.\nد - الميزانية، والحساب الختامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة التاسعة عشرة",
+      "text_verbatim": "1 - تكون للهيئة ميزانية مستقلة تصدر سنويًّا، وتتكون إيراداتها من المصادر الآتية:\n\nأ - نسبة يحددها المجلس لا تتجاوز (10٪) من صافي الدخل السنوي للأوقاف التي تكون الهيئة ناظرة عليها.\n\nب - الإيرادات المتحصلة مقابل إدارة الأوقاف التي يعهد إلى الهيئة بإدارتها، وفقاً لما ورد في المادة (الرابعة عشرة) من هذا النظام.\n\nج - الإيرادات المتحصلة من النشاطات التي تدخل ضمن اختصاصاتها.\n\nد - الإعانة الحكومية السنوية التي تقرر للهيئة في الميزانية العامة للدولة.\n\nهـ - الأوقاف، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.",
+      "text_for_index": "1 - تكون للهيئة ميزانية مستقلة تصدر سنويًّا، وتتكون إيراداتها من المصادر الآتية:\n\nأ - نسبة يحددها المجلس لا تتجاوز (10٪) من صافي الدخل السنوي للأوقاف التي تكون الهيئة ناظرة عليها.\n\nب - الإيرادات المتحصلة مقابل إدارة الأوقاف التي يعهد إلى الهيئة بإدارتها، وفقاً لما ورد في المادة (الرابعة عشرة) من هذا النظام.\n\nج - الإيرادات المتحصلة من النشاطات التي تدخل ضمن اختصاصاتها.\n\nد - الإعانة الحكومية السنوية التي تقرر للهيئة في الميزانية العامة للدولة.\n\nهـ - الأوقاف، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - تكون للهيئة ميزانية مستقلة تصدر سنويًّا، وتتكون إيراداتها من المصادر الآتية:",
+          "text_for_index": "1 - تكون للهيئة ميزانية مستقلة تصدر سنويًّا، وتتكون إيراداتها من المصادر الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - نسبة يحددها المجلس لا تتجاوز (10٪) من صافي الدخل السنوي للأوقاف التي تكون الهيئة ناظرة عليها.",
+          "text_for_index": "أ - نسبة يحددها المجلس لا تتجاوز (10٪) من صافي الدخل السنوي للأوقاف التي تكون الهيئة ناظرة عليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-19::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب - الإيرادات المتحصلة مقابل إدارة الأوقاف التي يعهد إلى الهيئة بإدارتها، وفقاً لما ورد في المادة (الرابعة عشرة) من هذا النظام.",
+          "text_for_index": "ب - الإيرادات المتحصلة مقابل إدارة الأوقاف التي يعهد إلى الهيئة بإدارتها، وفقاً لما ورد في المادة (الرابعة عشرة) من هذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-19::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ج - الإيرادات المتحصلة من النشاطات التي تدخل ضمن اختصاصاتها.",
+          "text_for_index": "ج - الإيرادات المتحصلة من النشاطات التي تدخل ضمن اختصاصاتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-19::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "د - الإعانة الحكومية السنوية التي تقرر للهيئة في الميزانية العامة للدولة.",
+          "text_for_index": "د - الإعانة الحكومية السنوية التي تقرر للهيئة في الميزانية العامة للدولة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-19::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "هـ - الأوقاف، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.",
+          "text_for_index": "هـ - الأوقاف، والهبات، والتبرعات، والوصايا، والمساعدات المخصصة لها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون:",
+      "article_heading": "العشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة العشرون",
+      "text_verbatim": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات الهيئة؛ يعين المجلس مراجع حسابات (أو أكثر) من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية المرخص لهم في المملكة؛ لمراجعة حسابات الأوقاف والهيئة. وفي حال تعدد المراجعين فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام المجلس. ويرفع تقرير مراجع أو مراجعي الحسابات إلى المجلس، ويزود ديوان المراقبة العامة بنسخة منه. ويحدد المجلس أتعاب مراجع أو مراجعي الحسابات.",
+      "text_for_index": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات الهيئة؛ يعين المجلس مراجع حسابات (أو أكثر) من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية المرخص لهم في المملكة؛ لمراجعة حسابات الأوقاف والهيئة. وفي حال تعدد المراجعين فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام المجلس. ويرفع تقرير مراجع أو مراجعي الحسابات إلى المجلس، ويزود ديوان المراقبة العامة بنسخة منه. ويحدد المجلس أتعاب مراجع أو مراجعي الحسابات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات الهيئة؛ يعين المجلس مراجع حسابات (أو أكثر) من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية المرخص لهم في المملكة؛ لمراجعة حسابات الأوقاف والهيئة. وفي حال تعدد المراجعين فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام المجلس. ويرفع تقرير مراجع أو مراجعي الحسابات إلى المجلس، ويزود ديوان المراقبة العامة بنسخة منه. ويحدد المجلس أتعاب مراجع أو مراجعي الحسابات.",
+          "text_for_index": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات الهيئة؛ يعين المجلس مراجع حسابات (أو أكثر) من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية المرخص لهم في المملكة؛ لمراجعة حسابات الأوقاف والهيئة. وفي حال تعدد المراجعين فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام المجلس. ويرفع تقرير مراجع أو مراجعي الحسابات إلى المجلس، ويزود ديوان المراقبة العامة بنسخة منه. ويحدد المجلس أتعاب مراجع أو مراجعي الحسابات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون:",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الحادية والعشرون",
+      "text_verbatim": "تعامل الهيئة من حيث الرسوم معاملة الهيئات والمؤسسات العامة.",
+      "text_for_index": "تعامل الهيئة من حيث الرسوم معاملة الهيئات والمؤسسات العامة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعامل الهيئة من حيث الرسوم معاملة الهيئات والمؤسسات العامة.",
+          "text_for_index": "تعامل الهيئة من حيث الرسوم معاملة الهيئات والمؤسسات العامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون:",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثانية والعشرون",
+      "text_verbatim": "1- يصدر المجلس لائحة للتوظيف في الهيئة؛ تحدد شروط تعيين موظفيها، وحقوقهم، وواجباتهم، وتأديبهم، وإنهاء خدماتهم.\n\n  2 - يسري على جميع منسوبي الهيئة نظام العمل ونظام التأمينات الاجتماعية.",
+      "text_for_index": "1- يصدر المجلس لائحة للتوظيف في الهيئة؛ تحدد شروط تعيين موظفيها، وحقوقهم، وواجباتهم، وتأديبهم، وإنهاء خدماتهم.\n\n 2 - يسري على جميع منسوبي الهيئة نظام العمل ونظام التأمينات الاجتماعية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "1- يصدر المجلس لائحة للتوظيف في الهيئة؛ تحدد شروط تعيين موظفيها، وحقوقهم، وواجباتهم، وتأديبهم، وإنهاء خدماتهم.",
+          "text_for_index": "1- يصدر المجلس لائحة للتوظيف في الهيئة؛ تحدد شروط تعيين موظفيها، وحقوقهم، وواجباتهم، وتأديبهم، وإنهاء خدماتهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "2 - يسري على جميع منسوبي الهيئة نظام العمل ونظام التأمينات الاجتماعية.",
+          "text_for_index": "2 - يسري على جميع منسوبي الهيئة نظام العمل ونظام التأمينات الاجتماعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون:",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الثالثة والعشرون",
+      "text_verbatim": "تلتزم الهيئة في جميع تصرفاتها واستثماراتها بشروط الواقفين، وبما لا يتعارض مع أحكام الشريعة الإسلامية والأنظمة النافذة.",
+      "text_for_index": "تلتزم الهيئة في جميع تصرفاتها واستثماراتها بشروط الواقفين، وبما لا يتعارض مع أحكام الشريعة الإسلامية والأنظمة النافذة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تلتزم الهيئة في جميع تصرفاتها واستثماراتها بشروط الواقفين، وبما لا يتعارض مع أحكام الشريعة الإسلامية والأنظمة النافذة.",
+          "text_for_index": "تلتزم الهيئة في جميع تصرفاتها واستثماراتها بشروط الواقفين، وبما لا يتعارض مع أحكام الشريعة الإسلامية والأنظمة النافذة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون:",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الرابعة والعشرون",
+      "text_verbatim": "لا يجوز أن يكون لأيٍّ من أعضاء المجلس، أو موظفي الهيئة، أو أقاربهم حتى الدرجة الرابعة، وجميع من له علاقة بإدارة أعمالها؛ أي مصلحة مباشرة أو غير مباشرة في أي مشروع أو اتفاق يعقد مع الهيئة، كما لا يجوز له أن يتعامل بالبيع أو الشراء أو غير ذلك لحساب نفسه أو لحساب الغير في أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، ويكون باطلاً أي تصرف مخالف لأحكام هذه المادة.",
+      "text_for_index": "لا يجوز أن يكون لأيٍّ من أعضاء المجلس، أو موظفي الهيئة، أو أقاربهم حتى الدرجة الرابعة، وجميع من له علاقة بإدارة أعمالها؛ أي مصلحة مباشرة أو غير مباشرة في أي مشروع أو اتفاق يعقد مع الهيئة، كما لا يجوز له أن يتعامل بالبيع أو الشراء أو غير ذلك لحساب نفسه أو لحساب الغير في أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، ويكون باطلاً أي تصرف مخالف لأحكام هذه المادة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز أن يكون لأيٍّ من أعضاء المجلس، أو موظفي الهيئة، أو أقاربهم حتى الدرجة الرابعة، وجميع من له علاقة بإدارة أعمالها؛ أي مصلحة مباشرة أو غير مباشرة في أي مشروع أو اتفاق يعقد مع الهيئة، كما لا يجوز له أن يتعامل بالبيع أو الشراء أو غير ذلك لحساب نفسه أو لحساب الغير في أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، ويكون باطلاً أي تصرف مخالف لأحكام هذه المادة.",
+          "text_for_index": "لا يجوز أن يكون لأيٍّ من أعضاء المجلس، أو موظفي الهيئة، أو أقاربهم حتى الدرجة الرابعة، وجميع من له علاقة بإدارة أعمالها؛ أي مصلحة مباشرة أو غير مباشرة في أي مشروع أو اتفاق يعقد مع الهيئة، كما لا يجوز له أن يتعامل بالبيع أو الشراء أو غير ذلك لحساب نفسه أو لحساب الغير في أموال الأوقاف التي تكون الهيئة ناظرة عليها أو مديرة لها، ويكون باطلاً أي تصرف مخالف لأحكام هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون:",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام الهيئة العامة للأوقاف، المادة الخامسة والعشرون",
+      "text_verbatim": "1- يحل هذا النظام محل نظام مجلس الأوقاف الأعلى الصادر بالمرسوم الملكي رقم (م/35) وتاريخ 18 /7 /1386هـ، ويعمل به بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.\n\n2 - تسري على الأوقاف التي تكون الهيئة ناظرة عليها ؛ الأحكام الواردة في هذا النظام استثناءً من حكم المادة (الثالثة والعشرين بعد المائتين) من نظام المرافعات الشرعية الصادر بالمرسوم الملكي رقم (م/1) وتاريخ 22 /1 /1435هـ.\n\n3 - يلغي هذا النظام كل ما يتعارض معه من أحكام أخرى، بما في ذلك الأحكام الواردة في نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم الصادر بالمرسوم الملكي  رقم (م/17) وتاريخ 13 /3 /1427هـ.",
+      "text_for_index": "1- يحل هذا النظام محل نظام مجلس الأوقاف الأعلى الصادر بالمرسوم الملكي رقم (م/35) وتاريخ 18 /7 /1386هـ، ويعمل به بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.\n\n2 - تسري على الأوقاف التي تكون الهيئة ناظرة عليها ؛ الأحكام الواردة في هذا النظام استثناءً من حكم المادة (الثالثة والعشرين بعد المائتين) من نظام المرافعات الشرعية الصادر بالمرسوم الملكي رقم (م/1) وتاريخ 22 /1 /1435هـ.\n\n3 - يلغي هذا النظام كل ما يتعارض معه من أحكام أخرى، بما في ذلك الأحكام الواردة في نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم الصادر بالمرسوم الملكي رقم (م/17) وتاريخ 13 /3 /1427هـ.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- يحل هذا النظام محل نظام مجلس الأوقاف الأعلى الصادر بالمرسوم الملكي رقم (م/35) وتاريخ 18 /7 /1386هـ، ويعمل به بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "1- يحل هذا النظام محل نظام مجلس الأوقاف الأعلى الصادر بالمرسوم الملكي رقم (م/35) وتاريخ 18 /7 /1386هـ، ويعمل به بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-25::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "2 - تسري على الأوقاف التي تكون الهيئة ناظرة عليها ؛ الأحكام الواردة في هذا النظام استثناءً من حكم المادة (الثالثة والعشرين بعد المائتين) من نظام المرافعات الشرعية الصادر بالمرسوم الملكي رقم (م/1) وتاريخ 22 /1 /1435هـ.",
+          "text_for_index": "2 - تسري على الأوقاف التي تكون الهيئة ناظرة عليها ؛ الأحكام الواردة في هذا النظام استثناءً من حكم المادة (الثالثة والعشرين بعد المائتين) من نظام المرافعات الشرعية الصادر بالمرسوم الملكي رقم (م/1) وتاريخ 22 /1 /1435هـ.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alhyyh-alaamh-llawqaf::article-25::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "3 - يلغي هذا النظام كل ما يتعارض معه من أحكام أخرى، بما في ذلك الأحكام الواردة في نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم الصادر بالمرسوم الملكي  رقم (م/17) وتاريخ 13 /3 /1427هـ.",
+          "text_for_index": "3 - يلغي هذا النظام كل ما يتعارض معه من أحكام أخرى، بما في ذلك الأحكام الواردة في نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم الصادر بالمرسوم الملكي رقم (م/17) وتاريخ 13 /3 /1427هـ.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

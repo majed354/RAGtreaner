@@ -1,0 +1,5 @@
+FROM gemma4:e2b
+ADAPTER /Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v13-opinion-polish
+
+# Keep runtime parameters close to the app defaults for the first smoke test.
+PARAMETER temperature 0.2

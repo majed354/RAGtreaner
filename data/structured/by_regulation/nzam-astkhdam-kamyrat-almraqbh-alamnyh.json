@@ -1,0 +1,1517 @@
+{
+  "metadata": {
+    "slug": "nzam-astkhdam-kamyrat-almraqbh-alamnyh",
+    "title_ar": "نظام استخدام كاميرات المراقبة الأمنية",
+    "status": "ساري",
+    "issue_date_hijri": "1444/03/07 هـ الموافق : 03/10/2022 مـ",
+    "issue_date_gregorian": "2022-10-03",
+    "publish_date_hijri": "1444/03/11 هـ الموافق : 07/10/2022 مـ",
+    "publish_date_gregorian": "2022-10-07",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f3a44a6f-9217-478b-b7ca-af3401391514/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-astkhdam-kamyrat-almraqbh-alamnyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-astkhdam-kamyrat-almraqbh-alamnyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1444/03/11 هـ الموافق : 07/10/2022 مـ",
+    "effective_date_gregorian": "2022-10-07",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 18,
+    "paragraph_count": 76,
+    "indexable_paragraph_count": 76,
+    "text_chars": 8775,
+    "verbatim_chars": 8775,
+    "citation_base_ar": "نظام استخدام كاميرات المراقبة الأمنية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f3a44a6f-9217-478b-b7ca-af3401391514/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-astkhdam-kamyrat-almraqbh-alamnyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-astkhdam-kamyrat-almraqbh-alamnyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "definition",
+        "condition",
+        "remedy",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "تعريف",
+        "شرط",
+        "علاج أو تعويض",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor",
+        "commercial_fraud",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "غش تجاري",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الأولى",
+      "text_verbatim": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام استخدام كاميرات المراقبة الأمنية.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالوزارة: وزارة الداخلية.\n\nالوزير: وزير الداخلية.\n\nاللجنة: لجنة النظر في مخالفات النظام.\n\nكاميرات المراقبة الأمنية: أجهزة ثابتة أو متحركة، معدة لالتقاط الصور المتحركة وفقاً لأحكام النظام، ولا تشمل الكاميرات التي يضعها الأفراد داخل الوحدات والمجمعات السكنية الخاصة.\n\nأنظمة كاميرات المراقبة الأمنية: أنظمة متصلة بأجهزة أنظمة كاميرات المراقبة الأمنية لغرض المراقبة والتخزين وتحليل بث الكاميرات.\n\nأجهزة أنظمة كاميرات المراقبة الأمنية: الكاميرات والخوادم ووسائط التخزين المرتبطة بأنظمة كاميرات المراقبة الأمنية.\n\nوسائط التخزين: أوعية تستخدم لحفظ المعلومات أو نقلها ومن ثم استرجاعها عند الحاجة إليها، ومنها: القرص الصلب، والذاكرة المتنقلة، والأقراص الممغنطة، والتوصيلات، والخوادم.\n\nالتسجيلات: الصور المتحركة التي تلتقطها كاميرات المراقبة الأمنية وتحفظ في وسائط التخزين.\n\nغرف العمليات: غرف المراقبة والتحكم في الوزارة ورئاسة أمن الدولة، المرتبطة بأنظمة مركز المعلومات الوطني.\n\nوثيقة الشروط: وثيقة الشروط والمتطلبات الأمنية لتركيب نظام المراقبة والمواصفات الفنية العامة لأجهزة أنظمة كاميرات المراقبة الأمنية.",
+      "text_for_index": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام استخدام كاميرات المراقبة الأمنية.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالوزارة: وزارة الداخلية.\n\nالوزير: وزير الداخلية.\n\nاللجنة: لجنة النظر في مخالفات النظام.\n\nكاميرات المراقبة الأمنية: أجهزة ثابتة أو متحركة، معدة لالتقاط الصور المتحركة وفقاً لأحكام النظام، ولا تشمل الكاميرات التي يضعها الأفراد داخل الوحدات والمجمعات السكنية الخاصة.\n\nأنظمة كاميرات المراقبة الأمنية: أنظمة متصلة بأجهزة أنظمة كاميرات المراقبة الأمنية لغرض المراقبة والتخزين وتحليل بث الكاميرات.\n\nأجهزة أنظمة كاميرات المراقبة الأمنية: الكاميرات والخوادم ووسائط التخزين المرتبطة بأنظمة كاميرات المراقبة الأمنية.\n\nوسائط التخزين: أوعية تستخدم لحفظ المعلومات أو نقلها ومن ثم استرجاعها عند الحاجة إليها، ومنها: القرص الصلب، والذاكرة المتنقلة، والأقراص الممغنطة، والتوصيلات، والخوادم.\n\nالتسجيلات: الصور المتحركة التي تلتقطها كاميرات المراقبة الأمنية وتحفظ في وسائط التخزين.\n\nغرف العمليات: غرف المراقبة والتحكم في الوزارة ورئاسة أمن الدولة، المرتبطة بأنظمة مركز المعلومات الوطني.\n\nوثيقة الشروط: وثيقة الشروط والمتطلبات الأمنية لتركيب نظام المراقبة والمواصفات الفنية العامة لأجهزة أنظمة كاميرات المراقبة الأمنية.",
+      "paragraph_count": 13,
+      "indexable_paragraph_count": 13,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+          "text_for_index": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "النظام: نظام استخدام كاميرات المراقبة الأمنية.",
+          "text_for_index": "النظام: نظام استخدام كاميرات المراقبة الأمنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الوزارة: وزارة الداخلية.",
+          "text_for_index": "الوزارة: وزارة الداخلية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الوزير: وزير الداخلية.",
+          "text_for_index": "الوزير: وزير الداخلية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "اللجنة: لجنة النظر في مخالفات النظام.",
+          "text_for_index": "اللجنة: لجنة النظر في مخالفات النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "كاميرات المراقبة الأمنية: أجهزة ثابتة أو متحركة، معدة لالتقاط الصور المتحركة وفقاً لأحكام النظام، ولا تشمل الكاميرات التي يضعها الأفراد داخل الوحدات والمجمعات السكنية الخاصة.",
+          "text_for_index": "كاميرات المراقبة الأمنية: أجهزة ثابتة أو متحركة، معدة لالتقاط الصور المتحركة وفقاً لأحكام النظام، ولا تشمل الكاميرات التي يضعها الأفراد داخل الوحدات والمجمعات السكنية الخاصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "أنظمة كاميرات المراقبة الأمنية: أنظمة متصلة بأجهزة أنظمة كاميرات المراقبة الأمنية لغرض المراقبة والتخزين وتحليل بث الكاميرات.",
+          "text_for_index": "أنظمة كاميرات المراقبة الأمنية: أنظمة متصلة بأجهزة أنظمة كاميرات المراقبة الأمنية لغرض المراقبة والتخزين وتحليل بث الكاميرات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "أجهزة أنظمة كاميرات المراقبة الأمنية: الكاميرات والخوادم ووسائط التخزين المرتبطة بأنظمة كاميرات المراقبة الأمنية.",
+          "text_for_index": "أجهزة أنظمة كاميرات المراقبة الأمنية: الكاميرات والخوادم ووسائط التخزين المرتبطة بأنظمة كاميرات المراقبة الأمنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "وسائط التخزين: أوعية تستخدم لحفظ المعلومات أو نقلها ومن ثم استرجاعها عند الحاجة إليها، ومنها: القرص الصلب، والذاكرة المتنقلة، والأقراص الممغنطة، والتوصيلات، والخوادم.",
+          "text_for_index": "وسائط التخزين: أوعية تستخدم لحفظ المعلومات أو نقلها ومن ثم استرجاعها عند الحاجة إليها، ومنها: القرص الصلب، والذاكرة المتنقلة، والأقراص الممغنطة، والتوصيلات، والخوادم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "التسجيلات: الصور المتحركة التي تلتقطها كاميرات المراقبة الأمنية وتحفظ في وسائط التخزين.",
+          "text_for_index": "التسجيلات: الصور المتحركة التي تلتقطها كاميرات المراقبة الأمنية وتحفظ في وسائط التخزين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "غرف العمليات: غرف المراقبة والتحكم في الوزارة ورئاسة أمن الدولة، المرتبطة بأنظمة مركز المعلومات الوطني.",
+          "text_for_index": "غرف العمليات: غرف المراقبة والتحكم في الوزارة ورئاسة أمن الدولة، المرتبطة بأنظمة مركز المعلومات الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "exception",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط"
+          ],
+          "text_verbatim": "وثيقة الشروط: وثيقة الشروط والمتطلبات الأمنية لتركيب نظام المراقبة والمواصفات الفنية العامة لأجهزة أنظمة كاميرات المراقبة الأمنية.",
+          "text_for_index": "وثيقة الشروط: وثيقة الشروط والمتطلبات الأمنية لتركيب نظام المراقبة والمواصفات الفنية العامة لأجهزة أنظمة كاميرات المراقبة الأمنية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "anti_money_laundering",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "مكافحة غسل الأموال",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الثانية",
+      "text_verbatim": "تطبق أحكام النظام على الآتي:\n\n\t• الوزارات والهيئات والمؤسسات العامة.\n\n\t• المنشآت النفطية والبتروكيميائية.\n\n\t• منشآت توليد الطاقة وتحلية المياه.\n\n\t• مرافق الإيواء السياحي.\n\n\t• المجمعات التجارية ومراكز التسوق.\n\n\t• المؤسسات المالية والبنوك ومراكز الصرافة وتحويل الأموال.\n\n\t• المباني السكنية بما في ذلك المجمعات والعمائر السكنية، وفق وثيقة الشروط وما تحدده اللائحة وما نصت عليه الأحكام الواردة في النظام.\n\n\t• المسجد الحرام والمسجد النبوي، والمشاعر المقدسة.\n\n\t• المساجد والجوامع.\n\n\t• الأندية والمنشآت والملاعب الرياضية، والمنشآت العامة والخاصة الثقافية ومراكز الشباب.\n\n\t• المنشآت الترفيهية العامة والخاصة.\n\n\t• المنشآت الصحية العامة والخاصة، وتشمل: المدن الطبية والمستشفيات والعيادات.\n\n\t• المستودعات التجارية.\n\n\t• الطرق الرئيسية وتقاطعاتها داخل المدن.\n\n\t• الطرق السريعة التي تربط المدن والمحافظات.\n\n\t• محطات التزود بالوقود، وأماكن بيع الغاز.\n\n\t• المنشآت التعليمية العامة والخاصة.\n\n\t• المنشآت التي تقدم خدمات غذائية.\n\n\t• وسائل النقل العام.\n\n\t• أماكن إقامة الفعاليات والمهرجانات.\n\n\t• أماكن الأنشطة الاقتصادية والتجارية.\n\n\t• المتاحف العامة والخاصة والمواقع التاريخية والتراثية المعدة لاستقبال الزوار.\n\n\t• أي موقع أو نشاط أو مرفق، ترى الوزارة إضافته.\n\n\tوتحدد اللائحة أماكن وضع كاميرات المراقبة الأمنية وضوابط المحافظة على أجهزة أنظمتها بما يراعي خصوصية الأفراد وما تنص عليه أحكام النظام.",
+      "text_for_index": "تطبق أحكام النظام على الآتي:\n\n • الوزارات والهيئات والمؤسسات العامة.\n\n • المنشآت النفطية والبتروكيميائية.\n\n • منشآت توليد الطاقة وتحلية المياه.\n\n • مرافق الإيواء السياحي.\n\n • المجمعات التجارية ومراكز التسوق.\n\n • المؤسسات المالية والبنوك ومراكز الصرافة وتحويل الأموال.\n\n • المباني السكنية بما في ذلك المجمعات والعمائر السكنية، وفق وثيقة الشروط وما تحدده اللائحة وما نصت عليه الأحكام الواردة في النظام.\n\n • المسجد الحرام والمسجد النبوي، والمشاعر المقدسة.\n\n • المساجد والجوامع.\n\n • الأندية والمنشآت والملاعب الرياضية، والمنشآت العامة والخاصة الثقافية ومراكز الشباب.\n\n • المنشآت الترفيهية العامة والخاصة.\n\n • المنشآت الصحية العامة والخاصة، وتشمل: المدن الطبية والمستشفيات والعيادات.\n\n • المستودعات التجارية.\n\n • الطرق الرئيسية وتقاطعاتها داخل المدن.\n\n • الطرق السريعة التي تربط المدن والمحافظات.\n\n • محطات التزود بالوقود، وأماكن بيع الغاز.\n\n • المنشآت التعليمية العامة والخاصة.\n\n • المنشآت التي تقدم خدمات غذائية.\n\n • وسائل النقل العام.\n\n • أماكن إقامة الفعاليات والمهرجانات.\n\n • أماكن الأنشطة الاقتصادية والتجارية.\n\n • المتاحف العامة والخاصة والمواقع التاريخية والتراثية المعدة لاستقبال الزوار.\n\n • أي موقع أو نشاط أو مرفق، ترى الوزارة إضافته.\n\n وتحدد اللائحة أماكن وضع كاميرات المراقبة الأمنية وضوابط المحافظة على أجهزة أنظمتها بما يراعي خصوصية الأفراد وما تنص عليه أحكام النظام.",
+      "paragraph_count": 25,
+      "indexable_paragraph_count": 25,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تطبق أحكام النظام على الآتي:",
+          "text_for_index": "تطبق أحكام النظام على الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• الوزارات والهيئات والمؤسسات العامة.",
+          "text_for_index": "• الوزارات والهيئات والمؤسسات العامة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المنشآت النفطية والبتروكيميائية.",
+          "text_for_index": "• المنشآت النفطية والبتروكيميائية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• منشآت توليد الطاقة وتحلية المياه.",
+          "text_for_index": "• منشآت توليد الطاقة وتحلية المياه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• مرافق الإيواء السياحي.",
+          "text_for_index": "• مرافق الإيواء السياحي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المجمعات التجارية ومراكز التسوق.",
+          "text_for_index": "• المجمعات التجارية ومراكز التسوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المؤسسات المالية والبنوك ومراكز الصرافة وتحويل الأموال.",
+          "text_for_index": "• المؤسسات المالية والبنوك ومراكز الصرافة وتحويل الأموال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "• المباني السكنية بما في ذلك المجمعات والعمائر السكنية، وفق وثيقة الشروط وما تحدده اللائحة وما نصت عليه الأحكام الواردة في النظام.",
+          "text_for_index": "• المباني السكنية بما في ذلك المجمعات والعمائر السكنية، وفق وثيقة الشروط وما تحدده اللائحة وما نصت عليه الأحكام الواردة في النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المسجد الحرام والمسجد النبوي، والمشاعر المقدسة.",
+          "text_for_index": "• المسجد الحرام والمسجد النبوي، والمشاعر المقدسة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المساجد والجوامع.",
+          "text_for_index": "• المساجد والجوامع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• الأندية والمنشآت والملاعب الرياضية، والمنشآت العامة والخاصة الثقافية ومراكز الشباب.",
+          "text_for_index": "• الأندية والمنشآت والملاعب الرياضية، والمنشآت العامة والخاصة الثقافية ومراكز الشباب.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المنشآت الترفيهية العامة والخاصة.",
+          "text_for_index": "• المنشآت الترفيهية العامة والخاصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المنشآت الصحية العامة والخاصة، وتشمل: المدن الطبية والمستشفيات والعيادات.",
+          "text_for_index": "• المنشآت الصحية العامة والخاصة، وتشمل: المدن الطبية والمستشفيات والعيادات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المستودعات التجارية.",
+          "text_for_index": "• المستودعات التجارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• الطرق الرئيسية وتقاطعاتها داخل المدن.",
+          "text_for_index": "• الطرق الرئيسية وتقاطعاتها داخل المدن.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• الطرق السريعة التي تربط المدن والمحافظات.",
+          "text_for_index": "• الطرق السريعة التي تربط المدن والمحافظات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• محطات التزود بالوقود، وأماكن بيع الغاز.",
+          "text_for_index": "• محطات التزود بالوقود، وأماكن بيع الغاز.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-18",
+          "paragraph_index": 18,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المنشآت التعليمية العامة والخاصة.",
+          "text_for_index": "• المنشآت التعليمية العامة والخاصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-19",
+          "paragraph_index": 19,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المنشآت التي تقدم خدمات غذائية.",
+          "text_for_index": "• المنشآت التي تقدم خدمات غذائية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-20",
+          "paragraph_index": 20,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• وسائل النقل العام.",
+          "text_for_index": "• وسائل النقل العام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-21",
+          "paragraph_index": 21,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أماكن إقامة الفعاليات والمهرجانات.",
+          "text_for_index": "• أماكن إقامة الفعاليات والمهرجانات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-22",
+          "paragraph_index": 22,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أماكن الأنشطة الاقتصادية والتجارية.",
+          "text_for_index": "• أماكن الأنشطة الاقتصادية والتجارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-23",
+          "paragraph_index": 23,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المتاحف العامة والخاصة والمواقع التاريخية والتراثية المعدة لاستقبال الزوار.",
+          "text_for_index": "• المتاحف العامة والخاصة والمواقع التاريخية والتراثية المعدة لاستقبال الزوار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-24",
+          "paragraph_index": 24,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أي موقع أو نشاط أو مرفق، ترى الوزارة إضافته.",
+          "text_for_index": "• أي موقع أو نشاط أو مرفق، ترى الوزارة إضافته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-2::paragraph-25",
+          "paragraph_index": 25,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "وتحدد اللائحة أماكن وضع كاميرات المراقبة الأمنية وضوابط المحافظة على أجهزة أنظمتها بما يراعي خصوصية الأفراد وما تنص عليه أحكام النظام.",
+          "text_for_index": "وتحدد اللائحة أماكن وضع كاميرات المراقبة الأمنية وضوابط المحافظة على أجهزة أنظمتها بما يراعي خصوصية الأفراد وما تنص عليه أحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الثالثة",
+      "text_verbatim": "لا يجوز للجهة الحكومية المختصة أن تُرخص للخاضعين لأحكام النظام بممارسة نشاط ما أو تُجدد ترخيص ممارسة ذلك النشاط؛ إلا بعد استيفاء متطلبات تركيب أجهزة أنظمة كاميرات المراقبة الأمنية المحددة في وثيقة الشروط.",
+      "text_for_index": "لا يجوز للجهة الحكومية المختصة أن تُرخص للخاضعين لأحكام النظام بممارسة نشاط ما أو تُجدد ترخيص ممارسة ذلك النشاط؛ إلا بعد استيفاء متطلبات تركيب أجهزة أنظمة كاميرات المراقبة الأمنية المحددة في وثيقة الشروط.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للجهة الحكومية المختصة أن تُرخص للخاضعين لأحكام النظام بممارسة نشاط ما أو تُجدد ترخيص ممارسة ذلك النشاط؛ إلا بعد استيفاء متطلبات تركيب أجهزة أنظمة كاميرات المراقبة الأمنية المحددة في وثيقة الشروط.",
+          "text_for_index": "لا يجوز للجهة الحكومية المختصة أن تُرخص للخاضعين لأحكام النظام بممارسة نشاط ما أو تُجدد ترخيص ممارسة ذلك النشاط؛ إلا بعد استيفاء متطلبات تركيب أجهزة أنظمة كاميرات المراقبة الأمنية المحددة في وثيقة الشروط.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الرابعة",
+      "text_verbatim": "• يجب على الخاضعين لأحكام النظام تركيب أجهزة أنظمة كاميرات المراقبة الأمنية وصيانتها، وتشغيلها على مدار الساعة.\n\n\t• يجب على الخاضعين لأحكام النظام الاحتفاظ بالتسجيلات بحسب المدة المنصوص عليها في وثيقة الشروط، وأن يبقى التسجيل محفوظاً ولا يجرى عليه أي تعديل في حال كان هناك بلاغ عن حادث معين إلى حين انتهاء إجراءات التحقيق، ويجب تسليمه إلى الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- عند طلبه.\n\n\t• تصنف الوزارة الخاضعين لأحكام النظام وفقاً للآتي:\n\n\tأ- جهات أو مرافق أو ممتلكات عالية الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر الشبكات الآمنة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.\n\n\tب- جهات أو مرافق أو ممتلكات متوسطة الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر شبكات الاتصال المفتوحة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.\n\n\tج- جهات أو مرافق أو ممتلكات منخفضة الحساسية، ولا يتطلب ربطها بغرف العمليات.\n\n\t• تستثنى الجهات الحكومية الأمنية والعسكرية ووزارة الخارجية والمباني السكنية بما في ذلك المجمعات والعمائر السكنية من الربط بغرف العمليات المشار إليه في الفقرة (3) من هذه المادة.",
+      "text_for_index": "• يجب على الخاضعين لأحكام النظام تركيب أجهزة أنظمة كاميرات المراقبة الأمنية وصيانتها، وتشغيلها على مدار الساعة.\n\n • يجب على الخاضعين لأحكام النظام الاحتفاظ بالتسجيلات بحسب المدة المنصوص عليها في وثيقة الشروط، وأن يبقى التسجيل محفوظاً ولا يجرى عليه أي تعديل في حال كان هناك بلاغ عن حادث معين إلى حين انتهاء إجراءات التحقيق، ويجب تسليمه إلى الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- عند طلبه.\n\n • تصنف الوزارة الخاضعين لأحكام النظام وفقاً للآتي:\n\n أ- جهات أو مرافق أو ممتلكات عالية الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر الشبكات الآمنة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.\n\n ب- جهات أو مرافق أو ممتلكات متوسطة الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر شبكات الاتصال المفتوحة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.\n\n ج- جهات أو مرافق أو ممتلكات منخفضة الحساسية، ولا يتطلب ربطها بغرف العمليات.\n\n • تستثنى الجهات الحكومية الأمنية والعسكرية ووزارة الخارجية والمباني السكنية بما في ذلك المجمعات والعمائر السكنية من الربط بغرف العمليات المشار إليه في الفقرة (3) من هذه المادة.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب على الخاضعين لأحكام النظام تركيب أجهزة أنظمة كاميرات المراقبة الأمنية وصيانتها، وتشغيلها على مدار الساعة.",
+          "text_for_index": "• يجب على الخاضعين لأحكام النظام تركيب أجهزة أنظمة كاميرات المراقبة الأمنية وصيانتها، وتشغيلها على مدار الساعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجب على الخاضعين لأحكام النظام الاحتفاظ بالتسجيلات بحسب المدة المنصوص عليها في وثيقة الشروط، وأن يبقى التسجيل محفوظاً ولا يجرى عليه أي تعديل في حال كان هناك بلاغ عن حادث معين إلى حين انتهاء إجراءات التحقيق، ويجب تسليمه إلى الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- عند طلبه.",
+          "text_for_index": "• يجب على الخاضعين لأحكام النظام الاحتفاظ بالتسجيلات بحسب المدة المنصوص عليها في وثيقة الشروط، وأن يبقى التسجيل محفوظاً ولا يجرى عليه أي تعديل في حال كان هناك بلاغ عن حادث معين إلى حين انتهاء إجراءات التحقيق، ويجب تسليمه إلى الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- عند طلبه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• تصنف الوزارة الخاضعين لأحكام النظام وفقاً للآتي:",
+          "text_for_index": "• تصنف الوزارة الخاضعين لأحكام النظام وفقاً للآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ- جهات أو مرافق أو ممتلكات عالية الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر الشبكات الآمنة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.",
+          "text_for_index": "أ- جهات أو مرافق أو ممتلكات عالية الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر الشبكات الآمنة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب- جهات أو مرافق أو ممتلكات متوسطة الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر شبكات الاتصال المفتوحة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.",
+          "text_for_index": "ب- جهات أو مرافق أو ممتلكات متوسطة الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر شبكات الاتصال المفتوحة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج- جهات أو مرافق أو ممتلكات منخفضة الحساسية، ولا يتطلب ربطها بغرف العمليات.",
+          "text_for_index": "ج- جهات أو مرافق أو ممتلكات منخفضة الحساسية، ولا يتطلب ربطها بغرف العمليات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-4::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• تستثنى الجهات الحكومية الأمنية والعسكرية ووزارة الخارجية والمباني السكنية بما في ذلك المجمعات والعمائر السكنية من الربط بغرف العمليات المشار إليه في الفقرة (3) من هذه المادة.",
+          "text_for_index": "• تستثنى الجهات الحكومية الأمنية والعسكرية ووزارة الخارجية والمباني السكنية بما في ذلك المجمعات والعمائر السكنية من الربط بغرف العمليات المشار إليه في الفقرة (3) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الخامسة",
+      "text_verbatim": "لا تجوز ممارسة نشاط تصنيع أو استيراد كاميرات المراقبة الأمنية -المنصوص عليها في النظام- أو بيعها أو تركيبها أو تشغيلها أو صيانتها، إلا بعد أخذ الموافقات اللازمة من الوزارة، وفق الإجراءات التي تحددها اللائحة.",
+      "text_for_index": "لا تجوز ممارسة نشاط تصنيع أو استيراد كاميرات المراقبة الأمنية -المنصوص عليها في النظام- أو بيعها أو تركيبها أو تشغيلها أو صيانتها، إلا بعد أخذ الموافقات اللازمة من الوزارة، وفق الإجراءات التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "لا تجوز ممارسة نشاط تصنيع أو استيراد كاميرات المراقبة الأمنية -المنصوص عليها في النظام- أو بيعها أو تركيبها أو تشغيلها أو صيانتها، إلا بعد أخذ الموافقات اللازمة من الوزارة، وفق الإجراءات التي تحددها اللائحة.",
+          "text_for_index": "لا تجوز ممارسة نشاط تصنيع أو استيراد كاميرات المراقبة الأمنية -المنصوص عليها في النظام- أو بيعها أو تركيبها أو تشغيلها أو صيانتها، إلا بعد أخذ الموافقات اللازمة من الوزارة، وفق الإجراءات التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor",
+        "commercial_fraud"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "غش تجاري"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة السادسة",
+      "text_verbatim": "• يحظر تركيب كاميرات المراقبة الأمنية داخل الأماكن الآتية للفئات المشمولة بأحكام النظام:\n\n\tأ- غرف: (الكشف الطبي والتنويم، والعلاج الطبيعي، وتبديل الملابس)، ودورات المياه، والصالونات والأندية النسائية، والوحدة السكنية في مرفق الإيواء السياحي.\n\n\tب- غرف إجراء العمليات الطبية والأماكن الخاصة. وتحدد اللائحة الفئات المشمولة بهذه الفقرة.\n\n\tج- ما تحدده اللائحة من أماكن أخرى وفق أحكام النظام.\n\n\t• يجب أن يوضع في الأماكن المشمولة بأحكام النظام لوحة أو لوحات ظاهرة، تبين أنها مجهزة بكاميرات المراقبة الأمنية. وتحدد اللائحة مواصفاتها وعددها وأماكن وضعها.\n\n\t• يحظر نقل التسجيلات أو نشرها إلا بموافقة الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- أو بناءً على أمر قضائي، أو بطلب من جهة التحقيق المختصة.",
+      "text_for_index": "• يحظر تركيب كاميرات المراقبة الأمنية داخل الأماكن الآتية للفئات المشمولة بأحكام النظام:\n\n أ- غرف: (الكشف الطبي والتنويم، والعلاج الطبيعي، وتبديل الملابس)، ودورات المياه، والصالونات والأندية النسائية، والوحدة السكنية في مرفق الإيواء السياحي.\n\n ب- غرف إجراء العمليات الطبية والأماكن الخاصة. وتحدد اللائحة الفئات المشمولة بهذه الفقرة.\n\n ج- ما تحدده اللائحة من أماكن أخرى وفق أحكام النظام.\n\n • يجب أن يوضع في الأماكن المشمولة بأحكام النظام لوحة أو لوحات ظاهرة، تبين أنها مجهزة بكاميرات المراقبة الأمنية. وتحدد اللائحة مواصفاتها وعددها وأماكن وضعها.\n\n • يحظر نقل التسجيلات أو نشرها إلا بموافقة الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- أو بناءً على أمر قضائي، أو بطلب من جهة التحقيق المختصة.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يحظر تركيب كاميرات المراقبة الأمنية داخل الأماكن الآتية للفئات المشمولة بأحكام النظام:",
+          "text_for_index": "• يحظر تركيب كاميرات المراقبة الأمنية داخل الأماكن الآتية للفئات المشمولة بأحكام النظام:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "أ- غرف: (الكشف الطبي والتنويم، والعلاج الطبيعي، وتبديل الملابس)، ودورات المياه، والصالونات والأندية النسائية، والوحدة السكنية في مرفق الإيواء السياحي.",
+          "text_for_index": "أ- غرف: (الكشف الطبي والتنويم، والعلاج الطبيعي، وتبديل الملابس)، ودورات المياه، والصالونات والأندية النسائية، والوحدة السكنية في مرفق الإيواء السياحي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "ب- غرف إجراء العمليات الطبية والأماكن الخاصة. وتحدد اللائحة الفئات المشمولة بهذه الفقرة.",
+          "text_for_index": "ب- غرف إجراء العمليات الطبية والأماكن الخاصة. وتحدد اللائحة الفئات المشمولة بهذه الفقرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ج- ما تحدده اللائحة من أماكن أخرى وفق أحكام النظام.",
+          "text_for_index": "ج- ما تحدده اللائحة من أماكن أخرى وفق أحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب أن يوضع في الأماكن المشمولة بأحكام النظام لوحة أو لوحات ظاهرة، تبين أنها مجهزة بكاميرات المراقبة الأمنية. وتحدد اللائحة مواصفاتها وعددها وأماكن وضعها.",
+          "text_for_index": "• يجب أن يوضع في الأماكن المشمولة بأحكام النظام لوحة أو لوحات ظاهرة، تبين أنها مجهزة بكاميرات المراقبة الأمنية. وتحدد اللائحة مواصفاتها وعددها وأماكن وضعها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-6::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• يحظر نقل التسجيلات أو نشرها إلا بموافقة الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- أو بناءً على أمر قضائي، أو بطلب من جهة التحقيق المختصة.",
+          "text_for_index": "• يحظر نقل التسجيلات أو نشرها إلا بموافقة الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- أو بناءً على أمر قضائي، أو بطلب من جهة التحقيق المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة السابعة",
+      "text_verbatim": "للوزارة أو رئاسة أمن الدولة -بحسب الأحوال- مشاهدة بث وتسجيلات كاميرات المراقبة الأمنية، والاحتفاظ بنسخة منها ومعالجة وتحليل بياناتها في حال كان هناك ضرورة ولأسباب تتعلق بالأمن، بما لا يتعارض مع الأنظمة ذات العلاقة، وتقديمها للمحكمة المختصة، وجهة التحقيق المختصة، إذا طلب منها ذلك.",
+      "text_for_index": "للوزارة أو رئاسة أمن الدولة -بحسب الأحوال- مشاهدة بث وتسجيلات كاميرات المراقبة الأمنية، والاحتفاظ بنسخة منها ومعالجة وتحليل بياناتها في حال كان هناك ضرورة ولأسباب تتعلق بالأمن، بما لا يتعارض مع الأنظمة ذات العلاقة، وتقديمها للمحكمة المختصة، وجهة التحقيق المختصة، إذا طلب منها ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "للوزارة أو رئاسة أمن الدولة -بحسب الأحوال- مشاهدة بث وتسجيلات كاميرات المراقبة الأمنية، والاحتفاظ بنسخة منها ومعالجة وتحليل بياناتها في حال كان هناك ضرورة ولأسباب تتعلق بالأمن، بما لا يتعارض مع الأنظمة ذات العلاقة، وتقديمها للمحكمة المختصة، وجهة التحقيق المختصة، إذا طلب منها ذلك.",
+          "text_for_index": "للوزارة أو رئاسة أمن الدولة -بحسب الأحوال- مشاهدة بث وتسجيلات كاميرات المراقبة الأمنية، والاحتفاظ بنسخة منها ومعالجة وتحليل بياناتها في حال كان هناك ضرورة ولأسباب تتعلق بالأمن، بما لا يتعارض مع الأنظمة ذات العلاقة، وتقديمها للمحكمة المختصة، وجهة التحقيق المختصة، إذا طلب منها ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الثامنة",
+      "text_verbatim": "تتولى الهيئة السعودية للبيانات والذكاء الاصطناعي -باستخدام تقنيات البيانات والذكاء الاصطناعي- تطوير أنظمة معالجة وتحليل بث وتسجيلات كاميرات المراقبة الأمنية، وتمكين الوزارة ورئاسة أمن الدولة -بحسب الأحوال- من استخدامها والاستفادة منها وفقاً للأنظمة ذات الصلة؛ وذلك بما لا يتعارض مع الأنظمة ذات العلاقة.",
+      "text_for_index": "تتولى الهيئة السعودية للبيانات والذكاء الاصطناعي -باستخدام تقنيات البيانات والذكاء الاصطناعي- تطوير أنظمة معالجة وتحليل بث وتسجيلات كاميرات المراقبة الأمنية، وتمكين الوزارة ورئاسة أمن الدولة -بحسب الأحوال- من استخدامها والاستفادة منها وفقاً للأنظمة ذات الصلة؛ وذلك بما لا يتعارض مع الأنظمة ذات العلاقة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتولى الهيئة السعودية للبيانات والذكاء الاصطناعي -باستخدام تقنيات البيانات والذكاء الاصطناعي- تطوير أنظمة معالجة وتحليل بث وتسجيلات كاميرات المراقبة الأمنية، وتمكين الوزارة ورئاسة أمن الدولة -بحسب الأحوال- من استخدامها والاستفادة منها وفقاً للأنظمة ذات الصلة؛ وذلك بما لا يتعارض مع الأنظمة ذات العلاقة.",
+          "text_for_index": "تتولى الهيئة السعودية للبيانات والذكاء الاصطناعي -باستخدام تقنيات البيانات والذكاء الاصطناعي- تطوير أنظمة معالجة وتحليل بث وتسجيلات كاميرات المراقبة الأمنية، وتمكين الوزارة ورئاسة أمن الدولة -بحسب الأحوال- من استخدامها والاستفادة منها وفقاً للأنظمة ذات الصلة؛ وذلك بما لا يتعارض مع الأنظمة ذات العلاقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة التاسعة",
+      "text_verbatim": "• تضبط مخالفات أحكام النظام وتثبت في محاضر وفق الإجراءات التي تحددها اللائحة.\n\n\t• يتولى موظفون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام. وتحدد اللائحة إجراءات عملهم وفقاً لأحكام النظام.",
+      "text_for_index": "• تضبط مخالفات أحكام النظام وتثبت في محاضر وفق الإجراءات التي تحددها اللائحة.\n\n • يتولى موظفون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام. وتحدد اللائحة إجراءات عملهم وفقاً لأحكام النظام.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• تضبط مخالفات أحكام النظام وتثبت في محاضر وفق الإجراءات التي تحددها اللائحة.",
+          "text_for_index": "• تضبط مخالفات أحكام النظام وتثبت في محاضر وفق الإجراءات التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• يتولى موظفون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام. وتحدد اللائحة إجراءات عملهم وفقاً لأحكام النظام.",
+          "text_for_index": "• يتولى موظفون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام. وتحدد اللائحة إجراءات عملهم وفقاً لأحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة العاشرة",
+      "text_verbatim": "يجوز للوزارة إسناد مهمات ضبط بعض مخالفات أحكام النظام -عدا المخالفات ذات الطابع الأمني- إلى القطاع الخاص؛ وذلك وفقاً للإجراءات النظامية ذات الصلة.",
+      "text_for_index": "يجوز للوزارة إسناد مهمات ضبط بعض مخالفات أحكام النظام -عدا المخالفات ذات الطابع الأمني- إلى القطاع الخاص؛ وذلك وفقاً للإجراءات النظامية ذات الصلة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "يجوز للوزارة إسناد مهمات ضبط بعض مخالفات أحكام النظام -عدا المخالفات ذات الطابع الأمني- إلى القطاع الخاص؛ وذلك وفقاً للإجراءات النظامية ذات الصلة.",
+          "text_for_index": "يجوز للوزارة إسناد مهمات ضبط بعض مخالفات أحكام النظام -عدا المخالفات ذات الطابع الأمني- إلى القطاع الخاص؛ وذلك وفقاً للإجراءات النظامية ذات الصلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الحادية عشرة",
+      "text_verbatim": "تكوّن بقرار من الوزير، لجنة (أو أكثر) في كل منطقة، من ثلاثة أعضاء، يحمل أحدهم مؤهلاً شرعيّاً أو نظاميّاً؛ للنظر في المخالفات المنصوص عليها في النظام وتقرير العقوبة المناسبة، وفق ما ورد في المادة (الثانية عشرة) من النظام.",
+      "text_for_index": "تكوّن بقرار من الوزير، لجنة (أو أكثر) في كل منطقة، من ثلاثة أعضاء، يحمل أحدهم مؤهلاً شرعيّاً أو نظاميّاً؛ للنظر في المخالفات المنصوص عليها في النظام وتقرير العقوبة المناسبة، وفق ما ورد في المادة (الثانية عشرة) من النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "تكوّن بقرار من الوزير، لجنة (أو أكثر) في كل منطقة، من ثلاثة أعضاء، يحمل أحدهم مؤهلاً شرعيّاً أو نظاميّاً؛ للنظر في المخالفات المنصوص عليها في النظام وتقرير العقوبة المناسبة، وفق ما ورد في المادة (الثانية عشرة) من النظام.",
+          "text_for_index": "تكوّن بقرار من الوزير، لجنة (أو أكثر) في كل منطقة، من ثلاثة أعضاء، يحمل أحدهم مؤهلاً شرعيّاً أو نظاميّاً؛ للنظر في المخالفات المنصوص عليها في النظام وتقرير العقوبة المناسبة، وفق ما ورد في المادة (الثانية عشرة) من النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "commercial_fraud",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الثانية عشرة",
+      "text_verbatim": "• دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل شخص ذي صفة طبيعية أو اعتبارية خاصة -خاضع لأحكام النظام- يخالف أي حكم من أحكام النظام وفقاً للآتي:\n\n\tأ- غرامة مقدارها (خمسمائة) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، مخالف للمواصفات الفنية المبينة في وثيقة الشروط.\n\n\tب- غرامة مقدارها (ألف) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، لم يُركب وفق ما حدد في وثيقة الشروط.\n\n\tج- غرامة مقدارها (ألف) ريال عن كل مخالفة لأحكام الفقرة (2) من المادة (السادسة) من النظام.\n\n\tد- غرامة مقدارها (خمسة آلاف) ريال عن مخالفة عدم الاحتفاظ بالتسجيلات وفق ما ورد بالفقرة (2) من المادة (الرابعة) من النظام.\n\n\tهـ- غرامة مقدارها (عشرة آلاف) ريال عن كل مخالفة لحكم الفقرة (1) من المادة (السادسة) من النظام.\n\n\tو- غرامة مقدارها (عشرون ألف) ريال على كل من يقوم بنقل التسجيلات أو نشرها بالمخالفة لأحكام النظام، أو إتلاف أو تخريب أجهزة أنظمة كاميرات المراقبة الأمنية أو التسجيلات.\n\n\t• يصدر بقرار من الوزير جدول تحدَّد فيه المخالفات التي يُلزم فيها المخالف -خلال مدة محددة- بإزالة محل المخالفة، على أن يراعى أنه في حال انتهاء المدة المحددة دون أن يقوم بما ألزم به فتحتسب عليه مخالفة جديدة.",
+      "text_for_index": "• دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل شخص ذي صفة طبيعية أو اعتبارية خاصة -خاضع لأحكام النظام- يخالف أي حكم من أحكام النظام وفقاً للآتي:\n\n أ- غرامة مقدارها (خمسمائة) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، مخالف للمواصفات الفنية المبينة في وثيقة الشروط.\n\n ب- غرامة مقدارها (ألف) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، لم يُركب وفق ما حدد في وثيقة الشروط.\n\n ج- غرامة مقدارها (ألف) ريال عن كل مخالفة لأحكام الفقرة (2) من المادة (السادسة) من النظام.\n\n د- غرامة مقدارها (خمسة آلاف) ريال عن مخالفة عدم الاحتفاظ بالتسجيلات وفق ما ورد بالفقرة (2) من المادة (الرابعة) من النظام.\n\n هـ- غرامة مقدارها (عشرة آلاف) ريال عن كل مخالفة لحكم الفقرة (1) من المادة (السادسة) من النظام.\n\n و- غرامة مقدارها (عشرون ألف) ريال على كل من يقوم بنقل التسجيلات أو نشرها بالمخالفة لأحكام النظام، أو إتلاف أو تخريب أجهزة أنظمة كاميرات المراقبة الأمنية أو التسجيلات.\n\n • يصدر بقرار من الوزير جدول تحدَّد فيه المخالفات التي يُلزم فيها المخالف -خلال مدة محددة- بإزالة محل المخالفة، على أن يراعى أنه في حال انتهاء المدة المحددة دون أن يقوم بما ألزم به فتحتسب عليه مخالفة جديدة.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل شخص ذي صفة طبيعية أو اعتبارية خاصة -خاضع لأحكام النظام- يخالف أي حكم من أحكام النظام وفقاً للآتي:",
+          "text_for_index": "• دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل شخص ذي صفة طبيعية أو اعتبارية خاصة -خاضع لأحكام النظام- يخالف أي حكم من أحكام النظام وفقاً للآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "أ- غرامة مقدارها (خمسمائة) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، مخالف للمواصفات الفنية المبينة في وثيقة الشروط.",
+          "text_for_index": "أ- غرامة مقدارها (خمسمائة) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، مخالف للمواصفات الفنية المبينة في وثيقة الشروط.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "ب- غرامة مقدارها (ألف) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، لم يُركب وفق ما حدد في وثيقة الشروط.",
+          "text_for_index": "ب- غرامة مقدارها (ألف) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، لم يُركب وفق ما حدد في وثيقة الشروط.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ج- غرامة مقدارها (ألف) ريال عن كل مخالفة لأحكام الفقرة (2) من المادة (السادسة) من النظام.",
+          "text_for_index": "ج- غرامة مقدارها (ألف) ريال عن كل مخالفة لأحكام الفقرة (2) من المادة (السادسة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "د- غرامة مقدارها (خمسة آلاف) ريال عن مخالفة عدم الاحتفاظ بالتسجيلات وفق ما ورد بالفقرة (2) من المادة (الرابعة) من النظام.",
+          "text_for_index": "د- غرامة مقدارها (خمسة آلاف) ريال عن مخالفة عدم الاحتفاظ بالتسجيلات وفق ما ورد بالفقرة (2) من المادة (الرابعة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "هـ- غرامة مقدارها (عشرة آلاف) ريال عن كل مخالفة لحكم الفقرة (1) من المادة (السادسة) من النظام.",
+          "text_for_index": "هـ- غرامة مقدارها (عشرة آلاف) ريال عن كل مخالفة لحكم الفقرة (1) من المادة (السادسة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "التزام"
+          ],
+          "text_verbatim": "و- غرامة مقدارها (عشرون ألف) ريال على كل من يقوم بنقل التسجيلات أو نشرها بالمخالفة لأحكام النظام، أو إتلاف أو تخريب أجهزة أنظمة كاميرات المراقبة الأمنية أو التسجيلات.",
+          "text_for_index": "و- غرامة مقدارها (عشرون ألف) ريال على كل من يقوم بنقل التسجيلات أو نشرها بالمخالفة لأحكام النظام، أو إتلاف أو تخريب أجهزة أنظمة كاميرات المراقبة الأمنية أو التسجيلات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-12::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يصدر بقرار من الوزير جدول تحدَّد فيه المخالفات التي يُلزم فيها المخالف -خلال مدة محددة- بإزالة محل المخالفة، على أن يراعى أنه في حال انتهاء المدة المحددة دون أن يقوم بما ألزم به فتحتسب عليه مخالفة جديدة.",
+          "text_for_index": "• يصدر بقرار من الوزير جدول تحدَّد فيه المخالفات التي يُلزم فيها المخالف -خلال مدة محددة- بإزالة محل المخالفة، على أن يراعى أنه في حال انتهاء المدة المحددة دون أن يقوم بما ألزم به فتحتسب عليه مخالفة جديدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الثالثة عشرة",
+      "text_verbatim": "يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (ستين) يومًا من تاريخ إبلاغه بالقرار.",
+      "text_for_index": "يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (ستين) يومًا من تاريخ إبلاغه بالقرار.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (ستين) يومًا من تاريخ إبلاغه بالقرار.",
+          "text_for_index": "يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (ستين) يومًا من تاريخ إبلاغه بالقرار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "commercial_fraud"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الرابعة عشرة",
+      "text_verbatim": "على الخاضعين لأحكام النظام الالتزام بما يأتي:\n\n\t• الشروط والمتطلبات الأمنية والمواصفات الفنية الواردة في وثيقة الشروط. وتلتزم الجهات الخاضعة لإشراف الهيئة العليا للأمن الصناعي -بالإضافة إلى الأحكام الواردة في النظام ووثيقة الشروط- بالمواصفات الأمنية الصادرة عن الهيئة.\n\n\t• إدارة واستخدام الأنظمة المرتبطة بأجهزة أنظمة كاميرات المراقبة، وذلك بتطبيق ما يصدر عن الهيئة الوطنية للأمن السيبراني وما تنص عليه وثيقة الشروط.",
+      "text_for_index": "على الخاضعين لأحكام النظام الالتزام بما يأتي:\n\n • الشروط والمتطلبات الأمنية والمواصفات الفنية الواردة في وثيقة الشروط. وتلتزم الجهات الخاضعة لإشراف الهيئة العليا للأمن الصناعي -بالإضافة إلى الأحكام الواردة في النظام ووثيقة الشروط- بالمواصفات الأمنية الصادرة عن الهيئة.\n\n • إدارة واستخدام الأنظمة المرتبطة بأجهزة أنظمة كاميرات المراقبة، وذلك بتطبيق ما يصدر عن الهيئة الوطنية للأمن السيبراني وما تنص عليه وثيقة الشروط.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على الخاضعين لأحكام النظام الالتزام بما يأتي:",
+          "text_for_index": "على الخاضعين لأحكام النظام الالتزام بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• الشروط والمتطلبات الأمنية والمواصفات الفنية الواردة في وثيقة الشروط. وتلتزم الجهات الخاضعة لإشراف الهيئة العليا للأمن الصناعي -بالإضافة إلى الأحكام الواردة في النظام ووثيقة الشروط- بالمواصفات الأمنية الصادرة عن الهيئة.",
+          "text_for_index": "• الشروط والمتطلبات الأمنية والمواصفات الفنية الواردة في وثيقة الشروط. وتلتزم الجهات الخاضعة لإشراف الهيئة العليا للأمن الصناعي -بالإضافة إلى الأحكام الواردة في النظام ووثيقة الشروط- بالمواصفات الأمنية الصادرة عن الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-14::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "• إدارة واستخدام الأنظمة المرتبطة بأجهزة أنظمة كاميرات المراقبة، وذلك بتطبيق ما يصدر عن الهيئة الوطنية للأمن السيبراني وما تنص عليه وثيقة الشروط.",
+          "text_for_index": "• إدارة واستخدام الأنظمة المرتبطة بأجهزة أنظمة كاميرات المراقبة، وذلك بتطبيق ما يصدر عن الهيئة الوطنية للأمن السيبراني وما تنص عليه وثيقة الشروط.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الخامسة عشرة",
+      "text_verbatim": "للوزير -أو من يفوضه- أن يمنح -وفقاً لضوابط وشروط يضعها الوزير- من يساعد في الكشف عن أي مخالفة لأحكام النظام مكافأةً ماليةً تشجيعية لا تزيد على (%10) من مبلغ الغرامة المحصلة من المخالفة؛ بشرط ألا يكون من موظفي الوزارة أو من المستعان بهم لضبط المخالفات أو أداء مهمات الرقابة أو التفتيش.",
+      "text_for_index": "للوزير -أو من يفوضه- أن يمنح -وفقاً لضوابط وشروط يضعها الوزير- من يساعد في الكشف عن أي مخالفة لأحكام النظام مكافأةً ماليةً تشجيعية لا تزيد على (%10) من مبلغ الغرامة المحصلة من المخالفة؛ بشرط ألا يكون من موظفي الوزارة أو من المستعان بهم لضبط المخالفات أو أداء مهمات الرقابة أو التفتيش.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير -أو من يفوضه- أن يمنح -وفقاً لضوابط وشروط يضعها الوزير- من يساعد في الكشف عن أي مخالفة لأحكام النظام مكافأةً ماليةً تشجيعية لا تزيد على (%10) من مبلغ الغرامة المحصلة من المخالفة؛ بشرط ألا يكون من موظفي الوزارة أو من المستعان بهم لضبط المخالفات أو أداء مهمات الرقابة أو التفتيش.",
+          "text_for_index": "للوزير -أو من يفوضه- أن يمنح -وفقاً لضوابط وشروط يضعها الوزير- من يساعد في الكشف عن أي مخالفة لأحكام النظام مكافأةً ماليةً تشجيعية لا تزيد على (%10) من مبلغ الغرامة المحصلة من المخالفة؛ بشرط ألا يكون من موظفي الوزارة أو من المستعان بهم لضبط المخالفات أو أداء مهمات الرقابة أو التفتيش.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "commercial_fraud"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة السادسة عشرة",
+      "text_verbatim": "تتولى الوزارة -بالاشتراك مع وزارة الاتصالات وتقنية المعلومات، ورئاسة أمن الدولة، والهيئة الوطنية للأمن السيبراني، والهيئة السعودية للبيانات والذكاء الاصطناعي، والهيئة السعودية للمواصفات والمقاييس والجودة، والجهات الأخرى ذات العلاقة- إعداد وثيقة الشروط، واقتراح ما قد تتطلبه -بحسب الاقتضاء- من تعديلات.\n\nوتصدر الوثيقة بقرار من الوزير خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+      "text_for_index": "تتولى الوزارة -بالاشتراك مع وزارة الاتصالات وتقنية المعلومات، ورئاسة أمن الدولة، والهيئة الوطنية للأمن السيبراني، والهيئة السعودية للبيانات والذكاء الاصطناعي، والهيئة السعودية للمواصفات والمقاييس والجودة، والجهات الأخرى ذات العلاقة- إعداد وثيقة الشروط، واقتراح ما قد تتطلبه -بحسب الاقتضاء- من تعديلات.\n\nوتصدر الوثيقة بقرار من الوزير خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تتولى الوزارة -بالاشتراك مع وزارة الاتصالات وتقنية المعلومات، ورئاسة أمن الدولة، والهيئة الوطنية للأمن السيبراني، والهيئة السعودية للبيانات والذكاء الاصطناعي، والهيئة السعودية للمواصفات والمقاييس والجودة، والجهات الأخرى ذات العلاقة- إعداد وثيقة الشروط، واقتراح ما قد تتطلبه -بحسب الاقتضاء- من تعديلات.",
+          "text_for_index": "تتولى الوزارة -بالاشتراك مع وزارة الاتصالات وتقنية المعلومات، ورئاسة أمن الدولة، والهيئة الوطنية للأمن السيبراني، والهيئة السعودية للبيانات والذكاء الاصطناعي، والهيئة السعودية للمواصفات والمقاييس والجودة، والجهات الأخرى ذات العلاقة- إعداد وثيقة الشروط، واقتراح ما قد تتطلبه -بحسب الاقتضاء- من تعديلات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "وتصدر الوثيقة بقرار من الوزير خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+          "text_for_index": "وتصدر الوثيقة بقرار من الوزير خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة السابعة عشرة",
+      "text_verbatim": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل به.",
+      "text_for_index": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل به.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل به.",
+          "text_for_index": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل به.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام استخدام كاميرات المراقبة الأمنية، المادة الثامنة عشرة",
+      "text_verbatim": "يعمل بالنظام بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بالنظام بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-astkhdam-kamyrat-almraqbh-alamnyh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بالنظام بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بالنظام بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

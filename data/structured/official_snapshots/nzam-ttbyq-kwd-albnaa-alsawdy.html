@@ -1,0 +1,983 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "087e7bfe1b84e0008f930d9742c84a8d77400bdc31009b097820b51c19e74a4ec1dd5c689ca7d453dc6726f57ed0ffe650074e9e183adfffc1a27362a72a625827c68e0a47bec044b7a3ba35da8f2a0e6567c8f24f24cc9342cec45111c9aac759c77f901f6383efbaead317c404723a98881442dbf657e67845a5aaecd23de8be08ac42ca64e1e26b79d662bd121df563f67a89ea248e36e8ba3cee7caffb87ace1969927fcaf74195d516f8d8ffeaeb157df7795f554b0079e2977ee3ffe79a568e09ea20dd5c9d2a219674f49ce52813f8ca4485b4394b637f10848181471bb8e18528b5bc53a";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab20007276be85ccd1c6c269f5fb900baa5e4d8e2cb7aa9d1abaa92c954c81f50dcdc6?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام تطبيق كود البناء السعودي
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام تطبيق كود البناء السعودي</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الخدمات البلدية والتخطيط والتطوير الحضري</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام تطبيق كود البناء السعودي</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام تطبيق كود البناء السعودي</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>166976</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="cfc97985-4a9f-4012-832b-a9a700f21ed2">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><big><strong>تضمن النظام :</strong> تعريفات، تطبيق الكود على أعمال البناء في القطاعين العام والخاص، تطبيق الكود تدريجي، حظر تطبيق أي كود غير الكود السعودي، جهة متابعة تطبيق الكود ومراقبته، ما تتولاه اللجنة الوطنية لكود البناء السعودي، تحديث الكود وإعادة إصداره، الالتزام بالكود، التصميم والإشراف والتنفيذ، الالتزام بتنفيذ الأعمال وفق الكود، شهادة إشغال المبنى، المخالفات والعقوبات، ضبط مخالفات الكود وتوثيقها، لجنة النظر في المخالفات وإيقاع العقوبات، التظلم، إعداد اللوائح ولائحة تصنيف مخالفات الكود، النشر والنفاذ.</big></p>
+                    </div>
+                    <br />
+                        <div dir="ltr">
+                            <h4>Law name</h4>
+                            <div dir="ltr" class="HTMLContainer">
+                                Law on Implementation of the Saudi Building Code
+                            </div>
+                        </div>
+                        <div dir="ltr">
+                            <h4>Law description</h4>
+
+
+                            <div dir="ltr" class="HTMLContainer">
+
+                                The law includes:
+Definitions; application of the Code to construction works in the public and private sectors; gradual implementation of the Code; prohibition of applying any code other than the Saudi Code; the agency responsible for following up on and monitoring the implementation of the Code; the duties of the National Committee for the Saudi Building Code; updating and reissuing the Code; compliance with the Code; design, supervision, and execution; obligation to carry out works in accordance with the Code; building occupancy certificate; violations and penalties; recording and documenting Code violations; the committee for considering violations and imposing penalties; grievances; preparation of regulations and the Code violation classification schedule; publication and entry into force.
+                            </div>
+                        </div>
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام تطبيق كود البناء السعودي</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1438/04/26 هـ  الموافق : 24/01/2017 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1440/03/21  هـ الموافق : 29/11/2018 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/142df639-f244-41ed-a415-a9b300ea6e6b?lawId=cfc97985-4a9f-4012-832b-a9a700f21ed2">مرسوم ملكي رقم م / 43 بتاريخ 26 / 4 / 1438 هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/324b096f-5a33-43d1-be52-aa1500d10598?lawId=cfc97985-4a9f-4012-832b-a9a700f21ed2">قرار مجلس الوزراء</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="cfc97985-4a9f-4012-832b-a9a700f21ed2" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/13e05a51-4a67-4f6d-9eb6-98b26074bf8b?lawId=cfc97985-4a9f-4012-832b-a9a700f21ed2" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+                    <a href="/Files/Download/?attId=b9c52561-c820-4617-bba7-adbb0120ddad" target="_blank">
+                        <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                        <span>Translated document</span>
+                    </a>
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="cfc97985-4a9f-4012-832b-a9a700f21ed2">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="cfc97985-4a9f-4012-832b-a9a700f21ed2" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام تطبيق كود البناء السعودي</h3>
+        <h3 class="center">1438 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم م / 43 بتاريخ 26 / 4 / 1438 هـ</h4>
+            <div class="HTMLContainer">
+                <p><p>بعون الله تعالى&nbsp;<br />
+نحن سلمان بن عبدالعزيز آل سعود&nbsp;<br />
+ملك المملكة العربية السعودية<br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / ٩٠) بتاريخ ٢٧ / ٨ / ١٤١٢هـ.&nbsp;<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / ١٣) بتاريخ ٣ / ٣ / ١٤١٤هـ.<br />
+وبناءً على المادتين (السابعة عشرة) و(الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر بالملكي رقم (أ / ٩١) بتاريخ ٢٧ / ٨ / ١٤١٢هـ.&nbsp;<br />
+وبعد الاطلاع على قراري مجلس الشورى رقم (١٨٣ / ٧٥) بتاريخ ١٠ / ٢ / ١٤٣٤هـ، ورقم (١٥٢ / ٧٧) بتاريخ ٢٤ / ٢ / ١٤٣٦هـ.&nbsp;<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (٢٤١) بتاريخ ٢٥ / ٤ / ١٤٣٨هـ.&nbsp;<br />
+وبعد الاطلاع على الأمر الملكي رقم (١١٦٢٧) بتاريخ ٨ / ٣ / ١٤٣٨هـ.&nbsp;<br />
+<strong>رسمنا بما هو آت:</strong><br />
+أولاً : الموافقة على نظام تطبيق كود البناء السعودي، بالصيغة المرافقة.<br />
+ثانياً : على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة &ndash; كل فيما يخُصُّه &ndash; تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء</h4>
+            <p><p>إن مجلس الوزراء<br />
+بعد الاطلاع على المعاملة الواردة بالأمر الملكي رقم ( 11627 ) وتاريخ 8 / 3 / 1438هـ، المشتملة على برقية الهيئة السعودية للمواصفات والمقاييس والجودة رقم 56 / م.و وتاريخ 22 / 1 / 1428هـ، وخطاباتها رقم 177 / م.و وتاريخ 29 / 2 / 1428هـ، ورقم 53428 وتاريخ 25 / 9 / 1437هــ ورقم 53460 وتاريخ 5 / 10 / 1437 هـ، في شأن مشروع نظام تطبيق كود البناء السعودي.<br />
+وبعد الاطلاع على مشروع النظام المشار إليه.<br />
+وبعد الاطلاع على المحاضر رقم ( 150 ) وتاريخ 15 / 4 / 1428هـ، ورقم ( 221 9 وتاريخ 15 / 9 / 1429هـ، ورقم ( 593 ) وتاريخ 29 / 12 / 1430هـ، ورقم ( 537 ) وتاريخ 27 / 9 / 1434هـ ورقم ( 607 ) وتاريخ 22 / 9 / 1436هـ، والمذكرتين رقم ( 37 ) وتاريخ 13 / 1 / 1437هـ، ورقم ( 35 ) وتاريخ 15 / 1 / 1438هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+وبعد النظر في قراري مجلس الشورى رقم ( 183 / 75 ) وتاريخ 10 / 2 / 1434هــ، ورقم ( 152 / 77 ) وتاريخ 24 / 2 / 1436هـ.<br />
+وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم ( 973 ) وتاريخ 19 / 3 / 1438هـ.</p>
+
+<p style="text-align:center"><strong>يقرر</strong></p>
+
+<p>الموافقة على نظام تطبيق كود البناء السعودي، بالصيغة المرافقة.<br />
+وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</p>
+
+<p style="text-align:left">رئيس مجلس الوزراء</p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام تطبيق كود البناء السعودي</h1></div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الأولى: 
+</h3>
+                <div class="HTMLContainer">
+                    يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:<br />
+<big>الوزارة : </big> وزارة الشؤون البلدية والقروية.<br />
+<big>الجهاز البلدي : </big> الأمانة أو البلدية.<br />
+<big>اللجنة الوطنية : </big> اللجنة الوطنية لكود البناء السعودي.<br />
+<big>الكود : </big> كود البناء السعودي، وهو مجموعة الاشتراطات والمتطلبات وما يتبعها من لوائح تنفيذية وملاحق متعلقة بالبناء والتشييد؛ لضمان السلامة والصحة العامة.<br />
+<big>النظام : </big> نظام تطبيق كود البناء السعودي.<br />
+<big>اللوائح : </big> اللوائح التنفيذية للنظام.<br />
+<big>البناء / المبنى : </big> ما يشيد ويجهز للاستخدام والإشغال، وورد له تصنيف في الكود.<br />
+<big>المصمّم : </big> الشخص ذو الصفة الطبيعية أو الاعتبارية المرخص له، الذي يكلفه المالك بعمل الدراسات والتصاميم بما يلبي احتياجاته وطلباته وفق الكود.<br />
+<big>المنفذ (المقاول) : </big> الشخص ذو الصفة الطبيعية أو الاعتبارية المرخص له، الذي يكلفه المالك بتنفيذ أعمال البناء أو التركيب أو التشغيل أو الصيانة وفق الكود.<br />
+<big>المشرف : </big> الشخص ذو الصفة الطبيعية أو الاعتبارية المرخص له الذي يكلفه المالك بالقيام بأعمال الإشراف.<br />
+<big>رخصة البناء : </big> إذنٌ بالبناء يصدره الجهاز البلدي.<br />
+<big>شهادة الإشغال : </big> إذنٌ بإشغال المبنى يصدره الجهاز البلدي بعد التأكد من مطابقته للكود.<br />
+<big>رخصة الممارسة : </big> تصريح تصدره الجهة المختصة للأفراد، والهيئات، والمؤسسات، والشركات؛ لممارسة أعمال الدراسات والتصاميم، أو التنفيذ أو الإشراف، وفق الكود.<br />
+<big>الجهات ذات العلاقة : </big> الجهات الحكومية المعنية وفقاً لاختصاصها بمراقبة تطبيق الكود، وهي: وزارة الشؤون البلدية والقروية، ووزارة الداخلية (المديرية العامة للدفاع المدني)، ووزارة الطاقة والصناعة والثروة المعدنية.<br />
+<big>المخالفة : </big> كل تجاوز للكود، متعمد أو غير متعمد.<br />
+<big>المخالفة الخطرة : </big> كل مخالفة للكود يترتب عليها تعريض الأرواح أو الممتلكات للخطر. 
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="704baad9-1d55-4d2a-905f-a9a700f21f2f" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="704baad9-1d55-4d2a-905f-a9a700f21f2f popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الأولى:</h3>
+                                    <div class="HTMLContainer">
+                                        <p>&bull;تعريف ( الجهات ذات العلاقة )<br />
+-إضافة &quot;الهيئة السعودية للمواصفات والمقاييس والجودة&quot; بموجب المرسوم الملكي رقم (م / 15) وتاريخ 19 / 1 / 1441هـ.</p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/3eab2ed4-47ed-424d-b3ba-aae100d80919?attachmentTitle=المادة الأولى:" target="_blank" class="hidden-print"></a>
+                                </div>
+                                <div class="article_item_popup">
+                                    <h3>المادة الأولى:</h3>
+                                    <div class="HTMLContainer">
+                                        <p><strong>- تعديل تعريف (اللجنة الوطنية)</strong>، ليكون بالنص الآتي: &quot;المركز: المركز السعودي لكود البناء&quot;، وذلك بموجب المرسوم الملكي رقم (م/204) وتاريخ 1446/9/12هـ</p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/a7ecf86c-d4a1-449f-a7c7-b2db008dc41e?attachmentTitle=المادة الأولى:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية:  
+</h3>
+                <div class="HTMLContainer">
+                     1- يطبق الكود على جميع أعمال البناء في القطاعين العام والخاص، بما في ذلك تصميم البناء وتنفيذه وتشغيله وصيانته وتعديله، ويطبق كذلك على المباني القائمة في حالة ترميمها، أو تغيير استخدامها، أو توسعتها، أو تعديلها.<br />2 -	يكون تطبيق الكود تدريجيًّا وفقاً لما تحدده اللوائح خلال مدة لا تتجاوز خمس سنوات من تاريخ نفاذ النظام.<br />3 -	يحظر تطبيق أي كود - بعد العمل بالنظام وفقاً للتطبيق التدريجي المشار إليه في الفقرة (2) من هذه المادة - غير الكود السعودي. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة: 
+</h3>
+                <div class="HTMLContainer">
+                    دون الإخلال بحق الجهات ذات العلاقة في ممارسة مهماتها واختصاصاتها وفقاً لأنظمتها، تتولى الوزارة متابعة تطبيق الكود ومراقبته. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة: 
+</h3>
+                <div class="HTMLContainer">
+                    <big>تتولى اللجنة الوطنية ما يأتي:</big>
+<br />1   -	دراسة الملحوظات الواردة حيال الكود، واقتراح ما يلزم من تعديلات لتحديثه وتطويره، وذلك بالتنسيق مع الجهات المختصة، وتصدر هذه التعديلات بقرار من وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة.<br />2 -	إعداد الإرشادات والشروحات العلمية والفنية الخاصة بالكود، ومشاركة الجهات المختصة في إعداد مناهج التدريب والتأهيل وخططه، وعقد ورش العمل والندوات والمؤتمرات المتعلقة بالكود.<br />3 -	تمثيل المملكة في المنظمات واللجان الفنية الإقليمية والدولية ذات العلاقة، بعد التنسيق مع الجهات المختصة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة: 
+</h3>
+                <div class="HTMLContainer">
+                    يُحدَّث الكود ويعاد إصداره كل خمس سنوات بقرار من وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة: 
+</h3>
+                <div class="HTMLContainer">
+                    يعد الالتزام بالكود - بعد العمل بالنظام وفقاً للتطبيق التدريجي المشار إليه في الفقرة (2) من المادة (الثانية) من النظام - أحد متطلبات الحصول على رخص البناء أو الترميم أو التعديل أو تغيير الاستخدام. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة: 
+</h3>
+                <div class="HTMLContainer">
+                    يكون التصميم والإشراف والتنفيذ بموجب عقود مع متخصصين يحملون رخص ممارسة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الثامنة: 
+</h3>
+                <div class="HTMLContainer">
+                    على كل من المصمم والمنفذ والمشرف الالتزام بتنفيذ الأعمال الموكولة إليه وفق الكود. 
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="d966ce29-08d0-4cd3-985c-a9a700f21f30" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="d966ce29-08d0-4cd3-985c-a9a700f21f30 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الثامنة:</h3>
+                                    <div class="HTMLContainer">
+                                        <p>إضافة فقرة تحمل الرقم (2) إلى هذه المادة بموجب المرسوم الملكي رقم (م / 15) وتاريخ 19 / 1 / 1441هـ. لتصبح المادة بالنص الآتي:</p>
+
+<p>&quot;1- على كل من المصمم والمنفذ والمشرف الالتزام بتنفيذ الأعمال الموكولة إليه وفق الكود.</p>
+
+<p>2- يكون المصمم المشرف على تنفيذ البناء، والمنفذ، مسؤولين بالتضامن عن تعويض المالك عما يحدث خلال مدة معينة من تهدم كلي أو جزئي فيما أقيم من بناء، وعن كل عيب يهدد متانة البناء وسلامته بما في ذلك العيوب الخفية، وتحدد اللوائح الأحكام اللازمة لذلك&quot;.</p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/0ce8a8be-5a34-44b5-b375-aae100d8466f?attachmentTitle=المادة الثامنة:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة التاسعة:  
+</h3>
+                <div class="HTMLContainer">
+                    لا يجوز إشغال البناء إلَّا بموجب شهادة إشغال بحسب تصنيف الإشغال الوارد في الكود، ووفقاً للإجراءات والمدد التي تحددها اللوائح، وتعد شهادة الإشغال شرطاً أساساً لإيصال الخدمات. 
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="29109816-701d-4d90-830c-a9a700f21f30" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="29109816-701d-4d90-830c-a9a700f21f30 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة التاسعة:</h3>
+                                    <div class="HTMLContainer">
+                                        <p>حذف عبارة &quot;وتعد شهادة الإشغال شرطاً أساساً لإيصال الخدمات&quot; لتصبح بالنص الآتي: &quot;لا يجوز إشغال البناء إلا بموجب شهادة إشغال بحسب تصنيف الإشغال الوارد في الكود، وفقاً للإجراءات والمدد التي تحددها اللوائح&quot;.</p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/40b5c508-6d40-44c1-a85e-aae100d891b6?attachmentTitle=المادة التاسعة:" target="_blank" class="hidden-print"></a>
+                                </div>
+                                <div class="article_item_popup">
+                                    <h3>المادة التاسعة:  
+</h3>
+                                    <div class="HTMLContainer">
+                                        <p><strong>- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/88) وتاريخ 1446/4/10هـ، وذلك بإضافة عبارة &quot;وتعد شهادة الإشغال شرطاً أساسياً للإطلاق الكلي للتيار الكهربائي&quot;&nbsp;</strong>إلى عجز المادة لتصبح بالنص الآتي:<br />
+<strong>&quot;&nbsp;</strong>لا يجوز إشغال البناء إلا بموجب شهادة إشغال بحسب تصنيف الإشغال الوارد في الكود، ووفقاً للإجراءات والمدد التي تحددها اللوائح، وتعد شهادة الإشغال شرطاً أساسياً للإطلاق الكلي للتيار الكهربائي<strong>&quot;.</strong></p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/c43808b5-515c-4d4a-8b12-b22800974f3e?attachmentTitle=المادة التاسعة:  
+" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة: 
+</h3>
+                <div class="HTMLContainer">
+                    على كل من خالف الكود إزالة المخالفة أو تصحيحها بما يتفق مع الكود في مدة تحددها الجهة ذات العلاقة، ويشعر المخالف بذلك.<br />وإذا لم يُزِل المخالف المخالفة أو يصححها خلال المدة المحددة، تحيل الجهة ذات العلاقة المخالفة إلى اللجنة المنصوص عليها في المادة (الرابعة عشرة) من النظام وفق ما تحدده اللوائح. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                    عندما تكون المخالفة خطرة، فعلى الجهة ذات العلاقة إشعار المخالف بها، وإيقاف البناء أو الجزء أو القسم الذي يشكل الخطورة أو منع الإشغال أو إخلاء المبنى حتى يزيل المخالف المخالفة أو يصححها بما يتفق مع الكود، وإحالة المخالفة إلى اللجنة المنصوص عليها في المادة (الرابعة عشرة) من النظام خلال مدة لا تتجاوز خمسة أيام عمل من تاريخ ضبط المخالفة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                    مع مراعاة ما ورد في المادتين (العاشرة) و(الحادية عشرة) من النظام، <big>يعاقب كل من يخالف الكود أو أيًّا من أحكام النظام أو لوائحه بأي من العقوبتين الآتيتين أو بكلتيهما :</big>
+<br />1 -	غرامة مالية لا تزيد على مليون ريال للمخالفة الواحدة في المبنى الواحد.<br />2 -	إيقاف رخصة الممارسة مدة لا تقل عن شهر ولا تتجاوز سنة واحدة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة:  
+</h3>
+                <div class="HTMLContainer">
+                    يتولى ضبط مخالفات الكود وتوثيقها مختصون مؤهلون في الكود من الجهات ذات العلاقة، يصدر بتسميتهم قرار من جهاتهم، على أن يكون ضبط المخالفة بموجب محضر تدون فيه المعلومات وفقاً لما تحدده اللوائح. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                     1- تكوَّن بقرار من وزير الشؤون البلدية والقروية لجنة (أو أكثر) في كل منطقة من مناطق المملكة - بحسب الحاجة - من متخصصين من الجهات ذات العلاقة، على ألَّا يقل عدد أعضائها عن (ثلاثة) يكون من بينهم من يحمل مؤهلاً شرعيًّا أو نظاميًّا، وتصدر - بقرار من وزير الشؤون البلدية والقروية - قواعد عمل تلك اللجان وإجراءاتها ومكافأة أعضائها.<br />2 -	تتولى هذه اللجنة النظر في المخالفات وإيقاع العقوبات المنصوص عليها في المادة (الثانية عشرة) من النظام، ويجوز التظلم من هذه القرارات أمام ديوان المظالم وفقاً لنظامه. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الخامسة عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                    تعد اللجنة الوطنية - خلال سنة من تاريخ نشر النظام - اللوائح، بما في ذلك لائحة تشتمل على تصنيف مخالفات الكود، وتعتمد بقرار من وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة، وتنشر في الجريدة الرسمية. 
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="58f68522-e2e8-4514-be78-a9a700f21f30" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="58f68522-e2e8-4514-be78-a9a700f21f30 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الخامسة عشرة:</h3>
+                                    <div class="HTMLContainer">
+                                        <p><strong>- تعديل عبارة &quot;تعد اللجنة الوطنية&quot;، لتكون &quot;يعد المركز&quot;، وعبارة &quot;وزير التجارة رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة&quot;، لتكون &quot;وزير البلديات والإسكان&quot;. وذلك بموجب المرسوم الملكي رقم (م/204) وتاريخ 1446/9/12هـ.</strong></p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/67b7f5a9-34b8-4a82-a1d0-b2db008e63ad?attachmentTitle=المادة الخامسة عشرة:" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة: 
+</h3>
+                <div class="HTMLContainer">
+                    يُعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="cfc97985-4a9f-4012-832b-a9a700f21ed2" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="704baad9-1d55-4d2a-905f-a9a700f21f2f">المادة الأولى: 
+ </option>
+<option value="4ff08962-bf51-4a3c-be25-a9a700f21f2f">المادة الثانية:  
+ </option>
+<option value="2f43e417-5ef3-4b45-9cde-a9a700f21f2f">المادة الثالثة: 
+ </option>
+<option value="31658713-cc61-4f4a-8362-a9a700f21f2f">المادة الرابعة: 
+ </option>
+<option value="3e5501b2-a6a0-419c-b589-a9a700f21f2f">المادة الخامسة: 
+ </option>
+<option value="0cfa1793-7b40-469a-881d-a9a700f21f2f">المادة السادسة: 
+ </option>
+<option value="6f458d62-70ff-48d6-a919-a9a700f21f30">المادة السابعة: 
+ </option>
+<option value="d966ce29-08d0-4cd3-985c-a9a700f21f30">المادة الثامنة: 
+ </option>
+<option value="29109816-701d-4d90-830c-a9a700f21f30">المادة التاسعة:  
+ </option>
+<option value="184ca85e-85bc-4835-a477-a9a700f21f30">المادة العاشرة: 
+ </option>
+<option value="e3fd8fed-424b-43ae-87eb-a9a700f21f30">المادة الحادية عشرة: 
+ </option>
+<option value="3625a12b-6123-4d71-a552-a9a700f21f30">المادة الثانية عشرة: 
+ </option>
+<option value="522f2434-66c0-443c-966a-a9a700f21f30">المادة الثالثة عشرة:  
+ </option>
+<option value="cf2f7200-b546-4534-b3b2-a9a700f21f30">المادة الرابعة عشرة: 
+ </option>
+<option value="58f68522-e2e8-4514-be78-a9a700f21f30">المادة الخامسة عشرة: 
+ </option>
+<option value="f85c17a8-1dc5-4187-8a42-a9a700f21f30">المادة السادسة عشرة: 
+ </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaVWJS' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaVWJS' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaVWJS = new CaptchaWidget('divCaptchaContainer_captchaVWJS', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaVWJS.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptioncfc97985-4a9f-4012-832b-a9a700f21ed2" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="cfc97985-4a9f-4012-832b-a9a700f21ed2" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaKF0K' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaKF0K' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-cfc97985-4a9f-4012-832b-a9a700f21ed2">
+                    <input type="checkbox" id="agreement-cfc97985-4a9f-4012-832b-a9a700f21ed2" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='cfc97985-4a9f-4012-832b-a9a700f21ed2' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-cfc97985-4a9f-4012-832b-a9a700f21ed2"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-cfc97985-4a9f-4012-832b-a9a700f21ed2"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaVWJS = new CaptchaWidget('divCaptchaContainer_captchaVWJS', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaVWJS.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaKF0K = new CaptchaWidget('divCaptchaContainer_captchaKF0K', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaKF0K.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="cfc97985-4a9f-4012-832b-a9a700f21ed2">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaVWJS = new CaptchaWidget('divCaptchaContainer_captchaVWJS', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaVWJS.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaKF0K = new CaptchaWidget('divCaptchaContainer_captchaKF0K', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaKF0K.load(); 
+                    }); </script>
+</body>
+
+</html>

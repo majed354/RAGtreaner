@@ -1,0 +1,919 @@
+{
+  "metadata": {
+    "slug": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh",
+    "title_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية",
+    "status": "ساري",
+    "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+    "issue_date_gregorian": "1972-02-16",
+    "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+    "publish_date_gregorian": "1972-02-16",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f457818f-2d89-4339-b7e7-a9a700f1fff2/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+    "effective_date_gregorian": "1972-02-16",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 24,
+    "paragraph_count": 32,
+    "indexable_paragraph_count": 32,
+    "text_chars": 5831,
+    "verbatim_chars": 5922,
+    "citation_base_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f457818f-2d89-4339-b7e7-a9a700f1fff2/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الأولى",
+      "text_verbatim": "يُسمَّى هذا النِظام: نِظام تعليم الكِبار ومحو الأُميِّة.",
+      "text_for_index": "يُسمَّى هذا النِظام: نِظام تعليم الكِبار ومحو الأُميِّة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُسمَّى هذا النِظام: نِظام تعليم الكِبار ومحو الأُميِّة.",
+          "text_for_index": "يُسمَّى هذا النِظام: نِظام تعليم الكِبار ومحو الأُميِّة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثانية",
+      "text_verbatim": "يستهدف هذا النِظام محو الأُميِّة بين جميع المواطنين بالمملكة بمُختلف فئاتِهم، وإعداد المواطِن الصالِح المُستنير ليتمكن من إفادة نفسه والإسهام في النهوض بمُجتمعه.",
+      "text_for_index": "يستهدف هذا النِظام محو الأُميِّة بين جميع المواطنين بالمملكة بمُختلف فئاتِهم، وإعداد المواطِن الصالِح المُستنير ليتمكن من إفادة نفسه والإسهام في النهوض بمُجتمعه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يستهدف هذا النِظام محو الأُميِّة بين جميع المواطنين بالمملكة بمُختلف فئاتِهم، وإعداد المواطِن الصالِح المُستنير ليتمكن من إفادة نفسه والإسهام في النهوض بمُجتمعه.",
+          "text_for_index": "يستهدف هذا النِظام محو الأُميِّة بين جميع المواطنين بالمملكة بمُختلف فئاتِهم، وإعداد المواطِن الصالِح المُستنير ليتمكن من إفادة نفسه والإسهام في النهوض بمُجتمعه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثالثة",
+      "text_verbatim": "يُقصد بالأُميين في تطبيق هذا النِظام:\n\n الذين لا يُجيدون القراءة والكتابة وتجاوزوا أعلى حد لسِّن القبول بالمدارس الابتدائية، ولم يبلغوا سن الخامسة والأربعين، من رعايا المملكة العربية السعودية.",
+      "text_for_index": "يُقصد بالأُميين في تطبيق هذا النِظام:\n\n الذين لا يُجيدون القراءة والكتابة وتجاوزوا أعلى حد لسِّن القبول بالمدارس الابتدائية، ولم يبلغوا سن الخامسة والأربعين، من رعايا المملكة العربية السعودية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُقصد بالأُميين في تطبيق هذا النِظام:",
+          "text_for_index": "يُقصد بالأُميين في تطبيق هذا النِظام:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الذين لا يُجيدون القراءة والكتابة وتجاوزوا أعلى حد لسِّن القبول بالمدارس الابتدائية، ولم يبلغوا سن الخامسة والأربعين، من رعايا المملكة العربية السعودية.",
+          "text_for_index": "الذين لا يُجيدون القراءة والكتابة وتجاوزوا أعلى حد لسِّن القبول بالمدارس الابتدائية، ولم يبلغوا سن الخامسة والأربعين، من رعايا المملكة العربية السعودية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الرابعة",
+      "text_verbatim": "تُعَّد خِطة شامِلة للقضاء على الأُميِّة في مُدة أقصاها (20) عشرون عامًا، على ضوء البيانات الإحصائية الخاصة بحصر عدد الأُميين وأماكن تجمُعِهم.",
+      "text_for_index": "تُعَّد خِطة شامِلة للقضاء على الأُميِّة في مُدة أقصاها (20) عشرون عامًا، على ضوء البيانات الإحصائية الخاصة بحصر عدد الأُميين وأماكن تجمُعِهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تُعَّد خِطة شامِلة للقضاء على الأُميِّة في مُدة أقصاها (20) عشرون عامًا، على ضوء البيانات الإحصائية الخاصة بحصر عدد الأُميين وأماكن تجمُعِهم.",
+          "text_for_index": "تُعَّد خِطة شامِلة للقضاء على الأُميِّة في مُدة أقصاها (20) عشرون عامًا، على ضوء البيانات الإحصائية الخاصة بحصر عدد الأُميين وأماكن تجمُعِهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الخامسة",
+      "text_verbatim": "يُخصص لتمويل مشروعات محو الأُميِّة وتعليم الكِبار الموارِد التالية :\n\nأ - ما ترصُده كُل وزارة مِن وزارات الدولة والهيئات المُستقِلة في ميزانياتِها سنويًّا من مبالغ لهذا الغرض.\nب - النفقات التي تُفرض بموجب هذا النِظام لغرض محو الأُميِّة على الشركات والمؤسسات الخاصة.\nجـ - المعونات التي تُقدَّم لمشاريع محو الأُميِّة وتعليم الكِبار.\nد - الموارِد الأُخرى التي يتقرر إضافتُها بقرار من   مجلِس الوزراء .",
+      "text_for_index": "يُخصص لتمويل مشروعات محو الأُميِّة وتعليم الكِبار الموارِد التالية :\n\nأ - ما ترصُده كُل وزارة مِن وزارات الدولة والهيئات المُستقِلة في ميزانياتِها سنويًّا من مبالغ لهذا الغرض.\nب - النفقات التي تُفرض بموجب هذا النِظام لغرض محو الأُميِّة على الشركات والمؤسسات الخاصة.\nجـ - المعونات التي تُقدَّم لمشاريع محو الأُميِّة وتعليم الكِبار.\nد - الموارِد الأُخرى التي يتقرر إضافتُها بقرار من مجلِس الوزراء .",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يُخصص لتمويل مشروعات محو الأُميِّة وتعليم الكِبار الموارِد التالية :",
+          "text_for_index": "يُخصص لتمويل مشروعات محو الأُميِّة وتعليم الكِبار الموارِد التالية :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - ما ترصُده كُل وزارة مِن وزارات الدولة والهيئات المُستقِلة في ميزانياتِها سنويًّا من مبالغ لهذا الغرض.\nب - النفقات التي تُفرض بموجب هذا النِظام لغرض محو الأُميِّة على الشركات والمؤسسات الخاصة.\nجـ - المعونات التي تُقدَّم لمشاريع محو الأُميِّة وتعليم الكِبار.\nد - الموارِد الأُخرى التي يتقرر إضافتُها بقرار من   مجلِس الوزراء .",
+          "text_for_index": "أ - ما ترصُده كُل وزارة مِن وزارات الدولة والهيئات المُستقِلة في ميزانياتِها سنويًّا من مبالغ لهذا الغرض.\nب - النفقات التي تُفرض بموجب هذا النِظام لغرض محو الأُميِّة على الشركات والمؤسسات الخاصة.\nجـ - المعونات التي تُقدَّم لمشاريع محو الأُميِّة وتعليم الكِبار.\nد - الموارِد الأُخرى التي يتقرر إضافتُها بقرار من مجلِس الوزراء .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة السادسة",
+      "text_verbatim": "تجري مُكافحة الأُميِّة بين الأُميين بإتباع الأساليب المُناسِبة للكِبار، ويشتمل ذلك الأنماط التالية :\n\nأ - إعداد فصول مُنتظِمة لتعليم الأُميين في جميع أنحاء المملكة العربية السعودية.\nب - إقامة حملات إنتقائية مُركزة في الأماكن التي لا يسهُل فيها إعداد فصول مُنتظِمة، كمناطِق سُكنى البدو الرُحل والمناطِق النائية، وذلك لفترة مُناسِبة لتحقيق محو الأُميِّة.\nجـ - إعداد برامج مُلائمة لمحو الأُميِّة بواسطة الإذاعة والتلِفزيون ووسائل الإعلام الأُخرى.\nد - استخدام المساجد والمراكِز الصيفية والنوادي ومراكز التجمُع لغرض محو الأُميِّة.",
+      "text_for_index": "تجري مُكافحة الأُميِّة بين الأُميين بإتباع الأساليب المُناسِبة للكِبار، ويشتمل ذلك الأنماط التالية :\n\nأ - إعداد فصول مُنتظِمة لتعليم الأُميين في جميع أنحاء المملكة العربية السعودية.\nب - إقامة حملات إنتقائية مُركزة في الأماكن التي لا يسهُل فيها إعداد فصول مُنتظِمة، كمناطِق سُكنى البدو الرُحل والمناطِق النائية، وذلك لفترة مُناسِبة لتحقيق محو الأُميِّة.\nجـ - إعداد برامج مُلائمة لمحو الأُميِّة بواسطة الإذاعة والتلِفزيون ووسائل الإعلام الأُخرى.\nد - استخدام المساجد والمراكِز الصيفية والنوادي ومراكز التجمُع لغرض محو الأُميِّة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تجري مُكافحة الأُميِّة بين الأُميين بإتباع الأساليب المُناسِبة للكِبار، ويشتمل ذلك الأنماط التالية :",
+          "text_for_index": "تجري مُكافحة الأُميِّة بين الأُميين بإتباع الأساليب المُناسِبة للكِبار، ويشتمل ذلك الأنماط التالية :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "أ - إعداد فصول مُنتظِمة لتعليم الأُميين في جميع أنحاء المملكة العربية السعودية.\nب - إقامة حملات إنتقائية مُركزة في الأماكن التي لا يسهُل فيها إعداد فصول مُنتظِمة، كمناطِق سُكنى البدو الرُحل والمناطِق النائية، وذلك لفترة مُناسِبة لتحقيق محو الأُميِّة.\nجـ - إعداد برامج مُلائمة لمحو الأُميِّة بواسطة الإذاعة والتلِفزيون ووسائل الإعلام الأُخرى.\nد - استخدام المساجد والمراكِز الصيفية والنوادي ومراكز التجمُع لغرض محو الأُميِّة.",
+          "text_for_index": "أ - إعداد فصول مُنتظِمة لتعليم الأُميين في جميع أنحاء المملكة العربية السعودية.\nب - إقامة حملات إنتقائية مُركزة في الأماكن التي لا يسهُل فيها إعداد فصول مُنتظِمة، كمناطِق سُكنى البدو الرُحل والمناطِق النائية، وذلك لفترة مُناسِبة لتحقيق محو الأُميِّة.\nجـ - إعداد برامج مُلائمة لمحو الأُميِّة بواسطة الإذاعة والتلِفزيون ووسائل الإعلام الأُخرى.\nد - استخدام المساجد والمراكِز الصيفية والنوادي ومراكز التجمُع لغرض محو الأُميِّة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة السابعة",
+      "text_verbatim": "تنظم برامج ومناهج محو الأُميِّة وتعليم الكِبار وفق الأنماط التي تُقرها   وزارة المعارف     وتُنفذ تحت إشرافِها.",
+      "text_for_index": "تنظم برامج ومناهج محو الأُميِّة وتعليم الكِبار وفق الأنماط التي تُقرها وزارة المعارف وتُنفذ تحت إشرافِها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنظم برامج ومناهج محو الأُميِّة وتعليم الكِبار وفق الأنماط التي تُقرها   وزارة المعارف     وتُنفذ تحت إشرافِها.",
+          "text_for_index": "تنظم برامج ومناهج محو الأُميِّة وتعليم الكِبار وفق الأنماط التي تُقرها وزارة المعارف وتُنفذ تحت إشرافِها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثامنة",
+      "text_verbatim": "تُستخدم المباني الحُكومية المُلائمة، وخاصة المدارس والمعاهد والمراكز الثقافية والاجتِماعية مقرًّا لمحو الأُميِّة، ويجوز إنشاء أو استئجار مبانٍ خاصة لمحو الأُميِّة متى اقتضى الأمر ذلك.",
+      "text_for_index": "تُستخدم المباني الحُكومية المُلائمة، وخاصة المدارس والمعاهد والمراكز الثقافية والاجتِماعية مقرًّا لمحو الأُميِّة، ويجوز إنشاء أو استئجار مبانٍ خاصة لمحو الأُميِّة متى اقتضى الأمر ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تُستخدم المباني الحُكومية المُلائمة، وخاصة المدارس والمعاهد والمراكز الثقافية والاجتِماعية مقرًّا لمحو الأُميِّة، ويجوز إنشاء أو استئجار مبانٍ خاصة لمحو الأُميِّة متى اقتضى الأمر ذلك.",
+          "text_for_index": "تُستخدم المباني الحُكومية المُلائمة، وخاصة المدارس والمعاهد والمراكز الثقافية والاجتِماعية مقرًّا لمحو الأُميِّة، ويجوز إنشاء أو استئجار مبانٍ خاصة لمحو الأُميِّة متى اقتضى الأمر ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة التاسعة",
+      "text_verbatim": "يجوز اختيار المُدرسين لغرض محو الأُميِّة وتعليم الكِبار من موظفي الحُكومة أو غيرِهم من الأشخاص المؤهلين أو الذين يتم تأهيلهُم لهذا الغرض.",
+      "text_for_index": "يجوز اختيار المُدرسين لغرض محو الأُميِّة وتعليم الكِبار من موظفي الحُكومة أو غيرِهم من الأشخاص المؤهلين أو الذين يتم تأهيلهُم لهذا الغرض.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز اختيار المُدرسين لغرض محو الأُميِّة وتعليم الكِبار من موظفي الحُكومة أو غيرِهم من الأشخاص المؤهلين أو الذين يتم تأهيلهُم لهذا الغرض.",
+          "text_for_index": "يجوز اختيار المُدرسين لغرض محو الأُميِّة وتعليم الكِبار من موظفي الحُكومة أو غيرِهم من الأشخاص المؤهلين أو الذين يتم تأهيلهُم لهذا الغرض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة العاشرة",
+      "text_verbatim": "يجوز منح العاملين في برامج محو الأُميَّة وتعليم الكِبار مُكافآت تتناسب مع جهودِهم، ويتم تقديرُها وتحديد شروط استِحقاقِها بالاتِفاق بين وزارة المعارف  و وزارة المالية والاقتِصاد الوطني.",
+      "text_for_index": "يجوز منح العاملين في برامج محو الأُميَّة وتعليم الكِبار مُكافآت تتناسب مع جهودِهم، ويتم تقديرُها وتحديد شروط استِحقاقِها بالاتِفاق بين وزارة المعارف و وزارة المالية والاقتِصاد الوطني.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يجوز منح العاملين في برامج محو الأُميَّة وتعليم الكِبار مُكافآت تتناسب مع جهودِهم، ويتم تقديرُها وتحديد شروط استِحقاقِها بالاتِفاق بين وزارة المعارف  و وزارة المالية والاقتِصاد الوطني.",
+          "text_for_index": "يجوز منح العاملين في برامج محو الأُميَّة وتعليم الكِبار مُكافآت تتناسب مع جهودِهم، ويتم تقديرُها وتحديد شروط استِحقاقِها بالاتِفاق بين وزارة المعارف و وزارة المالية والاقتِصاد الوطني.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الحادية عشرة",
+      "text_verbatim": "تكون الدراسة في برامج محو الأُميِّة وتعليم الكِبار بالمجان، ويُزود الدارسون بالكُتب والأدوات اللازِمة ووسائل الإيضاح مجانًا طيلة فترة دراستِهم.",
+      "text_for_index": "تكون الدراسة في برامج محو الأُميِّة وتعليم الكِبار بالمجان، ويُزود الدارسون بالكُتب والأدوات اللازِمة ووسائل الإيضاح مجانًا طيلة فترة دراستِهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكون الدراسة في برامج محو الأُميِّة وتعليم الكِبار بالمجان، ويُزود الدارسون بالكُتب والأدوات اللازِمة ووسائل الإيضاح مجانًا طيلة فترة دراستِهم.",
+          "text_for_index": "تكون الدراسة في برامج محو الأُميِّة وتعليم الكِبار بالمجان، ويُزود الدارسون بالكُتب والأدوات اللازِمة ووسائل الإيضاح مجانًا طيلة فترة دراستِهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثانية عشرة",
+      "text_verbatim": "يجوز قبول المتطوعين لمحو الأُميِّة وتعليم الكِبار وِفق الإجراءات التي تُحدِّدُها اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.",
+      "text_for_index": "يجوز قبول المتطوعين لمحو الأُميِّة وتعليم الكِبار وِفق الإجراءات التي تُحدِّدُها اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز قبول المتطوعين لمحو الأُميِّة وتعليم الكِبار وِفق الإجراءات التي تُحدِّدُها اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.",
+          "text_for_index": "يجوز قبول المتطوعين لمحو الأُميِّة وتعليم الكِبار وِفق الإجراءات التي تُحدِّدُها اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثالثة عشرة",
+      "text_verbatim": "العمل من أجل محو الأُميِّة بين المواطنين واجب على كُل مواطِن حسب قُدراتِه، وعلى الأُميين واجب التخلص من الأُميِّة في حدود الوسائل المُتاحة.",
+      "text_for_index": "العمل من أجل محو الأُميِّة بين المواطنين واجب على كُل مواطِن حسب قُدراتِه، وعلى الأُميين واجب التخلص من الأُميِّة في حدود الوسائل المُتاحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "العمل من أجل محو الأُميِّة بين المواطنين واجب على كُل مواطِن حسب قُدراتِه، وعلى الأُميين واجب التخلص من الأُميِّة في حدود الوسائل المُتاحة.",
+          "text_for_index": "العمل من أجل محو الأُميِّة بين المواطنين واجب على كُل مواطِن حسب قُدراتِه، وعلى الأُميين واجب التخلص من الأُميِّة في حدود الوسائل المُتاحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "workplace_childcare"
+      ],
+      "topic_tags_ar": [
+        "حضانة العمل"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الرابعة عشرة",
+      "text_verbatim": "على كُل جهة حُكومية أو مؤسسة عامة أن تقوم بمحو الأُمية بين أفرادِها ومنسوبيها خِلال (6) ست سنوات من نفاذ هذا النِظام، ويجوز عند الضرورة تمديد هذه المُدة بقرار من   مجلِس الوزراء .",
+      "text_for_index": "على كُل جهة حُكومية أو مؤسسة عامة أن تقوم بمحو الأُمية بين أفرادِها ومنسوبيها خِلال (6) ست سنوات من نفاذ هذا النِظام، ويجوز عند الضرورة تمديد هذه المُدة بقرار من مجلِس الوزراء .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "على كُل جهة حُكومية أو مؤسسة عامة أن تقوم بمحو الأُمية بين أفرادِها ومنسوبيها خِلال (6) ست سنوات من نفاذ هذا النِظام، ويجوز عند الضرورة تمديد هذه المُدة بقرار من   مجلِس الوزراء .",
+          "text_for_index": "على كُل جهة حُكومية أو مؤسسة عامة أن تقوم بمحو الأُمية بين أفرادِها ومنسوبيها خِلال (6) ست سنوات من نفاذ هذا النِظام، ويجوز عند الضرورة تمديد هذه المُدة بقرار من مجلِس الوزراء .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الخامسة عشرة",
+      "text_verbatim": "على الشركات والمؤسسات الخاصة أن تُزوِّد   وزارة المعارف     عند طلبِها ببيانات عن عدد الأُميين العاملين لدى تلك الشركات والمؤسسات، وأعمارِهم ومهنِهم، وبإيضاح عن الخطوات التي قامت بِِها لمحو أُميتِهم.",
+      "text_for_index": "على الشركات والمؤسسات الخاصة أن تُزوِّد وزارة المعارف عند طلبِها ببيانات عن عدد الأُميين العاملين لدى تلك الشركات والمؤسسات، وأعمارِهم ومهنِهم، وبإيضاح عن الخطوات التي قامت بِِها لمحو أُميتِهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "على الشركات والمؤسسات الخاصة أن تُزوِّد   وزارة المعارف     عند طلبِها ببيانات عن عدد الأُميين العاملين لدى تلك الشركات والمؤسسات، وأعمارِهم ومهنِهم، وبإيضاح عن الخطوات التي قامت بِِها لمحو أُميتِهم.",
+          "text_for_index": "على الشركات والمؤسسات الخاصة أن تُزوِّد وزارة المعارف عند طلبِها ببيانات عن عدد الأُميين العاملين لدى تلك الشركات والمؤسسات، وأعمارِهم ومهنِهم، وبإيضاح عن الخطوات التي قامت بِِها لمحو أُميتِهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة السادسة عشرة",
+      "text_verbatim": "على الشركات والمؤسسات الخاصة أن تقوم بمحو الأُمية بين العاملين لديها وفق ما يأتي :\n\n1 - الشركات والمؤسسات التي يزيد عُمالها الأُميون في مقر واحد في أي فترة بعد نفاذ هذا النِظام عن عشرين شخصًا، إما أن تُنشئ فصولًا خاصة وكافية لمحو الأُميِّة، أو تدفع بدلًا عن ذلك النفقات اللازِمة لمحو الأُميِّة وفق ما تُحددُه اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.\n2 - الشركات والمؤسسات التي لا يزيد عُمالها الأُميون عن عشرين، تلتزم بإلحاقِهم بالفصول التي تُنشئُها الحُكومة بدون أن تُطالب بالنفقات المُترتِبة على تعليمِهم عدا نفقات انتِقالِهم لهذه الفصول، وذلك في حالة عدم اختيار الشركة أو المؤسسة إنشاء فصل خاص لمحو أُمية عُمالها.",
+      "text_for_index": "على الشركات والمؤسسات الخاصة أن تقوم بمحو الأُمية بين العاملين لديها وفق ما يأتي :\n\n1 - الشركات والمؤسسات التي يزيد عُمالها الأُميون في مقر واحد في أي فترة بعد نفاذ هذا النِظام عن عشرين شخصًا، إما أن تُنشئ فصولًا خاصة وكافية لمحو الأُميِّة، أو تدفع بدلًا عن ذلك النفقات اللازِمة لمحو الأُميِّة وفق ما تُحددُه اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.\n2 - الشركات والمؤسسات التي لا يزيد عُمالها الأُميون عن عشرين، تلتزم بإلحاقِهم بالفصول التي تُنشئُها الحُكومة بدون أن تُطالب بالنفقات المُترتِبة على تعليمِهم عدا نفقات انتِقالِهم لهذه الفصول، وذلك في حالة عدم اختيار الشركة أو المؤسسة إنشاء فصل خاص لمحو أُمية عُمالها.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على الشركات والمؤسسات الخاصة أن تقوم بمحو الأُمية بين العاملين لديها وفق ما يأتي :",
+          "text_for_index": "على الشركات والمؤسسات الخاصة أن تقوم بمحو الأُمية بين العاملين لديها وفق ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "1 - الشركات والمؤسسات التي يزيد عُمالها الأُميون في مقر واحد في أي فترة بعد نفاذ هذا النِظام عن عشرين شخصًا، إما أن تُنشئ فصولًا خاصة وكافية لمحو الأُميِّة، أو تدفع بدلًا عن ذلك النفقات اللازِمة لمحو الأُميِّة وفق ما تُحددُه اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.\n2 - الشركات والمؤسسات التي لا يزيد عُمالها الأُميون عن عشرين، تلتزم بإلحاقِهم بالفصول التي تُنشئُها الحُكومة بدون أن تُطالب بالنفقات المُترتِبة على تعليمِهم عدا نفقات انتِقالِهم لهذه الفصول، وذلك في حالة عدم اختيار الشركة أو المؤسسة إنشاء فصل خاص لمحو أُمية عُمالها.",
+          "text_for_index": "1 - الشركات والمؤسسات التي يزيد عُمالها الأُميون في مقر واحد في أي فترة بعد نفاذ هذا النِظام عن عشرين شخصًا، إما أن تُنشئ فصولًا خاصة وكافية لمحو الأُميِّة، أو تدفع بدلًا عن ذلك النفقات اللازِمة لمحو الأُميِّة وفق ما تُحددُه اللجنة العُليا لمحو الأُميِّة وتعليم الكِبار.\n2 - الشركات والمؤسسات التي لا يزيد عُمالها الأُميون عن عشرين، تلتزم بإلحاقِهم بالفصول التي تُنشئُها الحُكومة بدون أن تُطالب بالنفقات المُترتِبة على تعليمِهم عدا نفقات انتِقالِهم لهذه الفصول، وذلك في حالة عدم اختيار الشركة أو المؤسسة إنشاء فصل خاص لمحو أُمية عُمالها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة السابعة عشرة",
+      "text_verbatim": "على كُل جِهة حُكومية أو خاصة تقوم بمشروع لمحو الأُميِّة بين منسوبيها أن تُزوِّد   وزارة المعارف   مُسبقًا بما يلي:\n\n1 - عدد الفصول المُقترح افتتاحُها كُل عام.\n2 - عدد المُدرسين والإداريين اللازمين لتلك الفصول.\n3 - عدد الدارسين.\n4 - الكُتب والمناهج الدراسية اللازِمة.\n5 - الأماكن المُقترحة لفتح الفصول، ويتم التنفيذ طبقًا لما يتم التفاهُم عليه بين الوزارة والجهة المُختصة.",
+      "text_for_index": "على كُل جِهة حُكومية أو خاصة تقوم بمشروع لمحو الأُميِّة بين منسوبيها أن تُزوِّد وزارة المعارف مُسبقًا بما يلي:\n\n1 - عدد الفصول المُقترح افتتاحُها كُل عام.\n2 - عدد المُدرسين والإداريين اللازمين لتلك الفصول.\n3 - عدد الدارسين.\n4 - الكُتب والمناهج الدراسية اللازِمة.\n5 - الأماكن المُقترحة لفتح الفصول، ويتم التنفيذ طبقًا لما يتم التفاهُم عليه بين الوزارة والجهة المُختصة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على كُل جِهة حُكومية أو خاصة تقوم بمشروع لمحو الأُميِّة بين منسوبيها أن تُزوِّد   وزارة المعارف   مُسبقًا بما يلي:",
+          "text_for_index": "على كُل جِهة حُكومية أو خاصة تقوم بمشروع لمحو الأُميِّة بين منسوبيها أن تُزوِّد وزارة المعارف مُسبقًا بما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-17::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "1 - عدد الفصول المُقترح افتتاحُها كُل عام.\n2 - عدد المُدرسين والإداريين اللازمين لتلك الفصول.\n3 - عدد الدارسين.\n4 - الكُتب والمناهج الدراسية اللازِمة.\n5 - الأماكن المُقترحة لفتح الفصول، ويتم التنفيذ طبقًا لما يتم التفاهُم عليه بين الوزارة والجهة المُختصة.",
+          "text_for_index": "1 - عدد الفصول المُقترح افتتاحُها كُل عام.\n2 - عدد المُدرسين والإداريين اللازمين لتلك الفصول.\n3 - عدد الدارسين.\n4 - الكُتب والمناهج الدراسية اللازِمة.\n5 - الأماكن المُقترحة لفتح الفصول، ويتم التنفيذ طبقًا لما يتم التفاهُم عليه بين الوزارة والجهة المُختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة:",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثامنة عشرة",
+      "text_verbatim": "تُقدم   وزارة المعارف     المُساعدة المُلائمة للجهات الأُخرى التي تقوم بمحو الأُميِّة، كما تُتابِع وتقوِّم برامجها.",
+      "text_for_index": "تُقدم وزارة المعارف المُساعدة المُلائمة للجهات الأُخرى التي تقوم بمحو الأُميِّة، كما تُتابِع وتقوِّم برامجها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تُقدم   وزارة المعارف     المُساعدة المُلائمة للجهات الأُخرى التي تقوم بمحو الأُميِّة، كما تُتابِع وتقوِّم برامجها.",
+          "text_for_index": "تُقدم وزارة المعارف المُساعدة المُلائمة للجهات الأُخرى التي تقوم بمحو الأُميِّة، كما تُتابِع وتقوِّم برامجها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة التاسعة عشرة",
+      "text_verbatim": "تُشكل   اللجنة العُليا لمحو الأُمية وتعليم الكِبار     على النحو التالي:\n\n1 -  وزير المعارف                        رئيسًا.\n2 -   وكيل وزارة المعارف              عضوًا ونائبًا للرئيس.\n3 - مُدير الثقافة الشعبية بوزارة المعارف      عضوًا ومُقرِّرًا للجنة.\n4 - عضو من وزارة الداخلية.\n5 - عضو من وزارة الدِّفاع والطيران.\n6 - عضو من وزارة المالية والاقتِصاد الوطني.\n7 - عضو من وزارة العمل والشئون الاجتِماعية.\n8 - عضو من وزارة الإعلام.\n9 - عضو من رئاسة الحرس الوطني.\n10 - عضو من الرئاسة العامة لتعليم البنات.\n\nويجوز للجنة أن تستعين بمن ترى الحاجة إلى الاستعانة به من المختصين.",
+      "text_for_index": "تُشكل اللجنة العُليا لمحو الأُمية وتعليم الكِبار على النحو التالي:\n\n1 - وزير المعارف رئيسًا.\n2 - وكيل وزارة المعارف عضوًا ونائبًا للرئيس.\n3 - مُدير الثقافة الشعبية بوزارة المعارف عضوًا ومُقرِّرًا للجنة.\n4 - عضو من وزارة الداخلية.\n5 - عضو من وزارة الدِّفاع والطيران.\n6 - عضو من وزارة المالية والاقتِصاد الوطني.\n7 - عضو من وزارة العمل والشئون الاجتِماعية.\n8 - عضو من وزارة الإعلام.\n9 - عضو من رئاسة الحرس الوطني.\n10 - عضو من الرئاسة العامة لتعليم البنات.\n\nويجوز للجنة أن تستعين بمن ترى الحاجة إلى الاستعانة به من المختصين.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تُشكل   اللجنة العُليا لمحو الأُمية وتعليم الكِبار     على النحو التالي:",
+          "text_for_index": "تُشكل اللجنة العُليا لمحو الأُمية وتعليم الكِبار على النحو التالي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 -  وزير المعارف                        رئيسًا.\n2 -   وكيل وزارة المعارف              عضوًا ونائبًا للرئيس.\n3 - مُدير الثقافة الشعبية بوزارة المعارف      عضوًا ومُقرِّرًا للجنة.\n4 - عضو من وزارة الداخلية.\n5 - عضو من وزارة الدِّفاع والطيران.\n6 - عضو من وزارة المالية والاقتِصاد الوطني.\n7 - عضو من وزارة العمل والشئون الاجتِماعية.\n8 - عضو من وزارة الإعلام.\n9 - عضو من رئاسة الحرس الوطني.\n10 - عضو من الرئاسة العامة لتعليم البنات.",
+          "text_for_index": "1 - وزير المعارف رئيسًا.\n2 - وكيل وزارة المعارف عضوًا ونائبًا للرئيس.\n3 - مُدير الثقافة الشعبية بوزارة المعارف عضوًا ومُقرِّرًا للجنة.\n4 - عضو من وزارة الداخلية.\n5 - عضو من وزارة الدِّفاع والطيران.\n6 - عضو من وزارة المالية والاقتِصاد الوطني.\n7 - عضو من وزارة العمل والشئون الاجتِماعية.\n8 - عضو من وزارة الإعلام.\n9 - عضو من رئاسة الحرس الوطني.\n10 - عضو من الرئاسة العامة لتعليم البنات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-19::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ويجوز للجنة أن تستعين بمن ترى الحاجة إلى الاستعانة به من المختصين.",
+          "text_for_index": "ويجوز للجنة أن تستعين بمن ترى الحاجة إلى الاستعانة به من المختصين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون:",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة العشرون",
+      "text_verbatim": "يكون من مهام اللجنة العليا لمحو الأُمية وتعليم الكِبار بالإضافة لما نُص عليه في هذا النِظام ما يلي:\n\nأ - إقرار الخُطة الشامِلة لمحو الأُميِّة، وإقرار السياسة التخطيطية لتعليم الكِبار ومُتابعة تنفيذهما.\nب - اقتِراح موارِد جديدة لتمويل مشروعات محو الأُميِّة واستصدار الموافقة عليها مِن الجهة المُختصة.\nجـ - تنسيق الجهود بين الوزارات والجهات الحُكومية والمؤسسات الخاصة لغرض محو الأُميِّة.",
+      "text_for_index": "يكون من مهام اللجنة العليا لمحو الأُمية وتعليم الكِبار بالإضافة لما نُص عليه في هذا النِظام ما يلي:\n\nأ - إقرار الخُطة الشامِلة لمحو الأُميِّة، وإقرار السياسة التخطيطية لتعليم الكِبار ومُتابعة تنفيذهما.\nب - اقتِراح موارِد جديدة لتمويل مشروعات محو الأُميِّة واستصدار الموافقة عليها مِن الجهة المُختصة.\nجـ - تنسيق الجهود بين الوزارات والجهات الحُكومية والمؤسسات الخاصة لغرض محو الأُميِّة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون من مهام اللجنة العليا لمحو الأُمية وتعليم الكِبار بالإضافة لما نُص عليه في هذا النِظام ما يلي:",
+          "text_for_index": "يكون من مهام اللجنة العليا لمحو الأُمية وتعليم الكِبار بالإضافة لما نُص عليه في هذا النِظام ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-20::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "أ - إقرار الخُطة الشامِلة لمحو الأُميِّة، وإقرار السياسة التخطيطية لتعليم الكِبار ومُتابعة تنفيذهما.\nب - اقتِراح موارِد جديدة لتمويل مشروعات محو الأُميِّة واستصدار الموافقة عليها مِن الجهة المُختصة.\nجـ - تنسيق الجهود بين الوزارات والجهات الحُكومية والمؤسسات الخاصة لغرض محو الأُميِّة.",
+          "text_for_index": "أ - إقرار الخُطة الشامِلة لمحو الأُميِّة، وإقرار السياسة التخطيطية لتعليم الكِبار ومُتابعة تنفيذهما.\nب - اقتِراح موارِد جديدة لتمويل مشروعات محو الأُميِّة واستصدار الموافقة عليها مِن الجهة المُختصة.\nجـ - تنسيق الجهود بين الوزارات والجهات الحُكومية والمؤسسات الخاصة لغرض محو الأُميِّة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون:",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الحادية والعشرون",
+      "text_verbatim": "تضع اللجنة العُليا النِظام الداخلي الذي يُحدِّد مُدة العضوية ومواعيد انعِقادِها وطريقة التصويت وعدد الجلسات العادية والاستثنائية.",
+      "text_for_index": "تضع اللجنة العُليا النِظام الداخلي الذي يُحدِّد مُدة العضوية ومواعيد انعِقادِها وطريقة التصويت وعدد الجلسات العادية والاستثنائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تضع اللجنة العُليا النِظام الداخلي الذي يُحدِّد مُدة العضوية ومواعيد انعِقادِها وطريقة التصويت وعدد الجلسات العادية والاستثنائية.",
+          "text_for_index": "تضع اللجنة العُليا النِظام الداخلي الذي يُحدِّد مُدة العضوية ومواعيد انعِقادِها وطريقة التصويت وعدد الجلسات العادية والاستثنائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون:",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثانية والعشرون",
+      "text_verbatim": "تُشكل بقرار من   اللجنة العُليا لمحو الأُمية وتعليم الكِبار     لجنة فرعية لمُتابعة تنفيذ خُطة محو الأُمية، وتتألف من   مُدير التعليم     \"رئيساً\" ومُمثلين للوزارات والجهات ذات العلاقة.",
+      "text_for_index": "تُشكل بقرار من اللجنة العُليا لمحو الأُمية وتعليم الكِبار لجنة فرعية لمُتابعة تنفيذ خُطة محو الأُمية، وتتألف من مُدير التعليم \"رئيساً\" ومُمثلين للوزارات والجهات ذات العلاقة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تُشكل بقرار من   اللجنة العُليا لمحو الأُمية وتعليم الكِبار     لجنة فرعية لمُتابعة تنفيذ خُطة محو الأُمية، وتتألف من   مُدير التعليم     \"رئيساً\" ومُمثلين للوزارات والجهات ذات العلاقة.",
+          "text_for_index": "تُشكل بقرار من اللجنة العُليا لمحو الأُمية وتعليم الكِبار لجنة فرعية لمُتابعة تنفيذ خُطة محو الأُمية، وتتألف من مُدير التعليم \"رئيساً\" ومُمثلين للوزارات والجهات ذات العلاقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون:",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الثالثة والعشرون",
+      "text_verbatim": "تصدُر اللوائح الخاصة بتنفيذ هذا النِظام بقرار من   وزير المعارف .",
+      "text_for_index": "تصدُر اللوائح الخاصة بتنفيذ هذا النِظام بقرار من وزير المعارف .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تصدُر اللوائح الخاصة بتنفيذ هذا النِظام بقرار من   وزير المعارف .",
+          "text_for_index": "تصدُر اللوائح الخاصة بتنفيذ هذا النِظام بقرار من وزير المعارف .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون:",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية، المادة الرابعة والعشرون",
+      "text_verbatim": "على الجهات المعنية حكومية أو غير حُكومية تنفيذ هذا النِظام كُل فيما يخصه.",
+      "text_for_index": "على الجهات المعنية حكومية أو غير حُكومية تنفيذ هذا النِظام كُل فيما يخصه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "على الجهات المعنية حكومية أو غير حُكومية تنفيذ هذا النِظام كُل فيما يخصه.",
+          "text_for_index": "على الجهات المعنية حكومية أو غير حُكومية تنفيذ هذا النِظام كُل فيما يخصه.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

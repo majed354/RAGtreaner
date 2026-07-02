@@ -1,0 +1,4 @@
+FROM /Users/majd/Desktop/codex/qlora-m3-ultra/models/gemma-4-e2b-it-4bit
+ADAPTER /Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v13-opinion-polish
+
+PARAMETER temperature 0.2

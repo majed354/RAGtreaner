@@ -1,0 +1,1981 @@
+{
+  "metadata": {
+    "slug": "nzam-sndwq-altnmyh-alaqaryh",
+    "title_ar": "نظام صندوق التنمية العقارية",
+    "status": "ساري",
+    "issue_date_hijri": "1442/05/23 هـ الموافق : 07/01/2021 مـ",
+    "issue_date_gregorian": "2021-01-07",
+    "publish_date_hijri": "1442/06/02 هـ الموافق : 15/01/2021 مـ",
+    "publish_date_gregorian": "2021-01-15",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2d8aa57a-3b29-438e-a686-acae00b6728d/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-sndwq-altnmyh-alaqaryh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-sndwq-altnmyh-alaqaryh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1442/06/02 هـ الموافق : 15/01/2021 مـ",
+    "effective_date_gregorian": "2021-01-15",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 18,
+    "paragraph_count": 112,
+    "indexable_paragraph_count": 112,
+    "text_chars": 12035,
+    "verbatim_chars": 12035,
+    "citation_base_ar": "نظام صندوق التنمية العقارية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2d8aa57a-3b29-438e-a686-acae00b6728d/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-sndwq-altnmyh-alaqaryh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-sndwq-altnmyh-alaqaryh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "definition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "تعريف",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "company_management",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الأولى",
+      "text_verbatim": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام-المعاني المبينة أمامها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام صندوق التنمية العقارية.\n\nالصندوق: صندوق التنمية العقارية.\n\nالوزير: وزير الإسكان.\n\nالوزارة: وزارة الإسكان.\n\nالمجلس: مجلس إدارة الصندوق.\n\nالرئيس: رئيس المجلس.\n\nالرئيس التنفيذي: الرئيس التنفيذي للصندوق.\n\nالمستفيد: من له طلب قرض لدى الصندوق أو الوزارة وصدرت الموافقة على طلبه، أو أي قوائم طلب قرض آخر يقرها مجلس الإدارة.\n\nجهات التمويل: البنوك وشركات التمويل المرخصة بمزاولة نشاط التمويل العقاري في المملكة.\n\nالقرض العقاري المدعوم: برنامج تمويل عقاري سكني يقدمه الصندوق إلى المستفيد عن طريق جهات التمويل، مدعوم الأرباح من الصندوق دعماً كاملاً أو جزئيًّا، وذلك من خلال عقود تبرم لهذا الغرض.\n\nالتمويل: ما يقدمه الصندوق من قروض عقارية مباشرة أو مدعومة أو ما يقدمه من الضمانات للمطورين العقاريين وجهات التمويل.\n\nالمنتجات والمبادرات: البرامج وأنواع التمويل التي يقرها الصندوق لتمكين المستفيد من الحصول على مسكن.\n\nالضمانات: الرهون التي يقبلها الصندوق، وخطابات الضمان التي يصدرها وينشأ بموجبها حق ائتماني مباشر لمصلحة عقد التمويل.\n\nاللائحة: اللائحة التنفيذية للنظام.",
+      "text_for_index": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام-المعاني المبينة أمامها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام صندوق التنمية العقارية.\n\nالصندوق: صندوق التنمية العقارية.\n\nالوزير: وزير الإسكان.\n\nالوزارة: وزارة الإسكان.\n\nالمجلس: مجلس إدارة الصندوق.\n\nالرئيس: رئيس المجلس.\n\nالرئيس التنفيذي: الرئيس التنفيذي للصندوق.\n\nالمستفيد: من له طلب قرض لدى الصندوق أو الوزارة وصدرت الموافقة على طلبه، أو أي قوائم طلب قرض آخر يقرها مجلس الإدارة.\n\nجهات التمويل: البنوك وشركات التمويل المرخصة بمزاولة نشاط التمويل العقاري في المملكة.\n\nالقرض العقاري المدعوم: برنامج تمويل عقاري سكني يقدمه الصندوق إلى المستفيد عن طريق جهات التمويل، مدعوم الأرباح من الصندوق دعماً كاملاً أو جزئيًّا، وذلك من خلال عقود تبرم لهذا الغرض.\n\nالتمويل: ما يقدمه الصندوق من قروض عقارية مباشرة أو مدعومة أو ما يقدمه من الضمانات للمطورين العقاريين وجهات التمويل.\n\nالمنتجات والمبادرات: البرامج وأنواع التمويل التي يقرها الصندوق لتمكين المستفيد من الحصول على مسكن.\n\nالضمانات: الرهون التي يقبلها الصندوق، وخطابات الضمان التي يصدرها وينشأ بموجبها حق ائتماني مباشر لمصلحة عقد التمويل.\n\nاللائحة: اللائحة التنفيذية للنظام.",
+      "paragraph_count": 15,
+      "indexable_paragraph_count": 15,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "تعريف"
+          ],
+          "text_verbatim": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام-المعاني المبينة أمامها، ما لم يقتض السياق غير ذلك:",
+          "text_for_index": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام-المعاني المبينة أمامها، ما لم يقتض السياق غير ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "النظام: نظام صندوق التنمية العقارية.",
+          "text_for_index": "النظام: نظام صندوق التنمية العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الصندوق: صندوق التنمية العقارية.",
+          "text_for_index": "الصندوق: صندوق التنمية العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الوزير: وزير الإسكان.",
+          "text_for_index": "الوزير: وزير الإسكان.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الوزارة: وزارة الإسكان.",
+          "text_for_index": "الوزارة: وزارة الإسكان.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "المجلس: مجلس إدارة الصندوق.",
+          "text_for_index": "المجلس: مجلس إدارة الصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الرئيس: رئيس المجلس.",
+          "text_for_index": "الرئيس: رئيس المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "الرئيس التنفيذي: الرئيس التنفيذي للصندوق.",
+          "text_for_index": "الرئيس التنفيذي: الرئيس التنفيذي للصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "المستفيد: من له طلب قرض لدى الصندوق أو الوزارة وصدرت الموافقة على طلبه، أو أي قوائم طلب قرض آخر يقرها مجلس الإدارة.",
+          "text_for_index": "المستفيد: من له طلب قرض لدى الصندوق أو الوزارة وصدرت الموافقة على طلبه، أو أي قوائم طلب قرض آخر يقرها مجلس الإدارة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "جهات التمويل: البنوك وشركات التمويل المرخصة بمزاولة نشاط التمويل العقاري في المملكة.",
+          "text_for_index": "جهات التمويل: البنوك وشركات التمويل المرخصة بمزاولة نشاط التمويل العقاري في المملكة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "القرض العقاري المدعوم: برنامج تمويل عقاري سكني يقدمه الصندوق إلى المستفيد عن طريق جهات التمويل، مدعوم الأرباح من الصندوق دعماً كاملاً أو جزئيًّا، وذلك من خلال عقود تبرم لهذا الغرض.",
+          "text_for_index": "القرض العقاري المدعوم: برنامج تمويل عقاري سكني يقدمه الصندوق إلى المستفيد عن طريق جهات التمويل، مدعوم الأرباح من الصندوق دعماً كاملاً أو جزئيًّا، وذلك من خلال عقود تبرم لهذا الغرض.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "التمويل: ما يقدمه الصندوق من قروض عقارية مباشرة أو مدعومة أو ما يقدمه من الضمانات للمطورين العقاريين وجهات التمويل.",
+          "text_for_index": "التمويل: ما يقدمه الصندوق من قروض عقارية مباشرة أو مدعومة أو ما يقدمه من الضمانات للمطورين العقاريين وجهات التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "المنتجات والمبادرات: البرامج وأنواع التمويل التي يقرها الصندوق لتمكين المستفيد من الحصول على مسكن.",
+          "text_for_index": "المنتجات والمبادرات: البرامج وأنواع التمويل التي يقرها الصندوق لتمكين المستفيد من الحصول على مسكن.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الضمانات: الرهون التي يقبلها الصندوق، وخطابات الضمان التي يصدرها وينشأ بموجبها حق ائتماني مباشر لمصلحة عقد التمويل.",
+          "text_for_index": "الضمانات: الرهون التي يقبلها الصندوق، وخطابات الضمان التي يصدرها وينشأ بموجبها حق ائتماني مباشر لمصلحة عقد التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-1::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الثانية",
+      "text_verbatim": "• يتمتع الصندوق بالشخصية الاعتبارية العامة والاستقلال المالي والإداري، ويرتبط تنظيميًّا بصندوق التنمية الوطني.\n\n\t• يعمل الصندوق وفق الأسس والمعايير التجارية.\n\n\t• يكون مقر الصندوق الرئيس في مدينة الرياض، وله إنشاء فروع أو مكاتب داخل المملكة بحسب الحاجة.",
+      "text_for_index": "• يتمتع الصندوق بالشخصية الاعتبارية العامة والاستقلال المالي والإداري، ويرتبط تنظيميًّا بصندوق التنمية الوطني.\n\n • يعمل الصندوق وفق الأسس والمعايير التجارية.\n\n • يكون مقر الصندوق الرئيس في مدينة الرياض، وله إنشاء فروع أو مكاتب داخل المملكة بحسب الحاجة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يتمتع الصندوق بالشخصية الاعتبارية العامة والاستقلال المالي والإداري، ويرتبط تنظيميًّا بصندوق التنمية الوطني.",
+          "text_for_index": "• يتمتع الصندوق بالشخصية الاعتبارية العامة والاستقلال المالي والإداري، ويرتبط تنظيميًّا بصندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يعمل الصندوق وفق الأسس والمعايير التجارية.",
+          "text_for_index": "• يعمل الصندوق وفق الأسس والمعايير التجارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يكون مقر الصندوق الرئيس في مدينة الرياض، وله إنشاء فروع أو مكاتب داخل المملكة بحسب الحاجة.",
+          "text_for_index": "• يكون مقر الصندوق الرئيس في مدينة الرياض، وله إنشاء فروع أو مكاتب داخل المملكة بحسب الحاجة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الثالثة",
+      "text_verbatim": "• يهدف الصنـدوق إلى تحقيق التنمية العقارية في المملكة من خلال تمكين المستفيد من تملك المسكن الملائم، وللصندوق في سبيل ذلك ما يأتي:\n\n\tأ- دفع أرباح القرض العقاري المدعوم -دعماً كاملاً أو جزئياً- للمستفيدين الواردة أسماؤهم في قوائم الصندوق أو الوزارة.\n\n\tب- تقديم القروض للمطورين العقاريين وجهات التمويل بما يحقق أهدافه.\n\n\tج- استثمار رأس ماله والأموال المتوافرة لديه من مصادر الدخل الأخرى، وتملك الأصول والتصرف فيها؛ بما في ذلك استثمار جزء من رأس ماله للإسهام في تطوير مناطق سكنية وتجارية في المدن التي يستهدفها، من خلال عقد شراكات مع المطورين العقاريين والأمانات وشركاتها وهيئات تطوير المناطق والمدن.\n\n\tد- إبرام العقود والشراكات والاتفاقيات مع أي من جهات التمويل؛ لتقديم القرض العقاري المدعوم أو أي منتجات ومبادرات أخرى.\n\n\tهـ- إبرام العقود والشراكات والاتفاقيات مع الجهات العامة والخاصة للمشاركة في مشروعات أو مجمعات سكنية أو تمويلها؛ فيما يخدم أهدافه.\n\n\tو- إبرام اتفاقات مع الجهات التي لديها قوائم طلبات حصول على مسكن وترغب في أن تحال هذه القوائم إلى الصندوق ليتولى تمويلها وفقاً لما يقره المجلس.\n\n\tز- تأسيس صناديق ادخار تخصص للمواطنين الراغبين في الاستفادة من المنتجات والمبادرات بالتعاون مع جهات التمويل، وفق ما تقضي به الأنظمة.\n\n\tح- إدارة ما يقدمه من تمويل ومتابعته وحفظ حساباته، وله أن يعهد بذلك إلى إحدى الجهات المتخصصة والمرخصة بموجب عقد يبرم لهذا الغرض.\n\n\tط- الاتفاق مع الشركات المتخصصة والمرخصة لتحصيل أمواله.\n\n\tي-تقديم الضمانات الكلية أو النسبية إلى الجهات التمويلية عما يقدم من تمويل لبعض الفئات المستهدفة المستفيدة من القرض العقاري المدعوم.\n\n\tك- تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بالاتفاق مع صندوق التنمية الوطني.\n\n\tل- قبول الضمانات، بما فيها الرهون وغيرها للوفاء بالتمويل.\n\n\tم- الاقتراض وغيره من صور المديونية، بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى؛ بالاتفاق مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.\n\n\tن- القيام بأي نشاط أو عمل يقره المجلس بما يحقق أهدافه ويتفق مع طبيعة نشاطه.\n\n\t• يتعين على الصندوق أخذ الضمانات اللازمة لما يقدمه من تمويل مباشر، ولا يجوز أن تتجاوز التزاماته المباشرة أو غير المباشرة قيمة أصوله.",
+      "text_for_index": "• يهدف الصنـدوق إلى تحقيق التنمية العقارية في المملكة من خلال تمكين المستفيد من تملك المسكن الملائم، وللصندوق في سبيل ذلك ما يأتي:\n\n أ- دفع أرباح القرض العقاري المدعوم -دعماً كاملاً أو جزئياً- للمستفيدين الواردة أسماؤهم في قوائم الصندوق أو الوزارة.\n\n ب- تقديم القروض للمطورين العقاريين وجهات التمويل بما يحقق أهدافه.\n\n ج- استثمار رأس ماله والأموال المتوافرة لديه من مصادر الدخل الأخرى، وتملك الأصول والتصرف فيها؛ بما في ذلك استثمار جزء من رأس ماله للإسهام في تطوير مناطق سكنية وتجارية في المدن التي يستهدفها، من خلال عقد شراكات مع المطورين العقاريين والأمانات وشركاتها وهيئات تطوير المناطق والمدن.\n\n د- إبرام العقود والشراكات والاتفاقيات مع أي من جهات التمويل؛ لتقديم القرض العقاري المدعوم أو أي منتجات ومبادرات أخرى.\n\n هـ- إبرام العقود والشراكات والاتفاقيات مع الجهات العامة والخاصة للمشاركة في مشروعات أو مجمعات سكنية أو تمويلها؛ فيما يخدم أهدافه.\n\n و- إبرام اتفاقات مع الجهات التي لديها قوائم طلبات حصول على مسكن وترغب في أن تحال هذه القوائم إلى الصندوق ليتولى تمويلها وفقاً لما يقره المجلس.\n\n ز- تأسيس صناديق ادخار تخصص للمواطنين الراغبين في الاستفادة من المنتجات والمبادرات بالتعاون مع جهات التمويل، وفق ما تقضي به الأنظمة.\n\n ح- إدارة ما يقدمه من تمويل ومتابعته وحفظ حساباته، وله أن يعهد بذلك إلى إحدى الجهات المتخصصة والمرخصة بموجب عقد يبرم لهذا الغرض.\n\n ط- الاتفاق مع الشركات المتخصصة والمرخصة لتحصيل أمواله.\n\n ي-تقديم الضمانات الكلية أو النسبية إلى الجهات التمويلية عما يقدم من تمويل لبعض الفئات المستهدفة المستفيدة من القرض العقاري المدعوم.\n\n ك- تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بالاتفاق مع صندوق التنمية الوطني.\n\n ل- قبول الضمانات، بما فيها الرهون وغيرها للوفاء بالتمويل.\n\n م- الاقتراض وغيره من صور المديونية، بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى؛ بالاتفاق مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.\n\n ن- القيام بأي نشاط أو عمل يقره المجلس بما يحقق أهدافه ويتفق مع طبيعة نشاطه.\n\n • يتعين على الصندوق أخذ الضمانات اللازمة لما يقدمه من تمويل مباشر، ولا يجوز أن تتجاوز التزاماته المباشرة أو غير المباشرة قيمة أصوله.",
+      "paragraph_count": 16,
+      "indexable_paragraph_count": 16,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يهدف الصنـدوق إلى تحقيق التنمية العقارية في المملكة من خلال تمكين المستفيد من تملك المسكن الملائم، وللصندوق في سبيل ذلك ما يأتي:",
+          "text_for_index": "• يهدف الصنـدوق إلى تحقيق التنمية العقارية في المملكة من خلال تمكين المستفيد من تملك المسكن الملائم، وللصندوق في سبيل ذلك ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "أ- دفع أرباح القرض العقاري المدعوم -دعماً كاملاً أو جزئياً- للمستفيدين الواردة أسماؤهم في قوائم الصندوق أو الوزارة.",
+          "text_for_index": "أ- دفع أرباح القرض العقاري المدعوم -دعماً كاملاً أو جزئياً- للمستفيدين الواردة أسماؤهم في قوائم الصندوق أو الوزارة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ب- تقديم القروض للمطورين العقاريين وجهات التمويل بما يحقق أهدافه.",
+          "text_for_index": "ب- تقديم القروض للمطورين العقاريين وجهات التمويل بما يحقق أهدافه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ج- استثمار رأس ماله والأموال المتوافرة لديه من مصادر الدخل الأخرى، وتملك الأصول والتصرف فيها؛ بما في ذلك استثمار جزء من رأس ماله للإسهام في تطوير مناطق سكنية وتجارية في المدن التي يستهدفها، من خلال عقد شراكات مع المطورين العقاريين والأمانات وشركاتها وهيئات تطوير المناطق والمدن.",
+          "text_for_index": "ج- استثمار رأس ماله والأموال المتوافرة لديه من مصادر الدخل الأخرى، وتملك الأصول والتصرف فيها؛ بما في ذلك استثمار جزء من رأس ماله للإسهام في تطوير مناطق سكنية وتجارية في المدن التي يستهدفها، من خلال عقد شراكات مع المطورين العقاريين والأمانات وشركاتها وهيئات تطوير المناطق والمدن.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "د- إبرام العقود والشراكات والاتفاقيات مع أي من جهات التمويل؛ لتقديم القرض العقاري المدعوم أو أي منتجات ومبادرات أخرى.",
+          "text_for_index": "د- إبرام العقود والشراكات والاتفاقيات مع أي من جهات التمويل؛ لتقديم القرض العقاري المدعوم أو أي منتجات ومبادرات أخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "هـ- إبرام العقود والشراكات والاتفاقيات مع الجهات العامة والخاصة للمشاركة في مشروعات أو مجمعات سكنية أو تمويلها؛ فيما يخدم أهدافه.",
+          "text_for_index": "هـ- إبرام العقود والشراكات والاتفاقيات مع الجهات العامة والخاصة للمشاركة في مشروعات أو مجمعات سكنية أو تمويلها؛ فيما يخدم أهدافه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "و- إبرام اتفاقات مع الجهات التي لديها قوائم طلبات حصول على مسكن وترغب في أن تحال هذه القوائم إلى الصندوق ليتولى تمويلها وفقاً لما يقره المجلس.",
+          "text_for_index": "و- إبرام اتفاقات مع الجهات التي لديها قوائم طلبات حصول على مسكن وترغب في أن تحال هذه القوائم إلى الصندوق ليتولى تمويلها وفقاً لما يقره المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ز- تأسيس صناديق ادخار تخصص للمواطنين الراغبين في الاستفادة من المنتجات والمبادرات بالتعاون مع جهات التمويل، وفق ما تقضي به الأنظمة.",
+          "text_for_index": "ز- تأسيس صناديق ادخار تخصص للمواطنين الراغبين في الاستفادة من المنتجات والمبادرات بالتعاون مع جهات التمويل، وفق ما تقضي به الأنظمة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ح- إدارة ما يقدمه من تمويل ومتابعته وحفظ حساباته، وله أن يعهد بذلك إلى إحدى الجهات المتخصصة والمرخصة بموجب عقد يبرم لهذا الغرض.",
+          "text_for_index": "ح- إدارة ما يقدمه من تمويل ومتابعته وحفظ حساباته، وله أن يعهد بذلك إلى إحدى الجهات المتخصصة والمرخصة بموجب عقد يبرم لهذا الغرض.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ط- الاتفاق مع الشركات المتخصصة والمرخصة لتحصيل أمواله.",
+          "text_for_index": "ط- الاتفاق مع الشركات المتخصصة والمرخصة لتحصيل أمواله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ي-تقديم الضمانات الكلية أو النسبية إلى الجهات التمويلية عما يقدم من تمويل لبعض الفئات المستهدفة المستفيدة من القرض العقاري المدعوم.",
+          "text_for_index": "ي-تقديم الضمانات الكلية أو النسبية إلى الجهات التمويلية عما يقدم من تمويل لبعض الفئات المستهدفة المستفيدة من القرض العقاري المدعوم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ك- تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بالاتفاق مع صندوق التنمية الوطني.",
+          "text_for_index": "ك- تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بالاتفاق مع صندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ل- قبول الضمانات، بما فيها الرهون وغيرها للوفاء بالتمويل.",
+          "text_for_index": "ل- قبول الضمانات، بما فيها الرهون وغيرها للوفاء بالتمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "م- الاقتراض وغيره من صور المديونية، بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى؛ بالاتفاق مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.",
+          "text_for_index": "م- الاقتراض وغيره من صور المديونية، بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى؛ بالاتفاق مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "ن- القيام بأي نشاط أو عمل يقره المجلس بما يحقق أهدافه ويتفق مع طبيعة نشاطه.",
+          "text_for_index": "ن- القيام بأي نشاط أو عمل يقره المجلس بما يحقق أهدافه ويتفق مع طبيعة نشاطه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-3::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "• يتعين على الصندوق أخذ الضمانات اللازمة لما يقدمه من تمويل مباشر، ولا يجوز أن تتجاوز التزاماته المباشرة أو غير المباشرة قيمة أصوله.",
+          "text_for_index": "• يتعين على الصندوق أخذ الضمانات اللازمة لما يقدمه من تمويل مباشر، ولا يجوز أن تتجاوز التزاماته المباشرة أو غير المباشرة قيمة أصوله.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الرابعة",
+      "text_verbatim": "يجوز للصندوق -بقرار من المجلس- تقديم القروض مباشرةً للمستفيدين. ويضع المجلس الآلية والضوابط اللازمة لذلك.",
+      "text_for_index": "يجوز للصندوق -بقرار من المجلس- تقديم القروض مباشرةً للمستفيدين. ويضع المجلس الآلية والضوابط اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز للصندوق -بقرار من المجلس- تقديم القروض مباشرةً للمستفيدين. ويضع المجلس الآلية والضوابط اللازمة لذلك.",
+          "text_for_index": "يجوز للصندوق -بقرار من المجلس- تقديم القروض مباشرةً للمستفيدين. ويضع المجلس الآلية والضوابط اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الخامسة",
+      "text_verbatim": "• يكون للصندوق مجلس إدارة برئاسة الوزير، وعضوية كل من:\n\n\tأ- الرئيس التنفيذي.\n\n\tب- ممثل من وزارة الشؤون البلدية والقروية.\n\n\tج- ممثل من وزارة المالية.\n\n\tد- ممثل من وزارة الاقتصاد والتخطيط.\n\n\tهـ- ممثل من صندوق التنمية الوطني.\n\n\tو- ممثل من مؤسسة النقد العربي السعودي.\n\n\tز- ثلاثة من المختصين وذوي الخبرة في مجال عمل الصندوق، يرشحهم الوزير ويصدر بتعيينهم قرار من مجلس الوزراء، وتكون مدة عضويتهم (ثلاث) سنوات قابلة للتجديد مرة واحدة.\n\n\t• يجب ألا تقل مرتبة ممثلي الجهات الحكومية في المجلس عن المرتبة (الرابعة عشرة) أو ما يعادلها.\n\n\t• يحدد الرئيس من ينوب عنه من الأعضاء من ممثلي الجهات الحكومية في رئاسة الاجتماعات عند غيابه.",
+      "text_for_index": "• يكون للصندوق مجلس إدارة برئاسة الوزير، وعضوية كل من:\n\n أ- الرئيس التنفيذي.\n\n ب- ممثل من وزارة الشؤون البلدية والقروية.\n\n ج- ممثل من وزارة المالية.\n\n د- ممثل من وزارة الاقتصاد والتخطيط.\n\n هـ- ممثل من صندوق التنمية الوطني.\n\n و- ممثل من مؤسسة النقد العربي السعودي.\n\n ز- ثلاثة من المختصين وذوي الخبرة في مجال عمل الصندوق، يرشحهم الوزير ويصدر بتعيينهم قرار من مجلس الوزراء، وتكون مدة عضويتهم (ثلاث) سنوات قابلة للتجديد مرة واحدة.\n\n • يجب ألا تقل مرتبة ممثلي الجهات الحكومية في المجلس عن المرتبة (الرابعة عشرة) أو ما يعادلها.\n\n • يحدد الرئيس من ينوب عنه من الأعضاء من ممثلي الجهات الحكومية في رئاسة الاجتماعات عند غيابه.",
+      "paragraph_count": 10,
+      "indexable_paragraph_count": 10,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يكون للصندوق مجلس إدارة برئاسة الوزير، وعضوية كل من:",
+          "text_for_index": "• يكون للصندوق مجلس إدارة برئاسة الوزير، وعضوية كل من:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "أ- الرئيس التنفيذي.",
+          "text_for_index": "أ- الرئيس التنفيذي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب- ممثل من وزارة الشؤون البلدية والقروية.",
+          "text_for_index": "ب- ممثل من وزارة الشؤون البلدية والقروية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج- ممثل من وزارة المالية.",
+          "text_for_index": "ج- ممثل من وزارة المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "د- ممثل من وزارة الاقتصاد والتخطيط.",
+          "text_for_index": "د- ممثل من وزارة الاقتصاد والتخطيط.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "هـ- ممثل من صندوق التنمية الوطني.",
+          "text_for_index": "هـ- ممثل من صندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "و- ممثل من مؤسسة النقد العربي السعودي.",
+          "text_for_index": "و- ممثل من مؤسسة النقد العربي السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ز- ثلاثة من المختصين وذوي الخبرة في مجال عمل الصندوق، يرشحهم الوزير ويصدر بتعيينهم قرار من مجلس الوزراء، وتكون مدة عضويتهم (ثلاث) سنوات قابلة للتجديد مرة واحدة.",
+          "text_for_index": "ز- ثلاثة من المختصين وذوي الخبرة في مجال عمل الصندوق، يرشحهم الوزير ويصدر بتعيينهم قرار من مجلس الوزراء، وتكون مدة عضويتهم (ثلاث) سنوات قابلة للتجديد مرة واحدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب ألا تقل مرتبة ممثلي الجهات الحكومية في المجلس عن المرتبة (الرابعة عشرة) أو ما يعادلها.",
+          "text_for_index": "• يجب ألا تقل مرتبة ممثلي الجهات الحكومية في المجلس عن المرتبة (الرابعة عشرة) أو ما يعادلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-5::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يحدد الرئيس من ينوب عنه من الأعضاء من ممثلي الجهات الحكومية في رئاسة الاجتماعات عند غيابه.",
+          "text_for_index": "• يحدد الرئيس من ينوب عنه من الأعضاء من ممثلي الجهات الحكومية في رئاسة الاجتماعات عند غيابه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة السادسة",
+      "text_verbatim": "دون إخلال باختصاصات صندوق التنمية الوطني، المجلس هو السلطة المسؤولة عن رسم سياسة الصندوق العامة، في حدود نظامه والأنظمة ذات العلاقة، ويتولى جميع المهمات والصلاحيات التي تكفل تحقيق أهداف الصندوق. وله -في سبيل ذلك- اتخاذ ما يراه من قرارات وإجراءات وتدابير وغيرها، وعلى وجه خاص ما يأتي:\n\n\t• الموافقة على الاستراتيجية المتعلقة بنشاط الصندوق، والخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال إجراءات في شأنه.\n\n\t• الإشراف على تنفيذ الصندوق المهمات المنوطة به.\n\n\t• الموافقة على المنتجات والمبادرات.\n\n\t• الموافقة على الاستثمار، وتملك العقارات واستئجارها وتأجيرها، وتملك الحقوق العينية والحصص والأوراق المالية والصناديق الاستثمارية والصكوك والسندات؛ والتصرف فيها.\n\n\t• الموافقة على تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بعد الاتفاق مع صندوق التنمية الوطني.\n\n\t• الموافقة على إبرام الصندوق للاتفاقيات والعقود، بحسب الإجراءات النظامية المتبعة.\n\n\t• الموافقة على إقراض المطورين العقاريين وجهات التمويل.\n\n\t• إقرار سياسات إدارة المخاطر في الصندوق وإجراءاتها ونظمها.\n\n\t• تحديد نسبة الدعم من أصل التمويل التي يتحملها الصندوق لفئات المستفيدين.\n\n\t• إقرار الهيكل التنظيمي للصندوق.\n\n\t• إقرار لائحة الصندوق المالية بالاتفاق مع وزارة المالية، وإقرار لائحة الصندوق الإدارية بعد الاتفاق مع وزارة المالية على الأحكام ذات الأثر المالي الواردة فيها، وإقرار غيرهما من اللوائح والإجراءات الداخلية والفنية اللازمة لتسيير شؤون الصندوق.\n\n\t• تعيين ممثلي الصندوق -من منسوبيه- وغيرهم في مجالس إدارات الشركات وغيرها من المنشآت ذات الأغراض الخاصة التي يمتلكها الصندوق أو يساهم فيها، وتحديد مكافآتهم وحقوقهم لدى الصندوق.\n\n\t• إقرار قوائم الصندوق المالية.\n\n\t• الموافقة على مشروع ميزانية الصندوق.\n\n\t• الموافقة على حساب الصندوق الختامي، والتقرير السنوي عن نشاطه، ورفعهما إلى صندوق التنمية الوطني؛ للنظر فيهما، لاستكمال الإجراءات النظامية في شأنهما.\n\n\t• اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الصندوق، واقتراح تعديل المعمول به منها؛ لرفعها لاستكمال الإجراءات النظامية.\n\n\t• قبول الهبات والتبرعات والمنح والوصايا والأوقاف، بحسب القواعد المنظمة لذلك.\n\n\t• تعيين مراجع حسابات خارجي (أو أكثر)، ومراقب مالي داخلي.\n\n\t• وضع معايير تحديد المقابل المالي للخدمات التي يقدمها الصندوق.\n\n\t• النظر في التقارير الدورية عن سير العمل في الصندوق واتخاذ القرارات اللازمة في شأنها.\n\n\t• الموافقة على إنشاء فروع أو مكاتب للصندوق داخل المملكة، بحسب الحاجة.\n\n\t• تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها وأعضاءها، واختصاصاتها، وآلية عملها، ومدى جواز استعانة كل لجنة بمن تراه لمساعدتها في إنجاز المهمات الموكولة إليها.\n\n\tويجوز للمجلس تفويض بعض صلاحياته إلى من يراه من أعضائه أو إلى أي من اللجان أو من منسوبي الصندوق.",
+      "text_for_index": "دون إخلال باختصاصات صندوق التنمية الوطني، المجلس هو السلطة المسؤولة عن رسم سياسة الصندوق العامة، في حدود نظامه والأنظمة ذات العلاقة، ويتولى جميع المهمات والصلاحيات التي تكفل تحقيق أهداف الصندوق. وله -في سبيل ذلك- اتخاذ ما يراه من قرارات وإجراءات وتدابير وغيرها، وعلى وجه خاص ما يأتي:\n\n • الموافقة على الاستراتيجية المتعلقة بنشاط الصندوق، والخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال إجراءات في شأنه.\n\n • الإشراف على تنفيذ الصندوق المهمات المنوطة به.\n\n • الموافقة على المنتجات والمبادرات.\n\n • الموافقة على الاستثمار، وتملك العقارات واستئجارها وتأجيرها، وتملك الحقوق العينية والحصص والأوراق المالية والصناديق الاستثمارية والصكوك والسندات؛ والتصرف فيها.\n\n • الموافقة على تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بعد الاتفاق مع صندوق التنمية الوطني.\n\n • الموافقة على إبرام الصندوق للاتفاقيات والعقود، بحسب الإجراءات النظامية المتبعة.\n\n • الموافقة على إقراض المطورين العقاريين وجهات التمويل.\n\n • إقرار سياسات إدارة المخاطر في الصندوق وإجراءاتها ونظمها.\n\n • تحديد نسبة الدعم من أصل التمويل التي يتحملها الصندوق لفئات المستفيدين.\n\n • إقرار الهيكل التنظيمي للصندوق.\n\n • إقرار لائحة الصندوق المالية بالاتفاق مع وزارة المالية، وإقرار لائحة الصندوق الإدارية بعد الاتفاق مع وزارة المالية على الأحكام ذات الأثر المالي الواردة فيها، وإقرار غيرهما من اللوائح والإجراءات الداخلية والفنية اللازمة لتسيير شؤون الصندوق.\n\n • تعيين ممثلي الصندوق -من منسوبيه- وغيرهم في مجالس إدارات الشركات وغيرها من المنشآت ذات الأغراض الخاصة التي يمتلكها الصندوق أو يساهم فيها، وتحديد مكافآتهم وحقوقهم لدى الصندوق.\n\n • إقرار قوائم الصندوق المالية.\n\n • الموافقة على مشروع ميزانية الصندوق.\n\n • الموافقة على حساب الصندوق الختامي، والتقرير السنوي عن نشاطه، ورفعهما إلى صندوق التنمية الوطني؛ للنظر فيهما، لاستكمال الإجراءات النظامية في شأنهما.\n\n • اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الصندوق، واقتراح تعديل المعمول به منها؛ لرفعها لاستكمال الإجراءات النظامية.\n\n • قبول الهبات والتبرعات والمنح والوصايا والأوقاف، بحسب القواعد المنظمة لذلك.\n\n • تعيين مراجع حسابات خارجي (أو أكثر)، ومراقب مالي داخلي.\n\n • وضع معايير تحديد المقابل المالي للخدمات التي يقدمها الصندوق.\n\n • النظر في التقارير الدورية عن سير العمل في الصندوق واتخاذ القرارات اللازمة في شأنها.\n\n • الموافقة على إنشاء فروع أو مكاتب للصندوق داخل المملكة، بحسب الحاجة.\n\n • تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها وأعضاءها، واختصاصاتها، وآلية عملها، ومدى جواز استعانة كل لجنة بمن تراه لمساعدتها في إنجاز المهمات الموكولة إليها.\n\n ويجوز للمجلس تفويض بعض صلاحياته إلى من يراه من أعضائه أو إلى أي من اللجان أو من منسوبي الصندوق.",
+      "paragraph_count": 24,
+      "indexable_paragraph_count": 24,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال باختصاصات صندوق التنمية الوطني، المجلس هو السلطة المسؤولة عن رسم سياسة الصندوق العامة، في حدود نظامه والأنظمة ذات العلاقة، ويتولى جميع المهمات والصلاحيات التي تكفل تحقيق أهداف الصندوق. وله -في سبيل ذلك- اتخاذ ما يراه من قرارات وإجراءات وتدابير وغيرها، وعلى وجه خاص ما يأتي:",
+          "text_for_index": "دون إخلال باختصاصات صندوق التنمية الوطني، المجلس هو السلطة المسؤولة عن رسم سياسة الصندوق العامة، في حدود نظامه والأنظمة ذات العلاقة، ويتولى جميع المهمات والصلاحيات التي تكفل تحقيق أهداف الصندوق. وله -في سبيل ذلك- اتخاذ ما يراه من قرارات وإجراءات وتدابير وغيرها، وعلى وجه خاص ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• الموافقة على الاستراتيجية المتعلقة بنشاط الصندوق، والخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال إجراءات في شأنه.",
+          "text_for_index": "• الموافقة على الاستراتيجية المتعلقة بنشاط الصندوق، والخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال إجراءات في شأنه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• الإشراف على تنفيذ الصندوق المهمات المنوطة به.",
+          "text_for_index": "• الإشراف على تنفيذ الصندوق المهمات المنوطة به.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الموافقة على المنتجات والمبادرات.",
+          "text_for_index": "• الموافقة على المنتجات والمبادرات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الموافقة على الاستثمار، وتملك العقارات واستئجارها وتأجيرها، وتملك الحقوق العينية والحصص والأوراق المالية والصناديق الاستثمارية والصكوك والسندات؛ والتصرف فيها.",
+          "text_for_index": "• الموافقة على الاستثمار، وتملك العقارات واستئجارها وتأجيرها، وتملك الحقوق العينية والحصص والأوراق المالية والصناديق الاستثمارية والصكوك والسندات؛ والتصرف فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الموافقة على تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بعد الاتفاق مع صندوق التنمية الوطني.",
+          "text_for_index": "• الموافقة على تأسيس الشركات وغيرها من المنشآت ذات الأغراض الخاصة داخل المملكة -التي تمكنه من تحقيق أهدافه- بمفرده أو بمشاركة الغير، والمشاركة في القائم منها، وتملك الحصص أو الأسهم وأي حق آخر مرتبط بها، بعد الاتفاق مع صندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• الموافقة على إبرام الصندوق للاتفاقيات والعقود، بحسب الإجراءات النظامية المتبعة.",
+          "text_for_index": "• الموافقة على إبرام الصندوق للاتفاقيات والعقود، بحسب الإجراءات النظامية المتبعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الموافقة على إقراض المطورين العقاريين وجهات التمويل.",
+          "text_for_index": "• الموافقة على إقراض المطورين العقاريين وجهات التمويل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• إقرار سياسات إدارة المخاطر في الصندوق وإجراءاتها ونظمها.",
+          "text_for_index": "• إقرار سياسات إدارة المخاطر في الصندوق وإجراءاتها ونظمها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تحديد نسبة الدعم من أصل التمويل التي يتحملها الصندوق لفئات المستفيدين.",
+          "text_for_index": "• تحديد نسبة الدعم من أصل التمويل التي يتحملها الصندوق لفئات المستفيدين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• إقرار الهيكل التنظيمي للصندوق.",
+          "text_for_index": "• إقرار الهيكل التنظيمي للصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• إقرار لائحة الصندوق المالية بالاتفاق مع وزارة المالية، وإقرار لائحة الصندوق الإدارية بعد الاتفاق مع وزارة المالية على الأحكام ذات الأثر المالي الواردة فيها، وإقرار غيرهما من اللوائح والإجراءات الداخلية والفنية اللازمة لتسيير شؤون الصندوق.",
+          "text_for_index": "• إقرار لائحة الصندوق المالية بالاتفاق مع وزارة المالية، وإقرار لائحة الصندوق الإدارية بعد الاتفاق مع وزارة المالية على الأحكام ذات الأثر المالي الواردة فيها، وإقرار غيرهما من اللوائح والإجراءات الداخلية والفنية اللازمة لتسيير شؤون الصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تعيين ممثلي الصندوق -من منسوبيه- وغيرهم في مجالس إدارات الشركات وغيرها من المنشآت ذات الأغراض الخاصة التي يمتلكها الصندوق أو يساهم فيها، وتحديد مكافآتهم وحقوقهم لدى الصندوق.",
+          "text_for_index": "• تعيين ممثلي الصندوق -من منسوبيه- وغيرهم في مجالس إدارات الشركات وغيرها من المنشآت ذات الأغراض الخاصة التي يمتلكها الصندوق أو يساهم فيها، وتحديد مكافآتهم وحقوقهم لدى الصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• إقرار قوائم الصندوق المالية.",
+          "text_for_index": "• إقرار قوائم الصندوق المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الموافقة على مشروع ميزانية الصندوق.",
+          "text_for_index": "• الموافقة على مشروع ميزانية الصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• الموافقة على حساب الصندوق الختامي، والتقرير السنوي عن نشاطه، ورفعهما إلى صندوق التنمية الوطني؛ للنظر فيهما، لاستكمال الإجراءات النظامية في شأنهما.",
+          "text_for_index": "• الموافقة على حساب الصندوق الختامي، والتقرير السنوي عن نشاطه، ورفعهما إلى صندوق التنمية الوطني؛ للنظر فيهما، لاستكمال الإجراءات النظامية في شأنهما.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الصندوق، واقتراح تعديل المعمول به منها؛ لرفعها لاستكمال الإجراءات النظامية.",
+          "text_for_index": "• اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الصندوق، واقتراح تعديل المعمول به منها؛ لرفعها لاستكمال الإجراءات النظامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-18",
+          "paragraph_index": 18,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• قبول الهبات والتبرعات والمنح والوصايا والأوقاف، بحسب القواعد المنظمة لذلك.",
+          "text_for_index": "• قبول الهبات والتبرعات والمنح والوصايا والأوقاف، بحسب القواعد المنظمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-19",
+          "paragraph_index": 19,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تعيين مراجع حسابات خارجي (أو أكثر)، ومراقب مالي داخلي.",
+          "text_for_index": "• تعيين مراجع حسابات خارجي (أو أكثر)، ومراقب مالي داخلي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-20",
+          "paragraph_index": 20,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• وضع معايير تحديد المقابل المالي للخدمات التي يقدمها الصندوق.",
+          "text_for_index": "• وضع معايير تحديد المقابل المالي للخدمات التي يقدمها الصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-21",
+          "paragraph_index": 21,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• النظر في التقارير الدورية عن سير العمل في الصندوق واتخاذ القرارات اللازمة في شأنها.",
+          "text_for_index": "• النظر في التقارير الدورية عن سير العمل في الصندوق واتخاذ القرارات اللازمة في شأنها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-22",
+          "paragraph_index": 22,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الموافقة على إنشاء فروع أو مكاتب للصندوق داخل المملكة، بحسب الحاجة.",
+          "text_for_index": "• الموافقة على إنشاء فروع أو مكاتب للصندوق داخل المملكة، بحسب الحاجة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-23",
+          "paragraph_index": 23,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها وأعضاءها، واختصاصاتها، وآلية عملها، ومدى جواز استعانة كل لجنة بمن تراه لمساعدتها في إنجاز المهمات الموكولة إليها.",
+          "text_for_index": "• تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها وأعضاءها، واختصاصاتها، وآلية عملها، ومدى جواز استعانة كل لجنة بمن تراه لمساعدتها في إنجاز المهمات الموكولة إليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-6::paragraph-24",
+          "paragraph_index": 24,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ويجوز للمجلس تفويض بعض صلاحياته إلى من يراه من أعضائه أو إلى أي من اللجان أو من منسوبي الصندوق.",
+          "text_for_index": "ويجوز للمجلس تفويض بعض صلاحياته إلى من يراه من أعضائه أو إلى أي من اللجان أو من منسوبي الصندوق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة السابعة",
+      "text_verbatim": "دون إخلال باختصاصات صندوق التنمية الوطني، يقر المجلس سياسات الاستثمار الخاصة بالصندوق ويطورها بصفة دائمة، ويتخذ قراراته الاستثمارية وفقاً لهذه السياسات، ويجوز له تفويض من يراه باتخاذ أي من تلك القرارات، وفق الضوابط التي يضعها.",
+      "text_for_index": "دون إخلال باختصاصات صندوق التنمية الوطني، يقر المجلس سياسات الاستثمار الخاصة بالصندوق ويطورها بصفة دائمة، ويتخذ قراراته الاستثمارية وفقاً لهذه السياسات، ويجوز له تفويض من يراه باتخاذ أي من تلك القرارات، وفق الضوابط التي يضعها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال باختصاصات صندوق التنمية الوطني، يقر المجلس سياسات الاستثمار الخاصة بالصندوق ويطورها بصفة دائمة، ويتخذ قراراته الاستثمارية وفقاً لهذه السياسات، ويجوز له تفويض من يراه باتخاذ أي من تلك القرارات، وفق الضوابط التي يضعها.",
+          "text_for_index": "دون إخلال باختصاصات صندوق التنمية الوطني، يقر المجلس سياسات الاستثمار الخاصة بالصندوق ويطورها بصفة دائمة، ويتخذ قراراته الاستثمارية وفقاً لهذه السياسات، ويجوز له تفويض من يراه باتخاذ أي من تلك القرارات، وفق الضوابط التي يضعها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الثامنة",
+      "text_verbatim": "يكون اقتراض الصندوق وغيره من صور المديونية بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى بموافقة المجلس، ووفقاً للضوابط التي يُتفق عليها مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.",
+      "text_for_index": "يكون اقتراض الصندوق وغيره من صور المديونية بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى بموافقة المجلس، ووفقاً للضوابط التي يُتفق عليها مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون اقتراض الصندوق وغيره من صور المديونية بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى بموافقة المجلس، ووفقاً للضوابط التي يُتفق عليها مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.",
+          "text_for_index": "يكون اقتراض الصندوق وغيره من صور المديونية بما في ذلك إصدار الصكوك والسندات وغيرها من أدوات الدين وأدوات التمويل الأخرى بموافقة المجلس، ووفقاً للضوابط التي يُتفق عليها مع المركز الوطني لإدارة الدين وصندوق التنمية الوطني.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة التاسعة",
+      "text_verbatim": "• يجتمع المجلس -بناءً على دعوة من رئيسه- كل (ثلاثة) أشهر على الأقل، وكلما دعت الحاجة إلى ذلك. ويجب أن توجه الدعوة -كتابة- قبل الاجتماع بـ(سبعة) أيام على الأقل، على أن تتضمن جدول أعماله.\n\n\t• لا يكون اجتماع المجلس نظاميًّا إلا بحضور أغلبية أعضائه، على أن يكون من بينهم الرئيس أو من ينوب عنه. ويعتد بحضور الأعضاء للاجتماع -عن بعد- بوساطة وسائل التقنية الإلكترونية.\n\n\t• تصدر قرارات المجلس بأغلبية أصوات الأعضاء الحاضرين على الأقل، وعند حال تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع. وللرئيس دعوة من يراه لحضور جلسات المجلس لتقديم معلومات أو آراء أو إيضاحات دون أن يكون له حق التصويت.\n\n\t• لا يجوز لأي عضو الامتناع عن التصويت، ولا أن يفوض آخر بالتصويت نيابة عنه عند غيابه.\n\n\t• تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع وأعضاؤه الحاضرون.\n\n\t• يصدر المجلس القواعد والإجراءات المنظمة لعقد اجتماعاته وآليات إصدار قراراته، بما في ذلك قواعد الاجتماع عن بُعد.\n\n\t• تُعقد اجتماعات المجلس في مقر الصندوق، ويجوز عند الاقتضاء أن تعقد في مكان آخر داخل المملكة.",
+      "text_for_index": "• يجتمع المجلس -بناءً على دعوة من رئيسه- كل (ثلاثة) أشهر على الأقل، وكلما دعت الحاجة إلى ذلك. ويجب أن توجه الدعوة -كتابة- قبل الاجتماع بـ(سبعة) أيام على الأقل، على أن تتضمن جدول أعماله.\n\n • لا يكون اجتماع المجلس نظاميًّا إلا بحضور أغلبية أعضائه، على أن يكون من بينهم الرئيس أو من ينوب عنه. ويعتد بحضور الأعضاء للاجتماع -عن بعد- بوساطة وسائل التقنية الإلكترونية.\n\n • تصدر قرارات المجلس بأغلبية أصوات الأعضاء الحاضرين على الأقل، وعند حال تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع. وللرئيس دعوة من يراه لحضور جلسات المجلس لتقديم معلومات أو آراء أو إيضاحات دون أن يكون له حق التصويت.\n\n • لا يجوز لأي عضو الامتناع عن التصويت، ولا أن يفوض آخر بالتصويت نيابة عنه عند غيابه.\n\n • تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع وأعضاؤه الحاضرون.\n\n • يصدر المجلس القواعد والإجراءات المنظمة لعقد اجتماعاته وآليات إصدار قراراته، بما في ذلك قواعد الاجتماع عن بُعد.\n\n • تُعقد اجتماعات المجلس في مقر الصندوق، ويجوز عند الاقتضاء أن تعقد في مكان آخر داخل المملكة.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجتمع المجلس -بناءً على دعوة من رئيسه- كل (ثلاثة) أشهر على الأقل، وكلما دعت الحاجة إلى ذلك. ويجب أن توجه الدعوة -كتابة- قبل الاجتماع بـ(سبعة) أيام على الأقل، على أن تتضمن جدول أعماله.",
+          "text_for_index": "• يجتمع المجلس -بناءً على دعوة من رئيسه- كل (ثلاثة) أشهر على الأقل، وكلما دعت الحاجة إلى ذلك. ويجب أن توجه الدعوة -كتابة- قبل الاجتماع بـ(سبعة) أيام على الأقل، على أن تتضمن جدول أعماله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• لا يكون اجتماع المجلس نظاميًّا إلا بحضور أغلبية أعضائه، على أن يكون من بينهم الرئيس أو من ينوب عنه. ويعتد بحضور الأعضاء للاجتماع -عن بعد- بوساطة وسائل التقنية الإلكترونية.",
+          "text_for_index": "• لا يكون اجتماع المجلس نظاميًّا إلا بحضور أغلبية أعضائه، على أن يكون من بينهم الرئيس أو من ينوب عنه. ويعتد بحضور الأعضاء للاجتماع -عن بعد- بوساطة وسائل التقنية الإلكترونية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• تصدر قرارات المجلس بأغلبية أصوات الأعضاء الحاضرين على الأقل، وعند حال تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع. وللرئيس دعوة من يراه لحضور جلسات المجلس لتقديم معلومات أو آراء أو إيضاحات دون أن يكون له حق التصويت.",
+          "text_for_index": "• تصدر قرارات المجلس بأغلبية أصوات الأعضاء الحاضرين على الأقل، وعند حال تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع. وللرئيس دعوة من يراه لحضور جلسات المجلس لتقديم معلومات أو آراء أو إيضاحات دون أن يكون له حق التصويت.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• لا يجوز لأي عضو الامتناع عن التصويت، ولا أن يفوض آخر بالتصويت نيابة عنه عند غيابه.",
+          "text_for_index": "• لا يجوز لأي عضو الامتناع عن التصويت، ولا أن يفوض آخر بالتصويت نيابة عنه عند غيابه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع وأعضاؤه الحاضرون.",
+          "text_for_index": "• تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع وأعضاؤه الحاضرون.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• يصدر المجلس القواعد والإجراءات المنظمة لعقد اجتماعاته وآليات إصدار قراراته، بما في ذلك قواعد الاجتماع عن بُعد.",
+          "text_for_index": "• يصدر المجلس القواعد والإجراءات المنظمة لعقد اجتماعاته وآليات إصدار قراراته، بما في ذلك قواعد الاجتماع عن بُعد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• تُعقد اجتماعات المجلس في مقر الصندوق، ويجوز عند الاقتضاء أن تعقد في مكان آخر داخل المملكة.",
+          "text_for_index": "• تُعقد اجتماعات المجلس في مقر الصندوق، ويجوز عند الاقتضاء أن تعقد في مكان آخر داخل المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة العاشرة",
+      "text_verbatim": "يكون للصندوق رئيس تنفيذي، يعين في منصبه ويعفى منه بقرار من المجلس، ويحدد قرار التعيين أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الصندوق، وتتركز مسؤولياته في حدود ما ينص عليه النظام وما يقرره المجلس، ويتولى -بوجه خاص- الصلاحيات الآتية:\n\n\t• تنفيذ قرارات المجلس.\n\n\t• التحضير لاجتماعات المجلس.\n\n\t• اقتراح استراتيجية عمل الصندوق، والخطط والبرامج اللازمة لتنفيذها، وعرضها على المجلس لإقرارها.\n\n\t• اقتراح سياسات الاستثمار الخاصة بالصندوق، وعرضها على المجلس لإقرارها.\n\n\t• الإشراف على سير العمل في الصندوق، والتثبت من توافق عمليات الصندوق مع ما يقضي به النظام واللائحة وما يقره المجلس.\n\n\t• الإشراف على إعداد تقرير قوائم الصندوق المالية، وحسابه الختامي، والتقرير السنوي عن نشاطه؛ تمهيداً لرفعها إلى المجلس.\n\n\t• الإشراف على إعداد التقارير الخاصة بتنفيذ خطط الصندوق وبرامجه، ورفعها إلى المجلس.\n\n\t• تمثيل الصندوق أمام القضاء، والجهات الحكومية والمؤسسات الأخرى ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها.\n\n\t• الاستعانة بالمكاتب الاستشارية وبالخبراء والمختصين والمستشارين ذوي الكفاءات المؤهلة في المجالات ذات العلاقة باختصاصات الصندوق.\n\n\t• الصرف من ميزانية الصندوق، واتخاذ جميع الإجراءات المالية، وفقاً للأنظمة واللوائح المقرة وفي حدود الصلاحيات التي يفوضه بها المجلس.\n\n\t• التعاقد لتنفيذ الأعمال والخدمات وغيرها، وفقاً للصلاحيات التي يفوضه بها المجلس.\n\n\t• إصدار القرارات اللازمة لتنفيذ الأحكام الواردة في النظام واللوائح الصادرة بناءً عليه، بحسب الصلاحيات المخولة له.\n\n\t• تعيين منسوبي الصندوق والإشراف عليهم، وفقاً للوائح المنظمة لذلك.\n\n\t• أي اختصاص آخر يسنده إليه المجلس.\n\n\tويجوز للرئيس التنفيذي تفويض بعض صلاحياته ومهماته إلى من يراه من منسوبي الصندوق، وله تفويض غيرهم فيما يتصل بما ورد في الفقرة (8) من هذه المادة.",
+      "text_for_index": "يكون للصندوق رئيس تنفيذي، يعين في منصبه ويعفى منه بقرار من المجلس، ويحدد قرار التعيين أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الصندوق، وتتركز مسؤولياته في حدود ما ينص عليه النظام وما يقرره المجلس، ويتولى -بوجه خاص- الصلاحيات الآتية:\n\n • تنفيذ قرارات المجلس.\n\n • التحضير لاجتماعات المجلس.\n\n • اقتراح استراتيجية عمل الصندوق، والخطط والبرامج اللازمة لتنفيذها، وعرضها على المجلس لإقرارها.\n\n • اقتراح سياسات الاستثمار الخاصة بالصندوق، وعرضها على المجلس لإقرارها.\n\n • الإشراف على سير العمل في الصندوق، والتثبت من توافق عمليات الصندوق مع ما يقضي به النظام واللائحة وما يقره المجلس.\n\n • الإشراف على إعداد تقرير قوائم الصندوق المالية، وحسابه الختامي، والتقرير السنوي عن نشاطه؛ تمهيداً لرفعها إلى المجلس.\n\n • الإشراف على إعداد التقارير الخاصة بتنفيذ خطط الصندوق وبرامجه، ورفعها إلى المجلس.\n\n • تمثيل الصندوق أمام القضاء، والجهات الحكومية والمؤسسات الأخرى ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها.\n\n • الاستعانة بالمكاتب الاستشارية وبالخبراء والمختصين والمستشارين ذوي الكفاءات المؤهلة في المجالات ذات العلاقة باختصاصات الصندوق.\n\n • الصرف من ميزانية الصندوق، واتخاذ جميع الإجراءات المالية، وفقاً للأنظمة واللوائح المقرة وفي حدود الصلاحيات التي يفوضه بها المجلس.\n\n • التعاقد لتنفيذ الأعمال والخدمات وغيرها، وفقاً للصلاحيات التي يفوضه بها المجلس.\n\n • إصدار القرارات اللازمة لتنفيذ الأحكام الواردة في النظام واللوائح الصادرة بناءً عليه، بحسب الصلاحيات المخولة له.\n\n • تعيين منسوبي الصندوق والإشراف عليهم، وفقاً للوائح المنظمة لذلك.\n\n • أي اختصاص آخر يسنده إليه المجلس.\n\n ويجوز للرئيس التنفيذي تفويض بعض صلاحياته ومهماته إلى من يراه من منسوبي الصندوق، وله تفويض غيرهم فيما يتصل بما ورد في الفقرة (8) من هذه المادة.",
+      "paragraph_count": 16,
+      "indexable_paragraph_count": 16,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "يكون للصندوق رئيس تنفيذي، يعين في منصبه ويعفى منه بقرار من المجلس، ويحدد قرار التعيين أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الصندوق، وتتركز مسؤولياته في حدود ما ينص عليه النظام وما يقرره المجلس، ويتولى -بوجه خاص- الصلاحيات الآتية:",
+          "text_for_index": "يكون للصندوق رئيس تنفيذي، يعين في منصبه ويعفى منه بقرار من المجلس، ويحدد قرار التعيين أجره ومزاياه المالية الأخرى، ويعد المسؤول عن إدارة شؤون الصندوق، وتتركز مسؤولياته في حدود ما ينص عليه النظام وما يقرره المجلس، ويتولى -بوجه خاص- الصلاحيات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• تنفيذ قرارات المجلس.",
+          "text_for_index": "• تنفيذ قرارات المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• التحضير لاجتماعات المجلس.",
+          "text_for_index": "• التحضير لاجتماعات المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• اقتراح استراتيجية عمل الصندوق، والخطط والبرامج اللازمة لتنفيذها، وعرضها على المجلس لإقرارها.",
+          "text_for_index": "• اقتراح استراتيجية عمل الصندوق، والخطط والبرامج اللازمة لتنفيذها، وعرضها على المجلس لإقرارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• اقتراح سياسات الاستثمار الخاصة بالصندوق، وعرضها على المجلس لإقرارها.",
+          "text_for_index": "• اقتراح سياسات الاستثمار الخاصة بالصندوق، وعرضها على المجلس لإقرارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الإشراف على سير العمل في الصندوق، والتثبت من توافق عمليات الصندوق مع ما يقضي به النظام واللائحة وما يقره المجلس.",
+          "text_for_index": "• الإشراف على سير العمل في الصندوق، والتثبت من توافق عمليات الصندوق مع ما يقضي به النظام واللائحة وما يقره المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الإشراف على إعداد تقرير قوائم الصندوق المالية، وحسابه الختامي، والتقرير السنوي عن نشاطه؛ تمهيداً لرفعها إلى المجلس.",
+          "text_for_index": "• الإشراف على إعداد تقرير قوائم الصندوق المالية، وحسابه الختامي، والتقرير السنوي عن نشاطه؛ تمهيداً لرفعها إلى المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• الإشراف على إعداد التقارير الخاصة بتنفيذ خطط الصندوق وبرامجه، ورفعها إلى المجلس.",
+          "text_for_index": "• الإشراف على إعداد التقارير الخاصة بتنفيذ خطط الصندوق وبرامجه، ورفعها إلى المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تمثيل الصندوق أمام القضاء، والجهات الحكومية والمؤسسات الأخرى ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها.",
+          "text_for_index": "• تمثيل الصندوق أمام القضاء، والجهات الحكومية والمؤسسات الأخرى ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• الاستعانة بالمكاتب الاستشارية وبالخبراء والمختصين والمستشارين ذوي الكفاءات المؤهلة في المجالات ذات العلاقة باختصاصات الصندوق.",
+          "text_for_index": "• الاستعانة بالمكاتب الاستشارية وبالخبراء والمختصين والمستشارين ذوي الكفاءات المؤهلة في المجالات ذات العلاقة باختصاصات الصندوق.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• الصرف من ميزانية الصندوق، واتخاذ جميع الإجراءات المالية، وفقاً للأنظمة واللوائح المقرة وفي حدود الصلاحيات التي يفوضه بها المجلس.",
+          "text_for_index": "• الصرف من ميزانية الصندوق، واتخاذ جميع الإجراءات المالية، وفقاً للأنظمة واللوائح المقرة وفي حدود الصلاحيات التي يفوضه بها المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• التعاقد لتنفيذ الأعمال والخدمات وغيرها، وفقاً للصلاحيات التي يفوضه بها المجلس.",
+          "text_for_index": "• التعاقد لتنفيذ الأعمال والخدمات وغيرها، وفقاً للصلاحيات التي يفوضه بها المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• إصدار القرارات اللازمة لتنفيذ الأحكام الواردة في النظام واللوائح الصادرة بناءً عليه، بحسب الصلاحيات المخولة له.",
+          "text_for_index": "• إصدار القرارات اللازمة لتنفيذ الأحكام الواردة في النظام واللوائح الصادرة بناءً عليه، بحسب الصلاحيات المخولة له.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تعيين منسوبي الصندوق والإشراف عليهم، وفقاً للوائح المنظمة لذلك.",
+          "text_for_index": "• تعيين منسوبي الصندوق والإشراف عليهم، وفقاً للوائح المنظمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• أي اختصاص آخر يسنده إليه المجلس.",
+          "text_for_index": "• أي اختصاص آخر يسنده إليه المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-10::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "ويجوز للرئيس التنفيذي تفويض بعض صلاحياته ومهماته إلى من يراه من منسوبي الصندوق، وله تفويض غيرهم فيما يتصل بما ورد في الفقرة (8) من هذه المادة.",
+          "text_for_index": "ويجوز للرئيس التنفيذي تفويض بعض صلاحياته ومهماته إلى من يراه من منسوبي الصندوق، وله تفويض غيرهم فيما يتصل بما ورد في الفقرة (8) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الحادية عشرة",
+      "text_verbatim": "• رأس مال الصندوق (190.897.900.000) مائة وتسعون مليارًا وثمانمائة وسبعة وتسعون مليونًا وتسعمائة ألف ريال سعودي. وتجوز زيادته بقرار من مجلس الوزراء، بناء على اقتراح من مجلس إدارة صندوق التنمية الوطني.\n\n\t• تتكون موارد الصندوق مما يأتي:\n\n\tأ- الدعم المقدم له من الدولة فيما يخدم نشاطه التمويلي.\n\n\tب- التدفقات النقدية من القروض المصروفة من رأس ماله.\n\n\tج- المقابل المالي الذي يتقاضاه نظير الخدمات التي يقدمها.\n\n\tد- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وأوقاف.\n\n\tهـ- الأوراق والأدوات المالية على مختلف أنواعها المملوكة له.\n\n\tو- الدخل الناتج من استثمار أمواله وأرصدته وممتلكاته.\n\n\tز- أي مورد آخر يقره المجلس.",
+      "text_for_index": "• رأس مال الصندوق (190.897.900.000) مائة وتسعون مليارًا وثمانمائة وسبعة وتسعون مليونًا وتسعمائة ألف ريال سعودي. وتجوز زيادته بقرار من مجلس الوزراء، بناء على اقتراح من مجلس إدارة صندوق التنمية الوطني.\n\n • تتكون موارد الصندوق مما يأتي:\n\n أ- الدعم المقدم له من الدولة فيما يخدم نشاطه التمويلي.\n\n ب- التدفقات النقدية من القروض المصروفة من رأس ماله.\n\n ج- المقابل المالي الذي يتقاضاه نظير الخدمات التي يقدمها.\n\n د- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وأوقاف.\n\n هـ- الأوراق والأدوات المالية على مختلف أنواعها المملوكة له.\n\n و- الدخل الناتج من استثمار أمواله وأرصدته وممتلكاته.\n\n ز- أي مورد آخر يقره المجلس.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• رأس مال الصندوق (190.897.900.000) مائة وتسعون مليارًا وثمانمائة وسبعة وتسعون مليونًا وتسعمائة ألف ريال سعودي. وتجوز زيادته بقرار من مجلس الوزراء، بناء على اقتراح من مجلس إدارة صندوق التنمية الوطني.",
+          "text_for_index": "• رأس مال الصندوق (190.897.900.000) مائة وتسعون مليارًا وثمانمائة وسبعة وتسعون مليونًا وتسعمائة ألف ريال سعودي. وتجوز زيادته بقرار من مجلس الوزراء، بناء على اقتراح من مجلس إدارة صندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• تتكون موارد الصندوق مما يأتي:",
+          "text_for_index": "• تتكون موارد الصندوق مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ- الدعم المقدم له من الدولة فيما يخدم نشاطه التمويلي.",
+          "text_for_index": "أ- الدعم المقدم له من الدولة فيما يخدم نشاطه التمويلي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب- التدفقات النقدية من القروض المصروفة من رأس ماله.",
+          "text_for_index": "ب- التدفقات النقدية من القروض المصروفة من رأس ماله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ج- المقابل المالي الذي يتقاضاه نظير الخدمات التي يقدمها.",
+          "text_for_index": "ج- المقابل المالي الذي يتقاضاه نظير الخدمات التي يقدمها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "د- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وأوقاف.",
+          "text_for_index": "د- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وأوقاف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "هـ- الأوراق والأدوات المالية على مختلف أنواعها المملوكة له.",
+          "text_for_index": "هـ- الأوراق والأدوات المالية على مختلف أنواعها المملوكة له.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "و- الدخل الناتج من استثمار أمواله وأرصدته وممتلكاته.",
+          "text_for_index": "و- الدخل الناتج من استثمار أمواله وأرصدته وممتلكاته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-11::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ز- أي مورد آخر يقره المجلس.",
+          "text_for_index": "ز- أي مورد آخر يقره المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الثانية عشرة",
+      "text_verbatim": "• يكون للصندوق ميزانية تشغيلية سنوية، تعد وفقاً للأسس والمعايير التجارية، وتمول من موارده المالية.\n\n\t• السنة المالية للصندوق هي السنة المالية للدولة.",
+      "text_for_index": "• يكون للصندوق ميزانية تشغيلية سنوية، تعد وفقاً للأسس والمعايير التجارية، وتمول من موارده المالية.\n\n • السنة المالية للصندوق هي السنة المالية للدولة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يكون للصندوق ميزانية تشغيلية سنوية، تعد وفقاً للأسس والمعايير التجارية، وتمول من موارده المالية.",
+          "text_for_index": "• يكون للصندوق ميزانية تشغيلية سنوية، تعد وفقاً للأسس والمعايير التجارية، وتمول من موارده المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• السنة المالية للصندوق هي السنة المالية للدولة.",
+          "text_for_index": "• السنة المالية للصندوق هي السنة المالية للدولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الثالثة عشرة",
+      "text_verbatim": "يخضع منسوبو الصندوق لنظام العمل، ونظام التأمينات الاجتماعية.",
+      "text_for_index": "يخضع منسوبو الصندوق لنظام العمل، ونظام التأمينات الاجتماعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يخضع منسوبو الصندوق لنظام العمل، ونظام التأمينات الاجتماعية.",
+          "text_for_index": "يخضع منسوبو الصندوق لنظام العمل، ونظام التأمينات الاجتماعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الرابعة عشرة",
+      "text_verbatim": "تتمتع أموال الصندوق، بما فيها التمويلات التي يقدمها، بالمزايا والضمانات المقررة لحقوق الخزانة العامة، وتُحصّل وفقاً للأنظمة المنظمة لذلك.",
+      "text_for_index": "تتمتع أموال الصندوق، بما فيها التمويلات التي يقدمها، بالمزايا والضمانات المقررة لحقوق الخزانة العامة، وتُحصّل وفقاً للأنظمة المنظمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تتمتع أموال الصندوق، بما فيها التمويلات التي يقدمها، بالمزايا والضمانات المقررة لحقوق الخزانة العامة، وتُحصّل وفقاً للأنظمة المنظمة لذلك.",
+          "text_for_index": "تتمتع أموال الصندوق، بما فيها التمويلات التي يقدمها، بالمزايا والضمانات المقررة لحقوق الخزانة العامة، وتُحصّل وفقاً للأنظمة المنظمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الخامسة عشرة",
+      "text_verbatim": "يفتح الصندوق حساباً له في مؤسسة النقد العربي السعودي، ويجوز له فتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفق ميزانيته المعتمدة.",
+      "text_for_index": "يفتح الصندوق حساباً له في مؤسسة النقد العربي السعودي، ويجوز له فتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفق ميزانيته المعتمدة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يفتح الصندوق حساباً له في مؤسسة النقد العربي السعودي، ويجوز له فتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفق ميزانيته المعتمدة.",
+          "text_for_index": "يفتح الصندوق حساباً له في مؤسسة النقد العربي السعودي، ويجوز له فتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفق ميزانيته المعتمدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة السادسة عشرة",
+      "text_verbatim": "دون إخلال باختصاص الديوان العام للمحاسبة في الرقابة على حسابات الصندوق، يعين المجلس مراجع حسابات خارجيًّا (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الصندوق ومعاملاته وبياناته وميزانيته السنوية وحسابه الختامي، ويحدد المجلس أتعابه. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود الديوان العام للمحاسبة بنسخة منه.",
+      "text_for_index": "دون إخلال باختصاص الديوان العام للمحاسبة في الرقابة على حسابات الصندوق، يعين المجلس مراجع حسابات خارجيًّا (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الصندوق ومعاملاته وبياناته وميزانيته السنوية وحسابه الختامي، ويحدد المجلس أتعابه. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود الديوان العام للمحاسبة بنسخة منه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال باختصاص الديوان العام للمحاسبة في الرقابة على حسابات الصندوق، يعين المجلس مراجع حسابات خارجيًّا (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الصندوق ومعاملاته وبياناته وميزانيته السنوية وحسابه الختامي، ويحدد المجلس أتعابه. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود الديوان العام للمحاسبة بنسخة منه.",
+          "text_for_index": "دون إخلال باختصاص الديوان العام للمحاسبة في الرقابة على حسابات الصندوق، يعين المجلس مراجع حسابات خارجيًّا (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الصندوق ومعاملاته وبياناته وميزانيته السنوية وحسابه الختامي، ويحدد المجلس أتعابه. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود الديوان العام للمحاسبة بنسخة منه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة السابعة عشرة",
+      "text_verbatim": "يصدر المجلس اللائحة خلال (تسعين) يوماً من تاريخ نشر النظام، وتنشر في الجريدة الرسمية، ويُعمل بها من تاريخ العمل بالنظام.",
+      "text_for_index": "يصدر المجلس اللائحة خلال (تسعين) يوماً من تاريخ نشر النظام، وتنشر في الجريدة الرسمية، ويُعمل بها من تاريخ العمل بالنظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر المجلس اللائحة خلال (تسعين) يوماً من تاريخ نشر النظام، وتنشر في الجريدة الرسمية، ويُعمل بها من تاريخ العمل بالنظام.",
+          "text_for_index": "يصدر المجلس اللائحة خلال (تسعين) يوماً من تاريخ نشر النظام، وتنشر في الجريدة الرسمية، ويُعمل بها من تاريخ العمل بالنظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام صندوق التنمية العقارية، المادة الثامنة عشرة",
+      "text_verbatim": "• يحل هذا النظام محل نظام صندوق التنمية العقارية الصادر بالمرسوم الملكي رقم (م / 23) وتاريخ 11 / 6 / 1394هـ.\n\n\t• يُنشر النظام في الجريدة الرسمية، ويُعمل به بعد (تسعين) يوماً من تاريخ نشره.",
+      "text_for_index": "• يحل هذا النظام محل نظام صندوق التنمية العقارية الصادر بالمرسوم الملكي رقم (م / 23) وتاريخ 11 / 6 / 1394هـ.\n\n • يُنشر النظام في الجريدة الرسمية، ويُعمل به بعد (تسعين) يوماً من تاريخ نشره.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يحل هذا النظام محل نظام صندوق التنمية العقارية الصادر بالمرسوم الملكي رقم (م / 23) وتاريخ 11 / 6 / 1394هـ.",
+          "text_for_index": "• يحل هذا النظام محل نظام صندوق التنمية العقارية الصادر بالمرسوم الملكي رقم (م / 23) وتاريخ 11 / 6 / 1394هـ.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-sndwq-altnmyh-alaqaryh::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يُنشر النظام في الجريدة الرسمية، ويُعمل به بعد (تسعين) يوماً من تاريخ نشره.",
+          "text_for_index": "• يُنشر النظام في الجريدة الرسمية، ويُعمل به بعد (تسعين) يوماً من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

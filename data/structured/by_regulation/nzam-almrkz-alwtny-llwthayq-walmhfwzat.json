@@ -1,0 +1,729 @@
+{
+  "metadata": {
+    "slug": "nzam-almrkz-alwtny-llwthayq-walmhfwzat",
+    "title_ar": "نظام المركز الوطني للوثائق والمحفوظات",
+    "status": "ساري",
+    "issue_date_hijri": "1409/10/23 هـ الموافق : 28/05/1989 مـ",
+    "issue_date_gregorian": "1989-05-28",
+    "publish_date_hijri": "1409/11/20 هـ الموافق : 23/06/1989 مـ",
+    "publish_date_gregorian": "1989-06-23",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bdf15375-52e6-4c94-9153-a9a700f16cc3/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-almrkz-alwtny-llwthayq-walmhfwzat.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-almrkz-alwtny-llwthayq-walmhfwzat.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1409/11/20 هـ الموافق : 23/06/1989 مـ",
+    "effective_date_gregorian": "1989-06-23",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 12,
+    "paragraph_count": 32,
+    "indexable_paragraph_count": 32,
+    "text_chars": 2685,
+    "verbatim_chars": 2691,
+    "citation_base_ar": "نظام المركز الوطني للوثائق والمحفوظات",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bdf15375-52e6-4c94-9153-a9a700f16cc3/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-almrkz-alwtny-llwthayq-walmhfwzat.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-almrkz-alwtny-llwthayq-walmhfwzat.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الأولى",
+      "text_verbatim": "يكون للمسميات الواردة في هذا النظام نفس الدلالات الواردة في المادة الأولى من نظام الوثائق والمحفوظات.",
+      "text_for_index": "يكون للمسميات الواردة في هذا النظام نفس الدلالات الواردة في المادة الأولى من نظام الوثائق والمحفوظات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون للمسميات الواردة في هذا النظام نفس الدلالات الواردة في المادة الأولى من نظام الوثائق والمحفوظات.",
+          "text_for_index": "يكون للمسميات الواردة في هذا النظام نفس الدلالات الواردة في المادة الأولى من نظام الوثائق والمحفوظات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الثانية",
+      "text_verbatim": "ينشأ بموجب هذا النظام مركز يسمى (المركز الوطني للوثائق والمحفوظات) يرتبط إداريًّا برئيس ديوان رئاسة  مجلس الوزراء.",
+      "text_for_index": "ينشأ بموجب هذا النظام مركز يسمى (المركز الوطني للوثائق والمحفوظات) يرتبط إداريًّا برئيس ديوان رئاسة مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشأ بموجب هذا النظام مركز يسمى (المركز الوطني للوثائق والمحفوظات) يرتبط إداريًّا برئيس ديوان رئاسة  مجلس الوزراء.",
+          "text_for_index": "ينشأ بموجب هذا النظام مركز يسمى (المركز الوطني للوثائق والمحفوظات) يرتبط إداريًّا برئيس ديوان رئاسة مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الثالثة",
+      "text_verbatim": "غرض المركز وضع نظام الوثائق والمحفوظات موضوع التنفيذ، وله في سبيل ذلك اتخاذ كافة الوسائل والسبل التي تمكنه من القيام بهذه المهمة ومن ذلك:\n\n1 - إعداد اللوائح التنفيذية اللازمة لنظام الوثائق والمحفوظات وتنفيذها بعد إقرارها.\n\n2 - إعداد دليل تصنيف موحد للوثائق والمحفوظات، ودليل ترميز شامل لأجهزة الدولة.\n\n3 - جمع الوثائق والمحفوظات، وفهرستها، وتصنيفها، وترميزها، وحفظها، وصيانتها، وتنظيم تداولها وفقًا لنظام الوثائق والمحفوظات ولوائحه التنفيذية، وخطتي التصنيف والترميز.\n\n4 - الإشراف والمتابعة الفنية لعمليات الحفظ في الأجهزة الحكومية، والعمل على حماية الوثائق والمحفوظات.\n\n5 - إعداد التنظيم الإداري والإجراءات الإدارية والفنية اللازمة لأعمال المركز وتنفيذها بعد إقرارها.\n\n6 - أ : توفير البيانات، والمعلومات عن الوثائق، والمحفوظات للمستفيدين منها وفقًا للوائح المركز.\n\nب : تجميع الأنظمة، واللوائح، والتعليمات، والاتفاقيات، والمعاهدات وفقًا لنظام الوثائق والمحفوظات ولوائحه.",
+      "text_for_index": "غرض المركز وضع نظام الوثائق والمحفوظات موضوع التنفيذ، وله في سبيل ذلك اتخاذ كافة الوسائل والسبل التي تمكنه من القيام بهذه المهمة ومن ذلك:\n\n1 - إعداد اللوائح التنفيذية اللازمة لنظام الوثائق والمحفوظات وتنفيذها بعد إقرارها.\n\n2 - إعداد دليل تصنيف موحد للوثائق والمحفوظات، ودليل ترميز شامل لأجهزة الدولة.\n\n3 - جمع الوثائق والمحفوظات، وفهرستها، وتصنيفها، وترميزها، وحفظها، وصيانتها، وتنظيم تداولها وفقًا لنظام الوثائق والمحفوظات ولوائحه التنفيذية، وخطتي التصنيف والترميز.\n\n4 - الإشراف والمتابعة الفنية لعمليات الحفظ في الأجهزة الحكومية، والعمل على حماية الوثائق والمحفوظات.\n\n5 - إعداد التنظيم الإداري والإجراءات الإدارية والفنية اللازمة لأعمال المركز وتنفيذها بعد إقرارها.\n\n6 - أ : توفير البيانات، والمعلومات عن الوثائق، والمحفوظات للمستفيدين منها وفقًا للوائح المركز.\n\nب : تجميع الأنظمة، واللوائح، والتعليمات، والاتفاقيات، والمعاهدات وفقًا لنظام الوثائق والمحفوظات ولوائحه.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "غرض المركز وضع نظام الوثائق والمحفوظات موضوع التنفيذ، وله في سبيل ذلك اتخاذ كافة الوسائل والسبل التي تمكنه من القيام بهذه المهمة ومن ذلك:",
+          "text_for_index": "غرض المركز وضع نظام الوثائق والمحفوظات موضوع التنفيذ، وله في سبيل ذلك اتخاذ كافة الوسائل والسبل التي تمكنه من القيام بهذه المهمة ومن ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - إعداد اللوائح التنفيذية اللازمة لنظام الوثائق والمحفوظات وتنفيذها بعد إقرارها.",
+          "text_for_index": "1 - إعداد اللوائح التنفيذية اللازمة لنظام الوثائق والمحفوظات وتنفيذها بعد إقرارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2 - إعداد دليل تصنيف موحد للوثائق والمحفوظات، ودليل ترميز شامل لأجهزة الدولة.",
+          "text_for_index": "2 - إعداد دليل تصنيف موحد للوثائق والمحفوظات، ودليل ترميز شامل لأجهزة الدولة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "3 - جمع الوثائق والمحفوظات، وفهرستها، وتصنيفها، وترميزها، وحفظها، وصيانتها، وتنظيم تداولها وفقًا لنظام الوثائق والمحفوظات ولوائحه التنفيذية، وخطتي التصنيف والترميز.",
+          "text_for_index": "3 - جمع الوثائق والمحفوظات، وفهرستها، وتصنيفها، وترميزها، وحفظها، وصيانتها، وتنظيم تداولها وفقًا لنظام الوثائق والمحفوظات ولوائحه التنفيذية، وخطتي التصنيف والترميز.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "4 - الإشراف والمتابعة الفنية لعمليات الحفظ في الأجهزة الحكومية، والعمل على حماية الوثائق والمحفوظات.",
+          "text_for_index": "4 - الإشراف والمتابعة الفنية لعمليات الحفظ في الأجهزة الحكومية، والعمل على حماية الوثائق والمحفوظات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "5 - إعداد التنظيم الإداري والإجراءات الإدارية والفنية اللازمة لأعمال المركز وتنفيذها بعد إقرارها.",
+          "text_for_index": "5 - إعداد التنظيم الإداري والإجراءات الإدارية والفنية اللازمة لأعمال المركز وتنفيذها بعد إقرارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "6 - أ : توفير البيانات، والمعلومات عن الوثائق، والمحفوظات للمستفيدين منها وفقًا للوائح المركز.",
+          "text_for_index": "6 - أ : توفير البيانات، والمعلومات عن الوثائق، والمحفوظات للمستفيدين منها وفقًا للوائح المركز.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-3::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ب : تجميع الأنظمة، واللوائح، والتعليمات، والاتفاقيات، والمعاهدات وفقًا لنظام الوثائق والمحفوظات ولوائحه.",
+          "text_for_index": "ب : تجميع الأنظمة، واللوائح، والتعليمات، والاتفاقيات، والمعاهدات وفقًا لنظام الوثائق والمحفوظات ولوائحه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الرابعة",
+      "text_verbatim": "يكون للمركز هيئة تختص بما يلي:\n\n1 - رسم السياسة العامة للمركز، ومتابعة تنفيذها.\n\n2 - اقتراح ما تراه مناسبًا من الأنظمة، واللوائح، والإجراءات التي تكفل التنفيذ الأمثل لنظام الوثائق والمحفوظات.\n\n3 - إصدار اللوائح التنفيذية لنظام الوثائق والمحفوظات.\n\n4 - الموافقة على الخطط، والبرامج، والمشروعات التي تقترحها إدارة المركز.",
+      "text_for_index": "يكون للمركز هيئة تختص بما يلي:\n\n1 - رسم السياسة العامة للمركز، ومتابعة تنفيذها.\n\n2 - اقتراح ما تراه مناسبًا من الأنظمة، واللوائح، والإجراءات التي تكفل التنفيذ الأمثل لنظام الوثائق والمحفوظات.\n\n3 - إصدار اللوائح التنفيذية لنظام الوثائق والمحفوظات.\n\n4 - الموافقة على الخطط، والبرامج، والمشروعات التي تقترحها إدارة المركز.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يكون للمركز هيئة تختص بما يلي:",
+          "text_for_index": "يكون للمركز هيئة تختص بما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - رسم السياسة العامة للمركز، ومتابعة تنفيذها.",
+          "text_for_index": "1 - رسم السياسة العامة للمركز، ومتابعة تنفيذها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2 - اقتراح ما تراه مناسبًا من الأنظمة، واللوائح، والإجراءات التي تكفل التنفيذ الأمثل لنظام الوثائق والمحفوظات.",
+          "text_for_index": "2 - اقتراح ما تراه مناسبًا من الأنظمة، واللوائح، والإجراءات التي تكفل التنفيذ الأمثل لنظام الوثائق والمحفوظات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "3 - إصدار اللوائح التنفيذية لنظام الوثائق والمحفوظات.",
+          "text_for_index": "3 - إصدار اللوائح التنفيذية لنظام الوثائق والمحفوظات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "4 - الموافقة على الخطط، والبرامج، والمشروعات التي تقترحها إدارة المركز.",
+          "text_for_index": "4 - الموافقة على الخطط، والبرامج، والمشروعات التي تقترحها إدارة المركز.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الخامسة",
+      "text_verbatim": "تشكل الهيئة من:\n\n1 -رئيس  ديوان رئاسة  مجلس الوزراءرئيسًا\n2 -الأمين العام لمجلس الوزراء عضوًا\n3 -رئيس  شعبة الخبراء بمجلس الوزراءعضوًا\n4 -مدير عام المركزعضوًا\n\n5 - ثلاثة أعضاء يختارون بأمر سام لمدة ثلاث سنوات قابلة للتجديد لمدة مماثلة.",
+      "text_for_index": "تشكل الهيئة من:\n\n1 -رئيس ديوان رئاسة مجلس الوزراءرئيسًا\n2 -الأمين العام لمجلس الوزراء عضوًا\n3 -رئيس شعبة الخبراء بمجلس الوزراءعضوًا\n4 -مدير عام المركزعضوًا\n\n5 - ثلاثة أعضاء يختارون بأمر سام لمدة ثلاث سنوات قابلة للتجديد لمدة مماثلة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تشكل الهيئة من:",
+          "text_for_index": "تشكل الهيئة من:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 -رئيس  ديوان رئاسة  مجلس الوزراءرئيسًا\n2 -الأمين العام لمجلس الوزراء عضوًا\n3 -رئيس  شعبة الخبراء بمجلس الوزراءعضوًا\n4 -مدير عام المركزعضوًا",
+          "text_for_index": "1 -رئيس ديوان رئاسة مجلس الوزراءرئيسًا\n2 -الأمين العام لمجلس الوزراء عضوًا\n3 -رئيس شعبة الخبراء بمجلس الوزراءعضوًا\n4 -مدير عام المركزعضوًا",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "5 - ثلاثة أعضاء يختارون بأمر سام لمدة ثلاث سنوات قابلة للتجديد لمدة مماثلة.",
+          "text_for_index": "5 - ثلاثة أعضاء يختارون بأمر سام لمدة ثلاث سنوات قابلة للتجديد لمدة مماثلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة السادسة",
+      "text_verbatim": "تجتمع الهيئة برئاسة رئيسها، أو من ينيبه من الأعضاء، ولا يعتبر الاجتماع نظاميًّا إلا بحضور أغلبية الأعضاء.",
+      "text_for_index": "تجتمع الهيئة برئاسة رئيسها، أو من ينيبه من الأعضاء، ولا يعتبر الاجتماع نظاميًّا إلا بحضور أغلبية الأعضاء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "تجتمع الهيئة برئاسة رئيسها، أو من ينيبه من الأعضاء، ولا يعتبر الاجتماع نظاميًّا إلا بحضور أغلبية الأعضاء.",
+          "text_for_index": "تجتمع الهيئة برئاسة رئيسها، أو من ينيبه من الأعضاء، ولا يعتبر الاجتماع نظاميًّا إلا بحضور أغلبية الأعضاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة السابعة",
+      "text_verbatim": "تصدر قرارات الهيئة بأغلبية أصوات الحاضرين، وعند تساوي الأصوات يعتبر صوت الرئيس مرجحًا.",
+      "text_for_index": "تصدر قرارات الهيئة بأغلبية أصوات الحاضرين، وعند تساوي الأصوات يعتبر صوت الرئيس مرجحًا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تصدر قرارات الهيئة بأغلبية أصوات الحاضرين، وعند تساوي الأصوات يعتبر صوت الرئيس مرجحًا.",
+          "text_for_index": "تصدر قرارات الهيئة بأغلبية أصوات الحاضرين، وعند تساوي الأصوات يعتبر صوت الرئيس مرجحًا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الثامنة",
+      "text_verbatim": "يعين للمركز مدير عام بالمرتبة الخامسة عشرة.",
+      "text_for_index": "يعين للمركز مدير عام بالمرتبة الخامسة عشرة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعين للمركز مدير عام بالمرتبة الخامسة عشرة.",
+          "text_for_index": "يعين للمركز مدير عام بالمرتبة الخامسة عشرة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة التاسعة",
+      "text_verbatim": "يتولى مدير عام المركز إدارة، وتصريف شؤونه، وله في سبيل ذلك ما يلي:\n\n1 - اقتراح خطط المركز، وبرامجه، ومشروعاته، والإشراف على تنفيذها بعد الموافقة عليها.\n\n2 - اقتراح اللوائح التنفيذية لهذا النظام.\n\n3 - اقتراح التنظيمات المناسبة للوثائق والمحفوظات بما يتفق والتطور الفني والإداري.\n\n4 - تقديم أي اقتراحات يراها كفيلة بحسن سير العمل.\n\n5 - تمثيل المركز في صلاته مع الجهات الأخرى.\n\n6 - تنفيذ قرارات الهيئة.\n\n7 - رفع تقارير دورية عن سير أعمال المركز وإنجازاته إلى الهيئة.",
+      "text_for_index": "يتولى مدير عام المركز إدارة، وتصريف شؤونه، وله في سبيل ذلك ما يلي:\n\n1 - اقتراح خطط المركز، وبرامجه، ومشروعاته، والإشراف على تنفيذها بعد الموافقة عليها.\n\n2 - اقتراح اللوائح التنفيذية لهذا النظام.\n\n3 - اقتراح التنظيمات المناسبة للوثائق والمحفوظات بما يتفق والتطور الفني والإداري.\n\n4 - تقديم أي اقتراحات يراها كفيلة بحسن سير العمل.\n\n5 - تمثيل المركز في صلاته مع الجهات الأخرى.\n\n6 - تنفيذ قرارات الهيئة.\n\n7 - رفع تقارير دورية عن سير أعمال المركز وإنجازاته إلى الهيئة.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يتولى مدير عام المركز إدارة، وتصريف شؤونه، وله في سبيل ذلك ما يلي:",
+          "text_for_index": "يتولى مدير عام المركز إدارة، وتصريف شؤونه، وله في سبيل ذلك ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "1 - اقتراح خطط المركز، وبرامجه، ومشروعاته، والإشراف على تنفيذها بعد الموافقة عليها.",
+          "text_for_index": "1 - اقتراح خطط المركز، وبرامجه، ومشروعاته، والإشراف على تنفيذها بعد الموافقة عليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "2 - اقتراح اللوائح التنفيذية لهذا النظام.",
+          "text_for_index": "2 - اقتراح اللوائح التنفيذية لهذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "3 - اقتراح التنظيمات المناسبة للوثائق والمحفوظات بما يتفق والتطور الفني والإداري.",
+          "text_for_index": "3 - اقتراح التنظيمات المناسبة للوثائق والمحفوظات بما يتفق والتطور الفني والإداري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "4 - تقديم أي اقتراحات يراها كفيلة بحسن سير العمل.",
+          "text_for_index": "4 - تقديم أي اقتراحات يراها كفيلة بحسن سير العمل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "5 - تمثيل المركز في صلاته مع الجهات الأخرى.",
+          "text_for_index": "5 - تمثيل المركز في صلاته مع الجهات الأخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "6 - تنفيذ قرارات الهيئة.",
+          "text_for_index": "6 - تنفيذ قرارات الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-9::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "7 - رفع تقارير دورية عن سير أعمال المركز وإنجازاته إلى الهيئة.",
+          "text_for_index": "7 - رفع تقارير دورية عن سير أعمال المركز وإنجازاته إلى الهيئة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة العاشرة",
+      "text_verbatim": "يكون للمركز ميزانية خاصة.",
+      "text_for_index": "يكون للمركز ميزانية خاصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون للمركز ميزانية خاصة.",
+          "text_for_index": "يكون للمركز ميزانية خاصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الحادية عشرة",
+      "text_verbatim": "يلغي هذا النظام ما يتعارض معه من أحكام أخرى تتعلق بالوثائق والمحفوظات.",
+      "text_for_index": "يلغي هذا النظام ما يتعارض معه من أحكام أخرى تتعلق بالوثائق والمحفوظات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي هذا النظام ما يتعارض معه من أحكام أخرى تتعلق بالوثائق والمحفوظات.",
+          "text_for_index": "يلغي هذا النظام ما يتعارض معه من أحكام أخرى تتعلق بالوثائق والمحفوظات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المركز الوطني للوثائق والمحفوظات، المادة الثانية عشرة",
+      "text_verbatim": "ينشر هذا النظام في  الجريدة الرسمية  .",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almrkz-alwtny-llwthayq-walmhfwzat::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشر هذا النظام في  الجريدة الرسمية  .",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية .",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

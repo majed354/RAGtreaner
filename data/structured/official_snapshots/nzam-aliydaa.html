@@ -1,0 +1,770 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "085d2c535884e000e949b78d3863d0701ac7b82e82c6cf399972e1ee6d75582842908d73e7f6f1a2866fcc0e49b04f6d2919ff6eb78d6cc4266df73b58a4982886a46114ac5c365805201993d840076158a4400652e52814adf97384e6c7deafa34cfbe8842411699af0e9cc18d2074afda4cc875a606da7d6a27bc0eae40d054838deb236d290c1e46fa12ed934a26dbb469be2e0c1f5709845f539c9b2f4ffb24cd9b863cf7ca20f1717d41fcee74fdf1263f633ae384bbcb38060ac2dd7c779d25272c18cd64fe66408e60a0e40967b8d0dbda93cc8778f4605bf0750c83ad86f9542f508f359";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام الإيداع
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام الإيداع</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الإعلام والثقافة والنشر</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام الإيداع</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام الإيداع</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>120453</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="dc90bcd7-26fe-44c0-a40d-a9a700f17216">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <big> يتضمن النظام ما يلي: </big><br>
+بيان المقصود بالإيداع، وهو إيداع نسخ من الأعمال الخاضعة لهذا النظام في مكتبة الملك فهد الوطنية مجانا إذا أعدت للنشر والتداول بين الناس، وبيان ما يسري عليه الإيداع، والملزمون بالإيداع، وعدد النسخ الواجب إيداعها، والجزاءات، وأحكام عامة.
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام الإيداع</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1412/09/07 هـ  الموافق : 11/03/1992 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1412/10/14  هـ الموافق : 17/04/1992 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/380afb5a-99e1-4eac-8977-fac98a0d83f4?lawId=dc90bcd7-26fe-44c0-a40d-a9a700f17216">مرسوم ملكي رقم م/26 بتاريخ 7 / 9 / 1412هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/ca36c8ba-0661-4392-9c6f-a9ad00f1bb67?lawId=dc90bcd7-26fe-44c0-a40d-a9a700f17216">قرار مجلس الوزراء رقم 115 بتاريخ 5 / 9 / 1412هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="dc90bcd7-26fe-44c0-a40d-a9a700f17216" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/21829d91-4176-4dee-be7d-9b461c10178d?lawId=dc90bcd7-26fe-44c0-a40d-a9a700f17216" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="dc90bcd7-26fe-44c0-a40d-a9a700f17216">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="dc90bcd7-26fe-44c0-a40d-a9a700f17216" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+<option value="2">الإنجليزية  (English)</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام الإيداع</h3>
+        <h3 class="center">1412 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم م/26 بتاريخ 7 / 9 / 1412هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالى<br />
+&nbsp; &nbsp; &nbsp; نحن فهد بن عبد العزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ملك المملكة العربية السعودية&nbsp;</strong><br />
+بعد الاطلاع على المادة التاسعة عشرة والمادة العشرين من نظام مجلس الوزراء &nbsp;الصادر بالمرسوم الملكي رقم (٣٨) وتاريخ ٢٢/ ١٠/ ١٣٧٧هـ.<br />
+وبعد الاطلاع على نظام مكتبة الملك فهد الوطنية، الصادر بالمرسوم الملكي رقم (م/٩) وتاريخ ١٣/ ٥/ ١٤١٠هـ.<br />
+وبعد الاطلاع على نظام المطبوعات والنشر، الصادر بالمرسوم الملكي رقم (م/١٧) وتاريخ ١٣/ ٤/ ١٤٠٢هـ.<br />
+وبعد الاطلاع على نظام حماية حقوق المؤلف، الصادر بالمرسوم الملكي رقم (م/١١) وتاريخ ١٩/ ٥/ ١٤١٠هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (١١٥) وتاريخ ٥/ ٩/ ١٤١٢هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً-</strong> الموافقة على نظام الإيداع بالصيغة المرفقة بهذا.<br />
+<strong>ثانياً -</strong> على سمو نائب رئيس مجلس الوزراء والوزراء كل فيما يخصه تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>التوقيع<br />
+فهد بن عبد العزيز</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم 115 بتاريخ 5 / 9 / 1412هـ</h4>
+            <p><p><strong>إن مجلس الوزراء&nbsp;</strong><br />
+<strong>بعد الاطلاع </strong>على المعاملة الواردة من ديوان رئاسة مجلس الوزراء برقم ٧/ ٢٦٣٩/ ر وتاريخ ٧/ ٣/ ١٤١١هـ، المتعلقة بمشروع نظام الإيداع السعودي المرفوع بخطاب صاحب السمو الملكي أمير منطقة الرياض والمشرف العام على مكتبة الملك فهد الوطنية رقم ١٦٤٦/ ١/ ٤ وتاريخ ٤/ ١٢/ ١٤١٠هـ.<br />
+<strong>وبعد الاطلاع</strong> على نظام مكتبة الملك فهد الوطنية، الصادر بالمرسوم الملكي رقم (م/٩ ) وتاريخ ١٣/ ٥/ ١٤١٠هـ.<br />
+<strong>وبعد الاطلاع</strong> على نظام المطبوعات والنشر، الصادر بالمرسوم الملكي رقم ( م/١٧ ) وتاريخ ١٣/ ٤/ ١٤١٠هـ<br />
+<strong>وبعد الاطلاع </strong>على نظام حماية حقوق المؤلف، الصادر بالمرسوم الملكي رقم ( م/١١ ) وتاريخ ١٩/ ٥/ ١٤١٠هـ.<br />
+<strong>وبعد الاطلاع </strong>على المحضر المتخذ في شعبة الخبراء رقم ١٥٦ وتاريخ ٢٦/ ١٢/ ١٤١١هـ.<br />
+<strong>وبعد الاطلاع</strong> على توصية اللجنة العامة لمجلس الوزراء رقم ١٦ وتاريخ ١٦ / ٢ /١٤١٢هـ.<br />
+<strong>وبعد الاطلاع</strong> على المحضر المتخذ في شعبة الخبراء رقم ٦٣ وتاريخ ١/ ٧/ ١٤١٢هـ.<br />
+<strong>وبعد الاطلاع</strong> على توصية اللجنة العامة لمجلس الوزراء رقم ٧٥/ م وتاريخ ١٦/ ٧/ ١٤١٢هـ.<br />
+<strong>وبعد الاطلاع </strong>على توصية اللجنة العامة لمجلس الوزراء رقم ٩٦ وتاريخ ١٤/ ٨/ ١٤١٢هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p style="text-align:justify"><strong>أولًا-</strong> الموافقة على نظام الإيداع بالصيغة المرفقة بهذا.<br />
+<strong>وقد أعد مشروع مرسوم ملكي بذلك صيغته مرفقة بهذا.</strong><br />
+<strong>ثانيًا-</strong> دون إخلال بما يقضي به نظام الإيداع، يلتزم بالتضامن مؤلفو ومنتجو وموزعو المصنفات الفنية التي تتم حمايتها وفقًا لهذا النظام، والمعدة للنشر والتداول بإيداع نسختين منها لدى الجمعية العربية السعودية للثقافة والفنون.</p>
+
+<p style="text-align:left"><strong>التوقيع<br />
+فهد بن عبد العزيز<br />
+رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام الإيداع</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى : تعاريف</h3>
+                <div class="HTMLContainer">
+                    يقصد بالكلمات التالية المعاني الموضحة أمامها:<br />
+<big> الإيداع :</big> إيداع نسخ من الأعمال الخاضعة لهذا النظام إذا أعدت للنشر والتداول بين الناس في مكتبة الملك فهد الوطنية مجانًا على سبيل الإلزام.<br /> 
+<big> أوعية المعلومات :</big> جميع الأشكال المادية المحتوية على نتاج الفكر الإنساني مطبوعًا كان أو مسجلًا أو مصورًا مثل الكتب والخرائط ومطبوعات المكفوفين والأفلام والأشرطة والأسطوانات.<br /> 
+<big> المؤلف   :</big> الشخص الذي قام بإيداع المحتوى الفكري أو الفني للعمل، ويشمل لغرض تطبيق هذا النظام المحقق والمترجم والمختصر والمعلق والشارح والمحرر والمعد والجهة التي صدر منها العمل بالنسبة للأعمال الخالية من أسماء الأشخاص.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية:  ما يسري عليه الإيداع</h3>
+                <div class="HTMLContainer">
+                    1- يخضع للإيداع في مكتبة الملك فهد الوطنية كل عمل فكري أو فني يتم داخل المملكة العربية السعودية طبعه أو نشره أو إنتاجه أو تصويره أو تسجيله أو استخدام غير ذلك من الطرق التي تتيح نشره وتداوله بين الناس، سواء أكان العمل محل   الإيداع    قد صدر للمرة الأولى أم أعيدت طباعته أو نشره أو إنتاجه أو تصويره أو تسجيله، وسواء أكان بهدف الحصول على مقابل مادي أم للتوزيع مجانًا.<br />2 - يسري حكم الفقرة السابقة على   المؤلفين   والطابعين والناشرين والمنتجين السعوديين  والهيئات الحكومية السعودية  عند إصدار أو نشر أي عمل مما ذكر في الخارج.<br />3 - يشمل حكم الفقرتين السابقتين :
+<div style="margin-right:15px;">
+أ - الكتب والكتيبات والنشرات والحوليات والقواميس والمعاجم ودوائر المعارف والكشافات والمستخلصات والدوريات والصحف الرسمية وشبه الرسمية والأهلية ووقائع المؤتمرات والأطالس والمصورات والخرائط والمخططات والنشرات الإعلانية والكتب المدرسية والببليوجرافيات والأدلة والمطبوعات الحكومية بكافة أنواعها وأشكالها.<br />ب -   أوعية المعلومات    السمعية والبصرية والسمعية البصرية؛ مثل الأفلام والأشرطة والشرائح والأسطوانات والأقراص والمصغرات الفلمية ومطبوعات المكفوفين وأشرطة وأسطوانات الحاسب الآلي.<br />ج - الأعمال الفنية التي تحددها اللائحة التنفيذية.<br />د -  لوحات الأنساب.<br />هـ - طوابع البريد.</div>
+4 - استثناء من شرط النشر وطرح العمل للتداول بين الناس، يسري حكم الفقرتين الأولى والثانية على الرسائل والأطروحات المقدمة للحصول على الماجستير أو الدكتوراه أو ما في حكمهما.<br />5 - إذا كان العمل محل   الإيداع    مكونًا من عدة أجزاء أو مجلدات بحيث تنشر منفصلة أو على فترات فيعتبر كل جزء أو مجلد منها عملًا مستقلًّا بالنسبة للإيداع.<br />6 - لا يسري   نظام  الإيداع   على الأعمال التالية :
+<div style="margin-right:15px;"> أ - الإعلانات التجارية وغير التجارية وقوائم الأسعار وبطاقات الدعوات والزيارات والتهنئة والشهادات والبطاقات والكروت الشخصية وبطاقات البريد.<br />ب - البراءات والأسهم والمستندات والأوراق المالية والنقدية ونماذج عقود البيع والإيجار ونحوها.<br />ج - النماذج والاستبيانات الخاصة باستيفاء البيانات البحثية أو الإدارية أو التجارية الرسمية منها والخاصة.<br />د - المطبوعات الحكومية ذات الطابع السري.<br />هـ - الأعمال الأخرى التي يحددها مجلس الأمناء. </div>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة:  الملزمون بالإيداع</h3>
+                <div class="HTMLContainer">
+                    1 - يلزم بإيداع  أوعية المعلومات   وخلافها من المواد المذكورة في المادة الثانية الأشخاص الموضحون أدناه، وفقا للترتيب التالي :
+<div style="margin-right:15px;"> أ -    المؤلف : إذا نشر عمله بنفسه بتمويل منه أو من غيره.<br />ب - الطابع: إذا قام بطباعة عمل من الأعمال على نفقته، أو ظهر اسم مطبعته على عمل لم يذكر اسم   المؤلف   أو الناشر فيه.<br />ج -   المنتج  : إذا مول إنتاج عمل فني.<br />د -   الناشر  : إذا نشر عملا من الأعمال مهما كان موضوعه وبأي شكل من الأشكال المقروءة أو المسموعة أو المرئية أو المسموعة المرئية.</div>
+2 - يلزم بإيداع الرسائل الجامعية :
+<div style="margin-right:15px;"> أ - الجامعة أو الكلية أو المعهد المجيز للرسالة داخل المملكة.<br />ب - الملحقيات التعليمية أو الثقافية السعودية لرسائل السعوديين المجازة في الخارج.</div>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة: عدد النسخ الواجب إيداعها 
+</h3>
+                <div class="HTMLContainer">
+                    يجب إيداع نسختين من كل عمل يخضع للإيداع، باستثناء الرسائل الجامعية والأعمال الفنية التي يحددها مجلس الأمناء فيكتفى بنسخة واحدة منها. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة:  إجراءات الإيداع</h3>
+                <div class="HTMLContainer">
+                    1- يجب على المسئول عن إيداع الأعمال المذكورة في المادة الثانية قبل طباعتها أو تسجيلها أو إنتاجها استيفاء الإجراءات التالية :
+<div style="margin-right:15px;"> أ - تعبئة استمارة   الإيداع    وفقًا لنموذج تصدره المكتبة.<br />ب - الحصول على رقم   الإيداع   .<br />ج - تضمين العمل:
+<div style="margin-right:15px;"> - رقم   الإيداع   .<br />- بيان مالك حق التأليف أو النشر أو الإنتاج.<br />- الرقم المعياري الدولي في الأعمال التي تتطلب ذلك وفقًا لما يحدده مجلس الأمناء.<br />- بيانات النشر أو الإنتاج كاملة.</div></div>
+2 - لا يسري حكم الفقرة السابقة على الأعمال المنصوص عليها في الفقرتين (3هـ) و (4) من المادة الثانية والصحف الرسمية وشبه الرسمية والأهلية، وكذلك كل ما يطبع أو ينشر أو ينتج للسعوديين أو الهيئات السعودية في الخارج.
+<br />3 - يلزم كافة المسئولين عن   الإيداع    أداء واجب   الإيداع    قبل طرح العمل للبيع أو التوزيع، وتستثنى من ذلك الصحف والمجلات السعودية، بحيث يتم إيداعها في يوم صدورها، والرسائل الجامعية ويتم إيداعها عقب إجازتها.<br />4 - مع مراعاة الفقرة الأولى من المادة السابعة يتم   الإيداع    بالتسليم المباشر لمكتبة الملك فهد الوطنية، أو بإرساله إليها بالبريد المسجل دون انتظار لمطالبة ترد منها في هذا الشأن، وتزود المكتبة المودع بإشعار بتسلم النسخ المطلوبة.<br />5 - تقوم الإدارة العامة للإيداع والتسجيل في مكتبة الملك فهد الوطنية بإدخال بيانات كافة المواد المودعة في قاعدة بيانات آلية تصدر المكتبة اعتمادًا عليها الببليوجرافيا الوطنية للمملكة.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة:  الجزاءات</h3>
+                <div class="HTMLContainer">
+                    1- يعاقب من يخالف أحكام هذا النظام بغرامة لا تتجاوز ثلاثة آلاف ريال مع إلزامه بإيداع النسخ المطلوبة من العمل وفقًا لهذا النظام.<br />2 - يتم ضبط المخالفات والتحقيق فيها وفقًا لقواعد يتم الاتفاق عليها بين  <span ClusterID=84>وزارة الداخلية</span>     ووزارة الإعلام    والمكتبة.<br />3 - تشكل بقرار من   مجلس الأمناء    لجنة للنظر في هذه المخالفات لا يقل عدد أعضائها عن ثلاثة يكون أحدهم مستشارًا قانونيًّا.<br />4 - تصدر قرارات اللجنة بالأغلبية، ولا تصبح قراراتها نافذة إلا بعد مصادقة أمين المكتبة عليها.<br />5 - يحق لمن صدر ضده قرار بالعقوبة التظلم أمام  <span ClusterID=109>  ديوان المظالم   </span>  خلال ستين يومًا من تاريخ إبلاغه بقرار اللجنة.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة:  أحكام عامة</h3>
+                <div class="HTMLContainer">
+                    1- للمكتبة استيفاء إجراءات   الإيداع    بالتعاون مع المكتبات الحكومية في مناطق المملكة المختلفة، وذلك تيسيرًا لأداء واجب   الإيداع   .<br />2 - يشترط في النسخ التي يتم إيداعها عملًا بهذا النظام أن تكون مطابقة لأفضل النسخ التي سوف يتم تداولها.<br />3 - لا يعتبر   الإيداع    في مكتبة الملك فهد الوطنية بديلًا عن أنواع   الإيداع    الأخرى التي تقرها الدولة.<br />4 - يلغي هذا النظام أحكام المادتين (12، 17) من نظام المطبوعات والنشر، الصادر  بالمرسوم الملكي    رقم (م/17) وتاريخ 13/ 4/ 1402هـ، وكذلك حكم المادة (26) من نظام حماية حقوق  المؤلف ،  الصادر  بالمرسوم الملكي    رقم (م/11) وتاريخ 19/ 5/ 1410هـ، كما يلغي كل ما يتعارض معه.<br />5 -  لمجلس الأمناء    بالمكتبة إصدار اللوائح التنفيذية والقرارات اللازمة لتنفيذ هذا النظام.<br />6 - ينشر هذا النظام في  <span ClusterID=140>الجريدة الرسمية</span>  ويعمل به بعد شهر من تاريخ نشره.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="dc90bcd7-26fe-44c0-a40d-a9a700f17216" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="dfe47377-1e16-461f-af2e-a9a700f172c9">المادة الأولى : تعاريف </option>
+<option value="b5ce61c4-8ef1-462d-8884-a9a700f172c9">المادة الثانية:  ما يسري عليه الإيداع </option>
+<option value="7ea6283c-ccb2-49b3-a571-a9a700f172c9">المادة الثالثة:  الملزمون بالإيداع </option>
+<option value="313dd58e-a93a-4f60-a21d-a9a700f172c9">المادة الرابعة: عدد النسخ الواجب إيداعها 
+ </option>
+<option value="ced776b8-1bf4-46ee-9163-a9a700f172c9">المادة الخامسة:  إجراءات الإيداع </option>
+<option value="437dcb4e-c871-4636-a027-a9a700f172c9">المادة السادسة:  الجزاءات </option>
+<option value="78007bfa-b598-423f-932b-a9a700f172c9">المادة السابعة:  أحكام عامة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaVS0E' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaVS0E' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaVS0E = new CaptchaWidget('divCaptchaContainer_captchaVS0E', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaVS0E.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptiondc90bcd7-26fe-44c0-a40d-a9a700f17216" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="dc90bcd7-26fe-44c0-a40d-a9a700f17216" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaCNCP' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaCNCP' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-dc90bcd7-26fe-44c0-a40d-a9a700f17216">
+                    <input type="checkbox" id="agreement-dc90bcd7-26fe-44c0-a40d-a9a700f17216" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='dc90bcd7-26fe-44c0-a40d-a9a700f17216' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-dc90bcd7-26fe-44c0-a40d-a9a700f17216"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-dc90bcd7-26fe-44c0-a40d-a9a700f17216"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaVS0E = new CaptchaWidget('divCaptchaContainer_captchaVS0E', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaVS0E.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaCNCP = new CaptchaWidget('divCaptchaContainer_captchaCNCP', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaCNCP.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="dc90bcd7-26fe-44c0-a40d-a9a700f17216">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaVS0E = new CaptchaWidget('divCaptchaContainer_captchaVS0E', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaVS0E.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaCNCP = new CaptchaWidget('divCaptchaContainer_captchaCNCP', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaCNCP.load(); 
+                    }); </script>
+</body>
+
+</html>

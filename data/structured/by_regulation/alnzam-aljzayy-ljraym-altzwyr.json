@@ -1,0 +1,1356 @@
+{
+  "metadata": {
+    "slug": "alnzam-aljzayy-ljraym-altzwyr",
+    "title_ar": "النظام الجزائي لجرائم التزوير",
+    "status": "ساري",
+    "issue_date_hijri": "1435/02/18 هـ الموافق : 21/12/2013 مـ",
+    "issue_date_gregorian": "2013-12-21",
+    "publish_date_hijri": "1435/04/07 هـ الموافق : 07/02/2014 مـ",
+    "publish_date_gregorian": "2014-02-07",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c1878d16-7ce0-4710-993b-a9a700f17ac5/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/alnzam-aljzayy-ljraym-altzwyr.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/alnzam-aljzayy-ljraym-altzwyr.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1435/04/07 هـ الموافق : 07/02/2014 مـ",
+    "effective_date_gregorian": "2014-02-07",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 30,
+    "paragraph_count": 45,
+    "indexable_paragraph_count": 45,
+    "text_chars": 7794,
+    "verbatim_chars": 7794,
+    "citation_base_ar": "النظام الجزائي لجرائم التزوير",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c1878d16-7ce0-4710-993b-a9a700f17ac5/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/alnzam-aljzayy-ljraym-altzwyr.html",
+    "verbatim_file": "data/structured/verbatim_texts/alnzam-aljzayy-ljraym-altzwyr.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "تعريف"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الأولى",
+      "text_verbatim": "يقصد بالمصطلحات والعبارات الآتية أينما وردت في هذا النظام المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك:\n\n1- التزوير: كل تغيير للحقيقة بإحدى الطرق المنصوص عليها في هذا النظام ـ حدث بسوء نية ـ قصداً للاستعمال فيما يحميه النظام من محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ ، وكان من شأن هذا التغيير أن يتسبب في ضرر مادي أو معنوي أو اجتماعي لأي شخص ذي صفة طبيعية أو اعتبارية.\n\n2- الخاتم: الأداة التي تمهر بها المحررات للتوثيق، أو الأثر المنطبع منها.\n\n3- الطابع: الملصق أو ما يقوم مقامه مما يطبع آليًّا أو إلكترونيًّا ويستخدم لأغراض البريد أو لتحصيل الإيرادات العامة.\n\n4- العلامة: الإشارة (أو الرمز) التي تستعملها جهة عامة للدلالة على معنى خاص بها يرتب أثراً نظاميًّا، بصرف النظر عن نوعها أو شكلها.\n\n5- المحرر: كل مسطور يتضمن حروفاً أو علامات ينتقل بقراءتها الفكر إلى معنى معين بصرف النظر عن الوعاء الذي كتبت أو حفظت فيه، بما في ذلك وسائل تقنية المعلومات.\n\n6- الأوراق الخاصة بالمصارف: المحررات التي تستعملها المصارف للإيداع أو السحب أو التحويل من خزينتها أو حساباتها أو من حساب أحد العملاء، ويدخل في ذلك الاعتمادات المستندية، وخطابات الضمان، وبطاقات الائتمان، وبطاقات الحسم.\n\n7- الوثيقة التاريخية: محرر قديم ونادر يتضمن وقائع ومعلومات عن تاريخ المملكة، وتكون له قيمة تاريخية وليست له حجية نظامية.",
+      "text_for_index": "يقصد بالمصطلحات والعبارات الآتية أينما وردت في هذا النظام المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك:\n\n1- التزوير: كل تغيير للحقيقة بإحدى الطرق المنصوص عليها في هذا النظام ـ حدث بسوء نية ـ قصداً للاستعمال فيما يحميه النظام من محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ ، وكان من شأن هذا التغيير أن يتسبب في ضرر مادي أو معنوي أو اجتماعي لأي شخص ذي صفة طبيعية أو اعتبارية.\n\n2- الخاتم: الأداة التي تمهر بها المحررات للتوثيق، أو الأثر المنطبع منها.\n\n3- الطابع: الملصق أو ما يقوم مقامه مما يطبع آليًّا أو إلكترونيًّا ويستخدم لأغراض البريد أو لتحصيل الإيرادات العامة.\n\n4- العلامة: الإشارة (أو الرمز) التي تستعملها جهة عامة للدلالة على معنى خاص بها يرتب أثراً نظاميًّا، بصرف النظر عن نوعها أو شكلها.\n\n5- المحرر: كل مسطور يتضمن حروفاً أو علامات ينتقل بقراءتها الفكر إلى معنى معين بصرف النظر عن الوعاء الذي كتبت أو حفظت فيه، بما في ذلك وسائل تقنية المعلومات.\n\n6- الأوراق الخاصة بالمصارف: المحررات التي تستعملها المصارف للإيداع أو السحب أو التحويل من خزينتها أو حساباتها أو من حساب أحد العملاء، ويدخل في ذلك الاعتمادات المستندية، وخطابات الضمان، وبطاقات الائتمان، وبطاقات الحسم.\n\n7- الوثيقة التاريخية: محرر قديم ونادر يتضمن وقائع ومعلومات عن تاريخ المملكة، وتكون له قيمة تاريخية وليست له حجية نظامية.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالمصطلحات والعبارات الآتية أينما وردت في هذا النظام المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك:",
+          "text_for_index": "يقصد بالمصطلحات والعبارات الآتية أينما وردت في هذا النظام المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "1- التزوير: كل تغيير للحقيقة بإحدى الطرق المنصوص عليها في هذا النظام ـ حدث بسوء نية ـ قصداً للاستعمال فيما يحميه النظام من محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ ، وكان من شأن هذا التغيير أن يتسبب في ضرر مادي أو معنوي أو اجتماعي لأي شخص ذي صفة طبيعية أو اعتبارية.",
+          "text_for_index": "1- التزوير: كل تغيير للحقيقة بإحدى الطرق المنصوص عليها في هذا النظام ـ حدث بسوء نية ـ قصداً للاستعمال فيما يحميه النظام من محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ ، وكان من شأن هذا التغيير أن يتسبب في ضرر مادي أو معنوي أو اجتماعي لأي شخص ذي صفة طبيعية أو اعتبارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "2- الخاتم: الأداة التي تمهر بها المحررات للتوثيق، أو الأثر المنطبع منها.",
+          "text_for_index": "2- الخاتم: الأداة التي تمهر بها المحررات للتوثيق، أو الأثر المنطبع منها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "3- الطابع: الملصق أو ما يقوم مقامه مما يطبع آليًّا أو إلكترونيًّا ويستخدم لأغراض البريد أو لتحصيل الإيرادات العامة.",
+          "text_for_index": "3- الطابع: الملصق أو ما يقوم مقامه مما يطبع آليًّا أو إلكترونيًّا ويستخدم لأغراض البريد أو لتحصيل الإيرادات العامة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "4- العلامة: الإشارة (أو الرمز) التي تستعملها جهة عامة للدلالة على معنى خاص بها يرتب أثراً نظاميًّا، بصرف النظر عن نوعها أو شكلها.",
+          "text_for_index": "4- العلامة: الإشارة (أو الرمز) التي تستعملها جهة عامة للدلالة على معنى خاص بها يرتب أثراً نظاميًّا، بصرف النظر عن نوعها أو شكلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "5- المحرر: كل مسطور يتضمن حروفاً أو علامات ينتقل بقراءتها الفكر إلى معنى معين بصرف النظر عن الوعاء الذي كتبت أو حفظت فيه، بما في ذلك وسائل تقنية المعلومات.",
+          "text_for_index": "5- المحرر: كل مسطور يتضمن حروفاً أو علامات ينتقل بقراءتها الفكر إلى معنى معين بصرف النظر عن الوعاء الذي كتبت أو حفظت فيه، بما في ذلك وسائل تقنية المعلومات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "6- الأوراق الخاصة بالمصارف: المحررات التي تستعملها المصارف للإيداع أو السحب أو التحويل من خزينتها أو حساباتها أو من حساب أحد العملاء، ويدخل في ذلك الاعتمادات المستندية، وخطابات الضمان، وبطاقات الائتمان، وبطاقات الحسم.",
+          "text_for_index": "6- الأوراق الخاصة بالمصارف: المحررات التي تستعملها المصارف للإيداع أو السحب أو التحويل من خزينتها أو حساباتها أو من حساب أحد العملاء، ويدخل في ذلك الاعتمادات المستندية، وخطابات الضمان، وبطاقات الائتمان، وبطاقات الحسم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "7- الوثيقة التاريخية: محرر قديم ونادر يتضمن وقائع ومعلومات عن تاريخ المملكة، وتكون له قيمة تاريخية وليست له حجية نظامية.",
+          "text_for_index": "7- الوثيقة التاريخية: محرر قديم ونادر يتضمن وقائع ومعلومات عن تاريخ المملكة، وتكون له قيمة تاريخية وليست له حجية نظامية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "commercial_fraud"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري"
+      ],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثانية",
+      "text_verbatim": "يقع التزوير بإحدى الطرق الآتية:\n\nأ - صنع محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، لا أصل له أو مقلدٍ من الأصل أو محرَّفٍ عنه.\n\nب- تضمين المحرر خاتماً أو توقيعاً أو بصمة أو علامة أو طابعاً، لا أصل له أو مقلداً من الأصل أو محرفاً عنه.\n\nج- تضمين المحرر توقيعاً صحيحاً أو بصمة صحيحة، حصل على أي منهما بطريق الخداع.\n\nد- التغيير أو التحريف في محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، سواء وقع ذلك بطريق الإضافة أو الحذف أو الإبدال، أو الإتلاف الجزئي للمحرر الذي يغير من مضمونه.\n\nهـ - التغيير في صورة شخصية في محرر، أو استبدال صورة شخص آخر بها.\n\nو- تضمين المحرر واقعة غير صحيحة بجعلها تبدو واقعةً صحيحة، أو ترك تضمين المحرر واقعةً كان الفاعل عالماً بوجوب تضمينها فيه.\n\nز- تغيير إقرار أُولي الشأن الذي كان الغرض من تحرير المحرر إدراجه فيه.\n\nح- إساءة استخدام توقيع أو بصمة على بياض اؤتمن عليه.",
+      "text_for_index": "يقع التزوير بإحدى الطرق الآتية:\n\nأ - صنع محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، لا أصل له أو مقلدٍ من الأصل أو محرَّفٍ عنه.\n\nب- تضمين المحرر خاتماً أو توقيعاً أو بصمة أو علامة أو طابعاً، لا أصل له أو مقلداً من الأصل أو محرفاً عنه.\n\nج- تضمين المحرر توقيعاً صحيحاً أو بصمة صحيحة، حصل على أي منهما بطريق الخداع.\n\nد- التغيير أو التحريف في محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، سواء وقع ذلك بطريق الإضافة أو الحذف أو الإبدال، أو الإتلاف الجزئي للمحرر الذي يغير من مضمونه.\n\nهـ - التغيير في صورة شخصية في محرر، أو استبدال صورة شخص آخر بها.\n\nو- تضمين المحرر واقعة غير صحيحة بجعلها تبدو واقعةً صحيحة، أو ترك تضمين المحرر واقعةً كان الفاعل عالماً بوجوب تضمينها فيه.\n\nز- تغيير إقرار أُولي الشأن الذي كان الغرض من تحرير المحرر إدراجه فيه.\n\nح- إساءة استخدام توقيع أو بصمة على بياض اؤتمن عليه.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يقع التزوير بإحدى الطرق الآتية:",
+          "text_for_index": "يقع التزوير بإحدى الطرق الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - صنع محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، لا أصل له أو مقلدٍ من الأصل أو محرَّفٍ عنه.",
+          "text_for_index": "أ - صنع محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، لا أصل له أو مقلدٍ من الأصل أو محرَّفٍ عنه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب- تضمين المحرر خاتماً أو توقيعاً أو بصمة أو علامة أو طابعاً، لا أصل له أو مقلداً من الأصل أو محرفاً عنه.",
+          "text_for_index": "ب- تضمين المحرر خاتماً أو توقيعاً أو بصمة أو علامة أو طابعاً، لا أصل له أو مقلداً من الأصل أو محرفاً عنه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ج- تضمين المحرر توقيعاً صحيحاً أو بصمة صحيحة، حصل على أي منهما بطريق الخداع.",
+          "text_for_index": "ج- تضمين المحرر توقيعاً صحيحاً أو بصمة صحيحة، حصل على أي منهما بطريق الخداع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "د- التغيير أو التحريف في محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، سواء وقع ذلك بطريق الإضافة أو الحذف أو الإبدال، أو الإتلاف الجزئي للمحرر الذي يغير من مضمونه.",
+          "text_for_index": "د- التغيير أو التحريف في محررٍ أو خاتمٍ أو علامةٍ أو طابعٍ، سواء وقع ذلك بطريق الإضافة أو الحذف أو الإبدال، أو الإتلاف الجزئي للمحرر الذي يغير من مضمونه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "هـ - التغيير في صورة شخصية في محرر، أو استبدال صورة شخص آخر بها.",
+          "text_for_index": "هـ - التغيير في صورة شخصية في محرر، أو استبدال صورة شخص آخر بها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "و- تضمين المحرر واقعة غير صحيحة بجعلها تبدو واقعةً صحيحة، أو ترك تضمين المحرر واقعةً كان الفاعل عالماً بوجوب تضمينها فيه.",
+          "text_for_index": "و- تضمين المحرر واقعة غير صحيحة بجعلها تبدو واقعةً صحيحة، أو ترك تضمين المحرر واقعةً كان الفاعل عالماً بوجوب تضمينها فيه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ز- تغيير إقرار أُولي الشأن الذي كان الغرض من تحرير المحرر إدراجه فيه.",
+          "text_for_index": "ز- تغيير إقرار أُولي الشأن الذي كان الغرض من تحرير المحرر إدراجه فيه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-2::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ح- إساءة استخدام توقيع أو بصمة على بياض اؤتمن عليه.",
+          "text_for_index": "ح- إساءة استخدام توقيع أو بصمة على بياض اؤتمن عليه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثالثة",
+      "text_verbatim": "من زوّر خاتم الدولة، أو خاتم الملك أو ولي العهد أو رئيس مجلس الوزراء أو أحد نوابه، أو خاتم الديوان الملكي أو ديوان ولي العهد؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+      "text_for_index": "من زوّر خاتم الدولة، أو خاتم الملك أو ولي العهد أو رئيس مجلس الوزراء أو أحد نوابه، أو خاتم الديوان الملكي أو ديوان ولي العهد؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "من زوّر خاتم الدولة، أو خاتم الملك أو ولي العهد أو رئيس مجلس الوزراء أو أحد نوابه، أو خاتم الديوان الملكي أو ديوان ولي العهد؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+          "text_for_index": "من زوّر خاتم الدولة، أو خاتم الملك أو ولي العهد أو رئيس مجلس الوزراء أو أحد نوابه، أو خاتم الديوان الملكي أو ديوان ولي العهد؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الرابعة",
+      "text_verbatim": "من زوّر خاتماً أو علامةً منسوبة إلى جهة عامة، أو إلى أحد موظفيها بصفته الوظيفية، أو زوّر خاتماً أو علامة لها حجية في المملكة عائدة لأحد أشخاص القانون الدولي العام أو لأحد موظفيه بصفته الوظيفية ؛ يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+      "text_for_index": "من زوّر خاتماً أو علامةً منسوبة إلى جهة عامة، أو إلى أحد موظفيها بصفته الوظيفية، أو زوّر خاتماً أو علامة لها حجية في المملكة عائدة لأحد أشخاص القانون الدولي العام أو لأحد موظفيه بصفته الوظيفية ؛ يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "من زوّر خاتماً أو علامةً منسوبة إلى جهة عامة، أو إلى أحد موظفيها بصفته الوظيفية، أو زوّر خاتماً أو علامة لها حجية في المملكة عائدة لأحد أشخاص القانون الدولي العام أو لأحد موظفيه بصفته الوظيفية ؛ يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+          "text_for_index": "من زوّر خاتماً أو علامةً منسوبة إلى جهة عامة، أو إلى أحد موظفيها بصفته الوظيفية، أو زوّر خاتماً أو علامة لها حجية في المملكة عائدة لأحد أشخاص القانون الدولي العام أو لأحد موظفيه بصفته الوظيفية ؛ يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الخامسة",
+      "text_verbatim": "من زوّر خاتمَ جهةٍ غير عامة، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "من زوّر خاتمَ جهةٍ غير عامة، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من زوّر خاتمَ جهةٍ غير عامة، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "من زوّر خاتمَ جهةٍ غير عامة، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة السادسة",
+      "text_verbatim": "من زوّر طابعاً يعاقب بالسجن مدة لا تتجاوز خمس سنوات، وبغرامةٍ لا تزيد على خمسمائة ألف ريال، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+      "text_for_index": "من زوّر طابعاً يعاقب بالسجن مدة لا تتجاوز خمس سنوات، وبغرامةٍ لا تزيد على خمسمائة ألف ريال، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من زوّر طابعاً يعاقب بالسجن مدة لا تتجاوز خمس سنوات، وبغرامةٍ لا تزيد على خمسمائة ألف ريال، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+          "text_for_index": "من زوّر طابعاً يعاقب بالسجن مدة لا تتجاوز خمس سنوات، وبغرامةٍ لا تزيد على خمسمائة ألف ريال، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة السابعة",
+      "text_verbatim": "من أعاد استعمال طابعٍ سبق تحصيل قيمته، يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر، وبغرامةٍ لا تزيد على ثلاثين ألف ريال ، أو بإحدى هاتين العقوبتين، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+      "text_for_index": "من أعاد استعمال طابعٍ سبق تحصيل قيمته، يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر، وبغرامةٍ لا تزيد على ثلاثين ألف ريال ، أو بإحدى هاتين العقوبتين، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من أعاد استعمال طابعٍ سبق تحصيل قيمته، يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر، وبغرامةٍ لا تزيد على ثلاثين ألف ريال ، أو بإحدى هاتين العقوبتين، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+          "text_for_index": "من أعاد استعمال طابعٍ سبق تحصيل قيمته، يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر، وبغرامةٍ لا تزيد على ثلاثين ألف ريال ، أو بإحدى هاتين العقوبتين، مع إلزامه بدفع ما فوته على الخزينة العامة من مبالغ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثامنة",
+      "text_verbatim": "من زوّر محرراً منسوباً إلى جهة عامة أو أحد موظفيها بصفته الوظيفية، أو إلى أحد أشخاص القانون الدولي العام أو أحد موظفيه بصفته الوظيفية إذا كان للمحرر حجية في المملكة؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على خمسمائة ألف ريال.",
+      "text_for_index": "من زوّر محرراً منسوباً إلى جهة عامة أو أحد موظفيها بصفته الوظيفية، أو إلى أحد أشخاص القانون الدولي العام أو أحد موظفيه بصفته الوظيفية إذا كان للمحرر حجية في المملكة؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على خمسمائة ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "من زوّر محرراً منسوباً إلى جهة عامة أو أحد موظفيها بصفته الوظيفية، أو إلى أحد أشخاص القانون الدولي العام أو أحد موظفيه بصفته الوظيفية إذا كان للمحرر حجية في المملكة؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على خمسمائة ألف ريال.",
+          "text_for_index": "من زوّر محرراً منسوباً إلى جهة عامة أو أحد موظفيها بصفته الوظيفية، أو إلى أحد أشخاص القانون الدولي العام أو أحد موظفيه بصفته الوظيفية إذا كان للمحرر حجية في المملكة؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على خمسمائة ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة التاسعة",
+      "text_verbatim": "من زوّر محرراً عرفيًّا، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "من زوّر محرراً عرفيًّا، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من زوّر محرراً عرفيًّا، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "من زوّر محرراً عرفيًّا، يعاقب بالسجن مدة لا تتجاوز ثلاث سنوات وبغرامة لا تزيد على ثلاثمائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة العاشرة",
+      "text_verbatim": "من زوّر محرراً منسوباً إلى الملك، أو ولي العهد، أو رئيس مجلس الوزراء، أو أحد نوابه؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+      "text_for_index": "من زوّر محرراً منسوباً إلى الملك، أو ولي العهد، أو رئيس مجلس الوزراء، أو أحد نوابه؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "من زوّر محرراً منسوباً إلى الملك، أو ولي العهد، أو رئيس مجلس الوزراء، أو أحد نوابه؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+          "text_for_index": "من زوّر محرراً منسوباً إلى الملك، أو ولي العهد، أو رئيس مجلس الوزراء، أو أحد نوابه؛ يعاقب بالسجن من ثلاث إلى عشر سنوات وبغرامة لا تزيد على مليون ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الحادية عشرة",
+      "text_verbatim": "من زوّر سنداتٍ أو أوراقاً ذات قيمة مما تصدره الخزينة العامة، يعاقب بالسجن من سنتين إلى سبع سنوات وبغرامة لا تزيد على مليون ريال، مع إلزامه بدفع ما فوته على الخزينة العامة.",
+      "text_for_index": "من زوّر سنداتٍ أو أوراقاً ذات قيمة مما تصدره الخزينة العامة، يعاقب بالسجن من سنتين إلى سبع سنوات وبغرامة لا تزيد على مليون ريال، مع إلزامه بدفع ما فوته على الخزينة العامة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "من زوّر سنداتٍ أو أوراقاً ذات قيمة مما تصدره الخزينة العامة، يعاقب بالسجن من سنتين إلى سبع سنوات وبغرامة لا تزيد على مليون ريال، مع إلزامه بدفع ما فوته على الخزينة العامة.",
+          "text_for_index": "من زوّر سنداتٍ أو أوراقاً ذات قيمة مما تصدره الخزينة العامة، يعاقب بالسجن من سنتين إلى سبع سنوات وبغرامة لا تزيد على مليون ريال، مع إلزامه بدفع ما فوته على الخزينة العامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثانية عشرة",
+      "text_verbatim": "كل موظفٍ عامٍّ زوّر محرراً مما يختص بتحريره، يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+      "text_for_index": "كل موظفٍ عامٍّ زوّر محرراً مما يختص بتحريره، يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "كل موظفٍ عامٍّ زوّر محرراً مما يختص بتحريره، يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+          "text_for_index": "كل موظفٍ عامٍّ زوّر محرراً مما يختص بتحريره، يعاقب بالسجن من سنة إلى سبع سنوات وبغرامة لا تزيد على سبعمائة ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثالثة عشرة",
+      "text_verbatim": "من زوّر أوراقاً تجارية أو مالية أو الأوراق الخاصة بالمصارف، أو وثائق تأمين؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على أربعمائة ألف ريال.",
+      "text_for_index": "من زوّر أوراقاً تجارية أو مالية أو الأوراق الخاصة بالمصارف، أو وثائق تأمين؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على أربعمائة ألف ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "من زوّر أوراقاً تجارية أو مالية أو الأوراق الخاصة بالمصارف، أو وثائق تأمين؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على أربعمائة ألف ريال.",
+          "text_for_index": "من زوّر أوراقاً تجارية أو مالية أو الأوراق الخاصة بالمصارف، أو وثائق تأمين؛ يعاقب بالسجن من سنة إلى خمس سنوات وبغرامة لا تزيد على أربعمائة ألف ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الرابعة عشرة",
+      "text_verbatim": "من زوّر أو منح (بحسب اختصاصه) تقريراً أو شهادةً طبيةً على خلاف الحقيقة مع علمه بذلك؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "من زوّر أو منح (بحسب اختصاصه) تقريراً أو شهادةً طبيةً على خلاف الحقيقة مع علمه بذلك؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من زوّر أو منح (بحسب اختصاصه) تقريراً أو شهادةً طبيةً على خلاف الحقيقة مع علمه بذلك؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "من زوّر أو منح (بحسب اختصاصه) تقريراً أو شهادةً طبيةً على خلاف الحقيقة مع علمه بذلك؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الخامسة عشرة",
+      "text_verbatim": "كل مختص زوّر في أوراق إجابات الاختبارات الدراسية أو بيانات رصد نتائجها، يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ستين ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "كل مختص زوّر في أوراق إجابات الاختبارات الدراسية أو بيانات رصد نتائجها، يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ستين ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل مختص زوّر في أوراق إجابات الاختبارات الدراسية أو بيانات رصد نتائجها، يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ستين ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "كل مختص زوّر في أوراق إجابات الاختبارات الدراسية أو بيانات رصد نتائجها، يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ستين ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة السادسة عشرة",
+      "text_verbatim": "من زوّر في محرر معدّ لإثبات حضور الموظف إلى عمله أو انصرافه منه؛ يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر وبغرامة لا تزيد على ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "من زوّر في محرر معدّ لإثبات حضور الموظف إلى عمله أو انصرافه منه؛ يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر وبغرامة لا تزيد على ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من زوّر في محرر معدّ لإثبات حضور الموظف إلى عمله أو انصرافه منه؛ يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر وبغرامة لا تزيد على ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "من زوّر في محرر معدّ لإثبات حضور الموظف إلى عمله أو انصرافه منه؛ يعاقب بالسجن مدة لا تتجاوز ثلاثة أشهر وبغرامة لا تزيد على ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة السابعة عشرة",
+      "text_verbatim": "من استعمل حكماً أو أمراً قضائياً أو وكالة صادرة من جهة مختصة انتهت صلاحيتها، وكان عالماً بذلك، وقاصداً الإيهام بأنها لا تزال حافظةً لحجيتها النظامية، وترتب على هذا الاستعمال إثبات حقٍّ أو إسقاطه أو حدوث ضررٍ للغير؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "من استعمل حكماً أو أمراً قضائياً أو وكالة صادرة من جهة مختصة انتهت صلاحيتها، وكان عالماً بذلك، وقاصداً الإيهام بأنها لا تزال حافظةً لحجيتها النظامية، وترتب على هذا الاستعمال إثبات حقٍّ أو إسقاطه أو حدوث ضررٍ للغير؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من استعمل حكماً أو أمراً قضائياً أو وكالة صادرة من جهة مختصة انتهت صلاحيتها، وكان عالماً بذلك، وقاصداً الإيهام بأنها لا تزال حافظةً لحجيتها النظامية، وترتب على هذا الاستعمال إثبات حقٍّ أو إسقاطه أو حدوث ضررٍ للغير؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "من استعمل حكماً أو أمراً قضائياً أو وكالة صادرة من جهة مختصة انتهت صلاحيتها، وكان عالماً بذلك، وقاصداً الإيهام بأنها لا تزال حافظةً لحجيتها النظامية، وترتب على هذا الاستعمال إثبات حقٍّ أو إسقاطه أو حدوث ضررٍ للغير؛ يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على مائة ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة:",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثامنة عشرة",
+      "text_verbatim": "من زوّر وثيقة تاريخية، يعاقب بالسجن مدة لا تتجاوز ثمانية أشهر وبغرامة لا تزيد على ثمانين ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "text_for_index": "من زوّر وثيقة تاريخية، يعاقب بالسجن مدة لا تتجاوز ثمانية أشهر وبغرامة لا تزيد على ثمانين ألف ريال، أو بإحدى هاتين العقوبتين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "من زوّر وثيقة تاريخية، يعاقب بالسجن مدة لا تتجاوز ثمانية أشهر وبغرامة لا تزيد على ثمانين ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "text_for_index": "من زوّر وثيقة تاريخية، يعاقب بالسجن مدة لا تتجاوز ثمانية أشهر وبغرامة لا تزيد على ثمانين ألف ريال، أو بإحدى هاتين العقوبتين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة التاسعة عشرة",
+      "text_verbatim": "يعاقب بالعقوبة نفسها المقررة لجريمة التزوير المنصوص عليها في هذا النظام، كل من استعمل أيًّا مما نص على تجريمه في هذا النظام مع علمه بتزويره، وكل من جلب إلى المملكة أو حاز فيها أيًّا مما نص على تجريمه في المواد (الثالثة) و(الرابعة) و(السادسة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) مع علمه بتزويره.",
+      "text_for_index": "يعاقب بالعقوبة نفسها المقررة لجريمة التزوير المنصوص عليها في هذا النظام، كل من استعمل أيًّا مما نص على تجريمه في هذا النظام مع علمه بتزويره، وكل من جلب إلى المملكة أو حاز فيها أيًّا مما نص على تجريمه في المواد (الثالثة) و(الرابعة) و(السادسة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) مع علمه بتزويره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب بالعقوبة نفسها المقررة لجريمة التزوير المنصوص عليها في هذا النظام، كل من استعمل أيًّا مما نص على تجريمه في هذا النظام مع علمه بتزويره، وكل من جلب إلى المملكة أو حاز فيها أيًّا مما نص على تجريمه في المواد (الثالثة) و(الرابعة) و(السادسة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) مع علمه بتزويره.",
+          "text_for_index": "يعاقب بالعقوبة نفسها المقررة لجريمة التزوير المنصوص عليها في هذا النظام، كل من استعمل أيًّا مما نص على تجريمه في هذا النظام مع علمه بتزويره، وكل من جلب إلى المملكة أو حاز فيها أيًّا مما نص على تجريمه في المواد (الثالثة) و(الرابعة) و(السادسة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) مع علمه بتزويره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون:",
+      "article_heading": "العشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة العشرون",
+      "text_verbatim": "يعاقب على الشروع في أي من الجرائم المنصوص عليها في هذا النظام، بما لا يتجاوز نصف الحد الأقصى للعقوبة المقررة لتلك الجريمة.",
+      "text_for_index": "يعاقب على الشروع في أي من الجرائم المنصوص عليها في هذا النظام، بما لا يتجاوز نصف الحد الأقصى للعقوبة المقررة لتلك الجريمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب على الشروع في أي من الجرائم المنصوص عليها في هذا النظام، بما لا يتجاوز نصف الحد الأقصى للعقوبة المقررة لتلك الجريمة.",
+          "text_for_index": "يعاقب على الشروع في أي من الجرائم المنصوص عليها في هذا النظام، بما لا يتجاوز نصف الحد الأقصى للعقوبة المقررة لتلك الجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون:",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الحادية والعشرون",
+      "text_verbatim": "من اشترك - بطريق الاتفاق أو التحريض أو المساعدة - في ارتكاب أيّ من الجرائم المنصوص عليها في هذا النظام، يعاقب بالعقوبة نفسها المقررة لتلك الجريمة.",
+      "text_for_index": "من اشترك - بطريق الاتفاق أو التحريض أو المساعدة - في ارتكاب أيّ من الجرائم المنصوص عليها في هذا النظام، يعاقب بالعقوبة نفسها المقررة لتلك الجريمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "من اشترك - بطريق الاتفاق أو التحريض أو المساعدة - في ارتكاب أيّ من الجرائم المنصوص عليها في هذا النظام، يعاقب بالعقوبة نفسها المقررة لتلك الجريمة.",
+          "text_for_index": "من اشترك - بطريق الاتفاق أو التحريض أو المساعدة - في ارتكاب أيّ من الجرائم المنصوص عليها في هذا النظام، يعاقب بالعقوبة نفسها المقررة لتلك الجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون:",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثانية والعشرون",
+      "text_verbatim": "على المحكمة المختصة - عند الإدانة بأيٍّ من الجرائم المنصوص عليها في هذا النظام - الحكم بمصادرة جميع الأشياء المضبوطة التي استعملت في تلك الجريمة والمتحصلة منها دون الإخلال بحق الغير حسن النية.",
+      "text_for_index": "على المحكمة المختصة - عند الإدانة بأيٍّ من الجرائم المنصوص عليها في هذا النظام - الحكم بمصادرة جميع الأشياء المضبوطة التي استعملت في تلك الجريمة والمتحصلة منها دون الإخلال بحق الغير حسن النية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على المحكمة المختصة - عند الإدانة بأيٍّ من الجرائم المنصوص عليها في هذا النظام - الحكم بمصادرة جميع الأشياء المضبوطة التي استعملت في تلك الجريمة والمتحصلة منها دون الإخلال بحق الغير حسن النية.",
+          "text_for_index": "على المحكمة المختصة - عند الإدانة بأيٍّ من الجرائم المنصوص عليها في هذا النظام - الحكم بمصادرة جميع الأشياء المضبوطة التي استعملت في تلك الجريمة والمتحصلة منها دون الإخلال بحق الغير حسن النية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون:",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثالثة والعشرون",
+      "text_verbatim": "كل منشأة خاصة تعمل في المملكة ثبت أن مديرها أو أحد منسوبيها ارتكب جريمة من الجرائم المنصوص عليها في هذا النظام لمصلحتها وبعلم منها، تعاقب بغرامة لا تزيد على عشرة ملايين ريال، وبالحرمان من التعاقد من سنتين إلى خمس سنوات مع أي جهة عامة، وذلك دون الإخلال بأي عقوبة نص عليها هذا النظام في حق الشخص ذي الصفة الطبيعية مرتكب الجريمة.",
+      "text_for_index": "كل منشأة خاصة تعمل في المملكة ثبت أن مديرها أو أحد منسوبيها ارتكب جريمة من الجرائم المنصوص عليها في هذا النظام لمصلحتها وبعلم منها، تعاقب بغرامة لا تزيد على عشرة ملايين ريال، وبالحرمان من التعاقد من سنتين إلى خمس سنوات مع أي جهة عامة، وذلك دون الإخلال بأي عقوبة نص عليها هذا النظام في حق الشخص ذي الصفة الطبيعية مرتكب الجريمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل منشأة خاصة تعمل في المملكة ثبت أن مديرها أو أحد منسوبيها ارتكب جريمة من الجرائم المنصوص عليها في هذا النظام لمصلحتها وبعلم منها، تعاقب بغرامة لا تزيد على عشرة ملايين ريال، وبالحرمان من التعاقد من سنتين إلى خمس سنوات مع أي جهة عامة، وذلك دون الإخلال بأي عقوبة نص عليها هذا النظام في حق الشخص ذي الصفة الطبيعية مرتكب الجريمة.",
+          "text_for_index": "كل منشأة خاصة تعمل في المملكة ثبت أن مديرها أو أحد منسوبيها ارتكب جريمة من الجرائم المنصوص عليها في هذا النظام لمصلحتها وبعلم منها، تعاقب بغرامة لا تزيد على عشرة ملايين ريال، وبالحرمان من التعاقد من سنتين إلى خمس سنوات مع أي جهة عامة، وذلك دون الإخلال بأي عقوبة نص عليها هذا النظام في حق الشخص ذي الصفة الطبيعية مرتكب الجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون:",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الرابعة والعشرون",
+      "text_verbatim": "للمحكمة المختصة إيقاف أي عقوبة تبعية تترتب على الإدانة بالجرائم المنصوص عليها في المواد (السابعة) و(الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة) من هذا النظام.",
+      "text_for_index": "للمحكمة المختصة إيقاف أي عقوبة تبعية تترتب على الإدانة بالجرائم المنصوص عليها في المواد (السابعة) و(الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة) من هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للمحكمة المختصة إيقاف أي عقوبة تبعية تترتب على الإدانة بالجرائم المنصوص عليها في المواد (السابعة) و(الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة) من هذا النظام.",
+          "text_for_index": "للمحكمة المختصة إيقاف أي عقوبة تبعية تترتب على الإدانة بالجرائم المنصوص عليها في المواد (السابعة) و(الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة) من هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون:",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الخامسة والعشرون",
+      "text_verbatim": "تحكم المحكمة المختصة بالإعفاء من عقوبة جرائم التزوير المنصوص عليها في هذا النظام، لكل من بادر من الجناة بالإبلاغ عن جريمته قبل اكتشافها واستعمال المزوّر.\nوللمحكمة المختصة إعفاء الجاني من العقوبة بعد اكتشاف الجريمة إذا أرشد عن باقي الجناة وسهّل القبض عليهم.",
+      "text_for_index": "تحكم المحكمة المختصة بالإعفاء من عقوبة جرائم التزوير المنصوص عليها في هذا النظام، لكل من بادر من الجناة بالإبلاغ عن جريمته قبل اكتشافها واستعمال المزوّر.\nوللمحكمة المختصة إعفاء الجاني من العقوبة بعد اكتشاف الجريمة إذا أرشد عن باقي الجناة وسهّل القبض عليهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تحكم المحكمة المختصة بالإعفاء من عقوبة جرائم التزوير المنصوص عليها في هذا النظام، لكل من بادر من الجناة بالإبلاغ عن جريمته قبل اكتشافها واستعمال المزوّر.\nوللمحكمة المختصة إعفاء الجاني من العقوبة بعد اكتشاف الجريمة إذا أرشد عن باقي الجناة وسهّل القبض عليهم.",
+          "text_for_index": "تحكم المحكمة المختصة بالإعفاء من عقوبة جرائم التزوير المنصوص عليها في هذا النظام، لكل من بادر من الجناة بالإبلاغ عن جريمته قبل اكتشافها واستعمال المزوّر.\nوللمحكمة المختصة إعفاء الجاني من العقوبة بعد اكتشاف الجريمة إذا أرشد عن باقي الجناة وسهّل القبض عليهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون:",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة السادسة والعشرون",
+      "text_verbatim": "تطبق أحكام هذا النظام على كل من ارتكب خارج المملكة جريمةً من الجرائم المنصوص عليها في المواد (الثالثة) و(الرابعة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) من هذا النظام، إلا إذا ثبت أنه سبق أن صدر حكمٌ قضائي في الخارج بعدم إدانته بما أسند إليه أو حكم بإدانته عن الفعل نفسه واستوفى عقوبته.",
+      "text_for_index": "تطبق أحكام هذا النظام على كل من ارتكب خارج المملكة جريمةً من الجرائم المنصوص عليها في المواد (الثالثة) و(الرابعة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) من هذا النظام، إلا إذا ثبت أنه سبق أن صدر حكمٌ قضائي في الخارج بعدم إدانته بما أسند إليه أو حكم بإدانته عن الفعل نفسه واستوفى عقوبته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تطبق أحكام هذا النظام على كل من ارتكب خارج المملكة جريمةً من الجرائم المنصوص عليها في المواد (الثالثة) و(الرابعة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) من هذا النظام، إلا إذا ثبت أنه سبق أن صدر حكمٌ قضائي في الخارج بعدم إدانته بما أسند إليه أو حكم بإدانته عن الفعل نفسه واستوفى عقوبته.",
+          "text_for_index": "تطبق أحكام هذا النظام على كل من ارتكب خارج المملكة جريمةً من الجرائم المنصوص عليها في المواد (الثالثة) و(الرابعة) و(الثامنة) و(العاشرة) و(الحادية عشرة) و(الثالثة عشرة) من هذا النظام، إلا إذا ثبت أنه سبق أن صدر حكمٌ قضائي في الخارج بعدم إدانته بما أسند إليه أو حكم بإدانته عن الفعل نفسه واستوفى عقوبته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون:",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة السابعة والعشرون",
+      "text_verbatim": "فيما عدا الجرائم المنصوص عليها في المادتين (الثالثة) و(العاشرة)، تنقضي الدعوى الجزائية في الجرائم المنصوص عليها في هذا النظام بعد مضي عشر سنوات تبدأ من اليوم التالي لوقوع الجريمة.",
+      "text_for_index": "فيما عدا الجرائم المنصوص عليها في المادتين (الثالثة) و(العاشرة)، تنقضي الدعوى الجزائية في الجرائم المنصوص عليها في هذا النظام بعد مضي عشر سنوات تبدأ من اليوم التالي لوقوع الجريمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "فيما عدا الجرائم المنصوص عليها في المادتين (الثالثة) و(العاشرة)، تنقضي الدعوى الجزائية في الجرائم المنصوص عليها في هذا النظام بعد مضي عشر سنوات تبدأ من اليوم التالي لوقوع الجريمة.",
+          "text_for_index": "فيما عدا الجرائم المنصوص عليها في المادتين (الثالثة) و(العاشرة)، تنقضي الدعوى الجزائية في الجرائم المنصوص عليها في هذا النظام بعد مضي عشر سنوات تبدأ من اليوم التالي لوقوع الجريمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون:",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثامنة والعشرون",
+      "text_verbatim": "فيما عدا المواد (الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة)، يجوز الحكم بنشر العقوبة المقضي بها في الجرائم الواردة في هذا النظام.",
+      "text_for_index": "فيما عدا المواد (الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة)، يجوز الحكم بنشر العقوبة المقضي بها في الجرائم الواردة في هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "فيما عدا المواد (الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة)، يجوز الحكم بنشر العقوبة المقضي بها في الجرائم الواردة في هذا النظام.",
+          "text_for_index": "فيما عدا المواد (الرابعة عشرة) و(الخامسة عشرة) و(السادسة عشرة)، يجوز الحكم بنشر العقوبة المقضي بها في الجرائم الواردة في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون:",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة التاسعة والعشرون",
+      "text_verbatim": "يلغي هذا النظام نظام مكافحة التزوير، الصادر بالمرسوم الملكي رقم (114) وتاريخ 26 /11 /1380هـ، وكل ما يتعارض معه من أحكام.",
+      "text_for_index": "يلغي هذا النظام نظام مكافحة التزوير، الصادر بالمرسوم الملكي رقم (114) وتاريخ 26 /11 /1380هـ، وكل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي هذا النظام نظام مكافحة التزوير، الصادر بالمرسوم الملكي رقم (114) وتاريخ 26 /11 /1380هـ، وكل ما يتعارض معه من أحكام.",
+          "text_for_index": "يلغي هذا النظام نظام مكافحة التزوير، الصادر بالمرسوم الملكي رقم (114) وتاريخ 26 /11 /1380هـ، وكل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون:",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الجزائي لجرائم التزوير، المادة الثلاثون",
+      "text_verbatim": "يعمل بهذا النظام بعد مضي ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام بعد مضي ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "alnzam-aljzayy-ljraym-altzwyr::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بهذا النظام بعد مضي ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام بعد مضي ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

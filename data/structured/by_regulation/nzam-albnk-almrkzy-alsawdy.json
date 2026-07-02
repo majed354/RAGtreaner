@@ -1,0 +1,2111 @@
+{
+  "metadata": {
+    "slug": "nzam-albnk-almrkzy-alsawdy",
+    "title_ar": "نظام البنك المركزي السعودي",
+    "status": "ساري",
+    "issue_date_hijri": "1442/04/11 هـ الموافق : 26/11/2020 مـ",
+    "issue_date_gregorian": "2020-11-26",
+    "publish_date_hijri": "1442/04/26 هـ الموافق : 11/12/2020 مـ",
+    "publish_date_gregorian": "2020-12-11",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a292ec7e-85fb-4ceb-9ad0-ac9200ced829/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-albnk-almrkzy-alsawdy.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-albnk-almrkzy-alsawdy.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1442/04/26 هـ الموافق : 11/12/2020 مـ",
+    "effective_date_gregorian": "2020-12-11",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 27,
+    "paragraph_count": 99,
+    "indexable_paragraph_count": 99,
+    "text_chars": 11632,
+    "verbatim_chars": 11632,
+    "citation_base_ar": "نظام البنك المركزي السعودي",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a292ec7e-85fb-4ceb-9ad0-ac9200ced829/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-albnk-almrkzy-alsawdy.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-albnk-almrkzy-alsawdy.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارة الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها:\n\nالبنك: البنك المركزي السعودي.\n\nالنظام: نظام البنك.\n\nالمجلس: مجلس إدارة البنك.\n\nالمحافظ: محافظ البنك.\n\nالمؤسسة المالية: أي شخص يخضع لإشراف البنك ورقابته وتنظيمه، سواءً كان ذا صفة طبيعية أو اعتبارية.",
+      "text_for_index": "يقصد بالألفاظ والعبارة الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها:\n\nالبنك: البنك المركزي السعودي.\n\nالنظام: نظام البنك.\n\nالمجلس: مجلس إدارة البنك.\n\nالمحافظ: محافظ البنك.\n\nالمؤسسة المالية: أي شخص يخضع لإشراف البنك ورقابته وتنظيمه، سواءً كان ذا صفة طبيعية أو اعتبارية.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارة الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها:",
+          "text_for_index": "يقصد بالألفاظ والعبارة الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "البنك: البنك المركزي السعودي.",
+          "text_for_index": "البنك: البنك المركزي السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "النظام: نظام البنك.",
+          "text_for_index": "النظام: نظام البنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "المجلس: مجلس إدارة البنك.",
+          "text_for_index": "المجلس: مجلس إدارة البنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "المحافظ: محافظ البنك.",
+          "text_for_index": "المحافظ: محافظ البنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "المؤسسة المالية: أي شخص يخضع لإشراف البنك ورقابته وتنظيمه، سواءً كان ذا صفة طبيعية أو اعتبارية.",
+          "text_for_index": "المؤسسة المالية: أي شخص يخضع لإشراف البنك ورقابته وتنظيمه، سواءً كان ذا صفة طبيعية أو اعتبارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثانية",
+      "text_verbatim": "يتمتع البنك بالشخصية الاعتبارية والاستقلال المالي والإداري، ويرتبط تنظيمياً بالملك، ويكون مقره الرئيس في مدينة الرياض، وله أن ينشئ فروعاً أو مراكز نقد داخل المملكة، وله – أيضاً - افتتاح مكاتب أو تعيين وكلاء ومراسلين له خارج المملكة.",
+      "text_for_index": "يتمتع البنك بالشخصية الاعتبارية والاستقلال المالي والإداري، ويرتبط تنظيمياً بالملك، ويكون مقره الرئيس في مدينة الرياض، وله أن ينشئ فروعاً أو مراكز نقد داخل المملكة، وله – أيضاً - افتتاح مكاتب أو تعيين وكلاء ومراسلين له خارج المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يتمتع البنك بالشخصية الاعتبارية والاستقلال المالي والإداري، ويرتبط تنظيمياً بالملك، ويكون مقره الرئيس في مدينة الرياض، وله أن ينشئ فروعاً أو مراكز نقد داخل المملكة، وله – أيضاً - افتتاح مكاتب أو تعيين وكلاء ومراسلين له خارج المملكة.",
+          "text_for_index": "يتمتع البنك بالشخصية الاعتبارية والاستقلال المالي والإداري، ويرتبط تنظيمياً بالملك، ويكون مقره الرئيس في مدينة الرياض، وله أن ينشئ فروعاً أو مراكز نقد داخل المملكة، وله – أيضاً - افتتاح مكاتب أو تعيين وكلاء ومراسلين له خارج المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثالثة",
+      "text_verbatim": "يهدف البنك إلى الآتي:\n\n\t• المحافظة على الاستقرار النقدي.\n\n\t• دعم استقرار القطاع المالي، وتعزيز الثقة به.\n\n\t• دعم النمو الاقتصادي.",
+      "text_for_index": "يهدف البنك إلى الآتي:\n\n • المحافظة على الاستقرار النقدي.\n\n • دعم استقرار القطاع المالي، وتعزيز الثقة به.\n\n • دعم النمو الاقتصادي.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يهدف البنك إلى الآتي:",
+          "text_for_index": "يهدف البنك إلى الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• المحافظة على الاستقرار النقدي.",
+          "text_for_index": "• المحافظة على الاستقرار النقدي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• دعم استقرار القطاع المالي، وتعزيز الثقة به.",
+          "text_for_index": "• دعم استقرار القطاع المالي، وتعزيز الثقة به.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• دعم النمو الاقتصادي.",
+          "text_for_index": "• دعم النمو الاقتصادي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "التزام"
+      ],
+      "topic_tags": [
+        "labor",
+        "anti_money_laundering",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "مكافحة غسل الأموال",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الرابعة",
+      "text_verbatim": "يؤدي البنك مهماته وفقاً لأحكام النظام، وما يصدره المجلس من لوائح وسياسات، ووفق أفضل المعايير والممارسات الدولية، وله جميع الصلاحيات اللازمة لتحقيق أهدافه، وله - في سبيل ذلك - ممارسة المهمات والصلاحيات والاختصاصات الآتية:\n\n\t• إصدار النقد، وتنظيمه (بما في ذلك: سك وطباعة وإصدار العملة الوطنية، وطرحها، وسحبها، وإلغاؤها، وإدارتها، وحمايتها)، والأعمال الأخرى كافة ذات العلاقة، بما لا يخالف أحكام نظام النقد العربي السعودي.\n\n\t• الرقابة والإشراف على المؤسسات المالية وفقاً للأنظمة ذات العلاقة.\n\n\t• إصدار اللوائح والتعليمات ذات الصلة بالمؤسسات المالية وأعمالها.\n\n\t• وضع وإدارة السياسة النقدية، وتنظيم سوق صرف العملات الأجنبية.\n\n\t• إدارة واستثمار احتياطيات النقد الأجنبي.\n\n\t• القيـام بوظيفـة مصـرف الحكومـة، ووظيفـة مستشـار الحكومـة في الشـؤون النقـدية والمصرفية والمالية.\n\n\t• إنشاء وتطوير وتشغيل البنى التحتية لنظم المدفوعات الوطنية والتسويات والمقاصة، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف على نظم المدفوعات والتسويات والمقاصة في مجال اختصاصه.\n\n\t• إنشاء وتطوير وتشغيل منصات التقنيات المالية، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف عليها في مجال اختصاصه.\n\n\t• وضع التعليمات والإجراءات الكفيلة بحماية عملاء المؤسسات المالية.\n\n\t• وضع وإدارة السياسات الاحترازية واتخاذ الإجراءات والتدابير اللازمة للمؤسسات المالية، واتخاذ الإجراءات والتدابير اللازمة للمساهمة في مواجهة الاضطرابات والأزمات الاقتصادية والمالية، المحلية والإقليمية والعالمية.\n\n\t• اتخاذ الإجراءات والتدابير المناسبة للحد من ارتكاب الجرائم المرتبطة بالمؤسسات المالية.\n\n\t• التمثيل والمشاركة في المنظمات والهيئات والمحافل والمؤتمرات الإقليمية والدولية التي يُشارك فيها بعضويته وذلك وفق الإجراءات النظامية.\n\n\t• التعاون وتبادل الخبرات مع البنوك المركزية الأخرى والجهات النظيرة له والمنظمات الإقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصاته.\n\n\t• وضع الاختبارات والاشتراطات المهنية المتصلة بالمؤسسات المالية وأعمالها.\n\n\t• إعداد البحوث والدراسات ونشر الإحصائيات في مجال اختصاصه.\n\n\t• تأسيس شركات تابعة له، والمساهمة في تأسيس شركات، والمشاركة في شركات، تقوم بأداء نشاطات ذات علاقة بطبيعة أعماله، وفقاً للإجراءات النظامية.\n\n\t• اقتراح مشاريع الأنظمة ذات العلاقة بالمؤسسات المالية والقطاع المالي، واقتراح تعديل القائم منها، والرفع عنها لاستكمال الإجراءات النظامية في شأنها. وأن يتم التنسيق معه في شأن إعداد واقتراح مشاريع الأنظمة أو تعديل القائم منها التي قد يترتب عليها آثار على الأوضاع النقدية أو استقرار القطاع المالي.\n\n\t• تعريف المصطلحات والنصوص الواردة في النظام وتفسيرها.",
+      "text_for_index": "يؤدي البنك مهماته وفقاً لأحكام النظام، وما يصدره المجلس من لوائح وسياسات، ووفق أفضل المعايير والممارسات الدولية، وله جميع الصلاحيات اللازمة لتحقيق أهدافه، وله - في سبيل ذلك - ممارسة المهمات والصلاحيات والاختصاصات الآتية:\n\n • إصدار النقد، وتنظيمه (بما في ذلك: سك وطباعة وإصدار العملة الوطنية، وطرحها، وسحبها، وإلغاؤها، وإدارتها، وحمايتها)، والأعمال الأخرى كافة ذات العلاقة، بما لا يخالف أحكام نظام النقد العربي السعودي.\n\n • الرقابة والإشراف على المؤسسات المالية وفقاً للأنظمة ذات العلاقة.\n\n • إصدار اللوائح والتعليمات ذات الصلة بالمؤسسات المالية وأعمالها.\n\n • وضع وإدارة السياسة النقدية، وتنظيم سوق صرف العملات الأجنبية.\n\n • إدارة واستثمار احتياطيات النقد الأجنبي.\n\n • القيـام بوظيفـة مصـرف الحكومـة، ووظيفـة مستشـار الحكومـة في الشـؤون النقـدية والمصرفية والمالية.\n\n • إنشاء وتطوير وتشغيل البنى التحتية لنظم المدفوعات الوطنية والتسويات والمقاصة، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف على نظم المدفوعات والتسويات والمقاصة في مجال اختصاصه.\n\n • إنشاء وتطوير وتشغيل منصات التقنيات المالية، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف عليها في مجال اختصاصه.\n\n • وضع التعليمات والإجراءات الكفيلة بحماية عملاء المؤسسات المالية.\n\n • وضع وإدارة السياسات الاحترازية واتخاذ الإجراءات والتدابير اللازمة للمؤسسات المالية، واتخاذ الإجراءات والتدابير اللازمة للمساهمة في مواجهة الاضطرابات والأزمات الاقتصادية والمالية، المحلية والإقليمية والعالمية.\n\n • اتخاذ الإجراءات والتدابير المناسبة للحد من ارتكاب الجرائم المرتبطة بالمؤسسات المالية.\n\n • التمثيل والمشاركة في المنظمات والهيئات والمحافل والمؤتمرات الإقليمية والدولية التي يُشارك فيها بعضويته وذلك وفق الإجراءات النظامية.\n\n • التعاون وتبادل الخبرات مع البنوك المركزية الأخرى والجهات النظيرة له والمنظمات الإقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصاته.\n\n • وضع الاختبارات والاشتراطات المهنية المتصلة بالمؤسسات المالية وأعمالها.\n\n • إعداد البحوث والدراسات ونشر الإحصائيات في مجال اختصاصه.\n\n • تأسيس شركات تابعة له، والمساهمة في تأسيس شركات، والمشاركة في شركات، تقوم بأداء نشاطات ذات علاقة بطبيعة أعماله، وفقاً للإجراءات النظامية.\n\n • اقتراح مشاريع الأنظمة ذات العلاقة بالمؤسسات المالية والقطاع المالي، واقتراح تعديل القائم منها، والرفع عنها لاستكمال الإجراءات النظامية في شأنها. وأن يتم التنسيق معه في شأن إعداد واقتراح مشاريع الأنظمة أو تعديل القائم منها التي قد يترتب عليها آثار على الأوضاع النقدية أو استقرار القطاع المالي.\n\n • تعريف المصطلحات والنصوص الواردة في النظام وتفسيرها.",
+      "paragraph_count": 19,
+      "indexable_paragraph_count": 19,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "التزام"
+          ],
+          "text_verbatim": "يؤدي البنك مهماته وفقاً لأحكام النظام، وما يصدره المجلس من لوائح وسياسات، ووفق أفضل المعايير والممارسات الدولية، وله جميع الصلاحيات اللازمة لتحقيق أهدافه، وله - في سبيل ذلك - ممارسة المهمات والصلاحيات والاختصاصات الآتية:",
+          "text_for_index": "يؤدي البنك مهماته وفقاً لأحكام النظام، وما يصدره المجلس من لوائح وسياسات، ووفق أفضل المعايير والممارسات الدولية، وله جميع الصلاحيات اللازمة لتحقيق أهدافه، وله - في سبيل ذلك - ممارسة المهمات والصلاحيات والاختصاصات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إصدار النقد، وتنظيمه (بما في ذلك: سك وطباعة وإصدار العملة الوطنية، وطرحها، وسحبها، وإلغاؤها، وإدارتها، وحمايتها)، والأعمال الأخرى كافة ذات العلاقة، بما لا يخالف أحكام نظام النقد العربي السعودي.",
+          "text_for_index": "• إصدار النقد، وتنظيمه (بما في ذلك: سك وطباعة وإصدار العملة الوطنية، وطرحها، وسحبها، وإلغاؤها، وإدارتها، وحمايتها)، والأعمال الأخرى كافة ذات العلاقة، بما لا يخالف أحكام نظام النقد العربي السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الرقابة والإشراف على المؤسسات المالية وفقاً للأنظمة ذات العلاقة.",
+          "text_for_index": "• الرقابة والإشراف على المؤسسات المالية وفقاً للأنظمة ذات العلاقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إصدار اللوائح والتعليمات ذات الصلة بالمؤسسات المالية وأعمالها.",
+          "text_for_index": "• إصدار اللوائح والتعليمات ذات الصلة بالمؤسسات المالية وأعمالها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• وضع وإدارة السياسة النقدية، وتنظيم سوق صرف العملات الأجنبية.",
+          "text_for_index": "• وضع وإدارة السياسة النقدية، وتنظيم سوق صرف العملات الأجنبية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إدارة واستثمار احتياطيات النقد الأجنبي.",
+          "text_for_index": "• إدارة واستثمار احتياطيات النقد الأجنبي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• القيـام بوظيفـة مصـرف الحكومـة، ووظيفـة مستشـار الحكومـة في الشـؤون النقـدية والمصرفية والمالية.",
+          "text_for_index": "• القيـام بوظيفـة مصـرف الحكومـة، ووظيفـة مستشـار الحكومـة في الشـؤون النقـدية والمصرفية والمالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إنشاء وتطوير وتشغيل البنى التحتية لنظم المدفوعات الوطنية والتسويات والمقاصة، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف على نظم المدفوعات والتسويات والمقاصة في مجال اختصاصه.",
+          "text_for_index": "• إنشاء وتطوير وتشغيل البنى التحتية لنظم المدفوعات الوطنية والتسويات والمقاصة، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف على نظم المدفوعات والتسويات والمقاصة في مجال اختصاصه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إنشاء وتطوير وتشغيل منصات التقنيات المالية، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف عليها في مجال اختصاصه.",
+          "text_for_index": "• إنشاء وتطوير وتشغيل منصات التقنيات المالية، وإصدار القواعد والتعليمات والتراخيص، والرقابة والإشراف عليها في مجال اختصاصه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• وضع التعليمات والإجراءات الكفيلة بحماية عملاء المؤسسات المالية.",
+          "text_for_index": "• وضع التعليمات والإجراءات الكفيلة بحماية عملاء المؤسسات المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• وضع وإدارة السياسات الاحترازية واتخاذ الإجراءات والتدابير اللازمة للمؤسسات المالية، واتخاذ الإجراءات والتدابير اللازمة للمساهمة في مواجهة الاضطرابات والأزمات الاقتصادية والمالية، المحلية والإقليمية والعالمية.",
+          "text_for_index": "• وضع وإدارة السياسات الاحترازية واتخاذ الإجراءات والتدابير اللازمة للمؤسسات المالية، واتخاذ الإجراءات والتدابير اللازمة للمساهمة في مواجهة الاضطرابات والأزمات الاقتصادية والمالية، المحلية والإقليمية والعالمية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• اتخاذ الإجراءات والتدابير المناسبة للحد من ارتكاب الجرائم المرتبطة بالمؤسسات المالية.",
+          "text_for_index": "• اتخاذ الإجراءات والتدابير المناسبة للحد من ارتكاب الجرائم المرتبطة بالمؤسسات المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• التمثيل والمشاركة في المنظمات والهيئات والمحافل والمؤتمرات الإقليمية والدولية التي يُشارك فيها بعضويته وذلك وفق الإجراءات النظامية.",
+          "text_for_index": "• التمثيل والمشاركة في المنظمات والهيئات والمحافل والمؤتمرات الإقليمية والدولية التي يُشارك فيها بعضويته وذلك وفق الإجراءات النظامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• التعاون وتبادل الخبرات مع البنوك المركزية الأخرى والجهات النظيرة له والمنظمات الإقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصاته.",
+          "text_for_index": "• التعاون وتبادل الخبرات مع البنوك المركزية الأخرى والجهات النظيرة له والمنظمات الإقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصاته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• وضع الاختبارات والاشتراطات المهنية المتصلة بالمؤسسات المالية وأعمالها.",
+          "text_for_index": "• وضع الاختبارات والاشتراطات المهنية المتصلة بالمؤسسات المالية وأعمالها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إعداد البحوث والدراسات ونشر الإحصائيات في مجال اختصاصه.",
+          "text_for_index": "• إعداد البحوث والدراسات ونشر الإحصائيات في مجال اختصاصه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تأسيس شركات تابعة له، والمساهمة في تأسيس شركات، والمشاركة في شركات، تقوم بأداء نشاطات ذات علاقة بطبيعة أعماله، وفقاً للإجراءات النظامية.",
+          "text_for_index": "• تأسيس شركات تابعة له، والمساهمة في تأسيس شركات، والمشاركة في شركات، تقوم بأداء نشاطات ذات علاقة بطبيعة أعماله، وفقاً للإجراءات النظامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-18",
+          "paragraph_index": 18,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• اقتراح مشاريع الأنظمة ذات العلاقة بالمؤسسات المالية والقطاع المالي، واقتراح تعديل القائم منها، والرفع عنها لاستكمال الإجراءات النظامية في شأنها. وأن يتم التنسيق معه في شأن إعداد واقتراح مشاريع الأنظمة أو تعديل القائم منها التي قد يترتب عليها آثار على الأوضاع النقدية أو استقرار القطاع المالي.",
+          "text_for_index": "• اقتراح مشاريع الأنظمة ذات العلاقة بالمؤسسات المالية والقطاع المالي، واقتراح تعديل القائم منها، والرفع عنها لاستكمال الإجراءات النظامية في شأنها. وأن يتم التنسيق معه في شأن إعداد واقتراح مشاريع الأنظمة أو تعديل القائم منها التي قد يترتب عليها آثار على الأوضاع النقدية أو استقرار القطاع المالي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-4::paragraph-19",
+          "paragraph_index": 19,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف"
+          ],
+          "text_verbatim": "• تعريف المصطلحات والنصوص الواردة في النظام وتفسيرها.",
+          "text_for_index": "• تعريف المصطلحات والنصوص الواردة في النظام وتفسيرها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "التزام"
+      ],
+      "topic_tags": [
+        "labor",
+        "anti_money_laundering"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "مكافحة غسل الأموال"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الخامسة",
+      "text_verbatim": "للبنك أن يتقاضى مقابلاً مالياً عن إصدار التراخيص والموافقات والخدمات والعمليات التي يؤديها وتكاليف الإشراف على المؤسسات المالية، وذلك وفقاً لضوابط يعتمدها المجلس.",
+      "text_for_index": "للبنك أن يتقاضى مقابلاً مالياً عن إصدار التراخيص والموافقات والخدمات والعمليات التي يؤديها وتكاليف الإشراف على المؤسسات المالية، وذلك وفقاً لضوابط يعتمدها المجلس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "التزام"
+          ],
+          "text_verbatim": "للبنك أن يتقاضى مقابلاً مالياً عن إصدار التراخيص والموافقات والخدمات والعمليات التي يؤديها وتكاليف الإشراف على المؤسسات المالية، وذلك وفقاً لضوابط يعتمدها المجلس.",
+          "text_for_index": "للبنك أن يتقاضى مقابلاً مالياً عن إصدار التراخيص والموافقات والخدمات والعمليات التي يؤديها وتكاليف الإشراف على المؤسسات المالية، وذلك وفقاً لضوابط يعتمدها المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "anti_money_laundering"
+      ],
+      "topic_tags_ar": [
+        "مكافحة غسل الأموال"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة السادسة",
+      "text_verbatim": "لا يجوز للبنك القيام بأي من الأعمال الآتية:\n\n\t• الاشتغال بالتجارة أو المساهمة في الأعمال التجارية أو أن يكون له مصلحة في أي مشروع تجاري أو صناعي أو زراعي، عدا ما هو ضروري لتحقيق أهدافه.\n\n\t• شراء العقارات أو امتلاكها عدا ما يحتاجه للقيام بأعماله، أو لغرض تنويع استثماراته الأجنبية.\n\n\t• تمويل الحكومة وإقراضها.\n\n\t• تمويل أو إقراض أي شخص ذي صفة طبيعية أو اعتبارية. ويستثنى من ذلك المؤسسات المالية لغرض إدارة السيولة أو مواجهة الأزمات بقرار من المحافظ وفق ضوابط يضعها المجلس.",
+      "text_for_index": "لا يجوز للبنك القيام بأي من الأعمال الآتية:\n\n • الاشتغال بالتجارة أو المساهمة في الأعمال التجارية أو أن يكون له مصلحة في أي مشروع تجاري أو صناعي أو زراعي، عدا ما هو ضروري لتحقيق أهدافه.\n\n • شراء العقارات أو امتلاكها عدا ما يحتاجه للقيام بأعماله، أو لغرض تنويع استثماراته الأجنبية.\n\n • تمويل الحكومة وإقراضها.\n\n • تمويل أو إقراض أي شخص ذي صفة طبيعية أو اعتبارية. ويستثنى من ذلك المؤسسات المالية لغرض إدارة السيولة أو مواجهة الأزمات بقرار من المحافظ وفق ضوابط يضعها المجلس.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز للبنك القيام بأي من الأعمال الآتية:",
+          "text_for_index": "لا يجوز للبنك القيام بأي من الأعمال الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• الاشتغال بالتجارة أو المساهمة في الأعمال التجارية أو أن يكون له مصلحة في أي مشروع تجاري أو صناعي أو زراعي، عدا ما هو ضروري لتحقيق أهدافه.",
+          "text_for_index": "• الاشتغال بالتجارة أو المساهمة في الأعمال التجارية أو أن يكون له مصلحة في أي مشروع تجاري أو صناعي أو زراعي، عدا ما هو ضروري لتحقيق أهدافه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• شراء العقارات أو امتلاكها عدا ما يحتاجه للقيام بأعماله، أو لغرض تنويع استثماراته الأجنبية.",
+          "text_for_index": "• شراء العقارات أو امتلاكها عدا ما يحتاجه للقيام بأعماله، أو لغرض تنويع استثماراته الأجنبية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تمويل الحكومة وإقراضها.",
+          "text_for_index": "• تمويل الحكومة وإقراضها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• تمويل أو إقراض أي شخص ذي صفة طبيعية أو اعتبارية. ويستثنى من ذلك المؤسسات المالية لغرض إدارة السيولة أو مواجهة الأزمات بقرار من المحافظ وفق ضوابط يضعها المجلس.",
+          "text_for_index": "• تمويل أو إقراض أي شخص ذي صفة طبيعية أو اعتبارية. ويستثنى من ذلك المؤسسات المالية لغرض إدارة السيولة أو مواجهة الأزمات بقرار من المحافظ وفق ضوابط يضعها المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة السابعة",
+      "text_verbatim": "تتمتع أصول البنك وإيراداته وممتلكاته بالحصانة، ولا يجوز تفتيشها أو حجزها أو الاستيلاء عليها أو مصادرتها أو نزع ملكيتها، ولا تخضع لإجراءات الإفلاس بأي شكل كان.",
+      "text_for_index": "تتمتع أصول البنك وإيراداته وممتلكاته بالحصانة، ولا يجوز تفتيشها أو حجزها أو الاستيلاء عليها أو مصادرتها أو نزع ملكيتها، ولا تخضع لإجراءات الإفلاس بأي شكل كان.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "تتمتع أصول البنك وإيراداته وممتلكاته بالحصانة، ولا يجوز تفتيشها أو حجزها أو الاستيلاء عليها أو مصادرتها أو نزع ملكيتها، ولا تخضع لإجراءات الإفلاس بأي شكل كان.",
+          "text_for_index": "تتمتع أصول البنك وإيراداته وممتلكاته بالحصانة، ولا يجوز تفتيشها أو حجزها أو الاستيلاء عليها أو مصادرتها أو نزع ملكيتها، ولا تخضع لإجراءات الإفلاس بأي شكل كان.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثامنة",
+      "text_verbatim": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بتعديل هذه المادة وهي كالآتي:\n\n- بتعديل الفقرة الفرعية (ب) من الفقرة (1) لتكون بالنص الآتي: \"ب- نائبا المحافظ عضوين\".\n\n- وإضافة فقرة تحمل رقم (1مكرر) لهذه المادة لتكون بالنص الآتي: \"1مكرر- يكلف المحافظ أحد النائبين لرئاسة اجتماع المجلس في حال عدم تمكنه من رئاسة الاجتماع\".",
+      "text_for_index": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بتعديل هذه المادة وهي كالآتي:\n\n- بتعديل الفقرة الفرعية (ب) من الفقرة (1) لتكون بالنص الآتي: \"ب- نائبا المحافظ عضوين\".\n\n- وإضافة فقرة تحمل رقم (1مكرر) لهذه المادة لتكون بالنص الآتي: \"1مكرر- يكلف المحافظ أحد النائبين لرئاسة اجتماع المجلس في حال عدم تمكنه من رئاسة الاجتماع\".",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بتعديل هذه المادة وهي كالآتي:",
+          "text_for_index": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بتعديل هذه المادة وهي كالآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- بتعديل الفقرة الفرعية (ب) من الفقرة (1) لتكون بالنص الآتي: \"ب- نائبا المحافظ عضوين\".",
+          "text_for_index": "- بتعديل الفقرة الفرعية (ب) من الفقرة (1) لتكون بالنص الآتي: \"ب- نائبا المحافظ عضوين\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-8::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "- وإضافة فقرة تحمل رقم (1مكرر) لهذه المادة لتكون بالنص الآتي: \"1مكرر- يكلف المحافظ أحد النائبين لرئاسة اجتماع المجلس في حال عدم تمكنه من رئاسة الاجتماع\".",
+          "text_for_index": "- وإضافة فقرة تحمل رقم (1مكرر) لهذه المادة لتكون بالنص الآتي: \"1مكرر- يكلف المحافظ أحد النائبين لرئاسة اجتماع المجلس في حال عدم تمكنه من رئاسة الاجتماع\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "anti_money_laundering"
+      ],
+      "topic_tags_ar": [
+        "مكافحة غسل الأموال"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة التاسعة",
+      "text_verbatim": "يجب أن يتوافر في العضو من الأعضاء المنصوص عليهم في الفقرة الفرعية (ج) من الفقرة (1) من المادة (الثامنة) من النظام الشروط الآتية:\n\n\t• أن يكون سعودي الجنسية.\n\n\t• أن يكون من ذوي الكفاية والخبرة ذات العلاقة بعمل البنك.\n\n\t• ألا يكون قد سبق الحكم عليه في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد رد إليه اعتباره.\n\n\t• ألا يكون قد أشهر إفلاسه، أو إعساره، أو امتنع عن الوفاء بديونه.\n\n\t• ألا يكون شاغلاً لأي منصب أو وظيفة في جهة عامة أو لدى أي من المؤسسات المالية، أو أن يكون من مراجعي حساباتها.\n\n\t• ألا يكون مالكاً أو وكيلاً لمكتب مراجع حسابات خارجي.",
+      "text_for_index": "يجب أن يتوافر في العضو من الأعضاء المنصوص عليهم في الفقرة الفرعية (ج) من الفقرة (1) من المادة (الثامنة) من النظام الشروط الآتية:\n\n • أن يكون سعودي الجنسية.\n\n • أن يكون من ذوي الكفاية والخبرة ذات العلاقة بعمل البنك.\n\n • ألا يكون قد سبق الحكم عليه في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد رد إليه اعتباره.\n\n • ألا يكون قد أشهر إفلاسه، أو إعساره، أو امتنع عن الوفاء بديونه.\n\n • ألا يكون شاغلاً لأي منصب أو وظيفة في جهة عامة أو لدى أي من المؤسسات المالية، أو أن يكون من مراجعي حساباتها.\n\n • ألا يكون مالكاً أو وكيلاً لمكتب مراجع حسابات خارجي.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن يتوافر في العضو من الأعضاء المنصوص عليهم في الفقرة الفرعية (ج) من الفقرة (1) من المادة (الثامنة) من النظام الشروط الآتية:",
+          "text_for_index": "يجب أن يتوافر في العضو من الأعضاء المنصوص عليهم في الفقرة الفرعية (ج) من الفقرة (1) من المادة (الثامنة) من النظام الشروط الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون سعودي الجنسية.",
+          "text_for_index": "• أن يكون سعودي الجنسية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يكون من ذوي الكفاية والخبرة ذات العلاقة بعمل البنك.",
+          "text_for_index": "• أن يكون من ذوي الكفاية والخبرة ذات العلاقة بعمل البنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "• ألا يكون قد سبق الحكم عليه في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد رد إليه اعتباره.",
+          "text_for_index": "• ألا يكون قد سبق الحكم عليه في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد رد إليه اعتباره.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• ألا يكون قد أشهر إفلاسه، أو إعساره، أو امتنع عن الوفاء بديونه.",
+          "text_for_index": "• ألا يكون قد أشهر إفلاسه، أو إعساره، أو امتنع عن الوفاء بديونه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ألا يكون شاغلاً لأي منصب أو وظيفة في جهة عامة أو لدى أي من المؤسسات المالية، أو أن يكون من مراجعي حساباتها.",
+          "text_for_index": "• ألا يكون شاغلاً لأي منصب أو وظيفة في جهة عامة أو لدى أي من المؤسسات المالية، أو أن يكون من مراجعي حساباتها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ألا يكون مالكاً أو وكيلاً لمكتب مراجع حسابات خارجي.",
+          "text_for_index": "• ألا يكون مالكاً أو وكيلاً لمكتب مراجع حسابات خارجي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة العاشرة",
+      "text_verbatim": "• يتولى المجلس الإشراف على أعمال البنك، ويكون المسؤول بشكل عام عن حسن سير الإدارة، وله الاختصاصات كافة اللازمة لتحقيق ذلك وفقاً لأهداف البنك، وللمجلس أن يضع ما يلزم من النظم والتعليمات واللوائح والسياسات بحسب ما يراه ضرورياً وملائماً لسير الأعمال في البنك وفقاً لنظامه، ومن ذلك - على سبيل المثال لا الحصر - الآتي:\n\n\tأ - اعتماد الاستراتيجيات والخطط التشغيلية للبنك.\n\n\tب- إقرار اللوائح الداخلية واللوائح الإدارية والمالية والفنية والرقابية ولائحة الموارد البشرية.\n\n\tج - إقرار الهيكل التنظيمي للبنك.\n\n\tد - تحديد السنة المالية للبنك.\n\n\tهـ- اعتماد الميزانية العامة للبنك، وإقرار حساباته الختامية.\n\n\tو- اعتماد تعيين مراجع أو مراجعي الحسابات الخارجيين للبنك وتحديد أتعابهم.\n\n\tز- إنشاء فروع أو مكاتب للبنك.\n\n\tح- متابعة التقارير الدورية التي تقدم عن سير العمل في البنك.\n\n\t• للمجلس - في سبيل تحقيق اختصاصاته - تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات وصلاحيات واختصاصات للبنك، ويحدّد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها ومكافآتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات المعهود بها إليها.\n\n\t• للمجلس تفويض بعض اختصاصاته إلى المحافظ، ويكون للمحافظ تفويض تلك الاختصاصات إلى من يراه من موظفي البنك وفق ضوابط وجدول صلاحيات يعتمدها المجلس.",
+      "text_for_index": "• يتولى المجلس الإشراف على أعمال البنك، ويكون المسؤول بشكل عام عن حسن سير الإدارة، وله الاختصاصات كافة اللازمة لتحقيق ذلك وفقاً لأهداف البنك، وللمجلس أن يضع ما يلزم من النظم والتعليمات واللوائح والسياسات بحسب ما يراه ضرورياً وملائماً لسير الأعمال في البنك وفقاً لنظامه، ومن ذلك - على سبيل المثال لا الحصر - الآتي:\n\n أ - اعتماد الاستراتيجيات والخطط التشغيلية للبنك.\n\n ب- إقرار اللوائح الداخلية واللوائح الإدارية والمالية والفنية والرقابية ولائحة الموارد البشرية.\n\n ج - إقرار الهيكل التنظيمي للبنك.\n\n د - تحديد السنة المالية للبنك.\n\n هـ- اعتماد الميزانية العامة للبنك، وإقرار حساباته الختامية.\n\n و- اعتماد تعيين مراجع أو مراجعي الحسابات الخارجيين للبنك وتحديد أتعابهم.\n\n ز- إنشاء فروع أو مكاتب للبنك.\n\n ح- متابعة التقارير الدورية التي تقدم عن سير العمل في البنك.\n\n • للمجلس - في سبيل تحقيق اختصاصاته - تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات وصلاحيات واختصاصات للبنك، ويحدّد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها ومكافآتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات المعهود بها إليها.\n\n • للمجلس تفويض بعض اختصاصاته إلى المحافظ، ويكون للمحافظ تفويض تلك الاختصاصات إلى من يراه من موظفي البنك وفق ضوابط وجدول صلاحيات يعتمدها المجلس.",
+      "paragraph_count": 11,
+      "indexable_paragraph_count": 11,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يتولى المجلس الإشراف على أعمال البنك، ويكون المسؤول بشكل عام عن حسن سير الإدارة، وله الاختصاصات كافة اللازمة لتحقيق ذلك وفقاً لأهداف البنك، وللمجلس أن يضع ما يلزم من النظم والتعليمات واللوائح والسياسات بحسب ما يراه ضرورياً وملائماً لسير الأعمال في البنك وفقاً لنظامه، ومن ذلك - على سبيل المثال لا الحصر - الآتي:",
+          "text_for_index": "• يتولى المجلس الإشراف على أعمال البنك، ويكون المسؤول بشكل عام عن حسن سير الإدارة، وله الاختصاصات كافة اللازمة لتحقيق ذلك وفقاً لأهداف البنك، وللمجلس أن يضع ما يلزم من النظم والتعليمات واللوائح والسياسات بحسب ما يراه ضرورياً وملائماً لسير الأعمال في البنك وفقاً لنظامه، ومن ذلك - على سبيل المثال لا الحصر - الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ - اعتماد الاستراتيجيات والخطط التشغيلية للبنك.",
+          "text_for_index": "أ - اعتماد الاستراتيجيات والخطط التشغيلية للبنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ب- إقرار اللوائح الداخلية واللوائح الإدارية والمالية والفنية والرقابية ولائحة الموارد البشرية.",
+          "text_for_index": "ب- إقرار اللوائح الداخلية واللوائح الإدارية والمالية والفنية والرقابية ولائحة الموارد البشرية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج - إقرار الهيكل التنظيمي للبنك.",
+          "text_for_index": "ج - إقرار الهيكل التنظيمي للبنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "د - تحديد السنة المالية للبنك.",
+          "text_for_index": "د - تحديد السنة المالية للبنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "هـ- اعتماد الميزانية العامة للبنك، وإقرار حساباته الختامية.",
+          "text_for_index": "هـ- اعتماد الميزانية العامة للبنك، وإقرار حساباته الختامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "و- اعتماد تعيين مراجع أو مراجعي الحسابات الخارجيين للبنك وتحديد أتعابهم.",
+          "text_for_index": "و- اعتماد تعيين مراجع أو مراجعي الحسابات الخارجيين للبنك وتحديد أتعابهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ز- إنشاء فروع أو مكاتب للبنك.",
+          "text_for_index": "ز- إنشاء فروع أو مكاتب للبنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ح- متابعة التقارير الدورية التي تقدم عن سير العمل في البنك.",
+          "text_for_index": "ح- متابعة التقارير الدورية التي تقدم عن سير العمل في البنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• للمجلس - في سبيل تحقيق اختصاصاته - تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات وصلاحيات واختصاصات للبنك، ويحدّد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها ومكافآتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات المعهود بها إليها.",
+          "text_for_index": "• للمجلس - في سبيل تحقيق اختصاصاته - تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات وصلاحيات واختصاصات للبنك، ويحدّد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها ومكافآتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات المعهود بها إليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-10::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• للمجلس تفويض بعض اختصاصاته إلى المحافظ، ويكون للمحافظ تفويض تلك الاختصاصات إلى من يراه من موظفي البنك وفق ضوابط وجدول صلاحيات يعتمدها المجلس.",
+          "text_for_index": "• للمجلس تفويض بعض اختصاصاته إلى المحافظ، ويكون للمحافظ تفويض تلك الاختصاصات إلى من يراه من موظفي البنك وفق ضوابط وجدول صلاحيات يعتمدها المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الحادية عشرة",
+      "text_verbatim": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بحذف عبارة (أو نائبة) من الفقرة (1)، وإضافة كلمة (المكلف) بعد عبارة (أو نائبة) الواردة في الفقرة (2) من هذه المادة.",
+      "text_for_index": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بحذف عبارة (أو نائبة) من الفقرة (1)، وإضافة كلمة (المكلف) بعد عبارة (أو نائبة) الواردة في الفقرة (2) من هذه المادة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بحذف عبارة (أو نائبة) من الفقرة (1)، وإضافة كلمة (المكلف) بعد عبارة (أو نائبة) الواردة في الفقرة (2) من هذه المادة.",
+          "text_for_index": "* صدر قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، بحذف عبارة (أو نائبة) من الفقرة (1)، وإضافة كلمة (المكلف) بعد عبارة (أو نائبة) الواردة في الفقرة (2) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثانية عشرة",
+      "text_verbatim": "يرفع المحافظ إلى الملك طلب تعيين خلـفٍ لأي مـن أعضاء المجلـس - وفقاً للفقـرة (2) من المـادة الثامنـة من النظـام - في أي من الحالات الآتية:\n\n\t• وفاة العضو.\n\n\t• إذا فقد العضو أحد شروط العضوية المنصوص عليها في النظام.\n\n\t• إذا طلب العضو الإعفاء.\n\n\t• عنـد تغيب العضـو (ثلاثة) اجتمـاعـات متتاليـة دون عـذر يقبلـه المجـلس أو دون موافقة من رئيس المجلس.\n\n\t• إذا أصبح العضو غير قادر على أداء مهماته لأي سبب.\n\n\t• إذا أخلّ العضو بأحد واجباته إخلالاً جسيماً وفق ما يقرره المجلس.",
+      "text_for_index": "يرفع المحافظ إلى الملك طلب تعيين خلـفٍ لأي مـن أعضاء المجلـس - وفقاً للفقـرة (2) من المـادة الثامنـة من النظـام - في أي من الحالات الآتية:\n\n • وفاة العضو.\n\n • إذا فقد العضو أحد شروط العضوية المنصوص عليها في النظام.\n\n • إذا طلب العضو الإعفاء.\n\n • عنـد تغيب العضـو (ثلاثة) اجتمـاعـات متتاليـة دون عـذر يقبلـه المجـلس أو دون موافقة من رئيس المجلس.\n\n • إذا أصبح العضو غير قادر على أداء مهماته لأي سبب.\n\n • إذا أخلّ العضو بأحد واجباته إخلالاً جسيماً وفق ما يقرره المجلس.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يرفع المحافظ إلى الملك طلب تعيين خلـفٍ لأي مـن أعضاء المجلـس - وفقاً للفقـرة (2) من المـادة الثامنـة من النظـام - في أي من الحالات الآتية:",
+          "text_for_index": "يرفع المحافظ إلى الملك طلب تعيين خلـفٍ لأي مـن أعضاء المجلـس - وفقاً للفقـرة (2) من المـادة الثامنـة من النظـام - في أي من الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• وفاة العضو.",
+          "text_for_index": "• وفاة العضو.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• إذا فقد العضو أحد شروط العضوية المنصوص عليها في النظام.",
+          "text_for_index": "• إذا فقد العضو أحد شروط العضوية المنصوص عليها في النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• إذا طلب العضو الإعفاء.",
+          "text_for_index": "• إذا طلب العضو الإعفاء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• عنـد تغيب العضـو (ثلاثة) اجتمـاعـات متتاليـة دون عـذر يقبلـه المجـلس أو دون موافقة من رئيس المجلس.",
+          "text_for_index": "• عنـد تغيب العضـو (ثلاثة) اجتمـاعـات متتاليـة دون عـذر يقبلـه المجـلس أو دون موافقة من رئيس المجلس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• إذا أصبح العضو غير قادر على أداء مهماته لأي سبب.",
+          "text_for_index": "• إذا أصبح العضو غير قادر على أداء مهماته لأي سبب.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-12::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• إذا أخلّ العضو بأحد واجباته إخلالاً جسيماً وفق ما يقرره المجلس.",
+          "text_for_index": "• إذا أخلّ العضو بأحد واجباته إخلالاً جسيماً وفق ما يقرره المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "المحافظ ونائب المحافظ وموظفو البنك ( المادة الثالثة عشرة )",
+      "article_label_raw": "المحافظ ونائب المحافظ وموظفو البنك ( المادة الثالثة عشرة )",
+      "article_heading": "المحافظ ونائب المحافظ وموظفو البنك ( المادة الثالثة عشرة )",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة المحافظ ونائب المحافظ وموظفو البنك ( المادة الثالثة عشرة )",
+      "text_verbatim": "- عُدل العنوان الفرعي وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، ليكون بالنص الآتي:\n\n\"المحافظ ونائبا المحافظ وموظفو البنك\".",
+      "text_for_index": "- عُدل العنوان الفرعي وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، ليكون بالنص الآتي:\n\n\"المحافظ ونائبا المحافظ وموظفو البنك\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- عُدل العنوان الفرعي وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، ليكون بالنص الآتي:",
+          "text_for_index": "- عُدل العنوان الفرعي وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، ليكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-13::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "\"المحافظ ونائبا المحافظ وموظفو البنك\".",
+          "text_for_index": "\"المحافظ ونائبا المحافظ وموظفو البنك\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الرابعة عشرة",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، لتكون بالنص الآتي:\n\n\t• يكون للمحافظ نائبان متفرغان يعاونانه في أداء مهماته ومسؤولياته. ويحدد المجلس بقرار منه اختصاصات كل منهما وصلاحياته ومهماته بناء على توصية من المحافظ. ولا يشارك أي من النائبين في مداولات القرار ولا في التصويت عليه.\n\n\t• يعين نائبا المحافظ بالمرتبة الممتازة بناءً على اقتراح من المحافظ،وتحديد مزاياهما بأمر ملكي.\n\n\t• يكلف المحافظ أحد النائبين ليحل محله عند غيابه.",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، لتكون بالنص الآتي:\n\n • يكون للمحافظ نائبان متفرغان يعاونانه في أداء مهماته ومسؤولياته. ويحدد المجلس بقرار منه اختصاصات كل منهما وصلاحياته ومهماته بناء على توصية من المحافظ. ولا يشارك أي من النائبين في مداولات القرار ولا في التصويت عليه.\n\n • يعين نائبا المحافظ بالمرتبة الممتازة بناءً على اقتراح من المحافظ،وتحديد مزاياهما بأمر ملكي.\n\n • يكلف المحافظ أحد النائبين ليحل محله عند غيابه.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب قرار مجلس الوزراء رقم (412) وتاريخ 1443/7/28هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "• يكون للمحافظ نائبان متفرغان يعاونانه في أداء مهماته ومسؤولياته. ويحدد المجلس بقرار منه اختصاصات كل منهما وصلاحياته ومهماته بناء على توصية من المحافظ. ولا يشارك أي من النائبين في مداولات القرار ولا في التصويت عليه.",
+          "text_for_index": "• يكون للمحافظ نائبان متفرغان يعاونانه في أداء مهماته ومسؤولياته. ويحدد المجلس بقرار منه اختصاصات كل منهما وصلاحياته ومهماته بناء على توصية من المحافظ. ولا يشارك أي من النائبين في مداولات القرار ولا في التصويت عليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-14::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "• يعين نائبا المحافظ بالمرتبة الممتازة بناءً على اقتراح من المحافظ،وتحديد مزاياهما بأمر ملكي.",
+          "text_for_index": "• يعين نائبا المحافظ بالمرتبة الممتازة بناءً على اقتراح من المحافظ،وتحديد مزاياهما بأمر ملكي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-14::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "• يكلف المحافظ أحد النائبين ليحل محله عند غيابه.",
+          "text_for_index": "• يكلف المحافظ أحد النائبين ليحل محله عند غيابه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الخامسة عشرة",
+      "text_verbatim": "لا يكون موظفو البنك عرضة لأي مساءلة أو مطالبة بسبب تأديتهم لمهماتهم وفقاً لأحكام النظام باستثناء حالات سوء النية أو الإخلال الجسيم.",
+      "text_for_index": "لا يكون موظفو البنك عرضة لأي مساءلة أو مطالبة بسبب تأديتهم لمهماتهم وفقاً لأحكام النظام باستثناء حالات سوء النية أو الإخلال الجسيم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا يكون موظفو البنك عرضة لأي مساءلة أو مطالبة بسبب تأديتهم لمهماتهم وفقاً لأحكام النظام باستثناء حالات سوء النية أو الإخلال الجسيم.",
+          "text_for_index": "لا يكون موظفو البنك عرضة لأي مساءلة أو مطالبة بسبب تأديتهم لمهماتهم وفقاً لأحكام النظام باستثناء حالات سوء النية أو الإخلال الجسيم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "تعارض المصالح ( المادة السادسة عشرة )",
+      "article_label_raw": "تعارض المصالح ( المادة السادسة عشرة )",
+      "article_heading": "تعارض المصالح ( المادة السادسة عشرة )",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة تعارض المصالح ( المادة السادسة عشرة )",
+      "text_verbatim": "• على عضو المجلس الإفصاح عن أي مصلحة تتعارض بشكل مباشر أو غير مباشر مع أدائه لمهماته وذلك قبل أول اجتماع للمجلس أو عند نشوء ذلك، ويحظر على العضو المشاركة في التصويت في الموضوعات التي تتعارض مع مصالحه.\n\n\t• على موظف البنك الإفصاح عن أي مصلحة مباشرة تتعارض مع أدائه لمهماته، ويحظر عليه في هذه الحالة المشاركة في اتخاذ القرارات أو الإجراءات أو إبداء الرأي حيال الموضوعات التي تتعارض مع مصالحه.",
+      "text_for_index": "• على عضو المجلس الإفصاح عن أي مصلحة تتعارض بشكل مباشر أو غير مباشر مع أدائه لمهماته وذلك قبل أول اجتماع للمجلس أو عند نشوء ذلك، ويحظر على العضو المشاركة في التصويت في الموضوعات التي تتعارض مع مصالحه.\n\n • على موظف البنك الإفصاح عن أي مصلحة مباشرة تتعارض مع أدائه لمهماته، ويحظر عليه في هذه الحالة المشاركة في اتخاذ القرارات أو الإجراءات أو إبداء الرأي حيال الموضوعات التي تتعارض مع مصالحه.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "• على عضو المجلس الإفصاح عن أي مصلحة تتعارض بشكل مباشر أو غير مباشر مع أدائه لمهماته وذلك قبل أول اجتماع للمجلس أو عند نشوء ذلك، ويحظر على العضو المشاركة في التصويت في الموضوعات التي تتعارض مع مصالحه.",
+          "text_for_index": "• على عضو المجلس الإفصاح عن أي مصلحة تتعارض بشكل مباشر أو غير مباشر مع أدائه لمهماته وذلك قبل أول اجتماع للمجلس أو عند نشوء ذلك، ويحظر على العضو المشاركة في التصويت في الموضوعات التي تتعارض مع مصالحه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• على موظف البنك الإفصاح عن أي مصلحة مباشرة تتعارض مع أدائه لمهماته، ويحظر عليه في هذه الحالة المشاركة في اتخاذ القرارات أو الإجراءات أو إبداء الرأي حيال الموضوعات التي تتعارض مع مصالحه.",
+          "text_for_index": "• على موظف البنك الإفصاح عن أي مصلحة مباشرة تتعارض مع أدائه لمهماته، ويحظر عليه في هذه الحالة المشاركة في اتخاذ القرارات أو الإجراءات أو إبداء الرأي حيال الموضوعات التي تتعارض مع مصالحه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة السابعة عشرة",
+      "text_verbatim": "البنك هو المسؤول الوحيد عن وضع السياسة النقدية وتنفيذها، واختيار أدواتها وإجراءاتها التشغيلية.",
+      "text_for_index": "البنك هو المسؤول الوحيد عن وضع السياسة النقدية وتنفيذها، واختيار أدواتها وإجراءاتها التشغيلية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "البنك هو المسؤول الوحيد عن وضع السياسة النقدية وتنفيذها، واختيار أدواتها وإجراءاتها التشغيلية.",
+          "text_for_index": "البنك هو المسؤول الوحيد عن وضع السياسة النقدية وتنفيذها، واختيار أدواتها وإجراءاتها التشغيلية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثامنة عشرة",
+      "text_verbatim": "• يتولى تدقيق حسابات البنك مراجع خارجي (أو أكثر) على أن يكون مؤهلاً تأهيلاً فنياً كافياً وذا خبرة بأعمال البنك ويكون مسؤولاً أمام المجلس عن أداء عمله ويرفع تقاريره إلى المجلس مباشرة.\n\n\t• يقتصر عمل مراجع الحسابات الخارجي على تدقيق حسابات البنك وقوائمه المالية، ولا يكون له التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته.\n\n\t• يكون لمراجع الحسابات الخارجي الحق في الاطلاع على دفاتر البنك وسجلاته ومستنداته، وأن يطلب البيانات كافة التي يرى ضرورة الحصول عليها لمباشرة أعماله وأداء واجباته. وفي حال عدم تمكنه من ذلك؛ يرفع بذلك تقريراً إلى المجلس.",
+      "text_for_index": "• يتولى تدقيق حسابات البنك مراجع خارجي (أو أكثر) على أن يكون مؤهلاً تأهيلاً فنياً كافياً وذا خبرة بأعمال البنك ويكون مسؤولاً أمام المجلس عن أداء عمله ويرفع تقاريره إلى المجلس مباشرة.\n\n • يقتصر عمل مراجع الحسابات الخارجي على تدقيق حسابات البنك وقوائمه المالية، ولا يكون له التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته.\n\n • يكون لمراجع الحسابات الخارجي الحق في الاطلاع على دفاتر البنك وسجلاته ومستنداته، وأن يطلب البيانات كافة التي يرى ضرورة الحصول عليها لمباشرة أعماله وأداء واجباته. وفي حال عدم تمكنه من ذلك؛ يرفع بذلك تقريراً إلى المجلس.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• يتولى تدقيق حسابات البنك مراجع خارجي (أو أكثر) على أن يكون مؤهلاً تأهيلاً فنياً كافياً وذا خبرة بأعمال البنك ويكون مسؤولاً أمام المجلس عن أداء عمله ويرفع تقاريره إلى المجلس مباشرة.",
+          "text_for_index": "• يتولى تدقيق حسابات البنك مراجع خارجي (أو أكثر) على أن يكون مؤهلاً تأهيلاً فنياً كافياً وذا خبرة بأعمال البنك ويكون مسؤولاً أمام المجلس عن أداء عمله ويرفع تقاريره إلى المجلس مباشرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• يقتصر عمل مراجع الحسابات الخارجي على تدقيق حسابات البنك وقوائمه المالية، ولا يكون له التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته.",
+          "text_for_index": "• يقتصر عمل مراجع الحسابات الخارجي على تدقيق حسابات البنك وقوائمه المالية، ولا يكون له التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-18::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "• يكون لمراجع الحسابات الخارجي الحق في الاطلاع على دفاتر البنك وسجلاته ومستنداته، وأن يطلب البيانات كافة التي يرى ضرورة الحصول عليها لمباشرة أعماله وأداء واجباته. وفي حال عدم تمكنه من ذلك؛ يرفع بذلك تقريراً إلى المجلس.",
+          "text_for_index": "• يكون لمراجع الحسابات الخارجي الحق في الاطلاع على دفاتر البنك وسجلاته ومستنداته، وأن يطلب البيانات كافة التي يرى ضرورة الحصول عليها لمباشرة أعماله وأداء واجباته. وفي حال عدم تمكنه من ذلك؛ يرفع بذلك تقريراً إلى المجلس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "property_neighbors"
+      ],
+      "topic_tags_ar": [
+        "الجوار والبناء"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة التاسعة عشرة",
+      "text_verbatim": "يقوم البنك بالنيابة عن الحكومة وبناءً على طلب من وزير المالية أو من يفوّضه بما يأتي:\n\n\t• فتح وتسوية ومتابعة الحسابات الجارية وتسجيل بيانات الإيرادات الحكومية.\n\n\t• حفظ الودائع والحسابات.\n\n\t• الإشراف على إصدار أو تنفيذ دفع الاعتمادات محلياً وخارجياً.",
+      "text_for_index": "يقوم البنك بالنيابة عن الحكومة وبناءً على طلب من وزير المالية أو من يفوّضه بما يأتي:\n\n • فتح وتسوية ومتابعة الحسابات الجارية وتسجيل بيانات الإيرادات الحكومية.\n\n • حفظ الودائع والحسابات.\n\n • الإشراف على إصدار أو تنفيذ دفع الاعتمادات محلياً وخارجياً.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يقوم البنك بالنيابة عن الحكومة وبناءً على طلب من وزير المالية أو من يفوّضه بما يأتي:",
+          "text_for_index": "يقوم البنك بالنيابة عن الحكومة وبناءً على طلب من وزير المالية أو من يفوّضه بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• فتح وتسوية ومتابعة الحسابات الجارية وتسجيل بيانات الإيرادات الحكومية.",
+          "text_for_index": "• فتح وتسوية ومتابعة الحسابات الجارية وتسجيل بيانات الإيرادات الحكومية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-19::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• حفظ الودائع والحسابات.",
+          "text_for_index": "• حفظ الودائع والحسابات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-19::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "• الإشراف على إصدار أو تنفيذ دفع الاعتمادات محلياً وخارجياً.",
+          "text_for_index": "• الإشراف على إصدار أو تنفيذ دفع الاعتمادات محلياً وخارجياً.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "labor",
+        "anti_money_laundering"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "مكافحة غسل الأموال"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة العشرون",
+      "text_verbatim": "للبنك - وفقاً لما تقتضيه طبيعة أعماله، وتحقيقاً لأهدافه وأداء مهماته - القيام بالآتي:\n\n\t• الدخول في اتفاقات ثنائية أو جماعية بشأن السياسات النقدية أو التنظيمية أو الرقابية، وفقاً للإجراءات النظامية.\n\n\t• إبرام الاتفاقات مع البنوك المركزية الأخرى، أو الجهات الرقابية والإشرافية الأجنبية المماثلة، أو المؤسسات والمنظمات والمجالس الدولية ذات الصلة بعمله، وفقاً للإجراءات النظامية.\n\n\t• التعاون والتنسيق مع الجهات الأجنبية النظيرة لغرض تبادل المعلومات أو الزيارات الإشرافية والرقابية ذات العلاقة بالمؤسسات المالية.\n\n\t• إجراء العمليات النقدية والمالية وفتح حسابات في البنوك المركزية الأخرى والمؤسسات النقدية والمالية المحلية والأجنبية والإقليمية والدولية.",
+      "text_for_index": "للبنك - وفقاً لما تقتضيه طبيعة أعماله، وتحقيقاً لأهدافه وأداء مهماته - القيام بالآتي:\n\n • الدخول في اتفاقات ثنائية أو جماعية بشأن السياسات النقدية أو التنظيمية أو الرقابية، وفقاً للإجراءات النظامية.\n\n • إبرام الاتفاقات مع البنوك المركزية الأخرى، أو الجهات الرقابية والإشرافية الأجنبية المماثلة، أو المؤسسات والمنظمات والمجالس الدولية ذات الصلة بعمله، وفقاً للإجراءات النظامية.\n\n • التعاون والتنسيق مع الجهات الأجنبية النظيرة لغرض تبادل المعلومات أو الزيارات الإشرافية والرقابية ذات العلاقة بالمؤسسات المالية.\n\n • إجراء العمليات النقدية والمالية وفتح حسابات في البنوك المركزية الأخرى والمؤسسات النقدية والمالية المحلية والأجنبية والإقليمية والدولية.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للبنك - وفقاً لما تقتضيه طبيعة أعماله، وتحقيقاً لأهدافه وأداء مهماته - القيام بالآتي:",
+          "text_for_index": "للبنك - وفقاً لما تقتضيه طبيعة أعماله، وتحقيقاً لأهدافه وأداء مهماته - القيام بالآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-20::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الدخول في اتفاقات ثنائية أو جماعية بشأن السياسات النقدية أو التنظيمية أو الرقابية، وفقاً للإجراءات النظامية.",
+          "text_for_index": "• الدخول في اتفاقات ثنائية أو جماعية بشأن السياسات النقدية أو التنظيمية أو الرقابية، وفقاً للإجراءات النظامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-20::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إبرام الاتفاقات مع البنوك المركزية الأخرى، أو الجهات الرقابية والإشرافية الأجنبية المماثلة، أو المؤسسات والمنظمات والمجالس الدولية ذات الصلة بعمله، وفقاً للإجراءات النظامية.",
+          "text_for_index": "• إبرام الاتفاقات مع البنوك المركزية الأخرى، أو الجهات الرقابية والإشرافية الأجنبية المماثلة، أو المؤسسات والمنظمات والمجالس الدولية ذات الصلة بعمله، وفقاً للإجراءات النظامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-20::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• التعاون والتنسيق مع الجهات الأجنبية النظيرة لغرض تبادل المعلومات أو الزيارات الإشرافية والرقابية ذات العلاقة بالمؤسسات المالية.",
+          "text_for_index": "• التعاون والتنسيق مع الجهات الأجنبية النظيرة لغرض تبادل المعلومات أو الزيارات الإشرافية والرقابية ذات العلاقة بالمؤسسات المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-20::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إجراء العمليات النقدية والمالية وفتح حسابات في البنوك المركزية الأخرى والمؤسسات النقدية والمالية المحلية والأجنبية والإقليمية والدولية.",
+          "text_for_index": "• إجراء العمليات النقدية والمالية وفتح حسابات في البنوك المركزية الأخرى والمؤسسات النقدية والمالية المحلية والأجنبية والإقليمية والدولية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الحادية والعشرون",
+      "text_verbatim": "يُعنى البنك عند تواصله مع الجهات الرقابية والإشرافية الأجنبية المماثلة والمنظمات الدولية ذات الصلة؛ بما يأتي:\n\n\t• المحافظة على تطوير العلاقات وتعزيز سبل التواصل مع تلك الجهات والمنظمات من خلال تنسيق الزيارات وتبادلها، وعقد الاجتماعات وجلسات العمل وحضورها.\n\n\t• متابعة ما يصدر من التقارير والمعلومات من تلك الجهات والمنظمات.",
+      "text_for_index": "يُعنى البنك عند تواصله مع الجهات الرقابية والإشرافية الأجنبية المماثلة والمنظمات الدولية ذات الصلة؛ بما يأتي:\n\n • المحافظة على تطوير العلاقات وتعزيز سبل التواصل مع تلك الجهات والمنظمات من خلال تنسيق الزيارات وتبادلها، وعقد الاجتماعات وجلسات العمل وحضورها.\n\n • متابعة ما يصدر من التقارير والمعلومات من تلك الجهات والمنظمات.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يُعنى البنك عند تواصله مع الجهات الرقابية والإشرافية الأجنبية المماثلة والمنظمات الدولية ذات الصلة؛ بما يأتي:",
+          "text_for_index": "يُعنى البنك عند تواصله مع الجهات الرقابية والإشرافية الأجنبية المماثلة والمنظمات الدولية ذات الصلة؛ بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-21::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• المحافظة على تطوير العلاقات وتعزيز سبل التواصل مع تلك الجهات والمنظمات من خلال تنسيق الزيارات وتبادلها، وعقد الاجتماعات وجلسات العمل وحضورها.",
+          "text_for_index": "• المحافظة على تطوير العلاقات وتعزيز سبل التواصل مع تلك الجهات والمنظمات من خلال تنسيق الزيارات وتبادلها، وعقد الاجتماعات وجلسات العمل وحضورها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-21::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• متابعة ما يصدر من التقارير والمعلومات من تلك الجهات والمنظمات.",
+          "text_for_index": "• متابعة ما يصدر من التقارير والمعلومات من تلك الجهات والمنظمات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثانية والعشرون",
+      "text_verbatim": "• للبنك إبرام العقود والاتفاقيات باللغة العربية أو بغيرها من اللغات وفق ما تقتضيه حاجة العمل ومصلحة البنك.\n\n\t• لا يخضـع البنك في قيامـه بتنفيذ أعمالـه وتأمين مشترياته لأحـكام نظام المنافسـات والمشتـريات الحكوميـة، ويخضـع في ذلك لما يصـدره المجلـس من لـوائح وسياسات، على أن تكـون هذه اللوائح والسيـاسـات متفقة مع الأهداف والمبادئ الأساسيـة لنظام المنـافسات والمشتـريات الحكومية.\n\n\t• تخضع عقود البنك واتفاقياته لما يقره المجلس من سياسات، ويجوز استثناءً في الحالات التي تقتضيها مصلحة البنك؛ أن ينص على إخضاع عقوده واتفاقياته لقوانين أجنبية وذلك وفق السياسات الصادرة من المجلس. ويجوز في تلك الحالات تضمين العقود والاتفاقيات أحكاماً تخضع بمقتضاها لاختصاص محاكم أجنبية أو ينص فيها على اللجوء إلى التحكيم للبت في المنازعات التي قد تنشأ حيالها.",
+      "text_for_index": "• للبنك إبرام العقود والاتفاقيات باللغة العربية أو بغيرها من اللغات وفق ما تقتضيه حاجة العمل ومصلحة البنك.\n\n • لا يخضـع البنك في قيامـه بتنفيذ أعمالـه وتأمين مشترياته لأحـكام نظام المنافسـات والمشتـريات الحكوميـة، ويخضـع في ذلك لما يصـدره المجلـس من لـوائح وسياسات، على أن تكـون هذه اللوائح والسيـاسـات متفقة مع الأهداف والمبادئ الأساسيـة لنظام المنـافسات والمشتـريات الحكومية.\n\n • تخضع عقود البنك واتفاقياته لما يقره المجلس من سياسات، ويجوز استثناءً في الحالات التي تقتضيها مصلحة البنك؛ أن ينص على إخضاع عقوده واتفاقياته لقوانين أجنبية وذلك وفق السياسات الصادرة من المجلس. ويجوز في تلك الحالات تضمين العقود والاتفاقيات أحكاماً تخضع بمقتضاها لاختصاص محاكم أجنبية أو ينص فيها على اللجوء إلى التحكيم للبت في المنازعات التي قد تنشأ حيالها.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• للبنك إبرام العقود والاتفاقيات باللغة العربية أو بغيرها من اللغات وفق ما تقتضيه حاجة العمل ومصلحة البنك.",
+          "text_for_index": "• للبنك إبرام العقود والاتفاقيات باللغة العربية أو بغيرها من اللغات وفق ما تقتضيه حاجة العمل ومصلحة البنك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "• لا يخضـع البنك في قيامـه بتنفيذ أعمالـه وتأمين مشترياته لأحـكام نظام المنافسـات والمشتـريات الحكوميـة، ويخضـع في ذلك لما يصـدره المجلـس من لـوائح وسياسات، على أن تكـون هذه اللوائح والسيـاسـات متفقة مع الأهداف والمبادئ الأساسيـة لنظام المنـافسات والمشتـريات الحكومية.",
+          "text_for_index": "• لا يخضـع البنك في قيامـه بتنفيذ أعمالـه وتأمين مشترياته لأحـكام نظام المنافسـات والمشتـريات الحكوميـة، ويخضـع في ذلك لما يصـدره المجلـس من لـوائح وسياسات، على أن تكـون هذه اللوائح والسيـاسـات متفقة مع الأهداف والمبادئ الأساسيـة لنظام المنـافسات والمشتـريات الحكومية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-22::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "• تخضع عقود البنك واتفاقياته لما يقره المجلس من سياسات، ويجوز استثناءً في الحالات التي تقتضيها مصلحة البنك؛ أن ينص على إخضاع عقوده واتفاقياته لقوانين أجنبية وذلك وفق السياسات الصادرة من المجلس. ويجوز في تلك الحالات تضمين العقود والاتفاقيات أحكاماً تخضع بمقتضاها لاختصاص محاكم أجنبية أو ينص فيها على اللجوء إلى التحكيم للبت في المنازعات التي قد تنشأ حيالها.",
+          "text_for_index": "• تخضع عقود البنك واتفاقياته لما يقره المجلس من سياسات، ويجوز استثناءً في الحالات التي تقتضيها مصلحة البنك؛ أن ينص على إخضاع عقوده واتفاقياته لقوانين أجنبية وذلك وفق السياسات الصادرة من المجلس. ويجوز في تلك الحالات تضمين العقود والاتفاقيات أحكاماً تخضع بمقتضاها لاختصاص محاكم أجنبية أو ينص فيها على اللجوء إلى التحكيم للبت في المنازعات التي قد تنشأ حيالها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "anti_money_laundering"
+      ],
+      "topic_tags_ar": [
+        "مكافحة غسل الأموال"
+      ],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الثالثة والعشرون",
+      "text_verbatim": "يحظـر على أعضـاء المجلس وموظفـي البنك ومراجعي حساباته الخارجيين ووكلائه إفشاء أي بيانات أو معلومات تتعلق بشؤون البنك أو بشؤون المؤسسات المالية سواء أثناء عملهم أو بعد تركهم للعمل.",
+      "text_for_index": "يحظـر على أعضـاء المجلس وموظفـي البنك ومراجعي حساباته الخارجيين ووكلائه إفشاء أي بيانات أو معلومات تتعلق بشؤون البنك أو بشؤون المؤسسات المالية سواء أثناء عملهم أو بعد تركهم للعمل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحظـر على أعضـاء المجلس وموظفـي البنك ومراجعي حساباته الخارجيين ووكلائه إفشاء أي بيانات أو معلومات تتعلق بشؤون البنك أو بشؤون المؤسسات المالية سواء أثناء عملهم أو بعد تركهم للعمل.",
+          "text_for_index": "يحظـر على أعضـاء المجلس وموظفـي البنك ومراجعي حساباته الخارجيين ووكلائه إفشاء أي بيانات أو معلومات تتعلق بشؤون البنك أو بشؤون المؤسسات المالية سواء أثناء عملهم أو بعد تركهم للعمل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الرابعة والعشرون",
+      "text_verbatim": "لا يجوز التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته أو فرض الرقابة عليه أو تدقيق حساباته أو على ما يبرمه من عقود أو اتفاقيات.",
+      "text_for_index": "لا يجوز التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته أو فرض الرقابة عليه أو تدقيق حساباته أو على ما يبرمه من عقود أو اتفاقيات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته أو فرض الرقابة عليه أو تدقيق حساباته أو على ما يبرمه من عقود أو اتفاقيات.",
+          "text_for_index": "لا يجوز التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته أو فرض الرقابة عليه أو تدقيق حساباته أو على ما يبرمه من عقود أو اتفاقيات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة الخامسة والعشرون",
+      "text_verbatim": "يقدم البنك إلى الملك تقريراً يشمل أحدث التطورات المالية والاقتصادية في المملكة وتقرير مراجعي الحسابات الخارجيين للبنك وذلك للسنة المالية المنصرمة، ويزود وزير المالية بنسخة منه. وتنشر نسخة من ذلك التقرير في التوقيت والوسيلة المناسبين.",
+      "text_for_index": "يقدم البنك إلى الملك تقريراً يشمل أحدث التطورات المالية والاقتصادية في المملكة وتقرير مراجعي الحسابات الخارجيين للبنك وذلك للسنة المالية المنصرمة، ويزود وزير المالية بنسخة منه. وتنشر نسخة من ذلك التقرير في التوقيت والوسيلة المناسبين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يقدم البنك إلى الملك تقريراً يشمل أحدث التطورات المالية والاقتصادية في المملكة وتقرير مراجعي الحسابات الخارجيين للبنك وذلك للسنة المالية المنصرمة، ويزود وزير المالية بنسخة منه. وتنشر نسخة من ذلك التقرير في التوقيت والوسيلة المناسبين.",
+          "text_for_index": "يقدم البنك إلى الملك تقريراً يشمل أحدث التطورات المالية والاقتصادية في المملكة وتقرير مراجعي الحسابات الخارجيين للبنك وذلك للسنة المالية المنصرمة، ويزود وزير المالية بنسخة منه. وتنشر نسخة من ذلك التقرير في التوقيت والوسيلة المناسبين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة السادسة والعشرون",
+      "text_verbatim": "يحل النظام محل نظام مؤسسة النقد العربي السعودي الصادر بالمرسوم الملكي رقم (23) وتاريخ 23-5-1377هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يحل النظام محل نظام مؤسسة النقد العربي السعودي الصادر بالمرسوم الملكي رقم (23) وتاريخ 23-5-1377هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل النظام محل نظام مؤسسة النقد العربي السعودي الصادر بالمرسوم الملكي رقم (23) وتاريخ 23-5-1377هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يحل النظام محل نظام مؤسسة النقد العربي السعودي الصادر بالمرسوم الملكي رقم (23) وتاريخ 23-5-1377هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البنك المركزي السعودي، المادة السابعة والعشرون",
+      "text_verbatim": "يُعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يُعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albnk-almrkzy-alsawdy::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يُعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يُعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

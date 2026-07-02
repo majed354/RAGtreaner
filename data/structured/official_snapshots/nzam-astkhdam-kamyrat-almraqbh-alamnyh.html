@@ -1,0 +1,955 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "0875378be284e00043b0fa129e26d6091ac7b82e82c6cf39e3cd04d9656c11ee0e3fb323637f84a9a63e53fd57a122a6986c4ff9668822406b568f9ef3f5b7bc2e6bc24da5f91dd98df4ea40e3ae60444a6986606f9f09647ca2e1852dde2ec83a24096b55184af07f95adaa4822417b39f574ca4a01d864a14f6926366e0d50f036e1a4c816781b237577a7a5edb09940f7dd8ff0aa06cb607cacaa506e6dcc34981f497ccc8ecdd958b4f016242762ab2c79fb536006ae43fd26ce201e7c3e27d8642a7997c7a79c6aaca6becccb5754f0b19b06bf27343dbb00ce03ec773422350653d62317b1";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام استخدام كاميرات المراقبة الأمنية
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام استخدام كاميرات المراقبة الأمنية</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الأمن الداخلي والأحوال المدنية والأنظمة الجنائية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام استخدام كاميرات المراقبة الأمنية</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام استخدام كاميرات المراقبة الأمنية</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>266482</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="f3a44a6f-9217-478b-b7ca-af3401391514">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>نبذة الوثيقة:</strong><br />
+تضمن النظام: تعريفات، ما تطبق عليه أحكام النظام، الترخيص للخاضعين لأحكام النظام، التزامات الخاضعين لأحكام النظام، نشاط تصنيع أو استيراد كاميرات المراقبة، الأماكن التي يحضر تركيب الكاميرات الأمنية داخلها، مشاهدة بث وتسجيلات الكاميرات، تطوير أنظمة المعالجة والتحليل، ضبط مخالفات أحكام النظام، النظر في المخالفات، العقوبات، إعداد وثيقة الشروط، إصدار اللائحة، نفاذ النظام بعد (180) يوماً من تاريخ نشره.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام استخدام كاميرات المراقبة الأمنية</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1444/03/07 هـ  الموافق : 03/10/2022 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1444/03/11  هـ الموافق : 07/10/2022 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/abc2a15a-ad44-4215-be7d-af340139151d?lawId=f3a44a6f-9217-478b-b7ca-af3401391514">مرسوم ملكي رقم (م/34) وتاريخ 1444/3/7هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/f0ef59c1-3398-4b3d-bda4-af340139153e?lawId=f3a44a6f-9217-478b-b7ca-af3401391514">قرار مجلس الوزراء رقم (164) وتاريخ 1444/3/1هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="f3a44a6f-9217-478b-b7ca-af3401391514" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/9459f2a4-bf6b-4987-b1a4-af340139155f?lawId=f3a44a6f-9217-478b-b7ca-af3401391514" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="f3a44a6f-9217-478b-b7ca-af3401391514">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="f3a44a6f-9217-478b-b7ca-af3401391514" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام استخدام كاميرات المراقبة الأمنية</h3>
+        <h3 class="center">1444 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/34) وتاريخ 1444/3/7هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالى<br />
+&nbsp; نحن سلمان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp;ملك المملكة العربية السعودية</strong><br />
+بناء على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناء على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناء على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قراري مجلس الشورى: رقم (341 / 48) بتاريخ 20 / 12 / 1443هـ، ورقم (362 / 50) بتاريخ 23 / 2 / 1444هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (164) بتاريخ 1 / 3 / 1444هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p><strong>أولاً:</strong> الموافقة على نظام استخدام كاميرات المراقبة الأمنية، بالصيغة المرافقة. &nbsp;<br />
+<strong>ثانياً:</strong> قيام وزارة الداخلية -بالاشتراك مع رئاسة أمن الدولة والهيئة السعودية للبيانات والذكاء الاصطناعي والجهات الأخرى ذات العلاقة- بوضع خطة زمنية لتحديد مواعيد إلزام كل فئة مشمولة بأحكام النظام -المشار إليه في البند (أولاً) من هذا المرسوم- بتركيب كاميرات وأجهزة المراقبة الأمنية والالتزام بأحكام النظام.<br />
+<strong>ثالثاً:</strong> على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخُصُّه- تنفيذ مرسوم<strong>نا </strong>هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (164) وتاريخ 1444/3/1هـ</h4>
+            <p><p><strong>إن مجلس الوزراء</strong><br />
+<strong>بعد الاطلاع </strong>في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم 13736 وتاريخ 25 / 2 / 1444هـ، المشتملة على برقية صاحب السمو الملكي وزير الداخلية رقم 130475 وتاريخ 18 / 6 / 1442هـ، في شأن مشروع نظام استخدام كاميرات المراقبة الأمنية.<br />
+<strong>وبعد الاطلاع</strong> على مشروع النظام، المشار إليه.&nbsp;<br />
+<strong>وبعد الاطلاع </strong>على الأمر السامي رقم (59766) وتاريخ 20 / 11 / 1439هـ.<br />
+<strong>وبعد الاطلاع</strong> على المذكرات رقم (1221) وتاريخ 23 / 7 / 1442هـ، ورقم (1355) وتاريخ 16 / 6 / 1443هـ، ورقم (2391) وتاريخ 25 / 10 / 1443هـ، ورقم (2718) وتاريخ 29 / 11 / 1443هـ، ورقم (2878) وتاريخ 25 / 12 / 1443هـ، ورقم (647) وتاريخ 29 / 2 / 1444ه، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع</strong> على المحضر المعد في مجلس الشؤون الاقتصادية والتنمية رقم (984 / 43 / م) وتاريخ 5 / 11 / 1443هـ.<br />
+<strong>وبعد الاطلاع</strong> على محضر مجلس الشؤون السياسية والأمنية رقم(م س ت / 55 - 11 / 43) وتاريخ 16 / 11 / 1443هـ.<br />
+<strong>وبعد النظر</strong> في قراري مجلس الشورى رقم (341 / 48) وتاريخ 20 / 12 / 1443هـ، ورقم (362 / 50) وتاريخ 23 / 2 / 1444هـ.<br />
+<strong>وبعد الاطلاع</strong> على توصية اللجنة العامة لمجلس الوزراء رقم (1995) وتاريخ 29 / 2 / 1444هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p><strong>أولاً: </strong>الموافقة على نظام استخدام كاميرات المراقبة الأمنية، بالصيغة المرافقة. &nbsp;<br />
+<strong>ثانياً: </strong>قيام وزارة الداخلية -بالاشتراك مع رئاسة أمن الدولة والهيئة السعودية للبيانات والذكاء الاصطناعي والجهات الأخرى ذات العلاقة- بوضع خطة زمنية لتحديد مواعيد إلزام كل فئة مشمولة بأحكام النظام -المشار إليه في البند (أولاً) من هذا القرار- بتركيب كاميرات وأجهزة المراقبة الأمنية والالتزام بأحكام النظام.<br />
+<strong>وقد أُعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</strong></p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام استخدام كاميرات المراقبة الأمنية</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها، ما لم يقتض السياق غير ذلك:<br />
+النظام</strong>: نظام استخدام كاميرات المراقبة الأمنية.<br />
+<strong>اللائحة</strong>: اللائحة التنفيذية للنظام.<br />
+<strong>الوزارة</strong>: وزارة الداخلية.<br />
+<strong>الوزير</strong>: وزير الداخلية.<br />
+<strong>اللجنة</strong>: لجنة النظر في مخالفات النظام.<br />
+<strong>كاميرات المراقبة الأمنية</strong>: أجهزة ثابتة أو متحركة، معدة لالتقاط الصور المتحركة وفقاً لأحكام النظام، ولا تشمل الكاميرات التي يضعها الأفراد داخل الوحدات والمجمعات السكنية الخاصة.<br />
+<strong>أنظمة كاميرات المراقبة الأمنية</strong>: أنظمة متصلة بأجهزة أنظمة كاميرات المراقبة الأمنية لغرض المراقبة والتخزين وتحليل بث الكاميرات.&nbsp;<br />
+<strong>أجهزة أنظمة كاميرات المراقبة الأمنية</strong>: الكاميرات والخوادم ووسائط التخزين المرتبطة بأنظمة كاميرات المراقبة الأمنية.<br />
+<strong>وسائط التخزين</strong>: أوعية تستخدم لحفظ المعلومات أو نقلها ومن ثم استرجاعها عند الحاجة إليها، ومنها: القرص الصلب، والذاكرة المتنقلة، والأقراص الممغنطة، والتوصيلات، والخوادم.<br />
+<strong>التسجيلات</strong>: الصور المتحركة التي تلتقطها كاميرات المراقبة الأمنية وتحفظ في وسائط التخزين.<br />
+<strong>غرف العمليات</strong>: غرف المراقبة والتحكم في الوزارة ورئاسة أمن الدولة، المرتبطة بأنظمة مركز المعلومات الوطني.<br />
+<strong>وثيقة الشروط</strong>: وثيقة الشروط والمتطلبات الأمنية لتركيب نظام المراقبة والمواصفات الفنية العامة لأجهزة أنظمة كاميرات المراقبة الأمنية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p><strong>تطبق أحكام النظام على الآتي:</strong></p>
+
+<ol>
+	<li>الوزارات والهيئات والمؤسسات العامة.</li>
+	<li>المنشآت النفطية والبتروكيميائية.</li>
+	<li>منشآت توليد الطاقة وتحلية المياه.</li>
+	<li>مرافق الإيواء السياحي.</li>
+	<li>المجمعات التجارية ومراكز التسوق.</li>
+	<li>المؤسسات المالية والبنوك ومراكز الصرافة وتحويل الأموال.</li>
+	<li>المباني السكنية بما في ذلك المجمعات والعمائر السكنية، وفق وثيقة الشروط وما تحدده اللائحة وما نصت عليه الأحكام الواردة في النظام.</li>
+	<li>المسجد الحرام والمسجد النبوي، والمشاعر المقدسة. &nbsp;</li>
+	<li>المساجد والجوامع.</li>
+	<li>الأندية والمنشآت والملاعب الرياضية، والمنشآت العامة والخاصة الثقافية ومراكز الشباب.</li>
+	<li>المنشآت الترفيهية العامة والخاصة.</li>
+	<li>المنشآت الصحية العامة والخاصة، وتشمل: المدن الطبية والمستشفيات والعيادات.</li>
+	<li>المستودعات التجارية.</li>
+	<li>الطرق الرئيسية وتقاطعاتها داخل المدن.</li>
+	<li>الطرق السريعة التي تربط المدن والمحافظات.</li>
+	<li>محطات التزود بالوقود، وأماكن بيع الغاز.</li>
+	<li>المنشآت التعليمية العامة والخاصة.&nbsp;</li>
+	<li>المنشآت التي تقدم خدمات غذائية.</li>
+	<li>وسائل النقل العام.</li>
+	<li>أماكن إقامة الفعاليات والمهرجانات.&nbsp;</li>
+	<li>أماكن الأنشطة الاقتصادية والتجارية.&nbsp;</li>
+	<li>المتاحف العامة والخاصة والمواقع التاريخية والتراثية المعدة لاستقبال الزوار.</li>
+	<li>أي موقع أو نشاط أو مرفق، ترى الوزارة إضافته.<br />
+	وتحدد اللائحة أماكن وضع كاميرات المراقبة الأمنية وضوابط المحافظة على أجهزة أنظمتها بما يراعي خصوصية الأفراد وما تنص عليه أحكام النظام.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز للجهة الحكومية المختصة أن تُرخص للخاضعين لأحكام النظام بممارسة نشاط ما أو تُجدد ترخيص ممارسة ذلك النشاط؛ إلا بعد استيفاء متطلبات تركيب أجهزة أنظمة كاميرات المراقبة الأمنية المحددة في وثيقة الشروط.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يجب على الخاضعين لأحكام النظام تركيب أجهزة أنظمة كاميرات المراقبة الأمنية وصيانتها، وتشغيلها على مدار الساعة.</li>
+	<li>يجب على الخاضعين لأحكام النظام الاحتفاظ بالتسجيلات بحسب المدة المنصوص عليها في وثيقة الشروط، وأن يبقى التسجيل محفوظاً ولا يجرى عليه أي تعديل في حال كان هناك بلاغ عن حادث معين إلى حين انتهاء إجراءات التحقيق، ويجب تسليمه إلى الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- عند طلبه.</li>
+	<li>تصنف الوزارة الخاضعين لأحكام النظام وفقاً للآتي:&nbsp;<br />
+	أ- جهات أو مرافق أو ممتلكات عالية الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر الشبكات الآمنة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.&nbsp;<br />
+	ب- جهات أو مرافق أو ممتلكات متوسطة الحساسية. ويجب عليها ربط أنظمة كاميرات المراقبة الأمنية -الخاصة بها- بشكل مباشر بغرف العمليات عبر شبكات الاتصال المفتوحة وفق وثيقة الشروط؛ بحسب الحاجة الأمنية.&nbsp;<br />
+	ج- جهات أو مرافق أو ممتلكات منخفضة الحساسية، ولا يتطلب ربطها بغرف العمليات.</li>
+	<li>تستثنى الجهات الحكومية الأمنية والعسكرية ووزارة الخارجية والمباني السكنية بما في ذلك المجمعات والعمائر السكنية من الربط بغرف العمليات المشار إليه في الفقرة (3) من هذه المادة.&nbsp;</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <p>لا تجوز ممارسة نشاط تصنيع أو استيراد كاميرات المراقبة الأمنية -المنصوص عليها في النظام- أو بيعها أو تركيبها أو تشغيلها أو صيانتها، إلا بعد أخذ الموافقات اللازمة من الوزارة، وفق الإجراءات التي تحددها اللائحة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يحظر تركيب كاميرات المراقبة الأمنية داخل الأماكن الآتية للفئات المشمولة بأحكام النظام:<br />
+	أ- غرف: (الكشف الطبي والتنويم، والعلاج الطبيعي، وتبديل الملابس)، ودورات المياه، والصالونات والأندية النسائية، والوحدة السكنية في مرفق الإيواء السياحي. &nbsp;<br />
+	ب- غرف إجراء العمليات الطبية والأماكن الخاصة. وتحدد اللائحة الفئات المشمولة بهذه الفقرة.<br />
+	ج- ما تحدده اللائحة من أماكن أخرى وفق أحكام النظام.</li>
+	<li>يجب أن يوضع في الأماكن المشمولة بأحكام النظام لوحة أو لوحات ظاهرة، تبين أنها مجهزة بكاميرات المراقبة الأمنية. وتحدد اللائحة مواصفاتها وعددها وأماكن وضعها.</li>
+	<li>يحظر نقل التسجيلات أو نشرها إلا بموافقة الوزارة أو رئاسة أمن الدولة -بحسب الأحوال- أو بناءً على أمر قضائي، أو بطلب من جهة التحقيق المختصة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <p>للوزارة أو رئاسة أمن الدولة -بحسب الأحوال- مشاهدة بث وتسجيلات كاميرات المراقبة الأمنية، والاحتفاظ بنسخة منها ومعالجة وتحليل بياناتها في حال كان هناك ضرورة ولأسباب تتعلق بالأمن، بما لا يتعارض مع الأنظمة ذات العلاقة، وتقديمها للمحكمة المختصة، وجهة التحقيق المختصة، إذا طلب منها ذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;تتولى الهيئة السعودية للبيانات والذكاء الاصطناعي -باستخدام تقنيات البيانات والذكاء الاصطناعي- تطوير أنظمة معالجة وتحليل بث وتسجيلات كاميرات المراقبة الأمنية، وتمكين الوزارة ورئاسة أمن الدولة -بحسب الأحوال- من استخدامها والاستفادة منها وفقاً للأنظمة ذات الصلة؛ وذلك بما لا يتعارض مع الأنظمة ذات العلاقة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>تضبط مخالفات أحكام النظام وتثبت في محاضر وفق الإجراءات التي تحددها اللائحة.&nbsp;</li>
+	<li>يتولى موظفون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام. وتحدد اللائحة إجراءات عملهم وفقاً لأحكام النظام.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز للوزارة إسناد مهمات ضبط بعض مخالفات أحكام النظام -عدا المخالفات ذات الطابع الأمني- إلى القطاع الخاص؛ وذلك وفقاً للإجراءات النظامية ذات الصلة.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تكوّن بقرار من الوزير، لجنة (أو أكثر) في كل منطقة، من ثلاثة أعضاء، يحمل أحدهم مؤهلاً شرعيّاً أو نظاميّاً؛ للنظر في المخالفات المنصوص عليها في النظام وتقرير العقوبة المناسبة، وفق ما ورد في المادة (الثانية عشرة) من النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل شخص ذي صفة طبيعية أو اعتبارية خاصة -خاضع لأحكام النظام- يخالف أي حكم من أحكام النظام وفقاً للآتي:<br />
+	أ- غرامة مقدارها (خمسمائة) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، مخالف للمواصفات الفنية المبينة في وثيقة الشروط.<br />
+	ب- غرامة مقدارها (ألف) ريال عن كل كاميرا من كاميرات المراقبة الأمنية، وعن كل جهاز من أجهزة أنظمة مراقبة الكاميرات الأمنية، لم يُركب وفق ما حدد في وثيقة الشروط.<br />
+	ج- غرامة مقدارها (ألف) ريال عن كل مخالفة لأحكام الفقرة (2) من المادة (السادسة) من النظام.<br />
+	د- غرامة مقدارها (خمسة آلاف) ريال عن مخالفة عدم الاحتفاظ بالتسجيلات وفق ما ورد بالفقرة (2) من المادة (الرابعة) من النظام.<br />
+	هـ- غرامة مقدارها (عشرة آلاف) ريال عن كل مخالفة لحكم الفقرة (1) من المادة (السادسة) من النظام.<br />
+	و- غرامة مقدارها (عشرون ألف) ريال على كل من يقوم بنقل التسجيلات أو نشرها بالمخالفة لأحكام النظام، أو إتلاف أو تخريب أجهزة أنظمة كاميرات المراقبة الأمنية أو التسجيلات.</li>
+	<li>يصدر بقرار من الوزير جدول تحدَّد فيه المخالفات التي يُلزم فيها المخالف -خلال مدة محددة- بإزالة محل المخالفة، على أن يراعى أنه في حال انتهاء المدة المحددة دون أن يقوم بما ألزم به فتحتسب عليه مخالفة جديدة.&nbsp;</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (ستين) يومًا من تاريخ إبلاغه بالقرار.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>على الخاضعين لأحكام النظام الالتزام بما يأتي:&nbsp;</strong></p>
+
+<ol>
+	<li>الشروط والمتطلبات الأمنية والمواصفات الفنية الواردة في وثيقة الشروط. وتلتزم الجهات الخاضعة لإشراف الهيئة العليا للأمن الصناعي -بالإضافة إلى الأحكام الواردة في النظام ووثيقة الشروط- بالمواصفات الأمنية الصادرة عن الهيئة.</li>
+	<li>إدارة واستخدام الأنظمة المرتبطة بأجهزة أنظمة كاميرات المراقبة، وذلك بتطبيق ما يصدر عن الهيئة الوطنية للأمن السيبراني وما تنص عليه وثيقة الشروط.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>للوزير -أو من يفوضه- أن يمنح -وفقاً لضوابط وشروط يضعها الوزير- من يساعد في الكشف عن أي مخالفة لأحكام النظام مكافأةً ماليةً تشجيعية لا تزيد على (%10) من مبلغ الغرامة المحصلة من المخالفة؛ بشرط ألا يكون من موظفي الوزارة أو من المستعان بهم لضبط المخالفات أو أداء مهمات الرقابة أو التفتيش.<br />
+&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تتولى الوزارة -بالاشتراك مع وزارة الاتصالات وتقنية المعلومات، ورئاسة أمن الدولة، والهيئة الوطنية للأمن السيبراني، والهيئة السعودية للبيانات والذكاء الاصطناعي، والهيئة السعودية للمواصفات والمقاييس والجودة، والجهات الأخرى ذات العلاقة- إعداد وثيقة الشروط، واقتراح ما قد تتطلبه -بحسب الاقتضاء- من تعديلات.<br />
+وتصدر الوثيقة بقرار من الوزير خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل به.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يعمل بالنظام بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="f3a44a6f-9217-478b-b7ca-af3401391514" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="91937d87-b947-4a68-b885-af34013b2f58">المادة الأولى </option>
+<option value="ecb80520-6574-486e-8727-af34013c2915">المادة الثانية </option>
+<option value="a1eb94e2-c8f7-44a0-92fe-af34013c5ca9">المادة الثالثة </option>
+<option value="a059d8e8-35e3-404a-8bed-af34013cc762">المادة الرابعة </option>
+<option value="09405071-b694-4c0d-89b7-af34013ce6b5">المادة الخامسة </option>
+<option value="25d97721-e768-47cb-915c-af34013d2dd1">المادة السادسة </option>
+<option value="bedf2504-1644-4516-8701-af34013d4989">المادة السابعة </option>
+<option value="4ed1d7bd-06a6-4a77-8c3e-af34013d5ce8">المادة الثامنة </option>
+<option value="1b40632f-e606-485d-8881-af34013d81cc">المادة التاسعة </option>
+<option value="01f5781c-d9f5-4416-9390-af34013d9681">المادة العاشرة </option>
+<option value="5a38e607-b6a9-4f53-ac00-af34013da86b">المادة الحادية عشرة </option>
+<option value="7e528e54-8b42-4e3f-ab5e-af34013de857">المادة الثانية عشرة </option>
+<option value="4782c7ce-200e-464d-9d77-af34013e49c5">المادة الثالثة عشرة </option>
+<option value="fd4d6f40-4599-45c7-b652-af34013e7a60">المادة الرابعة عشرة </option>
+<option value="5ea4c06a-38fc-48ee-9dbb-af34013e9ffa">المادة الخامسة عشرة </option>
+<option value="c6735886-d2da-465c-91fe-af34013ec69e">المادة السادسة عشرة </option>
+<option value="3a057ab2-8e8d-4f9a-9285-af34013edf30">المادة السابعة عشرة </option>
+<option value="5975d90f-a6b1-4d33-9167-af34013ef564">المادة الثامنة عشرة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaXSPW' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaXSPW' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaXSPW = new CaptchaWidget('divCaptchaContainer_captchaXSPW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaXSPW.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptionf3a44a6f-9217-478b-b7ca-af3401391514" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="f3a44a6f-9217-478b-b7ca-af3401391514" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaIJ7G' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaIJ7G' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-f3a44a6f-9217-478b-b7ca-af3401391514">
+                    <input type="checkbox" id="agreement-f3a44a6f-9217-478b-b7ca-af3401391514" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='f3a44a6f-9217-478b-b7ca-af3401391514' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-f3a44a6f-9217-478b-b7ca-af3401391514"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-f3a44a6f-9217-478b-b7ca-af3401391514"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaXSPW = new CaptchaWidget('divCaptchaContainer_captchaXSPW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaXSPW.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaIJ7G = new CaptchaWidget('divCaptchaContainer_captchaIJ7G', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaIJ7G.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="f3a44a6f-9217-478b-b7ca-af3401391514">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaXSPW = new CaptchaWidget('divCaptchaContainer_captchaXSPW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaXSPW.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaIJ7G = new CaptchaWidget('divCaptchaContainer_captchaIJ7G', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaIJ7G.load(); 
+                    }); </script>
+</body>
+
+</html>

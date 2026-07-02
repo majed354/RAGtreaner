@@ -1,0 +1,1629 @@
+{
+  "metadata": {
+    "slug": "nzam-aljnsyh-alarbyh-alsawdyh",
+    "title_ar": "نظام الجنسية العربية السعودية",
+    "status": "ساري",
+    "issue_date_hijri": "1374/01/25 هـ الموافق : 22/09/1954 مـ",
+    "issue_date_gregorian": "1954-09-22",
+    "publish_date_hijri": "1374/01/25 هـ الموافق : 22/09/1954 مـ",
+    "publish_date_gregorian": "1954-09-22",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d9f183b6-3afc-4405-834f-a9a700f18571/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-aljnsyh-alarbyh-alsawdyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-aljnsyh-alarbyh-alsawdyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1374/01/25 هـ الموافق : 22/09/1954 مـ",
+    "effective_date_gregorian": "1954-09-22",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 30,
+    "paragraph_count": 62,
+    "indexable_paragraph_count": 62,
+    "text_chars": 10243,
+    "verbatim_chars": 10281,
+    "citation_base_ar": "نظام الجنسية العربية السعودية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d9f183b6-3afc-4405-834f-a9a700f18571/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-aljnsyh-alarbyh-alsawdyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-aljnsyh-alarbyh-alsawdyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "رقم (1)",
+      "article_label_raw": "رقم (1)",
+      "article_heading": "رقم (1)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (1)",
+      "text_verbatim": "يسمى هذا النظام \"   نظام الجنسية العربية السعودية   \".",
+      "text_for_index": "يسمى هذا النظام \" نظام الجنسية العربية السعودية \".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يسمى هذا النظام \"   نظام الجنسية العربية السعودية   \".",
+          "text_for_index": "يسمى هذا النظام \" نظام الجنسية العربية السعودية \".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "رقم (2)",
+      "article_label_raw": "رقم (2)",
+      "article_heading": "رقم (2)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (2)",
+      "text_verbatim": "ليس لهذا النظام أثر رجعي وتعتبر جميع القرارات والإجراءات الصحيحة التي تمت بموجب الأنظمة السابقة نافذة كما تعتبر الجنسيات التي منحت استناداً إلى تلك النظم قائمة ما دامت مستندة إلى صحة الإجراء والثبوت.",
+      "text_for_index": "ليس لهذا النظام أثر رجعي وتعتبر جميع القرارات والإجراءات الصحيحة التي تمت بموجب الأنظمة السابقة نافذة كما تعتبر الجنسيات التي منحت استناداً إلى تلك النظم قائمة ما دامت مستندة إلى صحة الإجراء والثبوت.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ليس لهذا النظام أثر رجعي وتعتبر جميع القرارات والإجراءات الصحيحة التي تمت بموجب الأنظمة السابقة نافذة كما تعتبر الجنسيات التي منحت استناداً إلى تلك النظم قائمة ما دامت مستندة إلى صحة الإجراء والثبوت.",
+          "text_for_index": "ليس لهذا النظام أثر رجعي وتعتبر جميع القرارات والإجراءات الصحيحة التي تمت بموجب الأنظمة السابقة نافذة كما تعتبر الجنسيات التي منحت استناداً إلى تلك النظم قائمة ما دامت مستندة إلى صحة الإجراء والثبوت.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "رقم (3)",
+      "article_label_raw": "رقم (3)",
+      "article_heading": "رقم (3)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (3)",
+      "text_verbatim": "الألفاظ الآتية تؤدي في هذا النظام المعاني الآتية:\n\n\t• أ- السعودي هو من كان تابعا لحكومة حضرة صاحب الجلالة الملك المعظم طبقا لأحكام هذا النظام.\n\n\t• ب- السعودي بالتجنس هو من اكتسب الجنسية العربية السعودية بمقتضى أحكامها الخاصة.\n\n\t• جـ- الأجنبي هو غير السعودي.\n\n\t• د- القاصر هو الصغير والمجنون والمعتوه.\n\n\t• هـ- سن الرشد ما نصت عليه أحكام الشرع الشريف.\n\n\t• و- المملكة العربية السعودية تشمل الأراضي والمياه والطبقات الجوية الخاضعة للسيادة العربية السعودية كما تشمل السفن والطائرات التي تحمل العلم العربي السعودي.",
+      "text_for_index": "الألفاظ الآتية تؤدي في هذا النظام المعاني الآتية:\n\n • أ- السعودي هو من كان تابعا لحكومة حضرة صاحب الجلالة الملك المعظم طبقا لأحكام هذا النظام.\n\n • ب- السعودي بالتجنس هو من اكتسب الجنسية العربية السعودية بمقتضى أحكامها الخاصة.\n\n • جـ- الأجنبي هو غير السعودي.\n\n • د- القاصر هو الصغير والمجنون والمعتوه.\n\n • هـ- سن الرشد ما نصت عليه أحكام الشرع الشريف.\n\n • و- المملكة العربية السعودية تشمل الأراضي والمياه والطبقات الجوية الخاضعة للسيادة العربية السعودية كما تشمل السفن والطائرات التي تحمل العلم العربي السعودي.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الألفاظ الآتية تؤدي في هذا النظام المعاني الآتية:",
+          "text_for_index": "الألفاظ الآتية تؤدي في هذا النظام المعاني الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أ- السعودي هو من كان تابعا لحكومة حضرة صاحب الجلالة الملك المعظم طبقا لأحكام هذا النظام.",
+          "text_for_index": "• أ- السعودي هو من كان تابعا لحكومة حضرة صاحب الجلالة الملك المعظم طبقا لأحكام هذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• ب- السعودي بالتجنس هو من اكتسب الجنسية العربية السعودية بمقتضى أحكامها الخاصة.",
+          "text_for_index": "• ب- السعودي بالتجنس هو من اكتسب الجنسية العربية السعودية بمقتضى أحكامها الخاصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• جـ- الأجنبي هو غير السعودي.",
+          "text_for_index": "• جـ- الأجنبي هو غير السعودي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• د- القاصر هو الصغير والمجنون والمعتوه.",
+          "text_for_index": "• د- القاصر هو الصغير والمجنون والمعتوه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• هـ- سن الرشد ما نصت عليه أحكام الشرع الشريف.",
+          "text_for_index": "• هـ- سن الرشد ما نصت عليه أحكام الشرع الشريف.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-3::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• و- المملكة العربية السعودية تشمل الأراضي والمياه والطبقات الجوية الخاضعة للسيادة العربية السعودية كما تشمل السفن والطائرات التي تحمل العلم العربي السعودي.",
+          "text_for_index": "• و- المملكة العربية السعودية تشمل الأراضي والمياه والطبقات الجوية الخاضعة للسيادة العربية السعودية كما تشمل السفن والطائرات التي تحمل العلم العربي السعودي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "رقم (4)",
+      "article_label_raw": "رقم (4)",
+      "article_heading": "رقم (4)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (4)",
+      "text_verbatim": "السعوديون هم:\n\n\t• أ-  من كانت تابعيته عثمانية عام 1332 هجرية الموافق 1914م من سكان أراضي المملكة العربية السعودية الأصليين.\n\n\t• ب- الرعايا العثمانيون المولودون في أراضي المملكة العربية السعودية أو المقيمون فيها عام 1332هـ 1914م الذين حافظوا على إقامتهم في تلك الأراضي إلى 22 / 3 / 1345هـ ولم يكتسبوا جنسية أجنبية قبل هذا التاريخ.\n\n\t• جـ- من كان من غير الرعايا العثمانيين مقيما في أراضي المملكة العربية السعودية عام 1332هـ 1914م وحافظ على إقامته فيها إلى 22 / 3 / 1345هـ ولم يكتسب جنسية أجنبية قبل هذا التاريخ.",
+      "text_for_index": "السعوديون هم:\n\n • أ- من كانت تابعيته عثمانية عام 1332 هجرية الموافق 1914م من سكان أراضي المملكة العربية السعودية الأصليين.\n\n • ب- الرعايا العثمانيون المولودون في أراضي المملكة العربية السعودية أو المقيمون فيها عام 1332هـ 1914م الذين حافظوا على إقامتهم في تلك الأراضي إلى 22 / 3 / 1345هـ ولم يكتسبوا جنسية أجنبية قبل هذا التاريخ.\n\n • جـ- من كان من غير الرعايا العثمانيين مقيما في أراضي المملكة العربية السعودية عام 1332هـ 1914م وحافظ على إقامته فيها إلى 22 / 3 / 1345هـ ولم يكتسب جنسية أجنبية قبل هذا التاريخ.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "السعوديون هم:",
+          "text_for_index": "السعوديون هم:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• أ-  من كانت تابعيته عثمانية عام 1332 هجرية الموافق 1914م من سكان أراضي المملكة العربية السعودية الأصليين.",
+          "text_for_index": "• أ- من كانت تابعيته عثمانية عام 1332 هجرية الموافق 1914م من سكان أراضي المملكة العربية السعودية الأصليين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• ب- الرعايا العثمانيون المولودون في أراضي المملكة العربية السعودية أو المقيمون فيها عام 1332هـ 1914م الذين حافظوا على إقامتهم في تلك الأراضي إلى 22 / 3 / 1345هـ ولم يكتسبوا جنسية أجنبية قبل هذا التاريخ.",
+          "text_for_index": "• ب- الرعايا العثمانيون المولودون في أراضي المملكة العربية السعودية أو المقيمون فيها عام 1332هـ 1914م الذين حافظوا على إقامتهم في تلك الأراضي إلى 22 / 3 / 1345هـ ولم يكتسبوا جنسية أجنبية قبل هذا التاريخ.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• جـ- من كان من غير الرعايا العثمانيين مقيما في أراضي المملكة العربية السعودية عام 1332هـ 1914م وحافظ على إقامته فيها إلى 22 / 3 / 1345هـ ولم يكتسب جنسية أجنبية قبل هذا التاريخ.",
+          "text_for_index": "• جـ- من كان من غير الرعايا العثمانيين مقيما في أراضي المملكة العربية السعودية عام 1332هـ 1914م وحافظ على إقامته فيها إلى 22 / 3 / 1345هـ ولم يكتسب جنسية أجنبية قبل هذا التاريخ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "رقم (5)",
+      "article_label_raw": "رقم (5)",
+      "article_heading": "رقم (5)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (5)",
+      "text_verbatim": "يسري حكم الفقرة (أ) من المادة الرابعة على النسوة من سكان المملكة العربية السعودية الأصليين اللاتي يتقدمن بطلب استرداد الجنسية العربية السعودية بعد طلاقهن أو وفاة أزواجهن.",
+      "text_for_index": "يسري حكم الفقرة (أ) من المادة الرابعة على النسوة من سكان المملكة العربية السعودية الأصليين اللاتي يتقدمن بطلب استرداد الجنسية العربية السعودية بعد طلاقهن أو وفاة أزواجهن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يسري حكم الفقرة (أ) من المادة الرابعة على النسوة من سكان المملكة العربية السعودية الأصليين اللاتي يتقدمن بطلب استرداد الجنسية العربية السعودية بعد طلاقهن أو وفاة أزواجهن.",
+          "text_for_index": "يسري حكم الفقرة (أ) من المادة الرابعة على النسوة من سكان المملكة العربية السعودية الأصليين اللاتي يتقدمن بطلب استرداد الجنسية العربية السعودية بعد طلاقهن أو وفاة أزواجهن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "رقم (6)",
+      "article_label_raw": "رقم (6)",
+      "article_heading": "رقم (6)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (6)",
+      "text_verbatim": "لا تقبل طلبات بإعطاء شهادات بالجنسية العربية السعودية من الأشخاص الذين ينطبق عليهم حكم الفقرتين (ب، جـ) من المادة الرابعة بعد مضي سنة من تاريخ العمل بهذا النظام وبالنسبة للقاصر بعد مضي سنة من بلوغه سن الرشد.",
+      "text_for_index": "لا تقبل طلبات بإعطاء شهادات بالجنسية العربية السعودية من الأشخاص الذين ينطبق عليهم حكم الفقرتين (ب، جـ) من المادة الرابعة بعد مضي سنة من تاريخ العمل بهذا النظام وبالنسبة للقاصر بعد مضي سنة من بلوغه سن الرشد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا تقبل طلبات بإعطاء شهادات بالجنسية العربية السعودية من الأشخاص الذين ينطبق عليهم حكم الفقرتين (ب، جـ) من المادة الرابعة بعد مضي سنة من تاريخ العمل بهذا النظام وبالنسبة للقاصر بعد مضي سنة من بلوغه سن الرشد.",
+          "text_for_index": "لا تقبل طلبات بإعطاء شهادات بالجنسية العربية السعودية من الأشخاص الذين ينطبق عليهم حكم الفقرتين (ب، جـ) من المادة الرابعة بعد مضي سنة من تاريخ العمل بهذا النظام وبالنسبة للقاصر بعد مضي سنة من بلوغه سن الرشد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "رقم (7)",
+      "article_label_raw": "رقم (7)",
+      "article_heading": "رقم (7)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (7)",
+      "text_verbatim": "يكون سعوديا من ولد داخل المملكة العربية السعودية أو خارجها لأب سعودي أو لأم سعودية وأب مجهول الجنسية أو لا جنسية له.",
+      "text_for_index": "يكون سعوديا من ولد داخل المملكة العربية السعودية أو خارجها لأب سعودي أو لأم سعودية وأب مجهول الجنسية أو لا جنسية له.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون سعوديا من ولد داخل المملكة العربية السعودية أو خارجها لأب سعودي أو لأم سعودية وأب مجهول الجنسية أو لا جنسية له.",
+          "text_for_index": "يكون سعوديا من ولد داخل المملكة العربية السعودية أو خارجها لأب سعودي أو لأم سعودية وأب مجهول الجنسية أو لا جنسية له.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "رقم (8)",
+      "article_label_raw": "رقم (8)",
+      "article_heading": "رقم (8)",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (8)",
+      "text_verbatim": "يعتبر أجنبيا من ولد في المملكة العربية السعودية عن أبوين أجنبيين أو من أب أجنبي وأم سعودية ومن ولد في الخارج لأب أجنبي معروف الجنسية وأم سعودية، ومع ذلك يكون لهذا المولود عند بلوغه سن الرشد الحق في اختيار الجنسية العربية السعودية إذا توفرت فيه الشروط الآتية:\n\n\t• أ - أن تكون له صفة الإقامة الدائمة في المملكة العربية السعودية عند بلوغه سن الرشد .\n\n\t• ب - أن يكون حسن السيرة والسلوك ولم يسبق الحكم عليه بحكم جنائي أو بعقوبة السجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.\n\n\t• جـ - أن يكون ملما باللغة العربية.\n\n\t• د - أن يقدم خلال السنة بعد بلوغه سن الرشد طلبا بمنحه الجنسية العربية السعودية، أما المجنون والمعتوه فكل منهما يتبع أباه في رعويته إذا كان الأب على قيد الحياة وفي حالة وفاته فللمقيم الشرعي على كل منهما أن يختار له الجنسية العربية السعودية بعد استكمال الشروط السابقة.",
+      "text_for_index": "يعتبر أجنبيا من ولد في المملكة العربية السعودية عن أبوين أجنبيين أو من أب أجنبي وأم سعودية ومن ولد في الخارج لأب أجنبي معروف الجنسية وأم سعودية، ومع ذلك يكون لهذا المولود عند بلوغه سن الرشد الحق في اختيار الجنسية العربية السعودية إذا توفرت فيه الشروط الآتية:\n\n • أ - أن تكون له صفة الإقامة الدائمة في المملكة العربية السعودية عند بلوغه سن الرشد .\n\n • ب - أن يكون حسن السيرة والسلوك ولم يسبق الحكم عليه بحكم جنائي أو بعقوبة السجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.\n\n • جـ - أن يكون ملما باللغة العربية.\n\n • د - أن يقدم خلال السنة بعد بلوغه سن الرشد طلبا بمنحه الجنسية العربية السعودية، أما المجنون والمعتوه فكل منهما يتبع أباه في رعويته إذا كان الأب على قيد الحياة وفي حالة وفاته فللمقيم الشرعي على كل منهما أن يختار له الجنسية العربية السعودية بعد استكمال الشروط السابقة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "يعتبر أجنبيا من ولد في المملكة العربية السعودية عن أبوين أجنبيين أو من أب أجنبي وأم سعودية ومن ولد في الخارج لأب أجنبي معروف الجنسية وأم سعودية، ومع ذلك يكون لهذا المولود عند بلوغه سن الرشد الحق في اختيار الجنسية العربية السعودية إذا توفرت فيه الشروط الآتية:",
+          "text_for_index": "يعتبر أجنبيا من ولد في المملكة العربية السعودية عن أبوين أجنبيين أو من أب أجنبي وأم سعودية ومن ولد في الخارج لأب أجنبي معروف الجنسية وأم سعودية، ومع ذلك يكون لهذا المولود عند بلوغه سن الرشد الحق في اختيار الجنسية العربية السعودية إذا توفرت فيه الشروط الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• أ - أن تكون له صفة الإقامة الدائمة في المملكة العربية السعودية عند بلوغه سن الرشد .",
+          "text_for_index": "• أ - أن تكون له صفة الإقامة الدائمة في المملكة العربية السعودية عند بلوغه سن الرشد .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-8::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• ب - أن يكون حسن السيرة والسلوك ولم يسبق الحكم عليه بحكم جنائي أو بعقوبة السجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.",
+          "text_for_index": "• ب - أن يكون حسن السيرة والسلوك ولم يسبق الحكم عليه بحكم جنائي أو بعقوبة السجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-8::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• جـ - أن يكون ملما باللغة العربية.",
+          "text_for_index": "• جـ - أن يكون ملما باللغة العربية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-8::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• د - أن يقدم خلال السنة بعد بلوغه سن الرشد طلبا بمنحه الجنسية العربية السعودية، أما المجنون والمعتوه فكل منهما يتبع أباه في رعويته إذا كان الأب على قيد الحياة وفي حالة وفاته فللمقيم الشرعي على كل منهما أن يختار له الجنسية العربية السعودية بعد استكمال الشروط السابقة.",
+          "text_for_index": "• د - أن يقدم خلال السنة بعد بلوغه سن الرشد طلبا بمنحه الجنسية العربية السعودية، أما المجنون والمعتوه فكل منهما يتبع أباه في رعويته إذا كان الأب على قيد الحياة وفي حالة وفاته فللمقيم الشرعي على كل منهما أن يختار له الجنسية العربية السعودية بعد استكمال الشروط السابقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "رقم (9)",
+      "article_label_raw": "رقم (9)",
+      "article_heading": "رقم (9)",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (9)",
+      "text_verbatim": "يجوز منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط الآتية:\n\n\t• أن يكون عند تقديم الطلب قد بلغ سن الرشد .\n\n\t• أن يكون غير معتوه أو مجنون.\n\n\t• أن يكون حين تقديم الطلب:\n\n\t• أ - قد اكتسب صفة الإقامة الدائمة العادية في المملكة العربية السعودية بمقتضى أحكام نظامها الخاص لمدة لا تقل عن خمس سنوات متواليات.\n\n\t• ب - أن يكون حسن السير والسلوك.\n\n\t• جـ - أن لا يكون قد صدر عليه حكم قضائي بالسجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.\n\n\t• د – أن يثبت ارتزاقه بطريق مشروعة.\n\nويشفع طالب التجنس بطلبه تصريح الإقامة الدائمة وجواز سفره القانوني أو أية وثيقة تعتبرها السلطات المختصة قائمة مقام الجواز القانوني وكل وثيقة تتعلق بالجنسية التي ينسلخ منها وبكل ورقة تؤيد ما هو مطالب بإثباته بمقتضى أحكام هذا النظام.",
+      "text_for_index": "يجوز منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط الآتية:\n\n • أن يكون عند تقديم الطلب قد بلغ سن الرشد .\n\n • أن يكون غير معتوه أو مجنون.\n\n • أن يكون حين تقديم الطلب:\n\n • أ - قد اكتسب صفة الإقامة الدائمة العادية في المملكة العربية السعودية بمقتضى أحكام نظامها الخاص لمدة لا تقل عن خمس سنوات متواليات.\n\n • ب - أن يكون حسن السير والسلوك.\n\n • جـ - أن لا يكون قد صدر عليه حكم قضائي بالسجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.\n\n • د – أن يثبت ارتزاقه بطريق مشروعة.\n\nويشفع طالب التجنس بطلبه تصريح الإقامة الدائمة وجواز سفره القانوني أو أية وثيقة تعتبرها السلطات المختصة قائمة مقام الجواز القانوني وكل وثيقة تتعلق بالجنسية التي ينسلخ منها وبكل ورقة تؤيد ما هو مطالب بإثباته بمقتضى أحكام هذا النظام.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "يجوز منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط الآتية:",
+          "text_for_index": "يجوز منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• أن يكون عند تقديم الطلب قد بلغ سن الرشد .",
+          "text_for_index": "• أن يكون عند تقديم الطلب قد بلغ سن الرشد .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• أن يكون غير معتوه أو مجنون.",
+          "text_for_index": "• أن يكون غير معتوه أو مجنون.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• أن يكون حين تقديم الطلب:",
+          "text_for_index": "• أن يكون حين تقديم الطلب:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• أ - قد اكتسب صفة الإقامة الدائمة العادية في المملكة العربية السعودية بمقتضى أحكام نظامها الخاص لمدة لا تقل عن خمس سنوات متواليات.",
+          "text_for_index": "• أ - قد اكتسب صفة الإقامة الدائمة العادية في المملكة العربية السعودية بمقتضى أحكام نظامها الخاص لمدة لا تقل عن خمس سنوات متواليات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• ب - أن يكون حسن السير والسلوك.",
+          "text_for_index": "• ب - أن يكون حسن السير والسلوك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• جـ - أن لا يكون قد صدر عليه حكم قضائي بالسجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.",
+          "text_for_index": "• جـ - أن لا يكون قد صدر عليه حكم قضائي بالسجن لجريمة أخلاقية لمدة تزيد عن ستة شهور.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "• د – أن يثبت ارتزاقه بطريق مشروعة.",
+          "text_for_index": "• د – أن يثبت ارتزاقه بطريق مشروعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-9::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ويشفع طالب التجنس بطلبه تصريح الإقامة الدائمة وجواز سفره القانوني أو أية وثيقة تعتبرها السلطات المختصة قائمة مقام الجواز القانوني وكل وثيقة تتعلق بالجنسية التي ينسلخ منها وبكل ورقة تؤيد ما هو مطالب بإثباته بمقتضى أحكام هذا النظام.",
+          "text_for_index": "ويشفع طالب التجنس بطلبه تصريح الإقامة الدائمة وجواز سفره القانوني أو أية وثيقة تعتبرها السلطات المختصة قائمة مقام الجواز القانوني وكل وثيقة تتعلق بالجنسية التي ينسلخ منها وبكل ورقة تؤيد ما هو مطالب بإثباته بمقتضى أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "رقم (10)",
+      "article_label_raw": "رقم (10)",
+      "article_heading": "رقم (10)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (10)",
+      "text_verbatim": "تمنح الجنسية العربية السعودية من قبل رئيس    مجلس الوزراء     بناء على اقتراح وزير الداخلية، ولوزير الداخلية في جميع الأحوال وبدون إبداء الأسباب الحق في رفض الموافقة على منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط المنصوص عليها في المادة التاسعة قبل تقديمه الاقتراح المذكور.",
+      "text_for_index": "تمنح الجنسية العربية السعودية من قبل رئيس مجلس الوزراء بناء على اقتراح وزير الداخلية، ولوزير الداخلية في جميع الأحوال وبدون إبداء الأسباب الحق في رفض الموافقة على منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط المنصوص عليها في المادة التاسعة قبل تقديمه الاقتراح المذكور.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تمنح الجنسية العربية السعودية من قبل رئيس    مجلس الوزراء     بناء على اقتراح وزير الداخلية، ولوزير الداخلية في جميع الأحوال وبدون إبداء الأسباب الحق في رفض الموافقة على منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط المنصوص عليها في المادة التاسعة قبل تقديمه الاقتراح المذكور.",
+          "text_for_index": "تمنح الجنسية العربية السعودية من قبل رئيس مجلس الوزراء بناء على اقتراح وزير الداخلية، ولوزير الداخلية في جميع الأحوال وبدون إبداء الأسباب الحق في رفض الموافقة على منح الجنسية العربية السعودية للأجنبي الذي تتوفر فيه الشروط المنصوص عليها في المادة التاسعة قبل تقديمه الاقتراح المذكور.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "رقم (11)",
+      "article_label_raw": "رقم (11)",
+      "article_heading": "رقم (11)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (11)",
+      "text_verbatim": "لا يجوز لسعودي أن يتجنس بجنسية أجنبية دون إذن سابق من رئيس مجلس الوزراء، والسعودي الذي يتجنس بجنسية أجنبية قبيل الحصول مقدما على هذا الإذن يظل معتبرا سعوديا إلا إذا رأت حكومة جلالة الملك إسقاط الجنسية العربية السعودية عنه تطبيقا لحكم المادة (13).",
+      "text_for_index": "لا يجوز لسعودي أن يتجنس بجنسية أجنبية دون إذن سابق من رئيس مجلس الوزراء، والسعودي الذي يتجنس بجنسية أجنبية قبيل الحصول مقدما على هذا الإذن يظل معتبرا سعوديا إلا إذا رأت حكومة جلالة الملك إسقاط الجنسية العربية السعودية عنه تطبيقا لحكم المادة (13).",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز لسعودي أن يتجنس بجنسية أجنبية دون إذن سابق من رئيس مجلس الوزراء، والسعودي الذي يتجنس بجنسية أجنبية قبيل الحصول مقدما على هذا الإذن يظل معتبرا سعوديا إلا إذا رأت حكومة جلالة الملك إسقاط الجنسية العربية السعودية عنه تطبيقا لحكم المادة (13).",
+          "text_for_index": "لا يجوز لسعودي أن يتجنس بجنسية أجنبية دون إذن سابق من رئيس مجلس الوزراء، والسعودي الذي يتجنس بجنسية أجنبية قبيل الحصول مقدما على هذا الإذن يظل معتبرا سعوديا إلا إذا رأت حكومة جلالة الملك إسقاط الجنسية العربية السعودية عنه تطبيقا لحكم المادة (13).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "رقم (12)",
+      "article_label_raw": "رقم (12)",
+      "article_heading": "رقم (12)",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition",
+        "remedy",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط",
+        "علاج أو تعويض",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (12)",
+      "text_verbatim": "يترتب على تجنس السعودي بجنسية أجنبية متى أذن له في ذلك أن تفقد زوجته الجنسية السعودية إذا كانت تدخل في جنسية زوجها بمقتضى القانون الخاص بهذه الجنسية الجديدة إلا إذا قررت خلال سنة من تاريخ دخول زوجها في هذه الجنسية أنها ترغب في الاحتفاظ بجنسيتها العربية السعودية.\n\nأما الأولاد القصر فيفقدون الجنسية العربية السعودية إذا كانوا بحكم تغيير جنسية أبيهم يدخلون في جنسيته بمقتضى القانون الخاص بهذه الجنسية الجديدة على أنه يكون لهم الحق في استرداد الجنسية العربية السعودية خلال السنة التالية لبلوغهم سن الرشد.",
+      "text_for_index": "يترتب على تجنس السعودي بجنسية أجنبية متى أذن له في ذلك أن تفقد زوجته الجنسية السعودية إذا كانت تدخل في جنسية زوجها بمقتضى القانون الخاص بهذه الجنسية الجديدة إلا إذا قررت خلال سنة من تاريخ دخول زوجها في هذه الجنسية أنها ترغب في الاحتفاظ بجنسيتها العربية السعودية.\n\nأما الأولاد القصر فيفقدون الجنسية العربية السعودية إذا كانوا بحكم تغيير جنسية أبيهم يدخلون في جنسيته بمقتضى القانون الخاص بهذه الجنسية الجديدة على أنه يكون لهم الحق في استرداد الجنسية العربية السعودية خلال السنة التالية لبلوغهم سن الرشد.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يترتب على تجنس السعودي بجنسية أجنبية متى أذن له في ذلك أن تفقد زوجته الجنسية السعودية إذا كانت تدخل في جنسية زوجها بمقتضى القانون الخاص بهذه الجنسية الجديدة إلا إذا قررت خلال سنة من تاريخ دخول زوجها في هذه الجنسية أنها ترغب في الاحتفاظ بجنسيتها العربية السعودية.",
+          "text_for_index": "يترتب على تجنس السعودي بجنسية أجنبية متى أذن له في ذلك أن تفقد زوجته الجنسية السعودية إذا كانت تدخل في جنسية زوجها بمقتضى القانون الخاص بهذه الجنسية الجديدة إلا إذا قررت خلال سنة من تاريخ دخول زوجها في هذه الجنسية أنها ترغب في الاحتفاظ بجنسيتها العربية السعودية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أما الأولاد القصر فيفقدون الجنسية العربية السعودية إذا كانوا بحكم تغيير جنسية أبيهم يدخلون في جنسيته بمقتضى القانون الخاص بهذه الجنسية الجديدة على أنه يكون لهم الحق في استرداد الجنسية العربية السعودية خلال السنة التالية لبلوغهم سن الرشد.",
+          "text_for_index": "أما الأولاد القصر فيفقدون الجنسية العربية السعودية إذا كانوا بحكم تغيير جنسية أبيهم يدخلون في جنسيته بمقتضى القانون الخاص بهذه الجنسية الجديدة على أنه يكون لهم الحق في استرداد الجنسية العربية السعودية خلال السنة التالية لبلوغهم سن الرشد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "رقم (13)",
+      "article_label_raw": "رقم (13)",
+      "article_heading": "رقم (13)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (13)",
+      "text_verbatim": "يجوز بمرسوم مسبب إسقاط الجنسية العربية السعودية عن أي سعودي في أية حالة من الحالات الآتية:\n\n\t• أ- إذا دخل في جنسية أخرى مخالفاً مقتضى المادة (11) من هذا النظام.\n\n\t• ب- إذا عمل في القوة المسلحة لإحدى الحكومات الأجنبية بدون موافقة سابقة من حكومة جلالة الملك.\n\n\t• جـ- إذا عمل لمصلحة دولة أو حكومة أجنبية وهي في حالة حرب مع المملكة العربية السعودية.\n\n\t• د- إذا قبل وظيفة لدى حكومة أجنبية أو هيئة دولية وبقي فيها بالرغم من الأمر الذي صدر إليه من حكومة جلالة الملك بتركها.\n\nفي جميع الأحول المنصوص عليها في الفقرة (أ) (ب) (جـ) (د) من هذه المادة يجب إنذار السعودي بعواقب عمله إنذارا صحيحا سابقا لمدة ثلاثة شهور على الأقل لتاريخ مرسوم إسقاط الجنسية العربية السعودية عنه، وفي جميع الأحوال التي تسقط فيها الجنسية العربية السعودية بمقتضى أحكام هذه المادة تجرى تصفية أملاك الشخص الذي أسقطت جنسيته وفقا لنظام تملك العقار كما يجوز حرمانه من الإقامة في أراضي المملكة العربية السعودية أو العودة إليها.",
+      "text_for_index": "يجوز بمرسوم مسبب إسقاط الجنسية العربية السعودية عن أي سعودي في أية حالة من الحالات الآتية:\n\n • أ- إذا دخل في جنسية أخرى مخالفاً مقتضى المادة (11) من هذا النظام.\n\n • ب- إذا عمل في القوة المسلحة لإحدى الحكومات الأجنبية بدون موافقة سابقة من حكومة جلالة الملك.\n\n • جـ- إذا عمل لمصلحة دولة أو حكومة أجنبية وهي في حالة حرب مع المملكة العربية السعودية.\n\n • د- إذا قبل وظيفة لدى حكومة أجنبية أو هيئة دولية وبقي فيها بالرغم من الأمر الذي صدر إليه من حكومة جلالة الملك بتركها.\n\nفي جميع الأحول المنصوص عليها في الفقرة (أ) (ب) (جـ) (د) من هذه المادة يجب إنذار السعودي بعواقب عمله إنذارا صحيحا سابقا لمدة ثلاثة شهور على الأقل لتاريخ مرسوم إسقاط الجنسية العربية السعودية عنه، وفي جميع الأحوال التي تسقط فيها الجنسية العربية السعودية بمقتضى أحكام هذه المادة تجرى تصفية أملاك الشخص الذي أسقطت جنسيته وفقا لنظام تملك العقار كما يجوز حرمانه من الإقامة في أراضي المملكة العربية السعودية أو العودة إليها.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجوز بمرسوم مسبب إسقاط الجنسية العربية السعودية عن أي سعودي في أية حالة من الحالات الآتية:",
+          "text_for_index": "يجوز بمرسوم مسبب إسقاط الجنسية العربية السعودية عن أي سعودي في أية حالة من الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-13::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أ- إذا دخل في جنسية أخرى مخالفاً مقتضى المادة (11) من هذا النظام.",
+          "text_for_index": "• أ- إذا دخل في جنسية أخرى مخالفاً مقتضى المادة (11) من هذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-13::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ب- إذا عمل في القوة المسلحة لإحدى الحكومات الأجنبية بدون موافقة سابقة من حكومة جلالة الملك.",
+          "text_for_index": "• ب- إذا عمل في القوة المسلحة لإحدى الحكومات الأجنبية بدون موافقة سابقة من حكومة جلالة الملك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-13::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• جـ- إذا عمل لمصلحة دولة أو حكومة أجنبية وهي في حالة حرب مع المملكة العربية السعودية.",
+          "text_for_index": "• جـ- إذا عمل لمصلحة دولة أو حكومة أجنبية وهي في حالة حرب مع المملكة العربية السعودية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-13::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• د- إذا قبل وظيفة لدى حكومة أجنبية أو هيئة دولية وبقي فيها بالرغم من الأمر الذي صدر إليه من حكومة جلالة الملك بتركها.",
+          "text_for_index": "• د- إذا قبل وظيفة لدى حكومة أجنبية أو هيئة دولية وبقي فيها بالرغم من الأمر الذي صدر إليه من حكومة جلالة الملك بتركها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-13::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "في جميع الأحول المنصوص عليها في الفقرة (أ) (ب) (جـ) (د) من هذه المادة يجب إنذار السعودي بعواقب عمله إنذارا صحيحا سابقا لمدة ثلاثة شهور على الأقل لتاريخ مرسوم إسقاط الجنسية العربية السعودية عنه، وفي جميع الأحوال التي تسقط فيها الجنسية العربية السعودية بمقتضى أحكام هذه المادة تجرى تصفية أملاك الشخص الذي أسقطت جنسيته وفقا لنظام تملك العقار كما يجوز حرمانه من الإقامة في أراضي المملكة العربية السعودية أو العودة إليها.",
+          "text_for_index": "في جميع الأحول المنصوص عليها في الفقرة (أ) (ب) (جـ) (د) من هذه المادة يجب إنذار السعودي بعواقب عمله إنذارا صحيحا سابقا لمدة ثلاثة شهور على الأقل لتاريخ مرسوم إسقاط الجنسية العربية السعودية عنه، وفي جميع الأحوال التي تسقط فيها الجنسية العربية السعودية بمقتضى أحكام هذه المادة تجرى تصفية أملاك الشخص الذي أسقطت جنسيته وفقا لنظام تملك العقار كما يجوز حرمانه من الإقامة في أراضي المملكة العربية السعودية أو العودة إليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "رقم (14)",
+      "article_label_raw": "رقم (14)",
+      "article_heading": "رقم (14)",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (14)",
+      "text_verbatim": "يترتب على اكتساب الأجنبي الجنسية العربية السعودية أن تصبح زوجته عربية سعودية ما لم تقرر خلال سنة من دخول زوجها في الجنسية العربية السعودية أنها ترغب في الاحتفاظ بجنسيتها الأصلية، أما الأولاد الذين لم يبلغوا سن الرشد فإن كانت إقامتهم بالمملكة العربية السعودية فيعتبرون سعوديين على أن لهم حق اختيار جنسية والدهم الأصلية خلال سنة من تاريخ بلوغهم سن الرشد  أما إذا كانت إقامتهم خارج المملكة فيعتبرون أجانب ولهم حق اختيار جنسية والدهم العربية السعودية خلال سنة من تاريخ بلوغهم سن الرشد.",
+      "text_for_index": "يترتب على اكتساب الأجنبي الجنسية العربية السعودية أن تصبح زوجته عربية سعودية ما لم تقرر خلال سنة من دخول زوجها في الجنسية العربية السعودية أنها ترغب في الاحتفاظ بجنسيتها الأصلية، أما الأولاد الذين لم يبلغوا سن الرشد فإن كانت إقامتهم بالمملكة العربية السعودية فيعتبرون سعوديين على أن لهم حق اختيار جنسية والدهم الأصلية خلال سنة من تاريخ بلوغهم سن الرشد أما إذا كانت إقامتهم خارج المملكة فيعتبرون أجانب ولهم حق اختيار جنسية والدهم العربية السعودية خلال سنة من تاريخ بلوغهم سن الرشد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يترتب على اكتساب الأجنبي الجنسية العربية السعودية أن تصبح زوجته عربية سعودية ما لم تقرر خلال سنة من دخول زوجها في الجنسية العربية السعودية أنها ترغب في الاحتفاظ بجنسيتها الأصلية، أما الأولاد الذين لم يبلغوا سن الرشد فإن كانت إقامتهم بالمملكة العربية السعودية فيعتبرون سعوديين على أن لهم حق اختيار جنسية والدهم الأصلية خلال سنة من تاريخ بلوغهم سن الرشد  أما إذا كانت إقامتهم خارج المملكة فيعتبرون أجانب ولهم حق اختيار جنسية والدهم العربية السعودية خلال سنة من تاريخ بلوغهم سن الرشد.",
+          "text_for_index": "يترتب على اكتساب الأجنبي الجنسية العربية السعودية أن تصبح زوجته عربية سعودية ما لم تقرر خلال سنة من دخول زوجها في الجنسية العربية السعودية أنها ترغب في الاحتفاظ بجنسيتها الأصلية، أما الأولاد الذين لم يبلغوا سن الرشد فإن كانت إقامتهم بالمملكة العربية السعودية فيعتبرون سعوديين على أن لهم حق اختيار جنسية والدهم الأصلية خلال سنة من تاريخ بلوغهم سن الرشد أما إذا كانت إقامتهم خارج المملكة فيعتبرون أجانب ولهم حق اختيار جنسية والدهم العربية السعودية خلال سنة من تاريخ بلوغهم سن الرشد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "رقم (15)",
+      "article_label_raw": "رقم (15)",
+      "article_heading": "رقم (15)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (15)",
+      "text_verbatim": "كل من يتبع المتجنس من النسوة اللاتي له عليهن حق الولاية الشرعية بموجب وثيقة شرعية فله أن يتقدم بطلب مستقل باسم كل منهن لمنحهن الجنسية العربية السعودية.",
+      "text_for_index": "كل من يتبع المتجنس من النسوة اللاتي له عليهن حق الولاية الشرعية بموجب وثيقة شرعية فله أن يتقدم بطلب مستقل باسم كل منهن لمنحهن الجنسية العربية السعودية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "كل من يتبع المتجنس من النسوة اللاتي له عليهن حق الولاية الشرعية بموجب وثيقة شرعية فله أن يتقدم بطلب مستقل باسم كل منهن لمنحهن الجنسية العربية السعودية.",
+          "text_for_index": "كل من يتبع المتجنس من النسوة اللاتي له عليهن حق الولاية الشرعية بموجب وثيقة شرعية فله أن يتقدم بطلب مستقل باسم كل منهن لمنحهن الجنسية العربية السعودية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "رقم (16)",
+      "article_label_raw": "رقم (16)",
+      "article_heading": "رقم (16)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (16)",
+      "text_verbatim": "تكسب المرأة الأجنبية بالزواج جنسية زوجها السعودي.",
+      "text_for_index": "تكسب المرأة الأجنبية بالزواج جنسية زوجها السعودي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكسب المرأة الأجنبية بالزواج جنسية زوجها السعودي.",
+          "text_for_index": "تكسب المرأة الأجنبية بالزواج جنسية زوجها السعودي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "رقم (17)",
+      "article_label_raw": "رقم (17)",
+      "article_heading": "رقم (17)",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "شرط"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (17)",
+      "text_verbatim": "مع مراعاة ما جاء في المادتين (132) و (133) من نظام المرافعات الشرعية لا تفقد المرأة العربية السعودية جنسيتها إذا تزوجت بأجنبي إلا إذا سمح لها بالخروج مع زوجها خارج المملكة (وذلك طبق نظامه المخصوص) ثم قررت وأعلنت التحاقها بجنسية زوجها ودخلت في هذه الجنسية بحكم القانون الخاص بها.",
+      "text_for_index": "مع مراعاة ما جاء في المادتين (132) و (133) من نظام المرافعات الشرعية لا تفقد المرأة العربية السعودية جنسيتها إذا تزوجت بأجنبي إلا إذا سمح لها بالخروج مع زوجها خارج المملكة (وذلك طبق نظامه المخصوص) ثم قررت وأعلنت التحاقها بجنسية زوجها ودخلت في هذه الجنسية بحكم القانون الخاص بها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "شرط"
+          ],
+          "text_verbatim": "مع مراعاة ما جاء في المادتين (132) و (133) من نظام المرافعات الشرعية لا تفقد المرأة العربية السعودية جنسيتها إذا تزوجت بأجنبي إلا إذا سمح لها بالخروج مع زوجها خارج المملكة (وذلك طبق نظامه المخصوص) ثم قررت وأعلنت التحاقها بجنسية زوجها ودخلت في هذه الجنسية بحكم القانون الخاص بها.",
+          "text_for_index": "مع مراعاة ما جاء في المادتين (132) و (133) من نظام المرافعات الشرعية لا تفقد المرأة العربية السعودية جنسيتها إذا تزوجت بأجنبي إلا إذا سمح لها بالخروج مع زوجها خارج المملكة (وذلك طبق نظامه المخصوص) ثم قررت وأعلنت التحاقها بجنسية زوجها ودخلت في هذه الجنسية بحكم القانون الخاص بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "رقم (18)",
+      "article_label_raw": "رقم (18)",
+      "article_heading": "رقم (18)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (18)",
+      "text_verbatim": "يحق للمرأة العربية السعودية المتزوجة بأجنبي أن تسترد جنسيتها العربية السعودية عند انتهاء الزوجية بعد عودتها للإقامة في المملكة.",
+      "text_for_index": "يحق للمرأة العربية السعودية المتزوجة بأجنبي أن تسترد جنسيتها العربية السعودية عند انتهاء الزوجية بعد عودتها للإقامة في المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط"
+          ],
+          "text_verbatim": "يحق للمرأة العربية السعودية المتزوجة بأجنبي أن تسترد جنسيتها العربية السعودية عند انتهاء الزوجية بعد عودتها للإقامة في المملكة.",
+          "text_for_index": "يحق للمرأة العربية السعودية المتزوجة بأجنبي أن تسترد جنسيتها العربية السعودية عند انتهاء الزوجية بعد عودتها للإقامة في المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "رقم (19)",
+      "article_label_raw": "رقم (19)",
+      "article_heading": "رقم (19)",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (19)",
+      "text_verbatim": "تسري الأحكام الآتية على زوجات وأولاد من تسقط عنهم الجنسية العربية السعودية .\n\n\t• أ- زوجة من تسقط عنه الجنسية العربية بمقتضى المادة (13) يكون لها حق اختيار جنسية زوجها الجديد أو البقاء على جنسيتها السعودية ولها حالة انتهاء الزوجية أن تسترد جنسيتها السعودية إذا كانت قد اختارت جنسية زوجها من قبل وأما أولاده الصغار إذا كانوا مقيمين في غير أراضي المملكة العربية السعودية لهم الحق حين بلوغهم سن الرشد في اختيار الجنسية العربية السعودية بدون قيد ولا شرط كما يخولون كافة الحقوق التي للسعوديين بدون استثناء.\n\n\t• ب- لا يترتب على سقوط الجنسية العربية السعودية عن شخص ما تطبيقا لأحكام المادة (11) سقوطها عن زوجته وأولاده أو من كان يتمتع بها من ذويه بطريقة التبعية.",
+      "text_for_index": "تسري الأحكام الآتية على زوجات وأولاد من تسقط عنهم الجنسية العربية السعودية .\n\n • أ- زوجة من تسقط عنه الجنسية العربية بمقتضى المادة (13) يكون لها حق اختيار جنسية زوجها الجديد أو البقاء على جنسيتها السعودية ولها حالة انتهاء الزوجية أن تسترد جنسيتها السعودية إذا كانت قد اختارت جنسية زوجها من قبل وأما أولاده الصغار إذا كانوا مقيمين في غير أراضي المملكة العربية السعودية لهم الحق حين بلوغهم سن الرشد في اختيار الجنسية العربية السعودية بدون قيد ولا شرط كما يخولون كافة الحقوق التي للسعوديين بدون استثناء.\n\n • ب- لا يترتب على سقوط الجنسية العربية السعودية عن شخص ما تطبيقا لأحكام المادة (11) سقوطها عن زوجته وأولاده أو من كان يتمتع بها من ذويه بطريقة التبعية.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تسري الأحكام الآتية على زوجات وأولاد من تسقط عنهم الجنسية العربية السعودية .",
+          "text_for_index": "تسري الأحكام الآتية على زوجات وأولاد من تسقط عنهم الجنسية العربية السعودية .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "• أ- زوجة من تسقط عنه الجنسية العربية بمقتضى المادة (13) يكون لها حق اختيار جنسية زوجها الجديد أو البقاء على جنسيتها السعودية ولها حالة انتهاء الزوجية أن تسترد جنسيتها السعودية إذا كانت قد اختارت جنسية زوجها من قبل وأما أولاده الصغار إذا كانوا مقيمين في غير أراضي المملكة العربية السعودية لهم الحق حين بلوغهم سن الرشد في اختيار الجنسية العربية السعودية بدون قيد ولا شرط كما يخولون كافة الحقوق التي للسعوديين بدون استثناء.",
+          "text_for_index": "• أ- زوجة من تسقط عنه الجنسية العربية بمقتضى المادة (13) يكون لها حق اختيار جنسية زوجها الجديد أو البقاء على جنسيتها السعودية ولها حالة انتهاء الزوجية أن تسترد جنسيتها السعودية إذا كانت قد اختارت جنسية زوجها من قبل وأما أولاده الصغار إذا كانوا مقيمين في غير أراضي المملكة العربية السعودية لهم الحق حين بلوغهم سن الرشد في اختيار الجنسية العربية السعودية بدون قيد ولا شرط كما يخولون كافة الحقوق التي للسعوديين بدون استثناء.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-19::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• ب- لا يترتب على سقوط الجنسية العربية السعودية عن شخص ما تطبيقا لأحكام المادة (11) سقوطها عن زوجته وأولاده أو من كان يتمتع بها من ذويه بطريقة التبعية.",
+          "text_for_index": "• ب- لا يترتب على سقوط الجنسية العربية السعودية عن شخص ما تطبيقا لأحكام المادة (11) سقوطها عن زوجته وأولاده أو من كان يتمتع بها من ذويه بطريقة التبعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "رقم (20)",
+      "article_label_raw": "رقم (20)",
+      "article_heading": "رقم (20)",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (20)",
+      "text_verbatim": "كل من أقام المدة المقررة لمنح الجنسية السعودية وقدم طلب للتجنس ثم خرج من المملكة بجواز حكومته الأصلية قبل منحه الجنسية العربية السعودية وغاب عن البلاد مدة تزيد عن سنة تعتبر المدة التي سبق له أن أقامها كأنها لم تكن، أما من سافر بعد انتهاء المدة المقررة دون أن يتقدم بطلب الجنسية العربية السعودية فإنه يسقط حقه في طلب الجنسية إذا زادت غيبته عن مدة تأشيرة العودة وأقصاها ستة أشهر.",
+      "text_for_index": "كل من أقام المدة المقررة لمنح الجنسية السعودية وقدم طلب للتجنس ثم خرج من المملكة بجواز حكومته الأصلية قبل منحه الجنسية العربية السعودية وغاب عن البلاد مدة تزيد عن سنة تعتبر المدة التي سبق له أن أقامها كأنها لم تكن، أما من سافر بعد انتهاء المدة المقررة دون أن يتقدم بطلب الجنسية العربية السعودية فإنه يسقط حقه في طلب الجنسية إذا زادت غيبته عن مدة تأشيرة العودة وأقصاها ستة أشهر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من أقام المدة المقررة لمنح الجنسية السعودية وقدم طلب للتجنس ثم خرج من المملكة بجواز حكومته الأصلية قبل منحه الجنسية العربية السعودية وغاب عن البلاد مدة تزيد عن سنة تعتبر المدة التي سبق له أن أقامها كأنها لم تكن، أما من سافر بعد انتهاء المدة المقررة دون أن يتقدم بطلب الجنسية العربية السعودية فإنه يسقط حقه في طلب الجنسية إذا زادت غيبته عن مدة تأشيرة العودة وأقصاها ستة أشهر.",
+          "text_for_index": "كل من أقام المدة المقررة لمنح الجنسية السعودية وقدم طلب للتجنس ثم خرج من المملكة بجواز حكومته الأصلية قبل منحه الجنسية العربية السعودية وغاب عن البلاد مدة تزيد عن سنة تعتبر المدة التي سبق له أن أقامها كأنها لم تكن، أما من سافر بعد انتهاء المدة المقررة دون أن يتقدم بطلب الجنسية العربية السعودية فإنه يسقط حقه في طلب الجنسية إذا زادت غيبته عن مدة تأشيرة العودة وأقصاها ستة أشهر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "رقم (21)",
+      "article_label_raw": "رقم (21)",
+      "article_heading": "رقم (21)",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (21)",
+      "text_verbatim": "يجوز بمرسوم مسبب بناء على طلب وزير الداخلية سحب الجنسية العربية السعودية من كل من تجنس بها طبقا لأحكام المواد (8، 9، 10) من هذا النظام خلال السنوات الخمس الأولى من تجنسه في الحالتين الاثنتين:\n\n\t• أ - إذا حكم عليه بحكم جنائي أو عوقب بالسجن لجريمة أخلاقية لمدة تزيد عن سنة.\n\n\t• ب - إذا ثبت لقيامه أو اشتراكه في أي عمل يخل بالأمن العام في المملكة أو ثبت عنه صدور ما يجعله من غير المرغوب فيهم في البلاد.",
+      "text_for_index": "يجوز بمرسوم مسبب بناء على طلب وزير الداخلية سحب الجنسية العربية السعودية من كل من تجنس بها طبقا لأحكام المواد (8، 9، 10) من هذا النظام خلال السنوات الخمس الأولى من تجنسه في الحالتين الاثنتين:\n\n • أ - إذا حكم عليه بحكم جنائي أو عوقب بالسجن لجريمة أخلاقية لمدة تزيد عن سنة.\n\n • ب - إذا ثبت لقيامه أو اشتراكه في أي عمل يخل بالأمن العام في المملكة أو ثبت عنه صدور ما يجعله من غير المرغوب فيهم في البلاد.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز بمرسوم مسبب بناء على طلب وزير الداخلية سحب الجنسية العربية السعودية من كل من تجنس بها طبقا لأحكام المواد (8، 9، 10) من هذا النظام خلال السنوات الخمس الأولى من تجنسه في الحالتين الاثنتين:",
+          "text_for_index": "يجوز بمرسوم مسبب بناء على طلب وزير الداخلية سحب الجنسية العربية السعودية من كل من تجنس بها طبقا لأحكام المواد (8، 9، 10) من هذا النظام خلال السنوات الخمس الأولى من تجنسه في الحالتين الاثنتين:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-21::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• أ - إذا حكم عليه بحكم جنائي أو عوقب بالسجن لجريمة أخلاقية لمدة تزيد عن سنة.",
+          "text_for_index": "• أ - إذا حكم عليه بحكم جنائي أو عوقب بالسجن لجريمة أخلاقية لمدة تزيد عن سنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-21::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "• ب - إذا ثبت لقيامه أو اشتراكه في أي عمل يخل بالأمن العام في المملكة أو ثبت عنه صدور ما يجعله من غير المرغوب فيهم في البلاد.",
+          "text_for_index": "• ب - إذا ثبت لقيامه أو اشتراكه في أي عمل يخل بالأمن العام في المملكة أو ثبت عنه صدور ما يجعله من غير المرغوب فيهم في البلاد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "رقم (22)",
+      "article_label_raw": "رقم (22)",
+      "article_heading": "رقم (22)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (22)",
+      "text_verbatim": "يجوز بمرسوم بناء على اقتراح وزير الداخلية وموافقة رئيس مجلس الوزراء سحب الجنسية العربية السعودية من المتجنس بها في أي وقت إذا ثبت أنه قد حصل عليها بناء على أقوال كاذبة أو بطريق الغش أو الخطأ أو بالتزوير أو التزييف في الشهود أو الوثائق أو المستندات أو البيانات التي قدمها للدخول فيها.",
+      "text_for_index": "يجوز بمرسوم بناء على اقتراح وزير الداخلية وموافقة رئيس مجلس الوزراء سحب الجنسية العربية السعودية من المتجنس بها في أي وقت إذا ثبت أنه قد حصل عليها بناء على أقوال كاذبة أو بطريق الغش أو الخطأ أو بالتزوير أو التزييف في الشهود أو الوثائق أو المستندات أو البيانات التي قدمها للدخول فيها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يجوز بمرسوم بناء على اقتراح وزير الداخلية وموافقة رئيس مجلس الوزراء سحب الجنسية العربية السعودية من المتجنس بها في أي وقت إذا ثبت أنه قد حصل عليها بناء على أقوال كاذبة أو بطريق الغش أو الخطأ أو بالتزوير أو التزييف في الشهود أو الوثائق أو المستندات أو البيانات التي قدمها للدخول فيها.",
+          "text_for_index": "يجوز بمرسوم بناء على اقتراح وزير الداخلية وموافقة رئيس مجلس الوزراء سحب الجنسية العربية السعودية من المتجنس بها في أي وقت إذا ثبت أنه قد حصل عليها بناء على أقوال كاذبة أو بطريق الغش أو الخطأ أو بالتزوير أو التزييف في الشهود أو الوثائق أو المستندات أو البيانات التي قدمها للدخول فيها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "رقم (23)",
+      "article_label_raw": "رقم (23)",
+      "article_heading": "رقم (23)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (23)",
+      "text_verbatim": "يترتب على سحب   الجنسية العربية السعودية    من المتجنس بها زوال هذه الجنسية عن صاحبها وسحبها أيضا ممن كان قد كسبها مع المتجنس بطريق التبعية فإذا ثبت أن من اكتسبها بالتبعية من ذوي الأخلاق الحسنة وثبت عدم وجود ما يمنع منحه الجنسية فتمنح له مع احتساب المدة الماضية له.",
+      "text_for_index": "يترتب على سحب الجنسية العربية السعودية من المتجنس بها زوال هذه الجنسية عن صاحبها وسحبها أيضا ممن كان قد كسبها مع المتجنس بطريق التبعية فإذا ثبت أن من اكتسبها بالتبعية من ذوي الأخلاق الحسنة وثبت عدم وجود ما يمنع منحه الجنسية فتمنح له مع احتساب المدة الماضية له.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يترتب على سحب   الجنسية العربية السعودية    من المتجنس بها زوال هذه الجنسية عن صاحبها وسحبها أيضا ممن كان قد كسبها مع المتجنس بطريق التبعية فإذا ثبت أن من اكتسبها بالتبعية من ذوي الأخلاق الحسنة وثبت عدم وجود ما يمنع منحه الجنسية فتمنح له مع احتساب المدة الماضية له.",
+          "text_for_index": "يترتب على سحب الجنسية العربية السعودية من المتجنس بها زوال هذه الجنسية عن صاحبها وسحبها أيضا ممن كان قد كسبها مع المتجنس بطريق التبعية فإذا ثبت أن من اكتسبها بالتبعية من ذوي الأخلاق الحسنة وثبت عدم وجود ما يمنع منحه الجنسية فتمنح له مع احتساب المدة الماضية له.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "رقم (24)",
+      "article_label_raw": "رقم (24)",
+      "article_heading": "رقم (24)",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "evidence"
+      ],
+      "topic_tags_ar": [
+        "إثبات"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (24)",
+      "text_verbatim": "وزارة الداخلية هي الجهة صاحبة الاختصاص الأصلي في تنفيذ هذا القانون والإقرارات والإعلانات والأوراق والطلبات المنصوص عليها في هذا النظام، يجب أن توجه إلى وزير الداخلية بطريق الإعلان الرسمي أو بموجب إيصال إلى الموظف المختص في الدائرة التابع لها محل إقامة صاحب الشأن، وفي الخارج تسلم للممثلين السياسيين لحكومة جلالة الملك أو إلى قناصلها. ويجوز بقرار من وزير الداخلية أن يرخص لأي موظف آخر في تسلم هذه الإقرارات والإعلانات والطلبات والأوراق.",
+      "text_for_index": "وزارة الداخلية هي الجهة صاحبة الاختصاص الأصلي في تنفيذ هذا القانون والإقرارات والإعلانات والأوراق والطلبات المنصوص عليها في هذا النظام، يجب أن توجه إلى وزير الداخلية بطريق الإعلان الرسمي أو بموجب إيصال إلى الموظف المختص في الدائرة التابع لها محل إقامة صاحب الشأن، وفي الخارج تسلم للممثلين السياسيين لحكومة جلالة الملك أو إلى قناصلها. ويجوز بقرار من وزير الداخلية أن يرخص لأي موظف آخر في تسلم هذه الإقرارات والإعلانات والطلبات والأوراق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "وزارة الداخلية هي الجهة صاحبة الاختصاص الأصلي في تنفيذ هذا القانون والإقرارات والإعلانات والأوراق والطلبات المنصوص عليها في هذا النظام، يجب أن توجه إلى وزير الداخلية بطريق الإعلان الرسمي أو بموجب إيصال إلى الموظف المختص في الدائرة التابع لها محل إقامة صاحب الشأن، وفي الخارج تسلم للممثلين السياسيين لحكومة جلالة الملك أو إلى قناصلها. ويجوز بقرار من وزير الداخلية أن يرخص لأي موظف آخر في تسلم هذه الإقرارات والإعلانات والطلبات والأوراق.",
+          "text_for_index": "وزارة الداخلية هي الجهة صاحبة الاختصاص الأصلي في تنفيذ هذا القانون والإقرارات والإعلانات والأوراق والطلبات المنصوص عليها في هذا النظام، يجب أن توجه إلى وزير الداخلية بطريق الإعلان الرسمي أو بموجب إيصال إلى الموظف المختص في الدائرة التابع لها محل إقامة صاحب الشأن، وفي الخارج تسلم للممثلين السياسيين لحكومة جلالة الملك أو إلى قناصلها. ويجوز بقرار من وزير الداخلية أن يرخص لأي موظف آخر في تسلم هذه الإقرارات والإعلانات والطلبات والأوراق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "رقم (25)",
+      "article_label_raw": "رقم (25)",
+      "article_heading": "رقم (25)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (25)",
+      "text_verbatim": "جميع المراسيم والقرارات الخاصة بكسب الجنسية العربية السعودية أو بسحبها أو بإسقاطها أو باستردادها تعتبر نافذة من تاريخ نشرها في الجريدة الرسمية.",
+      "text_for_index": "جميع المراسيم والقرارات الخاصة بكسب الجنسية العربية السعودية أو بسحبها أو بإسقاطها أو باستردادها تعتبر نافذة من تاريخ نشرها في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "جميع المراسيم والقرارات الخاصة بكسب الجنسية العربية السعودية أو بسحبها أو بإسقاطها أو باستردادها تعتبر نافذة من تاريخ نشرها في الجريدة الرسمية.",
+          "text_for_index": "جميع المراسيم والقرارات الخاصة بكسب الجنسية العربية السعودية أو بسحبها أو بإسقاطها أو باستردادها تعتبر نافذة من تاريخ نشرها في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "رقم (26)",
+      "article_label_raw": "رقم (26)",
+      "article_heading": "رقم (26)",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (26)",
+      "text_verbatim": "مع عدم الإخلال بأية عقوبة أخرى أشد يعاقب بالحبس مدة لا تتجاوز سنتين أو بغرامة لا تتجاوز ألف ريال عربي سعودي كل من أبدى أمام السلطة المختصة بقصد إثبات   الجنسية العربية السعودية    له أو لغيره أو بقصد نفيها عنه وعن غيره أقوالا كاذبة أو قدم إليها أوراقا غير صحيحة مع علمه بذلك وتصدر الموافقة بقرار مسبب من وزير الداخلية.",
+      "text_for_index": "مع عدم الإخلال بأية عقوبة أخرى أشد يعاقب بالحبس مدة لا تتجاوز سنتين أو بغرامة لا تتجاوز ألف ريال عربي سعودي كل من أبدى أمام السلطة المختصة بقصد إثبات الجنسية العربية السعودية له أو لغيره أو بقصد نفيها عنه وعن غيره أقوالا كاذبة أو قدم إليها أوراقا غير صحيحة مع علمه بذلك وتصدر الموافقة بقرار مسبب من وزير الداخلية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأية عقوبة أخرى أشد يعاقب بالحبس مدة لا تتجاوز سنتين أو بغرامة لا تتجاوز ألف ريال عربي سعودي كل من أبدى أمام السلطة المختصة بقصد إثبات   الجنسية العربية السعودية    له أو لغيره أو بقصد نفيها عنه وعن غيره أقوالا كاذبة أو قدم إليها أوراقا غير صحيحة مع علمه بذلك وتصدر الموافقة بقرار مسبب من وزير الداخلية.",
+          "text_for_index": "مع عدم الإخلال بأية عقوبة أخرى أشد يعاقب بالحبس مدة لا تتجاوز سنتين أو بغرامة لا تتجاوز ألف ريال عربي سعودي كل من أبدى أمام السلطة المختصة بقصد إثبات الجنسية العربية السعودية له أو لغيره أو بقصد نفيها عنه وعن غيره أقوالا كاذبة أو قدم إليها أوراقا غير صحيحة مع علمه بذلك وتصدر الموافقة بقرار مسبب من وزير الداخلية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "رقم (27)",
+      "article_label_raw": "رقم (27)",
+      "article_heading": "رقم (27)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (27)",
+      "text_verbatim": "يصدر   وزير الداخلية      القرارات    اللازمة لتنفيذ هذا النظام.",
+      "text_for_index": "يصدر وزير الداخلية القرارات اللازمة لتنفيذ هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يصدر   وزير الداخلية      القرارات    اللازمة لتنفيذ هذا النظام.",
+          "text_for_index": "يصدر وزير الداخلية القرارات اللازمة لتنفيذ هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "رقم (28)",
+      "article_label_raw": "رقم (28)",
+      "article_heading": "رقم (28)",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (28)",
+      "text_verbatim": "يلغي هذا النظام نظام الجنسية العربية السعودية الذي صدرت الإرادة الملكية السنية رقم 7 / 1 / 47 في تاريخ 13 شوال 1357هـ بالموافقة عليه، وما سبقه ومن نظم خاصة بالتابعية الحجازية أو بالتابعية الحجازية النجدية، كما يلغي أحكام النظم الأخرى المخالفة لأحكامه.",
+      "text_for_index": "يلغي هذا النظام نظام الجنسية العربية السعودية الذي صدرت الإرادة الملكية السنية رقم 7 / 1 / 47 في تاريخ 13 شوال 1357هـ بالموافقة عليه، وما سبقه ومن نظم خاصة بالتابعية الحجازية أو بالتابعية الحجازية النجدية، كما يلغي أحكام النظم الأخرى المخالفة لأحكامه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يلغي هذا النظام نظام الجنسية العربية السعودية الذي صدرت الإرادة الملكية السنية رقم 7 / 1 / 47 في تاريخ 13 شوال 1357هـ بالموافقة عليه، وما سبقه ومن نظم خاصة بالتابعية الحجازية أو بالتابعية الحجازية النجدية، كما يلغي أحكام النظم الأخرى المخالفة لأحكامه.",
+          "text_for_index": "يلغي هذا النظام نظام الجنسية العربية السعودية الذي صدرت الإرادة الملكية السنية رقم 7 / 1 / 47 في تاريخ 13 شوال 1357هـ بالموافقة عليه، وما سبقه ومن نظم خاصة بالتابعية الحجازية أو بالتابعية الحجازية النجدية، كما يلغي أحكام النظم الأخرى المخالفة لأحكامه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "رقم (29)",
+      "article_label_raw": "رقم (29)",
+      "article_heading": "رقم (29)",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (29)",
+      "text_verbatim": "لا يحق لغير جلالة الملك منح الجنسية لمن لا تتوفر لديه الشرائط المنصوص عليها في المادة (9) وكذلك   إسقاط الجنسية    عن أي سعودي لا تنطبق عليه الأحكام المدرجة في المادة (13) من هذا النظام.",
+      "text_for_index": "لا يحق لغير جلالة الملك منح الجنسية لمن لا تتوفر لديه الشرائط المنصوص عليها في المادة (9) وكذلك إسقاط الجنسية عن أي سعودي لا تنطبق عليه الأحكام المدرجة في المادة (13) من هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يحق لغير جلالة الملك منح الجنسية لمن لا تتوفر لديه الشرائط المنصوص عليها في المادة (9) وكذلك   إسقاط الجنسية    عن أي سعودي لا تنطبق عليه الأحكام المدرجة في المادة (13) من هذا النظام.",
+          "text_for_index": "لا يحق لغير جلالة الملك منح الجنسية لمن لا تتوفر لديه الشرائط المنصوص عليها في المادة (9) وكذلك إسقاط الجنسية عن أي سعودي لا تنطبق عليه الأحكام المدرجة في المادة (13) من هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "رقم (30)",
+      "article_label_raw": "رقم (30)",
+      "article_heading": "رقم (30)",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الجنسية العربية السعودية، المادة رقم (30)",
+      "text_verbatim": "يعتبر هذا النظام نافذا المفعول من تاريخ تصديقة ونشرة في الجريدة الرسمية.\n\nولما ذكر حـــــــــــــرر.",
+      "text_for_index": "يعتبر هذا النظام نافذا المفعول من تاريخ تصديقة ونشرة في الجريدة الرسمية.\n\nولما ذكر حـــــــــــــرر.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعتبر هذا النظام نافذا المفعول من تاريخ تصديقة ونشرة في الجريدة الرسمية.",
+          "text_for_index": "يعتبر هذا النظام نافذا المفعول من تاريخ تصديقة ونشرة في الجريدة الرسمية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-aljnsyh-alarbyh-alsawdyh::article-30::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ولما ذكر حـــــــــــــرر.",
+          "text_for_index": "ولما ذكر حـــــــــــــرر.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

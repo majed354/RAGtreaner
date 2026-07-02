@@ -1,0 +1,1040 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08d322309984e000ca41c9b8e57fc10577400bdc31009b090d5c2dd1ff7c335047531a9b93b0f149006426fe7c08b6b39acc26cfdc9420a33ead307c3dcea6cd78c94b7d0db645b49399e6186005f6efc72d58cd61047ff84cce04aee5f78655091811345a9de8a973ff161f4b7e7711d3b6ec024517949cd1c974de656473fbfc4059799c2a50586f7e3880e07b67098fda6d269becd979566943e25fe596b5aa8967f4362cf28c143d17e8240202cf4c18910b2590fd3f84e8fac89e22040ac6991ce3e771a4a6b6fa8ab681ba11760cb931e3d663fb2705114ee3f64025ffb4d3437646e1b2cc";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab20007276be85ccd1c6c269f5fb900baa5e4d8e2cb7aa9d1abaa92c954c81f50dcdc6?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام مطاحن إنتاج الدقيق
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام مطاحن إنتاج الدقيق</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الزراعة والمياه والثروات الحية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام مطاحن إنتاج الدقيق</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام مطاحن إنتاج الدقيق</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>73704</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="7dd058e6-3f77-4eaa-a069-a9f801447c70">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p>- الموافقة على نظام مطاحن إنتاج الدقيق</p>
+
+<p>- إحلال عبارة &quot;الهيئة العامة للأمن الغذائي&quot; محل عبارة &quot;المؤسسة العامة للحبوب&quot; أينما وردت في النظام، وإحلال كلمة &quot;الهيئة&quot; محل كلمة &quot;المؤسسة&quot; أينما وردت في النظام، وذلك بموجب قرار مجلس الوزراء رقم (440) وتاريخ 1444/6/24هـ، المتضمن الموافقة على الترتيبات التنظيمية للهيئة العامة للأمن الغذائي.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام مطاحن إنتاج الدقيق</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1439/08/16 هـ  الموافق : 02/05/2018 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1439/09/02  هـ الموافق : 17/05/2018 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/b14425a6-3a45-481e-9c9d-a9f8015472f5?lawId=7dd058e6-3f77-4eaa-a069-a9f801447c70">مرسوم ملكي رقم ( م/91)      وتاريخ 1439/8/16 هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/060e29d8-ab7b-4976-8081-a9f801447c7a?lawId=7dd058e6-3f77-4eaa-a069-a9f801447c70">قرار مجلس الوزراء رقم: (438) وتاريخ: 1439/8/15 هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="7dd058e6-3f77-4eaa-a069-a9f801447c70" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/94a55d9c-1a19-421e-affc-a9f801447d69?lawId=7dd058e6-3f77-4eaa-a069-a9f801447c70" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="7dd058e6-3f77-4eaa-a069-a9f801447c70">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="7dd058e6-3f77-4eaa-a069-a9f801447c70" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام مطاحن إنتاج الدقيق</h3>
+        <h3 class="center">1439 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم ( م/91)      وتاريخ 1439/8/16 هـ</h4>
+            <div class="HTMLContainer">
+                <p><p>&nbsp;بعون الله تعالى<br />
+نحن سلمان بن عبدالعزيز آل سعود<br />
+ملك المملكة العربية السعودية&nbsp;<br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم ( أ / 90 ) بتاريخ 27 / 8 / 1412 هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم ( أ / 13 ) بتاريخ 3 / 3 / 1414 هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم ( أ / 91 ) بتاريخ 27 / 8 / 1412 هـ.<br />
+وبعد الاطلاع على قرار مجلس الشورى رقم ( 57 / 12 ) بتاريخ 5 / 5 / 1439 هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم ( 438 ) بتاريخ 15 / 8 / 1439 هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p>أولاً: الموافقة على نظام مطاحن إنتاج الدقيق، بالصيغة المرافقة.<br />
+ثانياً: على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة &ndash; كل فيما يخُصُه &ndash; تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم: (438) وتاريخ: 1439/8/15 هـ</h4>
+            <p><p>إن مجلس الوزراء&nbsp;<br />
+بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم 24532 &nbsp;وتاريخ 22 / 5 / 1439 هـ، المشتملة على خطاب معالي وزير البيئة والمياه والزراعة رئيس مجلس إدارة المؤسسة العامة للحبوب رقم 16281 وتاريخ 1 / 4 / 1437 هـ، في شأن مشروع نظام مطاحن إنتاج الدقيق.<br />
+وبعد الاطلاع على مشروع النظام المشار إليه.<br />
+وبعد الاطلاع على المحضرين رقم ( 1237 ) وتاريخ 18 / 10 / 1438 هـ، ورقم ( 914 ) وتاريخ 9 / 7 / 1439 هـ، المعدين في هيئة الخبراء بمجلس الوزراء.<br />
+وبعد النظر في قرار مجلس الشورى رقم ( 57 / 12 ) وتاريخ 5 / 5 / 1439 هـ.<br />
+وبعد الاطلاع على التوصيتين المعدتين في مجلس الشؤون الاقتصادية والتنمية رقم ( 2 &ndash; 66 / 38 / د ) وتاريخ 29 / 10 / 1438 هـ، ورقم ( 3 &ndash; 38 / 39 / د ) وتاريخ 17 / 7 / 1439 هـ.<br />
+وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم ( 3707 ) وتاريخ 8 / 8 / 1439 هـ.</p>
+
+<p style="text-align:center"><strong>يقرر&nbsp;</strong></p>
+
+<p>الموافقة على نظام مطاحن إنتاج الدقيق، بالصيغة المرافقة.<br />
+وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام مطاحن إنتاج الدقيق</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى:</h3>
+                <div class="HTMLContainer">
+                    <p>يقصد بالألفاظ والعبارات الآتية -أينما وردت في النظام- المعاني المبينة أمام كل منها:<br />
+1- النظام: نظام مطاحن إنتاج الدقيق.<br />
+2- المؤسسة: المؤسسة العامة للحبوب.<br />
+3- المجلس: مجلس إدارة المؤسسة.<br />
+4- الرئيس: رئيس المجلس.<br />
+5- المحافظ: محافظ المؤسسة.<br />
+6- المطاحن: مطاحن إنتاج الدقيق .<br />
+7- شركات المطاحن: شركات مطاحن إنتاج الدقيق.<br />
+8- اللجنة: لجنة النظر في المخالفات الناشئة من تطبيق أحكام النظام، والبت في التظلمات المقدمة في شأنها .&nbsp;<br />
+9- اللوائح: اللوائح التنفيذية للنظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية:</h3>
+                <div class="HTMLContainer">
+                    <p>&nbsp;تُنشأ المطاحن أو تُشغَّل من خلال شركات مساهمة تؤسس وفقاً للإجراءات النظامية.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة:</h3>
+                <div class="HTMLContainer">
+                    <p>يشترط لإنشاء المطاحن أو تشغيلها أو التوسع فيها؛ الحصول على ترخيص من المؤسسة يصدر بقرار من المجلس.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة:</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر المجلس الترخيص بإنشاء المطاحن أو تشغيلها بعد موافقة مجلس الوزراء.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة:</h3>
+                <div class="HTMLContainer">
+                    <p>تفرض المؤسسة مقابلاً ماليًّا على إصدار أي ترخيص أو تجديده أو تعديله، ويحدد المجلس مقدار المقابل المالي، وتبين اللوائح تصنيف التراخيص، وأنواعها ومددها، وتحدد كذلك شروط إصدار التراخيص وتجديدها وتعديلها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة:</h3>
+                <div class="HTMLContainer">
+                    <p>على المؤسسة في حالة عدم تجديد الترخيص اتخاذ ما يلزم لضمان تأمين حاجة السوق من الدقيق.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة:</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز لشركات المطاحن التنازل عن الترخيص قبل الحصول على الموافقة من المجلس، وتبين اللوائح ضوابط وشروط التنازل عن الترخيص.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة:</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز لشركات المطاحن إنشاء صوامع لتخزين احتياجاتها التشغيلية، بعد الحصول على الترخيص اللازم وفقاً للشروط التي تبينها اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة:</h3>
+                <div class="HTMLContainer">
+                    <p>لا يجوز لشركات المطاحن استيراد أي كمية من القمح إلا بعد الحصول على موافقة المجلس وفقاً للشروط التي تبينها اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>دون إخلال باختصاصات الهيئة العامة للغذاء والدواء:<br />
+أ ـ تراقب المؤسسة جودة منتجات شركات المطاحن قبل طرحها في الأسواق بحسب المعايير المتعلقة بجودة الدقيق والمواد المضافة إليه، وتحدد اللوائح معايير الجودة.&nbsp;<br />
+ب ـ تتولى المؤسسة التفتيش على شركات المطاحن ومرافقها وجميع المنشآت التابعة لها؛ فيما يخص تطبيق أحكام النظام واللوائح.&nbsp;<br />
+&nbsp; &nbsp;وتتفق المؤسسة والهيئة العامة للغذاء والدواء على وضع الآلية المناسبة لممارسة هذا الاختصاص.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>تُحدّد أسعار الدقيق ومنتجات شركات المطاحن المشتقة من الطحن وفقاً للسياسة التسعيرية التي يقرها مجلس الوزراء بناء على اقتراح من المؤسسة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>دون إخلال باختصاصات وزارة التجارة والاستثمار تراقب المؤسسة عمليات توزيع الدقيق للموزعين والمخابز وتجار التجزئة، وتراقب كذلك أسعار الدقيق ومنتجات شركات المطاحن المشتقة من الطحن للتأكد من التزامها بالسياسة التسعيرية.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>للرئيس في الحالات غير العادية اتخاذ التدابير اللازمة لتأمين حاجة السوق من الدقيق بإجراءات ميسرة، بما في ذلك وضع أسعار موحدة للدقيق وفقاً للسياسة التسعيرية إلى حين انتهاء الحالة غير العادية. ويتقرر ظهور الحالة غير العادية أو الانتهاء منها بناء على تقرير يرفعه المحافظ ويوافق عليه الرئيس.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>يُحظر على شركات المطاحن تصدير القمح أو الدقيق أو المنتجات المشتقة منهما المدعومة إلى خارج المملكة إلا بعد الحصول على موافقة المجلس، على أن يراعى ما يلي:&nbsp;<br />
+1-تحصيل المؤسسة ما يعادل قيمة الدعم المتحقق للقمح أو الدقيق أو المنتجات المشتقة منهما المطلوب تصديرها.<br />
+2-&nbsp;ألا يترتب على التصدير إخلال بحاجة السوق المحلية من القمح أو الدقيق أو المنتجات المشتقة منهما.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>مع عدم الإخلال بأحكام نظام المنافسة:&nbsp;<br />
+1-&nbsp;تلتزم شركات المطاحن بالآتي:<br />
+أ&zwnj;-&nbsp;الحصول على موافقة المجلس قبل أيّ عملية اندماج مع أي شركة أخرى من شركات المطاحن المرخص لها أو امتلاك معظم هذه الشركات أو موجوداتها سواء داخل المملكة أو خارجها، وإبلاغ المؤسسة خلال خمسة أيام عمل بأي اتفاق مبدئي يتم التوصل إليه في هذا الشأن.<br />
+ب&zwnj;-الحصول على موافقة المجلس قبل شراء ما نسبته خمسة في المائة (5%) أو أكثر من أسهم أي شركة أخرى من شركات المطاحن المرخص لها، أو شراء أوراقها المالية، أو أي صيغة أخرى من صيغ حقوق الملكية، أو شراء نسبة أقل من تلك إذا كانت تؤدي إلى إنشاء وضع مهيمن في أي جزء من نشاط الطحن.<br />
+2- يُحظر على شركات المطاحن ما يأتي:<br />
+أ- اتفاقها على إجراء ممارسات من شأنها الهيمنة على سوق محددة، أو الحد من المنافسة أو منعها أو التقليل من فعاليتها في قطاع نشاط الطحن، إلا بعد الحصول على موافقة المجلس.<br />
+ب- اتفاقها على زيادة إنتاج الدقيق أو تقليله أو المنتجات المشتقة من نشاط الطحن إلا بعد الحصول على موافقة المجلس.<br />
+ج- قيامها بأيّ نشاط أو إجراء يمثل استغلالاً لوضعها -بعد حصولها على موافقة المجلس- بالهيمنة على سوق معينة أو جزء منها.<br />
+3 ـ&nbsp;يُعد باطلاً أي اتفاق أو إجراء يخالف الأحكام الواردة في هذه المادة.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>تلتزم شركات المطاحن بتقنيات الطحن، ومعايير الإنتاج، وضوابط بيع الدقيق وتوزيعه، التي تعتمدها المؤسسة وفقاً لما تبينه اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>تتلقى المؤسسة الشكاوى المقدّمة ضد شركات المطاحن أو منتجاتها والمتعلقة بمخالفة أحكام النظام أو اللوائح، وتحيلها بعد التحقيق إلى اللجنة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>تلتزم شركات المطاحن بتقديم ما تطلبه المؤسسة من معلومات، وعلى المؤسسة المحافظة على سرية المعلومات، وعدم الإفصاح عنها للغير إلا وفقاً لما تقضي به الأنظمة.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة عشرة:</h3>
+                <div class="HTMLContainer">
+                    <p>يتولى مفتشون ـ يصدر بتسميتهم قرار من المحافظ ـ أعمال الرقابة والتفتيش وضبط المخالفات وتكون لهم صفة رجال الضبط.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>للمفتش دخول جميع المنشآت والمرافق التابعة لشركات المطاحن لأجل التفتيش، وله الاطلاع على المستندات والسجلات والاحتفاظ بنسخة منها إذا لزم الأمر، وله كذلك سحب عينات من المواد والأصناف الموجودة لديها، وعلى المفتش إبراز بطاقته الوظيفية التي تبين اختصاصه بالتفتيش عند مباشرة أي من تلك الإجراءات.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>لمفتشي المؤسسة جميع الصلاحيات اللازمة للتحقيق في المخالفات والشكاوى المقدّمة ضد شركات المطاحن بموجب أحكام النظام واللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>على المفتش تحرير المحاضر اللازمة لإثبات ما يضبط من مخالفات والشكاوى المقدّمة ضد شركات المطاحن، وله سلطة التحقيق، والادعاء أمام اللجنة، وفقاً لما تبينه اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>&nbsp;مع عدم الإخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يعاقب كل من يرتكب مخالفة لأحكام النظام أو اللوائح بواحدة من العقوبات الآتية:<br />
+أ ـ الإنذار.<br />
+ب ـ تعليق النشاط أو جزء منه لمدة تحددها اللوائح.<br />
+ج ـ غرامة لا تزيد على عشرين مليون ريـال.&nbsp;&nbsp; &nbsp;<br />
+د ـ إلغاء الترخيص.<br />
+على أن يراعى في جميع الحالات أن يتم استرداد المبالغ المحصلة نتيجة المخالفة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز تضمين القرار الصادر بالعقوبة -الذي أصبح نهائياً- النص على نشره على نفقة المخالف في ثلاث صحف محلية، تصدر إحداها على الأقل في المنطقة التي يقع فيها مقر إقامته، فإن لم تكن هناك صحيفة في المنطقة ففي صحيفة تصدر في أقرب منطقة إليها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>&nbsp;في حالة تكرار المخالفة أو إذا لم تصحح خلال المهلة التي تحددها اللجنة، يُعاقب المخالف بضِعف الغرامة أو مدة تعليق النشاط المحكوم بها في المرة السابقة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>تُطبق العقوبات المنصوص عليها في النظام بقرار يصدر من اللجنة وفقاً لأحكام النظام أو اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>1- تُكوّن في المؤسسة -بقرار من المجلس- لجنة للنظر في مخالفات أحكام النظام أو اللوائح من ثلاثة أعضاء على الأقل من ذوي الاختصاص من منسوبي المؤسسة أو من غيرهم، على أن يكون من بينهم مستشار قانوني على الأقل.<br />
+2- تصدر اللجنة قراراتها وفقاً للقواعد والإجراءات التي تحددها اللوائح.<br />
+3- يجوز التظلم من قرارات اللجنة أمام المحكمة الإدارية المختصة خلال ستين يوماً من تاريخ الإبلاغ بالقرار.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر المجلس اللوائح خلال مدة لا تتجاوز مائة وثمانين يوماً من تاريخ نشر النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة والعشرون:</h3>
+                <div class="HTMLContainer">
+                    <p>&nbsp;يُعمل بهذا النظام بعد مضي مائة وثمانين يوماً من تاريخ نشره في الجريدة الرسمية.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="7dd058e6-3f77-4eaa-a069-a9f801447c70" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="3719ed7e-4a00-4df4-8cfb-a9f80145d8dc">المادة الأولى: </option>
+<option value="4363f3b0-2316-47fe-8532-a9f801472fdc">المادة الثانية: </option>
+<option value="ed55c458-7d76-4ece-98ae-a9f801479706">المادة الثالثة: </option>
+<option value="6761df84-ebe2-4e58-b0ad-a9f80147df66">المادة الرابعة: </option>
+<option value="0e93832d-ed00-49b7-8142-a9f80148228e">المادة الخامسة: </option>
+<option value="ca909c14-56e5-4102-83ac-a9f801486e3b">المادة السادسة: </option>
+<option value="36628ab9-83ea-4a12-bd40-a9f80148b827">المادة السابعة: </option>
+<option value="d5a88d56-a262-4647-95fb-a9f80148f337">المادة الثامنة: </option>
+<option value="b8151b2a-8b57-44a7-8eab-a9f8014932eb">المادة التاسعة: </option>
+<option value="f1a36c6b-a5ce-4730-a0d0-a9f80149c267">المادة العاشرة: </option>
+<option value="805e2a0b-9449-4f3e-8cc1-a9f8014a2293">المادة الحادية عشرة: </option>
+<option value="b2f373e3-5ba3-43f0-a837-a9f8014a6b5e">المادة الثانية عشرة: </option>
+<option value="3b9ef968-744a-4de3-8eba-a9f8014ad771">المادة الثالثة عشرة: </option>
+<option value="a87bff92-6ea5-4f22-aab1-a9f8014b462d">المادة الرابعة عشرة: </option>
+<option value="e2568f2c-c1ee-4ccc-a640-a9f8014bd2aa">المادة الخامسة عشرة: </option>
+<option value="fe44c85e-564e-45ba-9a2b-a9f8014c1db3">المادة السادسة عشرة: </option>
+<option value="b3dfb45a-88ad-4cc2-a50e-a9f8014c68d4">المادة السابعة عشرة: </option>
+<option value="db1bebcb-1d6c-4748-a0ae-a9f8014cdf98">المادة الثامنة عشرة: </option>
+<option value="d208879c-4fff-44d9-afc6-a9f8014d4276">المادة التاسعة عشرة: </option>
+<option value="7e9f9bc3-58f8-40de-b024-a9f8014d8f5c">المادة العشرون: </option>
+<option value="9716b77a-ca5e-47ef-b13e-a9f8014de30d">المادة الحادية والعشرون: </option>
+<option value="4d7d16d5-2502-4983-a50d-a9f8014e1ec7">المادة الثانية والعشرون: </option>
+<option value="7c0c0949-1f03-48c4-89ca-a9f8014e6c89">المادة الثالثة والعشرون: </option>
+<option value="279d142a-45a4-4be1-8a09-a9f8014e9a77">المادة الرابعة والعشرون: </option>
+<option value="4dbfa837-d52d-4f95-8637-a9f8014edeef">المادة الخامسة والعشرون: </option>
+<option value="b6b98718-3d98-4621-b0be-a9f8014f21ba">المادة السادسة والعشرون: </option>
+<option value="33b335c6-3182-4c10-b662-a9f8014f5c5a">المادة السابعة والعشرون: </option>
+<option value="0601d3dd-c34d-4d45-b843-a9f8014f918b">المادة الثامنة والعشرون: </option>
+<option value="f05608c3-fccb-4e0a-ab3e-a9f8014fcf49">المادة التاسعة والعشرون: </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaFOUF' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaFOUF' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaFOUF = new CaptchaWidget('divCaptchaContainer_captchaFOUF', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaFOUF.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription7dd058e6-3f77-4eaa-a069-a9f801447c70" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="7dd058e6-3f77-4eaa-a069-a9f801447c70" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaS4SF' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaS4SF' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-7dd058e6-3f77-4eaa-a069-a9f801447c70">
+                    <input type="checkbox" id="agreement-7dd058e6-3f77-4eaa-a069-a9f801447c70" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='7dd058e6-3f77-4eaa-a069-a9f801447c70' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-7dd058e6-3f77-4eaa-a069-a9f801447c70"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-7dd058e6-3f77-4eaa-a069-a9f801447c70"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaFOUF = new CaptchaWidget('divCaptchaContainer_captchaFOUF', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaFOUF.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaS4SF = new CaptchaWidget('divCaptchaContainer_captchaS4SF', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaS4SF.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="7dd058e6-3f77-4eaa-a069-a9f801447c70">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaFOUF = new CaptchaWidget('divCaptchaContainer_captchaFOUF', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaFOUF.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaS4SF = new CaptchaWidget('divCaptchaContainer_captchaS4SF', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaS4SF.load(); 
+                    }); </script>
+</body>
+
+</html>

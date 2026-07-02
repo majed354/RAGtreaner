@@ -1,0 +1,4207 @@
+{
+  "verified_on": "2026-04-21",
+  "verification_scope_note": "تم توليد هذا الكتالوج آليًا من صفحة الوثائق النظامية في بوابة هيئة الخبراء مع حصر العناوين التي تندرج تحت الأنظمة فقط، ثم التحقق من حالة كل وثيقة من صفحة النظام نفسها واستبعاد غير الساري افتراضيًا.",
+  "entries": [
+    {
+      "slug": "alnzam-almwhd-lmkafhh-alighraq-waltdabyr-altawydyh-walwqayyh-ldwl-mjls-altaawn-ldwl-alkhlyj-alar",
+      "title_ar": "القانون \"النظام\" الموحد لمكافحة الإغراق والتدابير التعويضية والوقائية لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1427/05/17 هـ الموافق : 13/06/2006 مـ",
+      "issue_date_gregorian": "2006-06-13",
+      "publish_date_hijri": "1427/06/25 هـ الموافق : 21/07/2006 مـ",
+      "publish_date_gregorian": "2006-07-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0da0543b-72bf-4405-98f3-a9a700f1c593/1"
+      ],
+      "organized_filename": "alnzam-almwhd-lmkafhh-alighraq-waltdabyr-altawydyh-walwqayyh-ldwl-mjls-altaawn-ldwl-alkhlyj-alar.pdf",
+      "knowledge_filename": "alnzam-almwhd-lmkafhh-alighraq-waltdabyr-altawydyh-walwqayyh-ldwl-mjls-altaawn-ldwl-alkhlyj-alar.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-almwhd-lltadyn-ldwl-mjls-altaawn",
+      "title_ar": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون",
+      "status": "ساري",
+      "issue_date_hijri": "1435/07/06 هـ الموافق : 05/05/2014 مـ",
+      "issue_date_gregorian": "2014-05-05",
+      "publish_date_hijri": "1435/08/22 هـ الموافق : 20/06/2014 مـ",
+      "publish_date_gregorian": "2014-06-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/652bbeb0-fb94-4f08-b70c-a9a700f2a0c2/1"
+      ],
+      "organized_filename": "alnzam-almwhd-lltadyn-ldwl-mjls-altaawn.pdf",
+      "knowledge_filename": "alnzam-almwhd-lltadyn-ldwl-mjls-altaawn.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasas-ljamah-almlk-sawd-mwssh-akadymyh-mstqlh-ghyr-hadfh-llrbh",
+      "title_ar": "النظام الأساس لجامعة الملك سعود (مؤسسة أكاديمية مستقلة غير هادفة للربح)",
+      "status": "ساري",
+      "issue_date_hijri": "1444/02/09 هـ الموافق : 05/09/2022 مـ",
+      "issue_date_gregorian": "2022-09-05",
+      "publish_date_hijri": "1444/02/13 هـ الموافق : 09/09/2022 مـ",
+      "publish_date_gregorian": "2022-09-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c3825760-995a-4f0e-83ca-af230115f2f5/1"
+      ],
+      "organized_filename": "alnzam-alasas-ljamah-almlk-sawd-mwssh-akadymyh-mstqlh-ghyr-hadfh-llrbh.pdf",
+      "knowledge_filename": "alnzam-alasas-ljamah-almlk-sawd-mwssh-akadymyh-mstqlh-ghyr-hadfh-llrbh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasas-ljmayh-alkshafh-alarbyh-alsawdyh",
+      "title_ar": "النظام الأساس لجمعية الكشافة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1439/07/25 هـ الموافق : 11/04/2018 مـ",
+      "issue_date_gregorian": "2018-04-11",
+      "publish_date_hijri": "1439/08/23 هـ الموافق : 09/05/2018 مـ",
+      "publish_date_gregorian": "2018-05-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4db42334-ba00-47bf-b9f9-a9f4016e0ac1/1"
+      ],
+      "organized_filename": "alnzam-alasas-ljmayh-alkshafh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "alnzam-alasas-ljmayh-alkshafh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasas-lmstshfa-almlk-khald-altkhssy-llaywn-wmrkz-alabhath-mwssh-mstqlh-dhat-tbyah-khash",
+      "title_ar": "النظام الأساس لمستشفى الملك خالد التخصصي للعيون ومركز الأبحاث (مؤسسة مستقلة ذات طبيعة خاصة وغير هادفة للربح)",
+      "status": "ساري",
+      "issue_date_hijri": "1446/04/21 هـ الموافق : 24/10/2024 مـ",
+      "issue_date_gregorian": "2024-10-24",
+      "publish_date_hijri": "1446/04/29 هـ الموافق : 01/11/2024 مـ",
+      "publish_date_gregorian": "2024-11-01",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a187d565-1a52-45cc-a1de-b2dc00daae23/1"
+      ],
+      "organized_filename": "alnzam-alasas-lmstshfa-almlk-khald-altkhssy-llaywn-wmrkz-alabhath-mwssh-mstqlh-dhat-tbyah-khash.pdf",
+      "knowledge_filename": "alnzam-alasas-lmstshfa-almlk-khald-altkhssy-llaywn-wmrkz-alabhath-mwssh-mstqlh-dhat-tbyah-khash.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasas-lmstshfa-almlk-fysl-altkhssy-wmrkz-alabhath-mwssh-mstqlh-dhat-tbyah-khash-wghyr-ha",
+      "title_ar": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث (مؤسسة مستقلة ذات طبيعة خاصة وغير هادفة للربح)",
+      "status": "ساري",
+      "issue_date_hijri": "1443/05/13 هـ الموافق : 17/12/2021 مـ",
+      "issue_date_gregorian": "2021-12-17",
+      "publish_date_hijri": "1443/05/20 هـ الموافق : 24/12/2021 مـ",
+      "publish_date_gregorian": "2021-12-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cdb31382-3f97-4232-82e8-ae0b00dc2727/1"
+      ],
+      "organized_filename": "alnzam-alasas-lmstshfa-almlk-fysl-altkhssy-wmrkz-alabhath-mwssh-mstqlh-dhat-tbyah-khash-wghyr-ha.pdf",
+      "knowledge_filename": "alnzam-alasas-lmstshfa-almlk-fysl-altkhssy-wmrkz-alabhath-mwssh-mstqlh-dhat-tbyah-khash-wghyr-ha.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasasy-llathadat-alryadyh-walljnh-alawlmbyh-alarbyh-alsawdyh",
+      "title_ar": "النظام الأساسي للاتحادات الرياضية واللجنة الأولمبية العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1407/10/19 هـ الموافق : 15/06/1987 مـ",
+      "issue_date_gregorian": "1987-06-15",
+      "publish_date_hijri": "1407/12/06 هـ الموافق : 31/07/1987 مـ",
+      "publish_date_gregorian": "1987-07-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/040228ce-9ca5-4666-aab1-a9a700f27c6d/1"
+      ],
+      "organized_filename": "alnzam-alasasy-llathadat-alryadyh-walljnh-alawlmbyh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "alnzam-alasasy-llathadat-alryadyh-walljnh-alawlmbyh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "basic-law-of-governance",
+      "title_ar": "النظام الأساسي للحكم",
+      "status": "ساري",
+      "issue_date_hijri": "1412/08/27 هـ الموافق : 01/03/1992 مـ",
+      "issue_date_gregorian": "1992-03-01",
+      "publish_date_hijri": "1412/09/02 هـ الموافق : 06/03/1992 مـ",
+      "publish_date_gregorian": "1992-03-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/16b97fcb-4833-4f66-8531-a9a700f161b6/1"
+      ],
+      "organized_filename": "basic-law-of-governance.pdf",
+      "knowledge_filename": "basic-law-of-governance.txt",
+      "document_scope": "system_only",
+      "local_source_relpath": "archive/raw_unsorted/الأنظمة والقوانين/النظام الأساسي للحكم.pdf"
+    },
+    {
+      "slug": "alnzam-alasasy-llmjls-aldwly-lltmwr",
+      "title_ar": "النظام الأساسي للمجلس الدولي للتمور",
+      "status": "ساري",
+      "issue_date_hijri": "1438/01/24 هـ الموافق : 25/10/2016 مـ",
+      "issue_date_gregorian": "2016-10-25",
+      "publish_date_hijri": "1440/03/21 هـ الموافق : 29/11/2018 مـ",
+      "publish_date_gregorian": "2018-11-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f0761b32-f420-4435-bd2f-a9a700f25a36/1"
+      ],
+      "organized_filename": "alnzam-alasasy-llmjls-aldwly-lltmwr.pdf",
+      "knowledge_filename": "alnzam-alasasy-llmjls-aldwly-lltmwr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasasy-llmrkz-alihsayy-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "النظام الأساسي للمركز الإحصائي لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/06/12 هـ الموافق : 12/04/2014 مـ",
+      "issue_date_gregorian": "2014-04-12",
+      "publish_date_hijri": "1435/07/24 هـ الموافق : 23/05/2014 مـ",
+      "publish_date_gregorian": "2014-05-23",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d93b5ced-1adb-494d-85fd-a9a700f1e817/1"
+      ],
+      "organized_filename": "alnzam-alasasy-llmrkz-alihsayy-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "alnzam-alasasy-llmrkz-alihsayy-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasasy-llhyyh-alqdayyh-alaqtsadyh-lmjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "النظام الأساسي للهيئة القضائية الاقتصادية لمجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1438/11/09 هـ الموافق : 01/08/2017 مـ",
+      "issue_date_gregorian": "2017-08-01",
+      "publish_date_hijri": "1438/11/25 هـ الموافق : 17/08/2017 مـ",
+      "publish_date_gregorian": "2017-08-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/43c53ab1-1cb3-4d76-ab39-a9f5012d437c/1"
+      ],
+      "organized_filename": "alnzam-alasasy-llhyyh-alqdayyh-alaqtsadyh-lmjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "alnzam-alasasy-llhyyh-alqdayyh-alaqtsadyh-lmjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasasy-lmrkz-almalwmat-aljnayyh-lmkafhh-almkhdrat-lmjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "النظام الأساسي لمركز المعلومات الجنائية لمكافحة المخدرات لمجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1430/10/24 هـ الموافق : 13/10/2009 مـ",
+      "issue_date_gregorian": "2009-10-13",
+      "publish_date_hijri": "1430/10/24 هـ الموافق : 13/10/2009 مـ",
+      "publish_date_gregorian": "2009-10-13",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/76988d51-8339-42a8-97d1-a9a700f194dc/1"
+      ],
+      "organized_filename": "alnzam-alasasy-lmrkz-almalwmat-aljnayyh-lmkafhh-almkhdrat-lmjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "alnzam-alasasy-lmrkz-almalwmat-aljnayyh-lmkafhh-almkhdrat-lmjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasasy-lhyyh-altqyys-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "النظام الأساسي لهيئة التقييس لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1426/07/08 هـ الموافق : 13/08/2005 مـ",
+      "issue_date_gregorian": "2005-08-13",
+      "publish_date_hijri": "1426/08/05 هـ الموافق : 09/09/2005 مـ",
+      "publish_date_gregorian": "2005-09-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/746f3ff2-0c3a-4b60-aac2-a9a700f1c4e8/1"
+      ],
+      "organized_filename": "alnzam-alasasy-lhyyh-altqyys-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "alnzam-alasasy-lhyyh-altqyys-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alasasy-lhyyh-almhasbh-walmrajah-ldwl-mjls-altaawn",
+      "title_ar": "النظام الأساسي لهيئة المحاسبة والمراجعة لدول مجلس التعاون",
+      "status": "ساري",
+      "issue_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+      "issue_date_gregorian": "2000-04-06",
+      "publish_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+      "publish_date_gregorian": "2000-04-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/109578cc-5c5c-42a9-9bae-a9a700f1c2a8/1"
+      ],
+      "organized_filename": "alnzam-alasasy-lhyyh-almhasbh-walmrajah-ldwl-mjls-altaawn.pdf",
+      "knowledge_filename": "alnzam-alasasy-lhyyh-almhasbh-walmrajah-ldwl-mjls-altaawn.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-albhry-altjary",
+      "title_ar": "النظام البحري التجاري",
+      "status": "ساري",
+      "issue_date_hijri": "1440/04/05 هـ الموافق : 12/12/2018 مـ",
+      "issue_date_gregorian": "2018-12-12",
+      "publish_date_hijri": "1440/04/28 هـ الموافق : 04/01/2019 مـ",
+      "publish_date_gregorian": "2019-01-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/43344715-1e0d-4e7f-9895-aa3d00f670e6/1"
+      ],
+      "organized_filename": "alnzam-albhry-altjary.pdf",
+      "knowledge_filename": "alnzam-albhry-altjary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-altjary-nzam-almhkmh-altjaryh",
+      "title_ar": "النظام التجاري ( نظام المحكمة التجارية)",
+      "status": "ساري",
+      "issue_date_hijri": "1350/01/01 هـ الموافق : 18/05/1931 مـ",
+      "issue_date_gregorian": "1931-05-18",
+      "publish_date_hijri": "1350/01/01 هـ الموافق : 18/05/1931 مـ",
+      "publish_date_gregorian": "1931-05-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c58ba10c-4e89-4c06-98d7-a9a700f1c706/1"
+      ],
+      "organized_filename": "alnzam-altjary-nzam-almhkmh-altjaryh.pdf",
+      "knowledge_filename": "alnzam-altjary-nzam-almhkmh-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd",
+      "title_ar": "النظام الجزائي الخاص بتزييف وتقليد النقود",
+      "status": "ساري",
+      "issue_date_hijri": "1379/07/20 هـ الموافق : 18/01/1960 مـ",
+      "issue_date_gregorian": "1960-01-18",
+      "publish_date_hijri": "1379/07/20 هـ الموافق : 18/01/1960 مـ",
+      "publish_date_gregorian": "1960-01-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8a1799f2-3cd4-4619-b2ce-a9a700f18741/1"
+      ],
+      "organized_filename": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd.pdf",
+      "knowledge_filename": "alnzam-aljzayy-alkhas-btzyyf-wtqlyd-alnqwd.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-aljzayy-ljraym-altzwyr",
+      "title_ar": "النظام الجزائي لجرائم التزوير",
+      "status": "ساري",
+      "issue_date_hijri": "1435/02/18 هـ الموافق : 21/12/2013 مـ",
+      "issue_date_gregorian": "2013-12-21",
+      "publish_date_hijri": "1435/04/07 هـ الموافق : 07/02/2014 مـ",
+      "publish_date_gregorian": "2014-02-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c1878d16-7ce0-4710-993b-a9a700f17ac5/1"
+      ],
+      "organized_filename": "alnzam-aljzayy-ljraym-altzwyr.pdf",
+      "knowledge_filename": "alnzam-aljzayy-ljraym-altzwyr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-alshy",
+      "title_ar": "النظام الصحي",
+      "status": "ساري",
+      "issue_date_hijri": "1423/03/23 هـ الموافق : 04/06/2002 مـ",
+      "issue_date_gregorian": "2002-06-04",
+      "publish_date_hijri": "1423/03/23 هـ الموافق : 04/06/2002 مـ",
+      "publish_date_gregorian": "2002-06-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/1169b2b7-4e7d-4775-86b0-a9a700f2841e/1"
+      ],
+      "organized_filename": "alnzam-alshy.pdf",
+      "knowledge_filename": "alnzam-alshy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-almwhd-bshan-almwad-almstnfdh-ltbqh-alawzwn-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh-almadl",
+      "title_ar": "النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية (المعدل)",
+      "status": "ساري",
+      "issue_date_hijri": "1435/11/24 هـ الموافق : 19/09/2014 مـ",
+      "issue_date_gregorian": "2014-09-19",
+      "publish_date_hijri": "1435/12/16 هـ الموافق : 10/10/2014 مـ",
+      "publish_date_gregorian": "2014-10-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c1a67dbf-6959-437d-bb86-a9a700f2a126/1"
+      ],
+      "organized_filename": "alnzam-almwhd-bshan-almwad-almstnfdh-ltbqh-alawzwn-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh-almadl.pdf",
+      "knowledge_filename": "alnzam-almwhd-bshan-almwad-almstnfdh-ltbqh-alawzwn-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh-almadl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-almwhd-lidarh-nfayat-alraayh-alshyh-bdwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "النظام الموحد لإدارة نفايات الرعاية الصحية بدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1426/09/16 هـ الموافق : 19/10/2005 مـ",
+      "issue_date_gregorian": "2005-10-19",
+      "publish_date_hijri": "1426/10/20 هـ الموافق : 22/11/2005 مـ",
+      "publish_date_gregorian": "2005-11-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/81556dde-a88b-460f-b96a-a9a700f288d6/1"
+      ],
+      "organized_filename": "alnzam-almwhd-lidarh-nfayat-alraayh-alshyh-bdwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "alnzam-almwhd-lidarh-nfayat-alraayh-alshyh-bdwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "alnzam-almwhd-lmd-alhmayh-altamynyh-lmwatny-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh-alaamlyn-fy-gh",
+      "title_ar": "النظام الموحد لمد الحماية التأمينية لمواطني دول مجلس التعاون لدول الخليج العربية العاملين في غير دولهم في أي دولة عضو في المجلس",
+      "status": "ساري",
+      "issue_date_hijri": "1426/11/26 هـ الموافق : 28/12/2005 مـ",
+      "issue_date_gregorian": "2005-12-28",
+      "publish_date_hijri": "1426/11/26 هـ الموافق : 28/12/2005 مـ",
+      "publish_date_gregorian": "2005-12-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fc9ac74c-fc7d-4456-a0e2-a9a700f23eff/1"
+      ],
+      "organized_filename": "alnzam-almwhd-lmd-alhmayh-altamynyh-lmwatny-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh-alaamlyn-fy-gh.pdf",
+      "knowledge_filename": "alnzam-almwhd-lmd-alhmayh-altamynyh-lmwatny-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh-alaamlyn-fy-gh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "قانون (نظام) الأسمدة ومحسنات التربة الزراعية في دول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1427/07/15 هـ الموافق : 09/08/2006 مـ",
+      "issue_date_gregorian": "2006-08-09",
+      "publish_date_hijri": "1427/08/15 هـ الموافق : 08/09/2006 مـ",
+      "publish_date_gregorian": "2006-09-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e2263a48-092e-481d-84e5-a9a700f2529e/1"
+      ],
+      "organized_filename": "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "qanwn-nzam-alasmdh-wmhsnat-altrbh-alzraayh-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "qanwn-nzam-altnzym-alsnaay-almwhd-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "قانون (نظام) التنظيم الصناعي الموحد لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1427/04/04 هـ الموافق : 02/05/2006 مـ",
+      "issue_date_gregorian": "2006-05-02",
+      "publish_date_hijri": "1427/05/13 هـ الموافق : 09/06/2006 مـ",
+      "publish_date_gregorian": "2006-06-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/66c640db-fbb2-45fc-a797-a9a700f29c6a/1"
+      ],
+      "organized_filename": "qanwn-nzam-altnzym-alsnaay-almwhd-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "qanwn-nzam-altnzym-alsnaay-almwhd-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "قانون (نظام) الرفق بالحيوان لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1434/07/26 هـ الموافق : 05/06/2013 مـ",
+      "issue_date_gregorian": "2013-06-05",
+      "publish_date_hijri": "1434/08/26 هـ الموافق : 05/07/2013 مـ",
+      "publish_date_gregorian": "2013-07-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6f3797d0-fc94-4930-b5e3-a9a700f25744/1"
+      ],
+      "organized_filename": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "qanwn-nzam-alrfq-balhywan-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "qanwn-nzam-alalamat-altjaryh-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "قانون (نظام) العلامات التجارية لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/07/26 هـ الموافق : 25/05/2014 مـ",
+      "issue_date_gregorian": "2014-05-25",
+      "publish_date_hijri": "1437/09/26 هـ الموافق : 01/07/2016 مـ",
+      "publish_date_gregorian": "2016-07-01",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b2d0decd-a691-45b9-9af0-a9a700f1e86f/1"
+      ],
+      "organized_filename": "qanwn-nzam-alalamat-altjaryh-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "qanwn-nzam-alalamat-altjaryh-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "qanwn-nzam-almbydat-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "قانون (نظام) المبيدات في دول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1427/11/14 هـ الموافق : 05/12/2006 مـ",
+      "issue_date_gregorian": "2006-12-05",
+      "publish_date_hijri": "1427/12/08 هـ الموافق : 29/12/2006 مـ",
+      "publish_date_gregorian": "2006-12-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9b79b62a-da9e-4f66-8a7d-a9a700f25369/1"
+      ],
+      "organized_filename": "qanwn-nzam-almbydat-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "qanwn-nzam-almbydat-fy-dwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-qanwn-aljmark-almwhd-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "نظام (قانون) الجمارك الموحد لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1423/11/03 هـ الموافق : 06/01/2003 مـ",
+      "issue_date_gregorian": "2003-01-06",
+      "publish_date_hijri": "1423/12/27 هـ الموافق : 28/02/2003 مـ",
+      "publish_date_gregorian": "2003-02-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b93d0275-775f-482a-9d52-a9a700f2ca15/1"
+      ],
+      "organized_filename": "nzam-qanwn-aljmark-almwhd-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "nzam-qanwn-aljmark-almwhd-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "نظام (قانون) الحجر البيطري لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1424/06/01 هـ الموافق : 30/07/2003 مـ",
+      "issue_date_gregorian": "2003-07-30",
+      "publish_date_hijri": "1424/06/17 هـ الموافق : 15/08/2003 مـ",
+      "publish_date_gregorian": "2003-08-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ae6dac2c-6da4-47fc-b605-a9a700f251c2/1"
+      ],
+      "organized_filename": "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "nzam-qanwn-alhjr-albytry-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-qanwn-alhjr-alzraay-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "نظام (قانون) الحجر الزراعي لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1426/02/27 هـ الموافق : 06/04/2005 مـ",
+      "issue_date_gregorian": "2005-04-06",
+      "publish_date_hijri": "1426/04/05 هـ الموافق : 13/05/2005 مـ",
+      "publish_date_gregorian": "2005-05-13",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c46966ec-0e03-41a3-96fa-a9a700f250b1/1"
+      ],
+      "organized_filename": "nzam-qanwn-alhjr-alzraay-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "nzam-qanwn-alhjr-alzraay-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-akhlaqyat-albhth-ala-almkhlwqat-alhyh",
+      "title_ar": "نظام أخلاقيات البحث على المخلوقات الحية",
+      "status": "ساري",
+      "issue_date_hijri": "1431/09/14 هـ الموافق : 24/08/2010 مـ",
+      "issue_date_gregorian": "2010-08-24",
+      "publish_date_hijri": "1431/10/08 هـ الموافق : 17/09/2010 مـ",
+      "publish_date_gregorian": "2010-09-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fad7b0d1-e536-46ea-8202-a9a700f28b03/1"
+      ],
+      "organized_filename": "nzam-akhlaqyat-albhth-ala-almkhlwqat-alhyh.pdf",
+      "knowledge_filename": "nzam-akhlaqyat-albhth-ala-almkhlwqat-alhyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-amn-alhdwd",
+      "title_ar": "نظام أمن الحدود",
+      "status": "ساري",
+      "issue_date_hijri": "1394/01/01 هـ الموافق : 24/01/1974 مـ",
+      "issue_date_gregorian": "1974-01-24",
+      "publish_date_hijri": "1394/01/01 هـ الموافق : 24/01/1974 مـ",
+      "publish_date_gregorian": "1974-01-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/871b7db0-6d40-4380-90a1-a9a700f188c7/1"
+      ],
+      "organized_filename": "nzam-amn-alhdwd.pdf",
+      "knowledge_filename": "nzam-amn-alhdwd.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-andyh-alsyarat-waldrajat-alnaryh",
+      "title_ar": "نظام أندية السيارات والدراجات النارية",
+      "status": "ساري",
+      "issue_date_hijri": "1430/06/02 هـ الموافق : 26/05/2009 مـ",
+      "issue_date_gregorian": "2009-05-26",
+      "publish_date_hijri": "1430/06/26 هـ الموافق : 19/06/2009 مـ",
+      "publish_date_gregorian": "2009-06-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d805702d-77b9-40d0-92bd-a9a700f27da2/1"
+      ],
+      "organized_filename": "nzam-andyh-alsyarat-waldrajat-alnaryh.pdf",
+      "knowledge_filename": "nzam-andyh-alsyarat-waldrajat-alnaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-ijraaat-altrakhys-albldyh",
+      "title_ar": "نظام إجراءات التراخيص البلدية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/09/23 هـ الموافق : 20/07/2014 مـ",
+      "issue_date_gregorian": "2014-07-20",
+      "publish_date_hijri": "1435/11/10 هـ الموافق : 05/09/2014 مـ",
+      "publish_date_gregorian": "2014-09-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/1dd4c3d4-f4e9-4c15-852f-a9a700f21cab/1"
+      ],
+      "organized_filename": "nzam-ijraaat-altrakhys-albldyh.pdf",
+      "knowledge_filename": "nzam-ijraaat-altrakhys-albldyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-idarh-alnfayat",
+      "title_ar": "نظام إدارة النفايات",
+      "status": "ساري",
+      "issue_date_hijri": "1443/01/05 هـ الموافق : 13/08/2021 مـ",
+      "issue_date_gregorian": "2021-08-13",
+      "publish_date_hijri": "1443/02/10 هـ الموافق : 17/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4d5bda56-cc0d-4b16-a025-ad9d00b281ab/1"
+      ],
+      "organized_filename": "nzam-idarh-alnfayat.pdf",
+      "knowledge_filename": "nzam-idarh-alnfayat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-imdadat-altaqh",
+      "title_ar": "نظام إمدادات الطاقة",
+      "status": "ساري",
+      "issue_date_hijri": "1444/06/04 هـ الموافق : 28/12/2022 مـ",
+      "issue_date_gregorian": "2022-12-28",
+      "publish_date_hijri": "1444/06/13 هـ الموافق : 06/01/2023 مـ",
+      "publish_date_gregorian": "2023-01-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c1777105-e927-4fa8-978d-af9900e23e18/1"
+      ],
+      "organized_filename": "nzam-imdadat-altaqh.pdf",
+      "knowledge_filename": "nzam-imdadat-altaqh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-intaj-almwad-altalymyh-almsaadh-wtswyqha",
+      "title_ar": "نظام إنتاج المواد التعليمية المساعدة وتسويقها",
+      "status": "ساري",
+      "issue_date_hijri": "1425/10/29 هـ الموافق : 12/12/2004 مـ",
+      "issue_date_gregorian": "2004-12-12",
+      "publish_date_hijri": "1425/11/26 هـ الموافق : 07/01/2005 مـ",
+      "publish_date_gregorian": "2005-01-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/dbc3e41b-e877-48f2-a213-a9a700f1fdab/1"
+      ],
+      "organized_filename": "nzam-intaj-almwad-altalymyh-almsaadh-wtswyqha.pdf",
+      "knowledge_filename": "nzam-intaj-almwad-altalymyh-almsaadh-wtswyqha.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-iyradat-aldwlh",
+      "title_ar": "نظام إيرادات الدولة",
+      "status": "ساري",
+      "issue_date_hijri": "1431/11/18 هـ الموافق : 26/10/2010 مـ",
+      "issue_date_gregorian": "2010-10-26",
+      "publish_date_hijri": "1431/12/20 هـ الموافق : 26/11/2010 مـ",
+      "publish_date_gregorian": "2010-11-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8b100aee-54a5-48c1-9866-a9a700f2d539/1"
+      ],
+      "organized_filename": "nzam-iyradat-aldwlh.pdf",
+      "knowledge_filename": "nzam-iyradat-aldwlh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-astyjar-aldwlh-llaqar",
+      "title_ar": "نظام استئجار الدولة للعقار",
+      "status": "ساري",
+      "issue_date_hijri": "1443/12/28 هـ الموافق : 27/07/2022 مـ",
+      "issue_date_gregorian": "2022-07-27",
+      "publish_date_hijri": "1444/01/07 هـ الموافق : 05/08/2022 مـ",
+      "publish_date_gregorian": "2022-08-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/220f5444-31ee-4132-8712-aeee00ac1ba3/1"
+      ],
+      "organized_filename": "nzam-astyjar-aldwlh-llaqar.pdf",
+      "knowledge_filename": "nzam-astyjar-aldwlh-llaqar.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-astbdal-alghramh-balhbs",
+      "title_ar": "نظام استبدال الغرامة بالحبس",
+      "status": "ساري",
+      "issue_date_hijri": "1380/01/01 هـ الموافق : 25/06/1960 مـ",
+      "issue_date_gregorian": "1960-06-25",
+      "publish_date_hijri": "1380/01/01 هـ الموافق : 25/06/1960 مـ",
+      "publish_date_gregorian": "1960-06-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f62643d0-eff3-43c2-8629-a9a700f18812/1"
+      ],
+      "organized_filename": "nzam-astbdal-alghramh-balhbs.pdf",
+      "knowledge_filename": "nzam-astbdal-alghramh-balhbs.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-astkhdam-kamyrat-almraqbh-alamnyh",
+      "title_ar": "نظام استخدام كاميرات المراقبة الأمنية",
+      "status": "ساري",
+      "issue_date_hijri": "1444/03/07 هـ الموافق : 03/10/2022 مـ",
+      "issue_date_gregorian": "2022-10-03",
+      "publish_date_hijri": "1444/03/11 هـ الموافق : 07/10/2022 مـ",
+      "publish_date_gregorian": "2022-10-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f3a44a6f-9217-478b-b7ca-af3401391514/1"
+      ],
+      "organized_filename": "nzam-astkhdam-kamyrat-almraqbh-alamnyh.pdf",
+      "knowledge_filename": "nzam-astkhdam-kamyrat-almraqbh-alamnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-astkhdam-whmayh-sharh-wasm-alhlal-alahmr-wma-fy-hkmhma",
+      "title_ar": "نظام استخدام وحماية شارة واسم الهلال الأحمر وما في حكمهما",
+      "status": "ساري",
+      "issue_date_hijri": "1445/01/06 هـ الموافق : 24/07/2023 مـ",
+      "issue_date_gregorian": "2023-07-24",
+      "publish_date_hijri": "1445/01/17 هـ الموافق : 04/08/2023 مـ",
+      "publish_date_gregorian": "2023-08-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/469689de-5af0-4c28-b96c-b05a008bdda3/1"
+      ],
+      "organized_filename": "nzam-astkhdam-whmayh-sharh-wasm-alhlal-alahmr-wma-fy-hkmhma.pdf",
+      "knowledge_filename": "nzam-astkhdam-whmayh-sharh-wasm-alhlal-alahmr-wma-fy-hkmhma.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-astyrad-almwad-alkymyayyh-widartha-nzam-idarh-almwad-alkymyayyh",
+      "title_ar": "نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )",
+      "status": "ساري",
+      "issue_date_hijri": "1427/06/16 هـ الموافق : 12/07/2006 مـ",
+      "issue_date_gregorian": "2006-07-12",
+      "publish_date_hijri": "1427/07/24 هـ الموافق : 18/08/2006 مـ",
+      "publish_date_gregorian": "2006-08-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/64aee787-4618-4979-b4d8-a9a700f1c647/1"
+      ],
+      "organized_filename": "nzam-astyrad-almwad-alkymyayyh-widartha-nzam-idarh-almwad-alkymyayyh.pdf",
+      "knowledge_filename": "nzam-astyrad-almwad-alkymyayyh-widartha-nzam-idarh-almwad-alkymyayyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alathar-walmtahf-waltrath-alamrany",
+      "title_ar": "نظام الآثار والمتاحف والتراث العمراني",
+      "status": "ساري",
+      "issue_date_hijri": "1436/01/09 هـ الموافق : 02/11/2014 مـ",
+      "issue_date_gregorian": "2014-11-02",
+      "publish_date_hijri": "1436/02/06 هـ الموافق : 28/11/2014 مـ",
+      "publish_date_gregorian": "2014-11-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a7d4493b-7c03-4c2d-b3c6-a9a700f275cd/1"
+      ],
+      "organized_filename": "nzam-alathar-walmtahf-waltrath-alamrany.pdf",
+      "knowledge_filename": "nzam-alathar-walmtahf-waltrath-alamrany.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd",
+      "title_ar": "نظام الأئمة والمؤذنين وخدم المساجد",
+      "status": "ساري",
+      "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "issue_date_gregorian": "1972-02-16",
+      "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "publish_date_gregorian": "1972-02-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/23b12c1f-6823-4759-982e-a9a700f2031a/1"
+      ],
+      "organized_filename": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd.pdf",
+      "knowledge_filename": "nzam-alaymh-walmwdhnyn-wkhdm-almsajd.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alajhzh-walmstlzmat-altbyh",
+      "title_ar": "نظام الأجهزة والمستلزمات الطبية",
+      "status": "ساري",
+      "issue_date_hijri": "1442/07/06 هـ الموافق : 18/02/2021 مـ",
+      "issue_date_gregorian": "2021-02-18",
+      "publish_date_hijri": "1442/07/14 هـ الموافق : 26/02/2021 مـ",
+      "publish_date_gregorian": "2021-02-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9daec1bf-6bda-4a65-a111-ace90163af7e/1"
+      ],
+      "organized_filename": "nzam-alajhzh-walmstlzmat-altbyh.pdf",
+      "knowledge_filename": "nzam-alajhzh-walmstlzmat-altbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alahdath",
+      "title_ar": "نظام الأحداث",
+      "status": "ساري",
+      "issue_date_hijri": "1439/11/19 هـ الموافق : 01/08/2018 مـ",
+      "issue_date_gregorian": "2018-08-01",
+      "publish_date_hijri": "1440/02/22 هـ الموافق : 31/10/2018 مـ",
+      "publish_date_gregorian": "2018-10-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4ec27eee-f917-408c-85eb-a9f6011ea426/1"
+      ],
+      "organized_filename": "nzam-alahdath.pdf",
+      "knowledge_filename": "nzam-alahdath.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "personal-status-law",
+      "title_ar": "نظام الأحوال الشخصية",
+      "status": "ساري",
+      "issue_date_hijri": "1443/08/06 هـ الموافق : 09/03/2022 مـ",
+      "issue_date_gregorian": "2022-03-09",
+      "publish_date_hijri": "1443/08/15 هـ الموافق : 18/03/2022 مـ",
+      "publish_date_gregorian": "2022-03-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4d72d829-947b-45d5-b9b5-ae5800d6bac2/1"
+      ],
+      "organized_filename": "nzam-alahwal-alshkhsyh.pdf",
+      "knowledge_filename": "nzam-alahwal-alshkhsyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alahwal-almdnyh",
+      "title_ar": "نظام الأحوال المدنية",
+      "status": "ساري",
+      "issue_date_hijri": "1407/04/20 هـ الموافق : 21/12/1986 مـ",
+      "issue_date_gregorian": "1986-12-21",
+      "publish_date_hijri": "1407/05/09 هـ الموافق : 09/01/1987 مـ",
+      "publish_date_gregorian": "1987-01-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7e2b99b1-0e84-4dd1-90c7-a9a700f18cdf/1"
+      ],
+      "organized_filename": "nzam-alahwal-almdnyh.pdf",
+      "knowledge_filename": "nzam-alahwal-almdnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alarsad",
+      "title_ar": "نظام الأرصاد",
+      "status": "ساري",
+      "issue_date_hijri": "1442/09/24 هـ الموافق : 06/05/2021 مـ",
+      "issue_date_gregorian": "2021-05-06",
+      "publish_date_hijri": "1442/10/02 هـ الموافق : 14/05/2021 مـ",
+      "publish_date_gregorian": "2021-05-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cd3a793a-ab18-4ad3-b28e-ad2e00a7f88f/1"
+      ],
+      "organized_filename": "nzam-alarsad.pdf",
+      "knowledge_filename": "nzam-alarsad.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alaslhh-waldhkhayr",
+      "title_ar": "نظام الأسلحة والذخائر",
+      "status": "ساري",
+      "issue_date_hijri": "1426/07/25 هـ الموافق : 30/08/2005 مـ",
+      "issue_date_gregorian": "2005-08-30",
+      "publish_date_hijri": "1426/09/18 هـ الموافق : 21/10/2005 مـ",
+      "publish_date_gregorian": "2005-10-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a445af93-671f-496b-818a-a9a700f19150/1"
+      ],
+      "organized_filename": "nzam-alaslhh-waldhkhayr.pdf",
+      "knowledge_filename": "nzam-alaslhh-waldhkhayr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alasmaa-altjaryh",
+      "title_ar": "نظام الأسماء التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1446/03/19 هـ الموافق : 22/09/2024 مـ",
+      "issue_date_gregorian": "2024-09-22",
+      "publish_date_hijri": "1446/04/01 هـ الموافق : 04/10/2024 مـ",
+      "publish_date_gregorian": "2024-10-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d4801a45-7f76-4414-bdca-b20900db6fc4/1"
+      ],
+      "organized_filename": "nzam-alasmaa-altjaryh.pdf",
+      "knowledge_filename": "nzam-alasmaa-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alaalaf",
+      "title_ar": "نظام الأعلاف",
+      "status": "ساري",
+      "issue_date_hijri": "1435/09/23 هـ الموافق : 20/07/2014 مـ",
+      "issue_date_gregorian": "2014-07-20",
+      "publish_date_hijri": "1435/11/10 هـ الموافق : 05/09/2014 مـ",
+      "publish_date_gregorian": "2014-09-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b8a7e5ff-d9a4-466b-b4b8-a9a700f256e1/1"
+      ],
+      "organized_filename": "nzam-alaalaf.pdf",
+      "knowledge_filename": "nzam-alaalaf.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alanshth-almqlqh-llrahh-aw-alkhtrh-aw-almdrh-balshh-aw-albyyh",
+      "title_ar": "نظام الأنشطة المقلقة للراحة أو الخطرة أو المضرة بالصحة أو البيئة",
+      "status": "ساري",
+      "issue_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "issue_date_gregorian": "2002-03-15",
+      "publish_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "publish_date_gregorian": "2002-03-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9cff56dc-09be-45e1-a736-a9a700f218db/1"
+      ],
+      "organized_filename": "nzam-alanshth-almqlqh-llrahh-aw-alkhtrh-aw-almdrh-balshh-aw-albyyh.pdf",
+      "knowledge_filename": "nzam-alanshth-almqlqh-llrahh-aw-alkhtrh-aw-almdrh-balshh-aw-albyyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alanwat-alaskryh-alsawdyh-wlayhth-altnzymyh",
+      "title_ar": "نظام الأنواط العسكرية السعودية ولائحته التنظيمية",
+      "status": "ساري",
+      "issue_date_hijri": "1407/08/25 هـ الموافق : 23/04/1987 مـ",
+      "issue_date_gregorian": "1987-04-23",
+      "publish_date_hijri": "1407/12/06 هـ الموافق : 31/07/1987 مـ",
+      "publish_date_gregorian": "1987-07-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ea6489f2-9c4e-43ce-892e-a9a700f23355/1"
+      ],
+      "organized_filename": "nzam-alanwat-alaskryh-alsawdyh-wlayhth-altnzymyh.pdf",
+      "knowledge_filename": "nzam-alanwat-alaskryh-alsawdyh-wlayhth-altnzymyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alawraq-altjaryh",
+      "title_ar": "نظام الأوراق التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1383/10/11 هـ الموافق : 24/02/1964 مـ",
+      "issue_date_gregorian": "1964-02-24",
+      "publish_date_hijri": "1383/10/11 هـ الموافق : 24/02/1964 مـ",
+      "publish_date_gregorian": "1964-02-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4763eb94-047b-46f1-9697-a9a700f1b7ed/1"
+      ],
+      "organized_filename": "nzam-alawraq-altjaryh.pdf",
+      "knowledge_filename": "nzam-alawraq-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alawsmh-alsawdyh",
+      "title_ar": "نظام الأوسمة السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1434/06/24 هـ الموافق : 04/05/2013 مـ",
+      "issue_date_gregorian": "2013-05-04",
+      "publish_date_hijri": "1434/07/21 هـ الموافق : 31/05/2013 مـ",
+      "publish_date_gregorian": "2013-05-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9ba0d5dc-2dc4-4b71-b979-a9a700f1f5fd/1"
+      ],
+      "organized_filename": "nzam-alawsmh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-alawsmh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "law-of-evidence",
+      "title_ar": "نظام الإثبات",
+      "status": "ساري",
+      "issue_date_hijri": "1443/05/26 هـ الموافق : 30/12/2021 مـ",
+      "issue_date_gregorian": "2021-12-30",
+      "publish_date_hijri": "1443/06/04 هـ الموافق : 07/01/2022 مـ",
+      "publish_date_gregorian": "2022-01-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2716057c-c097-4bad-8e1e-ae1400c678d5/1"
+      ],
+      "organized_filename": "nzam-alithbat.pdf",
+      "knowledge_filename": "nzam-alithbat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "criminal-procedure-law",
+      "title_ar": "نظام الإجراءات الجزائية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/01/22 هـ الموافق : 25/11/2013 مـ",
+      "issue_date_gregorian": "2013-11-25",
+      "publish_date_hijri": "1435/02/03 هـ الموافق : 06/12/2013 مـ",
+      "publish_date_gregorian": "2013-12-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8f1b7079-a5f0-425d-b5e0-a9a700f26b2d/1"
+      ],
+      "organized_filename": "nzam-alijraaat-aljzayyh.pdf",
+      "knowledge_filename": "nzam-alijraaat-aljzayyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alihsaa",
+      "title_ar": "نظام الإحصاء",
+      "status": "ساري",
+      "issue_date_hijri": "1447/02/10 هـ الموافق : 04/08/2025 مـ",
+      "issue_date_gregorian": "2025-08-04",
+      "publish_date_hijri": "1447/02/21 هـ الموافق : 15/08/2025 مـ",
+      "publish_date_gregorian": "2025-08-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b4edc050-18f3-4b23-aabc-b35b00ddaab7/1"
+      ],
+      "organized_filename": "nzam-alihsaa.pdf",
+      "knowledge_filename": "nzam-alihsaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alihsaaat-alaamh-lldwlh",
+      "title_ar": "نظام الإحصاءات العامة للدولة",
+      "status": "ساري",
+      "issue_date_hijri": "1379/01/01 هـ الموافق : 07/07/1959 مـ",
+      "issue_date_gregorian": "1959-07-07",
+      "publish_date_hijri": "1379/01/01 هـ الموافق : 07/07/1959 مـ",
+      "publish_date_gregorian": "1959-07-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3563a355-6ff9-4296-af66-a9a700f20e70/1"
+      ],
+      "organized_filename": "nzam-alihsaaat-alaamh-lldwlh.pdf",
+      "knowledge_filename": "nzam-alihsaaat-alaamh-lldwlh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alidhaah-alasasy",
+      "title_ar": "نظام الإذاعة الأساسي",
+      "status": "ساري",
+      "issue_date_hijri": "1374/01/01 هـ الموافق : 29/08/1954 مـ",
+      "issue_date_gregorian": "1954-08-29",
+      "publish_date_hijri": "1374/01/01 هـ الموافق : 29/08/1954 مـ",
+      "publish_date_gregorian": "1954-08-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/83431376-5cf3-4374-875a-a9a700f16985/1"
+      ],
+      "organized_filename": "nzam-alidhaah-alasasy.pdf",
+      "knowledge_filename": "nzam-alidhaah-alasasy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alialam-almryy-walmsmwa",
+      "title_ar": "نظام الإعلام المرئي والمسموع",
+      "status": "ساري",
+      "issue_date_hijri": "1439/03/25 هـ الموافق : 13/12/2017 مـ",
+      "issue_date_gregorian": "2017-12-13",
+      "publish_date_hijri": "1439/03/25 هـ الموافق : 13/12/2017 مـ",
+      "publish_date_gregorian": "2017-12-13",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ed5fdbc0-c183-4a8a-a8b7-a9ed004b5900/1"
+      ],
+      "organized_filename": "nzam-alialam-almryy-walmsmwa.pdf",
+      "knowledge_filename": "nzam-alialam-almryy-walmsmwa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aliflas",
+      "title_ar": "نظام الإفلاس",
+      "status": "ساري",
+      "issue_date_hijri": "1439/05/28 هـ الموافق : 14/02/2018 مـ",
+      "issue_date_gregorian": "2018-02-14",
+      "publish_date_hijri": "1439/05/28 هـ الموافق : 14/02/2018 مـ",
+      "publish_date_gregorian": "2018-02-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/68204119-84f1-4789-8fad-a9ec014c3788/1"
+      ],
+      "organized_filename": "nzam-aliflas.pdf",
+      "knowledge_filename": "nzam-aliflas.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aliqamh-almmyzh",
+      "title_ar": "نظام الإقامة المميزة",
+      "status": "ساري",
+      "issue_date_hijri": "1440/09/10 هـ الموافق : 15/05/2019 مـ",
+      "issue_date_gregorian": "2019-05-15",
+      "publish_date_hijri": "1440/09/13 هـ الموافق : 18/05/2019 مـ",
+      "publish_date_gregorian": "2019-05-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5e9762df-2b15-4e66-8cdc-aa5200f62042/1"
+      ],
+      "organized_filename": "nzam-aliqamh-almmyzh.pdf",
+      "knowledge_filename": "nzam-aliqamh-almmyzh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aliydaa",
+      "title_ar": "نظام الإيداع",
+      "status": "ساري",
+      "issue_date_hijri": "1412/09/07 هـ الموافق : 11/03/1992 مـ",
+      "issue_date_gregorian": "1992-03-11",
+      "publish_date_hijri": "1412/10/14 هـ الموافق : 17/04/1992 مـ",
+      "publish_date_gregorian": "1992-04-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/dc90bcd7-26fe-44c0-a40d-a9a700f17216/1"
+      ],
+      "organized_filename": "nzam-aliydaa.pdf",
+      "knowledge_filename": "nzam-aliydaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aliydaa-fy-almkhazn-alaamh",
+      "title_ar": "نظام الإيداع في المخازن العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1427/05/10 هـ الموافق : 06/06/2006 مـ",
+      "issue_date_gregorian": "2006-06-06",
+      "publish_date_hijri": "1428/02/26 هـ الموافق : 16/03/2007 مـ",
+      "publish_date_gregorian": "2007-03-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/86f03d34-3650-4553-b6a0-a9a700f2cdae/1"
+      ],
+      "organized_filename": "nzam-aliydaa-fy-almkhazn-alaamh.pdf",
+      "knowledge_filename": "nzam-aliydaa-fy-almkhazn-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "communications-and-information-technology-law",
+      "title_ar": "نظام الاتصالات وتقنية المعلومات",
+      "status": "ساري",
+      "issue_date_hijri": "1443/11/02 هـ الموافق : 01/06/2022 مـ",
+      "issue_date_gregorian": "2022-06-01",
+      "publish_date_hijri": "1443/11/11 هـ الموافق : 10/06/2022 مـ",
+      "publish_date_gregorian": "2022-06-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ae610645-e094-48ef-814e-aeb4009d244f/1"
+      ],
+      "organized_filename": "nzam-alatsalat-wtqnyh-almalwmat.pdf",
+      "knowledge_filename": "nzam-alatsalat-wtqnyh-almalwmat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alastthmar",
+      "title_ar": "نظام الاستثمار",
+      "status": "ساري",
+      "issue_date_hijri": "1446/01/16 هـ الموافق : 22/07/2024 مـ",
+      "issue_date_gregorian": "2024-07-22",
+      "publish_date_hijri": "1446/02/12 هـ الموافق : 16/08/2024 مـ",
+      "publish_date_gregorian": "2024-08-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/eda86cc3-3a00-4b90-900d-b1d000c8a863/1"
+      ],
+      "organized_filename": "nzam-alastthmar.pdf",
+      "knowledge_filename": "nzam-alastthmar.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alast-thmar-altadyny",
+      "title_ar": "نظام الاستــثمار التعديني.",
+      "status": "ساري",
+      "issue_date_hijri": "1441/10/19 هـ الموافق : 11/06/2020 مـ",
+      "issue_date_gregorian": "2020-06-11",
+      "publish_date_hijri": "1441/11/12 هـ الموافق : 03/07/2020 مـ",
+      "publish_date_gregorian": "2020-07-03",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9560f620-e77e-476c-b9ea-abdd00b87480/1"
+      ],
+      "organized_filename": "nzam-alast-thmar-altadyny.pdf",
+      "knowledge_filename": "nzam-alast-thmar-altadyny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alamtyaz-altjary",
+      "title_ar": "نظام الامتياز التجاري",
+      "status": "ساري",
+      "issue_date_hijri": "1441/02/09 هـ الموافق : 08/10/2019 مـ",
+      "issue_date_gregorian": "2019-10-08",
+      "publish_date_hijri": "1441/02/24 هـ الموافق : 23/10/2019 مـ",
+      "publish_date_gregorian": "2019-10-23",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/af2a6b93-51dd-4f16-b781-aafd00d9fbbc/1"
+      ],
+      "organized_filename": "nzam-alamtyaz-altjary.pdf",
+      "knowledge_filename": "nzam-alamtyaz-altjary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alandbat-alwzyfy",
+      "title_ar": "نظام الانضباط الوظيفي",
+      "status": "ساري",
+      "issue_date_hijri": "1443/02/08 هـ الموافق : 15/09/2021 مـ",
+      "issue_date_gregorian": "2021-09-15",
+      "publish_date_hijri": "1443/02/17 هـ الموافق : 24/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/896f4986-334b-4c76-b938-ada500eae2eb/1"
+      ],
+      "organized_filename": "nzam-alandbat-alwzyfy.pdf",
+      "knowledge_filename": "nzam-alandbat-alwzyfy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alayjar-altmwyly",
+      "title_ar": "نظام الايجار التمويلي",
+      "status": "ساري",
+      "issue_date_hijri": "1433/08/13 هـ الموافق : 03/07/2012 مـ",
+      "issue_date_gregorian": "2012-07-03",
+      "publish_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9b61c9c0-71e2-4096-a3da-a9a700f2d79a/1"
+      ],
+      "organized_filename": "nzam-alayjar-altmwyly.pdf",
+      "knowledge_filename": "nzam-alayjar-altmwyly.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albhth-alalmy-albhry-fy-almnatq-albhryh-altab-ah-llmmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام البحث العلمي البحري في المناطق البحرية التابِعة للمملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1413/08/11 هـ الموافق : 02/02/1993 مـ",
+      "issue_date_gregorian": "1993-02-02",
+      "publish_date_hijri": "1419/11/17 هـ الموافق : 05/03/1999 مـ",
+      "publish_date_gregorian": "1999-03-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/799f2563-d262-4444-9646-a9a700f24f08/1"
+      ],
+      "organized_filename": "nzam-albhth-alalmy-albhry-fy-almnatq-albhryh-altab-ah-llmmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-albhth-alalmy-albhry-fy-almnatq-albhryh-altab-ah-llmmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albryd",
+      "title_ar": "نظام البريد",
+      "status": "ساري",
+      "issue_date_hijri": "1443/03/08 هـ الموافق : 14/10/2021 مـ",
+      "issue_date_gregorian": "2021-10-14",
+      "publish_date_hijri": "1443/03/16 هـ الموافق : 22/10/2021 مـ",
+      "publish_date_gregorian": "2021-10-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8ca91427-5be7-4807-80ae-adc700a97f0d/1"
+      ],
+      "organized_filename": "nzam-albryd.pdf",
+      "knowledge_filename": "nzam-albryd.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albldyat-walqra",
+      "title_ar": "نظام البلديات والقرى",
+      "status": "ساري",
+      "issue_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "issue_date_gregorian": "1976-12-22",
+      "publish_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "publish_date_gregorian": "1976-12-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e5f63d07-7de5-4a4d-a02f-a9a700f21187/1"
+      ],
+      "organized_filename": "nzam-albldyat-walqra.pdf",
+      "knowledge_filename": "nzam-albldyat-walqra.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albnk-alsawdy-lltslyf-waladkhar-bnk-altnmyh-alajtmaayh",
+      "title_ar": "نظام البنك السعودي للتسليف والادخار ( بنك التنمية الاجتماعية )",
+      "status": "ساري",
+      "issue_date_hijri": "1427/06/01 هـ الموافق : 27/06/2006 مـ",
+      "issue_date_gregorian": "2006-06-27",
+      "publish_date_hijri": "1427/07/17 هـ الموافق : 11/08/2006 مـ",
+      "publish_date_gregorian": "2006-08-11",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/90b81287-baab-4f66-a9c1-a9a700f2ce78/1"
+      ],
+      "organized_filename": "nzam-albnk-alsawdy-lltslyf-waladkhar-bnk-altnmyh-alajtmaayh.pdf",
+      "knowledge_filename": "nzam-albnk-alsawdy-lltslyf-waladkhar-bnk-altnmyh-alajtmaayh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albnk-almrkzy-alsawdy",
+      "title_ar": "نظام البنك المركزي السعودي",
+      "status": "ساري",
+      "issue_date_hijri": "1442/04/11 هـ الموافق : 26/11/2020 مـ",
+      "issue_date_gregorian": "2020-11-26",
+      "publish_date_hijri": "1442/04/26 هـ الموافق : 11/12/2020 مـ",
+      "publish_date_gregorian": "2020-12-11",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a292ec7e-85fb-4ceb-9ad0-ac9200ced829/1"
+      ],
+      "organized_filename": "nzam-albnk-almrkzy-alsawdy.pdf",
+      "knowledge_filename": "nzam-albnk-almrkzy-alsawdy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albyyh",
+      "title_ar": "نظام البيئة",
+      "status": "ساري",
+      "issue_date_hijri": "1441/11/19 هـ الموافق : 10/07/2020 مـ",
+      "issue_date_gregorian": "2020-07-10",
+      "publish_date_hijri": "1441/11/26 هـ الموافق : 17/07/2020 مـ",
+      "publish_date_gregorian": "2020-07-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/63831ff6-63d9-4212-8b54-abf800e146bd/1"
+      ],
+      "organized_filename": "nzam-albyyh.pdf",
+      "knowledge_filename": "nzam-albyyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-albyanat-altjaryh",
+      "title_ar": "نظام البيانات التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "issue_date_gregorian": "2002-03-15",
+      "publish_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "publish_date_gregorian": "2002-03-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/95a6369d-d712-4028-842e-a9a700f1a957/1"
+      ],
+      "organized_filename": "nzam-albyanat-altjaryh.pdf",
+      "knowledge_filename": "nzam-albyanat-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altamyn-dd-altatl-an-alaml",
+      "title_ar": "نظام التأمين ضد التعطل عن العمل",
+      "status": "ساري",
+      "issue_date_hijri": "1435/03/12 هـ الموافق : 13/01/2014 مـ",
+      "issue_date_gregorian": "2014-01-13",
+      "publish_date_hijri": "1435/04/14 هـ الموافق : 14/02/2014 مـ",
+      "publish_date_gregorian": "2014-02-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c331efa7-58ec-48c9-b70e-a9a700f2ba82/1"
+      ],
+      "organized_filename": "nzam-altamyn-dd-altatl-an-alaml.pdf",
+      "knowledge_filename": "nzam-altamyn-dd-altatl-an-alaml.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altamynat-alajtmaayh",
+      "title_ar": "نظام التأمينات الاجتماعية",
+      "status": "ساري",
+      "issue_date_hijri": "1445/12/26 هـ الموافق : 02/07/2024 مـ",
+      "issue_date_gregorian": "2024-07-02",
+      "publish_date_hijri": "1445/12/29 هـ الموافق : 05/07/2024 مـ",
+      "publish_date_gregorian": "2024-07-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/eaee8a20-3a54-4aaf-b0d9-b1ad00998962/1"
+      ],
+      "organized_filename": "nzam-altamynat-alajtmaayh.pdf",
+      "knowledge_filename": "nzam-altamynat-alajtmaayh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altamynat-alajtmaayh-1421h",
+      "title_ar": "نظام التأمينات الاجتماعية 1421هـ",
+      "status": "ساري",
+      "issue_date_hijri": "1421/09/03 هـ الموافق : 29/11/2000 مـ",
+      "issue_date_gregorian": "2000-11-29",
+      "publish_date_hijri": "1421/10/17 هـ الموافق : 12/01/2001 مـ",
+      "publish_date_gregorian": "2001-01-12",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8ff3cd90-e466-4bf9-a071-a9a700f2a70d/1"
+      ],
+      "organized_filename": "nzam-altamynat-alajtmaayh-1421h.pdf",
+      "knowledge_filename": "nzam-altamynat-alajtmaayh-1421h.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altbra-balaadaa-albshryh",
+      "title_ar": "نظام التبرع بالأعضاء البشرية",
+      "status": "ساري",
+      "issue_date_hijri": "1442/08/19 هـ الموافق : 01/04/2021 مـ",
+      "issue_date_gregorian": "2021-04-01",
+      "publish_date_hijri": "1442/08/27 هـ الموافق : 09/04/2021 مـ",
+      "publish_date_gregorian": "2021-04-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4a16fbc8-7f1d-4647-8acc-ad0900d849c2/1"
+      ],
+      "organized_filename": "nzam-altbra-balaadaa-albshryh.pdf",
+      "knowledge_filename": "nzam-altbra-balaadaa-albshryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "e-commerce-law",
+      "title_ar": "نظام التجارة الإلكترونية",
+      "status": "ساري",
+      "issue_date_hijri": "1440/11/07 هـ الموافق : 10/07/2019 مـ",
+      "issue_date_gregorian": "2019-07-10",
+      "publish_date_hijri": "1440/11/21 هـ الموافق : 24/07/2019 مـ",
+      "publish_date_gregorian": "2019-07-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1"
+      ],
+      "organized_filename": "nzam-altjarh-alilktrwnyh.pdf",
+      "knowledge_filename": "nzam-altjarh-alilktrwnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-althkym",
+      "title_ar": "نظام التحكيم",
+      "status": "ساري",
+      "issue_date_hijri": "1433/05/24 هـ الموافق : 16/04/2012 مـ",
+      "issue_date_gregorian": "2012-04-16",
+      "publish_date_hijri": "1433/07/18 هـ الموافق : 08/06/2012 مـ",
+      "publish_date_gregorian": "2012-06-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5535039e-13da-43f6-8f53-a9a700f26485/1"
+      ],
+      "organized_filename": "nzam-althkym.pdf",
+      "knowledge_filename": "nzam-althkym.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altkhsys",
+      "title_ar": "نظام التخصيص",
+      "status": "ساري",
+      "issue_date_hijri": "1442/08/05 هـ الموافق : 18/03/2021 مـ",
+      "issue_date_gregorian": "2021-03-18",
+      "publish_date_hijri": "1442/08/13 هـ الموافق : 26/03/2021 مـ",
+      "publish_date_gregorian": "2021-03-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8af67ec1-6776-4f67-abb4-ad0900eadf2f/1"
+      ],
+      "organized_filename": "nzam-altkhsys.pdf",
+      "knowledge_filename": "nzam-altkhsys.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altsjyl-alayny-llaqar",
+      "title_ar": "نظام التسجيل العيني للعقار",
+      "status": "ساري",
+      "issue_date_hijri": "1443/09/19 هـ الموافق : 20/04/2022 مـ",
+      "issue_date_gregorian": "2022-04-20",
+      "publish_date_hijri": "1443/10/12 هـ الموافق : 13/05/2022 مـ",
+      "publish_date_gregorian": "2022-05-13",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c9756bfb-ff81-4226-a820-ae8200dc074c/1"
+      ],
+      "organized_filename": "nzam-altsjyl-alayny-llaqar.pdf",
+      "knowledge_filename": "nzam-altsjyl-alayny-llaqar.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altsrf-fy-alaqarat-albldyh",
+      "title_ar": "نظام التصرف في العقارات البلدية",
+      "status": "ساري",
+      "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "issue_date_gregorian": "1972-02-16",
+      "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "publish_date_gregorian": "1972-02-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/81bd35e9-ee8d-47bf-97c7-a9a700f2100a/1"
+      ],
+      "organized_filename": "nzam-altsrf-fy-alaqarat-albldyh.pdf",
+      "knowledge_filename": "nzam-altsrf-fy-alaqarat-albldyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altaaml-ma-almward-alwrathyh-alnbatyh-llaghdhyh-walzraah",
+      "title_ar": "نظام التعامل مع الموارد الوراثية النباتية للأغذية والزراعة",
+      "status": "ساري",
+      "issue_date_hijri": "1439/10/27 هـ الموافق : 11/07/2018 مـ",
+      "issue_date_gregorian": "2018-07-11",
+      "publish_date_hijri": "1439/11/12 هـ الموافق : 25/07/2018 مـ",
+      "publish_date_gregorian": "2018-07-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/552d21ef-81c0-4373-bd8a-a9f6016398ef/1"
+      ],
+      "organized_filename": "nzam-altaaml-ma-almward-alwrathyh-alnbatyh-llaghdhyh-walzraah.pdf",
+      "knowledge_filename": "nzam-altaaml-ma-almward-alwrathyh-alnbatyh-llaghdhyh-walzraah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "electronic-transactions-law",
+      "title_ar": "نظام التعاملات الإلكترونية",
+      "status": "ساري",
+      "issue_date_hijri": "1428/03/08 هـ الموافق : 27/03/2007 مـ",
+      "issue_date_gregorian": "2007-03-27",
+      "publish_date_hijri": "1428/03/29 هـ الموافق : 17/04/2007 مـ",
+      "publish_date_gregorian": "2007-04-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6f509360-2c39-4358-ae2a-a9a700f2ed16/1"
+      ],
+      "organized_filename": "nzam-altaamlat-alilktrwnyh.pdf",
+      "knowledge_filename": "nzam-altaamlat-alilktrwnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altqaad-alaskry",
+      "title_ar": "نظام التقاعد العسكري",
+      "status": "ساري",
+      "issue_date_hijri": "1395/04/05 هـ الموافق : 16/04/1975 مـ",
+      "issue_date_gregorian": "1975-04-16",
+      "publish_date_hijri": "1395/04/05 هـ الموافق : 16/04/1975 مـ",
+      "publish_date_gregorian": "1975-04-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0838afd4-ca76-4b4a-b1d1-a9a700f22afd/1"
+      ],
+      "organized_filename": "nzam-altqaad-alaskry.pdf",
+      "knowledge_filename": "nzam-altqaad-alaskry.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altqaad-almdny",
+      "title_ar": "نظام التقاعد المدني",
+      "status": "ساري",
+      "issue_date_hijri": "1393/07/29 هـ الموافق : 27/08/1973 مـ",
+      "issue_date_gregorian": "1973-08-27",
+      "publish_date_hijri": "1393/07/29 هـ الموافق : 27/08/1973 مـ",
+      "publish_date_gregorian": "1973-08-27",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/859d4e56-627b-4766-a7aa-a9a700f23975/1"
+      ],
+      "organized_filename": "nzam-altqaad-almdny.pdf",
+      "knowledge_filename": "nzam-altqaad-almdny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altkalyf-alqdayyh",
+      "title_ar": "نظام التكاليف القضائية",
+      "status": "ساري",
+      "issue_date_hijri": "1443/01/30 هـ الموافق : 07/09/2021 مـ",
+      "issue_date_gregorian": "2021-09-07",
+      "publish_date_hijri": "1443/02/10 هـ الموافق : 17/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3e368087-7b31-46e7-8005-ada100b8f703/1"
+      ],
+      "organized_filename": "nzam-altkalyf-alqdayyh.pdf",
+      "knowledge_filename": "nzam-altkalyf-alqdayyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altmwyl-alaqary",
+      "title_ar": "نظام التمويل العقاري",
+      "status": "ساري",
+      "issue_date_hijri": "1433/08/13 هـ الموافق : 03/07/2012 مـ",
+      "issue_date_gregorian": "2012-07-03",
+      "publish_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/88254f6b-0311-4ed2-be96-a9a700f2d6f2/1"
+      ],
+      "organized_filename": "nzam-altmwyl-alaqary.pdf",
+      "knowledge_filename": "nzam-altmwyl-alaqary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "execution-law",
+      "title_ar": "نظام التنفيذ",
+      "status": "ساري",
+      "issue_date_hijri": "1433/08/13 هـ الموافق : 03/07/2012 مـ",
+      "issue_date_gregorian": "2012-07-03",
+      "publish_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c81ba2f1-1bf1-443b-9b1c-a9a700f27110/1"
+      ],
+      "organized_filename": "nzam-altnfydh.pdf",
+      "knowledge_filename": "nzam-altnfydh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altnfydh-amam-dywan-almzalm",
+      "title_ar": "نظام التنفيذ أمام ديوان المظالم",
+      "status": "ساري",
+      "issue_date_hijri": "1443/01/27 هـ الموافق : 04/09/2021 مـ",
+      "issue_date_gregorian": "2021-09-04",
+      "publish_date_hijri": "1443/02/03 هـ الموافق : 10/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ae1d79bf-3716-4bc5-a85e-ada100c8a870/1"
+      ],
+      "organized_filename": "nzam-altnfydh-amam-dywan-almzalm.pdf",
+      "knowledge_filename": "nzam-altnfydh-amam-dywan-almzalm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altwthyq",
+      "title_ar": "نظام التوثيق",
+      "status": "ساري",
+      "issue_date_hijri": "1441/11/19 هـ الموافق : 10/07/2020 مـ",
+      "issue_date_gregorian": "2020-07-10",
+      "publish_date_hijri": "1441/11/26 هـ الموافق : 17/07/2020 مـ",
+      "publish_date_gregorian": "2020-07-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/40754577-f250-47f6-8a5a-abf600af7d72/1"
+      ],
+      "organized_filename": "nzam-altwthyq.pdf",
+      "knowledge_filename": "nzam-altwthyq.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "universities-law",
+      "title_ar": "نظام الجامعات",
+      "status": "ساري",
+      "issue_date_hijri": "1441/03/02 هـ الموافق : 30/10/2019 مـ",
+      "issue_date_gregorian": "2019-10-30",
+      "publish_date_hijri": "1441/03/11 هـ الموافق : 08/11/2019 مـ",
+      "publish_date_gregorian": "2019-11-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8ee74282-7f0d-49ff-b6ee-aafc00a3d801/1"
+      ],
+      "organized_filename": "nzam-aljamaat.pdf",
+      "knowledge_filename": "nzam-aljamaat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aljmayat-altaawnyh",
+      "title_ar": "نظام الجمعيات التعاونية",
+      "status": "ساري",
+      "issue_date_hijri": "1429/01/01 هـ الموافق : 10/01/2008 مـ",
+      "issue_date_gregorian": "2008-01-10",
+      "publish_date_hijri": "1429/01/01 هـ الموافق : 10/01/2008 مـ",
+      "publish_date_gregorian": "2008-01-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0264f52c-70bd-40f2-94c1-a9a700f2b561/1"
+      ],
+      "organized_filename": "nzam-aljmayat-altaawnyh.pdf",
+      "knowledge_filename": "nzam-aljmayat-altaawnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aljmayat-walmwssat-alahlyh",
+      "title_ar": "نظام الجمعيات والمؤسسات الأهلية",
+      "status": "ساري",
+      "issue_date_hijri": "1437/02/19 هـ الموافق : 01/12/2015 مـ",
+      "issue_date_gregorian": "2015-12-01",
+      "publish_date_hijri": "1437/03/07 هـ الموافق : 18/12/2015 مـ",
+      "publish_date_gregorian": "2015-12-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/37e0768f-8e3c-493a-b951-a9a700f2bbb1/1"
+      ],
+      "organized_filename": "nzam-aljmayat-walmwssat-alahlyh.pdf",
+      "knowledge_filename": "nzam-aljmayat-walmwssat-alahlyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aljnsyh-alarbyh-alsawdyh",
+      "title_ar": "نظام الجنسية العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1374/01/25 هـ الموافق : 22/09/1954 مـ",
+      "issue_date_gregorian": "1954-09-22",
+      "publish_date_hijri": "1374/01/25 هـ الموافق : 22/09/1954 مـ",
+      "publish_date_gregorian": "1954-09-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d9f183b6-3afc-4405-834f-a9a700f18571/1"
+      ],
+      "organized_filename": "nzam-aljnsyh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-aljnsyh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhrash-alamnyh-almdnyh-alkhash",
+      "title_ar": "نظام الحراسة الأمنية المدنية الخاصة",
+      "status": "ساري",
+      "issue_date_hijri": "1426/07/08 هـ الموافق : 13/08/2005 مـ",
+      "issue_date_gregorian": "2005-08-13",
+      "publish_date_hijri": "1426/08/05 هـ الموافق : 09/09/2005 مـ",
+      "publish_date_gregorian": "2005-09-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/51c9a546-fc5e-4607-ba34-a9a700f19012/1"
+      ],
+      "organized_filename": "nzam-alhrash-alamnyh-almdnyh-alkhash.pdf",
+      "knowledge_filename": "nzam-alhrash-alamnyh-almdnyh-alkhash.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhrf-walsnaaat-alydwyh",
+      "title_ar": "نظام الحرف والصناعات اليدوية",
+      "status": "جاري العمل على النظام",
+      "issue_date_hijri": "1447/03/02 هـ الموافق : 25/08/2025 مـ",
+      "issue_date_gregorian": "2025-08-25",
+      "publish_date_hijri": "لم يتم تحديد تاريخ النشر",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/366a4221-3214-4338-b3f2-b35c009f36cd/1"
+      ],
+      "organized_filename": "nzam-alhrf-walsnaaat-alydwyh.pdf",
+      "knowledge_filename": "nzam-alhrf-walsnaaat-alydwyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "protection-from-abuse-law",
+      "title_ar": "نظام الحماية من الإيذاء",
+      "status": "ساري",
+      "issue_date_hijri": "1434/11/15 هـ الموافق : 21/09/2013 مـ",
+      "issue_date_gregorian": "2013-09-21",
+      "publish_date_hijri": "1434/12/24 هـ الموافق : 29/10/2013 مـ",
+      "publish_date_gregorian": "2013-10-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/83f450eb-7985-461f-b053-a9a700f2ba08/1"
+      ],
+      "organized_filename": "nzam-alhmayh-mn-aliydhaa.pdf",
+      "knowledge_filename": "nzam-alhmayh-mn-aliydhaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alkhdmh-almdnyh",
+      "title_ar": "نظام الخدمة المدنية",
+      "status": "ساري",
+      "issue_date_hijri": "1397/07/10 هـ الموافق : 26/06/1977 مـ",
+      "issue_date_gregorian": "1977-06-26",
+      "publish_date_hijri": "1397/07/10 هـ الموافق : 26/06/1977 مـ",
+      "publish_date_gregorian": "1977-06-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/32f651e6-2976-439c-b418-a9a700f23fb2/1"
+      ],
+      "organized_filename": "nzam-alkhdmh-almdnyh.pdf",
+      "knowledge_filename": "nzam-alkhdmh-almdnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alkhtwt-alhdydyh",
+      "title_ar": "نظام الخطوط الحديدية",
+      "status": "ساري",
+      "issue_date_hijri": "1445/08/22 هـ الموافق : 03/03/2024 مـ",
+      "issue_date_gregorian": "2024-03-03",
+      "publish_date_hijri": "1445/09/05 هـ الموافق : 15/03/2024 مـ",
+      "publish_date_gregorian": "2024-03-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/302fe435-6f39-4170-b12b-b13700bf55bd/1"
+      ],
+      "organized_filename": "nzam-alkhtwt-alhdydyh.pdf",
+      "knowledge_filename": "nzam-alkhtwt-alhdydyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aldfatr-altjaryh",
+      "title_ar": "نظام الدفاتر التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1409/12/17 هـ الموافق : 20/07/1989 مـ",
+      "issue_date_gregorian": "1989-07-20",
+      "publish_date_hijri": "1410/01/10 هـ الموافق : 11/08/1989 مـ",
+      "publish_date_gregorian": "1989-08-11",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/05690bd6-2c75-4b65-a148-a9a700f1bccf/1"
+      ],
+      "organized_filename": "nzam-aldfatr-altjaryh.pdf",
+      "knowledge_filename": "nzam-aldfatr-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aldfaa-almdny",
+      "title_ar": "نظام الدفاع المدني",
+      "status": "ساري",
+      "issue_date_hijri": "1406/05/10 هـ الموافق : 20/01/1986 مـ",
+      "issue_date_gregorian": "1986-01-20",
+      "publish_date_hijri": "1406/05/10 هـ الموافق : 20/01/1986 مـ",
+      "publish_date_gregorian": "1986-01-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f09eda85-7150-4803-b87a-a9a700f189f3/1"
+      ],
+      "organized_filename": "nzam-aldfaa-almdny.pdf",
+      "knowledge_filename": "nzam-aldfaa-almdny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alraayh-alshyh-alnfsyh",
+      "title_ar": "نظام الرعاية الصحية النفسية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/09/20 هـ الموافق : 17/07/2014 مـ",
+      "issue_date_gregorian": "2014-07-17",
+      "publish_date_hijri": "1435/11/03 هـ الموافق : 29/08/2014 مـ",
+      "publish_date_gregorian": "2014-08-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/107f22b5-81a2-47ee-84bc-a9a700f2907a/1"
+      ],
+      "organized_filename": "nzam-alraayh-alshyh-alnfsyh.pdf",
+      "knowledge_filename": "nzam-alraayh-alshyh-alnfsyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alrqabh-ala-alastkhdamat-alnwwyh-walashaaayh",
+      "title_ar": "نظام الرقابة على الاستخدامات النووية والاشعاعية",
+      "status": "ساري",
+      "issue_date_hijri": "1439/07/25 هـ الموافق : 11/04/2018 مـ",
+      "issue_date_gregorian": "2018-04-11",
+      "publish_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+      "publish_date_gregorian": "2018-04-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c447d12a-6c10-40c2-a51e-a9f7000a97cb/1"
+      ],
+      "organized_filename": "nzam-alrqabh-ala-alastkhdamat-alnwwyh-walashaaayh.pdf",
+      "knowledge_filename": "nzam-alrqabh-ala-alastkhdamat-alnwwyh-walashaaayh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alrhn-altjary",
+      "title_ar": "نظام الرهن التجاري",
+      "status": "ساري",
+      "issue_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+      "issue_date_gregorian": "2018-04-24",
+      "publish_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+      "publish_date_gregorian": "2018-04-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e7bd6fcc-c29c-4696-8032-aae9009b113a/1"
+      ],
+      "organized_filename": "nzam-alrhn-altjary.pdf",
+      "knowledge_filename": "nzam-alrhn-altjary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alrhn-alaqary-almsjl",
+      "title_ar": "نظام الرهن العقاري المسجل",
+      "status": "ساري",
+      "issue_date_hijri": "1433/08/13 هـ الموافق : 03/07/2012 مـ",
+      "issue_date_gregorian": "2012-07-03",
+      "publish_date_hijri": "1433/09/22 هـ الموافق : 10/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bf568515-eef9-4356-9d52-a9a700f2d8c3/1"
+      ],
+      "organized_filename": "nzam-alrhn-alaqary-almsjl.pdf",
+      "knowledge_filename": "nzam-alrhn-alaqary-almsjl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alzraah",
+      "title_ar": "نظام الزراعة",
+      "status": "ساري",
+      "issue_date_hijri": "1442/08/10 هـ الموافق : 23/03/2021 مـ",
+      "issue_date_gregorian": "2021-03-23",
+      "publish_date_hijri": "1442/08/20 هـ الموافق : 02/04/2021 مـ",
+      "publish_date_gregorian": "2021-04-02",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d113fa79-5ad8-42b1-9955-acfb00a2c7ed/1"
+      ],
+      "organized_filename": "nzam-alzraah.pdf",
+      "knowledge_filename": "nzam-alzraah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alsjl-altjary",
+      "title_ar": "نظام السجل التجاري",
+      "status": "ساري",
+      "issue_date_hijri": "1446/03/19 هـ الموافق : 22/09/2024 مـ",
+      "issue_date_gregorian": "2024-09-22",
+      "publish_date_hijri": "1446/04/01 هـ الموافق : 04/10/2024 مـ",
+      "publish_date_gregorian": "2024-10-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/98ee4b51-d398-4323-ae69-b2b8009f3156/1"
+      ],
+      "organized_filename": "nzam-alsjl-altjary.pdf",
+      "knowledge_filename": "nzam-alsjl-altjary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alsjn-waltwqyf",
+      "title_ar": "نظام السجن والتوقيف",
+      "status": "ساري",
+      "issue_date_hijri": "1398/06/21 هـ الموافق : 28/05/1978 مـ",
+      "issue_date_gregorian": "1978-05-28",
+      "publish_date_hijri": "1398/07/11 هـ الموافق : 16/06/1978 مـ",
+      "publish_date_gregorian": "1978-06-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/19945fe2-e690-4b24-9ab0-a9a700f17d03/1"
+      ],
+      "organized_filename": "nzam-alsjn-waltwqyf.pdf",
+      "knowledge_filename": "nzam-alsjn-waltwqyf.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alswq-almalyh",
+      "title_ar": "نظام السوق المالية",
+      "status": "ساري",
+      "issue_date_hijri": "1424/06/02 هـ الموافق : 31/07/2003 مـ",
+      "issue_date_gregorian": "2003-07-31",
+      "publish_date_hijri": "1424/06/02 هـ الموافق : 31/07/2003 مـ",
+      "publish_date_gregorian": "2003-07-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/50924f95-f74e-430e-820c-a9a700f1abfa/1"
+      ],
+      "organized_filename": "nzam-alswq-almalyh.pdf",
+      "knowledge_filename": "nzam-alswq-almalyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alsyahh",
+      "title_ar": "نظام السياحة",
+      "status": "ساري",
+      "issue_date_hijri": "1444/01/26 هـ الموافق : 24/08/2022 مـ",
+      "issue_date_gregorian": "2022-08-24",
+      "publish_date_hijri": "1444/02/06 هـ الموافق : 02/09/2022 مـ",
+      "publish_date_gregorian": "2022-09-02",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7d777c66-d28b-43de-9305-af23013b1738/1"
+      ],
+      "organized_filename": "nzam-alsyahh.pdf",
+      "knowledge_filename": "nzam-alsyahh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "companies-law",
+      "title_ar": "نظام الشركات",
+      "status": "ساري",
+      "issue_date_hijri": "1443/12/01 هـ الموافق : 30/06/2022 مـ",
+      "issue_date_gregorian": "2022-06-30",
+      "publish_date_hijri": "1443/12/23 هـ الموافق : 22/07/2022 مـ",
+      "publish_date_gregorian": "2022-07-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a8376aea-1bc3-49d4-9027-aed900b555af/1"
+      ],
+      "organized_filename": "nzam-alshrkat.pdf",
+      "knowledge_filename": "nzam-alshrkat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alsndwq-alsawdy-lltnmyh",
+      "title_ar": "نظام الصندوق السعودي للتنمية",
+      "status": "ساري",
+      "issue_date_hijri": "1394/08/14 هـ الموافق : 31/08/1974 مـ",
+      "issue_date_gregorian": "1974-08-31",
+      "publish_date_hijri": "1394/08/14 هـ الموافق : 31/08/1974 مـ",
+      "publish_date_gregorian": "1974-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7017dc70-15bb-4137-b87d-a9a700f1b950/1"
+      ],
+      "organized_filename": "nzam-alsndwq-alsawdy-lltnmyh.pdf",
+      "knowledge_filename": "nzam-alsndwq-alsawdy-lltnmyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aldman-alajtmaay",
+      "title_ar": "نظام الضمان الاجتماعي",
+      "status": "ساري",
+      "issue_date_hijri": "1442/04/04 هـ الموافق : 19/11/2020 مـ",
+      "issue_date_gregorian": "2020-11-19",
+      "publish_date_hijri": "1442/04/12 هـ الموافق : 27/11/2020 مـ",
+      "publish_date_gregorian": "2020-11-27",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7799b707-e228-452c-8b19-ac7b00b4b64e/1"
+      ],
+      "organized_filename": "nzam-aldman-alajtmaay.pdf",
+      "knowledge_filename": "nzam-aldman-alajtmaay.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aldman-alshy-altaawny",
+      "title_ar": "نظام الضمان الصحي التعاوني",
+      "status": "ساري",
+      "issue_date_hijri": "1420/01/01 هـ الموافق : 17/04/1999 مـ",
+      "issue_date_gregorian": "1999-04-17",
+      "publish_date_hijri": "1420/01/01 هـ الموافق : 17/04/1999 مـ",
+      "publish_date_gregorian": "1999-04-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/87c1482d-fa95-41ea-98b6-a9a700f2a529/1"
+      ],
+      "organized_filename": "nzam-aldman-alshy-altaawny.pdf",
+      "knowledge_filename": "nzam-aldman-alshy-altaawny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altrq-walmbany",
+      "title_ar": "نظام الطرق والمباني",
+      "status": "ساري",
+      "issue_date_hijri": "1360/01/01 هـ الموافق : 28/01/1941 مـ",
+      "issue_date_gregorian": "1941-01-28",
+      "publish_date_hijri": "1360/01/01 هـ الموافق : 28/01/1941 مـ",
+      "publish_date_gregorian": "1941-01-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ece2f7dc-db78-4ba4-a9e4-a9a700f20da3/1"
+      ],
+      "organized_filename": "nzam-altrq-walmbany.pdf",
+      "knowledge_filename": "nzam-altrq-walmbany.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altwary",
+      "title_ar": "نظام الطوارئ",
+      "status": "ساري",
+      "issue_date_hijri": "1446/04/17 هـ الموافق : 20/10/2024 مـ",
+      "issue_date_gregorian": "2024-10-20",
+      "publish_date_hijri": "1446/08/15 هـ الموافق : 14/02/2025 مـ",
+      "publish_date_gregorian": "2025-02-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7ac1a448-b042-4c73-8164-b2eb00ceb54f/1"
+      ],
+      "organized_filename": "nzam-altwary.pdf",
+      "knowledge_filename": "nzam-altwary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-altyran-almdny",
+      "title_ar": "نظام الطيران المدني",
+      "status": "ساري",
+      "issue_date_hijri": "1426/07/18 هـ الموافق : 23/08/2005 مـ",
+      "issue_date_gregorian": "2005-08-23",
+      "publish_date_hijri": "1426/09/25 هـ الموافق : 28/10/2005 مـ",
+      "publish_date_gregorian": "2005-10-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/33ef05e2-f53e-4340-b5cb-a9a700f2ead1/1"
+      ],
+      "organized_filename": "nzam-altyran-almdny.pdf",
+      "knowledge_filename": "nzam-altyran-almdny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alalamat-altjaryh",
+      "title_ar": "نظام العلامات التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "issue_date_gregorian": "2002-03-15",
+      "publish_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "publish_date_gregorian": "2002-03-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3ec4414f-2ec5-48b1-bcb4-a9a700f1aa2b/1"
+      ],
+      "organized_filename": "nzam-alalamat-altjaryh.pdf",
+      "knowledge_filename": "nzam-alalamat-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alalm-llmmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام العلم للمملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1393/01/01 هـ الموافق : 04/02/1973 مـ",
+      "issue_date_gregorian": "1973-02-04",
+      "publish_date_hijri": "1393/01/01 هـ الموافق : 04/02/1973 مـ",
+      "publish_date_gregorian": "1973-02-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/03de5462-eda0-4dd6-9efa-a9a700f1f802/1"
+      ],
+      "organized_filename": "nzam-alalm-llmmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-alalm-llmmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "labor-law",
+      "title_ar": "نظام العمل",
+      "status": "ساري",
+      "issue_date_hijri": "1426/08/23 هـ الموافق : 27/09/2005 مـ",
+      "issue_date_gregorian": "2005-09-27",
+      "publish_date_hijri": "1426/09/25 هـ الموافق : 28/10/2005 مـ",
+      "publish_date_gregorian": "2005-10-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/08381293-6388-48e2-8ad2-a9a700f2aa94/1"
+      ],
+      "organized_filename": "nzam-alaml.pdf",
+      "knowledge_filename": "nzam-alaml.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alaml-alttway",
+      "title_ar": "نظام العمل التطوعي",
+      "status": "جاري العمل على النظام",
+      "issue_date_hijri": "1441/05/27 هـ الموافق : 22/01/2020 مـ",
+      "issue_date_gregorian": "2020-01-22",
+      "publish_date_hijri": "لم يتم تحديد تاريخ النشر",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a122634e-98ea-4e40-b4dd-ab5700c51c7d/1"
+      ],
+      "organized_filename": "nzam-alaml-alttway.pdf",
+      "knowledge_filename": "nzam-alaml-alttway.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alghdhaa",
+      "title_ar": "نظام الغذاء",
+      "status": "ساري",
+      "issue_date_hijri": "1436/01/06 هـ الموافق : 30/10/2014 مـ",
+      "issue_date_gregorian": "2014-10-30",
+      "publish_date_hijri": "1436/02/20 هـ الموافق : 12/12/2014 مـ",
+      "publish_date_gregorian": "2014-12-12",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9167ec51-a011-4a22-b6c3-a9a700f290f8/1"
+      ],
+      "organized_filename": "nzam-alghdhaa.pdf",
+      "knowledge_filename": "nzam-alghdhaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alghrf-altjaryh",
+      "title_ar": "نظام الغرف التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1442/04/22 هـ الموافق : 07/12/2020 مـ",
+      "issue_date_gregorian": "2020-12-07",
+      "publish_date_hijri": "1442/05/03 هـ الموافق : 18/12/2020 مـ",
+      "publish_date_gregorian": "2020-12-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fb3e69e4-84a6-45b4-85d6-ac8c00cb3d67/1"
+      ],
+      "organized_filename": "nzam-alghrf-altjaryh.pdf",
+      "knowledge_filename": "nzam-alghrf-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alqdaa",
+      "title_ar": "نظام القضاء",
+      "status": "ساري",
+      "issue_date_hijri": "1428/09/19 هـ الموافق : 01/10/2007 مـ",
+      "issue_date_gregorian": "2007-10-01",
+      "publish_date_hijri": "1428/09/23 هـ الموافق : 05/10/2007 مـ",
+      "publish_date_gregorian": "2007-10-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ea1765a3-dec3-41a0-a32f-a9a700f26d58/1"
+      ],
+      "organized_filename": "nzam-alqdaa.pdf",
+      "knowledge_filename": "nzam-alqdaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alqyas-walmaayrh",
+      "title_ar": "نظام القياس والمعايرة",
+      "status": "ساري",
+      "issue_date_hijri": "1446/03/06 هـ الموافق : 09/09/2024 مـ",
+      "issue_date_gregorian": "2024-09-09",
+      "publish_date_hijri": "1446/03/17 هـ الموافق : 20/09/2024 مـ",
+      "publish_date_gregorian": "2024-09-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ad9ed861-70e6-4d31-9268-b20400d68915/1"
+      ],
+      "organized_filename": "nzam-alqyas-walmaayrh.pdf",
+      "knowledge_filename": "nzam-alqyas-walmaayrh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alklyat-alaskryh",
+      "title_ar": "نظام الكليات العسكرية",
+      "status": "ساري",
+      "issue_date_hijri": "1397/07/13 هـ الموافق : 29/06/1977 مـ",
+      "issue_date_gregorian": "1977-06-29",
+      "publish_date_hijri": "1397/08/06 هـ الموافق : 22/07/1977 مـ",
+      "publish_date_gregorian": "1977-07-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e36e899b-f29b-4db0-8b71-a9a700f23065/1"
+      ],
+      "organized_filename": "nzam-alklyat-alaskryh.pdf",
+      "knowledge_filename": "nzam-alklyat-alaskryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alkhrbaa",
+      "title_ar": "نظام الكهرباء",
+      "status": "ساري",
+      "issue_date_hijri": "1442/05/16 هـ الموافق : 31/12/2020 مـ",
+      "issue_date_gregorian": "2020-12-31",
+      "publish_date_hijri": "1442/05/24 هـ الموافق : 08/01/2021 مـ",
+      "publish_date_gregorian": "2021-01-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b3060214-c11a-4709-b191-aca700cbcc58/1"
+      ],
+      "organized_filename": "nzam-alkhrbaa.pdf",
+      "knowledge_filename": "nzam-alkhrbaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwssat-alshfyh",
+      "title_ar": "نظام المؤسسات الصحفية",
+      "status": "ساري",
+      "issue_date_hijri": "1422/05/08 هـ الموافق : 29/07/2001 مـ",
+      "issue_date_gregorian": "2001-07-29",
+      "publish_date_hijri": "1422/05/27 هـ الموافق : 17/08/2001 مـ",
+      "publish_date_gregorian": "2001-08-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c385b62c-c635-484c-afa1-a9a700f16fe1/1"
+      ],
+      "organized_filename": "nzam-almwssat-alshfyh.pdf",
+      "knowledge_filename": "nzam-almwssat-alshfyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwssat-alshyh-alkhash",
+      "title_ar": "نظام المؤسسات الصحية الخاصة",
+      "status": "ساري",
+      "issue_date_hijri": "1423/11/03 هـ الموافق : 06/01/2003 مـ",
+      "issue_date_gregorian": "2003-01-06",
+      "publish_date_hijri": "1423/12/06 هـ الموافق : 07/02/2003 مـ",
+      "publish_date_gregorian": "2003-02-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/64e307c5-ac8c-49d8-9174-a9a700f285a0/1"
+      ],
+      "organized_filename": "nzam-almwssat-alshyh-alkhash.pdf",
+      "knowledge_filename": "nzam-almwssat-alshyh-alkhash.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwssh-alaamh-lkhtwt-hdyd-hkwmh-almmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام المؤسسة العامة لخطوط حديد حكومة المملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1386/01/01 هـ الموافق : 21/04/1966 مـ",
+      "issue_date_gregorian": "1966-04-21",
+      "publish_date_hijri": "1386/01/01 هـ الموافق : 21/04/1966 مـ",
+      "publish_date_gregorian": "1966-04-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4eb4bd77-cb8e-461d-b5bd-a9a700f2ee03/1"
+      ],
+      "organized_filename": "nzam-almwssh-alaamh-lkhtwt-hdyd-hkwmh-almmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-almwssh-alaamh-lkhtwt-hdyd-hkwmh-almmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwssh-alaamh-llkhtwt-aljwyh-alarbyh-alsawdyh",
+      "title_ar": "نظام المؤسسة العامة للخطوط الجوية العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1385/01/01 هـ الموافق : 02/05/1965 مـ",
+      "issue_date_gregorian": "1965-05-02",
+      "publish_date_hijri": "1385/01/01 هـ الموافق : 02/05/1965 مـ",
+      "publish_date_gregorian": "1965-05-02",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/21bbfc47-571d-4916-82b6-a9a700f2e06c/1"
+      ],
+      "organized_filename": "nzam-almwssh-alaamh-llkhtwt-aljwyh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-almwssh-alaamh-llkhtwt-aljwyh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwssh-alaamh-llmwany-alsawdyh",
+      "title_ar": "نظام المؤسسة العامة للموانئ السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "issue_date_gregorian": "1976-12-22",
+      "publish_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "publish_date_gregorian": "1976-12-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/db0851bf-16ee-41d5-b87f-a9a700f2e35d/1"
+      ],
+      "organized_filename": "nzam-almwssh-alaamh-llmwany-alsawdyh.pdf",
+      "knowledge_filename": "nzam-almwssh-alaamh-llmwany-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almtfjrat-walmfrqaat",
+      "title_ar": "نظام المتفجرات والمفرقعات",
+      "status": "ساري",
+      "issue_date_hijri": "1428/04/28 هـ الموافق : 15/05/2007 مـ",
+      "issue_date_gregorian": "2007-05-15",
+      "publish_date_hijri": "1428/05/22 هـ الموافق : 08/06/2007 مـ",
+      "publish_date_gregorian": "2007-06-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a05632b0-ac19-4659-af2a-a9a700f18337/1"
+      ],
+      "organized_filename": "nzam-almtfjrat-walmfrqaat.pdf",
+      "knowledge_filename": "nzam-almtfjrat-walmfrqaat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almjals-albldyh",
+      "title_ar": "نظام المجالس البلدية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/10/04 هـ الموافق : 31/07/2014 مـ",
+      "issue_date_gregorian": "2014-07-31",
+      "publish_date_hijri": "1435/11/03 هـ الموافق : 29/08/2014 مـ",
+      "publish_date_gregorian": "2014-08-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9da91b16-62ba-41d8-b6f7-a9a700f21d07/1"
+      ],
+      "organized_filename": "nzam-almjals-albldyh.pdf",
+      "knowledge_filename": "nzam-almjals-albldyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almhakm-altjaryh",
+      "title_ar": "نظام المحاكم التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1441/08/15 هـ الموافق : 08/04/2020 مـ",
+      "issue_date_gregorian": "2020-04-08",
+      "publish_date_hijri": "1441/08/24 هـ الموافق : 17/04/2020 مـ",
+      "publish_date_gregorian": "2020-04-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/38334008-3b70-4c6c-b3af-aba3016a8061/1"
+      ],
+      "organized_filename": "nzam-almhakm-altjaryh.pdf",
+      "knowledge_filename": "nzam-almhakm-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almhamah",
+      "title_ar": "نظام المحاماة",
+      "status": "ساري",
+      "issue_date_hijri": "1422/07/28 هـ الموافق : 15/10/2001 مـ",
+      "issue_date_gregorian": "2001-10-15",
+      "publish_date_hijri": "1422/07/28 هـ الموافق : 15/10/2001 مـ",
+      "publish_date_gregorian": "2001-10-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f42655be-79b0-4fd4-bb90-a9a700f26a3e/1"
+      ],
+      "organized_filename": "nzam-almhamah.pdf",
+      "knowledge_filename": "nzam-almhamah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almkhtbrat-alkhash",
+      "title_ar": "نظام المختبرات الخاصة",
+      "status": "ساري",
+      "issue_date_hijri": "1423/02/08 هـ الموافق : 21/04/2002 مـ",
+      "issue_date_gregorian": "2002-04-21",
+      "publish_date_hijri": "1423/02/08 هـ الموافق : 21/04/2002 مـ",
+      "publish_date_gregorian": "2002-04-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4c55f487-89fa-4d0f-80f1-a9a700f2835e/1"
+      ],
+      "organized_filename": "nzam-almkhtbrat-alkhash.pdf",
+      "knowledge_filename": "nzam-almkhtbrat-alkhash.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almdfwaat-wkhdmatha",
+      "title_ar": "نظام المدفوعات وخدماتها",
+      "status": "ساري",
+      "issue_date_hijri": "1443/03/22 هـ الموافق : 28/10/2021 مـ",
+      "issue_date_gregorian": "2021-10-28",
+      "publish_date_hijri": "1443/03/30 هـ الموافق : 05/11/2021 مـ",
+      "publish_date_gregorian": "2021-11-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c4af9503-d0f4-4d07-a7c3-add500a67d0c/1"
+      ],
+      "organized_filename": "nzam-almdfwaat-wkhdmatha.pdf",
+      "knowledge_filename": "nzam-almdfwaat-wkhdmatha.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almrafaat-amam-dywan-almzalm",
+      "title_ar": "نظام المرافعات أمام ديوان المظالم",
+      "status": "ساري",
+      "issue_date_hijri": "1435/01/22 هـ الموافق : 25/11/2013 مـ",
+      "issue_date_gregorian": "2013-11-25",
+      "publish_date_hijri": "1435/02/03 هـ الموافق : 06/12/2013 مـ",
+      "publish_date_gregorian": "2013-12-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f2f7b465-b576-4f47-a8e7-a9a700f27202/1"
+      ],
+      "organized_filename": "nzam-almrafaat-amam-dywan-almzalm.pdf",
+      "knowledge_filename": "nzam-almrafaat-amam-dywan-almzalm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "law-of-sharia-procedure",
+      "title_ar": "نظام المرافعات الشرعية",
+      "status": "ساري",
+      "issue_date_hijri": "1435/01/22 هـ الموافق : 25/11/2013 مـ",
+      "issue_date_gregorian": "2013-11-25",
+      "publish_date_hijri": "1435/02/03 هـ الموافق : 06/12/2013 مـ",
+      "publish_date_gregorian": "2013-12-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f0eaae46-9f84-40ee-815e-a9a700f268b3/1"
+      ],
+      "organized_filename": "nzam-almrafaat-alshrayh.pdf",
+      "knowledge_filename": "nzam-almrafaat-alshrayh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almraqbh-alshyh-fy-mnafdh-aldkhwl",
+      "title_ar": "نظام المراقبة الصحية في منافذ الدخول",
+      "status": "ساري",
+      "issue_date_hijri": "1433/08/07 هـ الموافق : 27/06/2012 مـ",
+      "issue_date_gregorian": "2012-06-27",
+      "publish_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/1b787adb-3b1e-4b69-b04d-a9a700f28ca6/1"
+      ],
+      "organized_filename": "nzam-almraqbh-alshyh-fy-mnafdh-aldkhwl.pdf",
+      "knowledge_filename": "nzam-almraqbh-alshyh-fy-mnafdh-aldkhwl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almrkz-alwtny-llwthayq-walmhfwzat",
+      "title_ar": "نظام المركز الوطني للوثائق والمحفوظات",
+      "status": "ساري",
+      "issue_date_hijri": "1409/10/23 هـ الموافق : 28/05/1989 مـ",
+      "issue_date_gregorian": "1989-05-28",
+      "publish_date_hijri": "1409/11/20 هـ الموافق : 23/06/1989 مـ",
+      "publish_date_gregorian": "1989-06-23",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bdf15375-52e6-4c94-9153-a9a700f16cc3/1"
+      ],
+      "organized_filename": "nzam-almrkz-alwtny-llwthayq-walmhfwzat.pdf",
+      "knowledge_filename": "nzam-almrkz-alwtny-llwthayq-walmhfwzat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almrwr",
+      "title_ar": "نظام المرور",
+      "status": "ساري",
+      "issue_date_hijri": "1428/10/26 هـ الموافق : 07/11/2007 مـ",
+      "issue_date_gregorian": "2007-11-07",
+      "publish_date_hijri": "1428/10/26 هـ الموافق : 07/11/2007 مـ",
+      "publish_date_gregorian": "2007-11-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/85364e57-c01e-41ba-8def-a9a700f183e9/1"
+      ],
+      "organized_filename": "nzam-almrwr.pdf",
+      "knowledge_filename": "nzam-almrwr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almswwlyh-almdnyh-an-aladrar-alnwwyh",
+      "title_ar": "نظام المسؤولية المدنية عن الأضرار النووية",
+      "status": "ساري",
+      "issue_date_hijri": "1439/07/25 هـ الموافق : 11/04/2018 مـ",
+      "issue_date_gregorian": "2018-04-11",
+      "publish_date_hijri": "1439/08/08 هـ الموافق : 24/04/2018 مـ",
+      "publish_date_gregorian": "2018-04-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2a68bdd7-6395-417e-be02-a9f70181b49c/1"
+      ],
+      "organized_filename": "nzam-almswwlyh-almdnyh-an-aladrar-alnwwyh.pdf",
+      "knowledge_filename": "nzam-almswwlyh-almdnyh-an-aladrar-alnwwyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almsahmat-alaqaryh",
+      "title_ar": "نظام المساهمات العقارية",
+      "status": "ساري",
+      "issue_date_hijri": "1444/12/28 هـ الموافق : 16/07/2023 مـ",
+      "issue_date_gregorian": "2023-07-16",
+      "publish_date_hijri": "1445/01/03 هـ الموافق : 21/07/2023 مـ",
+      "publish_date_gregorian": "2023-07-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5efb6f40-d859-47e6-9c8a-b04500943ecc/1"
+      ],
+      "organized_filename": "nzam-almsahmat-alaqaryh.pdf",
+      "knowledge_filename": "nzam-almsahmat-alaqaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almsharkh-balwqt-fa-alwhdat-alaqaryh-alsyahyh",
+      "title_ar": "نظام المشاركة بالوقت فى الوحدات العقارية السياحية",
+      "status": "ساري",
+      "issue_date_hijri": "1427/08/20 هـ الموافق : 13/09/2006 مـ",
+      "issue_date_gregorian": "2006-09-13",
+      "publish_date_hijri": "1427/09/13 هـ الموافق : 06/10/2006 مـ",
+      "publish_date_gregorian": "2006-10-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3ab82e3c-de46-4463-a939-a9a700f1b2af/1"
+      ],
+      "organized_filename": "nzam-almsharkh-balwqt-fa-alwhdat-alaqaryh-alsyahyh.pdf",
+      "knowledge_filename": "nzam-almsharkh-balwqt-fa-alwhdat-alaqaryh-alsyahyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almtbwaat-walnshr",
+      "title_ar": "نظام المطبوعات والنشر",
+      "status": "ساري",
+      "issue_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+      "issue_date_gregorian": "2000-04-06",
+      "publish_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+      "publish_date_gregorian": "2000-04-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ecaaec43-8ff9-46b8-b269-a9a700f16e66/1"
+      ],
+      "organized_filename": "nzam-almtbwaat-walnshr.pdf",
+      "knowledge_filename": "nzam-almtbwaat-walnshr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almaadn-althmynh-walahjar-alkrymh",
+      "title_ar": "نظام المعادن الثمينة والأحجار الكريمة",
+      "status": "ساري",
+      "issue_date_hijri": "1403/07/10 هـ الموافق : 23/04/1983 مـ",
+      "issue_date_gregorian": "1983-04-23",
+      "publish_date_hijri": "1406/04/08 هـ الموافق : 20/12/1985 مـ",
+      "publish_date_gregorian": "1985-12-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0f54d227-1450-4231-93cd-a9a700f29821/1"
+      ],
+      "organized_filename": "nzam-almaadn-althmynh-walahjar-alkrymh.pdf",
+      "knowledge_filename": "nzam-almaadn-althmynh-walahjar-alkrymh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almaaljat-altjaryh-fy-altjarh-aldwlyh",
+      "title_ar": "نظام المعالجات التجارية في التجارة الدولية",
+      "status": "ساري",
+      "issue_date_hijri": "1444/04/29 هـ الموافق : 23/11/2022 مـ",
+      "issue_date_gregorian": "2022-11-23",
+      "publish_date_hijri": "1444/05/08 هـ الموافق : 02/12/2022 مـ",
+      "publish_date_gregorian": "2022-12-02",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/319fe343-cafd-4638-bc7d-af5e00b16b6b/1"
+      ],
+      "organized_filename": "nzam-almaaljat-altjaryh-fy-altjarh-aldwlyh.pdf",
+      "knowledge_filename": "nzam-almaaljat-altjaryh-fy-altjarh-aldwlyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "civil-transactions-law",
+      "title_ar": "نظام المعاملات المدنية",
+      "status": "ساري",
+      "issue_date_hijri": "1444/11/29 هـ الموافق : 18/06/2023 مـ",
+      "issue_date_gregorian": "2023-06-18",
+      "publish_date_hijri": "1444/12/01 هـ الموافق : 19/06/2023 مـ",
+      "publish_date_gregorian": "2023-06-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/655fdb42-8c96-422b-b8c4-b04f0095c94c/1"
+      ],
+      "organized_filename": "nzam-almaamlat-almdnyh.pdf",
+      "knowledge_filename": "nzam-almaamlat-almdnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almalwmat-alaytmanyh",
+      "title_ar": "نظام المعلومات الائتمانية",
+      "status": "ساري",
+      "issue_date_hijri": "1429/07/05 هـ الموافق : 08/07/2008 مـ",
+      "issue_date_gregorian": "2008-07-08",
+      "publish_date_hijri": "1429/08/07 هـ الموافق : 08/08/2008 مـ",
+      "publish_date_gregorian": "2008-08-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/63dc01a6-fc5c-4600-9171-a9a700f2d222/1"
+      ],
+      "organized_filename": "nzam-almalwmat-alaytmanyh.pdf",
+      "knowledge_filename": "nzam-almalwmat-alaytmanyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almqymyn-almatmdyn",
+      "title_ar": "نظام المقيمين المعتمدين",
+      "status": "ساري",
+      "issue_date_hijri": "1433/07/09 هـ الموافق : 30/05/2012 مـ",
+      "issue_date_gregorian": "2012-05-30",
+      "publish_date_hijri": "1433/09/22 هـ الموافق : 10/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cad66e4d-38d3-4baa-8049-a9a700f1e7a8/1"
+      ],
+      "organized_filename": "nzam-almqymyn-almatmdyn.pdf",
+      "knowledge_filename": "nzam-almqymyn-almatmdyn.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almlabs-waltjhyzat-alaskryh-alfrdyh",
+      "title_ar": "نظام الملابس والتجهيزات العسكرية الفردية",
+      "status": "ساري",
+      "issue_date_hijri": "1426/07/08 هـ الموافق : 13/08/2005 مـ",
+      "issue_date_gregorian": "2005-08-13",
+      "publish_date_hijri": "1426/08/12 هـ الموافق : 16/09/2005 مـ",
+      "publish_date_gregorian": "2005-09-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/985cf9ba-02ec-4eb1-9e36-a9a700f23514/1"
+      ],
+      "organized_filename": "nzam-almlabs-waltjhyzat-alaskryh-alfrdyh.pdf",
+      "knowledge_filename": "nzam-almlabs-waltjhyzat-alaskryh-alfrdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almnatq",
+      "title_ar": "نظام المناطق",
+      "status": "ساري",
+      "issue_date_hijri": "1412/08/27 هـ الموافق : 01/03/1992 مـ",
+      "issue_date_gregorian": "1992-03-01",
+      "publish_date_hijri": "1412/09/02 هـ الموافق : 06/03/1992 مـ",
+      "publish_date_gregorian": "1992-03-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93f81644-fbbc-49ca-b33c-a9a700f16701/1"
+      ],
+      "organized_filename": "nzam-almnatq.pdf",
+      "knowledge_filename": "nzam-almnatq.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almnatq-albhryh-llmmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام المناطق البحرية للمملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1433/01/18 هـ الموافق : 13/12/2011 مـ",
+      "issue_date_gregorian": "2011-12-13",
+      "publish_date_hijri": "1433/02/19 هـ الموافق : 13/01/2012 مـ",
+      "publish_date_gregorian": "2012-01-13",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/98b1d2e8-4724-439b-af00-a9a700f255ef/1"
+      ],
+      "organized_filename": "nzam-almnatq-albhryh-llmmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-almnatq-albhryh-llmmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "government-tenders-and-procurement-law",
+      "title_ar": "نظام المنافسات و المشتريات الحكومية",
+      "status": "ساري",
+      "issue_date_hijri": "1440/11/13 هـ الموافق : 16/07/2019 مـ",
+      "issue_date_gregorian": "2019-07-16",
+      "publish_date_hijri": "1440/11/29 هـ الموافق : 01/08/2019 مـ",
+      "publish_date_gregorian": "2019-08-01",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/24c563f9-7292-49c8-b0fb-aa9800b999f1/1"
+      ],
+      "organized_filename": "nzam-almnafsat-w-almshtryat-alhkwmyh.pdf",
+      "knowledge_filename": "nzam-almnafsat-w-almshtryat-alhkwmyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almnafsh",
+      "title_ar": "نظام المنافسة",
+      "status": "ساري",
+      "issue_date_hijri": "1440/06/29 هـ الموافق : 06/03/2019 مـ",
+      "issue_date_gregorian": "2019-03-06",
+      "publish_date_hijri": "1440/07/20 هـ الموافق : 27/03/2019 مـ",
+      "publish_date_gregorian": "2019-03-27",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e3605c0d-ef87-4cff-b5da-aa3f0102bbb4/1"
+      ],
+      "organized_filename": "nzam-almnafsh.pdf",
+      "knowledge_filename": "nzam-almnafsh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almnshat-walmsthdrat-alsydlanyh-walashbyh",
+      "title_ar": "نظام المنشآت والمستحضرات الصيدلانية والعشبية",
+      "status": "ساري",
+      "issue_date_hijri": "1441/08/22 هـ الموافق : 15/04/2020 مـ",
+      "issue_date_gregorian": "2020-04-15",
+      "publish_date_hijri": "1441/09/01 هـ الموافق : 24/04/2020 مـ",
+      "publish_date_gregorian": "2020-04-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3d191772-e60b-4925-b5e7-aba50097641f/1"
+      ],
+      "organized_filename": "nzam-almnshat-walmsthdrat-alsydlanyh-walashbyh.pdf",
+      "knowledge_filename": "nzam-almnshat-walmsthdrat-alsydlanyh-walashbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwad-albtrwlyh-walbtrwkymawyh",
+      "title_ar": "نظام المواد البترولية والبتروكيماوية",
+      "status": "ساري",
+      "issue_date_hijri": "1446/07/12 هـ الموافق : 12/01/2025 مـ",
+      "issue_date_gregorian": "2025-01-12",
+      "publish_date_hijri": "1446/07/24 هـ الموافق : 24/01/2025 مـ",
+      "publish_date_gregorian": "2025-01-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/48da5c0f-b5a6-4e93-b76c-b33200be0330/1"
+      ],
+      "organized_filename": "nzam-almwad-albtrwlyh-walbtrwkymawyh.pdf",
+      "knowledge_filename": "nzam-almwad-albtrwlyh-walbtrwkymawyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwad-alhydrwkrbwnyh",
+      "title_ar": "نظام المواد الهيدروكربونية",
+      "status": "ساري",
+      "issue_date_hijri": "1439/04/02 هـ الموافق : 20/12/2017 مـ",
+      "issue_date_gregorian": "2017-12-20",
+      "publish_date_hijri": "1439/04/02 هـ الموافق : 20/12/2017 مـ",
+      "publish_date_gregorian": "2017-12-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7ea51f01-916d-4f4b-81b3-a9ed010a6dc5/1"
+      ],
+      "organized_filename": "nzam-almwad-alhydrwkrbwnyh.pdf",
+      "knowledge_filename": "nzam-almwad-alhydrwkrbwnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almwasfat-waljwdh",
+      "title_ar": "نظام المواصفات والجودة",
+      "status": "ساري",
+      "issue_date_hijri": "1446/01/29 هـ الموافق : 04/08/2024 مـ",
+      "issue_date_gregorian": "2024-08-04",
+      "publish_date_hijri": "1446/02/12 هـ الموافق : 16/08/2024 مـ",
+      "publish_date_gregorian": "2024-08-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c487b0ff-8e52-442d-bf62-b1cd009fdc57/1"
+      ],
+      "organized_filename": "nzam-almwasfat-waljwdh.pdf",
+      "knowledge_filename": "nzam-almwasfat-waljwdh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almyah",
+      "title_ar": "نظام المياه",
+      "status": "ساري",
+      "issue_date_hijri": "1441/11/11 هـ الموافق : 02/07/2020 مـ",
+      "issue_date_gregorian": "2020-07-02",
+      "publish_date_hijri": "1441/11/19 هـ الموافق : 10/07/2020 مـ",
+      "publish_date_gregorian": "2020-07-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/57261279-94b7-4ddc-8ad2-abf100d246be/1"
+      ],
+      "organized_filename": "nzam-almyah.pdf",
+      "knowledge_filename": "nzam-almyah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-almydalyat-almdnyh-walaskryh",
+      "title_ar": "نظام الميداليات المدنية والعسكرية",
+      "status": "ساري",
+      "issue_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "issue_date_gregorian": "1971-02-26",
+      "publish_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "publish_date_gregorian": "1971-02-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e1fd0b90-ced3-4402-ad60-a9a700f1f755/1"
+      ],
+      "organized_filename": "nzam-almydalyat-almdnyh-walaskryh.pdf",
+      "knowledge_filename": "nzam-almydalyat-almdnyh-walaskryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alnqd-alarba-alsawda",
+      "title_ar": "نظام النقد العربى السعودى",
+      "status": "ساري",
+      "issue_date_hijri": "1379/01/01 هـ الموافق : 07/07/1959 مـ",
+      "issue_date_gregorian": "1959-07-07",
+      "publish_date_hijri": "1379/01/01 هـ الموافق : 07/07/1959 مـ",
+      "publish_date_gregorian": "1959-07-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/1603064a-ab7e-48eb-9564-a9a700f2d2e0/1"
+      ],
+      "organized_filename": "nzam-alnqd-alarba-alsawda.pdf",
+      "knowledge_filename": "nzam-alnqd-alarba-alsawda.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alnql-alaam-ala-altrq-balmmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام النقل العام على الطرق بالمملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "issue_date_gregorian": "1976-12-22",
+      "publish_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "publish_date_gregorian": "1976-12-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/35c24150-3c9e-4031-8f52-a9a700f2e443/1"
+      ],
+      "organized_filename": "nzam-alnql-alaam-ala-altrq-balmmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-alnql-alaam-ala-altrq-balmmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhyyh-alsawdyh-lltkhssat-alshyh",
+      "title_ar": "نظام الهيئة السعودية للتخصصات الصحية",
+      "status": "ساري",
+      "issue_date_hijri": "1413/01/01 هـ الموافق : 01/07/1992 مـ",
+      "issue_date_gregorian": "1992-07-01",
+      "publish_date_hijri": "1413/01/01 هـ الموافق : 01/07/1992 مـ",
+      "publish_date_gregorian": "1992-07-01",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6c8d5fc7-ce6c-4636-9c72-a9a700f28290/1"
+      ],
+      "organized_filename": "nzam-alhyyh-alsawdyh-lltkhssat-alshyh.pdf",
+      "knowledge_filename": "nzam-alhyyh-alsawdyh-lltkhssat-alshyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhyyh-alsawdyh-llmhndsyn",
+      "title_ar": "نظام الهيئة السعودية للمهندسين",
+      "status": "ساري",
+      "issue_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "issue_date_gregorian": "2002-03-15",
+      "publish_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+      "publish_date_gregorian": "2002-03-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3e1de77d-3cd1-44d8-b174-a9a700f1ab06/1"
+      ],
+      "organized_filename": "nzam-alhyyh-alsawdyh-llmhndsyn.pdf",
+      "knowledge_filename": "nzam-alhyyh-alsawdyh-llmhndsyn.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhyyh-alaamh-llawqaf",
+      "title_ar": "نظام الهيئة العامة للأوقاف",
+      "status": "ساري",
+      "issue_date_hijri": "1437/02/26 هـ الموافق : 08/12/2015 مـ",
+      "issue_date_gregorian": "2015-12-08",
+      "publish_date_hijri": "1437/03/14 هـ الموافق : 25/12/2015 مـ",
+      "publish_date_gregorian": "2015-12-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cabff788-438d-4003-be74-a9a700f2bcde/1"
+      ],
+      "organized_filename": "nzam-alhyyh-alaamh-llawqaf.pdf",
+      "knowledge_filename": "nzam-alhyyh-alaamh-llawqaf.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhyyh-alaamh-llghdhaa-waldwaa",
+      "title_ar": "نظام الهيئة العامة للغذاء والدواء",
+      "status": "ساري",
+      "issue_date_hijri": "1428/01/25 هـ الموافق : 13/02/2007 مـ",
+      "issue_date_gregorian": "2007-02-13",
+      "publish_date_hijri": "1428/02/19 هـ الموافق : 09/03/2007 مـ",
+      "publish_date_gregorian": "2007-03-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/dd7a7d7d-a92d-431b-9ec3-a9a700f28a46/1"
+      ],
+      "organized_filename": "nzam-alhyyh-alaamh-llghdhaa-waldwaa.pdf",
+      "knowledge_filename": "nzam-alhyyh-alaamh-llghdhaa-waldwaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alhyyh-alaamh-llwlayh-ala-amwal-alqasryn-wmn-fa-hkmhm",
+      "title_ar": "نظام الهيئة العامة للولاية على أموال القاصرين ومن فى حكمهم",
+      "status": "ساري",
+      "issue_date_hijri": "1427/03/13 هـ الموافق : 11/04/2006 مـ",
+      "issue_date_gregorian": "2006-04-11",
+      "publish_date_hijri": "1427/04/21 هـ الموافق : 19/05/2006 مـ",
+      "publish_date_gregorian": "2006-05-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6a8286ec-baea-43ec-ab0d-a9a700f26c94/1"
+      ],
+      "organized_filename": "nzam-alhyyh-alaamh-llwlayh-ala-amwal-alqasryn-wmn-fa-hkmhm.pdf",
+      "knowledge_filename": "nzam-alhyyh-alaamh-llwlayh-ala-amwal-alqasryn-wmn-fa-hkmhm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alwthayq-walmhfwzat",
+      "title_ar": "نظام الوثائق والمحفوظات",
+      "status": "ساري",
+      "issue_date_hijri": "1409/10/23 هـ الموافق : 28/05/1989 مـ",
+      "issue_date_gregorian": "1989-05-28",
+      "publish_date_hijri": "1409/11/20 هـ الموافق : 23/06/1989 مـ",
+      "publish_date_gregorian": "1989-06-23",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a4d3a985-a838-47e8-977e-a9a700f16c1c/1"
+      ],
+      "organized_filename": "nzam-alwthayq-walmhfwzat.pdf",
+      "knowledge_filename": "nzam-alwthayq-walmhfwzat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alwzraa-wnwab-alwzraa-wmwzfy-almrtbh-almmtazh",
+      "title_ar": "نظام الوزراء ونواب الوزراء وموظفي المرتبة الممتازة",
+      "status": "ساري",
+      "issue_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "issue_date_gregorian": "1971-02-26",
+      "publish_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "publish_date_gregorian": "1971-02-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b2a002e4-a3da-474b-9735-a9a700f2386c/1"
+      ],
+      "organized_filename": "nzam-alwzraa-wnwab-alwzraa-wmwzfy-almrtbh-almmtazh.pdf",
+      "knowledge_filename": "nzam-alwzraa-wnwab-alwzraa-wmwzfy-almrtbh-almmtazh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "real-estate-brokerage-law",
+      "title_ar": "نظام الوساطة العقارية",
+      "status": "ساري",
+      "issue_date_hijri": "1443/11/30 هـ الموافق : 29/06/2022 مـ",
+      "issue_date_gregorian": "2022-06-29",
+      "publish_date_hijri": "1443/12/23 هـ الموافق : 22/07/2022 مـ",
+      "publish_date_gregorian": "2022-07-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f1bfd1f1-0c50-468e-b9a5-aeee008e493a/1"
+      ],
+      "organized_filename": "nzam-alwsath-alaqaryh.pdf",
+      "knowledge_filename": "nzam-alwsath-alaqaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alwqayh-mn-mtlazmh-alawz-almnaay-almktsb-aliydz-whqwq-almsabyn-wwajbathm",
+      "title_ar": "نظام الوقاية من متلازمة العوز المناعي المكتسب (الإيدز) وحقوق المصابين وواجباتهم",
+      "status": "ساري",
+      "issue_date_hijri": "1439/04/16 هـ الموافق : 03/01/2018 مـ",
+      "issue_date_gregorian": "2018-01-03",
+      "publish_date_hijri": "1439/04/16 هـ الموافق : 03/01/2018 مـ",
+      "publish_date_gregorian": "2018-01-03",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9d240ae2-a709-48ee-ac82-a9ed0119f62d/1"
+      ],
+      "organized_filename": "nzam-alwqayh-mn-mtlazmh-alawz-almnaay-almktsb-aliydz-whqwq-almsabyn-wwajbathm.pdf",
+      "knowledge_filename": "nzam-alwqayh-mn-mtlazmh-alawz-almnaay-almktsb-aliydz-whqwq-almsabyn-wwajbathm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-alwkalat-altjaryh",
+      "title_ar": "نظام الوكالات التجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1382/01/01 هـ الموافق : 03/06/1962 مـ",
+      "issue_date_gregorian": "1962-06-03",
+      "publish_date_hijri": "1382/01/01 هـ الموافق : 03/06/1962 مـ",
+      "publish_date_gregorian": "1962-06-03",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b19a8aa6-7b50-43f0-ab8c-a9a700f1a446/1"
+      ],
+      "organized_filename": "nzam-alwkalat-altjaryh.pdf",
+      "knowledge_filename": "nzam-alwkalat-altjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-braaat-alakhtraa-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh",
+      "title_ar": "نظام براءات الاختراع لدول مجلس التعاون لدول الخليج العربية",
+      "status": "ساري",
+      "issue_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+      "issue_date_gregorian": "2001-03-26",
+      "publish_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+      "publish_date_gregorian": "2001-03-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f95138ff-0892-49b0-921c-a9a700f1c37f/1"
+      ],
+      "organized_filename": "nzam-braaat-alakhtraa-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.pdf",
+      "knowledge_filename": "nzam-braaat-alakhtraa-ldwl-mjls-altaawn-ldwl-alkhlyj-alarbyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa",
+      "title_ar": "نظام براءات الاختراع والتصميمات التخطيطية للدارات المتكاملة والأصناف النباتية والنماذج الصناعية",
+      "status": "ساري",
+      "issue_date_hijri": "1425/05/29 هـ الموافق : 17/07/2004 مـ",
+      "issue_date_gregorian": "2004-07-17",
+      "publish_date_hijri": "1425/06/20 هـ الموافق : 06/08/2004 مـ",
+      "publish_date_gregorian": "2004-08-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6cfde53b-e803-49be-b2c6-a9a700f1c434/1"
+      ],
+      "organized_filename": "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa.pdf",
+      "knowledge_filename": "nzam-braaat-alakhtraa-waltsmymat-altkhtytyh-lldarat-almtkamlh-walasnaf-alnbatyh-walnmadhj-alsnaa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-bnk-almnshat-alsghyrh-walmtwsth",
+      "title_ar": "نظام بنك المنشآت الصغيرة والمتوسطة",
+      "status": "ساري",
+      "issue_date_hijri": "1444/04/08 هـ الموافق : 02/11/2022 مـ",
+      "issue_date_gregorian": "2022-11-02",
+      "publish_date_hijri": "1444/04/17 هـ الموافق : 11/11/2022 مـ",
+      "publish_date_gregorian": "2022-11-11",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2ed6dfe1-d66e-41c8-bdf6-af4800cb050d/1"
+      ],
+      "organized_filename": "nzam-bnk-almnshat-alsghyrh-walmtwsth.pdf",
+      "knowledge_filename": "nzam-bnk-almnshat-alsghyrh-walmtwsth.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-bya-wtajyr-mshrwaat-aqaryh-ala-alkharth",
+      "title_ar": "نظام بيع وتأجير مشروعات عقارية على الخارطة",
+      "status": "ساري",
+      "issue_date_hijri": "1445/03/10 هـ الموافق : 25/09/2023 مـ",
+      "issue_date_gregorian": "2023-09-25",
+      "publish_date_hijri": "1445/06/23 هـ الموافق : 05/01/2024 مـ",
+      "publish_date_gregorian": "2024-01-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/99613e6a-6b85-423c-87af-b0ec00b4633e/1"
+      ],
+      "organized_filename": "nzam-bya-wtajyr-mshrwaat-aqaryh-ala-alkharth.pdf",
+      "knowledge_filename": "nzam-bya-wtajyr-mshrwaat-aqaryh-ala-alkharth.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-tbadl-almnafa-byn-nzamy-altqaad-almdny-walaskry-wnzam-altamynat-alijtmaayh",
+      "title_ar": "نظام تبادل المنافع بين نظامي التقاعد المدني والعسكري ونظام التأمينات الإجتماعية",
+      "status": "ساري",
+      "issue_date_hijri": "1424/01/01 هـ الموافق : 04/03/2003 مـ",
+      "issue_date_gregorian": "2003-03-04",
+      "publish_date_hijri": "1424/01/01 هـ الموافق : 04/03/2003 مـ",
+      "publish_date_gregorian": "2003-03-04",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ae482429-33b8-4e3f-a3ae-a9a700f23d5c/1"
+      ],
+      "organized_filename": "nzam-tbadl-almnafa-byn-nzamy-altqaad-almdny-walaskry-wnzam-altamynat-alijtmaayh.pdf",
+      "knowledge_filename": "nzam-tbadl-almnafa-byn-nzamy-altqaad-almdny-walaskry-wnzam-altamynat-alijtmaayh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-tdawl-bdayl-hlyb-alam",
+      "title_ar": "نظام تداول بدائل حليب الأم",
+      "status": "ساري",
+      "issue_date_hijri": "1425/09/21 هـ الموافق : 04/11/2004 مـ",
+      "issue_date_gregorian": "2004-11-04",
+      "publish_date_hijri": "1425/10/27 هـ الموافق : 10/12/2004 مـ",
+      "publish_date_gregorian": "2004-12-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8d68a28a-3ca8-4093-8f53-a9a700f28818/1"
+      ],
+      "organized_filename": "nzam-tdawl-bdayl-hlyb-alam.pdf",
+      "knowledge_filename": "nzam-tdawl-bdayl-hlyb-alam.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-trkyz-mswwlyat-alqdaa-alshray",
+      "title_ar": "نظام تركيز مسؤوليات القضاء الشرعي",
+      "status": "ساري",
+      "issue_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+      "issue_date_gregorian": "1952-09-20",
+      "publish_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+      "publish_date_gregorian": "1952-09-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2072c9ff-5a70-444e-91cc-a9a700f26346/1"
+      ],
+      "organized_filename": "nzam-trkyz-mswwlyat-alqdaa-alshray.pdf",
+      "knowledge_filename": "nzam-trkyz-mswwlyat-alqdaa-alshray.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-tsnyf-almqawlyn",
+      "title_ar": "نظام تصنيف المقاولين",
+      "status": "ساري",
+      "issue_date_hijri": "1443/01/18 هـ الموافق : 26/08/2021 مـ",
+      "issue_date_gregorian": "2021-08-26",
+      "publish_date_hijri": "1443/01/26 هـ الموافق : 03/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-03",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/66eccea3-fc1c-471f-bcfa-ad9d009a7ec0/1"
+      ],
+      "organized_filename": "nzam-tsnyf-almqawlyn.pdf",
+      "knowledge_filename": "nzam-tsnyf-almqawlyn.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-ttbyq-kwd-albnaa-alsawdy",
+      "title_ar": "نظام تطبيق كود البناء السعودي",
+      "status": "ساري",
+      "issue_date_hijri": "1438/04/26 هـ الموافق : 24/01/2017 مـ",
+      "issue_date_gregorian": "2017-01-24",
+      "publish_date_hijri": "1440/03/21 هـ الموافق : 29/11/2018 مـ",
+      "publish_date_gregorian": "2018-11-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cfc97985-4a9f-4012-832b-a9a700f21ed2/1"
+      ],
+      "organized_filename": "nzam-ttbyq-kwd-albnaa-alsawdy.pdf",
+      "knowledge_filename": "nzam-ttbyq-kwd-albnaa-alsawdy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-tadad-alskan-alaam",
+      "title_ar": "نظام تعداد السكان العام",
+      "status": "ساري",
+      "issue_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "issue_date_gregorian": "1971-02-26",
+      "publish_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "publish_date_gregorian": "1971-02-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0fceb9eb-d143-4d87-8a47-a9a700f20f2e/1"
+      ],
+      "organized_filename": "nzam-tadad-alskan-alaam.pdf",
+      "knowledge_filename": "nzam-tadad-alskan-alaam.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-taryfh-altyran-almdny",
+      "title_ar": "نظام تعريفة الطيران المدني",
+      "status": "ساري",
+      "issue_date_hijri": "1426/01/01 هـ الموافق : 10/02/2005 مـ",
+      "issue_date_gregorian": "2005-02-10",
+      "publish_date_hijri": "1426/01/01 هـ الموافق : 10/02/2005 مـ",
+      "publish_date_gregorian": "2005-02-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/456ab486-9c16-4c7b-993c-a9a700f2cc4a/1"
+      ],
+      "organized_filename": "nzam-taryfh-altyran-almdny.pdf",
+      "knowledge_filename": "nzam-taryfh-altyran-almdny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام تعليم الكبار ومحو الأمية في المملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "issue_date_gregorian": "1972-02-16",
+      "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "publish_date_gregorian": "1972-02-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f457818f-2d89-4339-b7e7-a9a700f1fff2/1"
+      ],
+      "organized_filename": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-talym-alkbar-wmhw-alamyh-fy-almmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-tmlk-ghyr-alsawdyyn-llaqar",
+      "title_ar": "نظام تملك غير السعوديين للعقار",
+      "status": "ساري",
+      "issue_date_hijri": "1447/01/19 هـ الموافق : 14/07/2025 مـ",
+      "issue_date_gregorian": "2025-07-14",
+      "publish_date_hijri": "1447/01/30 هـ الموافق : 25/07/2025 مـ",
+      "publish_date_gregorian": "2025-07-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a1bdadb5-c518-48bb-a1d0-b33000e66fd1/1"
+      ],
+      "organized_filename": "nzam-tmlk-ghyr-alsawdyyn-llaqar.pdf",
+      "knowledge_filename": "nzam-tmlk-ghyr-alsawdyyn-llaqar.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-tmlk-ghyr-alsawdyyn-llaqar-wastthmarh",
+      "title_ar": "نظام تملك غير السعوديين للعقار واستثماره",
+      "status": "ساري",
+      "issue_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+      "issue_date_gregorian": "2000-04-06",
+      "publish_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+      "publish_date_gregorian": "2000-04-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/753d7ffc-5e18-4f36-818d-a9a700f213a1/1"
+      ],
+      "organized_filename": "nzam-tmlk-ghyr-alsawdyyn-llaqar-wastthmarh.pdf",
+      "knowledge_filename": "nzam-tmlk-ghyr-alsawdyyn-llaqar-wastthmarh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-twzya-alarady-albwr",
+      "title_ar": "نظام توزيع الأراضي البور",
+      "status": "ساري",
+      "issue_date_hijri": "1388/01/01 هـ الموافق : 29/03/1968 مـ",
+      "issue_date_gregorian": "1968-03-29",
+      "publish_date_hijri": "1388/01/01 هـ الموافق : 29/03/1968 مـ",
+      "publish_date_gregorian": "1968-03-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c1a70c2f-ba99-45ce-9dd8-a9a700f243ef/1"
+      ],
+      "organized_filename": "nzam-twzya-alarady-albwr.pdf",
+      "knowledge_filename": "nzam-twzya-alarady-albwr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-twzya-alghaz-aljaf-wghaz-albtrwl-alsayl-llaghrad-alsknyh-waltjaryh",
+      "title_ar": "نظام توزيع الغاز الجاف وغاز البترول السائل للأغراض السكنية والتجارية",
+      "status": "ساري",
+      "issue_date_hijri": "1438/12/01 هـ الموافق : 23/08/2017 مـ",
+      "issue_date_gregorian": "2017-08-23",
+      "publish_date_hijri": "1440/03/21 هـ الموافق : 29/11/2018 مـ",
+      "publish_date_gregorian": "2018-11-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e4436403-31ee-439c-bac4-a9a700f2a17d/1"
+      ],
+      "organized_filename": "nzam-twzya-alghaz-aljaf-wghaz-albtrwl-alsayl-llaghrad-alsknyh-waltjaryh.pdf",
+      "knowledge_filename": "nzam-twzya-alghaz-aljaf-wghaz-albtrwl-alsayl-llaghrad-alsknyh-waltjaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-jbayh-alzkah",
+      "title_ar": "نظام جباية الزكاة",
+      "status": "ساري",
+      "issue_date_hijri": "1370/01/01 هـ الموافق : 12/10/1950 مـ",
+      "issue_date_gregorian": "1950-10-12",
+      "publish_date_hijri": "1370/01/01 هـ الموافق : 12/10/1950 مـ",
+      "publish_date_gregorian": "1950-10-12",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/25fed59a-2790-4a77-ab11-a9a700f2c5fd/1"
+      ],
+      "organized_filename": "nzam-jbayh-alzkah.pdf",
+      "knowledge_filename": "nzam-jbayh-alzkah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-jma-altbraat",
+      "title_ar": "نظام جمع التبرعات",
+      "status": "ساري",
+      "issue_date_hijri": "1446/02/08 هـ الموافق : 12/08/2024 مـ",
+      "issue_date_gregorian": "2024-08-12",
+      "publish_date_hijri": "1446/02/19 هـ الموافق : 23/08/2024 مـ",
+      "publish_date_gregorian": "2024-08-23",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/738c42bb-a29f-4da7-bed4-b1d300a55f20/1"
+      ],
+      "organized_filename": "nzam-jma-altbraat.pdf",
+      "knowledge_filename": "nzam-jma-altbraat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-jmayh-alkshafh-alarbyh-alsawdyh",
+      "title_ar": "نظام جمعية الكشافة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1407/04/20 هـ الموافق : 21/12/1986 مـ",
+      "issue_date_gregorian": "1986-12-21",
+      "publish_date_hijri": "1407/05/09 هـ الموافق : 09/01/1987 مـ",
+      "publish_date_gregorian": "1987-01-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bbfab460-8fe8-4425-9202-a9a700f27ba7/1"
+      ],
+      "organized_filename": "nzam-jmayh-alkshafh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-jmayh-alkshafh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-jwazat-alsfr-alsyasyh-walkhash",
+      "title_ar": "نظام جوازات السفر السياسية والخاصة",
+      "status": "ساري",
+      "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "issue_date_gregorian": "1972-02-16",
+      "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "publish_date_gregorian": "1972-02-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f5b4288e-5625-4cf3-8ce8-a9a700f17bf9/1"
+      ],
+      "organized_filename": "nzam-jwazat-alsfr-alsyasyh-walkhash.pdf",
+      "knowledge_filename": "nzam-jwazat-alsfr-alsyasyh-walkhash.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hqwq-alashkhas-dhwy-aliaaqh",
+      "title_ar": "نظام حقوق الأشخاص ذوي الإعاقة",
+      "status": "ساري",
+      "issue_date_hijri": "1445/02/11 هـ الموافق : 27/08/2023 مـ",
+      "issue_date_gregorian": "2023-08-27",
+      "publish_date_hijri": "1445/02/23 هـ الموافق : 08/09/2023 مـ",
+      "publish_date_gregorian": "2023-09-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e52b691a-785c-42a7-8916-b07d00e4fd38/1"
+      ],
+      "organized_filename": "nzam-hqwq-alashkhas-dhwy-aliaaqh.pdf",
+      "knowledge_filename": "nzam-hqwq-alashkhas-dhwy-aliaaqh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hqwq-kbyr-alsn-wraayth",
+      "title_ar": "نظام حقوق كبير السن ورعايته",
+      "status": "ساري",
+      "issue_date_hijri": "1443/06/03 هـ الموافق : 06/01/2022 مـ",
+      "issue_date_gregorian": "2022-01-06",
+      "publish_date_hijri": "1443/06/11 هـ الموافق : 14/01/2022 مـ",
+      "publish_date_gregorian": "2022-01-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3c63e654-4046-468d-93fd-ae1a00de13be/1"
+      ],
+      "organized_filename": "nzam-hqwq-kbyr-alsn-wraayth.pdf",
+      "knowledge_filename": "nzam-hqwq-kbyr-alsn-wraayth.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "personal-data-protection-law",
+      "title_ar": "نظام حماية البيانات الشخصية",
+      "status": "ساري",
+      "issue_date_hijri": "1443/02/09 هـ الموافق : 16/09/2021 مـ",
+      "issue_date_gregorian": "2021-09-16",
+      "publish_date_hijri": "1443/02/17 هـ الموافق : 24/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b7cfae89-828e-4994-b167-adaa00e37188/1"
+      ],
+      "organized_filename": "nzam-hmayh-albyanat-alshkhsyh.pdf",
+      "knowledge_filename": "nzam-hmayh-albyanat-alshkhsyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hmayh-altrath-almkhtwt-fy-almmlkh-alarbyh-alsawdyh",
+      "title_ar": "نظام حماية التراث المخطوط في المملكة العربية السعودية",
+      "status": "ساري",
+      "issue_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+      "issue_date_gregorian": "2001-03-26",
+      "publish_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+      "publish_date_gregorian": "2001-03-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8161ec24-d5e0-48b4-8392-a9a700f278d8/1"
+      ],
+      "organized_filename": "nzam-hmayh-altrath-almkhtwt-fy-almmlkh-alarbyh-alsawdyh.pdf",
+      "knowledge_filename": "nzam-hmayh-altrath-almkhtwt-fy-almmlkh-alarbyh-alsawdyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hmayh-altfl",
+      "title_ar": "نظام حماية الطفل",
+      "status": "ساري",
+      "issue_date_hijri": "1436/02/03 هـ الموافق : 25/11/2014 مـ",
+      "issue_date_gregorian": "2014-11-25",
+      "publish_date_hijri": "1436/03/04 هـ الموافق : 26/12/2014 مـ",
+      "publish_date_gregorian": "2014-12-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2d3cb83a-0379-4cde-8e0b-a9a700f272bd/1"
+      ],
+      "organized_filename": "nzam-hmayh-altfl.pdf",
+      "knowledge_filename": "nzam-hmayh-altfl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "whistleblowers-witnesses-experts-and-victims-protection-law",
+      "title_ar": "نظام حماية المبلغين والشهود والخبراء والضحايا",
+      "status": "ساري",
+      "issue_date_hijri": "1445/08/08 هـ الموافق : 18/02/2024 مـ",
+      "issue_date_gregorian": "2024-02-18",
+      "publish_date_hijri": "1445/08/20 هـ الموافق : 01/03/2024 مـ",
+      "publish_date_gregorian": "2024-03-01",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6c421c5c-c137-442e-a854-b12200c46ffe/1"
+      ],
+      "organized_filename": "nzam-hmayh-almblghyn-walshhwd-walkhbraa-waldhaya.pdf",
+      "knowledge_filename": "nzam-hmayh-almblghyn-walshhwd-walkhbraa-waldhaya.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hmayh-almrafq-alaamh",
+      "title_ar": "نظام حماية المرافق العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1405/01/01 هـ الموافق : 26/09/1984 مـ",
+      "issue_date_gregorian": "1984-09-26",
+      "publish_date_hijri": "1405/01/01 هـ الموافق : 26/09/1984 مـ",
+      "publish_date_gregorian": "1984-09-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/70405759-cf34-4260-a81e-a9a700f21241/1"
+      ],
+      "organized_filename": "nzam-hmayh-almrafq-alaamh.pdf",
+      "knowledge_filename": "nzam-hmayh-almrafq-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "copyright-law",
+      "title_ar": "نظام حماية حقوق المؤلف",
+      "status": "ساري",
+      "issue_date_hijri": "1424/07/02 هـ الموافق : 30/08/2003 مـ",
+      "issue_date_gregorian": "2003-08-30",
+      "publish_date_hijri": "1424/07/22 هـ الموافق : 19/09/2003 مـ",
+      "publish_date_gregorian": "2003-09-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/67d159e6-ee98-4efc-a2ee-a9a700f17083/1"
+      ],
+      "organized_filename": "nzam-hmayh-hqwq-almwlf.pdf",
+      "knowledge_filename": "nzam-hmayh-hqwq-almwlf.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hmayh-khtwt-alskk-alhdydyh",
+      "title_ar": "نظام حماية خطوط السكك الحديدية",
+      "status": "ساري",
+      "issue_date_hijri": "1382/04/03 هـ الموافق : 02/09/1962 مـ",
+      "issue_date_gregorian": "1962-09-02",
+      "publish_date_hijri": "1382/04/03 هـ الموافق : 02/09/1962 مـ",
+      "publish_date_gregorian": "1962-09-02",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/748dc7f1-acae-43a2-b536-a9a700f2dfa3/1"
+      ],
+      "organized_filename": "nzam-hmayh-khtwt-alskk-alhdydyh.pdf",
+      "knowledge_filename": "nzam-hmayh-khtwt-alskk-alhdydyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hmayh-wtshjya-alsnaaat-alwtnyh",
+      "title_ar": "نظام حماية وتشجيع الصناعات الوطنية",
+      "status": "ساري",
+      "issue_date_hijri": "1381/01/01 هـ الموافق : 14/06/1961 مـ",
+      "issue_date_gregorian": "1961-06-14",
+      "publish_date_hijri": "1381/01/01 هـ الموافق : 14/06/1961 مـ",
+      "publish_date_gregorian": "1961-06-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/33531bcc-0d4d-4193-9703-a9a700f2947a/1"
+      ],
+      "organized_filename": "nzam-hmayh-wtshjya-alsnaaat-alwtnyh.pdf",
+      "knowledge_filename": "nzam-hmayh-wtshjya-alsnaaat-alwtnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-khdmh-alafrad",
+      "title_ar": "نظام خدمة الأفراد",
+      "status": "جاري العمل على النظام",
+      "issue_date_hijri": "1397/03/24 هـ الموافق : 14/03/1977 مـ",
+      "issue_date_gregorian": "1977-03-14",
+      "publish_date_hijri": "لم يتم تحديد تاريخ النشر",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/9b461caf-dc11-46bd-a8fd-ac74009a8724/1"
+      ],
+      "organized_filename": "nzam-khdmh-alafrad.pdf",
+      "knowledge_filename": "nzam-khdmh-alafrad.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-khdmh-aldbat",
+      "title_ar": "نظام خدمة الضباط",
+      "status": "ساري",
+      "issue_date_hijri": "1393/08/28 هـ الموافق : 25/09/1973 مـ",
+      "issue_date_gregorian": "1973-09-25",
+      "publish_date_hijri": "1393/08/28 هـ الموافق : 25/09/1973 مـ",
+      "publish_date_gregorian": "1973-09-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8a12c94e-5a31-45cf-9c57-ac4400be8677/1"
+      ],
+      "organized_filename": "nzam-khdmh-aldbat.pdf",
+      "knowledge_filename": "nzam-khdmh-aldbat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-khdmh-hjaj-aldakhl",
+      "title_ar": "نظام خدمة حجاج الداخل",
+      "status": "ساري",
+      "issue_date_hijri": "1426/10/28 هـ الموافق : 30/11/2005 مـ",
+      "issue_date_gregorian": "2005-11-30",
+      "publish_date_hijri": "1426/11/28 هـ الموافق : 30/12/2005 مـ",
+      "publish_date_gregorian": "2005-12-30",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f55f0003-8b87-4ff0-8f0f-a9a700f20578/1"
+      ],
+      "organized_filename": "nzam-khdmh-hjaj-aldakhl.pdf",
+      "knowledge_filename": "nzam-khdmh-hjaj-aldakhl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-darh-almlk-abd-alazyz",
+      "title_ar": "نظام دارة الملك عبد العزيز",
+      "status": "ساري",
+      "issue_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "issue_date_gregorian": "1972-02-16",
+      "publish_date_hijri": "1392/01/01 هـ الموافق : 16/02/1972 مـ",
+      "publish_date_gregorian": "1972-02-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0057fd8d-8ad4-48f9-b02f-a9a700f16a48/1"
+      ],
+      "organized_filename": "nzam-darh-almlk-abd-alazyz.pdf",
+      "knowledge_filename": "nzam-darh-almlk-abd-alazyz.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-dywan-almraqbh-alaamh",
+      "title_ar": "نظام ديوان المراقبة العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "issue_date_gregorian": "1971-02-26",
+      "publish_date_hijri": "1391/01/01 هـ الموافق : 26/02/1971 مـ",
+      "publish_date_gregorian": "1971-02-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5dc538d4-5bbd-4995-8f0c-a9a700f2c88c/1"
+      ],
+      "organized_filename": "nzam-dywan-almraqbh-alaamh.pdf",
+      "knowledge_filename": "nzam-dywan-almraqbh-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-dywan-almzalm",
+      "title_ar": "نظام ديوان المظالم",
+      "status": "ساري",
+      "issue_date_hijri": "1428/09/19 هـ الموافق : 01/10/2007 مـ",
+      "issue_date_gregorian": "2007-10-01",
+      "publish_date_hijri": "1428/09/23 هـ الموافق : 05/10/2007 مـ",
+      "publish_date_gregorian": "2007-10-05",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/5d3379bd-3547-494e-9fbd-a9a700f26e24/1"
+      ],
+      "organized_filename": "nzam-dywan-almzalm.pdf",
+      "knowledge_filename": "nzam-dywan-almzalm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-rswm-alarady-albydaa-walaqarat-alshaghrh",
+      "title_ar": "نظام رسوم الأراضي البيضاء والعقارات الشاغرة",
+      "status": "ساري",
+      "issue_date_hijri": "1437/02/12 هـ الموافق : 24/11/2015 مـ",
+      "issue_date_gregorian": "2015-11-24",
+      "publish_date_hijri": "1437/02/29 هـ الموافق : 11/12/2015 مـ",
+      "publish_date_gregorian": "2015-12-11",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6932e745-0f61-4f25-9e4a-a9a700f21d6b/1"
+      ],
+      "organized_filename": "nzam-rswm-alarady-albydaa-walaqarat-alshaghrh.pdf",
+      "knowledge_filename": "nzam-rswm-alarady-albydaa-walaqarat-alshaghrh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-rswm-tsjyl-alsfn-walwhdat-alaaymh",
+      "title_ar": "نظام رسوم تسجيل السفن والوحدات العائمة",
+      "status": "ساري",
+      "issue_date_hijri": "1419/02/02 هـ الموافق : 27/05/1998 مـ",
+      "issue_date_gregorian": "1998-05-27",
+      "publish_date_hijri": "1419/02/25 هـ الموافق : 19/06/1998 مـ",
+      "publish_date_gregorian": "1998-06-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/59d8016f-daa9-463b-8a5d-a9a700f2d3eb/1"
+      ],
+      "organized_filename": "nzam-rswm-tsjyl-alsfn-walwhdat-alaaymh.pdf",
+      "knowledge_filename": "nzam-rswm-tsjyl-alsfn-walwhdat-alaaymh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-rswm-wajwr-khdmat-almwany",
+      "title_ar": "نظام رسوم وأجور خدمات الموانئ",
+      "status": "ساري",
+      "issue_date_hijri": "1405/01/01 هـ الموافق : 26/09/1984 مـ",
+      "issue_date_gregorian": "1984-09-26",
+      "publish_date_hijri": "1405/01/01 هـ الموافق : 26/09/1984 مـ",
+      "publish_date_gregorian": "1984-09-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d6bd59f3-b94c-4b6e-8ced-a9a700f2c955/1"
+      ],
+      "organized_filename": "nzam-rswm-wajwr-khdmat-almwany.pdf",
+      "knowledge_filename": "nzam-rswm-wajwr-khdmat-almwany.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "product-safety-law",
+      "title_ar": "نظام سلامة المنتجات",
+      "status": "ساري",
+      "issue_date_hijri": "1446/01/29 هـ الموافق : 04/08/2024 مـ",
+      "issue_date_gregorian": "2024-08-04",
+      "publish_date_hijri": "1446/02/12 هـ الموافق : 16/08/2024 مـ",
+      "publish_date_gregorian": "2024-08-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7f147afb-5a81-4744-a4bf-b1cd00b831ea/1"
+      ],
+      "organized_filename": "nzam-slamh-almntjat.pdf",
+      "knowledge_filename": "nzam-slamh-almntjat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-alastthmarat-alaamh",
+      "title_ar": "نظام صندوق الاستثمارات العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1440/08/12 هـ الموافق : 17/04/2019 مـ",
+      "issue_date_gregorian": "2019-04-17",
+      "publish_date_hijri": "1440/08/28 هـ الموافق : 03/05/2019 مـ",
+      "publish_date_gregorian": "2019-05-03",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/52da052e-9de3-4ead-abbf-aa3f00ef5083/1"
+      ],
+      "organized_filename": "nzam-sndwq-alastthmarat-alaamh.pdf",
+      "knowledge_filename": "nzam-sndwq-alastthmarat-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-albnyh-althtyh-alwtny",
+      "title_ar": "نظام صندوق البنية التحتية الوطني",
+      "status": "ساري",
+      "issue_date_hijri": "1445/08/01 هـ الموافق : 11/02/2024 مـ",
+      "issue_date_gregorian": "2024-02-11",
+      "publish_date_hijri": "1445/08/06 هـ الموافق : 16/02/2024 مـ",
+      "publish_date_gregorian": "2024-02-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8799f302-3ad8-41ae-a8d8-b11d008a40f6/1"
+      ],
+      "organized_filename": "nzam-sndwq-albnyh-althtyh-alwtny.pdf",
+      "knowledge_filename": "nzam-sndwq-albnyh-althtyh-alwtny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-altnmyh-althqafy",
+      "title_ar": "نظام صندوق التنمية الثقافي",
+      "status": "ساري",
+      "issue_date_hijri": "1442/05/23 هـ الموافق : 07/01/2021 مـ",
+      "issue_date_gregorian": "2021-01-07",
+      "publish_date_hijri": "1442/06/02 هـ الموافق : 15/01/2021 مـ",
+      "publish_date_gregorian": "2021-01-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f935b20b-e275-4f4f-9441-acad00e22fdb/1"
+      ],
+      "organized_filename": "nzam-sndwq-altnmyh-althqafy.pdf",
+      "knowledge_filename": "nzam-sndwq-altnmyh-althqafy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-altnmyh-alzraayh",
+      "title_ar": "نظام صندوق التنمية الزراعية.",
+      "status": "ساري",
+      "issue_date_hijri": "1445/02/20 هـ الموافق : 05/09/2023 مـ",
+      "issue_date_gregorian": "2023-09-05",
+      "publish_date_hijri": "1445/02/30 هـ الموافق : 15/09/2023 مـ",
+      "publish_date_gregorian": "2023-09-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/159008ad-198a-4439-b28b-b081009b92c2/1"
+      ],
+      "organized_filename": "nzam-sndwq-altnmyh-alzraayh.pdf",
+      "knowledge_filename": "nzam-sndwq-altnmyh-alzraayh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-altnmyh-alsyahy",
+      "title_ar": "نظام صندوق التنمية السياحي",
+      "status": "ساري",
+      "issue_date_hijri": "1441/10/26 هـ الموافق : 18/06/2020 مـ",
+      "issue_date_gregorian": "2020-06-18",
+      "publish_date_hijri": "1441/11/05 هـ الموافق : 26/06/2020 مـ",
+      "publish_date_gregorian": "2020-06-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0f0ebdaa-a50b-4410-9460-abe500b03486/1"
+      ],
+      "organized_filename": "nzam-sndwq-altnmyh-alsyahy.pdf",
+      "knowledge_filename": "nzam-sndwq-altnmyh-alsyahy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-altnmyh-alsnaayh-alsawdy",
+      "title_ar": "نظام صندوق التنمية الصناعية السعودي",
+      "status": "ساري",
+      "issue_date_hijri": "1394/02/26 هـ الموافق : 20/03/1974 مـ",
+      "issue_date_gregorian": "1974-03-20",
+      "publish_date_hijri": "1394/02/26 هـ الموافق : 20/03/1974 مـ",
+      "publish_date_gregorian": "1974-03-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/407a32f0-2e60-4c3e-9994-a9a700f2952a/1"
+      ],
+      "organized_filename": "nzam-sndwq-altnmyh-alsnaayh-alsawdy.pdf",
+      "knowledge_filename": "nzam-sndwq-altnmyh-alsnaayh-alsawdy.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-sndwq-altnmyh-alaqaryh",
+      "title_ar": "نظام صندوق التنمية العقارية",
+      "status": "ساري",
+      "issue_date_hijri": "1442/05/23 هـ الموافق : 07/01/2021 مـ",
+      "issue_date_gregorian": "2021-01-07",
+      "publish_date_hijri": "1442/06/02 هـ الموافق : 15/01/2021 مـ",
+      "publish_date_gregorian": "2021-01-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2d8aa57a-3b29-438e-a686-acae00b6728d/1"
+      ],
+      "organized_filename": "nzam-sndwq-altnmyh-alaqaryh.pdf",
+      "knowledge_filename": "nzam-sndwq-altnmyh-alaqaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-drybh-altsrfat-alaqaryh",
+      "title_ar": "نظام ضريبة التصرفات العقارية",
+      "status": "ساري",
+      "issue_date_hijri": "1446/03/19 هـ الموافق : 22/09/2024 مـ",
+      "issue_date_gregorian": "2024-09-22",
+      "publish_date_hijri": "1446/04/08 هـ الموافق : 11/10/2024 مـ",
+      "publish_date_gregorian": "2024-10-11",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/eef585a5-c63a-4906-a951-b208009b3eff/1"
+      ],
+      "organized_filename": "nzam-drybh-altsrfat-alaqaryh.pdf",
+      "knowledge_filename": "nzam-drybh-altsrfat-alaqaryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-drybh-aldkhl",
+      "title_ar": "نظام ضريبة الدخل",
+      "status": "ساري",
+      "issue_date_hijri": "1425/01/15 هـ الموافق : 06/03/2004 مـ",
+      "issue_date_gregorian": "2004-03-06",
+      "publish_date_hijri": "1425/03/11 هـ الموافق : 30/04/2004 مـ",
+      "publish_date_gregorian": "2004-04-30",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/23576008-1ce4-4685-ac3e-a9a700f2cb02/1"
+      ],
+      "organized_filename": "nzam-drybh-aldkhl.pdf",
+      "knowledge_filename": "nzam-drybh-aldkhl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-drybh-alqymh-almdafh",
+      "title_ar": "نظام ضريبة القيمة المضافة",
+      "status": "ساري",
+      "issue_date_hijri": "1438/11/02 هـ الموافق : 25/07/2017 مـ",
+      "issue_date_gregorian": "2017-07-25",
+      "publish_date_hijri": "1440/03/21 هـ الموافق : 29/11/2018 مـ",
+      "publish_date_gregorian": "2018-11-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f98f4238-0289-4891-8a22-a9a700f1f538/1"
+      ],
+      "organized_filename": "nzam-drybh-alqymh-almdafh.pdf",
+      "knowledge_filename": "nzam-drybh-alqymh-almdafh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-dman-alhqwq-balamwal-almnqwlh",
+      "title_ar": "نظام ضمان الحقوق بالأموال المنقولة",
+      "status": "ساري",
+      "issue_date_hijri": "1441/08/14 هـ الموافق : 07/04/2020 مـ",
+      "issue_date_gregorian": "2020-04-07",
+      "publish_date_hijri": "1441/08/17 هـ الموافق : 10/04/2020 مـ",
+      "publish_date_gregorian": "2020-04-10",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e2c00ba7-2af3-41fa-a1ab-ab9f00af1dec/1"
+      ],
+      "organized_filename": "nzam-dman-alhqwq-balamwal-almnqwlh.pdf",
+      "knowledge_filename": "nzam-dman-alhqwq-balamwal-almnqwlh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh",
+      "title_ar": "نظام عقوبات انتحال صفة رجل السلطة العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1408/09/08 هـ الموافق : 24/04/1988 مـ",
+      "issue_date_gregorian": "1988-04-24",
+      "publish_date_hijri": "1408/10/12 هـ الموافق : 27/05/1988 مـ",
+      "publish_date_gregorian": "1988-05-27",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ebd54fd4-fb61-458b-a837-a9a700f17e56/1"
+      ],
+      "organized_filename": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh.pdf",
+      "knowledge_filename": "nzam-aqwbat-anthal-sfh-rjl-alslth-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-aqwbat-nshr-alwthayq-walmalwmat-alsryh-wifshayha",
+      "title_ar": "نظام عقوبات نشر الوثائق والمعلومات السرية وإفشائها",
+      "status": "ساري",
+      "issue_date_hijri": "1432/05/08 هـ الموافق : 12/04/2011 مـ",
+      "issue_date_gregorian": "2011-04-12",
+      "publish_date_hijri": "1432/06/17 هـ الموافق : 20/05/2011 مـ",
+      "publish_date_gregorian": "2011-05-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/77d77bae-afbb-4481-a1cd-a9a700f1744b/1"
+      ],
+      "organized_filename": "nzam-aqwbat-nshr-alwthayq-walmalwmat-alsryh-wifshayha.pdf",
+      "knowledge_filename": "nzam-aqwbat-nshr-alwthayq-walmalwmat-alsryh-wifshayha.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mjls-alkhdmh-alaskryh",
+      "title_ar": "نظام مجلس الخدمة العسكرية",
+      "status": "ساري",
+      "issue_date_hijri": "1402/07/04 هـ الموافق : 27/04/1982 مـ",
+      "issue_date_gregorian": "1982-04-27",
+      "publish_date_hijri": "1402/07/28 هـ الموافق : 21/05/1982 مـ",
+      "publish_date_gregorian": "1982-05-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/11d3d5b0-dddf-443a-9851-a9a700f23208/1"
+      ],
+      "organized_filename": "nzam-mjls-alkhdmh-alaskryh.pdf",
+      "knowledge_filename": "nzam-mjls-alkhdmh-alaskryh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mjls-alkhdmh-almdnyh",
+      "title_ar": "نظام مجلس الخدمة المدنية",
+      "status": "ساري",
+      "issue_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "issue_date_gregorian": "1976-12-22",
+      "publish_date_hijri": "1397/01/01 هـ الموافق : 22/12/1976 مـ",
+      "publish_date_gregorian": "1976-12-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/1fe7fe77-d349-4fae-a561-a9a700f23a89/1"
+      ],
+      "organized_filename": "nzam-mjls-alkhdmh-almdnyh.pdf",
+      "knowledge_filename": "nzam-mjls-alkhdmh-almdnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mjls-alshwra",
+      "title_ar": "نظام مجلس الشورى",
+      "status": "ساري",
+      "issue_date_hijri": "1412/08/27 هـ الموافق : 01/03/1992 مـ",
+      "issue_date_gregorian": "1992-03-01",
+      "publish_date_hijri": "1412/09/02 هـ الموافق : 06/03/1992 مـ",
+      "publish_date_gregorian": "1992-03-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b5cf540a-e6ac-426a-b348-a9a700f163de/1"
+      ],
+      "organized_filename": "nzam-mjls-alshwra.pdf",
+      "knowledge_filename": "nzam-mjls-alshwra.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mjls-alwzraa",
+      "title_ar": "نظام مجلس الوزراء",
+      "status": "ساري",
+      "issue_date_hijri": "1414/03/03 هـ الموافق : 20/08/1993 مـ",
+      "issue_date_gregorian": "1993-08-20",
+      "publish_date_hijri": "1414/03/10 هـ الموافق : 27/08/1993 مـ",
+      "publish_date_gregorian": "1993-08-27",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93e87aa7-f344-4711-b97c-a9a700f1662b/1"
+      ],
+      "organized_filename": "nzam-mjls-alwzraa.pdf",
+      "knowledge_filename": "nzam-mjls-alwzraa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mhakmh-alwzraa",
+      "title_ar": "نظام محاكمة الوزراء",
+      "status": "ساري",
+      "issue_date_hijri": "1380/01/01 هـ الموافق : 25/06/1960 مـ",
+      "issue_date_gregorian": "1960-06-25",
+      "publish_date_hijri": "1380/01/01 هـ الموافق : 25/06/1960 مـ",
+      "publish_date_gregorian": "1960-06-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e143d9d5-1889-45d8-8d99-a9a700f263cd/1"
+      ],
+      "organized_filename": "nzam-mhakmh-alwzraa.pdf",
+      "knowledge_filename": "nzam-mhakmh-alwzraa.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha",
+      "title_ar": "نظام محلات بيع المركبات الملغى تسجيلها",
+      "status": "ساري",
+      "issue_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+      "issue_date_gregorian": "2001-03-26",
+      "publish_date_hijri": "1422/01/01 هـ الموافق : 26/03/2001 مـ",
+      "publish_date_gregorian": "2001-03-26",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cf510039-d022-421f-9901-a9a700f1a8a0/1"
+      ],
+      "organized_filename": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha.pdf",
+      "knowledge_filename": "nzam-mhlat-bya-almrkbat-almlgha-tsjylha.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mraqbh-albnwk",
+      "title_ar": "نظام مراقبة البنوك",
+      "status": "ساري",
+      "issue_date_hijri": "1386/01/01 هـ الموافق : 21/04/1966 مـ",
+      "issue_date_gregorian": "1966-04-21",
+      "publish_date_hijri": "1386/01/01 هـ الموافق : 21/04/1966 مـ",
+      "publish_date_gregorian": "1966-04-21",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8f70dc63-dd9a-4734-9216-a9a700f2c78c/1"
+      ],
+      "organized_filename": "nzam-mraqbh-albnwk.pdf",
+      "knowledge_filename": "nzam-mraqbh-albnwk.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mraqbh-shrkat-altamyn-altaawny",
+      "title_ar": "نظام مراقبة شركات التأمين التعاوني",
+      "status": "ساري",
+      "issue_date_hijri": "1424/06/02 هـ الموافق : 31/07/2003 مـ",
+      "issue_date_gregorian": "2003-07-31",
+      "publish_date_hijri": "1424/06/24 هـ الموافق : 22/08/2003 مـ",
+      "publish_date_gregorian": "2003-08-22",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3e3c6fc3-9a45-4a0e-b28e-a9a700f1ad14/1"
+      ],
+      "organized_filename": "nzam-mraqbh-shrkat-altamyn-altaawny.pdf",
+      "knowledge_filename": "nzam-mraqbh-shrkat-altamyn-altaawny.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mraqbh-shrkat-altmwyl",
+      "title_ar": "نظام مراقبة شركات التمويل",
+      "status": "ساري",
+      "issue_date_hijri": "1433/08/13 هـ الموافق : 03/07/2012 مـ",
+      "issue_date_gregorian": "2012-07-03",
+      "publish_date_hijri": "1433/10/13 هـ الموافق : 31/08/2012 مـ",
+      "publish_date_gregorian": "2012-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f53c97f5-d253-4828-89d4-a9a700f2d829/1"
+      ],
+      "organized_filename": "nzam-mraqbh-shrkat-altmwyl.pdf",
+      "knowledge_filename": "nzam-mraqbh-shrkat-altmwyl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mzawlh-almhn-alshyh",
+      "title_ar": "نظام مزاولة المهن الصحية",
+      "status": "ساري",
+      "issue_date_hijri": "1426/11/04 هـ الموافق : 06/12/2005 مـ",
+      "issue_date_gregorian": "2005-12-06",
+      "publish_date_hijri": "1426/11/28 هـ الموافق : 30/12/2005 مـ",
+      "publish_date_gregorian": "2005-12-30",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f1de206c-eef4-4a76-904a-a9a700f2899a/1"
+      ],
+      "organized_filename": "nzam-mzawlh-almhn-alshyh.pdf",
+      "knowledge_filename": "nzam-mzawlh-almhn-alshyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mzawlh-almhn-alhndsyh",
+      "title_ar": "نظام مزاولة المهن الهندسية",
+      "status": "ساري",
+      "issue_date_hijri": "1438/04/19 هـ الموافق : 17/01/2017 مـ",
+      "issue_date_gregorian": "2017-01-17",
+      "publish_date_hijri": "1438/05/06 هـ الموافق : 03/02/2017 مـ",
+      "publish_date_gregorian": "2017-02-03",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ebb751a1-6f0b-4595-9736-a9a700f1f47b/1"
+      ],
+      "organized_filename": "nzam-mzawlh-almhn-alhndsyh.pdf",
+      "knowledge_filename": "nzam-mzawlh-almhn-alhndsyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mzawlh-nql-alnqwd-walmaadn-althmynh-walmstndat-dhat-alqymh",
+      "title_ar": "نظام مزاولة نقل النقود والمعادن الثمينة والمستندات ذات القيمة",
+      "status": "ساري",
+      "issue_date_hijri": "1428/10/18 هـ الموافق : 30/10/2007 مـ",
+      "issue_date_gregorian": "2007-10-30",
+      "publish_date_hijri": "1428/10/28 هـ الموافق : 09/11/2007 مـ",
+      "publish_date_gregorian": "2007-11-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2640f5ff-1f7b-49fc-a57c-a9a700f192c9/1"
+      ],
+      "organized_filename": "nzam-mzawlh-nql-alnqwd-walmaadn-althmynh-walmstndat-dhat-alqymh.pdf",
+      "knowledge_filename": "nzam-mzawlh-nql-alnqwd-walmaadn-althmynh-walmstndat-dhat-alqymh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mtahn-intaj-aldqyq",
+      "title_ar": "نظام مطاحن إنتاج الدقيق",
+      "status": "ساري",
+      "issue_date_hijri": "1439/08/16 هـ الموافق : 02/05/2018 مـ",
+      "issue_date_gregorian": "2018-05-02",
+      "publish_date_hijri": "1439/09/02 هـ الموافق : 17/05/2018 مـ",
+      "publish_date_gregorian": "2018-05-17",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7dd058e6-3f77-4eaa-a069-a9f801447c70/1"
+      ],
+      "organized_filename": "nzam-mtahn-intaj-aldqyq.pdf",
+      "knowledge_filename": "nzam-mtahn-intaj-aldqyq.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-maaljh-almnshat-almalyh-almhmh",
+      "title_ar": "نظام معالجة المنشآت المالية المهمة",
+      "status": "ساري",
+      "issue_date_hijri": "1442/04/25 هـ الموافق : 10/12/2020 مـ",
+      "issue_date_gregorian": "2020-12-10",
+      "publish_date_hijri": "1442/05/03 هـ الموافق : 18/12/2020 مـ",
+      "publish_date_gregorian": "2020-12-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/82b804f6-0075-47c2-a772-acc4002f8b3e/1"
+      ],
+      "organized_filename": "nzam-maaljh-almnshat-almalyh-almhmh.pdf",
+      "knowledge_filename": "nzam-maaljh-almnshat-almalyh-almhmh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mahd-alidarh-alaamh",
+      "title_ar": "نظام معهد الإدارة العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1426/08/02 هـ الموافق : 06/09/2005 مـ",
+      "issue_date_gregorian": "2005-09-06",
+      "publish_date_hijri": "1426/09/11 هـ الموافق : 14/10/2005 مـ",
+      "publish_date_gregorian": "2005-10-14",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/7797548e-f8c5-4042-a383-a9a700f1fe68/1"
+      ],
+      "organized_filename": "nzam-mahd-alidarh-alaamh.pdf",
+      "knowledge_filename": "nzam-mahd-alidarh-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mahd-aldrasat-aldblwmasyh",
+      "title_ar": "نظام معهد الدراسات الدبلوماسية",
+      "status": "ساري",
+      "issue_date_hijri": "1403/09/08 هـ الموافق : 19/06/1983 مـ",
+      "issue_date_gregorian": "1983-06-19",
+      "publish_date_hijri": "1403/10/19 هـ الموافق : 29/07/1983 مـ",
+      "publish_date_gregorian": "1983-07-29",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/b3f0cb3a-6338-4995-91d7-a9a700f1fad2/1"
+      ],
+      "organized_filename": "nzam-mahd-aldrasat-aldblwmasyh.pdf",
+      "knowledge_filename": "nzam-mahd-aldrasat-aldblwmasyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mqdmy-khdmh-hjaj-alkharj",
+      "title_ar": "نظام مقدمي خدمة حجاج الخارج",
+      "status": "ساري",
+      "issue_date_hijri": "1440/09/17 هـ الموافق : 22/05/2019 مـ",
+      "issue_date_gregorian": "2019-05-22",
+      "publish_date_hijri": "1440/10/03 هـ الموافق : 06/06/2019 مـ",
+      "publish_date_gregorian": "2019-06-06",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/962235c2-9fa8-4c1a-b835-aa6400dd851e/1"
+      ],
+      "organized_filename": "nzam-mqdmy-khdmh-hjaj-alkharj.pdf",
+      "knowledge_filename": "nzam-mqdmy-khdmh-hjaj-alkharj.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh",
+      "title_ar": "نظام مكافحة الاحتيال المالي وخيانة الأمانة",
+      "status": "ساري",
+      "issue_date_hijri": "1442/09/10 هـ الموافق : 22/04/2021 مـ",
+      "issue_date_gregorian": "2021-04-22",
+      "publish_date_hijri": "1442/09/18 هـ الموافق : 30/04/2021 مـ",
+      "publish_date_gregorian": "2021-04-30",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/905e11b3-4d66-496c-9c1b-ad240106367f/1"
+      ],
+      "organized_filename": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh.pdf",
+      "knowledge_filename": "nzam-mkafhh-alahtyal-almaly-wkhyanh-alamanh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-altdkhyn",
+      "title_ar": "نظام مكافحة التدخين",
+      "status": "ساري",
+      "issue_date_hijri": "1436/07/28 هـ الموافق : 17/05/2015 مـ",
+      "issue_date_gregorian": "2015-05-17",
+      "publish_date_hijri": "1436/09/02 هـ الموافق : 19/06/2015 مـ",
+      "publish_date_gregorian": "2015-06-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93b6f7f3-1083-46e7-b30e-a9a700f291b0/1"
+      ],
+      "organized_filename": "nzam-mkafhh-altdkhyn.pdf",
+      "knowledge_filename": "nzam-mkafhh-altdkhyn.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-altstr",
+      "title_ar": "نظام مكافحة التستر",
+      "status": "ساري",
+      "issue_date_hijri": "1442/01/01 هـ الموافق : 20/08/2020 مـ",
+      "issue_date_gregorian": "2020-08-20",
+      "publish_date_hijri": "1442/01/09 هـ الموافق : 28/08/2020 مـ",
+      "publish_date_gregorian": "2020-08-28",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/bf9e0aae-6df6-4785-a305-ac2300bd0856/1"
+      ],
+      "organized_filename": "nzam-mkafhh-altstr.pdf",
+      "knowledge_filename": "nzam-mkafhh-altstr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-altswl",
+      "title_ar": "نظام مكافحة التسول",
+      "status": "ساري",
+      "issue_date_hijri": "1443/02/09 هـ الموافق : 16/09/2021 مـ",
+      "issue_date_gregorian": "2021-09-16",
+      "publish_date_hijri": "1443/02/17 هـ الموافق : 24/09/2021 مـ",
+      "publish_date_gregorian": "2021-09-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/61fa8a49-aa1b-49ed-b9ad-adaa00dc6272/1"
+      ],
+      "organized_filename": "nzam-mkafhh-altswl.pdf",
+      "knowledge_filename": "nzam-mkafhh-altswl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-alrshwh",
+      "title_ar": "نظام مكافحة الرشوة",
+      "status": "ساري",
+      "issue_date_hijri": "1412/12/29 هـ الموافق : 30/06/1992 مـ",
+      "issue_date_gregorian": "1992-06-30",
+      "publish_date_hijri": "1413/03/03 هـ الموافق : 31/08/1992 مـ",
+      "publish_date_gregorian": "1992-08-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/75e963c8-9ff3-4d10-88a4-a9a700f17f21/1"
+      ],
+      "organized_filename": "nzam-mkafhh-alrshwh.pdf",
+      "knowledge_filename": "nzam-mkafhh-alrshwh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "commercial-fraud-law",
+      "title_ar": "نظام مكافحة الغش التجاري",
+      "status": "جاري العمل على النظام",
+      "issue_date_hijri": "1429/04/23 هـ الموافق : 29/04/2008 مـ",
+      "issue_date_gregorian": "2008-04-29",
+      "publish_date_hijri": "لم يتم تحديد تاريخ النشر",
+      "publish_date_gregorian": "",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/85eb2897-bec6-4c0c-b1d7-ac7c008ec09c/1"
+      ],
+      "organized_filename": "nzam-mkafhh-alghsh-altjary.pdf",
+      "knowledge_filename": "nzam-mkafhh-alghsh-altjary.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-almkhdrat-walmwthrat-alaqlyh",
+      "title_ar": "نظام مكافحة المخدرات والمؤثرات العقلية",
+      "status": "ساري",
+      "issue_date_hijri": "1426/07/08 هـ الموافق : 13/08/2005 مـ",
+      "issue_date_gregorian": "2005-08-13",
+      "publish_date_hijri": "1426/08/12 هـ الموافق : 16/09/2005 مـ",
+      "publish_date_gregorian": "2005-09-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/221b3286-a3c6-4ea4-97c7-a9a700f18273/1"
+      ],
+      "organized_filename": "nzam-mkafhh-almkhdrat-walmwthrat-alaqlyh.pdf",
+      "knowledge_filename": "nzam-mkafhh-almkhdrat-walmwthrat-alaqlyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-jraym-alirhab-wtmwylh",
+      "title_ar": "نظام مكافحة جرائم الإرهاب وتمويله",
+      "status": "ساري",
+      "issue_date_hijri": "1439/02/12 هـ الموافق : 01/11/2017 مـ",
+      "issue_date_gregorian": "2017-11-01",
+      "publish_date_hijri": "1439/02/12 هـ الموافق : 01/11/2017 مـ",
+      "publish_date_gregorian": "2017-11-01",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/57694209-3eed-46c7-a5d8-a9ed012761d4/1"
+      ],
+      "organized_filename": "nzam-mkafhh-jraym-alirhab-wtmwylh.pdf",
+      "knowledge_filename": "nzam-mkafhh-jraym-alirhab-wtmwylh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-jraym-alatjar-balashkhas",
+      "title_ar": "نظام مكافحة جرائم الاتجار بالأشخاص",
+      "status": "ساري",
+      "issue_date_hijri": "1430/07/21 هـ الموافق : 14/07/2009 مـ",
+      "issue_date_gregorian": "2009-07-14",
+      "publish_date_hijri": "1430/08/16 هـ الموافق : 07/08/2009 مـ",
+      "publish_date_gregorian": "2009-08-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4e09c59d-f173-4971-8a38-a9a700f27025/1"
+      ],
+      "organized_filename": "nzam-mkafhh-jraym-alatjar-balashkhas.pdf",
+      "knowledge_filename": "nzam-mkafhh-jraym-alatjar-balashkhas.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "anti-cybercrime-law",
+      "title_ar": "نظام مكافحة جرائم المعلوماتية",
+      "status": "ساري",
+      "issue_date_hijri": "1428/03/08 هـ الموافق : 27/03/2007 مـ",
+      "issue_date_gregorian": "2007-03-27",
+      "publish_date_hijri": "1428/03/08 هـ الموافق : 27/03/2007 مـ",
+      "publish_date_gregorian": "2007-03-27",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/25df73d6-0f49-4dc5-b010-a9a700f2ec1d/1"
+      ],
+      "organized_filename": "nzam-mkafhh-jraym-almalwmatyh.pdf",
+      "knowledge_filename": "nzam-mkafhh-jraym-almalwmatyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mkafhh-jrymh-althrsh",
+      "title_ar": "نظام مكافحة جريمة التحرش",
+      "status": "ساري",
+      "issue_date_hijri": "1439/09/16 هـ الموافق : 31/05/2018 مـ",
+      "issue_date_gregorian": "2018-05-31",
+      "publish_date_hijri": "1439/09/23 هـ الموافق : 07/06/2018 مـ",
+      "publish_date_gregorian": "2018-06-07",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f9de1b7f-7526-4c44-b9f3-a9f8015cf5b6/1"
+      ],
+      "organized_filename": "nzam-mkafhh-jrymh-althrsh.pdf",
+      "knowledge_filename": "nzam-mkafhh-jrymh-althrsh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "anti-money-laundering-law",
+      "title_ar": "نظام مكافحة غسل الأموال",
+      "status": "ساري",
+      "issue_date_hijri": "1439/02/05 هـ الموافق : 25/10/2017 مـ",
+      "issue_date_gregorian": "2017-10-25",
+      "publish_date_hijri": "1439/02/05 هـ الموافق : 25/10/2017 مـ",
+      "publish_date_gregorian": "2017-10-25",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/0657dfce-95f8-463a-9d87-aa3900ec7b51/1"
+      ],
+      "organized_filename": "nzam-mkafhh-ghsl-alamwal.pdf",
+      "knowledge_filename": "nzam-mkafhh-ghsl-alamwal.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mktbh-almlk-abd-alazyz-alaamh",
+      "title_ar": "نظام مكتبة الملك عبد العزيز العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1417/01/01 هـ الموافق : 18/05/1996 مـ",
+      "issue_date_gregorian": "1996-05-18",
+      "publish_date_hijri": "1417/01/01 هـ الموافق : 18/05/1996 مـ",
+      "publish_date_gregorian": "1996-05-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fe1771f7-158f-4570-9bb1-a9a700f16dec/1"
+      ],
+      "organized_filename": "nzam-mktbh-almlk-abd-alazyz-alaamh.pdf",
+      "knowledge_filename": "nzam-mktbh-almlk-abd-alazyz-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mktbh-almlk-fhd-alwtnyh",
+      "title_ar": "نظام مكتبة الملك فهد الوطنية",
+      "status": "ساري",
+      "issue_date_hijri": "1410/01/01 هـ الموافق : 02/08/1989 مـ",
+      "issue_date_gregorian": "1989-08-02",
+      "publish_date_hijri": "1410/01/01 هـ الموافق : 02/08/1989 مـ",
+      "publish_date_gregorian": "1989-08-02",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/891a3908-3c1b-4b06-85ac-a9a700f17132/1"
+      ],
+      "organized_filename": "nzam-mktbh-almlk-fhd-alwtnyh.pdf",
+      "knowledge_filename": "nzam-mktbh-almlk-fhd-alwtnyh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha",
+      "title_ar": "نظام ملكية الوحدات العقارية وفرزها وإدارتها",
+      "status": "ساري",
+      "issue_date_hijri": "1441/07/02 هـ الموافق : 26/02/2020 مـ",
+      "issue_date_gregorian": "2020-02-26",
+      "publish_date_hijri": "1441/07/18 هـ الموافق : 13/03/2020 مـ",
+      "publish_date_gregorian": "2020-03-13",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/d19fbfe8-6517-4e8b-b06a-b09000cefe1b/1"
+      ],
+      "organized_filename": "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha.pdf",
+      "knowledge_filename": "nzam-mlkyh-alwhdat-alaqaryh-wfrzha-widartha.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mntjat-altjmyl",
+      "title_ar": "نظام منتجات التجميل",
+      "status": "ساري",
+      "issue_date_hijri": "1436/06/18 هـ الموافق : 07/04/2015 مـ",
+      "issue_date_gregorian": "2015-04-07",
+      "publish_date_hijri": "1436/07/19 هـ الموافق : 08/05/2015 مـ",
+      "publish_date_gregorian": "2015-05-08",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/2682df03-16ab-4d93-b19d-a9a700f2915b/1"
+      ],
+      "organized_filename": "nzam-mntjat-altjmyl.pdf",
+      "knowledge_filename": "nzam-mntjat-altjmyl.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-mhnh-almhasbh-walmrajah",
+      "title_ar": "نظام مهنة المحاسبة والمراجعة",
+      "status": "ساري",
+      "issue_date_hijri": "1442/07/27 هـ الموافق : 11/03/2021 مـ",
+      "issue_date_gregorian": "2021-03-11",
+      "publish_date_hijri": "1442/08/06 هـ الموافق : 19/03/2021 مـ",
+      "publish_date_gregorian": "2021-03-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/6435e205-a7ae-4a8c-9580-ad0000b6bef2/1"
+      ],
+      "organized_filename": "nzam-mhnh-almhasbh-walmrajah.pdf",
+      "knowledge_filename": "nzam-mhnh-almhasbh-walmrajah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-nza-mlkyh-alaqarat-llmslhh-alaamh-wwda-alyd-almwqt-ala-alaqarat",
+      "title_ar": "نظام نزع ملكية العقارات للمصلحة العامة ووضع اليد المؤقت على العقارات",
+      "status": "ساري",
+      "issue_date_hijri": "1447/03/12 هـ الموافق : 04/09/2025 مـ",
+      "issue_date_gregorian": "2025-09-04",
+      "publish_date_hijri": "1447/03/27 هـ الموافق : 19/09/2025 مـ",
+      "publish_date_gregorian": "2025-09-19",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3c547223-8703-41cf-a850-b35c00d3ab9a/1"
+      ],
+      "organized_filename": "nzam-nza-mlkyh-alaqarat-llmslhh-alaamh-wwda-alyd-almwqt-ala-alaqarat.pdf",
+      "knowledge_filename": "nzam-nza-mlkyh-alaqarat-llmslhh-alaamh-wwda-alyd-almwqt-ala-alaqarat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-nqabh-alsyarat",
+      "title_ar": "نظام نقابة السيارات",
+      "status": "ساري",
+      "issue_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+      "issue_date_gregorian": "1952-09-20",
+      "publish_date_hijri": "1372/01/01 هـ الموافق : 20/09/1952 مـ",
+      "publish_date_gregorian": "1952-09-20",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/cddb94e2-167b-4158-af5f-a9a700f2de58/1"
+      ],
+      "organized_filename": "nzam-nqabh-alsyarat.pdf",
+      "knowledge_filename": "nzam-nqabh-alsyarat.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-nql-alhjaj-ila-almmlkh-wiaadthm-ila-bladhm",
+      "title_ar": "نظام نقل الحجاج إلى المملكة وإعادتهم إلى بلادهم",
+      "status": "ساري",
+      "issue_date_hijri": "1425/12/28 هـ الموافق : 08/02/2005 مـ",
+      "issue_date_gregorian": "2005-02-08",
+      "publish_date_hijri": "1426/02/08 هـ الموافق : 18/03/2005 مـ",
+      "publish_date_gregorian": "2005-03-18",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/c57d7f19-9b3e-4161-bb91-a9a700f203fb/1"
+      ],
+      "organized_filename": "nzam-nql-alhjaj-ila-almmlkh-wiaadthm-ila-bladhm.pdf",
+      "knowledge_filename": "nzam-nql-alhjaj-ila-almmlkh-wiaadthm-ila-bladhm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald",
+      "title_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)",
+      "status": "ساري",
+      "issue_date_hijri": "1435/06/21 هـ الموافق : 21/04/2014 مـ",
+      "issue_date_gregorian": "2014-04-21",
+      "publish_date_hijri": "1435/07/17 هـ الموافق : 16/05/2014 مـ",
+      "publish_date_gregorian": "2014-05-16",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ad0354f7-9756-4a4e-8948-a9a700f19705/1"
+      ],
+      "organized_filename": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald.pdf",
+      "knowledge_filename": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hyyh-albyah",
+      "title_ar": "نظام هيئة البيعة",
+      "status": "ساري",
+      "issue_date_hijri": "1427/01/01 هـ الموافق : 31/01/2006 مـ",
+      "issue_date_gregorian": "2006-01-31",
+      "publish_date_hijri": "1427/01/01 هـ الموافق : 31/01/2006 مـ",
+      "publish_date_gregorian": "2006-01-31",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/3213c2f6-eaf8-45dc-8f8c-a9a700f167ee/1"
+      ],
+      "organized_filename": "nzam-hyyh-albyah.pdf",
+      "knowledge_filename": "nzam-hyyh-albyah.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh",
+      "title_ar": "نظام هيئة التحقيق والادعاء العام ( نظام النيابة العامة )",
+      "status": "ساري",
+      "issue_date_hijri": "1409/10/24 هـ الموافق : 29/05/1989 مـ",
+      "issue_date_gregorian": "1989-05-29",
+      "publish_date_hijri": "1409/11/20 هـ الموافق : 23/06/1989 مـ",
+      "publish_date_gregorian": "1989-06-23",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ac892eff-4aa4-4b26-b312-a9a700f2663d/1"
+      ],
+      "organized_filename": "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh.pdf",
+      "knowledge_filename": "nzam-hyyh-althqyq-waladaaa-alaam-nzam-alnyabh-alaamh.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-hyyh-alrqabh-wmkafhh-alfsad",
+      "title_ar": "نظام هيئة الرقابة ومكافحة الفساد",
+      "status": "ساري",
+      "issue_date_hijri": "1446/01/23 هـ الموافق : 29/07/2024 مـ",
+      "issue_date_gregorian": "2024-07-29",
+      "publish_date_hijri": "1446/02/05 هـ الموافق : 09/08/2024 مـ",
+      "publish_date_gregorian": "2024-08-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a8ebff8e-412c-4f67-ac5f-b1ca008d18d9/1"
+      ],
+      "organized_filename": "nzam-hyyh-alrqabh-wmkafhh-alfsad.pdf",
+      "knowledge_filename": "nzam-hyyh-alrqabh-wmkafhh-alfsad.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-wthayq-alsfr",
+      "title_ar": "نظام وثائق السفر",
+      "status": "ساري",
+      "issue_date_hijri": "1421/05/28 هـ الموافق : 28/08/2000 مـ",
+      "issue_date_gregorian": "2000-08-28",
+      "publish_date_hijri": "1421/06/17 هـ الموافق : 15/09/2000 مـ",
+      "publish_date_gregorian": "2000-09-15",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e29f08fa-d53e-4944-b22b-a9a700f17fd9/1"
+      ],
+      "organized_filename": "nzam-wthayq-alsfr.pdf",
+      "knowledge_filename": "nzam-wthayq-alsfr.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-whdat-alikhsab-walajnh-walaj-alaqm",
+      "title_ar": "نظام وحدات الإخصاب والأجنة وعلاج العقم",
+      "status": "ساري",
+      "issue_date_hijri": "1424/11/21 هـ الموافق : 13/01/2004 مـ",
+      "issue_date_gregorian": "2004-01-13",
+      "publish_date_hijri": "1425/11/12 هـ الموافق : 24/12/2004 مـ",
+      "publish_date_gregorian": "2004-12-24",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/4943163b-a079-4beb-b544-a9a700f286b1/1"
+      ],
+      "organized_filename": "nzam-whdat-alikhsab-walajnh-walaj-alaqm.pdf",
+      "knowledge_filename": "nzam-whdat-alikhsab-walajnh-walaj-alaqm.txt",
+      "document_scope": "system_only"
+    },
+    {
+      "slug": "nzam-wzayf-mbashrh-alamwal-alaamh",
+      "title_ar": "نظام وظائف مباشرة الأموال العامة",
+      "status": "ساري",
+      "issue_date_hijri": "1436/02/23 هـ الموافق : 15/12/2014 مـ",
+      "issue_date_gregorian": "2014-12-15",
+      "publish_date_hijri": "1436/03/18 هـ الموافق : 09/01/2015 مـ",
+      "publish_date_gregorian": "2015-01-09",
+      "official_source_urls": [
+        "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fd30f9c7-8606-4367-bb22-a9a700f2d952/1"
+      ],
+      "organized_filename": "nzam-wzayf-mbashrh-alamwal-alaamh.pdf",
+      "knowledge_filename": "nzam-wzayf-mbashrh-alamwal-alaamh.txt",
+      "document_scope": "system_only"
+    }
+  ]
+}

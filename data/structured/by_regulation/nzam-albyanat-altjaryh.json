@@ -1,0 +1,687 @@
+{
+  "metadata": {
+    "slug": "nzam-albyanat-altjaryh",
+    "title_ar": "نظام البيانات التجارية",
+    "status": "ساري",
+    "issue_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+    "issue_date_gregorian": "2002-03-15",
+    "publish_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+    "publish_date_gregorian": "2002-03-15",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/95a6369d-d712-4028-842e-a9a700f1a957/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-albyanat-altjaryh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-albyanat-altjaryh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1423/01/01 هـ الموافق : 15/03/2002 مـ",
+    "effective_date_gregorian": "2002-03-15",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 14,
+    "paragraph_count": 20,
+    "indexable_paragraph_count": 20,
+    "text_chars": 3711,
+    "verbatim_chars": 3715,
+    "citation_base_ar": "نظام البيانات التجارية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/95a6369d-d712-4028-842e-a9a700f1a957/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-albyanat-altjaryh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-albyanat-altjaryh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الأولى",
+      "text_verbatim": "يعد بيانا تجاريا - فيما يختص بتطبيق أحكام هذا النظام - كل إيضاح يتعلق بصفة مباشرة أو غير مباشرة بما يأتي:\n\nأ - عدد البضائع، أو مقدارها، أو مقاسها، أو كيلها، أو طاقتها، أو وزنها، أو تاريخ الإنتاج، أو تاريخ انتهاء الصلاحية\n\nب- الجهة ، أو البلاد التي صنعت أو أنتجت فيها.\n\nج- العناصر الداخلة في تركيبها.\n\nد- اسم المنتج أو الصانع ، أو صفاته.\n\nهـ- وجودء براءات اختراع أو غيرها من حقوق الملكية الصناعية أو أي امتيازات أو جوائز أو مميزات تجارية أو صناعية.\n\nو- الاسم أو الشكل الذي تعرف به بعض البضائع أو تقوم به عادة.",
+      "text_for_index": "يعد بيانا تجاريا - فيما يختص بتطبيق أحكام هذا النظام - كل إيضاح يتعلق بصفة مباشرة أو غير مباشرة بما يأتي:\n\nأ - عدد البضائع، أو مقدارها، أو مقاسها، أو كيلها، أو طاقتها، أو وزنها، أو تاريخ الإنتاج، أو تاريخ انتهاء الصلاحية\n\nب- الجهة ، أو البلاد التي صنعت أو أنتجت فيها.\n\nج- العناصر الداخلة في تركيبها.\n\nد- اسم المنتج أو الصانع ، أو صفاته.\n\nهـ- وجودء براءات اختراع أو غيرها من حقوق الملكية الصناعية أو أي امتيازات أو جوائز أو مميزات تجارية أو صناعية.\n\nو- الاسم أو الشكل الذي تعرف به بعض البضائع أو تقوم به عادة.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يعد بيانا تجاريا - فيما يختص بتطبيق أحكام هذا النظام - كل إيضاح يتعلق بصفة مباشرة أو غير مباشرة بما يأتي:",
+          "text_for_index": "يعد بيانا تجاريا - فيما يختص بتطبيق أحكام هذا النظام - كل إيضاح يتعلق بصفة مباشرة أو غير مباشرة بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "أ - عدد البضائع، أو مقدارها، أو مقاسها، أو كيلها، أو طاقتها، أو وزنها، أو تاريخ الإنتاج، أو تاريخ انتهاء الصلاحية",
+          "text_for_index": "أ - عدد البضائع، أو مقدارها، أو مقاسها، أو كيلها، أو طاقتها، أو وزنها، أو تاريخ الإنتاج، أو تاريخ انتهاء الصلاحية",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ب- الجهة ، أو البلاد التي صنعت أو أنتجت فيها.",
+          "text_for_index": "ب- الجهة ، أو البلاد التي صنعت أو أنتجت فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "ج- العناصر الداخلة في تركيبها.",
+          "text_for_index": "ج- العناصر الداخلة في تركيبها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "د- اسم المنتج أو الصانع ، أو صفاته.",
+          "text_for_index": "د- اسم المنتج أو الصانع ، أو صفاته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "هـ- وجودء براءات اختراع أو غيرها من حقوق الملكية الصناعية أو أي امتيازات أو جوائز أو مميزات تجارية أو صناعية.",
+          "text_for_index": "هـ- وجودء براءات اختراع أو غيرها من حقوق الملكية الصناعية أو أي امتيازات أو جوائز أو مميزات تجارية أو صناعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "و- الاسم أو الشكل الذي تعرف به بعض البضائع أو تقوم به عادة.",
+          "text_for_index": "و- الاسم أو الشكل الذي تعرف به بعض البضائع أو تقوم به عادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الثانية",
+      "text_verbatim": "يجب أن يكون البيان التجاري مكتوبا باللغة العربية على الأقل، ومطابقا للحقيقة من جميع الوجوه، سواء أكان موضوعا على المنتجات ذاتها أم على المحال، أو المخازن، أو على عناوينها، أو الأغلفة، أو الفواتير، أو أوراق الخطابات، أو وسائل الإعلان أو غير ذلك مما يستعمل في عرض البضائع على الجمهور.",
+      "text_for_index": "يجب أن يكون البيان التجاري مكتوبا باللغة العربية على الأقل، ومطابقا للحقيقة من جميع الوجوه، سواء أكان موضوعا على المنتجات ذاتها أم على المحال، أو المخازن، أو على عناوينها، أو الأغلفة، أو الفواتير، أو أوراق الخطابات، أو وسائل الإعلان أو غير ذلك مما يستعمل في عرض البضائع على الجمهور.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب أن يكون البيان التجاري مكتوبا باللغة العربية على الأقل، ومطابقا للحقيقة من جميع الوجوه، سواء أكان موضوعا على المنتجات ذاتها أم على المحال، أو المخازن، أو على عناوينها، أو الأغلفة، أو الفواتير، أو أوراق الخطابات، أو وسائل الإعلان أو غير ذلك مما يستعمل في عرض البضائع على الجمهور.",
+          "text_for_index": "يجب أن يكون البيان التجاري مكتوبا باللغة العربية على الأقل، ومطابقا للحقيقة من جميع الوجوه، سواء أكان موضوعا على المنتجات ذاتها أم على المحال، أو المخازن، أو على عناوينها، أو الأغلفة، أو الفواتير، أو أوراق الخطابات، أو وسائل الإعلان أو غير ذلك مما يستعمل في عرض البضائع على الجمهور.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الثالثة",
+      "text_verbatim": "لا يجوز ذكر ميداليات أو دبلومات أو جوائز أو درجات فخرية من أي نوع إلا بالنسبة للمنتجات التي تنطبق عليها هذه المميزات، وبالنسبة للأشخاص والأسماء التجارية الذين اكتسبوها أو لمن آلت إليهم حقوقها، ويجب أن يشتمل ذلك على بيان صحيح بتاريخها، ونوعها، والجهة التي منحتها. ولا يجوز لمن اشترك مع آخرين في عرض منتجات أن يستعمل لمنتجاته الخاصة المميزات التي منحت للمعروضات المشتركة، ما لم يبين بطريقة واضحة مصدر تلك المميزات ونوعها.",
+      "text_for_index": "لا يجوز ذكر ميداليات أو دبلومات أو جوائز أو درجات فخرية من أي نوع إلا بالنسبة للمنتجات التي تنطبق عليها هذه المميزات، وبالنسبة للأشخاص والأسماء التجارية الذين اكتسبوها أو لمن آلت إليهم حقوقها، ويجب أن يشتمل ذلك على بيان صحيح بتاريخها، ونوعها، والجهة التي منحتها. ولا يجوز لمن اشترك مع آخرين في عرض منتجات أن يستعمل لمنتجاته الخاصة المميزات التي منحت للمعروضات المشتركة، ما لم يبين بطريقة واضحة مصدر تلك المميزات ونوعها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز ذكر ميداليات أو دبلومات أو جوائز أو درجات فخرية من أي نوع إلا بالنسبة للمنتجات التي تنطبق عليها هذه المميزات، وبالنسبة للأشخاص والأسماء التجارية الذين اكتسبوها أو لمن آلت إليهم حقوقها، ويجب أن يشتمل ذلك على بيان صحيح بتاريخها، ونوعها، والجهة التي منحتها. ولا يجوز لمن اشترك مع آخرين في عرض منتجات أن يستعمل لمنتجاته الخاصة المميزات التي منحت للمعروضات المشتركة، ما لم يبين بطريقة واضحة مصدر تلك المميزات ونوعها.",
+          "text_for_index": "لا يجوز ذكر ميداليات أو دبلومات أو جوائز أو درجات فخرية من أي نوع إلا بالنسبة للمنتجات التي تنطبق عليها هذه المميزات، وبالنسبة للأشخاص والأسماء التجارية الذين اكتسبوها أو لمن آلت إليهم حقوقها، ويجب أن يشتمل ذلك على بيان صحيح بتاريخها، ونوعها، والجهة التي منحتها. ولا يجوز لمن اشترك مع آخرين في عرض منتجات أن يستعمل لمنتجاته الخاصة المميزات التي منحت للمعروضات المشتركة، ما لم يبين بطريقة واضحة مصدر تلك المميزات ونوعها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الرابعة",
+      "text_verbatim": "لا يجوز وضع اسم البائع أو عنوانه على منتجات واردة من بلد غير البلد الذي يحصل فيها البيع، ما لم يكن مقترنا ببيان دقيق مكتوب بحروف ظاهرة عن البلد أو الجهة التي صنع أو أنتج فيها. ولا يجوز للأشخاص المقيمين في جهة ذات شهرة خاصة في إنتاج بعض المنتجات أو صنعها من الذين يتجرون في منتجات مشابهة واردة من جهة أخرى- أن يضعوا عليها علاماتهم إذا كان من شأنها أن تضلل الجمهور فيما يتعلق بمصدر تلك المنتجات حتى ولو كانت العلامات لا تشتمل على أسماء هؤلاء الأشخاص أو عناوينهم، ما لم تتخذ التدابير الكفيلة بمنع كل لبس.",
+      "text_for_index": "لا يجوز وضع اسم البائع أو عنوانه على منتجات واردة من بلد غير البلد الذي يحصل فيها البيع، ما لم يكن مقترنا ببيان دقيق مكتوب بحروف ظاهرة عن البلد أو الجهة التي صنع أو أنتج فيها. ولا يجوز للأشخاص المقيمين في جهة ذات شهرة خاصة في إنتاج بعض المنتجات أو صنعها من الذين يتجرون في منتجات مشابهة واردة من جهة أخرى- أن يضعوا عليها علاماتهم إذا كان من شأنها أن تضلل الجمهور فيما يتعلق بمصدر تلك المنتجات حتى ولو كانت العلامات لا تشتمل على أسماء هؤلاء الأشخاص أو عناوينهم، ما لم تتخذ التدابير الكفيلة بمنع كل لبس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا يجوز وضع اسم البائع أو عنوانه على منتجات واردة من بلد غير البلد الذي يحصل فيها البيع، ما لم يكن مقترنا ببيان دقيق مكتوب بحروف ظاهرة عن البلد أو الجهة التي صنع أو أنتج فيها. ولا يجوز للأشخاص المقيمين في جهة ذات شهرة خاصة في إنتاج بعض المنتجات أو صنعها من الذين يتجرون في منتجات مشابهة واردة من جهة أخرى- أن يضعوا عليها علاماتهم إذا كان من شأنها أن تضلل الجمهور فيما يتعلق بمصدر تلك المنتجات حتى ولو كانت العلامات لا تشتمل على أسماء هؤلاء الأشخاص أو عناوينهم، ما لم تتخذ التدابير الكفيلة بمنع كل لبس.",
+          "text_for_index": "لا يجوز وضع اسم البائع أو عنوانه على منتجات واردة من بلد غير البلد الذي يحصل فيها البيع، ما لم يكن مقترنا ببيان دقيق مكتوب بحروف ظاهرة عن البلد أو الجهة التي صنع أو أنتج فيها. ولا يجوز للأشخاص المقيمين في جهة ذات شهرة خاصة في إنتاج بعض المنتجات أو صنعها من الذين يتجرون في منتجات مشابهة واردة من جهة أخرى- أن يضعوا عليها علاماتهم إذا كان من شأنها أن تضلل الجمهور فيما يتعلق بمصدر تلك المنتجات حتى ولو كانت العلامات لا تشتمل على أسماء هؤلاء الأشخاص أو عناوينهم، ما لم تتخذ التدابير الكفيلة بمنع كل لبس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الخامسة",
+      "text_verbatim": "لا يجوز للصانع أن يستعمل اسم الجهة التي يوجد له بها مصنع رئيس فيما يصنع لحسابه من منتجات في جهة أخرى، ما لم يقترن هذا الاسم ببيان الجهة الأخرى على وجه يمتنع معه كل لبس.",
+      "text_for_index": "لا يجوز للصانع أن يستعمل اسم الجهة التي يوجد له بها مصنع رئيس فيما يصنع لحسابه من منتجات في جهة أخرى، ما لم يقترن هذا الاسم ببيان الجهة الأخرى على وجه يمتنع معه كل لبس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز للصانع أن يستعمل اسم الجهة التي يوجد له بها مصنع رئيس فيما يصنع لحسابه من منتجات في جهة أخرى، ما لم يقترن هذا الاسم ببيان الجهة الأخرى على وجه يمتنع معه كل لبس.",
+          "text_for_index": "لا يجوز للصانع أن يستعمل اسم الجهة التي يوجد له بها مصنع رئيس فيما يصنع لحسابه من منتجات في جهة أخرى، ما لم يقترن هذا الاسم ببيان الجهة الأخرى على وجه يمتنع معه كل لبس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة السادسة",
+      "text_verbatim": "إذا كان مقدار المنتجات أو مقاسها أو كيلها أو طاقتها أو وزنها أو مصدرها أو العناصر الداخلة في تركيبها من العوامل التي لها دخل في تقدير قيمتها جاز بقرار يصدر من وزيرالتجارة منع استيراد تلك المنتجات أو بيعها، أو عرضها للبيع، ما لم تحمل بيانا أو أكثر من هذه البيانات. وتحدد بقرار يصدر من وزيرالتجارة الكيفية التي توضع بها البيانات على المنتجات والإجراءات التي يستعاض بها عند عدم إمكانية ذلك.",
+      "text_for_index": "إذا كان مقدار المنتجات أو مقاسها أو كيلها أو طاقتها أو وزنها أو مصدرها أو العناصر الداخلة في تركيبها من العوامل التي لها دخل في تقدير قيمتها جاز بقرار يصدر من وزيرالتجارة منع استيراد تلك المنتجات أو بيعها، أو عرضها للبيع، ما لم تحمل بيانا أو أكثر من هذه البيانات. وتحدد بقرار يصدر من وزيرالتجارة الكيفية التي توضع بها البيانات على المنتجات والإجراءات التي يستعاض بها عند عدم إمكانية ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "إذا كان مقدار المنتجات أو مقاسها أو كيلها أو طاقتها أو وزنها أو مصدرها أو العناصر الداخلة في تركيبها من العوامل التي لها دخل في تقدير قيمتها جاز بقرار يصدر من وزيرالتجارة منع استيراد تلك المنتجات أو بيعها، أو عرضها للبيع، ما لم تحمل بيانا أو أكثر من هذه البيانات. وتحدد بقرار يصدر من وزيرالتجارة الكيفية التي توضع بها البيانات على المنتجات والإجراءات التي يستعاض بها عند عدم إمكانية ذلك.",
+          "text_for_index": "إذا كان مقدار المنتجات أو مقاسها أو كيلها أو طاقتها أو وزنها أو مصدرها أو العناصر الداخلة في تركيبها من العوامل التي لها دخل في تقدير قيمتها جاز بقرار يصدر من وزيرالتجارة منع استيراد تلك المنتجات أو بيعها، أو عرضها للبيع، ما لم تحمل بيانا أو أكثر من هذه البيانات. وتحدد بقرار يصدر من وزيرالتجارة الكيفية التي توضع بها البيانات على المنتجات والإجراءات التي يستعاض بها عند عدم إمكانية ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة السابعة",
+      "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد يعاقب من يخالف أحكام هذا النظام بغرامة مالية لا تزيد على مائة ألف ريال، وفي حالة العود تضاعف العقوبة مع غلق المحل لمدة لا تزيد على سنة.",
+      "text_for_index": "مع عدم الإخلال بأي عقوبة أشد يعاقب من يخالف أحكام هذا النظام بغرامة مالية لا تزيد على مائة ألف ريال، وفي حالة العود تضاعف العقوبة مع غلق المحل لمدة لا تزيد على سنة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد يعاقب من يخالف أحكام هذا النظام بغرامة مالية لا تزيد على مائة ألف ريال، وفي حالة العود تضاعف العقوبة مع غلق المحل لمدة لا تزيد على سنة.",
+          "text_for_index": "مع عدم الإخلال بأي عقوبة أشد يعاقب من يخالف أحكام هذا النظام بغرامة مالية لا تزيد على مائة ألف ريال، وفي حالة العود تضاعف العقوبة مع غلق المحل لمدة لا تزيد على سنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الثامنة",
+      "text_verbatim": "يتولى موظفو وزارة التجارة المختصون ضبط ما يقع من مخالفات لأحكام هذا النظام.",
+      "text_for_index": "يتولى موظفو وزارة التجارة المختصون ضبط ما يقع من مخالفات لأحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يتولى موظفو وزارة التجارة المختصون ضبط ما يقع من مخالفات لأحكام هذا النظام.",
+          "text_for_index": "يتولى موظفو وزارة التجارة المختصون ضبط ما يقع من مخالفات لأحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة التاسعة",
+      "text_verbatim": "تختص هيئة التحقيق والادعاء العام بالتحقيق فيما يقع من مخالفات لأحكام هذا النظام والادعاء فيها أمام الجهة القضائية المختصة.",
+      "text_for_index": "تختص هيئة التحقيق والادعاء العام بالتحقيق فيما يقع من مخالفات لأحكام هذا النظام والادعاء فيها أمام الجهة القضائية المختصة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تختص هيئة التحقيق والادعاء العام بالتحقيق فيما يقع من مخالفات لأحكام هذا النظام والادعاء فيها أمام الجهة القضائية المختصة.",
+          "text_for_index": "تختص هيئة التحقيق والادعاء العام بالتحقيق فيما يقع من مخالفات لأحكام هذا النظام والادعاء فيها أمام الجهة القضائية المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام البيانات التجارية، المادة العاشرة",
+      "text_verbatim": "يختص  ديوان المظالم    بالفصل في المخالفات والمنازعات الناشئة عن تطبيق أحكام هذا النظام.",
+      "text_for_index": "يختص ديوان المظالم بالفصل في المخالفات والمنازعات الناشئة عن تطبيق أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يختص  ديوان المظالم    بالفصل في المخالفات والمنازعات الناشئة عن تطبيق أحكام هذا النظام.",
+          "text_for_index": "يختص ديوان المظالم بالفصل في المخالفات والمنازعات الناشئة عن تطبيق أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الحادية عشرة",
+      "text_verbatim": "يجوز لديوان المظالم أن يحكم بمصادرة الأشياء المحجوزة، وبيع ما يمكن بيعه منها، وخصم قيمته من التعويضات والغرامات التي قد يحكم بها، وبإتلاف الباقي منها، أو التصرف فيه بأي طريقة يراها مناسبة. كما يجوز للديوان أن يحكم بنشر القرار الصادر بالإدانة أو المصادرة أو الإتلاف في إحدى الصحف اليومية الصادرة في منطقة إقامة المحكوم عليه وعلى نفقته.",
+      "text_for_index": "يجوز لديوان المظالم أن يحكم بمصادرة الأشياء المحجوزة، وبيع ما يمكن بيعه منها، وخصم قيمته من التعويضات والغرامات التي قد يحكم بها، وبإتلاف الباقي منها، أو التصرف فيه بأي طريقة يراها مناسبة. كما يجوز للديوان أن يحكم بنشر القرار الصادر بالإدانة أو المصادرة أو الإتلاف في إحدى الصحف اليومية الصادرة في منطقة إقامة المحكوم عليه وعلى نفقته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يجوز لديوان المظالم أن يحكم بمصادرة الأشياء المحجوزة، وبيع ما يمكن بيعه منها، وخصم قيمته من التعويضات والغرامات التي قد يحكم بها، وبإتلاف الباقي منها، أو التصرف فيه بأي طريقة يراها مناسبة. كما يجوز للديوان أن يحكم بنشر القرار الصادر بالإدانة أو المصادرة أو الإتلاف في إحدى الصحف اليومية الصادرة في منطقة إقامة المحكوم عليه وعلى نفقته.",
+          "text_for_index": "يجوز لديوان المظالم أن يحكم بمصادرة الأشياء المحجوزة، وبيع ما يمكن بيعه منها، وخصم قيمته من التعويضات والغرامات التي قد يحكم بها، وبإتلاف الباقي منها، أو التصرف فيه بأي طريقة يراها مناسبة. كما يجوز للديوان أن يحكم بنشر القرار الصادر بالإدانة أو المصادرة أو الإتلاف في إحدى الصحف اليومية الصادرة في منطقة إقامة المحكوم عليه وعلى نفقته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "remedy",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "علاج أو تعويض",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الثانية عشرة",
+      "text_verbatim": "دون إخلال بحق ذوي الشأن في المطالبة بالتعويض عن الأضرار الناشئة عن استخدام بيانات غير مطابقة للحقيقة، يجوز لهم في أي وقت، ولو كان ذلك قبل رفع أي دعوى، اللجوء إلى ديوان المظالم لاتخاذ الإجراءات التحفظية اللازمة.",
+      "text_for_index": "دون إخلال بحق ذوي الشأن في المطالبة بالتعويض عن الأضرار الناشئة عن استخدام بيانات غير مطابقة للحقيقة، يجوز لهم في أي وقت، ولو كان ذلك قبل رفع أي دعوى، اللجوء إلى ديوان المظالم لاتخاذ الإجراءات التحفظية اللازمة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "remedy",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "علاج أو تعويض",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بحق ذوي الشأن في المطالبة بالتعويض عن الأضرار الناشئة عن استخدام بيانات غير مطابقة للحقيقة، يجوز لهم في أي وقت، ولو كان ذلك قبل رفع أي دعوى، اللجوء إلى ديوان المظالم لاتخاذ الإجراءات التحفظية اللازمة.",
+          "text_for_index": "دون إخلال بحق ذوي الشأن في المطالبة بالتعويض عن الأضرار الناشئة عن استخدام بيانات غير مطابقة للحقيقة، يجوز لهم في أي وقت، ولو كان ذلك قبل رفع أي دعوى، اللجوء إلى ديوان المظالم لاتخاذ الإجراءات التحفظية اللازمة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الثالثة عشرة",
+      "text_verbatim": "يصدر وزيرالتجارة اللائحة التنفيذية والقرارات اللازمة لتنفيذ أحكام هذا النظام خلال مائة وثمانين يوما من تاريخ صدوره.",
+      "text_for_index": "يصدر وزيرالتجارة اللائحة التنفيذية والقرارات اللازمة لتنفيذ أحكام هذا النظام خلال مائة وثمانين يوما من تاريخ صدوره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر وزيرالتجارة اللائحة التنفيذية والقرارات اللازمة لتنفيذ أحكام هذا النظام خلال مائة وثمانين يوما من تاريخ صدوره.",
+          "text_for_index": "يصدر وزيرالتجارة اللائحة التنفيذية والقرارات اللازمة لتنفيذ أحكام هذا النظام خلال مائة وثمانين يوما من تاريخ صدوره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام البيانات التجارية، المادة الرابعة عشرة",
+      "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-albyanat-altjaryh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

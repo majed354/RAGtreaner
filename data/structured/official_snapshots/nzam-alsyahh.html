@@ -1,0 +1,982 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08b517ae0a84e000c9c79539d8076c141ac7b82e82c6cf39a022107508c3798b30c2cf81e3f502e65956e48c31233dd2cc1f77ed097034b05cbcdbbb9473b8a3d311eee276f1a50c12e5c42c140ae10d5206419e7a80b7807d747c9387857f7afc1a34c5186f2d1557c629f72046e9a76a509ed6b8212dbbb9a6e9e626c58c52a4bcd0857bd45e6fd881d2e5491e7b54941e3a9702301ba1c843b054906f1740313b98bb2dc945cdb8e7a6a3bb36553a021323ee8cda8917ac687a2706eefed9e6ef91b9bd32ee7ae76bf426b42d786e76dd9e4b5138c68ac997c350becbb60c1f3923b50fb4f83f";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام السياحة
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام السياحة</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">السياحة والآثار</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام السياحة</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام السياحة</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>130055</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="7d777c66-d28b-43de-9305-af23013b1738">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>نبذة الوثيقة</strong>:حل هذا النظام محل نظام السياحة لعام 1436هـ، <strong>وتضمن:</strong> التعريفات، التراخيص والتصاريح، التزامات المرخص له، مهام وزارة السياحة والجهات الحكومية، التزامات الجهات الحكومية والجهات الخاصة، تحديد الوجهات السياحية، حظر الإساءة إلى سمعة السياحة في المملكة والتعدي على الوجهات والمقومات السياحية والعمل على حمايتها والمحافظة عليها، إصدار قواعد استثمار الوجهات السياحية والتسهيلات اللازمة لها، إنشاء منصة إلكترونية وقاعدة بينات معلوماتية بقطاع السياحة، حالات إغلاق المرفق السياحي، المقابل المالي، التأشيرات السياحية، المفتشون والتفتيش، الاستعانة بشركات متخصصة، لجنة النظر في المخالفات، المخالفات والعقوبات، متخصصة، لجنة النظر في المخالفات، المخالفات والعقوبات، إصدار اللائحة، ينفذ النظام بعد (90) يوم من تاريخ نشره في الجريدة الرسمية.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام السياحة</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1444/01/26 هـ  الموافق : 24/08/2022 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1444/02/06  هـ الموافق : 02/09/2022 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/1f036efd-cc23-4fe0-826e-af23013b1746?lawId=7d777c66-d28b-43de-9305-af23013b1738">مرسوم ملكي رقم (م/18) وتاريخ 1444/1/26هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/ed82e2f5-767c-4402-ab3f-af23013b1771?lawId=7d777c66-d28b-43de-9305-af23013b1738">قرار مجلس الوزراء  رقم (79) وتاريخ 1444/1/25هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="7d777c66-d28b-43de-9305-af23013b1738" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/ff3c6fcf-4d16-49f3-af12-af23013b179f?lawId=7d777c66-d28b-43de-9305-af23013b1738" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="7d777c66-d28b-43de-9305-af23013b1738">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="7d777c66-d28b-43de-9305-af23013b1738" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام السياحة</h3>
+        <h3 class="center">1444 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/18) وتاريخ 1444/1/26هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعــــون الله تعـــــالـى<br />
+&nbsp; &nbsp; &nbsp; &nbsp; نحن سلمان بن عبدالعزيز آل ســــعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ملك المملكة العربية السعودية</strong><br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناءً على المادة (السابعة عشرة) و(الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قراري مجلس الشورى رقم (119 / 21) بتاريخ 14 / 6 / 1443هـ، ورقم (180 / 31) بتاريخ 10 / 9 / 1443هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (79) بتاريخ 25 / 1 / 1444هـ.</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً:</strong> الموافقة على نظام السياحة، بالصيغة المرافقة.<br />
+<strong>ثانياً: </strong>على كل من يزاول أيًّا من الأنشطة المشمولة في النظام - المشار إليه في البند (أولاً) من هذا المرسوم - التقدم إلى وزارة السياحة لتعديل أوضاعه بما يتفق مع أحكامه، وذلك خلال مدة لا تتجاوز (تسعين) يوماً من تاريخ نفاذه. ويجوز للوزارة - لأسباب تقدرها - تمديدها (تسعين) يوماً أخرى.<br />
+<strong>ثالثاً: </strong>على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخُصُّه- تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء  رقم (79) وتاريخ 1444/1/25هـ</h4>
+            <p><p><strong>إن مجلس الوزراء<br />
+بعد الاطلاع</strong> على المعاملة الواردة من الديوان الملكي برقم 57566 وتاريخ 13 / 9 / 1443هـ، المشتملة على خطاب معالي وزير السياحة رقم 6514 وتاريخ 19 / 6 / 1442هـ، في شأن مشروع نظام السياحة.<br />
+<strong>وبعد الاطلاع </strong>على نظام السياحة، الصادر بالمرسوم الملكي رقم (م / 2) وتاريخ 9 / 1 / 1436هـ.<br />
+<strong>وبعد الاطلاع</strong> على تنظيم وزارة السياحة، الصادر بقرار مجلس الوزراء رقم (96) وتاريخ 5 / 2 / 1442هـ.<br />
+<strong>وبعد الاطلاع</strong> على الاستراتيجية العامة لتنمية السياحة الوطنية، الصادرة بقرار مجلس الوزراء رقم (82) وتاريخ 25 / 1 / 1441هـ.<br />
+<strong>وبعد الاطلاع</strong> على المذكرات رقم (362) وتاريخ 12 / 2 / 1443هـ، ورقم (1079) وتاريخ 17 / 5 / 1443هـ، ورقم (1814) وتاريخ 12 / 8 / 1443هـ، ورقم (2127) وتاريخ 17 / 9 / 1443هـ، ورقم (28) وتاريخ 4 / 1 / 1444هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع</strong> على التوصية المعدة في مجلس الشؤون الاقتصادية والتنمية رقم (4-2 / 44 / د) وتاريخ 13 / 1 / 1444هـ.<br />
+<strong>وبعد النظر </strong>في قراري مجلس الشورى رقم (119 / 21) وتاريخ 14 / 6 / 1443هـ، ورقم (180 / 31) وتاريخ 10 / 9 / 1443هـ.<br />
+<strong>وبعد الاطلاع </strong>على توصية اللجنة العامة لمجلس الوزراء رقم (771) وتاريخ 23 / 1 / 1444هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p style="text-align:justify"><strong>أولًا:</strong> الموافقة على نظام السياحة، بالصيغة المرافقة.<br />
+<strong>ثانياً: </strong>على كل من يزاول أيًّا من الأنشطة المشمولة في النظام - المشار إليه في البند (أولاً) من هذا القرار - التقدم إلى وزارة السياحة لتعديل أوضاعه بما يتفق مع أحكامه، وذلك خلال مدة لا تتجاوز (تسعين) يوماً من تاريخ نفاذه. ويجوز للوزارة - لأسباب تقدرها - تمديدها (تسعين) يوماً أخرى.<br />
+<strong>وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.<br />
+ثالثًا: </strong>مع مراعاة اختصاص اللجنة الوطنية للحوافز المشكلة بموجب قرار مجلس الشؤون الاقتصادية والتنمية رقم (1 - 9 / 42 / ق) وتاريخ 8 / 9 / 1442هـ، لوزير السياحة - بعد الاتفاق مع الجهات الحكومية ذات العلاقة - اقتراح الإعفاءات الجمركية والضريبية ذات الصلة بالأنشطة السياحية، والمحفزات اللازمة لتنشيط القطاع السياحي، والرفع بها وفقاً للإجراءات النظامية.<br />
+<strong>رابعًا:</strong> لوزير السياحة - بقرارٍ منه - أن يعهد بأي من اختصاصات الوزارة وصلاحياتها الواردة في مشروع النظام - المشار إليه في البند (أولاً) من هذا القرار - إلى أي من الجهات ذات الاختصاص الجغرافي، وذلك بعد التنسيق معها. ويحدد القرار الضوابط والشروط اللازمة لممارسة تلك الاختصاصات والصلاحيات، ومدتها.&nbsp;<br />
+<strong>خامساً:</strong> تضع وزارة السياحة &ndash; بالتعاون مع الجهات الحكومية والمنشآت بالقطاع الخاص - خطة القوى العاملة السنوية بما يتفق مع مستهدفات التوطين والمعايير والاشتراطات اللازمة من الجهة المختصة، لتحقيقها بناءً على تصنيف منظمة السياحة العالمية وأفضل الممارسات الدولة.<br />
+<strong>سادساً: </strong>تمارس وزارة السياحة صلاحياتها الواردة في المادة (الحادية عشرة) من النظام - المشار إليه في البند (أولاً) من هذا القرار - بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية، وذلك إلى حين صدور (لائحة ممارسة الهيئات والمؤسسات العامة &nbsp;- وما في حكمها - فرض المقابل المالي للخدمات والأعمال التي تقدمها)، والعمل بها.<br />
+<strong>سابعاً: </strong>توجيه الجهات الحكومية ذات العلاقة بالتنسيق مع مركز تنمية الإيرادات غير النفطية ووزارة السياحة، قبل الرفع عن أي مقترح يتعلق بفرض ضريبة أو رسم أو مقابل مالي يؤثر في الأنشطة السياحية التي ترخص الوزارة بممارستها.&nbsp;<br />
+<strong>ثامناً:</strong> إضافة فقرة تحمل الرقم (20) إلى المادة (الثانية) من تنظيم وزارة السياحة - الصادر بقرار مجلس الوزراء رقم (96) وتاريخ 5 / 2 / 1442هـ - تكون بالنص الآتي: &quot;التنسيق مع الجهات المختصة، لإنشاء كليات ومعاهد وأكاديميات سياحية لتعليم العلوم المتعلقة بالسياحة، وإقامة الدورات والبرامج التدريبية المتخصصة، وذلك وفقاً للأنظمة&quot;.</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام السياحة</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يُقصد بالمصطلحات والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبيّنة أمام كل منها، ما لم يقتضِ السياق غير ذلك:<br />
+النظام:</strong> نظام السياحة.<br />
+<strong>اللائحة: </strong>هي لائحة -أو أكثر- لتنفيذ أحكام النظام.<br />
+<strong>الوزارة: </strong>وزارة السياحة.&nbsp;&nbsp; &nbsp;<br />
+<strong>الوزير: </strong>وزير السياحة.<br />
+<strong>السياحة: </strong>سفر أو انتقال فرد أو مجموعة من خارج المملكة إلى داخلها، أو من المملكة إلى خارجها، أو داخل المملكة، لمدة مؤقتة، لأي غرض سياحي. أو الاستفادة من واحدة -أو أكثر- من خدمات الأنشطة السياحية والتكميلية والمتخصصة.&nbsp;<br />
+<strong>السائح: </strong>الشخص الطبيعي الذي يبيت لغرض السياحة مدة لا تقل عن ليلة خارج مكان إقامته المعتاد بصورة نظامية من أجل السياحة، أو يستفيد من واحدة -أو أكثر- من خدمات الأنشطة السياحية والتكميلية والمتخصصة.<br />
+<strong>الاستراتيجية:</strong> الاستراتيجية العامة لتنمية السياحة الوطنية المعتمدة.<br />
+<strong>المقوّمات السياحية:</strong> أيُّ موارد طبيعية أو مادية ذات قيمة جاذبة للسياحة، وتشمل المعالم والوجهات الطبيعية والمواقع والمباني ذات الأهمية التاريخية أو الأثرية ونحوها.&nbsp;<br />
+<strong>الوجهة السياحية:</strong> أي مساحة جغرافية أو موقع تمارس أو تستهدف فيه الأنشطة السياحية أو يحتوي على مقومات سياحية، وتحدد بموجب المادة (السادسة) من النظام.<br />
+ا<strong>لمرفق السياحي: </strong>العقار أو المبنى أو المكان الذي يزاول من خلاله النشاط السياحي أو ما في حكمه، التي ترخصه الوزارة.&nbsp;<br />
+<strong>خدمات السفر والسياحة:</strong> ترتيب وتنظيم وتقديم الخدمات في مجال السياحة، وتشمل الرحلات والبرامج السياحية وبيع وتسويق تذاكر السفر من الشركات المرخصة وخدمات إصدار التأشيرات أو غيرها المتصلة بالسفر، وخدمات الأنشطة السياحية أو مرافق الضيافة وحجزها، ونحو ذلك.<br />
+<strong>الإرشاد السياحي: </strong>ممارسة أعمال إرشاد السياح في الوجهة السياحية وغيرها.<br />
+<strong>مرفق الضيافة السياحي: </strong>كل مكان يوفّر خدمة المبيت للسائح مقابل أجر، يعمل بشكل دائم أو مؤقت.&nbsp;<br />
+<strong>الأنشطة السياحية:</strong> ما يخضع لاختصاص الوزارة، ويشمل الإرشاد السياحي وخدمات السفر والسياحة وإدارة مرافق الضيافة أو تشغيلها وتقديم الاستشارات السياحية، والأنشطة التجريبية ونحوها، التي تحددها اللائحة، وما يحدد -بقرار من مجلس الوزراء- إخضاعه للترخيص من قبل الوزارة، بناءً على اقتراح من الوزير.<br />
+<strong>الأنشطة السياحية المتخصصة:</strong> الأنشطة التي تستهدف فئة محددة من السياح، وتخضع لاختصاص جهة أو جهات حكومية أخرى غير الوزارة، كالسياحة العلاجية والسياحة الرياضية وسياحة المعارض وسياحة المهرجانات وغيرها.&nbsp;<br />
+<strong>الأنشطة السياحية التكميلية: </strong>ما يمارسه الشخص الطبيعي أو الاعتباري وينتج عنها تقديم خدمة أو منتج للسائح مقابل أجر وتؤثر في تجربته تأثيراً مباشراً. ويشمل ذلك: الأنشطة المرتبطة بالقطاع السياحي مثل المطاعم والمتنزهـات والمدن الترفيهية ودور العرض، والصناعات التقليدية والشعبية، وخدمات النقل وتأجير السيارات.&nbsp;<br />
+<strong>الترخيص: </strong>وثيقة تصدرها الوزارة لممارسة نشاط أو تقديم خدمة في مجال السياحة بموجب النظام.<br />
+<strong>المرخص له: </strong>كل شخص طبيعي أو اعتباري حاصل على ترخيص من الوزارة بموجب النظام.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p>&nbsp;</p>
+
+<ol>
+	<li>يجب الحصول على الترخيص أو التصريح اللازم من الوزارة قبل ممارسة أي من الأنشطة السياحية، وفقاً لما تحدده اللائحة.</li>
+	<li>تحدد اللائحة الأحكام المنظمة للحصول على التراخيص والتصاريح والمعايير والاشتراطات لممارسة الأنشطة السياحية الداخلة في اختصاص الوزارة، وتصنيف الأنشطة.</li>
+	<li>تحدد بقرار من الوزير -بعد التنسيق مع الجهات ذات العلاقة- المعايير والاشتراطات الإضافية لإصدار التراخيص والتصاريح والموافقات اللازمة لممارسة الأنشطة السياحية التكميلية والمتخصصة والرقابة عليها من قبل الجهات ذات الاختصاص في الوجهات السياحية.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>على المرخص له الالتزام بما يلي:</strong></p>
+
+<ol>
+	<li>تقديم أفضل الخدمات، وفق المعايير المعتمدة.&nbsp;</li>
+	<li>الاستمرار بالالتزام بجميع الاشتراطات والمتطلبات اللازمة للترخيص والتصنيف المحدد له أثناء سريانهما، وفقاً لما تحدده اللائحة.</li>
+	<li>تسجيل بيانات جميع منسوبيه لدى الوزارة، وتحديث هذه البيانات في حال حدث أي تغيير فيها خلال مدة لا تتجاوز (ثلاثة) أشهر من تاريخ التغيير.</li>
+	<li>تقديم البيانات والمعلومات والإحصاءات السياحية إلى الوزارة، وفقاً لما تبينه اللائحة.</li>
+	<li>ما يصدر عن الوزارة من قرارات وتعليمات.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>يلتزم المرخص له بتقديم الضمانات المالية للأنشطة السياحية التي تتطلب ذلك. وتحدد اللائحة تلك الأنشطة والأحكام ذات الصلة بالضمانات، ومقدارها، وشروطها، وكيفية استيفاء الغرامات والحقوق المالية للغير منها، وذلك بالاتفاق مع وزارة المالية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>تتولى الوزارة، والجهات الحكومية -كلٌّ في حدود اختصاصه- العمل على تحقيق مستهدفات النظام والاستراتيجية، بالتكامل والشراكة مع القطاع الخاص والقطاع غير الربحي والمجتمع المحلي.&nbsp;</li>
+	<li>دون الإخلال بالأنظمة واللوائح ذات العلاقة؛ تلتزم الجهات الحكومية والجهات الخاصة بتطبيق المعايير والاشتراطات والضوابط المنصوص عليها في الفقرة (3) من المادة (الثانية) من النظام، والتي تمثل الحد الأدنى من المعايير والضوابط الواجب توافرها، ولا تحدّ من اختصاص تلك الجهات على تطبيق أي معايير أعلى أو ضوابط أخرى.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li><strong>تُحدّد الوجهات السياحية -وما يتصل بها- بقرارٍ من مجلس الوزراء، بناءً على اقتراح من الوزير، وبخاصة ما يأتي:</strong><br />
+	أ - تحديد المقوّمات السياحية المراد استغلالها، والأنشطة السياحية المستهدفة.<br />
+	ب - بيان بعقارات الدولة أو بالعقارات المخصصة للجهات الحكومية في الوجهة السياحية. &nbsp;<br />
+	ج - المتطلبات اللازمة لحماية البيئة وضمان تطبيق المعايير البيئية، وفقاً لأحكام نظام البيئة.<br />
+	د - ما يتصل بالمسؤوليات والاختصاصات والصلاحيات المسندة لأي من الجهات الحكومية، من أجل اقتراح مشاركة الوزارة في تلك المسؤوليات أو الاختصاصات أو الصلاحيات أو نقلها إليها في حدود الوجهة السياحية.<br />
+	هـ - متطلبات التخطيط العمراني للوجهة السياحية.<br />
+	و - إعداد ضوابط التصرف بالوجهة السياحية من أجل تطويرها واستثمارها، وذلك وفقاً للإجراءات النظامية المتبعة.<br />
+	ز - وضع المعايير والاشتراطات والآليات اللازمة لممارسة الأنشطة السياحية في الوجهة السياحية.&nbsp;<br />
+	ح - تحديد الآثار الاقتصادية والاجتماعية المترتبة على المنطقة في الوجهة السياحية.<br />
+	وتبين اللائحة المتطلبات الأخرى اللازمة لتحديد الوجهات السياحية وما يتصل بها.</li>
+	<li><strong>دون إخلال بما ورد في الفقرة (1) من هذه المادة، لا يجوز اقتراح تحديد أي وجهة سياحية إلا بعد التنسيق مع الوزارة.</strong></li>
+	<li><strong>تعمل الوزارة مع الهيئة العامة لعقارات الدولة على تحديد الوجهات السياحية المملوكة للدولة التي ترى الوزارة قابليتها للتنمية السياحية، المشار إليها في الفقرة (ب / 1) من هذه المادة.&nbsp;</strong></li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>دون إخلال بالأنظمة واللوائح ذات العلاقة، يحظر الإساءة إلى سمعة السياحة في المملكة والتعدي على الوجهات السياحية والمقوّمات السياحية، أو إلحاق الضرر بها، أو القيام بأي فعلٍ من شأنه الإضرار بقيمتها أو أهميتها السياحية.</li>
+	<li>على الوزارة التنسيق مع وزارة الداخلية والجهات ذات العلاقة؛ لوضع آلية تكفل حماية الوجهات السياحية والمقوّمات السياحية، ومنع التعدي عليها.</li>
+	<li>على الجهات الحكومية المختصة بالتخطيط، عند تخطيطها المدن والقرى والمشاريع المملوكة للدولة؛ مراعاة الحفاظ على الوجهات السياحية والمقومات السياحية، والتنسيق مع الوزارة قبل إقرار أي مشروعات أو وضع أي مخططات من شأنها التأثير على تلك الوجهات السياحية أو المقوّمات السياحية، سواء بصورةٍ مؤقتة أو دائمة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p>دون إخلال بالأنظمة واللوائح ذات العلاقة، يصدر بقرار من الوزير-بالتنسيق مع الجهات المختصة- قواعد استثمار الوجهات السياحية والتسهيلات اللازمة لها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>مع مراعاة ما تقدمه المراكز أو المنصات الإلكترونية -القائمة- التابعة لجهات حكومية من خدمات وبمراعاة عدم الازدواجية في الأدوار؛ للوزير بقرار منه -بعد التنسيق مع الجهات ذات العلاقة- إنشاء مركز خدمة شامل أو منصة إلكترونية، لتقديم الخدمات اللازمة في قطاع السياحة والسياح ومقدمي خدمات الأنشطة السياحية، أو الربط مع مراكز أو منصات إلكترونية أخرى تابعة لجهات حكومية، وذلك وفقاً لما تحدده اللائحة.&nbsp;</li>
+	<li>تنشئ الوزارة قاعدة بيانات معلوماتية، تهدف إلى توفير البيانات والإحصاءات والمعلومات عن جميع الجوانب الخاصة بقطاع السياحة في المملكة بالتوافق مع الممارسات الدولية الرائدة في هذا المجال؛ وتوفير المعلومات اللازمة للمتعاملين في قطاع السياحة من مستثمرين وجمعيات ذات العلاقة بالمجال السياحي ومقدمي خدمات الأنشطة السياحية والسيّاح وغيرهم، على أن تحدَّث هذه البيانات والإحصاءات والمعلومات بانتظام -بالتنسيق مع الجهات ذات العلاقة- وتنشر على الموقع الإلكتروني للوزارة، وذلك وفقاً لما تحدده اللائحة.</li>
+	<li>دون إخلال بالأنظمة واللوائح ذات العلاقة، على الجهات الحكومية والشركات والمؤسسات العاملة في قطاع السياحة -التي تحددها اللائحة- تزويد الوزارة بأي معلومات أو وثائق لديها ترى الوزارة أهميتها لتوفير المعلومات اللازمة للقطاع السياحي.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p>في الحالات التي يظهر للوزارة فيها -بعد التنسيق مع الجهات المختصة- أن المرفق السياحي يشكّل خطراً محدقاً على الصحة أو السلامة العامة، فلها اتخاذ الإجراءات والتدابير الاحترازية اللازمة، ومن ذلك إغلاق المرفق السياحي. وإذا كان ذلك المرفق السياحي مرفق ضيافة، فيخلى فوراً ويوفر سكن بديل لجميع النزلاء المقيمين فيه بصورةٍ نظامية، وتحدد اللائحة الضوابط اللازمة لذلك.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>تحدد اللائحة المقابل المالي وفقاً لما يلي:</strong></p>
+
+<ol>
+	<li>تراخيص الأنشطة السياحية التي تقدمها الوزارة.&nbsp;</li>
+	<li>الخدمات والأعمال التي تقدمها بموجب أحكام النظام واللائحة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تصدر الوزارة أذونات التأشيرات السياحية وفق ضوابط متفق عليها بينها وبين وزارتي الداخلية والخارجية. وتوضح اللائحة إجراءات وآليات إصدار أذونات التأشيرات السياحية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يتولى مفتشون -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللائحة، والتحقيق فيها، والتحقق من استيفاء شروط وضوابط الأنشطة السياحية، ولهم -في سبيل ذلك- الاطلاع على السجلات والبيانات، وتلقي الشكاوى والتحقيق مع العاملين في المنشأة محل التفتيش، والحصول على المعلومات التي يطلبونها. وإذا تبين لهم وقوع مخالفات فعليهم ضبطها، وإحالتها إلى اللجنة المنصوص عليها في الفقرة (1) من المادة (الخامسة عشرة) من النظام.</li>
+	<li>يحظر منع المفتشين من أداء مهماتهم المنصوص عليها في هذه المادة، وعلى أصحاب المنشآت والعاملين فيها -محل التفتيش- التعاون معهم وتقديم التسهيلات لهم.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز الاستعانة -عند الحاجة- بشركات أو جهات فنية متخصصة؛ للقيام ببعض المهمات الموكولة إلى الوزارة بموجب النظام، وفق ضوابط تحددها اللائحة، وذلك دون إخلال بالمهمات الأساسية المسندة إليها بموجب أحكام هذا النظام.&nbsp;</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>تكوّن بقرار من الوزير لجنة (أو أكثر) لا يقل عدد أعضائها عن (ثلاثة)، يكون أحدَهم مختصٌ في الأنظمة؛ وذلك للنظر في مخالفات النظام واللائحة، وإيقاع العقوبات المنصوص عليها في المادة (السادسة عشرة) من النظام باستثناء الغرامات الفورية المنصوص عليها في الفقرة (5) من المادة نفسها.</li>
+	<li>تحدد اللائحة آلية عمل اللجنة، ويحدد الوزير مكافآت أعضائها بقرار منه.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، ودون المساس بحق المتضرر في التعويض عما أصابه من ضرر نتيجة مخالفة أحكام النظام؛ يعاقب كل من يخالف أيًّا من أحكام النظام أو اللائحة بواحدة أو أكثر من العقوبات الآتية:<br />
+	أ - الإنذار.<br />
+	ب - إغلاق المرفق السياحي أو جزء منه إغلاقاً مؤقتاً أو دائماً.<br />
+	ج - تخفيض التصنيف.<br />
+	د - تعليق الترخيص لمدة لاتتجاوز (سنة).<br />
+	هـ - إلغاء الترخيص.<br />
+	و - غرامة لا تزيد على مليون ريال.</li>
+	<li>للجنة المختصة -المنصوص عليها في الفقرة (1) من المادة (الخامسة عشرة) من النظام- الآتي:<br />
+	أ - فرض غرامة عن كل يوم يستمر فيه المخالف في ارتكاب مخالفته بعد إبلاغه بقرار اللجنة المختصة في شأنها، على أن يبدأ احتساب هذه الغرامة من التاريخ الذي يحدده قرار اللجنة المختصة.<br />
+	ب - مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة بما لا يتجاوز حدها الأقصى، وتعد المخالفة مكررة إذا وقعت خلال سنة من تاريخ ارتكاب المخالفة السابقة لها.<br />
+	ج - تضمين القرار -الصادر بتحديد العقوبة- النص على نشر منطوقه على نفقة المخالف في صحيفة تصدر في مكان إقامته، فإن لم تكن في مقره صحيفة ففي صحيفة تصدر في أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة، وجسامتها، وتأثيرها. على أن يكون نشر القرار بعد تحصنه بمضي المدة المحددة نظاماً، أو بصدور حكم في شأنه مكتسب الصفة القطعية.</li>
+	<li>يُضمن القرار الصادر بتحديد العقوبة النص على إلزام المخالف بإزالة المخالفة، وإعادة التأهيل الناتج عن الفعل الضار ودفع التعويضات عن الضرر، وإعادة المبالغ التي تحصل عليها إلى أصحابها إن وجدوا. وتوريد تلك المبالغ والمكاسب التي تحصل عليها إلى الخزينة العامة للدولة.&nbsp;</li>
+	<li>تحدد العقوبات بحسب حجم كل مخالفة على حدة، ويراعى في ذلك طبيعة المخالفة المرتكبة، وخطورتها في كل حالة، والظروف المشددة والمخففة.</li>
+	<li>يُصدر الوزير جدولاً يوضح تصنيف المخالفات وما يقابلها من العقوبات -المنصوص عليها في الفقرة (1) من هذه المادة- ومقدارها ومدتها، يراعى فيها التدرج في العقوبة، على أن يضمن الجدول المخالفات التي لا يتجاوز مقدار الغرامة فيها عشرة آلاف ريال التي يتم إصدارها فوريًّا من المفتش المختص عند ضبطها. &nbsp;</li>
+	<li>يجوز التظلم عما يصدر من الوزارة من قرارات أمام المحكمة الإدارية، خلال (ستين) يوماً من تاريخ الإبلاغ بالقرار.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يصدر الوزير اللائحة خلال (تسعين) يوماً من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يحل النظام محل نظام السياحة -الصادر بالمرسوم الملكي رقم (م / 2) وتاريخ 9 / 1 / 1436هـ- ويلغي ما يتعارض معه من أحكام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يعمل بالنظام بعد مضي (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="7d777c66-d28b-43de-9305-af23013b1738" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="5177dd97-ed98-4184-8056-af23013bfaea">المادة الأولى </option>
+<option value="0bf0f53b-13c0-45ee-b953-af23013c2dc8">المادة الثانية </option>
+<option value="42581ab9-a20f-48cb-ad3f-af23013c86f9">المادة الثالثة </option>
+<option value="373265ea-2699-48e8-b7c8-af23013cacaa">المادة الرابعة </option>
+<option value="ad335891-db9e-4d15-8bc4-af23013cf8d8">المادة الخامسة </option>
+<option value="dc696b95-4154-42a3-823c-af23013d6313">المادة السادسة </option>
+<option value="8f35c35d-75b6-4d38-8d06-af23013d967e">المادة السابعة </option>
+<option value="77f6ed45-b106-40c1-851a-af2301405fa2">المادة الثامنة </option>
+<option value="89892b67-22dc-4b00-8fb7-af230140a681">المادة التاسعة </option>
+<option value="5c968f52-29a4-4765-9e01-af230140d80c">المادة العاشرة </option>
+<option value="f04850b7-3e54-46f6-b084-af23014103cb">المادة الحادية عشرة </option>
+<option value="82e56001-7fab-4484-87ec-af2301413185">المادة الثانية عشرة </option>
+<option value="fb99937b-7975-4fd7-8c6f-af23014159b4">المادة الثالثة عشرة </option>
+<option value="a450fb84-5567-45ba-a5d0-af23014174e6">المادة الرابعة عشرة </option>
+<option value="d06074e9-6474-45cb-b2e1-af23014197a8">المادة الخامسة عشرة </option>
+<option value="54beb33f-8d35-43a4-a6d9-af2301420d71">المادة السادسة عشرة </option>
+<option value="519fb137-4ee5-4eb7-9f06-af23014226ef">المادة السابعة عشرة </option>
+<option value="b88107e8-7186-47c9-a04b-af2301423ccb">المادة الثامنة عشرة </option>
+<option value="13406ece-42ed-4ae0-8127-af2301425493">المادة التاسعة عشرة </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha5V6L' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha5V6L' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha5V6L = new CaptchaWidget('divCaptchaContainer_captcha5V6L', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha5V6L.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription7d777c66-d28b-43de-9305-af23013b1738" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="7d777c66-d28b-43de-9305-af23013b1738" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaTA6K' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaTA6K' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-7d777c66-d28b-43de-9305-af23013b1738">
+                    <input type="checkbox" id="agreement-7d777c66-d28b-43de-9305-af23013b1738" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='7d777c66-d28b-43de-9305-af23013b1738' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-7d777c66-d28b-43de-9305-af23013b1738"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-7d777c66-d28b-43de-9305-af23013b1738"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha5V6L = new CaptchaWidget('divCaptchaContainer_captcha5V6L', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha5V6L.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaTA6K = new CaptchaWidget('divCaptchaContainer_captchaTA6K', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaTA6K.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="7d777c66-d28b-43de-9305-af23013b1738">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha5V6L = new CaptchaWidget('divCaptchaContainer_captcha5V6L', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha5V6L.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaTA6K = new CaptchaWidget('divCaptchaContainer_captchaTA6K', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaTA6K.load(); 
+                    }); </script>
+</body>
+
+</html>

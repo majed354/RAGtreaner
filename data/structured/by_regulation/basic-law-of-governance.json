@@ -1,0 +1,2794 @@
+{
+  "metadata": {
+    "slug": "basic-law-of-governance",
+    "title_ar": "النظام الأساسي للحكم",
+    "status": "ساري",
+    "issue_date_hijri": "1412/08/27 هـ الموافق : 01/03/1992 مـ",
+    "issue_date_gregorian": "1992-03-01",
+    "publish_date_hijri": "1412/09/02 هـ الموافق : 06/03/1992 مـ",
+    "publish_date_gregorian": "1992-03-06",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/16b97fcb-4833-4f66-8531-a9a700f161b6/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/basic-law-of-governance.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/basic-law-of-governance.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1412/09/02 هـ الموافق : 06/03/1992 مـ",
+    "effective_date_gregorian": "1992-03-06",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 83,
+    "paragraph_count": 84,
+    "indexable_paragraph_count": 84,
+    "text_chars": 12693,
+    "verbatim_chars": 13363,
+    "citation_base_ar": "النظام الأساسي للحكم",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/16b97fcb-4833-4f66-8531-a9a700f161b6/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/basic-law-of-governance.html",
+    "verbatim_file": "data/structured/verbatim_texts/basic-law-of-governance.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الأولى",
+      "text_verbatim": "المملكة العربية السعودية، دولة عربية إسلامية، ذات سيادة تامة، دينها الإسلام، ودستورها كتاب الله تعالى وسنة رسوله صلى الله عليه وسلم. ولغتها هي اللغة العربية، وعاصمتها مدينة الرياض.",
+      "text_for_index": "المملكة العربية السعودية، دولة عربية إسلامية، ذات سيادة تامة، دينها الإسلام، ودستورها كتاب الله تعالى وسنة رسوله صلى الله عليه وسلم. ولغتها هي اللغة العربية، وعاصمتها مدينة الرياض.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "المملكة العربية السعودية، دولة عربية إسلامية، ذات سيادة تامة، دينها الإسلام، ودستورها كتاب الله تعالى وسنة رسوله صلى الله عليه وسلم. ولغتها هي اللغة العربية، وعاصمتها مدينة الرياض.",
+          "text_for_index": "المملكة العربية السعودية، دولة عربية إسلامية، ذات سيادة تامة، دينها الإسلام، ودستورها كتاب الله تعالى وسنة رسوله صلى الله عليه وسلم. ولغتها هي اللغة العربية، وعاصمتها مدينة الرياض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية",
+      "text_verbatim": "عيدا الدولة، هما عيدا الفطر والأضحى، وتقويمها، هو التقويم الهجري.",
+      "text_for_index": "عيدا الدولة، هما عيدا الفطر والأضحى، وتقويمها، هو التقويم الهجري.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عيدا الدولة، هما عيدا الفطر والأضحى، وتقويمها، هو التقويم الهجري.",
+          "text_for_index": "عيدا الدولة، هما عيدا الفطر والأضحى، وتقويمها، هو التقويم الهجري.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة",
+      "text_verbatim": "يكون  علم الدولة    كما يلي :\n\nأ  - لونه أخضر.\nب - عرضه يساوي ثلثي طوله.\nج - تتوسطه كلمة : (لا إله إلا الله محمد رسول الله) تحتها سيف مسلول، ولا ينكس العلم أبدا.\nويبين  النظام  الأحكام المتعلقة به.",
+      "text_for_index": "يكون علم الدولة كما يلي :\n\nأ - لونه أخضر.\nب - عرضه يساوي ثلثي طوله.\nج - تتوسطه كلمة : (لا إله إلا الله محمد رسول الله) تحتها سيف مسلول، ولا ينكس العلم أبدا.\nويبين النظام الأحكام المتعلقة به.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون  علم الدولة    كما يلي :",
+          "text_for_index": "يكون علم الدولة كما يلي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "basic-law-of-governance::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "أ  - لونه أخضر.\nب - عرضه يساوي ثلثي طوله.\nج - تتوسطه كلمة : (لا إله إلا الله محمد رسول الله) تحتها سيف مسلول، ولا ينكس العلم أبدا.\nويبين  النظام  الأحكام المتعلقة به.",
+          "text_for_index": "أ - لونه أخضر.\nب - عرضه يساوي ثلثي طوله.\nج - تتوسطه كلمة : (لا إله إلا الله محمد رسول الله) تحتها سيف مسلول، ولا ينكس العلم أبدا.\nويبين النظام الأحكام المتعلقة به.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة",
+      "text_verbatim": "شعار الدولة    سيفان متقاطعان، ونخلة وسط فراغهما الأعلى، ويحدد النظام  نشيد الدولة    وأوسمتها.",
+      "text_for_index": "شعار الدولة سيفان متقاطعان، ونخلة وسط فراغهما الأعلى، ويحدد النظام نشيد الدولة وأوسمتها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "شعار الدولة    سيفان متقاطعان، ونخلة وسط فراغهما الأعلى، ويحدد النظام  نشيد الدولة    وأوسمتها.",
+          "text_for_index": "شعار الدولة سيفان متقاطعان، ونخلة وسط فراغهما الأعلى، ويحدد النظام نشيد الدولة وأوسمتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة",
+      "text_verbatim": "عدلت الفقرة ( جـ ) من هذه المادة بموجب الأمر الملكى رقم (أ/١٣٥) وتاريخ ٢٦ / ٩ / ١٤٢٧ هـ ، لتكون بالنص الآتى :\n( جـ - تتم الدعوة لمبايعة الملك واختيار ولي العهد وفقا لنظام هيئة البيعة.)",
+      "text_for_index": "عدلت الفقرة ( جـ ) من هذه المادة بموجب الأمر الملكى رقم (أ/١٣٥) وتاريخ ٢٦ / ٩ / ١٤٢٧ هـ ، لتكون بالنص الآتى :\n( جـ - تتم الدعوة لمبايعة الملك واختيار ولي العهد وفقا لنظام هيئة البيعة.)",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "عدلت الفقرة ( جـ ) من هذه المادة بموجب الأمر الملكى رقم (أ/١٣٥) وتاريخ ٢٦ / ٩ / ١٤٢٧ هـ ، لتكون بالنص الآتى :\n( جـ - تتم الدعوة لمبايعة الملك واختيار ولي العهد وفقا لنظام هيئة البيعة.)",
+          "text_for_index": "عدلت الفقرة ( جـ ) من هذه المادة بموجب الأمر الملكى رقم (أ/١٣٥) وتاريخ ٢٦ / ٩ / ١٤٢٧ هـ ، لتكون بالنص الآتى :\n( جـ - تتم الدعوة لمبايعة الملك واختيار ولي العهد وفقا لنظام هيئة البيعة.)",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة",
+      "text_verbatim": "يبايع المواطنون الملك على كتاب الله تعالى، وسنة رسوله، وعلى السمع والطاعة في العسر واليسر والمنشط والمكره.",
+      "text_for_index": "يبايع المواطنون الملك على كتاب الله تعالى، وسنة رسوله، وعلى السمع والطاعة في العسر واليسر والمنشط والمكره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يبايع المواطنون الملك على كتاب الله تعالى، وسنة رسوله، وعلى السمع والطاعة في العسر واليسر والمنشط والمكره.",
+          "text_for_index": "يبايع المواطنون الملك على كتاب الله تعالى، وسنة رسوله، وعلى السمع والطاعة في العسر واليسر والمنشط والمكره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة",
+      "text_verbatim": "يستمد الحكم في المملكة العربية السعودية سلطته من كتاب الله تعالى، و سنة رسوله. وهما الحاكمان على هذا النظام وجميع أنظمة الدولة.",
+      "text_for_index": "يستمد الحكم في المملكة العربية السعودية سلطته من كتاب الله تعالى، و سنة رسوله. وهما الحاكمان على هذا النظام وجميع أنظمة الدولة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يستمد الحكم في المملكة العربية السعودية سلطته من كتاب الله تعالى، و سنة رسوله. وهما الحاكمان على هذا النظام وجميع أنظمة الدولة.",
+          "text_for_index": "يستمد الحكم في المملكة العربية السعودية سلطته من كتاب الله تعالى، و سنة رسوله. وهما الحاكمان على هذا النظام وجميع أنظمة الدولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة",
+      "text_verbatim": "يقوم الحكم في المملكة العربية السعودية على أساس العدل والشورى والمساواة، وفق الشريعة الإسلامية.",
+      "text_for_index": "يقوم الحكم في المملكة العربية السعودية على أساس العدل والشورى والمساواة، وفق الشريعة الإسلامية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يقوم الحكم في المملكة العربية السعودية على أساس العدل والشورى والمساواة، وفق الشريعة الإسلامية.",
+          "text_for_index": "يقوم الحكم في المملكة العربية السعودية على أساس العدل والشورى والمساواة، وفق الشريعة الإسلامية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة",
+      "text_verbatim": "الأسرة ، هي نواة المجتمع السعودي، ويربى أفرادها على أساس العقيدة الإسلامية، وما تقتضيه من الولاء والطاعة لله، ولرسوله، ولأولي الأمر، واحترام النظام وتنفيذه، وحب الوطن، والاعتزاز به وبتاريخه المجيد.",
+      "text_for_index": "الأسرة ، هي نواة المجتمع السعودي، ويربى أفرادها على أساس العقيدة الإسلامية، وما تقتضيه من الولاء والطاعة لله، ولرسوله، ولأولي الأمر، واحترام النظام وتنفيذه، وحب الوطن، والاعتزاز به وبتاريخه المجيد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "الأسرة ، هي نواة المجتمع السعودي، ويربى أفرادها على أساس العقيدة الإسلامية، وما تقتضيه من الولاء والطاعة لله، ولرسوله، ولأولي الأمر، واحترام النظام وتنفيذه، وحب الوطن، والاعتزاز به وبتاريخه المجيد.",
+          "text_for_index": "الأسرة ، هي نواة المجتمع السعودي، ويربى أفرادها على أساس العقيدة الإسلامية، وما تقتضيه من الولاء والطاعة لله، ولرسوله، ولأولي الأمر، واحترام النظام وتنفيذه، وحب الوطن، والاعتزاز به وبتاريخه المجيد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة العاشرة",
+      "text_verbatim": "تحرص الدولة على توثيق أواصر الأسرة، والحفاظ على قيمها العربية والإسلامية، ورعاية جميع أفرادها، وتوفير الظروف المناسبة لتنمية ملكاتهم وقدراتهم.",
+      "text_for_index": "تحرص الدولة على توثيق أواصر الأسرة، والحفاظ على قيمها العربية والإسلامية، ورعاية جميع أفرادها، وتوفير الظروف المناسبة لتنمية ملكاتهم وقدراتهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحرص الدولة على توثيق أواصر الأسرة، والحفاظ على قيمها العربية والإسلامية، ورعاية جميع أفرادها، وتوفير الظروف المناسبة لتنمية ملكاتهم وقدراتهم.",
+          "text_for_index": "تحرص الدولة على توثيق أواصر الأسرة، والحفاظ على قيمها العربية والإسلامية، ورعاية جميع أفرادها، وتوفير الظروف المناسبة لتنمية ملكاتهم وقدراتهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية عشرة",
+      "text_verbatim": "يقوم المجتمع السعودي على أساس من اعتصام أفراده بحبل الله، وتعاونهم على البر والتقوى، والتكافل فيما بينهم، وعدم تفرقهم.",
+      "text_for_index": "يقوم المجتمع السعودي على أساس من اعتصام أفراده بحبل الله، وتعاونهم على البر والتقوى، والتكافل فيما بينهم، وعدم تفرقهم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يقوم المجتمع السعودي على أساس من اعتصام أفراده بحبل الله، وتعاونهم على البر والتقوى، والتكافل فيما بينهم، وعدم تفرقهم.",
+          "text_for_index": "يقوم المجتمع السعودي على أساس من اعتصام أفراده بحبل الله، وتعاونهم على البر والتقوى، والتكافل فيما بينهم، وعدم تفرقهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية عشرة",
+      "text_verbatim": "تعزيز الوحدة الوطنية واجب، وتمنع  الدولة    كل ما يؤدي للفرقة و  الفتنة    والانقسام.",
+      "text_for_index": "تعزيز الوحدة الوطنية واجب، وتمنع الدولة كل ما يؤدي للفرقة و الفتنة والانقسام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "التزام"
+          ],
+          "text_verbatim": "تعزيز الوحدة الوطنية واجب، وتمنع  الدولة    كل ما يؤدي للفرقة و  الفتنة    والانقسام.",
+          "text_for_index": "تعزيز الوحدة الوطنية واجب، وتمنع الدولة كل ما يؤدي للفرقة و الفتنة والانقسام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة عشرة",
+      "text_verbatim": "يهدف  التعليم    إلى غرس  العقيدة الإسلامية    في نفوس النشء، وإكسابهم المعارف والمهارات، وتهيئتهم ليكونوا أعضاء نافعين في بناء مجتمعهم، محبين لوطنهم، معتزين بتاريخه.",
+      "text_for_index": "يهدف التعليم إلى غرس العقيدة الإسلامية في نفوس النشء، وإكسابهم المعارف والمهارات، وتهيئتهم ليكونوا أعضاء نافعين في بناء مجتمعهم، محبين لوطنهم، معتزين بتاريخه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يهدف  التعليم    إلى غرس  العقيدة الإسلامية    في نفوس النشء، وإكسابهم المعارف والمهارات، وتهيئتهم ليكونوا أعضاء نافعين في بناء مجتمعهم، محبين لوطنهم، معتزين بتاريخه.",
+          "text_for_index": "يهدف التعليم إلى غرس العقيدة الإسلامية في نفوس النشء، وإكسابهم المعارف والمهارات، وتهيئتهم ليكونوا أعضاء نافعين في بناء مجتمعهم، محبين لوطنهم، معتزين بتاريخه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة عشرة",
+      "text_verbatim": "جميع الثروات التي أودعها الله في باطن الأرض، أو في ظاهرها، أو في المياه الإقليمية أو في النطاق البري والبحري الذي يمتد إليه اختصاص الدولة، وجميع موارد تلك الثروات، ملك للدولة، وفقا لما يبينه النظام.\nويبين النظام وسائل استغلال هذه الثروات، وحمايتها، وتنميتها لما فيه مصلحة الدولة وأمنها واقتصادها.",
+      "text_for_index": "جميع الثروات التي أودعها الله في باطن الأرض، أو في ظاهرها، أو في المياه الإقليمية أو في النطاق البري والبحري الذي يمتد إليه اختصاص الدولة، وجميع موارد تلك الثروات، ملك للدولة، وفقا لما يبينه النظام.\nويبين النظام وسائل استغلال هذه الثروات، وحمايتها، وتنميتها لما فيه مصلحة الدولة وأمنها واقتصادها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "جميع الثروات التي أودعها الله في باطن الأرض، أو في ظاهرها، أو في المياه الإقليمية أو في النطاق البري والبحري الذي يمتد إليه اختصاص الدولة، وجميع موارد تلك الثروات، ملك للدولة، وفقا لما يبينه النظام.\nويبين النظام وسائل استغلال هذه الثروات، وحمايتها، وتنميتها لما فيه مصلحة الدولة وأمنها واقتصادها.",
+          "text_for_index": "جميع الثروات التي أودعها الله في باطن الأرض، أو في ظاهرها، أو في المياه الإقليمية أو في النطاق البري والبحري الذي يمتد إليه اختصاص الدولة، وجميع موارد تلك الثروات، ملك للدولة، وفقا لما يبينه النظام.\nويبين النظام وسائل استغلال هذه الثروات، وحمايتها، وتنميتها لما فيه مصلحة الدولة وأمنها واقتصادها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة عشرة",
+      "text_verbatim": "لا يجوز  منح امتياز    أو  استثمار مورد    من  موارد البلاد العامة    إلا بموجب نظام.",
+      "text_for_index": "لا يجوز منح امتياز أو استثمار مورد من موارد البلاد العامة إلا بموجب نظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز  منح امتياز    أو  استثمار مورد    من  موارد البلاد العامة    إلا بموجب نظام.",
+          "text_for_index": "لا يجوز منح امتياز أو استثمار مورد من موارد البلاد العامة إلا بموجب نظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة عشرة",
+      "text_verbatim": "للأموال العامة    حرمتها، وعلى  الدولة    حمايتها، وعلى المواطنين والمقيمين المحافظة عليها.",
+      "text_for_index": "للأموال العامة حرمتها، وعلى الدولة حمايتها، وعلى المواطنين والمقيمين المحافظة عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للأموال العامة    حرمتها، وعلى  الدولة    حمايتها، وعلى المواطنين والمقيمين المحافظة عليها.",
+          "text_for_index": "للأموال العامة حرمتها، وعلى الدولة حمايتها، وعلى المواطنين والمقيمين المحافظة عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة عشرة",
+      "text_verbatim": "الملكية، ورأس المال، والعمل، مقومات أساسية في الكيان الاقتصادي والاجتماعي للمملكة. وهي حقوق خاصة تؤدي وظيفة اجتماعية، وفق الشريعة الإسلامية.",
+      "text_for_index": "الملكية، ورأس المال، والعمل، مقومات أساسية في الكيان الاقتصادي والاجتماعي للمملكة. وهي حقوق خاصة تؤدي وظيفة اجتماعية، وفق الشريعة الإسلامية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "الملكية، ورأس المال، والعمل، مقومات أساسية في الكيان الاقتصادي والاجتماعي للمملكة. وهي حقوق خاصة تؤدي وظيفة اجتماعية، وفق الشريعة الإسلامية.",
+          "text_for_index": "الملكية، ورأس المال، والعمل، مقومات أساسية في الكيان الاقتصادي والاجتماعي للمملكة. وهي حقوق خاصة تؤدي وظيفة اجتماعية، وفق الشريعة الإسلامية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة عشرة",
+      "text_verbatim": "تكفل  الدولة    حرية  الملكية الخاصة    وحرمتها، ولا ينزع من أحد ملكه إلا  للمصلحة العامة    على أن يعوض  المالك    تعويضا عادلا.",
+      "text_for_index": "تكفل الدولة حرية الملكية الخاصة وحرمتها، ولا ينزع من أحد ملكه إلا للمصلحة العامة على أن يعوض المالك تعويضا عادلا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "استثناء"
+          ],
+          "text_verbatim": "تكفل  الدولة    حرية  الملكية الخاصة    وحرمتها، ولا ينزع من أحد ملكه إلا  للمصلحة العامة    على أن يعوض  المالك    تعويضا عادلا.",
+          "text_for_index": "تكفل الدولة حرية الملكية الخاصة وحرمتها، ولا ينزع من أحد ملكه إلا للمصلحة العامة على أن يعوض المالك تعويضا عادلا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة عشرة",
+      "text_verbatim": "تحظر المصادرة العامة للأموال، ولا تكون عقوبة المصادرة الخاصة إلا بحكم قضائي.",
+      "text_for_index": "تحظر المصادرة العامة للأموال، ولا تكون عقوبة المصادرة الخاصة إلا بحكم قضائي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "تحظر المصادرة العامة للأموال، ولا تكون عقوبة المصادرة الخاصة إلا بحكم قضائي.",
+          "text_for_index": "تحظر المصادرة العامة للأموال، ولا تكون عقوبة المصادرة الخاصة إلا بحكم قضائي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة العشرون",
+      "text_verbatim": "لا تفرض الضرائب والرسوم إلا عند الحاجة، وعلى أساس من العدل، ولا يجوز فرضها، أو تعديلها، أو إلغاؤها، أو الإعفاء منها إلا بموجب النظام.",
+      "text_for_index": "لا تفرض الضرائب والرسوم إلا عند الحاجة، وعلى أساس من العدل، ولا يجوز فرضها، أو تعديلها، أو إلغاؤها، أو الإعفاء منها إلا بموجب النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "لا تفرض الضرائب والرسوم إلا عند الحاجة، وعلى أساس من العدل، ولا يجوز فرضها، أو تعديلها، أو إلغاؤها، أو الإعفاء منها إلا بموجب النظام.",
+          "text_for_index": "لا تفرض الضرائب والرسوم إلا عند الحاجة، وعلى أساس من العدل، ولا يجوز فرضها، أو تعديلها، أو إلغاؤها، أو الإعفاء منها إلا بموجب النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والعشرون",
+      "text_verbatim": "تجبى الزكاة وتنفق في مصارفها الشرعية.",
+      "text_for_index": "تجبى الزكاة وتنفق في مصارفها الشرعية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تجبى الزكاة وتنفق في مصارفها الشرعية.",
+          "text_for_index": "تجبى الزكاة وتنفق في مصارفها الشرعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والعشرون",
+      "text_verbatim": "يتم تحقيق التنمية الاقتصادية والاجتماعية، وفق خطة علمية عادلة.",
+      "text_for_index": "يتم تحقيق التنمية الاقتصادية والاجتماعية، وفق خطة علمية عادلة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يتم تحقيق التنمية الاقتصادية والاجتماعية، وفق خطة علمية عادلة.",
+          "text_for_index": "يتم تحقيق التنمية الاقتصادية والاجتماعية، وفق خطة علمية عادلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والعشرون",
+      "text_verbatim": "تحمي الدولة عقيدة الإسلام، وتطبق شريعته، وتأمر بالمعروف وتنهى عن المنكر، وتقوم بواجب الدعوة إلى الله.",
+      "text_for_index": "تحمي الدولة عقيدة الإسلام، وتطبق شريعته، وتأمر بالمعروف وتنهى عن المنكر، وتقوم بواجب الدعوة إلى الله.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحمي الدولة عقيدة الإسلام، وتطبق شريعته، وتأمر بالمعروف وتنهى عن المنكر، وتقوم بواجب الدعوة إلى الله.",
+          "text_for_index": "تحمي الدولة عقيدة الإسلام، وتطبق شريعته، وتأمر بالمعروف وتنهى عن المنكر، وتقوم بواجب الدعوة إلى الله.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة والعشرون",
+      "text_verbatim": "تقوم الدولة بإعمار الحرمين الشريفين وخدمتهما، وتوفر الأمن والرعاية لقاصديهما، بما يمكن من أداء الحج والعمرة والزيارة بيسر وطمأنينة.",
+      "text_for_index": "تقوم الدولة بإعمار الحرمين الشريفين وخدمتهما، وتوفر الأمن والرعاية لقاصديهما، بما يمكن من أداء الحج والعمرة والزيارة بيسر وطمأنينة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقوم الدولة بإعمار الحرمين الشريفين وخدمتهما، وتوفر الأمن والرعاية لقاصديهما، بما يمكن من أداء الحج والعمرة والزيارة بيسر وطمأنينة.",
+          "text_for_index": "تقوم الدولة بإعمار الحرمين الشريفين وخدمتهما، وتوفر الأمن والرعاية لقاصديهما، بما يمكن من أداء الحج والعمرة والزيارة بيسر وطمأنينة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة والعشرون",
+      "text_verbatim": "تحرص الدولة على تحقيق آمال الأمة العربية والإسلامية في التضامن وتوحيد الكلمة، وعلى تقوية علاقاتها بالدول الصديقة.",
+      "text_for_index": "تحرص الدولة على تحقيق آمال الأمة العربية والإسلامية في التضامن وتوحيد الكلمة، وعلى تقوية علاقاتها بالدول الصديقة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحرص الدولة على تحقيق آمال الأمة العربية والإسلامية في التضامن وتوحيد الكلمة، وعلى تقوية علاقاتها بالدول الصديقة.",
+          "text_for_index": "تحرص الدولة على تحقيق آمال الأمة العربية والإسلامية في التضامن وتوحيد الكلمة، وعلى تقوية علاقاتها بالدول الصديقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة والعشرون",
+      "text_verbatim": "تحمي الدولة حقوق الإنسان، وفق الشريعة الإسلامية.",
+      "text_for_index": "تحمي الدولة حقوق الإنسان، وفق الشريعة الإسلامية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تحمي الدولة حقوق الإنسان، وفق الشريعة الإسلامية.",
+          "text_for_index": "تحمي الدولة حقوق الإنسان، وفق الشريعة الإسلامية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة والعشرون",
+      "text_verbatim": "تكفل الدولة حق المواطن وأسرته، في حالة الطوارئ، والمرض، والعجز، والشيخوخة، وتدعم نظام الضمان الاجتماعي، وتشجع المؤسسات والأفراد على الإسهام في الأعمال الخيرية.",
+      "text_for_index": "تكفل الدولة حق المواطن وأسرته، في حالة الطوارئ، والمرض، والعجز، والشيخوخة، وتدعم نظام الضمان الاجتماعي، وتشجع المؤسسات والأفراد على الإسهام في الأعمال الخيرية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تكفل الدولة حق المواطن وأسرته، في حالة الطوارئ، والمرض، والعجز، والشيخوخة، وتدعم نظام الضمان الاجتماعي، وتشجع المؤسسات والأفراد على الإسهام في الأعمال الخيرية.",
+          "text_for_index": "تكفل الدولة حق المواطن وأسرته، في حالة الطوارئ، والمرض، والعجز، والشيخوخة، وتدعم نظام الضمان الاجتماعي، وتشجع المؤسسات والأفراد على الإسهام في الأعمال الخيرية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة والعشرون",
+      "text_verbatim": "تيسر الدولة مجالات العمل لكل قادر عليه، وتسن الأنظمة التي تحمي العامل وصاحب العمل.",
+      "text_for_index": "تيسر الدولة مجالات العمل لكل قادر عليه، وتسن الأنظمة التي تحمي العامل وصاحب العمل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تيسر الدولة مجالات العمل لكل قادر عليه، وتسن الأنظمة التي تحمي العامل وصاحب العمل.",
+          "text_for_index": "تيسر الدولة مجالات العمل لكل قادر عليه، وتسن الأنظمة التي تحمي العامل وصاحب العمل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة والعشرون",
+      "text_verbatim": "ترعى الدولة العلوم والآداب والثقافة، وتعنى بتشجيع البحث العلمي، وتصون التراث الإسلامي والعربي، وتسهم في الحضارة العربية والإسلامية والإنسانية.",
+      "text_for_index": "ترعى الدولة العلوم والآداب والثقافة، وتعنى بتشجيع البحث العلمي، وتصون التراث الإسلامي والعربي، وتسهم في الحضارة العربية والإسلامية والإنسانية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ترعى الدولة العلوم والآداب والثقافة، وتعنى بتشجيع البحث العلمي، وتصون التراث الإسلامي والعربي، وتسهم في الحضارة العربية والإسلامية والإنسانية.",
+          "text_for_index": "ترعى الدولة العلوم والآداب والثقافة، وتعنى بتشجيع البحث العلمي، وتصون التراث الإسلامي والعربي، وتسهم في الحضارة العربية والإسلامية والإنسانية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "التزام"
+      ],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثلاثون",
+      "text_verbatim": "توفر الدولة التعليم العام، وتلتزم بمكافحة الأمية.",
+      "text_for_index": "توفر الدولة التعليم العام، وتلتزم بمكافحة الأمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "التزام"
+          ],
+          "text_verbatim": "توفر الدولة التعليم العام، وتلتزم بمكافحة الأمية.",
+          "text_for_index": "توفر الدولة التعليم العام، وتلتزم بمكافحة الأمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والثلاثون",
+      "text_verbatim": "تعنى الدولة بالصحة العامة، وتوفر الرعاية الصحية لكل مواطن.",
+      "text_for_index": "تعنى الدولة بالصحة العامة، وتوفر الرعاية الصحية لكل مواطن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعنى الدولة بالصحة العامة، وتوفر الرعاية الصحية لكل مواطن.",
+          "text_for_index": "تعنى الدولة بالصحة العامة، وتوفر الرعاية الصحية لكل مواطن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والثلاثون",
+      "text_verbatim": "تعمل الدولة على المحافظة على البيئة وحمايتها وتطويرها ومنع التلوث عنها.",
+      "text_for_index": "تعمل الدولة على المحافظة على البيئة وحمايتها وتطويرها ومنع التلوث عنها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تعمل الدولة على المحافظة على البيئة وحمايتها وتطويرها ومنع التلوث عنها.",
+          "text_for_index": "تعمل الدولة على المحافظة على البيئة وحمايتها وتطويرها ومنع التلوث عنها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والثلاثون",
+      "text_verbatim": "تنشئ الدولة القوات المسلحة، وتجهزها من أجل الدفاع عن العقيدة، والحرمين الشريفين، والمجتمع، والوطن.",
+      "text_for_index": "تنشئ الدولة القوات المسلحة، وتجهزها من أجل الدفاع عن العقيدة، والحرمين الشريفين، والمجتمع، والوطن.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنشئ الدولة القوات المسلحة، وتجهزها من أجل الدفاع عن العقيدة، والحرمين الشريفين، والمجتمع، والوطن.",
+          "text_for_index": "تنشئ الدولة القوات المسلحة، وتجهزها من أجل الدفاع عن العقيدة، والحرمين الشريفين، والمجتمع، والوطن.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة والثلاثون",
+      "text_verbatim": "الدفاع عن العقيدة    الإسلامية،  والمجتمع   ،  والوطن    واجب على كل مواطن، ويبين  النظام    أحكام الخدمة العسكرية.",
+      "text_for_index": "الدفاع عن العقيدة الإسلامية، والمجتمع ، والوطن واجب على كل مواطن، ويبين النظام أحكام الخدمة العسكرية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "الدفاع عن العقيدة    الإسلامية،  والمجتمع   ،  والوطن    واجب على كل مواطن، ويبين  النظام    أحكام الخدمة العسكرية.",
+          "text_for_index": "الدفاع عن العقيدة الإسلامية، والمجتمع ، والوطن واجب على كل مواطن، ويبين النظام أحكام الخدمة العسكرية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة والثلاثون",
+      "text_verbatim": "يبين  النظام    أحكام الجنسية العربية السعودية.",
+      "text_for_index": "يبين النظام أحكام الجنسية العربية السعودية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يبين  النظام    أحكام الجنسية العربية السعودية.",
+          "text_for_index": "يبين النظام أحكام الجنسية العربية السعودية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة والثلاثون",
+      "text_verbatim": "توفر  الدولة    الأمن لجميع مواطنيها والمقيمين على إقليمها، ولا يجوز تقييد تصرفات أحد، أو توقيفه، أو حبسه، إلا بموجب  أحكام النظام   .",
+      "text_for_index": "توفر الدولة الأمن لجميع مواطنيها والمقيمين على إقليمها، ولا يجوز تقييد تصرفات أحد، أو توقيفه، أو حبسه، إلا بموجب أحكام النظام .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "توفر  الدولة    الأمن لجميع مواطنيها والمقيمين على إقليمها، ولا يجوز تقييد تصرفات أحد، أو توقيفه، أو حبسه، إلا بموجب  أحكام النظام   .",
+          "text_for_index": "توفر الدولة الأمن لجميع مواطنيها والمقيمين على إقليمها، ولا يجوز تقييد تصرفات أحد، أو توقيفه، أو حبسه، إلا بموجب أحكام النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة والثلاثون",
+      "text_verbatim": "للمساكن حرمتها، ولا يجوز دخولها بغير إذن صاحبها، ولا تفتيشها، إلا في الحالات التي يبينها النظام.",
+      "text_for_index": "للمساكن حرمتها، ولا يجوز دخولها بغير إذن صاحبها، ولا تفتيشها، إلا في الحالات التي يبينها النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "للمساكن حرمتها، ولا يجوز دخولها بغير إذن صاحبها، ولا تفتيشها، إلا في الحالات التي يبينها النظام.",
+          "text_for_index": "للمساكن حرمتها، ولا يجوز دخولها بغير إذن صاحبها، ولا تفتيشها، إلا في الحالات التي يبينها النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة والثلاثون",
+      "text_verbatim": "العقوبة شخصية، ولا جريمة ولا عقوبة إلا بناء على نص شرعي، أو نص نظامي، ولا عقاب إلا على الأعمال اللاحقة للعمل بالنص النظامي.",
+      "text_for_index": "العقوبة شخصية، ولا جريمة ولا عقوبة إلا بناء على نص شرعي، أو نص نظامي، ولا عقاب إلا على الأعمال اللاحقة للعمل بالنص النظامي.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء"
+          ],
+          "text_verbatim": "العقوبة شخصية، ولا جريمة ولا عقوبة إلا بناء على نص شرعي، أو نص نظامي، ولا عقاب إلا على الأعمال اللاحقة للعمل بالنص النظامي.",
+          "text_for_index": "العقوبة شخصية، ولا جريمة ولا عقوبة إلا بناء على نص شرعي، أو نص نظامي، ولا عقاب إلا على الأعمال اللاحقة للعمل بالنص النظامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة والثلاثون",
+      "text_verbatim": "تلتزم وسائل الإعلام والنشر وجميع وسائل التعبير بالكلمة الطيبة، وبأنظمة الدولة، وتسهم في تثقيف الأمة ودعم وحدتها، ويحظر ما يؤدي إلى الفتنة، أو الانقسام، أو يمس بأمن الدولة وعلاقاتها العامة، أو يسيء إلى كرامة الإنسان وحقوقه، وتبين الأنظمة كيفية ذلك.",
+      "text_for_index": "تلتزم وسائل الإعلام والنشر وجميع وسائل التعبير بالكلمة الطيبة، وبأنظمة الدولة، وتسهم في تثقيف الأمة ودعم وحدتها، ويحظر ما يؤدي إلى الفتنة، أو الانقسام، أو يمس بأمن الدولة وعلاقاتها العامة، أو يسيء إلى كرامة الإنسان وحقوقه، وتبين الأنظمة كيفية ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "تلتزم وسائل الإعلام والنشر وجميع وسائل التعبير بالكلمة الطيبة، وبأنظمة الدولة، وتسهم في تثقيف الأمة ودعم وحدتها، ويحظر ما يؤدي إلى الفتنة، أو الانقسام، أو يمس بأمن الدولة وعلاقاتها العامة، أو يسيء إلى كرامة الإنسان وحقوقه، وتبين الأنظمة كيفية ذلك.",
+          "text_for_index": "تلتزم وسائل الإعلام والنشر وجميع وسائل التعبير بالكلمة الطيبة، وبأنظمة الدولة، وتسهم في تثقيف الأمة ودعم وحدتها، ويحظر ما يؤدي إلى الفتنة، أو الانقسام، أو يمس بأمن الدولة وعلاقاتها العامة، أو يسيء إلى كرامة الإنسان وحقوقه، وتبين الأنظمة كيفية ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون",
+      "article_heading": "الأربعون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الأربعون",
+      "text_verbatim": "المراسلات البرقية، والبريدية، والمخابرات الهاتفية، وغيرها من وسائل الاتصال، مصونة، ولا يجوز مصادرتها، أو تأخيرها، أو الاطلاع عليها، أو الاستماع إليها، إلا في الحالات التي يبينها النظام.",
+      "text_for_index": "المراسلات البرقية، والبريدية، والمخابرات الهاتفية، وغيرها من وسائل الاتصال، مصونة، ولا يجوز مصادرتها، أو تأخيرها، أو الاطلاع عليها، أو الاستماع إليها، إلا في الحالات التي يبينها النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "المراسلات البرقية، والبريدية، والمخابرات الهاتفية، وغيرها من وسائل الاتصال، مصونة، ولا يجوز مصادرتها، أو تأخيرها، أو الاطلاع عليها، أو الاستماع إليها، إلا في الحالات التي يبينها النظام.",
+          "text_for_index": "المراسلات البرقية، والبريدية، والمخابرات الهاتفية، وغيرها من وسائل الاتصال، مصونة، ولا يجوز مصادرتها، أو تأخيرها، أو الاطلاع عليها، أو الاستماع إليها، إلا في الحالات التي يبينها النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والأربعون",
+      "text_verbatim": "يلتزم المقيمون في      المملكة  العربية السعودية    بأنظمتها، وعليهم مراعاة قيم  المجتمع السعودي    واحترام تقاليده ومشاعره.",
+      "text_for_index": "يلتزم المقيمون في المملكة العربية السعودية بأنظمتها، وعليهم مراعاة قيم المجتمع السعودي واحترام تقاليده ومشاعره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يلتزم المقيمون في      المملكة  العربية السعودية    بأنظمتها، وعليهم مراعاة قيم  المجتمع السعودي    واحترام تقاليده ومشاعره.",
+          "text_for_index": "يلتزم المقيمون في المملكة العربية السعودية بأنظمتها، وعليهم مراعاة قيم المجتمع السعودي واحترام تقاليده ومشاعره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والأربعون",
+      "text_verbatim": "تمنح  الدولة    حق  اللجوء السياسي    إذا اقتضت  المصلحة العامة    ذلك، وتحدد  الأنظمة     والاتفاقيات الدولية    قواعد وإجراءات تسليم المجرمين العاديين.",
+      "text_for_index": "تمنح الدولة حق اللجوء السياسي إذا اقتضت المصلحة العامة ذلك، وتحدد الأنظمة والاتفاقيات الدولية قواعد وإجراءات تسليم المجرمين العاديين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "تمنح  الدولة    حق  اللجوء السياسي    إذا اقتضت  المصلحة العامة    ذلك، وتحدد  الأنظمة     والاتفاقيات الدولية    قواعد وإجراءات تسليم المجرمين العاديين.",
+          "text_for_index": "تمنح الدولة حق اللجوء السياسي إذا اقتضت المصلحة العامة ذلك، وتحدد الأنظمة والاتفاقيات الدولية قواعد وإجراءات تسليم المجرمين العاديين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والأربعون",
+      "text_verbatim": "مجلس الملك ومجلس ولي العهد، مفتوحان لكل مواطن، ولكل من له شكوى أو مظلمة، ومن حق كل فرد مخاطبة السلطات العامة فيما يعرض له من الشئون.",
+      "text_for_index": "مجلس الملك ومجلس ولي العهد، مفتوحان لكل مواطن، ولكل من له شكوى أو مظلمة، ومن حق كل فرد مخاطبة السلطات العامة فيما يعرض له من الشئون.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "مجلس الملك ومجلس ولي العهد، مفتوحان لكل مواطن، ولكل من له شكوى أو مظلمة، ومن حق كل فرد مخاطبة السلطات العامة فيما يعرض له من الشئون.",
+          "text_for_index": "مجلس الملك ومجلس ولي العهد، مفتوحان لكل مواطن، ولكل من له شكوى أو مظلمة، ومن حق كل فرد مخاطبة السلطات العامة فيما يعرض له من الشئون.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة والأربعون",
+      "text_verbatim": "تتكون السلطات في الدولة من :\n- السلطة القضائية.\n- السلطة التنفيذية.\n- السلطة التنظيمية.\nوتتعاون هذه السلطات في أداء وظائفها، وفقا لهذا النظام وغيره من الأنظمة، والملك هو مرجع هذه السلطات.",
+      "text_for_index": "تتكون السلطات في الدولة من :\n- السلطة القضائية.\n- السلطة التنفيذية.\n- السلطة التنظيمية.\nوتتعاون هذه السلطات في أداء وظائفها، وفقا لهذا النظام وغيره من الأنظمة، والملك هو مرجع هذه السلطات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تتكون السلطات في الدولة من :\n- السلطة القضائية.\n- السلطة التنفيذية.\n- السلطة التنظيمية.\nوتتعاون هذه السلطات في أداء وظائفها، وفقا لهذا النظام وغيره من الأنظمة، والملك هو مرجع هذه السلطات.",
+          "text_for_index": "تتكون السلطات في الدولة من :\n- السلطة القضائية.\n- السلطة التنفيذية.\n- السلطة التنظيمية.\nوتتعاون هذه السلطات في أداء وظائفها، وفقا لهذا النظام وغيره من الأنظمة، والملك هو مرجع هذه السلطات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة والأربعون",
+      "text_verbatim": "مصدر الإفتاء في المملكة العربية السعودية ، كتاب الله تعالى، وسنة رسوله صلى الله عليه وسلم، ويبين النظام ترتيب هيئة كبار العلماء وإدارة البحوث العلمية والإفتاء واختصاصاتها.",
+      "text_for_index": "مصدر الإفتاء في المملكة العربية السعودية ، كتاب الله تعالى، وسنة رسوله صلى الله عليه وسلم، ويبين النظام ترتيب هيئة كبار العلماء وإدارة البحوث العلمية والإفتاء واختصاصاتها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مصدر الإفتاء في المملكة العربية السعودية ، كتاب الله تعالى، وسنة رسوله صلى الله عليه وسلم، ويبين النظام ترتيب هيئة كبار العلماء وإدارة البحوث العلمية والإفتاء واختصاصاتها.",
+          "text_for_index": "مصدر الإفتاء في المملكة العربية السعودية ، كتاب الله تعالى، وسنة رسوله صلى الله عليه وسلم، ويبين النظام ترتيب هيئة كبار العلماء وإدارة البحوث العلمية والإفتاء واختصاصاتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة والأربعون",
+      "text_verbatim": "القضاء     سلطة مستقلة، ولا سلطان على  القضاة    في قضائهم لغير سلطان   الشريعة الإسلامية    .",
+      "text_for_index": "القضاء سلطة مستقلة، ولا سلطان على القضاة في قضائهم لغير سلطان الشريعة الإسلامية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "القضاء     سلطة مستقلة، ولا سلطان على  القضاة    في قضائهم لغير سلطان   الشريعة الإسلامية    .",
+          "text_for_index": "القضاء سلطة مستقلة، ولا سلطان على القضاة في قضائهم لغير سلطان الشريعة الإسلامية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة والأربعون",
+      "text_verbatim": "حق التقاضي مكفول بالتساوي للمواطنين والمقيمين في   المملكة   ، ويبين  النظام    الإجراءات اللازمة لذلك.",
+      "text_for_index": "حق التقاضي مكفول بالتساوي للمواطنين والمقيمين في المملكة ، ويبين النظام الإجراءات اللازمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "حق التقاضي مكفول بالتساوي للمواطنين والمقيمين في   المملكة   ، ويبين  النظام    الإجراءات اللازمة لذلك.",
+          "text_for_index": "حق التقاضي مكفول بالتساوي للمواطنين والمقيمين في المملكة ، ويبين النظام الإجراءات اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 48,
+      "article_label": "الثامنة والأربعون",
+      "article_label_raw": "الثامنة والأربعون",
+      "article_heading": "الثامنة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة والأربعون",
+      "text_verbatim": "تطبق  المحاكم    على القضايا المعروضة أمامها أحكام  الشريعة الإسلامية   ، وفقا لما دل عليه الكتاب والسنة، وما يصدره  ولي الأمر    من أنظمة لا تتعارض مع الكتاب والسنة.",
+      "text_for_index": "تطبق المحاكم على القضايا المعروضة أمامها أحكام الشريعة الإسلامية ، وفقا لما دل عليه الكتاب والسنة، وما يصدره ولي الأمر من أنظمة لا تتعارض مع الكتاب والسنة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-48::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تطبق  المحاكم    على القضايا المعروضة أمامها أحكام  الشريعة الإسلامية   ، وفقا لما دل عليه الكتاب والسنة، وما يصدره  ولي الأمر    من أنظمة لا تتعارض مع الكتاب والسنة.",
+          "text_for_index": "تطبق المحاكم على القضايا المعروضة أمامها أحكام الشريعة الإسلامية ، وفقا لما دل عليه الكتاب والسنة، وما يصدره ولي الأمر من أنظمة لا تتعارض مع الكتاب والسنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 49,
+      "article_label": "التاسعة والأربعون",
+      "article_label_raw": "التاسعة والأربعون",
+      "article_heading": "التاسعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة والأربعون",
+      "text_verbatim": "مع مراعاة ما ورد في المادة الثالثة والخمسين من هذا النظام، تختص  المحاكم    في الفصل في جميع المنازعات والجرائم.",
+      "text_for_index": "مع مراعاة ما ورد في المادة الثالثة والخمسين من هذا النظام، تختص المحاكم في الفصل في جميع المنازعات والجرائم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-49::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "مع مراعاة ما ورد في المادة الثالثة والخمسين من هذا النظام، تختص  المحاكم    في الفصل في جميع المنازعات والجرائم.",
+          "text_for_index": "مع مراعاة ما ورد في المادة الثالثة والخمسين من هذا النظام، تختص المحاكم في الفصل في جميع المنازعات والجرائم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 50,
+      "article_label": "الخمسون",
+      "article_label_raw": "الخمسون",
+      "article_heading": "الخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخمسون",
+      "text_verbatim": "الملك    أو من ينيبه معنيون بتنفيذ الأحكام القضائية.",
+      "text_for_index": "الملك أو من ينيبه معنيون بتنفيذ الأحكام القضائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-50::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "الملك    أو من ينيبه معنيون بتنفيذ الأحكام القضائية.",
+          "text_for_index": "الملك أو من ينيبه معنيون بتنفيذ الأحكام القضائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 51,
+      "article_label": "الحادية والخمسون",
+      "article_label_raw": "الحادية والخمسون",
+      "article_heading": "الحادية والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والخمسون",
+      "text_verbatim": "يبين  النظام    تكوين      المجلس الأعلى للقضاء      واختصاصاته، كما يبين ترتيب  المحاكم    واختصاصاتها.",
+      "text_for_index": "يبين النظام تكوين المجلس الأعلى للقضاء واختصاصاته، كما يبين ترتيب المحاكم واختصاصاتها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-51::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يبين  النظام    تكوين      المجلس الأعلى للقضاء      واختصاصاته، كما يبين ترتيب  المحاكم    واختصاصاتها.",
+          "text_for_index": "يبين النظام تكوين المجلس الأعلى للقضاء واختصاصاته، كما يبين ترتيب المحاكم واختصاصاتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 52,
+      "article_label": "الثانية والخمسون",
+      "article_label_raw": "الثانية والخمسون",
+      "article_heading": "الثانية والخمسون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والخمسون",
+      "text_verbatim": "يتم تعيين  القضاة    وإنهاء خدمتهم   بأمر ملكي    ، بناء على اقتراح من   المجلس الأعلى للقضاء    ، وفقا لما يبينه النظام.",
+      "text_for_index": "يتم تعيين القضاة وإنهاء خدمتهم بأمر ملكي ، بناء على اقتراح من المجلس الأعلى للقضاء ، وفقا لما يبينه النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-52::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يتم تعيين  القضاة    وإنهاء خدمتهم   بأمر ملكي    ، بناء على اقتراح من   المجلس الأعلى للقضاء    ، وفقا لما يبينه النظام.",
+          "text_for_index": "يتم تعيين القضاة وإنهاء خدمتهم بأمر ملكي ، بناء على اقتراح من المجلس الأعلى للقضاء ، وفقا لما يبينه النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 53,
+      "article_label": "الثالثة والخمسون",
+      "article_label_raw": "الثالثة والخمسون",
+      "article_heading": "الثالثة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والخمسون",
+      "text_verbatim": "يبين  النظام    ترتيب  ديوان المظالم    واختصاصاته.",
+      "text_for_index": "يبين النظام ترتيب ديوان المظالم واختصاصاته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-53::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يبين  النظام    ترتيب  ديوان المظالم    واختصاصاته.",
+          "text_for_index": "يبين النظام ترتيب ديوان المظالم واختصاصاته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 54,
+      "article_label": "الرابعة والخمسون",
+      "article_label_raw": "الرابعة والخمسون",
+      "article_heading": "الرابعة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة والخمسون",
+      "text_verbatim": "يبين  النظام    ارتباط  هيئة التحقيق والادعاء العام   ، وتنظيمها واختصاصاتها.",
+      "text_for_index": "يبين النظام ارتباط هيئة التحقيق والادعاء العام ، وتنظيمها واختصاصاتها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-54::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يبين  النظام    ارتباط  هيئة التحقيق والادعاء العام   ، وتنظيمها واختصاصاتها.",
+          "text_for_index": "يبين النظام ارتباط هيئة التحقيق والادعاء العام ، وتنظيمها واختصاصاتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 55,
+      "article_label": "الخامسة والخمسون",
+      "article_label_raw": "الخامسة والخمسون",
+      "article_heading": "الخامسة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة والخمسون",
+      "text_verbatim": "يقوم الملك بسياسة الأمة سياسة شرعية طبقا لأحكام الإسلام ، ويشرف على تطبيق الشريعة الإسلامية ، والأنظمة، والسياسة العامة للدولة ، وحماية البلاد والدفاع عنها.",
+      "text_for_index": "يقوم الملك بسياسة الأمة سياسة شرعية طبقا لأحكام الإسلام ، ويشرف على تطبيق الشريعة الإسلامية ، والأنظمة، والسياسة العامة للدولة ، وحماية البلاد والدفاع عنها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-55::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يقوم الملك بسياسة الأمة سياسة شرعية طبقا لأحكام الإسلام ، ويشرف على تطبيق الشريعة الإسلامية ، والأنظمة، والسياسة العامة للدولة ، وحماية البلاد والدفاع عنها.",
+          "text_for_index": "يقوم الملك بسياسة الأمة سياسة شرعية طبقا لأحكام الإسلام ، ويشرف على تطبيق الشريعة الإسلامية ، والأنظمة، والسياسة العامة للدولة ، وحماية البلاد والدفاع عنها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 56,
+      "article_label": "السادسة والخمسون",
+      "article_label_raw": "السادسة والخمسون",
+      "article_heading": "السادسة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة والخمسون",
+      "text_verbatim": "الملك    هو رئيس مجلس  الوزراء   ، ويعاونه في أداء مهامه أعضاء مجلس  الوزراء   ، وذلك وفقا لأحكام هذا  النظام    وغيره من الأنظمة، ويبين نظام  مجلس  الوزراء       صلاحيات المجلس فيما يتعلق  بالشئون الداخلية والخارجية   ، وتنظيم  الأجهزة الحكومية   ، والتنسيق بينها، كما يبين الشروط اللازم توافرها في  الوزراء   ، وصلاحياتهم، وأسلوب مساءلتهم، وكافة شئونهم، ويعدل نظام      مجلس الوزراء      واختصاصاته، وفقا لهذا النظام.",
+      "text_for_index": "الملك هو رئيس مجلس الوزراء ، ويعاونه في أداء مهامه أعضاء مجلس الوزراء ، وذلك وفقا لأحكام هذا النظام وغيره من الأنظمة، ويبين نظام مجلس الوزراء صلاحيات المجلس فيما يتعلق بالشئون الداخلية والخارجية ، وتنظيم الأجهزة الحكومية ، والتنسيق بينها، كما يبين الشروط اللازم توافرها في الوزراء ، وصلاحياتهم، وأسلوب مساءلتهم، وكافة شئونهم، ويعدل نظام مجلس الوزراء واختصاصاته، وفقا لهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-56::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "الملك    هو رئيس مجلس  الوزراء   ، ويعاونه في أداء مهامه أعضاء مجلس  الوزراء   ، وذلك وفقا لأحكام هذا  النظام    وغيره من الأنظمة، ويبين نظام  مجلس  الوزراء       صلاحيات المجلس فيما يتعلق  بالشئون الداخلية والخارجية   ، وتنظيم  الأجهزة الحكومية   ، والتنسيق بينها، كما يبين الشروط اللازم توافرها في  الوزراء   ، وصلاحياتهم، وأسلوب مساءلتهم، وكافة شئونهم، ويعدل نظام      مجلس الوزراء      واختصاصاته، وفقا لهذا النظام.",
+          "text_for_index": "الملك هو رئيس مجلس الوزراء ، ويعاونه في أداء مهامه أعضاء مجلس الوزراء ، وذلك وفقا لأحكام هذا النظام وغيره من الأنظمة، ويبين نظام مجلس الوزراء صلاحيات المجلس فيما يتعلق بالشئون الداخلية والخارجية ، وتنظيم الأجهزة الحكومية ، والتنسيق بينها، كما يبين الشروط اللازم توافرها في الوزراء ، وصلاحياتهم، وأسلوب مساءلتهم، وكافة شئونهم، ويعدل نظام مجلس الوزراء واختصاصاته، وفقا لهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 57,
+      "article_label": "السابعة والخمسون",
+      "article_label_raw": "السابعة والخمسون",
+      "article_heading": "السابعة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة والخمسون",
+      "text_verbatim": "أ - يعين  الملك     نواب رئيس  مجلس الوزراء        و  الوزراء    الأعضاء  بمجلس الوزراء   ، ويعفيهم  بأمر ملكي   .\nب - يعتبر نواب رئيس مجلس  الوزراء   ، و  الوزراء    الأعضاء     بمجلس الوزراء     ، مسئولين بالتضامن أمام  الملك    عن تطبيق  الشريعة الإسلامية   ، والأنظمة، و  السياسة العامة للدولة   .\nجـ  - للملك حل  مجلس الوزراء  وإعادة تكوينه.",
+      "text_for_index": "أ - يعين الملك نواب رئيس مجلس الوزراء و الوزراء الأعضاء بمجلس الوزراء ، ويعفيهم بأمر ملكي .\nب - يعتبر نواب رئيس مجلس الوزراء ، و الوزراء الأعضاء بمجلس الوزراء ، مسئولين بالتضامن أمام الملك عن تطبيق الشريعة الإسلامية ، والأنظمة، و السياسة العامة للدولة .\nجـ - للملك حل مجلس الوزراء وإعادة تكوينه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-57::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - يعين  الملك     نواب رئيس  مجلس الوزراء        و  الوزراء    الأعضاء  بمجلس الوزراء   ، ويعفيهم  بأمر ملكي   .\nب - يعتبر نواب رئيس مجلس  الوزراء   ، و  الوزراء    الأعضاء     بمجلس الوزراء     ، مسئولين بالتضامن أمام  الملك    عن تطبيق  الشريعة الإسلامية   ، والأنظمة، و  السياسة العامة للدولة   .\nجـ  - للملك حل  مجلس الوزراء  وإعادة تكوينه.",
+          "text_for_index": "أ - يعين الملك نواب رئيس مجلس الوزراء و الوزراء الأعضاء بمجلس الوزراء ، ويعفيهم بأمر ملكي .\nب - يعتبر نواب رئيس مجلس الوزراء ، و الوزراء الأعضاء بمجلس الوزراء ، مسئولين بالتضامن أمام الملك عن تطبيق الشريعة الإسلامية ، والأنظمة، و السياسة العامة للدولة .\nجـ - للملك حل مجلس الوزراء وإعادة تكوينه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 58,
+      "article_label": "الثامنة والخمسون",
+      "article_label_raw": "الثامنة والخمسون",
+      "article_heading": "الثامنة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة والخمسون",
+      "text_verbatim": "يعين  الملك    من في مرتبة  الوزراء    ونواب  الوزراء   ، ومن في  المرتبة الممتازة   ، ويعفيهم من مناصبهم  بأمر ملكي   ، وذلك وفقا لما يبينه النظام.\nويعتبر  الوزراء     ورؤساء المصالح    المستقلة، مسئولين أمام  رئيس مجلس الوزراء    عن الوزارات والمصالح التي يرأسونها.",
+      "text_for_index": "يعين الملك من في مرتبة الوزراء ونواب الوزراء ، ومن في المرتبة الممتازة ، ويعفيهم من مناصبهم بأمر ملكي ، وذلك وفقا لما يبينه النظام.\nويعتبر الوزراء ورؤساء المصالح المستقلة، مسئولين أمام رئيس مجلس الوزراء عن الوزارات والمصالح التي يرأسونها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-58::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعين  الملك    من في مرتبة  الوزراء    ونواب  الوزراء   ، ومن في  المرتبة الممتازة   ، ويعفيهم من مناصبهم  بأمر ملكي   ، وذلك وفقا لما يبينه النظام.\nويعتبر  الوزراء     ورؤساء المصالح    المستقلة، مسئولين أمام  رئيس مجلس الوزراء    عن الوزارات والمصالح التي يرأسونها.",
+          "text_for_index": "يعين الملك من في مرتبة الوزراء ونواب الوزراء ، ومن في المرتبة الممتازة ، ويعفيهم من مناصبهم بأمر ملكي ، وذلك وفقا لما يبينه النظام.\nويعتبر الوزراء ورؤساء المصالح المستقلة، مسئولين أمام رئيس مجلس الوزراء عن الوزارات والمصالح التي يرأسونها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 59,
+      "article_label": "التاسعة والخمسون",
+      "article_label_raw": "التاسعة والخمسون",
+      "article_heading": "التاسعة والخمسون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة والخمسون",
+      "text_verbatim": "يبين  النظام     أحكام الخدمة المدنية   ، بما في ذلك  المرتبات   ،  والمكافآت   ،  والتعويضات   ،  والمزايا   ،  والمعاشات التقاعدية   .",
+      "text_for_index": "يبين النظام أحكام الخدمة المدنية ، بما في ذلك المرتبات ، والمكافآت ، والتعويضات ، والمزايا ، والمعاشات التقاعدية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-59::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يبين  النظام     أحكام الخدمة المدنية   ، بما في ذلك  المرتبات   ،  والمكافآت   ،  والتعويضات   ،  والمزايا   ،  والمعاشات التقاعدية   .",
+          "text_for_index": "يبين النظام أحكام الخدمة المدنية ، بما في ذلك المرتبات ، والمكافآت ، والتعويضات ، والمزايا ، والمعاشات التقاعدية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 60,
+      "article_label": "الستون",
+      "article_label_raw": "الستون",
+      "article_heading": "الستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الستون",
+      "text_verbatim": "الملك    هو  القائد الأعلى    لكافة  القوات العسكرية   ، وهو الذي يعين  الضباط   ، وينهي خدماتهم، وفقا للنظام.",
+      "text_for_index": "الملك هو القائد الأعلى لكافة القوات العسكرية ، وهو الذي يعين الضباط ، وينهي خدماتهم، وفقا للنظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-60::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "الملك    هو  القائد الأعلى    لكافة  القوات العسكرية   ، وهو الذي يعين  الضباط   ، وينهي خدماتهم، وفقا للنظام.",
+          "text_for_index": "الملك هو القائد الأعلى لكافة القوات العسكرية ، وهو الذي يعين الضباط ، وينهي خدماتهم، وفقا للنظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 61,
+      "article_label": "الحادية والستون",
+      "article_label_raw": "الحادية والستون",
+      "article_heading": "الحادية والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والستون",
+      "text_verbatim": "يعلن  الملك     حالة الطوارئ   ،  والتعبئة العامة   ،  والحرب   ، ويبين  النظام    أحكام ذلك.",
+      "text_for_index": "يعلن الملك حالة الطوارئ ، والتعبئة العامة ، والحرب ، ويبين النظام أحكام ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-61::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعلن  الملك     حالة الطوارئ   ،  والتعبئة العامة   ،  والحرب   ، ويبين  النظام    أحكام ذلك.",
+          "text_for_index": "يعلن الملك حالة الطوارئ ، والتعبئة العامة ، والحرب ، ويبين النظام أحكام ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 62,
+      "article_label": "الثانية والستون",
+      "article_label_raw": "الثانية والستون",
+      "article_heading": "الثانية والستون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "product_safety"
+      ],
+      "topic_tags_ar": [
+        "سلامة المنتجات"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والستون",
+      "text_verbatim": "للملك إذا نشأ خطر يهدد سلامة   المملكة   ، أو وحدة أراضيها، أو أمن شعبها ومصالحه، أو يعوق   مؤسسات الدولة    عن أداء مهامها، أن يتخذ من الإجراءات السريعة ما يكفل مواجهة هذا الخطر. وإذا رأى  الملك    أن يكون لهذه الإجراءات صفة الاستمرار فيتخذ بشأنها ما يلزم نظاما.",
+      "text_for_index": "للملك إذا نشأ خطر يهدد سلامة المملكة ، أو وحدة أراضيها، أو أمن شعبها ومصالحه، أو يعوق مؤسسات الدولة عن أداء مهامها، أن يتخذ من الإجراءات السريعة ما يكفل مواجهة هذا الخطر. وإذا رأى الملك أن يكون لهذه الإجراءات صفة الاستمرار فيتخذ بشأنها ما يلزم نظاما.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-62::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "للملك إذا نشأ خطر يهدد سلامة   المملكة   ، أو وحدة أراضيها، أو أمن شعبها ومصالحه، أو يعوق   مؤسسات الدولة    عن أداء مهامها، أن يتخذ من الإجراءات السريعة ما يكفل مواجهة هذا الخطر. وإذا رأى  الملك    أن يكون لهذه الإجراءات صفة الاستمرار فيتخذ بشأنها ما يلزم نظاما.",
+          "text_for_index": "للملك إذا نشأ خطر يهدد سلامة المملكة ، أو وحدة أراضيها، أو أمن شعبها ومصالحه، أو يعوق مؤسسات الدولة عن أداء مهامها، أن يتخذ من الإجراءات السريعة ما يكفل مواجهة هذا الخطر. وإذا رأى الملك أن يكون لهذه الإجراءات صفة الاستمرار فيتخذ بشأنها ما يلزم نظاما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 63,
+      "article_label": "الثالثة والستون",
+      "article_label_raw": "الثالثة والستون",
+      "article_heading": "الثالثة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والستون",
+      "text_verbatim": "يستقبل  الملك   ، ملوك الدول ورؤساءها، ويعين ممثليه لدى الدول، ويقبل اعتماد   ممثلي الدول    لديه.",
+      "text_for_index": "يستقبل الملك ، ملوك الدول ورؤساءها، ويعين ممثليه لدى الدول، ويقبل اعتماد ممثلي الدول لديه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-63::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يستقبل  الملك   ، ملوك الدول ورؤساءها، ويعين ممثليه لدى الدول، ويقبل اعتماد   ممثلي الدول    لديه.",
+          "text_for_index": "يستقبل الملك ، ملوك الدول ورؤساءها، ويعين ممثليه لدى الدول، ويقبل اعتماد ممثلي الدول لديه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 64,
+      "article_label": "الرابعة والستون",
+      "article_label_raw": "الرابعة والستون",
+      "article_heading": "الرابعة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة والستون",
+      "text_verbatim": "يمنح  الملك    الأوسمة، وذلك على الوجه المبين بالنظام.",
+      "text_for_index": "يمنح الملك الأوسمة، وذلك على الوجه المبين بالنظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-64::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يمنح  الملك    الأوسمة، وذلك على الوجه المبين بالنظام.",
+          "text_for_index": "يمنح الملك الأوسمة، وذلك على الوجه المبين بالنظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 65,
+      "article_label": "الخامسة والستون",
+      "article_label_raw": "الخامسة والستون",
+      "article_heading": "الخامسة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة والستون",
+      "text_verbatim": "للملك تفويض بعض الصلاحيات  لولي العهد     بأمر ملكي   .",
+      "text_for_index": "للملك تفويض بعض الصلاحيات لولي العهد بأمر ملكي .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-65::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للملك تفويض بعض الصلاحيات  لولي العهد     بأمر ملكي   .",
+          "text_for_index": "للملك تفويض بعض الصلاحيات لولي العهد بأمر ملكي .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 66,
+      "article_label": "السادسة والستون",
+      "article_label_raw": "السادسة والستون",
+      "article_heading": "السادسة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة والستون",
+      "text_verbatim": "يصدر  الملك    في حالة سفره إلى خارج   المملكة     أمرا ملكيا بإنابة  ولي العهد    في إدارة شئون الدولة، ورعاية مصالح الشعب، وذلك على الوجه المبين بالأمر  الملكي   .",
+      "text_for_index": "يصدر الملك في حالة سفره إلى خارج المملكة أمرا ملكيا بإنابة ولي العهد في إدارة شئون الدولة، ورعاية مصالح الشعب، وذلك على الوجه المبين بالأمر الملكي .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-66::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يصدر  الملك    في حالة سفره إلى خارج   المملكة     أمرا ملكيا بإنابة  ولي العهد    في إدارة شئون الدولة، ورعاية مصالح الشعب، وذلك على الوجه المبين بالأمر  الملكي   .",
+          "text_for_index": "يصدر الملك في حالة سفره إلى خارج المملكة أمرا ملكيا بإنابة ولي العهد في إدارة شئون الدولة، ورعاية مصالح الشعب، وذلك على الوجه المبين بالأمر الملكي .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 67,
+      "article_label": "السابعة والستون",
+      "article_label_raw": "السابعة والستون",
+      "article_heading": "السابعة والستون",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة والستون",
+      "text_verbatim": "تختص  السلطة التنظيمية    بوضع  الأنظمة    واللوائح، فيما يحقق المصلحة، أو يرفع المفسدة في شئون الدولة، وفقا لقواعد  الشريعة الإسلامية   ، وتمارس اختصاصاتها وفقا لهذا  النظام    ونظامي  مجلس  الوزراء       ومجلس الشورى.",
+      "text_for_index": "تختص السلطة التنظيمية بوضع الأنظمة واللوائح، فيما يحقق المصلحة، أو يرفع المفسدة في شئون الدولة، وفقا لقواعد الشريعة الإسلامية ، وتمارس اختصاصاتها وفقا لهذا النظام ونظامي مجلس الوزراء ومجلس الشورى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-67::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "تختص  السلطة التنظيمية    بوضع  الأنظمة    واللوائح، فيما يحقق المصلحة، أو يرفع المفسدة في شئون الدولة، وفقا لقواعد  الشريعة الإسلامية   ، وتمارس اختصاصاتها وفقا لهذا  النظام    ونظامي  مجلس  الوزراء       ومجلس الشورى.",
+          "text_for_index": "تختص السلطة التنظيمية بوضع الأنظمة واللوائح، فيما يحقق المصلحة، أو يرفع المفسدة في شئون الدولة، وفقا لقواعد الشريعة الإسلامية ، وتمارس اختصاصاتها وفقا لهذا النظام ونظامي مجلس الوزراء ومجلس الشورى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 68,
+      "article_label": "الثامنة والستون",
+      "article_label_raw": "الثامنة والستون",
+      "article_heading": "الثامنة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة والستون",
+      "text_verbatim": "ينشأ   مجلس للشورى   ، ويبين نظامه طريقة تكوينه، وكيفية ممارسته لاختصاصاته، واختيار أعضائه.\nوللملك حل   مجلس الشورى    وإعادة تكوينه.",
+      "text_for_index": "ينشأ مجلس للشورى ، ويبين نظامه طريقة تكوينه، وكيفية ممارسته لاختصاصاته، واختيار أعضائه.\nوللملك حل مجلس الشورى وإعادة تكوينه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-68::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشأ   مجلس للشورى   ، ويبين نظامه طريقة تكوينه، وكيفية ممارسته لاختصاصاته، واختيار أعضائه.\nوللملك حل   مجلس الشورى    وإعادة تكوينه.",
+          "text_for_index": "ينشأ مجلس للشورى ، ويبين نظامه طريقة تكوينه، وكيفية ممارسته لاختصاصاته، واختيار أعضائه.\nوللملك حل مجلس الشورى وإعادة تكوينه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 69,
+      "article_label": "التاسعة والستون",
+      "article_label_raw": "التاسعة والستون",
+      "article_heading": "التاسعة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة والستون",
+      "text_verbatim": "للملك أن يدعو   مجلس الشورى   ، ومجلس  الوزراء   ، إلى اجتماع مشترك، وله أن يدعو من يراه لحضور هذا الاجتماع لمناقشة ما يراه من أمور.",
+      "text_for_index": "للملك أن يدعو مجلس الشورى ، ومجلس الوزراء ، إلى اجتماع مشترك، وله أن يدعو من يراه لحضور هذا الاجتماع لمناقشة ما يراه من أمور.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-69::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للملك أن يدعو   مجلس الشورى   ، ومجلس  الوزراء   ، إلى اجتماع مشترك، وله أن يدعو من يراه لحضور هذا الاجتماع لمناقشة ما يراه من أمور.",
+          "text_for_index": "للملك أن يدعو مجلس الشورى ، ومجلس الوزراء ، إلى اجتماع مشترك، وله أن يدعو من يراه لحضور هذا الاجتماع لمناقشة ما يراه من أمور.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 70,
+      "article_label": "السبعون",
+      "article_label_raw": "السبعون",
+      "article_heading": "السبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السبعون",
+      "text_verbatim": "تصدر الأنظمة ، والمعاهدات ، والاتفاقيات الدولية ، والامتيازات ، ويتم تعديلها بموجب مراسيم ملكية .",
+      "text_for_index": "تصدر الأنظمة ، والمعاهدات ، والاتفاقيات الدولية ، والامتيازات ، ويتم تعديلها بموجب مراسيم ملكية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-70::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تصدر الأنظمة ، والمعاهدات ، والاتفاقيات الدولية ، والامتيازات ، ويتم تعديلها بموجب مراسيم ملكية .",
+          "text_for_index": "تصدر الأنظمة ، والمعاهدات ، والاتفاقيات الدولية ، والامتيازات ، ويتم تعديلها بموجب مراسيم ملكية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 71,
+      "article_label": "الحادية والسبعون",
+      "article_label_raw": "الحادية والسبعون",
+      "article_heading": "الحادية والسبعون",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والسبعون",
+      "text_verbatim": "تنشر   الأنظمة    في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها، ما لم ينص على تاريخ آخر.",
+      "text_for_index": "تنشر الأنظمة في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها، ما لم ينص على تاريخ آخر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-71::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "تنشر   الأنظمة    في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها، ما لم ينص على تاريخ آخر.",
+          "text_for_index": "تنشر الأنظمة في الجريدة الرسمية، وتكون نافذة المفعول من تاريخ نشرها، ما لم ينص على تاريخ آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 72,
+      "article_label": "الثانية والسبعون",
+      "article_label_raw": "الثانية والسبعون",
+      "article_heading": "الثانية والسبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والسبعون",
+      "text_verbatim": "أ - يبين  النظام    أحكام   إيرادات الدولة   ، وتسليمها إلى   الخزانة العامة    للدولة.\nب - يجري قيد   الإيرادات    وصرفها بموجب   الأصول المقررة    نظاما.",
+      "text_for_index": "أ - يبين النظام أحكام إيرادات الدولة ، وتسليمها إلى الخزانة العامة للدولة.\nب - يجري قيد الإيرادات وصرفها بموجب الأصول المقررة نظاما.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-72::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - يبين  النظام    أحكام   إيرادات الدولة   ، وتسليمها إلى   الخزانة العامة    للدولة.\nب - يجري قيد   الإيرادات    وصرفها بموجب   الأصول المقررة    نظاما.",
+          "text_for_index": "أ - يبين النظام أحكام إيرادات الدولة ، وتسليمها إلى الخزانة العامة للدولة.\nب - يجري قيد الإيرادات وصرفها بموجب الأصول المقررة نظاما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 73,
+      "article_label": "الثالثة والسبعون",
+      "article_label_raw": "الثالثة والسبعون",
+      "article_heading": "الثالثة والسبعون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والسبعون",
+      "text_verbatim": "لا يجوز الالتزام بدفع مال من   الخزانة العامة    إلا بمقتضى أحكام   الميزانية   ، فإن لم تتسع له   بنود الميزانية    وجب أن يكون بموجب   مرسوم ملكي   .",
+      "text_for_index": "لا يجوز الالتزام بدفع مال من الخزانة العامة إلا بمقتضى أحكام الميزانية ، فإن لم تتسع له بنود الميزانية وجب أن يكون بموجب مرسوم ملكي .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-73::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز الالتزام بدفع مال من   الخزانة العامة    إلا بمقتضى أحكام   الميزانية   ، فإن لم تتسع له   بنود الميزانية    وجب أن يكون بموجب   مرسوم ملكي   .",
+          "text_for_index": "لا يجوز الالتزام بدفع مال من الخزانة العامة إلا بمقتضى أحكام الميزانية ، فإن لم تتسع له بنود الميزانية وجب أن يكون بموجب مرسوم ملكي .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 74,
+      "article_label": "الرابعة والسبعون",
+      "article_label_raw": "الرابعة والسبعون",
+      "article_heading": "الرابعة والسبعون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الرابعة والسبعون",
+      "text_verbatim": "لا يجوز  بيع أموال الدولة   ، أو إيجارها، أو التصرف فيها، إلا بموجب  النظام   .",
+      "text_for_index": "لا يجوز بيع أموال الدولة ، أو إيجارها، أو التصرف فيها، إلا بموجب النظام .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-74::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز  بيع أموال الدولة   ، أو إيجارها، أو التصرف فيها، إلا بموجب  النظام   .",
+          "text_for_index": "لا يجوز بيع أموال الدولة ، أو إيجارها، أو التصرف فيها، إلا بموجب النظام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 75,
+      "article_label": "الخامسة والسبعون",
+      "article_label_raw": "الخامسة والسبعون",
+      "article_heading": "الخامسة والسبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الخامسة والسبعون",
+      "text_verbatim": "تبين   الأنظمة      أحكام النقد   ،   والمصارف   ،   والمقاييس   ،   والمكاييل   ،   والموازين   .",
+      "text_for_index": "تبين الأنظمة أحكام النقد ، والمصارف ، والمقاييس ، والمكاييل ، والموازين .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-75::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تبين   الأنظمة      أحكام النقد   ،   والمصارف   ،   والمقاييس   ،   والمكاييل   ،   والموازين   .",
+          "text_for_index": "تبين الأنظمة أحكام النقد ، والمصارف ، والمقاييس ، والمكاييل ، والموازين .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 76,
+      "article_label": "السادسة والسبعون",
+      "article_label_raw": "السادسة والسبعون",
+      "article_heading": "السادسة والسبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السادسة والسبعون",
+      "text_verbatim": "يحدد النظام السنة المالية للدولة، وتصدر الميزانية بموجب مرسوم ملكي ، وتشتمل على تقدير الإيرادات والمصروفات لتلك السنة، وذلك قبل بدء السنة المالية بشهر على الأقل، فإذا حالت أسباب اضطرارية دون صدورها وحلت السنة المالية الجديدة، وجب السير على ميزانية السنة السابقة حتى صدور الميزانية الجديدة.",
+      "text_for_index": "يحدد النظام السنة المالية للدولة، وتصدر الميزانية بموجب مرسوم ملكي ، وتشتمل على تقدير الإيرادات والمصروفات لتلك السنة، وذلك قبل بدء السنة المالية بشهر على الأقل، فإذا حالت أسباب اضطرارية دون صدورها وحلت السنة المالية الجديدة، وجب السير على ميزانية السنة السابقة حتى صدور الميزانية الجديدة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-76::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يحدد النظام السنة المالية للدولة، وتصدر الميزانية بموجب مرسوم ملكي ، وتشتمل على تقدير الإيرادات والمصروفات لتلك السنة، وذلك قبل بدء السنة المالية بشهر على الأقل، فإذا حالت أسباب اضطرارية دون صدورها وحلت السنة المالية الجديدة، وجب السير على ميزانية السنة السابقة حتى صدور الميزانية الجديدة.",
+          "text_for_index": "يحدد النظام السنة المالية للدولة، وتصدر الميزانية بموجب مرسوم ملكي ، وتشتمل على تقدير الإيرادات والمصروفات لتلك السنة، وذلك قبل بدء السنة المالية بشهر على الأقل، فإذا حالت أسباب اضطرارية دون صدورها وحلت السنة المالية الجديدة، وجب السير على ميزانية السنة السابقة حتى صدور الميزانية الجديدة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 77,
+      "article_label": "السابعة والسبعون",
+      "article_label_raw": "السابعة والسبعون",
+      "article_heading": "السابعة والسبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة السابعة والسبعون",
+      "text_verbatim": "تعد الجهة المختصة   الحساب الختامي    للدولة عن العام المالي المنقضي، وترفعه إلى   رئيس مجلس الوزراء    .",
+      "text_for_index": "تعد الجهة المختصة الحساب الختامي للدولة عن العام المالي المنقضي، وترفعه إلى رئيس مجلس الوزراء .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-77::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "اختصاص"
+          ],
+          "text_verbatim": "تعد الجهة المختصة   الحساب الختامي    للدولة عن العام المالي المنقضي، وترفعه إلى   رئيس مجلس الوزراء    .",
+          "text_for_index": "تعد الجهة المختصة الحساب الختامي للدولة عن العام المالي المنقضي، وترفعه إلى رئيس مجلس الوزراء .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 78,
+      "article_label": "الثامنة والسبعون",
+      "article_label_raw": "الثامنة والسبعون",
+      "article_heading": "الثامنة والسبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثامنة والسبعون",
+      "text_verbatim": "يجري على ميزانيات الأجهزة ذوات   الشخصية المعنوية العامة   ، وحساباتها الختامية، ما يجري على ميزانية  الدولة    وحسابها الختامي من أحكام.",
+      "text_for_index": "يجري على ميزانيات الأجهزة ذوات الشخصية المعنوية العامة ، وحساباتها الختامية، ما يجري على ميزانية الدولة وحسابها الختامي من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-78::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجري على ميزانيات الأجهزة ذوات   الشخصية المعنوية العامة   ، وحساباتها الختامية، ما يجري على ميزانية  الدولة    وحسابها الختامي من أحكام.",
+          "text_for_index": "يجري على ميزانيات الأجهزة ذوات الشخصية المعنوية العامة ، وحساباتها الختامية، ما يجري على ميزانية الدولة وحسابها الختامي من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 79,
+      "article_label": "التاسعة والسبعون",
+      "article_label_raw": "التاسعة والسبعون",
+      "article_heading": "التاسعة والسبعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة التاسعة والسبعون",
+      "text_verbatim": "تتم   الرقابة    اللاحقة على جميع   إيرادات الدولة    ومصروفاتها، و  الرقابة    على كافة   أموال الدولة المنقولة والثابتة   ، ويتم التأكد من حسن استعمال هذه الأموال والمحافظة عليها، ورفع   تقرير سنوي    عن ذلك إلى رئيس مجلس  الوزراء   .\nويبين  النظام    جهاز   الرقابة    المختص بذلك وارتباطه، واختصاصاته.",
+      "text_for_index": "تتم الرقابة اللاحقة على جميع إيرادات الدولة ومصروفاتها، و الرقابة على كافة أموال الدولة المنقولة والثابتة ، ويتم التأكد من حسن استعمال هذه الأموال والمحافظة عليها، ورفع تقرير سنوي عن ذلك إلى رئيس مجلس الوزراء .\nويبين النظام جهاز الرقابة المختص بذلك وارتباطه، واختصاصاته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-79::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتم   الرقابة    اللاحقة على جميع   إيرادات الدولة    ومصروفاتها، و  الرقابة    على كافة   أموال الدولة المنقولة والثابتة   ، ويتم التأكد من حسن استعمال هذه الأموال والمحافظة عليها، ورفع   تقرير سنوي    عن ذلك إلى رئيس مجلس  الوزراء   .\nويبين  النظام    جهاز   الرقابة    المختص بذلك وارتباطه، واختصاصاته.",
+          "text_for_index": "تتم الرقابة اللاحقة على جميع إيرادات الدولة ومصروفاتها، و الرقابة على كافة أموال الدولة المنقولة والثابتة ، ويتم التأكد من حسن استعمال هذه الأموال والمحافظة عليها، ورفع تقرير سنوي عن ذلك إلى رئيس مجلس الوزراء .\nويبين النظام جهاز الرقابة المختص بذلك وارتباطه، واختصاصاته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 80,
+      "article_label": "الثمانون",
+      "article_label_raw": "الثمانون",
+      "article_heading": "الثمانون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثمانون",
+      "text_verbatim": "تتم مراقبة  الأجهزة الحكومية   ، والتأكد من حسن   الأداء الإداري   ، وتطبيق   الأنظمة   . ويتم التحقيق في   المخالفات المالية والإدارية   ، ويرفع   تقرير سنوي    عن ذلك إلى رئيس مجلس  الوزراء   .\nويبين  النظام    الجهاز المختص بذلك، وارتباطه، واختصاصاته.",
+      "text_for_index": "تتم مراقبة الأجهزة الحكومية ، والتأكد من حسن الأداء الإداري ، وتطبيق الأنظمة . ويتم التحقيق في المخالفات المالية والإدارية ، ويرفع تقرير سنوي عن ذلك إلى رئيس مجلس الوزراء .\nويبين النظام الجهاز المختص بذلك، وارتباطه، واختصاصاته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-80::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تتم مراقبة  الأجهزة الحكومية   ، والتأكد من حسن   الأداء الإداري   ، وتطبيق   الأنظمة   . ويتم التحقيق في   المخالفات المالية والإدارية   ، ويرفع   تقرير سنوي    عن ذلك إلى رئيس مجلس  الوزراء   .\nويبين  النظام    الجهاز المختص بذلك، وارتباطه، واختصاصاته.",
+          "text_for_index": "تتم مراقبة الأجهزة الحكومية ، والتأكد من حسن الأداء الإداري ، وتطبيق الأنظمة . ويتم التحقيق في المخالفات المالية والإدارية ، ويرفع تقرير سنوي عن ذلك إلى رئيس مجلس الوزراء .\nويبين النظام الجهاز المختص بذلك، وارتباطه، واختصاصاته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 81,
+      "article_label": "الحادية والثمانون",
+      "article_label_raw": "الحادية والثمانون",
+      "article_heading": "الحادية والثمانون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الحادية والثمانون",
+      "text_verbatim": "لا يخل تطبيق هذا  النظام    بما ارتبطت به      المملكة  العربية السعودية    مع   الدول      والهيئات      والمنظمات الدولية    من   معاهدات      واتفاقيات   .",
+      "text_for_index": "لا يخل تطبيق هذا النظام بما ارتبطت به المملكة العربية السعودية مع الدول والهيئات والمنظمات الدولية من معاهدات واتفاقيات .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-81::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا يخل تطبيق هذا  النظام    بما ارتبطت به      المملكة  العربية السعودية    مع   الدول      والهيئات      والمنظمات الدولية    من   معاهدات      واتفاقيات   .",
+          "text_for_index": "لا يخل تطبيق هذا النظام بما ارتبطت به المملكة العربية السعودية مع الدول والهيئات والمنظمات الدولية من معاهدات واتفاقيات .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 82,
+      "article_label": "الثانية والثمانون",
+      "article_label_raw": "الثانية والثمانون",
+      "article_heading": "الثانية والثمانون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثانية والثمانون",
+      "text_verbatim": "مع عدم الإخلال بما ورد في المادة السابعة من هذا النظام، لا يجوز بأي حال من الأحوال تعطيل حكم من أحكام هذا النظام، إلا أن يكون ذلك مؤقتا في زمن الحرب، أو في أثناء إعلان  حالة الطوارئ   . وعلى الوجه المبين بالنظام.",
+      "text_for_index": "مع عدم الإخلال بما ورد في المادة السابعة من هذا النظام، لا يجوز بأي حال من الأحوال تعطيل حكم من أحكام هذا النظام، إلا أن يكون ذلك مؤقتا في زمن الحرب، أو في أثناء إعلان حالة الطوارئ . وعلى الوجه المبين بالنظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-82::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بما ورد في المادة السابعة من هذا النظام، لا يجوز بأي حال من الأحوال تعطيل حكم من أحكام هذا النظام، إلا أن يكون ذلك مؤقتا في زمن الحرب، أو في أثناء إعلان  حالة الطوارئ   . وعلى الوجه المبين بالنظام.",
+          "text_for_index": "مع عدم الإخلال بما ورد في المادة السابعة من هذا النظام، لا يجوز بأي حال من الأحوال تعطيل حكم من أحكام هذا النظام، إلا أن يكون ذلك مؤقتا في زمن الحرب، أو في أثناء إعلان حالة الطوارئ . وعلى الوجه المبين بالنظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 83,
+      "article_label": "الثالثة والثمانون",
+      "article_label_raw": "الثالثة والثمانون",
+      "article_heading": "الثالثة والثمانون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "النظام الأساسي للحكم، المادة الثالثة والثمانون",
+      "text_verbatim": "لايجري تعديل هذا  النظام    إلا بنفس الطريقة التي تم بها إصداره.",
+      "text_for_index": "لايجري تعديل هذا النظام إلا بنفس الطريقة التي تم بها إصداره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "basic-law-of-governance::article-83::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لايجري تعديل هذا  النظام    إلا بنفس الطريقة التي تم بها إصداره.",
+          "text_for_index": "لايجري تعديل هذا النظام إلا بنفس الطريقة التي تم بها إصداره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

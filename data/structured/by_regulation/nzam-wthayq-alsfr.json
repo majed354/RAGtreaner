@@ -1,0 +1,1003 @@
+{
+  "metadata": {
+    "slug": "nzam-wthayq-alsfr",
+    "title_ar": "نظام وثائق السفر",
+    "status": "ساري",
+    "issue_date_hijri": "1421/05/28 هـ الموافق : 28/08/2000 مـ",
+    "issue_date_gregorian": "2000-08-28",
+    "publish_date_hijri": "1421/06/17 هـ الموافق : 15/09/2000 مـ",
+    "publish_date_gregorian": "2000-09-15",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e29f08fa-d53e-4944-b22b-a9a700f17fd9/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-wthayq-alsfr.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-wthayq-alsfr.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1421/06/17 هـ الموافق : 15/09/2000 مـ",
+    "effective_date_gregorian": "2000-09-15",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 16,
+    "paragraph_count": 34,
+    "indexable_paragraph_count": 34,
+    "text_chars": 4865,
+    "verbatim_chars": 5017,
+    "citation_base_ar": "نظام وثائق السفر",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/e29f08fa-d53e-4944-b22b-a9a700f17fd9/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-wthayq-alsfr.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-wthayq-alsfr.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الأولى",
+      "text_verbatim": "وثائق السفر التي تصدر باسم حكومة المملكة العربية السعودية وتخول حاملها السفر هي :\n\n1  -   جواز السفر .\n\n2  -   تذكرة المرور .\n\n3  -    جواز السفر الدبلوماسي .\n\n4  -   جواز السفر الخاص .\nوتقوم الجهة المختصة في وزارة الداخلية وممثليات المملكة في الخارج بإصدار   جواز السفر    و  تذكرة المرور    وفقا لهذا النظام، وتحدد اللائحة التنفيذية أوصافهما ومدة صلاحيتهما وإجراءات الحصول عليهما، والحالات التي تمنح فيها تذاكر المرور. أما     جواز السفر   الدبلوماسي    و   جواز السفر الخاص    فتصدرهما   وزارة الخارجية    وفقا للنظام الخاص بهما.",
+      "text_for_index": "وثائق السفر التي تصدر باسم حكومة المملكة العربية السعودية وتخول حاملها السفر هي :\n\n1 - جواز السفر .\n\n2 - تذكرة المرور .\n\n3 - جواز السفر الدبلوماسي .\n\n4 - جواز السفر الخاص .\nوتقوم الجهة المختصة في وزارة الداخلية وممثليات المملكة في الخارج بإصدار جواز السفر و تذكرة المرور وفقا لهذا النظام، وتحدد اللائحة التنفيذية أوصافهما ومدة صلاحيتهما وإجراءات الحصول عليهما، والحالات التي تمنح فيها تذاكر المرور. أما جواز السفر الدبلوماسي و جواز السفر الخاص فتصدرهما وزارة الخارجية وفقا للنظام الخاص بهما.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "وثائق السفر التي تصدر باسم حكومة المملكة العربية السعودية وتخول حاملها السفر هي :",
+          "text_for_index": "وثائق السفر التي تصدر باسم حكومة المملكة العربية السعودية وتخول حاملها السفر هي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1  -   جواز السفر .",
+          "text_for_index": "1 - جواز السفر .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2  -   تذكرة المرور .",
+          "text_for_index": "2 - تذكرة المرور .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "3  -    جواز السفر الدبلوماسي .",
+          "text_for_index": "3 - جواز السفر الدبلوماسي .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "4  -   جواز السفر الخاص .\nوتقوم الجهة المختصة في وزارة الداخلية وممثليات المملكة في الخارج بإصدار   جواز السفر    و  تذكرة المرور    وفقا لهذا النظام، وتحدد اللائحة التنفيذية أوصافهما ومدة صلاحيتهما وإجراءات الحصول عليهما، والحالات التي تمنح فيها تذاكر المرور. أما     جواز السفر   الدبلوماسي    و   جواز السفر الخاص    فتصدرهما   وزارة الخارجية    وفقا للنظام الخاص بهما.",
+          "text_for_index": "4 - جواز السفر الخاص .\nوتقوم الجهة المختصة في وزارة الداخلية وممثليات المملكة في الخارج بإصدار جواز السفر و تذكرة المرور وفقا لهذا النظام، وتحدد اللائحة التنفيذية أوصافهما ومدة صلاحيتهما وإجراءات الحصول عليهما، والحالات التي تمنح فيها تذاكر المرور. أما جواز السفر الدبلوماسي و جواز السفر الخاص فتصدرهما وزارة الخارجية وفقا للنظام الخاص بهما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الثانية",
+      "text_verbatim": "يعطى   جواز السفر    لطالبه من السعوديين، ولوزير الداخلية عند الاقتضاء إصدار جواز سفر أو تذكرة مرور بصفة مؤقتة لأي شخص لا يتمتع بالجنسية العربية السعودية ليستخدمه في سفره خارج المملكة والعودة إليها، وتحدد اللائحة التنفيذية حالات إصدارهما وسحبهما، وإضافة الزوجة والأولاد إلى أي منهما.",
+      "text_for_index": "يعطى جواز السفر لطالبه من السعوديين، ولوزير الداخلية عند الاقتضاء إصدار جواز سفر أو تذكرة مرور بصفة مؤقتة لأي شخص لا يتمتع بالجنسية العربية السعودية ليستخدمه في سفره خارج المملكة والعودة إليها، وتحدد اللائحة التنفيذية حالات إصدارهما وسحبهما، وإضافة الزوجة والأولاد إلى أي منهما.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "يعطى   جواز السفر    لطالبه من السعوديين، ولوزير الداخلية عند الاقتضاء إصدار جواز سفر أو تذكرة مرور بصفة مؤقتة لأي شخص لا يتمتع بالجنسية العربية السعودية ليستخدمه في سفره خارج المملكة والعودة إليها، وتحدد اللائحة التنفيذية حالات إصدارهما وسحبهما، وإضافة الزوجة والأولاد إلى أي منهما.",
+          "text_for_index": "يعطى جواز السفر لطالبه من السعوديين، ولوزير الداخلية عند الاقتضاء إصدار جواز سفر أو تذكرة مرور بصفة مؤقتة لأي شخص لا يتمتع بالجنسية العربية السعودية ليستخدمه في سفره خارج المملكة والعودة إليها، وتحدد اللائحة التنفيذية حالات إصدارهما وسحبهما، وإضافة الزوجة والأولاد إلى أي منهما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الثالثة",
+      "text_verbatim": "يجوز أن يشمل   جواز السفر    زوجة حامله السعودية وبناته غير المتزوجات. وأبناءه القصر وفقا لما تحدده اللائحة التنفيذية.",
+      "text_for_index": "يجوز أن يشمل جواز السفر زوجة حامله السعودية وبناته غير المتزوجات. وأبناءه القصر وفقا لما تحدده اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يجوز أن يشمل   جواز السفر    زوجة حامله السعودية وبناته غير المتزوجات. وأبناءه القصر وفقا لما تحدده اللائحة التنفيذية.",
+          "text_for_index": "يجوز أن يشمل جواز السفر زوجة حامله السعودية وبناته غير المتزوجات. وأبناءه القصر وفقا لما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الرابعة",
+      "text_verbatim": "يتم إصدار   جواز سفر مستقل    للخاضعين لولاية أو وصاية أو قوامة وفقا لما تحدده اللائحة التنفيذية.",
+      "text_for_index": "يتم إصدار جواز سفر مستقل للخاضعين لولاية أو وصاية أو قوامة وفقا لما تحدده اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يتم إصدار   جواز سفر مستقل    للخاضعين لولاية أو وصاية أو قوامة وفقا لما تحدده اللائحة التنفيذية.",
+          "text_for_index": "يتم إصدار جواز سفر مستقل للخاضعين لولاية أو وصاية أو قوامة وفقا لما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الخامسة",
+      "text_verbatim": "لا يجوز لأي شخص الاحتفاظ بأكثر من   جواز سفر ساري المفعول    صادر وفقا لهذا النظام، وتحدد اللائحة التنفيذية كيفية تأكد الجهة التي تصدره من ذلك.",
+      "text_for_index": "لا يجوز لأي شخص الاحتفاظ بأكثر من جواز سفر ساري المفعول صادر وفقا لهذا النظام، وتحدد اللائحة التنفيذية كيفية تأكد الجهة التي تصدره من ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "لا يجوز لأي شخص الاحتفاظ بأكثر من   جواز سفر ساري المفعول    صادر وفقا لهذا النظام، وتحدد اللائحة التنفيذية كيفية تأكد الجهة التي تصدره من ذلك.",
+          "text_for_index": "لا يجوز لأي شخص الاحتفاظ بأكثر من جواز سفر ساري المفعول صادر وفقا لهذا النظام، وتحدد اللائحة التنفيذية كيفية تأكد الجهة التي تصدره من ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة السادسة",
+      "text_verbatim": "1- لا تجوز مغادرة المملكة إلا لمن يحمل وثيقة سفر سارية المفعول، كما لا تجوز مغادرة المملكة أو الدخول إليها إلا من المنافذ التي يحددها وزير الداخلية، وتبين اللائحة التنفيذية إجراءات الدخول والمغادرة.\n\n2- لا يجوز المنع من السفر إلا بحكم قضائي أو بقرار يصدره وزير الداخلية تتعلق بالأمن ولمدة معلومة، وفي كلتا الحالتين يبلغ الممنوع من السفر في فترة لا تتجاوز أسبوعا من تاريخ صدور الحكم أو القرار بمنعه من السفر.",
+      "text_for_index": "1- لا تجوز مغادرة المملكة إلا لمن يحمل وثيقة سفر سارية المفعول، كما لا تجوز مغادرة المملكة أو الدخول إليها إلا من المنافذ التي يحددها وزير الداخلية، وتبين اللائحة التنفيذية إجراءات الدخول والمغادرة.\n\n2- لا يجوز المنع من السفر إلا بحكم قضائي أو بقرار يصدره وزير الداخلية تتعلق بالأمن ولمدة معلومة، وفي كلتا الحالتين يبلغ الممنوع من السفر في فترة لا تتجاوز أسبوعا من تاريخ صدور الحكم أو القرار بمنعه من السفر.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "1- لا تجوز مغادرة المملكة إلا لمن يحمل وثيقة سفر سارية المفعول، كما لا تجوز مغادرة المملكة أو الدخول إليها إلا من المنافذ التي يحددها وزير الداخلية، وتبين اللائحة التنفيذية إجراءات الدخول والمغادرة.",
+          "text_for_index": "1- لا تجوز مغادرة المملكة إلا لمن يحمل وثيقة سفر سارية المفعول، كما لا تجوز مغادرة المملكة أو الدخول إليها إلا من المنافذ التي يحددها وزير الداخلية، وتبين اللائحة التنفيذية إجراءات الدخول والمغادرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2- لا يجوز المنع من السفر إلا بحكم قضائي أو بقرار يصدره وزير الداخلية تتعلق بالأمن ولمدة معلومة، وفي كلتا الحالتين يبلغ الممنوع من السفر في فترة لا تتجاوز أسبوعا من تاريخ صدور الحكم أو القرار بمنعه من السفر.",
+          "text_for_index": "2- لا يجوز المنع من السفر إلا بحكم قضائي أو بقرار يصدره وزير الداخلية تتعلق بالأمن ولمدة معلومة، وفي كلتا الحالتين يبلغ الممنوع من السفر في فترة لا تتجاوز أسبوعا من تاريخ صدور الحكم أو القرار بمنعه من السفر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة السابعة",
+      "text_verbatim": "يحدد وزير الداخلية  البلدان التي لا يسمح بالسفر إليها، وتقوم   إدارات الجوازات    باتخاذ الإجراء المناسب لتحقيق ذلك، وفقا لما تحدده اللائحة التنفيذية.",
+      "text_for_index": "يحدد وزير الداخلية البلدان التي لا يسمح بالسفر إليها، وتقوم إدارات الجوازات باتخاذ الإجراء المناسب لتحقيق ذلك، وفقا لما تحدده اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يحدد وزير الداخلية  البلدان التي لا يسمح بالسفر إليها، وتقوم   إدارات الجوازات    باتخاذ الإجراء المناسب لتحقيق ذلك، وفقا لما تحدده اللائحة التنفيذية.",
+          "text_for_index": "يحدد وزير الداخلية البلدان التي لا يسمح بالسفر إليها، وتقوم إدارات الجوازات باتخاذ الإجراء المناسب لتحقيق ذلك، وفقا لما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel",
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الثامنة",
+      "text_verbatim": "يتم الإبلاغ عن فقدان   جواز السفر    و  تذكرة المرور    أو تلفهما داخل المملكة أو خارجها خلال مدة لا تتجاوز أسبوعا من تاريخ العلم بالفقد أو التلف، ويوقف العمل بهما نتيجة ذلك، وتحدد اللائحة التنفيذية الجهات التي يتم إبلاغها وإجراءات منح   بدل عن المفقود أو التالف   .",
+      "text_for_index": "يتم الإبلاغ عن فقدان جواز السفر و تذكرة المرور أو تلفهما داخل المملكة أو خارجها خلال مدة لا تتجاوز أسبوعا من تاريخ العلم بالفقد أو التلف، ويوقف العمل بهما نتيجة ذلك، وتحدد اللائحة التنفيذية الجهات التي يتم إبلاغها وإجراءات منح بدل عن المفقود أو التالف .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يتم الإبلاغ عن فقدان   جواز السفر    و  تذكرة المرور    أو تلفهما داخل المملكة أو خارجها خلال مدة لا تتجاوز أسبوعا من تاريخ العلم بالفقد أو التلف، ويوقف العمل بهما نتيجة ذلك، وتحدد اللائحة التنفيذية الجهات التي يتم إبلاغها وإجراءات منح   بدل عن المفقود أو التالف   .",
+          "text_for_index": "يتم الإبلاغ عن فقدان جواز السفر و تذكرة المرور أو تلفهما داخل المملكة أو خارجها خلال مدة لا تتجاوز أسبوعا من تاريخ العلم بالفقد أو التلف، ويوقف العمل بهما نتيجة ذلك، وتحدد اللائحة التنفيذية الجهات التي يتم إبلاغها وإجراءات منح بدل عن المفقود أو التالف .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وثائق السفر، المادة التاسعة",
+      "text_verbatim": "تقوم ممثليات المملكة في الخارج بتسجيل جوازات سفر السعوديين الذين يتقدمون إليها بطلب ذلك، كما تتولى وزارة الداخلية  و  وزارة الخارجية    تحديد الحالات التي يكون فيها التسجيل إلزاميا، وإجراءات ذلك.",
+      "text_for_index": "تقوم ممثليات المملكة في الخارج بتسجيل جوازات سفر السعوديين الذين يتقدمون إليها بطلب ذلك، كما تتولى وزارة الداخلية و وزارة الخارجية تحديد الحالات التي يكون فيها التسجيل إلزاميا، وإجراءات ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تقوم ممثليات المملكة في الخارج بتسجيل جوازات سفر السعوديين الذين يتقدمون إليها بطلب ذلك، كما تتولى وزارة الداخلية  و  وزارة الخارجية    تحديد الحالات التي يكون فيها التسجيل إلزاميا، وإجراءات ذلك.",
+          "text_for_index": "تقوم ممثليات المملكة في الخارج بتسجيل جوازات سفر السعوديين الذين يتقدمون إليها بطلب ذلك، كما تتولى وزارة الداخلية و وزارة الخارجية تحديد الحالات التي يكون فيها التسجيل إلزاميا، وإجراءات ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة العاشرة",
+      "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد تنص عليها الأنظمة الأخرى - يعاقب بغرامة لا تزيد عن خمسة آلاف ريال أو\nبالمنع من السفر مدة لا تزيد على ثلاث سنوات أو بهما معا - كل من يرتكب إحدى المخالفات التالية :\n\n1  - الإضافة أو الحذف أو التغيير في المعلومات الواردة في   جواز السفر    أو   تذكرة المرور    من جهة غير مختصة.\n\n2  - الإتلاف المتعمد أو التحريف أو التغيير في الصورة الشخصية في   جواز السفر    أو   تذكرة المرور   .\n\n3  - الإهمال المؤدي إلى فقدان   جواز السفر    أو   تذكرة المرور   .\n\n4  - تمكين الغير عمدا من استعمال جواز سفره أو تذكرة مروره بصورة غير مشروعة، أو بيع أي منهما أو رهنه.\n\n5  - استعمال أو محاولة استعمال   جواز سفر    أو   تذكرة مرور    يعود أي منهما إلى الغير أو المساعدة في ذلك.\n\n6  - مغادرة المملكة أو الدخول إليها من غير المنافذ المحددة لذلك، إلا ما كان بعذر مقبول.\n\n7  - مغادرة المملكة أو الدخول إليها دون وثيقة سفر، إلا ما كان بعذر مقبول.\n\n8  - مخالفة أي حكم من أحكام هذا النظام ولائحته التنفيذية.",
+      "text_for_index": "مع عدم الإخلال بأي عقوبة أشد تنص عليها الأنظمة الأخرى - يعاقب بغرامة لا تزيد عن خمسة آلاف ريال أو\nبالمنع من السفر مدة لا تزيد على ثلاث سنوات أو بهما معا - كل من يرتكب إحدى المخالفات التالية :\n\n1 - الإضافة أو الحذف أو التغيير في المعلومات الواردة في جواز السفر أو تذكرة المرور من جهة غير مختصة.\n\n2 - الإتلاف المتعمد أو التحريف أو التغيير في الصورة الشخصية في جواز السفر أو تذكرة المرور .\n\n3 - الإهمال المؤدي إلى فقدان جواز السفر أو تذكرة المرور .\n\n4 - تمكين الغير عمدا من استعمال جواز سفره أو تذكرة مروره بصورة غير مشروعة، أو بيع أي منهما أو رهنه.\n\n5 - استعمال أو محاولة استعمال جواز سفر أو تذكرة مرور يعود أي منهما إلى الغير أو المساعدة في ذلك.\n\n6 - مغادرة المملكة أو الدخول إليها من غير المنافذ المحددة لذلك، إلا ما كان بعذر مقبول.\n\n7 - مغادرة المملكة أو الدخول إليها دون وثيقة سفر، إلا ما كان بعذر مقبول.\n\n8 - مخالفة أي حكم من أحكام هذا النظام ولائحته التنفيذية.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد تنص عليها الأنظمة الأخرى - يعاقب بغرامة لا تزيد عن خمسة آلاف ريال أو\nبالمنع من السفر مدة لا تزيد على ثلاث سنوات أو بهما معا - كل من يرتكب إحدى المخالفات التالية :",
+          "text_for_index": "مع عدم الإخلال بأي عقوبة أشد تنص عليها الأنظمة الأخرى - يعاقب بغرامة لا تزيد عن خمسة آلاف ريال أو\nبالمنع من السفر مدة لا تزيد على ثلاث سنوات أو بهما معا - كل من يرتكب إحدى المخالفات التالية :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "1  - الإضافة أو الحذف أو التغيير في المعلومات الواردة في   جواز السفر    أو   تذكرة المرور    من جهة غير مختصة.",
+          "text_for_index": "1 - الإضافة أو الحذف أو التغيير في المعلومات الواردة في جواز السفر أو تذكرة المرور من جهة غير مختصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "2  - الإتلاف المتعمد أو التحريف أو التغيير في الصورة الشخصية في   جواز السفر    أو   تذكرة المرور   .",
+          "text_for_index": "2 - الإتلاف المتعمد أو التحريف أو التغيير في الصورة الشخصية في جواز السفر أو تذكرة المرور .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "3  - الإهمال المؤدي إلى فقدان   جواز السفر    أو   تذكرة المرور   .",
+          "text_for_index": "3 - الإهمال المؤدي إلى فقدان جواز السفر أو تذكرة المرور .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "4  - تمكين الغير عمدا من استعمال جواز سفره أو تذكرة مروره بصورة غير مشروعة، أو بيع أي منهما أو رهنه.",
+          "text_for_index": "4 - تمكين الغير عمدا من استعمال جواز سفره أو تذكرة مروره بصورة غير مشروعة، أو بيع أي منهما أو رهنه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "5  - استعمال أو محاولة استعمال   جواز سفر    أو   تذكرة مرور    يعود أي منهما إلى الغير أو المساعدة في ذلك.",
+          "text_for_index": "5 - استعمال أو محاولة استعمال جواز سفر أو تذكرة مرور يعود أي منهما إلى الغير أو المساعدة في ذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء"
+          ],
+          "text_verbatim": "6  - مغادرة المملكة أو الدخول إليها من غير المنافذ المحددة لذلك، إلا ما كان بعذر مقبول.",
+          "text_for_index": "6 - مغادرة المملكة أو الدخول إليها من غير المنافذ المحددة لذلك، إلا ما كان بعذر مقبول.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "استثناء"
+          ],
+          "text_verbatim": "7  - مغادرة المملكة أو الدخول إليها دون وثيقة سفر، إلا ما كان بعذر مقبول.",
+          "text_for_index": "7 - مغادرة المملكة أو الدخول إليها دون وثيقة سفر، إلا ما كان بعذر مقبول.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-10::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "8  - مخالفة أي حكم من أحكام هذا النظام ولائحته التنفيذية.",
+          "text_for_index": "8 - مخالفة أي حكم من أحكام هذا النظام ولائحته التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "( المادة العاشرة مكرر )",
+      "article_label_raw": "( المادة العاشرة مكرر )",
+      "article_heading": "( المادة العاشرة مكرر )",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة ( المادة العاشرة مكرر )",
+      "text_verbatim": "- صدر المرسوم الملكي رقم (م/11) وتاريخ 1443/1/18هـ، وذلك إضافة مادة ترتيبها (العاشرة مكرر) بالنص الآتي: \"تحدد اللائحة التنفيذية تصنيف المخالفات لأحكام النظام واللائحة، والعقوبات لكل مخالفة بما لا يتجاوز العقوبات المنصوص عليها في المادة (العاشرة) من هذا النظام، ويراعى في ذلك: طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها، وحالات تكرارها\".",
+      "text_for_index": "- صدر المرسوم الملكي رقم (م/11) وتاريخ 1443/1/18هـ، وذلك إضافة مادة ترتيبها (العاشرة مكرر) بالنص الآتي: \"تحدد اللائحة التنفيذية تصنيف المخالفات لأحكام النظام واللائحة، والعقوبات لكل مخالفة بما لا يتجاوز العقوبات المنصوص عليها في المادة (العاشرة) من هذا النظام، ويراعى في ذلك: طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها، وحالات تكرارها\".",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "جزاء"
+          ],
+          "text_verbatim": "- صدر المرسوم الملكي رقم (م/11) وتاريخ 1443/1/18هـ، وذلك إضافة مادة ترتيبها (العاشرة مكرر) بالنص الآتي: \"تحدد اللائحة التنفيذية تصنيف المخالفات لأحكام النظام واللائحة، والعقوبات لكل مخالفة بما لا يتجاوز العقوبات المنصوص عليها في المادة (العاشرة) من هذا النظام، ويراعى في ذلك: طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها، وحالات تكرارها\".",
+          "text_for_index": "- صدر المرسوم الملكي رقم (م/11) وتاريخ 1443/1/18هـ، وذلك إضافة مادة ترتيبها (العاشرة مكرر) بالنص الآتي: \"تحدد اللائحة التنفيذية تصنيف المخالفات لأحكام النظام واللائحة، والعقوبات لكل مخالفة بما لا يتجاوز العقوبات المنصوص عليها في المادة (العاشرة) من هذا النظام، ويراعى في ذلك: طبيعة كل مخالفة، وجسامتها، والظروف المشددة والمخففة لها، وحالات تكرارها\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "travel",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الحادية عشرة",
+      "text_verbatim": "1- تشكل بقرار من وزير الداخلية  لجنة أو أكثر، وتتكون كل لجنة من ثلاث أعضاء يكون أحدهم    مستشارا نظاميا    ، تختص بالنظر في المخالفات المنصوص عليها في المادة العاشرة من هذا النظام واقتراح العقوبات المناسبة لها.\n\n2  - يصدر بتوقيع العقوبة قرار من وزير الداخلية  أو من ينيبه. ويحق لمن صدر بحقه قرار بذلك التظلم أمام ديوان المظالم وفقا لنظامه.\n\n3  - تحال المخالفات التي تستوجب عقوبة أشد تنص عليها الأنظمة الأخرى إلى الجهة المختصة للنظر فيها وفقا لنظامها.\n\n4  - يترتب على ارتكاب إحدى المخالفات الواردة في الفقرات (1، 2، 3، 4، 5) في المادة العاشرة إلغاء وثيقة السفر محل المخالفة حكما.",
+      "text_for_index": "1- تشكل بقرار من وزير الداخلية لجنة أو أكثر، وتتكون كل لجنة من ثلاث أعضاء يكون أحدهم مستشارا نظاميا ، تختص بالنظر في المخالفات المنصوص عليها في المادة العاشرة من هذا النظام واقتراح العقوبات المناسبة لها.\n\n2 - يصدر بتوقيع العقوبة قرار من وزير الداخلية أو من ينيبه. ويحق لمن صدر بحقه قرار بذلك التظلم أمام ديوان المظالم وفقا لنظامه.\n\n3 - تحال المخالفات التي تستوجب عقوبة أشد تنص عليها الأنظمة الأخرى إلى الجهة المختصة للنظر فيها وفقا لنظامها.\n\n4 - يترتب على ارتكاب إحدى المخالفات الواردة في الفقرات (1، 2، 3، 4، 5) في المادة العاشرة إلغاء وثيقة السفر محل المخالفة حكما.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "1- تشكل بقرار من وزير الداخلية  لجنة أو أكثر، وتتكون كل لجنة من ثلاث أعضاء يكون أحدهم    مستشارا نظاميا    ، تختص بالنظر في المخالفات المنصوص عليها في المادة العاشرة من هذا النظام واقتراح العقوبات المناسبة لها.",
+          "text_for_index": "1- تشكل بقرار من وزير الداخلية لجنة أو أكثر، وتتكون كل لجنة من ثلاث أعضاء يكون أحدهم مستشارا نظاميا ، تختص بالنظر في المخالفات المنصوص عليها في المادة العاشرة من هذا النظام واقتراح العقوبات المناسبة لها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-11::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "2  - يصدر بتوقيع العقوبة قرار من وزير الداخلية  أو من ينيبه. ويحق لمن صدر بحقه قرار بذلك التظلم أمام ديوان المظالم وفقا لنظامه.",
+          "text_for_index": "2 - يصدر بتوقيع العقوبة قرار من وزير الداخلية أو من ينيبه. ويحق لمن صدر بحقه قرار بذلك التظلم أمام ديوان المظالم وفقا لنظامه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-11::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "اختصاص"
+          ],
+          "text_verbatim": "3  - تحال المخالفات التي تستوجب عقوبة أشد تنص عليها الأنظمة الأخرى إلى الجهة المختصة للنظر فيها وفقا لنظامها.",
+          "text_for_index": "3 - تحال المخالفات التي تستوجب عقوبة أشد تنص عليها الأنظمة الأخرى إلى الجهة المختصة للنظر فيها وفقا لنظامها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-11::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "4  - يترتب على ارتكاب إحدى المخالفات الواردة في الفقرات (1، 2، 3، 4، 5) في المادة العاشرة إلغاء وثيقة السفر محل المخالفة حكما.",
+          "text_for_index": "4 - يترتب على ارتكاب إحدى المخالفات الواردة في الفقرات (1، 2، 3، 4، 5) في المادة العاشرة إلغاء وثيقة السفر محل المخالفة حكما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الثانية عشرة",
+      "text_verbatim": "تستحصل رسوم وثائق السفر التي تصدر وفق هذا النظام، كما يلي :\n\n- ثلاثمائة ريال عن إصدار جواز سفر.\n\n- خمسون ريالا عن إصدار   تذكرة المرور .",
+      "text_for_index": "تستحصل رسوم وثائق السفر التي تصدر وفق هذا النظام، كما يلي :\n\n- ثلاثمائة ريال عن إصدار جواز سفر.\n\n- خمسون ريالا عن إصدار تذكرة المرور .",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تستحصل رسوم وثائق السفر التي تصدر وفق هذا النظام، كما يلي :",
+          "text_for_index": "تستحصل رسوم وثائق السفر التي تصدر وفق هذا النظام، كما يلي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- ثلاثمائة ريال عن إصدار جواز سفر.",
+          "text_for_index": "- ثلاثمائة ريال عن إصدار جواز سفر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "- خمسون ريالا عن إصدار   تذكرة المرور .",
+          "text_for_index": "- خمسون ريالا عن إصدار تذكرة المرور .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "travel",
+        "enforcement",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "سفر",
+        "تنفيذ",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الثالثة عشرة",
+      "text_verbatim": "يحل هذا النظام ولائحته التنفيذية محل الأحكام المتعلقة بوثائق السفر الواردة في نظام الجوازات السفرية الصادر   بالأمر السامي    رقم (17 / 3 / 2 ) وتاريخ 19 / 1 / 1358 هـ وفي التعليمات والقرارات المتعلقة به، وذلك من تاريخ نفاذ هذا النظام ولائحته التنفيذية.",
+      "text_for_index": "يحل هذا النظام ولائحته التنفيذية محل الأحكام المتعلقة بوثائق السفر الواردة في نظام الجوازات السفرية الصادر بالأمر السامي رقم (17 / 3 / 2 ) وتاريخ 19 / 1 / 1358 هـ وفي التعليمات والقرارات المتعلقة به، وذلك من تاريخ نفاذ هذا النظام ولائحته التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يحل هذا النظام ولائحته التنفيذية محل الأحكام المتعلقة بوثائق السفر الواردة في نظام الجوازات السفرية الصادر   بالأمر السامي    رقم (17 / 3 / 2 ) وتاريخ 19 / 1 / 1358 هـ وفي التعليمات والقرارات المتعلقة به، وذلك من تاريخ نفاذ هذا النظام ولائحته التنفيذية.",
+          "text_for_index": "يحل هذا النظام ولائحته التنفيذية محل الأحكام المتعلقة بوثائق السفر الواردة في نظام الجوازات السفرية الصادر بالأمر السامي رقم (17 / 3 / 2 ) وتاريخ 19 / 1 / 1358 هـ وفي التعليمات والقرارات المتعلقة به، وذلك من تاريخ نفاذ هذا النظام ولائحته التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وثائق السفر، المادة الرابعة عشرة",
+      "text_verbatim": "يصدر وزير الداخلية  اللائحة التنفيذية لهذا النظام وتنشر في الجريدة الرسمية، وذلك خلال مدة لا تتجاوز ستة عشر شهرا من تاريخ نشر هذا النظام، على أن يعمل بها ابتداء من تاريخ العمل بهذا النظام.",
+      "text_for_index": "يصدر وزير الداخلية اللائحة التنفيذية لهذا النظام وتنشر في الجريدة الرسمية، وذلك خلال مدة لا تتجاوز ستة عشر شهرا من تاريخ نشر هذا النظام، على أن يعمل بها ابتداء من تاريخ العمل بهذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر وزير الداخلية  اللائحة التنفيذية لهذا النظام وتنشر في الجريدة الرسمية، وذلك خلال مدة لا تتجاوز ستة عشر شهرا من تاريخ نشر هذا النظام، على أن يعمل بها ابتداء من تاريخ العمل بهذا النظام.",
+          "text_for_index": "يصدر وزير الداخلية اللائحة التنفيذية لهذا النظام وتنشر في الجريدة الرسمية، وذلك خلال مدة لا تتجاوز ستة عشر شهرا من تاريخ نشر هذا النظام، على أن يعمل بها ابتداء من تاريخ العمل بهذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وثائق السفر، المادة الخامسة عشرة",
+      "text_verbatim": "ينشر هذا النظام في  الجريدة الرسمية  ، ويعمل به بعد مضي ثمانية عشر شهرا من تاريخ نشره.",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ، ويعمل به بعد مضي ثمانية عشر شهرا من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wthayq-alsfr::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ينشر هذا النظام في  الجريدة الرسمية  ، ويعمل به بعد مضي ثمانية عشر شهرا من تاريخ نشره.",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ، ويعمل به بعد مضي ثمانية عشر شهرا من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

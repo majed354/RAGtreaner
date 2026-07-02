@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "slug": "nzam-hmayh-khtwt-alskk-alhdydyh",
+    "title_ar": "نظام حماية خطوط السكك الحديدية",
+    "status": "ساري",
+    "issue_date_hijri": "1382/04/03 هـ الموافق : 02/09/1962 مـ",
+    "issue_date_gregorian": "1962-09-02",
+    "publish_date_hijri": "1382/04/03 هـ الموافق : 02/09/1962 مـ",
+    "publish_date_gregorian": "1962-09-02",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/748dc7f1-acae-43a2-b536-a9a700f2dfa3/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-hmayh-khtwt-alskk-alhdydyh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-hmayh-khtwt-alskk-alhdydyh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1382/04/03 هـ الموافق : 02/09/1962 مـ",
+    "effective_date_gregorian": "1962-09-02",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 5,
+    "paragraph_count": 6,
+    "indexable_paragraph_count": 6,
+    "text_chars": 1322,
+    "verbatim_chars": 1353,
+    "citation_base_ar": "نظام حماية خطوط السكك الحديدية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/748dc7f1-acae-43a2-b536-a9a700f2dfa3/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-hmayh-khtwt-alskk-alhdydyh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-hmayh-khtwt-alskk-alhdydyh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام حماية خطوط السكك الحديدية، المادة الأولى",
+      "text_verbatim": "أ - تعتبر المائتي متر من مركز خط السكة الحديد على كلا الجانبين ملكا عاما للدولة، وتسمى منطقة أراضي السكة الحديد.\nب - ويجوز بقرار من   مجلس الوزراء     بناء على اقتراح من   وزير المواصلات    إنقاص هذه المسافة في بعض المناطق وفقا لما تقتضيه   المصلحة العامة    .",
+      "text_for_index": "أ - تعتبر المائتي متر من مركز خط السكة الحديد على كلا الجانبين ملكا عاما للدولة، وتسمى منطقة أراضي السكة الحديد.\nب - ويجوز بقرار من مجلس الوزراء بناء على اقتراح من وزير المواصلات إنقاص هذه المسافة في بعض المناطق وفقا لما تقتضيه المصلحة العامة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-hmayh-khtwt-alskk-alhdydyh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ - تعتبر المائتي متر من مركز خط السكة الحديد على كلا الجانبين ملكا عاما للدولة، وتسمى منطقة أراضي السكة الحديد.\nب - ويجوز بقرار من   مجلس الوزراء     بناء على اقتراح من   وزير المواصلات    إنقاص هذه المسافة في بعض المناطق وفقا لما تقتضيه   المصلحة العامة    .",
+          "text_for_index": "أ - تعتبر المائتي متر من مركز خط السكة الحديد على كلا الجانبين ملكا عاما للدولة، وتسمى منطقة أراضي السكة الحديد.\nب - ويجوز بقرار من مجلس الوزراء بناء على اقتراح من وزير المواصلات إنقاص هذه المسافة في بعض المناطق وفقا لما تقتضيه المصلحة العامة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام حماية خطوط السكك الحديدية، المادة الثانية",
+      "text_verbatim": "لا يجوز وضع اليد على هذه المنطقة ولا تملكها بأية صورة من صور التملك، ولا الانتفاع بها، ولا استعمالها بأي وجه من وجوه الاستعمال الدائم أو المؤقت أو العارض.",
+      "text_for_index": "لا يجوز وضع اليد على هذه المنطقة ولا تملكها بأية صورة من صور التملك، ولا الانتفاع بها، ولا استعمالها بأي وجه من وجوه الاستعمال الدائم أو المؤقت أو العارض.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-hmayh-khtwt-alskk-alhdydyh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "لا يجوز وضع اليد على هذه المنطقة ولا تملكها بأية صورة من صور التملك، ولا الانتفاع بها، ولا استعمالها بأي وجه من وجوه الاستعمال الدائم أو المؤقت أو العارض.",
+          "text_for_index": "لا يجوز وضع اليد على هذه المنطقة ولا تملكها بأية صورة من صور التملك، ولا الانتفاع بها، ولا استعمالها بأي وجه من وجوه الاستعمال الدائم أو المؤقت أو العارض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام حماية خطوط السكك الحديدية، المادة الثالثة",
+      "text_verbatim": "لا يجوز إلا في الأحوال وبالشروط التي تعتبرها   إدارة السكة الحديد ؛ ما يلي:\n\nأ - وقوف الأشخاص أو العربات أو السيارات أو الحيوانات داخل منطقة أراضي السكة الحديد.\nب - المرور على خطوط وجسور السكة أو اجتيازها أو ترك الحيوانات تمر عليها أو تجتازها.",
+      "text_for_index": "لا يجوز إلا في الأحوال وبالشروط التي تعتبرها إدارة السكة الحديد ؛ ما يلي:\n\nأ - وقوف الأشخاص أو العربات أو السيارات أو الحيوانات داخل منطقة أراضي السكة الحديد.\nب - المرور على خطوط وجسور السكة أو اجتيازها أو ترك الحيوانات تمر عليها أو تجتازها.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-hmayh-khtwt-alskk-alhdydyh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز إلا في الأحوال وبالشروط التي تعتبرها   إدارة السكة الحديد ؛ ما يلي:",
+          "text_for_index": "لا يجوز إلا في الأحوال وبالشروط التي تعتبرها إدارة السكة الحديد ؛ ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-hmayh-khtwt-alskk-alhdydyh::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "أ - وقوف الأشخاص أو العربات أو السيارات أو الحيوانات داخل منطقة أراضي السكة الحديد.\nب - المرور على خطوط وجسور السكة أو اجتيازها أو ترك الحيوانات تمر عليها أو تجتازها.",
+          "text_for_index": "أ - وقوف الأشخاص أو العربات أو السيارات أو الحيوانات داخل منطقة أراضي السكة الحديد.\nب - المرور على خطوط وجسور السكة أو اجتيازها أو ترك الحيوانات تمر عليها أو تجتازها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام حماية خطوط السكك الحديدية، المادة الرابعة",
+      "text_verbatim": "في حالة التعرض لمنطقة أراضي السكة الحديد بأحد صور التعرض المنصوص عليها في المادة الثانية، يكون   لمصلحة السكة الحديد     بموجب قرار يصدره مديرها العام إزالة التعرض بالطرق الإدارية.",
+      "text_for_index": "في حالة التعرض لمنطقة أراضي السكة الحديد بأحد صور التعرض المنصوص عليها في المادة الثانية، يكون لمصلحة السكة الحديد بموجب قرار يصدره مديرها العام إزالة التعرض بالطرق الإدارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-hmayh-khtwt-alskk-alhdydyh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "في حالة التعرض لمنطقة أراضي السكة الحديد بأحد صور التعرض المنصوص عليها في المادة الثانية، يكون   لمصلحة السكة الحديد     بموجب قرار يصدره مديرها العام إزالة التعرض بالطرق الإدارية.",
+          "text_for_index": "في حالة التعرض لمنطقة أراضي السكة الحديد بأحد صور التعرض المنصوص عليها في المادة الثانية، يكون لمصلحة السكة الحديد بموجب قرار يصدره مديرها العام إزالة التعرض بالطرق الإدارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "obligation",
+        "remedy",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "التزام",
+        "علاج أو تعويض",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام حماية خطوط السكك الحديدية، المادة الخامسة",
+      "text_verbatim": "أ - فضلا عن إزالة التعرض بالطرق الإدارية؛ يحكم على المتعرض بغرامة لا تقل عن ألف ريال ولا تزيد على خمسة آلاف ريال، وإذا تكرر التعرض تضاعف الغرامة مع الحبس لمدة لا تقل عن شهر ولا تزيد على ستة أشهر، ويلزم المتعرض في جميع الأحوال   بالتعويضات     ومصاريف الإزالة.\nب - يحكم على كل من يرتكب إحدى المخالفات المنصوص عليها في المادة الثالثة بالغرامة التي لا تزيد على  خمسمائة ريال، ويلتزم بتعويض جميع الخسائر التي قد تنشأ من مخالفته.",
+      "text_for_index": "أ - فضلا عن إزالة التعرض بالطرق الإدارية؛ يحكم على المتعرض بغرامة لا تقل عن ألف ريال ولا تزيد على خمسة آلاف ريال، وإذا تكرر التعرض تضاعف الغرامة مع الحبس لمدة لا تقل عن شهر ولا تزيد على ستة أشهر، ويلزم المتعرض في جميع الأحوال بالتعويضات ومصاريف الإزالة.\nب - يحكم على كل من يرتكب إحدى المخالفات المنصوص عليها في المادة الثالثة بالغرامة التي لا تزيد على خمسمائة ريال، ويلتزم بتعويض جميع الخسائر التي قد تنشأ من مخالفته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-hmayh-khtwt-alskk-alhdydyh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation",
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام",
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ - فضلا عن إزالة التعرض بالطرق الإدارية؛ يحكم على المتعرض بغرامة لا تقل عن ألف ريال ولا تزيد على خمسة آلاف ريال، وإذا تكرر التعرض تضاعف الغرامة مع الحبس لمدة لا تقل عن شهر ولا تزيد على ستة أشهر، ويلزم المتعرض في جميع الأحوال   بالتعويضات     ومصاريف الإزالة.\nب - يحكم على كل من يرتكب إحدى المخالفات المنصوص عليها في المادة الثالثة بالغرامة التي لا تزيد على  خمسمائة ريال، ويلتزم بتعويض جميع الخسائر التي قد تنشأ من مخالفته.",
+          "text_for_index": "أ - فضلا عن إزالة التعرض بالطرق الإدارية؛ يحكم على المتعرض بغرامة لا تقل عن ألف ريال ولا تزيد على خمسة آلاف ريال، وإذا تكرر التعرض تضاعف الغرامة مع الحبس لمدة لا تقل عن شهر ولا تزيد على ستة أشهر، ويلزم المتعرض في جميع الأحوال بالتعويضات ومصاريف الإزالة.\nب - يحكم على كل من يرتكب إحدى المخالفات المنصوص عليها في المادة الثالثة بالغرامة التي لا تزيد على خمسمائة ريال، ويلتزم بتعويض جميع الخسائر التي قد تنشأ من مخالفته.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

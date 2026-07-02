@@ -1,0 +1,1593 @@
+{
+  "metadata": {
+    "slug": "nzam-iyradat-aldwlh",
+    "title_ar": "نظام إيرادات الدولة",
+    "status": "ساري",
+    "issue_date_hijri": "1431/11/18 هـ الموافق : 26/10/2010 مـ",
+    "issue_date_gregorian": "2010-10-26",
+    "publish_date_hijri": "1431/12/20 هـ الموافق : 26/11/2010 مـ",
+    "publish_date_gregorian": "2010-11-26",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8b100aee-54a5-48c1-9866-a9a700f2d539/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-iyradat-aldwlh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-iyradat-aldwlh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1431/12/20 هـ الموافق : 26/11/2010 مـ",
+    "effective_date_gregorian": "2010-11-26",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 32,
+    "paragraph_count": 54,
+    "indexable_paragraph_count": 54,
+    "text_chars": 6855,
+    "verbatim_chars": 7161,
+    "citation_base_ar": "نظام إيرادات الدولة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/8b100aee-54a5-48c1-9866-a9a700f2d539/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-iyradat-aldwlh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-iyradat-aldwlh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "definition",
+        "obligation",
+        "procedure",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "تعريف",
+        "التزام",
+        "إجراء",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الأولى",
+      "text_verbatim": "يقصد بالعبارات والمصطلحات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها، ما لم يقتض السياق خلاف ذلك:\n\n  الدولــــة :    المملكة العربية السعودية  .\n\n الـوزارة :   وزارة المالية    .\n\n  الوزيـــر :    وزير المالية  .\n\n  الجهـــــــة  :  كل    وزارة  أو    مصلحة  أو    مؤسسة عامة  أو    هيئة عامة  .\n\n   النظــــام  :   نظام إيرادات الدولة    .\n\n  اللائحـة :   اللائحة التنفيذية للنظام  .\n\n  الإيرادات  :  الموارد المالية    التي تحصل عليها الدولة في شكل تدفقات مالية.\n\n الديـــــن  : \t كل مال مستحق للدولة.\n\n  المديــــن  :  \tكل  شخص ذي صفة طبيعية أو اعتبارية    في ذمته مال للدولة .\n\n  الضريبة :  اقتطاع مالي إلزامي من دخل وثروة    شخص ذي صفة طبيعية أو اعتبارية  يدفع للدولة دون مقابل من أجل تحقيق نفع عام .\n\n  الرسم  :  مبلغ من النقود يسدده المستفيد للدولة إلزاما، مقابل خدمة عامة ذات نفع خاص تقدم له .\n\n  الأجر :  مبلغ من النقود يدفع مقابل نفع خاص للاستفادة من الخدمة المقدمة .\n\n الجزاءات  والغرامات  :  مبالغ نقدية تفرض على مخالفي الأنظمة .\n\n يوم عمل :  أيام العمل طبقا لأيام العمل الرسمية في الدولة.",
+      "text_for_index": "يقصد بالعبارات والمصطلحات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها، ما لم يقتض السياق خلاف ذلك:\n\n الدولــــة : المملكة العربية السعودية .\n\n الـوزارة : وزارة المالية .\n\n الوزيـــر : وزير المالية .\n\n الجهـــــــة : كل وزارة أو مصلحة أو مؤسسة عامة أو هيئة عامة .\n\n النظــــام : نظام إيرادات الدولة .\n\n اللائحـة : اللائحة التنفيذية للنظام .\n\n الإيرادات : الموارد المالية التي تحصل عليها الدولة في شكل تدفقات مالية.\n\n الديـــــن : كل مال مستحق للدولة.\n\n المديــــن : كل شخص ذي صفة طبيعية أو اعتبارية في ذمته مال للدولة .\n\n الضريبة : اقتطاع مالي إلزامي من دخل وثروة شخص ذي صفة طبيعية أو اعتبارية يدفع للدولة دون مقابل من أجل تحقيق نفع عام .\n\n الرسم : مبلغ من النقود يسدده المستفيد للدولة إلزاما، مقابل خدمة عامة ذات نفع خاص تقدم له .\n\n الأجر : مبلغ من النقود يدفع مقابل نفع خاص للاستفادة من الخدمة المقدمة .\n\n الجزاءات والغرامات : مبالغ نقدية تفرض على مخالفي الأنظمة .\n\n يوم عمل : أيام العمل طبقا لأيام العمل الرسمية في الدولة.",
+      "paragraph_count": 15,
+      "indexable_paragraph_count": 15,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالعبارات والمصطلحات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها، ما لم يقتض السياق خلاف ذلك:",
+          "text_for_index": "يقصد بالعبارات والمصطلحات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها، ما لم يقتض السياق خلاف ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الدولــــة :    المملكة العربية السعودية  .",
+          "text_for_index": "الدولــــة : المملكة العربية السعودية .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الـوزارة :   وزارة المالية    .",
+          "text_for_index": "الـوزارة : وزارة المالية .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الوزيـــر :    وزير المالية  .",
+          "text_for_index": "الوزيـــر : وزير المالية .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الجهـــــــة  :  كل    وزارة  أو    مصلحة  أو    مؤسسة عامة  أو    هيئة عامة  .",
+          "text_for_index": "الجهـــــــة : كل وزارة أو مصلحة أو مؤسسة عامة أو هيئة عامة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "النظــــام  :   نظام إيرادات الدولة    .",
+          "text_for_index": "النظــــام : نظام إيرادات الدولة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحـة :   اللائحة التنفيذية للنظام  .",
+          "text_for_index": "اللائحـة : اللائحة التنفيذية للنظام .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الإيرادات  :  الموارد المالية    التي تحصل عليها الدولة في شكل تدفقات مالية.",
+          "text_for_index": "الإيرادات : الموارد المالية التي تحصل عليها الدولة في شكل تدفقات مالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الديـــــن  : \t كل مال مستحق للدولة.",
+          "text_for_index": "الديـــــن : كل مال مستحق للدولة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "المديــــن  :  \tكل  شخص ذي صفة طبيعية أو اعتبارية    في ذمته مال للدولة .",
+          "text_for_index": "المديــــن : كل شخص ذي صفة طبيعية أو اعتبارية في ذمته مال للدولة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "exception",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "التزام"
+          ],
+          "text_verbatim": "الضريبة :  اقتطاع مالي إلزامي من دخل وثروة    شخص ذي صفة طبيعية أو اعتبارية  يدفع للدولة دون مقابل من أجل تحقيق نفع عام .",
+          "text_for_index": "الضريبة : اقتطاع مالي إلزامي من دخل وثروة شخص ذي صفة طبيعية أو اعتبارية يدفع للدولة دون مقابل من أجل تحقيق نفع عام .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الرسم  :  مبلغ من النقود يسدده المستفيد للدولة إلزاما، مقابل خدمة عامة ذات نفع خاص تقدم له .",
+          "text_for_index": "الرسم : مبلغ من النقود يسدده المستفيد للدولة إلزاما، مقابل خدمة عامة ذات نفع خاص تقدم له .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "exception",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "التزام"
+          ],
+          "text_verbatim": "الأجر :  مبلغ من النقود يدفع مقابل نفع خاص للاستفادة من الخدمة المقدمة .",
+          "text_for_index": "الأجر : مبلغ من النقود يدفع مقابل نفع خاص للاستفادة من الخدمة المقدمة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "exception",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "جزاء"
+          ],
+          "text_verbatim": "الجزاءات  والغرامات  :  مبالغ نقدية تفرض على مخالفي الأنظمة .",
+          "text_for_index": "الجزاءات والغرامات : مبالغ نقدية تفرض على مخالفي الأنظمة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-1::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يوم عمل :  أيام العمل طبقا لأيام العمل الرسمية في الدولة.",
+          "text_for_index": "يوم عمل : أيام العمل طبقا لأيام العمل الرسمية في الدولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثانية",
+      "text_verbatim": "تتكون مصادر  الإيرادات من الآتي:\n\n1 -  الثروات الطبيعية.\n2 -  الرسوم   والأجور  والضرائب  .\n3 -  الاقتراض  والقروض المسددة .\n\n4 -  عوائد الاستثمار .\n5 -  المبيعات  والجزاءات  والغرامات .\n6 -  بيع أملاك الدولة    وإيجاراتها .\n\n7 -  التبرعات      والهبات      والتعويضات .\n8 - أي مصدر آخر يصدر به قرار من مجلس الوزراء.",
+      "text_for_index": "تتكون مصادر الإيرادات من الآتي:\n\n1 - الثروات الطبيعية.\n2 - الرسوم والأجور والضرائب .\n3 - الاقتراض والقروض المسددة .\n\n4 - عوائد الاستثمار .\n5 - المبيعات والجزاءات والغرامات .\n6 - بيع أملاك الدولة وإيجاراتها .\n\n7 - التبرعات والهبات والتعويضات .\n8 - أي مصدر آخر يصدر به قرار من مجلس الوزراء.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "تتكون مصادر  الإيرادات من الآتي:",
+          "text_for_index": "تتكون مصادر الإيرادات من الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "1 -  الثروات الطبيعية.\n2 -  الرسوم   والأجور  والضرائب  .\n3 -  الاقتراض  والقروض المسددة .",
+          "text_for_index": "1 - الثروات الطبيعية.\n2 - الرسوم والأجور والضرائب .\n3 - الاقتراض والقروض المسددة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "جزاء"
+          ],
+          "text_verbatim": "4 -  عوائد الاستثمار .\n5 -  المبيعات  والجزاءات  والغرامات .\n6 -  بيع أملاك الدولة    وإيجاراتها .",
+          "text_for_index": "4 - عوائد الاستثمار .\n5 - المبيعات والجزاءات والغرامات .\n6 - بيع أملاك الدولة وإيجاراتها .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "7 -  التبرعات      والهبات      والتعويضات .\n8 - أي مصدر آخر يصدر به قرار من مجلس الوزراء.",
+          "text_for_index": "7 - التبرعات والهبات والتعويضات .\n8 - أي مصدر آخر يصدر به قرار من مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثالثة",
+      "text_verbatim": "تقدر  الوزارة    إيرادات الدولة المتوقع تحصيلها لكل  سنة مالية    في ضوء التقديرات الواردة من الجهات .",
+      "text_for_index": "تقدر الوزارة إيرادات الدولة المتوقع تحصيلها لكل سنة مالية في ضوء التقديرات الواردة من الجهات .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقدر  الوزارة    إيرادات الدولة المتوقع تحصيلها لكل  سنة مالية    في ضوء التقديرات الواردة من الجهات .",
+          "text_for_index": "تقدر الوزارة إيرادات الدولة المتوقع تحصيلها لكل سنة مالية في ضوء التقديرات الواردة من الجهات .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الرابعة",
+      "text_verbatim": "أ -  \tتكون الجهة مسؤولة عن الاستثمار الأمثل لمواردها، وتنمية إيراداتها وتطويرها، ومراقبة تحصيلها، ومتابعته بالتنسيق مع  الوزارة    .\nب - \tتنشأ وحدة إدارية مستقلة للاستثمار وتنمية  الإيرادات    وتطويرها، ومراقبة التحصيل ومتابعته في أي جهة يتطلب عملها ذلك .",
+      "text_for_index": "أ - تكون الجهة مسؤولة عن الاستثمار الأمثل لمواردها، وتنمية إيراداتها وتطويرها، ومراقبة تحصيلها، ومتابعته بالتنسيق مع الوزارة .\nب - تنشأ وحدة إدارية مستقلة للاستثمار وتنمية الإيرادات وتطويرها، ومراقبة التحصيل ومتابعته في أي جهة يتطلب عملها ذلك .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "أ -  \tتكون الجهة مسؤولة عن الاستثمار الأمثل لمواردها، وتنمية إيراداتها وتطويرها، ومراقبة تحصيلها، ومتابعته بالتنسيق مع  الوزارة    .\nب - \tتنشأ وحدة إدارية مستقلة للاستثمار وتنمية  الإيرادات    وتطويرها، ومراقبة التحصيل ومتابعته في أي جهة يتطلب عملها ذلك .",
+          "text_for_index": "أ - تكون الجهة مسؤولة عن الاستثمار الأمثل لمواردها، وتنمية إيراداتها وتطويرها، ومراقبة تحصيلها، ومتابعته بالتنسيق مع الوزارة .\nب - تنشأ وحدة إدارية مستقلة للاستثمار وتنمية الإيرادات وتطويرها، ومراقبة التحصيل ومتابعته في أي جهة يتطلب عملها ذلك .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الخامسة",
+      "text_verbatim": "يخصص للجهة التي تحقق زيادة في إيراداتها ـ ضمن اعتمادات ميزانيتها ـ ما يقابل (20%) من الزيادة المتحققة في إيراداتها  للسنة المالية    المنتهية عن السنة السابقة، عدا إيرادات  الثروات الطبيعية    وبيع العقارات  والجزاءات      والغرامات، على أن تحدد اللائحة التنفيذية لهذا النظام المبالغ القصوى لكل جهة جبائية.",
+      "text_for_index": "يخصص للجهة التي تحقق زيادة في إيراداتها ـ ضمن اعتمادات ميزانيتها ـ ما يقابل (20%) من الزيادة المتحققة في إيراداتها للسنة المالية المنتهية عن السنة السابقة، عدا إيرادات الثروات الطبيعية وبيع العقارات والجزاءات والغرامات، على أن تحدد اللائحة التنفيذية لهذا النظام المبالغ القصوى لكل جهة جبائية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "جزاء"
+          ],
+          "text_verbatim": "يخصص للجهة التي تحقق زيادة في إيراداتها ـ ضمن اعتمادات ميزانيتها ـ ما يقابل (20%) من الزيادة المتحققة في إيراداتها  للسنة المالية    المنتهية عن السنة السابقة، عدا إيرادات  الثروات الطبيعية    وبيع العقارات  والجزاءات      والغرامات، على أن تحدد اللائحة التنفيذية لهذا النظام المبالغ القصوى لكل جهة جبائية.",
+          "text_for_index": "يخصص للجهة التي تحقق زيادة في إيراداتها ـ ضمن اعتمادات ميزانيتها ـ ما يقابل (20%) من الزيادة المتحققة في إيراداتها للسنة المالية المنتهية عن السنة السابقة، عدا إيرادات الثروات الطبيعية وبيع العقارات والجزاءات والغرامات، على أن تحدد اللائحة التنفيذية لهذا النظام المبالغ القصوى لكل جهة جبائية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة السادسة",
+      "text_verbatim": "تمنح  مكافأة تشجيعية    للموظفين الذين عملوا على تحقيق هذه الزيادة على ألا يتجاوز مقدار المكافأة الممنوحة لكل موظف ثلاثة رواتب في السنة المالية، وتحدد اللائحة ضوابط منح هذه المكافأة.",
+      "text_for_index": "تمنح مكافأة تشجيعية للموظفين الذين عملوا على تحقيق هذه الزيادة على ألا يتجاوز مقدار المكافأة الممنوحة لكل موظف ثلاثة رواتب في السنة المالية، وتحدد اللائحة ضوابط منح هذه المكافأة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تمنح  مكافأة تشجيعية    للموظفين الذين عملوا على تحقيق هذه الزيادة على ألا يتجاوز مقدار المكافأة الممنوحة لكل موظف ثلاثة رواتب في السنة المالية، وتحدد اللائحة ضوابط منح هذه المكافأة.",
+          "text_for_index": "تمنح مكافأة تشجيعية للموظفين الذين عملوا على تحقيق هذه الزيادة على ألا يتجاوز مقدار المكافأة الممنوحة لكل موظف ثلاثة رواتب في السنة المالية، وتحدد اللائحة ضوابط منح هذه المكافأة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة السابعة",
+      "text_verbatim": "تضع  الوزارة    ـ مع الجهة ذات العلاقة ـ الإجراءات الكفيلة بتحصيل  الإيرادات    بما يضمن المحافظة والرقابة عليها، ولها أن تستعين في ذلك بالقطاع الخاص .",
+      "text_for_index": "تضع الوزارة ـ مع الجهة ذات العلاقة ـ الإجراءات الكفيلة بتحصيل الإيرادات بما يضمن المحافظة والرقابة عليها، ولها أن تستعين في ذلك بالقطاع الخاص .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تضع  الوزارة    ـ مع الجهة ذات العلاقة ـ الإجراءات الكفيلة بتحصيل  الإيرادات    بما يضمن المحافظة والرقابة عليها، ولها أن تستعين في ذلك بالقطاع الخاص .",
+          "text_for_index": "تضع الوزارة ـ مع الجهة ذات العلاقة ـ الإجراءات الكفيلة بتحصيل الإيرادات بما يضمن المحافظة والرقابة عليها، ولها أن تستعين في ذلك بالقطاع الخاص .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثامنة",
+      "text_verbatim": "يجب على الجهة تحصيل جميع  الإيرادات    المستحقة في مواعيدها المحددة نظاما ووفقا للنماذج والأساليب التي تحددها اللائحة .",
+      "text_for_index": "يجب على الجهة تحصيل جميع الإيرادات المستحقة في مواعيدها المحددة نظاما ووفقا للنماذج والأساليب التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على الجهة تحصيل جميع  الإيرادات    المستحقة في مواعيدها المحددة نظاما ووفقا للنماذج والأساليب التي تحددها اللائحة .",
+          "text_for_index": "يجب على الجهة تحصيل جميع الإيرادات المستحقة في مواعيدها المحددة نظاما ووفقا للنماذج والأساليب التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة التاسعة",
+      "text_verbatim": "يجب على الجهة خلال  السنة المالية    قيد  الإيرادات    عند استحقاقها، وتسجيلها حال تحصيلها وفقا لما تحدده اللائحة .",
+      "text_for_index": "يجب على الجهة خلال السنة المالية قيد الإيرادات عند استحقاقها، وتسجيلها حال تحصيلها وفقا لما تحدده اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على الجهة خلال  السنة المالية    قيد  الإيرادات    عند استحقاقها، وتسجيلها حال تحصيلها وفقا لما تحدده اللائحة .",
+          "text_for_index": "يجب على الجهة خلال السنة المالية قيد الإيرادات عند استحقاقها، وتسجيلها حال تحصيلها وفقا لما تحدده اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة العاشرة",
+      "text_verbatim": "تتولى الجهة إيداع إيراداتها في الحسابات التي خصصتها لها  الوزارة    في  مؤسسة النقد العربي السعودي    أو البنوك المحلية، وذلك في مواعيدها المحددة .",
+      "text_for_index": "تتولى الجهة إيداع إيراداتها في الحسابات التي خصصتها لها الوزارة في مؤسسة النقد العربي السعودي أو البنوك المحلية، وذلك في مواعيدها المحددة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتولى الجهة إيداع إيراداتها في الحسابات التي خصصتها لها  الوزارة    في  مؤسسة النقد العربي السعودي    أو البنوك المحلية، وذلك في مواعيدها المحددة .",
+          "text_for_index": "تتولى الجهة إيداع إيراداتها في الحسابات التي خصصتها لها الوزارة في مؤسسة النقد العربي السعودي أو البنوك المحلية، وذلك في مواعيدها المحددة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الحادية عشرة",
+      "text_verbatim": "لا يحق للجهة الإعفاء من أي إيراد مستحق أو تأجيل تحصيله .",
+      "text_for_index": "لا يحق للجهة الإعفاء من أي إيراد مستحق أو تأجيل تحصيله .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "اختصاص"
+          ],
+          "text_verbatim": "لا يحق للجهة الإعفاء من أي إيراد مستحق أو تأجيل تحصيله .",
+          "text_for_index": "لا يحق للجهة الإعفاء من أي إيراد مستحق أو تأجيل تحصيله .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثانية عشرة",
+      "text_verbatim": "تتخذ  الوزارة    ـ وفقا للأساليب والتقنيات الحديثة ـ الإجراءات الكفيلة بتحصيل إيرادات الدولة، وتتحمل أجور تكاليف عملية التحصيل وفق ما تراه مناسبا .",
+      "text_for_index": "تتخذ الوزارة ـ وفقا للأساليب والتقنيات الحديثة ـ الإجراءات الكفيلة بتحصيل إيرادات الدولة، وتتحمل أجور تكاليف عملية التحصيل وفق ما تراه مناسبا .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تتخذ  الوزارة    ـ وفقا للأساليب والتقنيات الحديثة ـ الإجراءات الكفيلة بتحصيل إيرادات الدولة، وتتحمل أجور تكاليف عملية التحصيل وفق ما تراه مناسبا .",
+          "text_for_index": "تتخذ الوزارة ـ وفقا للأساليب والتقنيات الحديثة ـ الإجراءات الكفيلة بتحصيل إيرادات الدولة، وتتحمل أجور تكاليف عملية التحصيل وفق ما تراه مناسبا .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثالثة عشرة",
+      "text_verbatim": "كل من تأخر عن أداء  الدين    المستحق عليه للدولة في الموعد المحدد، تشعره الجهة كتابيا بوجوب تأديته خلال (30) ثلاثين  يوم عمل    من تاريخ الإشعار .",
+      "text_for_index": "كل من تأخر عن أداء الدين المستحق عليه للدولة في الموعد المحدد، تشعره الجهة كتابيا بوجوب تأديته خلال (30) ثلاثين يوم عمل من تاريخ الإشعار .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "كل من تأخر عن أداء  الدين    المستحق عليه للدولة في الموعد المحدد، تشعره الجهة كتابيا بوجوب تأديته خلال (30) ثلاثين  يوم عمل    من تاريخ الإشعار .",
+          "text_for_index": "كل من تأخر عن أداء الدين المستحق عليه للدولة في الموعد المحدد، تشعره الجهة كتابيا بوجوب تأديته خلال (30) ثلاثين يوم عمل من تاريخ الإشعار .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الرابعة عشرة",
+      "text_verbatim": "إذا لم يسدد  المدين      الدين    المستحق عليه خلال المدة المشار إليها في المادة الثالثة عشرة، فينذر نهائيا بالتسديد خلال (15) خمسة عشر  يوم عمل، فإن انقضت هذه المدة ولم يسدد    الدين  الواجب عليه وجب على الجهة اتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود    الدين  الذي عليه .",
+      "text_for_index": "إذا لم يسدد المدين الدين المستحق عليه خلال المدة المشار إليها في المادة الثالثة عشرة، فينذر نهائيا بالتسديد خلال (15) خمسة عشر يوم عمل، فإن انقضت هذه المدة ولم يسدد الدين الواجب عليه وجب على الجهة اتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود الدين الذي عليه .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "إذا لم يسدد  المدين      الدين    المستحق عليه خلال المدة المشار إليها في المادة الثالثة عشرة، فينذر نهائيا بالتسديد خلال (15) خمسة عشر  يوم عمل، فإن انقضت هذه المدة ولم يسدد    الدين  الواجب عليه وجب على الجهة اتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود    الدين  الذي عليه .",
+          "text_for_index": "إذا لم يسدد المدين الدين المستحق عليه خلال المدة المشار إليها في المادة الثالثة عشرة، فينذر نهائيا بالتسديد خلال (15) خمسة عشر يوم عمل، فإن انقضت هذه المدة ولم يسدد الدين الواجب عليه وجب على الجهة اتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود الدين الذي عليه .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الخامسة عشرة",
+      "text_verbatim": "يجوز للجهة الحكومية ذات العلاقة بموجب أمر قضائي مخاطبة الجهات الحكومية الأخرى بطلب حجز ما يوازي  الدين    المطلوب سداده من مستحقات  المدين    لديها قبل تسلمه لها من غير قيمة الضمانات البنكية.",
+      "text_for_index": "يجوز للجهة الحكومية ذات العلاقة بموجب أمر قضائي مخاطبة الجهات الحكومية الأخرى بطلب حجز ما يوازي الدين المطلوب سداده من مستحقات المدين لديها قبل تسلمه لها من غير قيمة الضمانات البنكية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز للجهة الحكومية ذات العلاقة بموجب أمر قضائي مخاطبة الجهات الحكومية الأخرى بطلب حجز ما يوازي  الدين    المطلوب سداده من مستحقات  المدين    لديها قبل تسلمه لها من غير قيمة الضمانات البنكية.",
+          "text_for_index": "يجوز للجهة الحكومية ذات العلاقة بموجب أمر قضائي مخاطبة الجهات الحكومية الأخرى بطلب حجز ما يوازي الدين المطلوب سداده من مستحقات المدين لديها قبل تسلمه لها من غير قيمة الضمانات البنكية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة:",
+      "article_heading": "السادسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة السادسة عشرة",
+      "text_verbatim": "يجب على كل بنك أو مؤسسة مالية عامة أو خاصة بعد تسلم إشعار الحجز من المحكمة المختصة تنفيذ ذلك بما يكفي لسداد  الدين، وإن لم يلتزم بذلك يلزم بسداد مبلغٍ للجهة يساوي قيمة الممتلكات التي كانت بحوزته بما لا يتجاوز المبلغ الذي تم الحجز من أجله .",
+      "text_for_index": "يجب على كل بنك أو مؤسسة مالية عامة أو خاصة بعد تسلم إشعار الحجز من المحكمة المختصة تنفيذ ذلك بما يكفي لسداد الدين، وإن لم يلتزم بذلك يلزم بسداد مبلغٍ للجهة يساوي قيمة الممتلكات التي كانت بحوزته بما لا يتجاوز المبلغ الذي تم الحجز من أجله .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجب على كل بنك أو مؤسسة مالية عامة أو خاصة بعد تسلم إشعار الحجز من المحكمة المختصة تنفيذ ذلك بما يكفي لسداد  الدين، وإن لم يلتزم بذلك يلزم بسداد مبلغٍ للجهة يساوي قيمة الممتلكات التي كانت بحوزته بما لا يتجاوز المبلغ الذي تم الحجز من أجله .",
+          "text_for_index": "يجب على كل بنك أو مؤسسة مالية عامة أو خاصة بعد تسلم إشعار الحجز من المحكمة المختصة تنفيذ ذلك بما يكفي لسداد الدين، وإن لم يلتزم بذلك يلزم بسداد مبلغٍ للجهة يساوي قيمة الممتلكات التي كانت بحوزته بما لا يتجاوز المبلغ الذي تم الحجز من أجله .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة:",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة السابعة عشرة",
+      "text_verbatim": "إذا لم تكف أموال  المدين    المنقولة لسداد  الدين، فيتم التنفيذ على عقاراته المحجوزة .",
+      "text_for_index": "إذا لم تكف أموال المدين المنقولة لسداد الدين، فيتم التنفيذ على عقاراته المحجوزة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "إذا لم تكف أموال  المدين    المنقولة لسداد  الدين، فيتم التنفيذ على عقاراته المحجوزة .",
+          "text_for_index": "إذا لم تكف أموال المدين المنقولة لسداد الدين، فيتم التنفيذ على عقاراته المحجوزة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة:",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثامنة عشرة",
+      "text_verbatim": "تسري أحكام مواد هذا الفصل على  أملاك الأوقاف    .",
+      "text_for_index": "تسري أحكام مواد هذا الفصل على أملاك الأوقاف .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تسري أحكام مواد هذا الفصل على  أملاك الأوقاف    .",
+          "text_for_index": "تسري أحكام مواد هذا الفصل على أملاك الأوقاف .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة:",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة التاسعة عشرة",
+      "text_verbatim": "دين الدولة المستحق دين ممتاز ولا يسقط بالتقادم .",
+      "text_for_index": "دين الدولة المستحق دين ممتاز ولا يسقط بالتقادم .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "دين الدولة المستحق دين ممتاز ولا يسقط بالتقادم .",
+          "text_for_index": "دين الدولة المستحق دين ممتاز ولا يسقط بالتقادم .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون:",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة العشرون",
+      "text_verbatim": "تكون لجنة في  الوزارة    من ثلاثة أعضاء، يكون أحدهم من ذوي الاختصاص الشرعي أو النظامي للنظر في دراسة الطلبات الواردة للإعفاء من  الدين    أو تقسيطه وإعداد التوصيات بشأنها  .",
+      "text_for_index": "تكون لجنة في الوزارة من ثلاثة أعضاء، يكون أحدهم من ذوي الاختصاص الشرعي أو النظامي للنظر في دراسة الطلبات الواردة للإعفاء من الدين أو تقسيطه وإعداد التوصيات بشأنها .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكون لجنة في  الوزارة    من ثلاثة أعضاء، يكون أحدهم من ذوي الاختصاص الشرعي أو النظامي للنظر في دراسة الطلبات الواردة للإعفاء من  الدين    أو تقسيطه وإعداد التوصيات بشأنها  .",
+          "text_for_index": "تكون لجنة في الوزارة من ثلاثة أعضاء، يكون أحدهم من ذوي الاختصاص الشرعي أو النظامي للنظر في دراسة الطلبات الواردة للإعفاء من الدين أو تقسيطه وإعداد التوصيات بشأنها .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون:",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "authority",
+        "exception",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "اختصاص",
+        "استثناء",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الحادية والعشرون",
+      "text_verbatim": "لا يجوز الإعفاء من  الدين    إلا بموافقة رئيس مجلس الوزراء . وللوزير صلاحية الإعفاء من  الدين ـ إذا لم يتجاوز خمسمائة ألف ريال ـ في الحالات الآتية:\n\n1 - إذا توفي  المدين    وثبت شرعا أنه ليس له تركة يمكن الرجوع إليها .\n2 - إذا قدم  المدين    ما يثبت  إعساره    أو  إفلاسه    شرعا وفقا  للأنظمة الشرعية .",
+      "text_for_index": "لا يجوز الإعفاء من الدين إلا بموافقة رئيس مجلس الوزراء . وللوزير صلاحية الإعفاء من الدين ـ إذا لم يتجاوز خمسمائة ألف ريال ـ في الحالات الآتية:\n\n1 - إذا توفي المدين وثبت شرعا أنه ليس له تركة يمكن الرجوع إليها .\n2 - إذا قدم المدين ما يثبت إعساره أو إفلاسه شرعا وفقا للأنظمة الشرعية .",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز الإعفاء من  الدين    إلا بموافقة رئيس مجلس الوزراء . وللوزير صلاحية الإعفاء من  الدين ـ إذا لم يتجاوز خمسمائة ألف ريال ـ في الحالات الآتية:",
+          "text_for_index": "لا يجوز الإعفاء من الدين إلا بموافقة رئيس مجلس الوزراء . وللوزير صلاحية الإعفاء من الدين ـ إذا لم يتجاوز خمسمائة ألف ريال ـ في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-21::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "1 - إذا توفي  المدين    وثبت شرعا أنه ليس له تركة يمكن الرجوع إليها .\n2 - إذا قدم  المدين    ما يثبت  إعساره    أو  إفلاسه    شرعا وفقا  للأنظمة الشرعية .",
+          "text_for_index": "1 - إذا توفي المدين وثبت شرعا أنه ليس له تركة يمكن الرجوع إليها .\n2 - إذا قدم المدين ما يثبت إعساره أو إفلاسه شرعا وفقا للأنظمة الشرعية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون:",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثانية والعشرون",
+      "text_verbatim": "للوزير - أو من ينيبه - صلاحية  تقسيط ديون الدولة    على العاجزين عن الوفاء بها دفعة واحدة، وفق القواعد الآتية:\n\n1  - \tأن يقدم  المدين    للّجنة المستنداتِ المؤيدة لعجزه عن الوفاء  بالدين    المترتب عليه دفعة واحدة .\n\n2 - \tألا تزيد مدة التقسيط على عشرين سنة .",
+      "text_for_index": "للوزير - أو من ينيبه - صلاحية تقسيط ديون الدولة على العاجزين عن الوفاء بها دفعة واحدة، وفق القواعد الآتية:\n\n1 - أن يقدم المدين للّجنة المستنداتِ المؤيدة لعجزه عن الوفاء بالدين المترتب عليه دفعة واحدة .\n\n2 - ألا تزيد مدة التقسيط على عشرين سنة .",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير - أو من ينيبه - صلاحية  تقسيط ديون الدولة    على العاجزين عن الوفاء بها دفعة واحدة، وفق القواعد الآتية:",
+          "text_for_index": "للوزير - أو من ينيبه - صلاحية تقسيط ديون الدولة على العاجزين عن الوفاء بها دفعة واحدة، وفق القواعد الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1  - \tأن يقدم  المدين    للّجنة المستنداتِ المؤيدة لعجزه عن الوفاء  بالدين    المترتب عليه دفعة واحدة .",
+          "text_for_index": "1 - أن يقدم المدين للّجنة المستنداتِ المؤيدة لعجزه عن الوفاء بالدين المترتب عليه دفعة واحدة .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-22::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2 - \tألا تزيد مدة التقسيط على عشرين سنة .",
+          "text_for_index": "2 - ألا تزيد مدة التقسيط على عشرين سنة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون:",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثالثة والعشرون",
+      "text_verbatim": "إذا تأخر  المدين    عن سداد أي من الأقساط المستحقة عليه فيشعر كتابيا بوجوب تأديته خلال ثلاثين  يوم عمل    من تاريخ الإشعار، وإذا لم يسدد خلال تلك المدة فينذر نهائيا بالتسديد خلال خمسة عشر  يوم عمل    .",
+      "text_for_index": "إذا تأخر المدين عن سداد أي من الأقساط المستحقة عليه فيشعر كتابيا بوجوب تأديته خلال ثلاثين يوم عمل من تاريخ الإشعار، وإذا لم يسدد خلال تلك المدة فينذر نهائيا بالتسديد خلال خمسة عشر يوم عمل .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "إذا تأخر  المدين    عن سداد أي من الأقساط المستحقة عليه فيشعر كتابيا بوجوب تأديته خلال ثلاثين  يوم عمل    من تاريخ الإشعار، وإذا لم يسدد خلال تلك المدة فينذر نهائيا بالتسديد خلال خمسة عشر  يوم عمل    .",
+          "text_for_index": "إذا تأخر المدين عن سداد أي من الأقساط المستحقة عليه فيشعر كتابيا بوجوب تأديته خلال ثلاثين يوم عمل من تاريخ الإشعار، وإذا لم يسدد خلال تلك المدة فينذر نهائيا بالتسديد خلال خمسة عشر يوم عمل .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون:",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الرابعة والعشرون",
+      "text_verbatim": "إذا انقضت المدة ولم يسدد  المدين    القسط الواجب عليه أو يقدم ما يثبت أسباب توقفه عن السداد، فيلغى التقسيط وتصبح باقي الأقساط واجبة الأداء، وعلى الجهة مطالبة  المدين    بسدادها دفعة واحدة، واتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود  الدين    الذي عليه.",
+      "text_for_index": "إذا انقضت المدة ولم يسدد المدين القسط الواجب عليه أو يقدم ما يثبت أسباب توقفه عن السداد، فيلغى التقسيط وتصبح باقي الأقساط واجبة الأداء، وعلى الجهة مطالبة المدين بسدادها دفعة واحدة، واتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود الدين الذي عليه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "إذا انقضت المدة ولم يسدد  المدين    القسط الواجب عليه أو يقدم ما يثبت أسباب توقفه عن السداد، فيلغى التقسيط وتصبح باقي الأقساط واجبة الأداء، وعلى الجهة مطالبة  المدين    بسدادها دفعة واحدة، واتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود  الدين    الذي عليه.",
+          "text_for_index": "إذا انقضت المدة ولم يسدد المدين القسط الواجب عليه أو يقدم ما يثبت أسباب توقفه عن السداد، فيلغى التقسيط وتصبح باقي الأقساط واجبة الأداء، وعلى الجهة مطالبة المدين بسدادها دفعة واحدة، واتخاذ الإجراءات اللازمة أمام المحكمة المختصة للحجز على أمواله في حدود الدين الذي عليه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون:",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الخامسة والعشرون",
+      "text_verbatim": "لا ينظر في إعفاء أو تقسيط الديون المترتبة على المدانين في جرائم اختلاس أو تزوير أو تحايل .",
+      "text_for_index": "لا ينظر في إعفاء أو تقسيط الديون المترتبة على المدانين في جرائم اختلاس أو تزوير أو تحايل .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا ينظر في إعفاء أو تقسيط الديون المترتبة على المدانين في جرائم اختلاس أو تزوير أو تحايل .",
+          "text_for_index": "لا ينظر في إعفاء أو تقسيط الديون المترتبة على المدانين في جرائم اختلاس أو تزوير أو تحايل .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون:",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة السادسة والعشرون",
+      "text_verbatim": "يجب على الجهة ـ حال حدوث أي مخالفة لهذا النظام ولائحته التنفيذية ـ إبلاغ  الوزارة    والأجهزة الرقابية في موعد أقصاه ثلاثون  يوم عمل    من اكتشاف المخالفة .",
+      "text_for_index": "يجب على الجهة ـ حال حدوث أي مخالفة لهذا النظام ولائحته التنفيذية ـ إبلاغ الوزارة والأجهزة الرقابية في موعد أقصاه ثلاثون يوم عمل من اكتشاف المخالفة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على الجهة ـ حال حدوث أي مخالفة لهذا النظام ولائحته التنفيذية ـ إبلاغ  الوزارة    والأجهزة الرقابية في موعد أقصاه ثلاثون  يوم عمل    من اكتشاف المخالفة .",
+          "text_for_index": "يجب على الجهة ـ حال حدوث أي مخالفة لهذا النظام ولائحته التنفيذية ـ إبلاغ الوزارة والأجهزة الرقابية في موعد أقصاه ثلاثون يوم عمل من اكتشاف المخالفة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون :",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة السابعة والعشرون",
+      "text_verbatim": "تطبق على مخالفي هذا النظام  العقوبات    المقررة نظاما.",
+      "text_for_index": "تطبق على مخالفي هذا النظام العقوبات المقررة نظاما.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "تطبق على مخالفي هذا النظام  العقوبات    المقررة نظاما.",
+          "text_for_index": "تطبق على مخالفي هذا النظام العقوبات المقررة نظاما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون :",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثامنة والعشرون",
+      "text_verbatim": "لا تخل أحكام هذا النظام بالأحكام الواردة في الأنظمة الخاصة بالجهات الأخرى.",
+      "text_for_index": "لا تخل أحكام هذا النظام بالأحكام الواردة في الأنظمة الخاصة بالجهات الأخرى.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا تخل أحكام هذا النظام بالأحكام الواردة في الأنظمة الخاصة بالجهات الأخرى.",
+          "text_for_index": "لا تخل أحكام هذا النظام بالأحكام الواردة في الأنظمة الخاصة بالجهات الأخرى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "الثامنة والعشرون مكرر",
+      "article_label_raw": "الثامنة والعشرون مكرر",
+      "article_heading": "الثامنة والعشرون مكرر",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثامنة والعشرون مكرر",
+      "text_verbatim": "- أضيفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/93) بتاريخ 1443/10/1هـ، والتي تنص على الآتي:\n\n\t• لاتسري أحكام المواد (العشرين) و(الحادية والعشرين) و(الثانية والعشرين) من هذا النظام على الديون الخاصة بالصناديق والبنوك التابعة لصندوق التنمية الوطني.\n\n\t• لصندوق التنمية الوطني -أو من يفوضه- صلاحية الإعفاء من الدين، وصلاحية تقسيط الدين على العاجزعن الوفاء به دفعة واحدة، لأي من الصناديق والبنوك التابعة له وفقاً لمعايير وضوابط وإجراءات يقرها مجلس إدارة الصندوق.",
+      "text_for_index": "- أضيفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/93) بتاريخ 1443/10/1هـ، والتي تنص على الآتي:\n\n • لاتسري أحكام المواد (العشرين) و(الحادية والعشرين) و(الثانية والعشرين) من هذا النظام على الديون الخاصة بالصناديق والبنوك التابعة لصندوق التنمية الوطني.\n\n • لصندوق التنمية الوطني -أو من يفوضه- صلاحية الإعفاء من الدين، وصلاحية تقسيط الدين على العاجزعن الوفاء به دفعة واحدة، لأي من الصناديق والبنوك التابعة له وفقاً لمعايير وضوابط وإجراءات يقرها مجلس إدارة الصندوق.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "- أضيفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/93) بتاريخ 1443/10/1هـ، والتي تنص على الآتي:",
+          "text_for_index": "- أضيفت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/93) بتاريخ 1443/10/1هـ، والتي تنص على الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-29::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• لاتسري أحكام المواد (العشرين) و(الحادية والعشرين) و(الثانية والعشرين) من هذا النظام على الديون الخاصة بالصناديق والبنوك التابعة لصندوق التنمية الوطني.",
+          "text_for_index": "• لاتسري أحكام المواد (العشرين) و(الحادية والعشرين) و(الثانية والعشرين) من هذا النظام على الديون الخاصة بالصناديق والبنوك التابعة لصندوق التنمية الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-29::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• لصندوق التنمية الوطني -أو من يفوضه- صلاحية الإعفاء من الدين، وصلاحية تقسيط الدين على العاجزعن الوفاء به دفعة واحدة، لأي من الصناديق والبنوك التابعة له وفقاً لمعايير وضوابط وإجراءات يقرها مجلس إدارة الصندوق.",
+          "text_for_index": "• لصندوق التنمية الوطني -أو من يفوضه- صلاحية الإعفاء من الدين، وصلاحية تقسيط الدين على العاجزعن الوفاء به دفعة واحدة، لأي من الصناديق والبنوك التابعة له وفقاً لمعايير وضوابط وإجراءات يقرها مجلس إدارة الصندوق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون:",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة التاسعة والعشرون",
+      "text_verbatim": "يصدر الوزير  اللائحة التنفيذية    لهذا النظام خلال مدة لا تتجاوز تسعين يوما من تاريخ نشره في الجريدة الرسمية .",
+      "text_for_index": "يصدر الوزير اللائحة التنفيذية لهذا النظام خلال مدة لا تتجاوز تسعين يوما من تاريخ نشره في الجريدة الرسمية .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير  اللائحة التنفيذية    لهذا النظام خلال مدة لا تتجاوز تسعين يوما من تاريخ نشره في الجريدة الرسمية .",
+          "text_for_index": "يصدر الوزير اللائحة التنفيذية لهذا النظام خلال مدة لا تتجاوز تسعين يوما من تاريخ نشره في الجريدة الرسمية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون:",
+      "article_heading": "الثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الثلاثون",
+      "text_verbatim": "يحل هذا النظام محل نظام جباية أموال الدولة، الصادر بالإرادة الملكية رقم (41 / 3 / 2 ) وتاريخ 12 / 4 / 1359 هـ، والمبلغ بالأمر السامي رقم (5732) في 4 / 5 / 1359 هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يحل هذا النظام محل نظام جباية أموال الدولة، الصادر بالإرادة الملكية رقم (41 / 3 / 2 ) وتاريخ 12 / 4 / 1359 هـ، والمبلغ بالأمر السامي رقم (5732) في 4 / 5 / 1359 هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل هذا النظام محل نظام جباية أموال الدولة، الصادر بالإرادة الملكية رقم (41 / 3 / 2 ) وتاريخ 12 / 4 / 1359 هـ، والمبلغ بالأمر السامي رقم (5732) في 4 / 5 / 1359 هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يحل هذا النظام محل نظام جباية أموال الدولة، الصادر بالإرادة الملكية رقم (41 / 3 / 2 ) وتاريخ 12 / 4 / 1359 هـ، والمبلغ بالأمر السامي رقم (5732) في 4 / 5 / 1359 هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون:",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام إيرادات الدولة، المادة الحادية والثلاثون",
+      "text_verbatim": "ينشر هذا النظام في  الجريدة الرسمية ، ويعمل به بعد تسعين يوما من تاريخ نشره .",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ، ويعمل به بعد تسعين يوما من تاريخ نشره .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-iyradat-aldwlh::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ينشر هذا النظام في  الجريدة الرسمية ، ويعمل به بعد تسعين يوما من تاريخ نشره .",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية ، ويعمل به بعد تسعين يوما من تاريخ نشره .",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2204 @@
+{
+  "metadata": {
+    "slug": "nzam-alsjl-altjary",
+    "title_ar": "نظام السجل التجاري",
+    "status": "ساري",
+    "issue_date_hijri": "1446/03/19 هـ الموافق : 22/09/2024 مـ",
+    "issue_date_gregorian": "2024-09-22",
+    "publish_date_hijri": "1446/04/01 هـ الموافق : 04/10/2024 مـ",
+    "publish_date_gregorian": "2024-10-04",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/98ee4b51-d398-4323-ae69-b2b8009f3156/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alsjl-altjary.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alsjl-altjary.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1446/04/01 هـ الموافق : 04/10/2024 مـ",
+    "effective_date_gregorian": "2024-10-04",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 29,
+    "paragraph_count": 88,
+    "indexable_paragraph_count": 88,
+    "text_chars": 10474,
+    "verbatim_chars": 10474,
+    "citation_base_ar": "نظام السجل التجاري",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/98ee4b51-d398-4323-ae69-b2b8009f3156/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alsjl-altjary.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alsjl-altjary.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى: التعريفات",
+      "article_label_raw": "الأولى: التعريفات",
+      "article_heading": "الأولى: التعريفات",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الأولى: التعريفات",
+      "text_verbatim": "يُقصد بالكلمات والعبارات الآتية- أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:\n\nالنظام: نظام السجل التجاري.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالوزارة: وزارة التجارة.\n\nالوزير: وزير التجارة.\n\nالتاجر: شخص ذو صفة طبيعية أو اعتبارية ينطبق عليه وصف التاجر وفقًا للنظام التجاري.\n\nالسجل التجاري: سجل يحتوي على بيانات التجار من خلال قاعدة بيانات إلكترونية مركزية.\n\nالمسجل: الجهة الحكومية المحددة من الوزير لإدارة السجل التجاري.",
+      "text_for_index": "يُقصد بالكلمات والعبارات الآتية- أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:\n\nالنظام: نظام السجل التجاري.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالوزارة: وزارة التجارة.\n\nالوزير: وزير التجارة.\n\nالتاجر: شخص ذو صفة طبيعية أو اعتبارية ينطبق عليه وصف التاجر وفقًا للنظام التجاري.\n\nالسجل التجاري: سجل يحتوي على بيانات التجار من خلال قاعدة بيانات إلكترونية مركزية.\n\nالمسجل: الجهة الحكومية المحددة من الوزير لإدارة السجل التجاري.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "يُقصد بالكلمات والعبارات الآتية- أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:",
+          "text_for_index": "يُقصد بالكلمات والعبارات الآتية- أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "النظام: نظام السجل التجاري.",
+          "text_for_index": "النظام: نظام السجل التجاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "definition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "الوزارة: وزارة التجارة.",
+          "text_for_index": "الوزارة: وزارة التجارة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "الوزير: وزير التجارة.",
+          "text_for_index": "الوزير: وزير التجارة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "التاجر: شخص ذو صفة طبيعية أو اعتبارية ينطبق عليه وصف التاجر وفقًا للنظام التجاري.",
+          "text_for_index": "التاجر: شخص ذو صفة طبيعية أو اعتبارية ينطبق عليه وصف التاجر وفقًا للنظام التجاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "definition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "السجل التجاري: سجل يحتوي على بيانات التجار من خلال قاعدة بيانات إلكترونية مركزية.",
+          "text_for_index": "السجل التجاري: سجل يحتوي على بيانات التجار من خلال قاعدة بيانات إلكترونية مركزية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "المسجل: الجهة الحكومية المحددة من الوزير لإدارة السجل التجاري.",
+          "text_for_index": "المسجل: الجهة الحكومية المحددة من الوزير لإدارة السجل التجاري.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية: الأهداف",
+      "article_label_raw": "الثانية: الأهداف",
+      "article_heading": "الثانية: الأهداف",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثانية: الأهداف",
+      "text_verbatim": "يهدف النظام إلى تيسير مزاولة الأعمال التجارية في المملكة، بتنظيم إجراءات القيد في السجل التجاري، مع ضمان تحقيق الآتي:\n\n\t• الشفافية، وذلك بأن تكون البيانات المقيدة في السجل التجاري متاحة للاطلاع، بما يكفل سهولة البحث عنها والحصول عليها.\n\n\t• الموثوقية، وذلك بأن تكون البيانات المقيدة في السجل التجاري صحيحة ودقيقة، وأن تُحدث دوريًّا.",
+      "text_for_index": "يهدف النظام إلى تيسير مزاولة الأعمال التجارية في المملكة، بتنظيم إجراءات القيد في السجل التجاري، مع ضمان تحقيق الآتي:\n\n • الشفافية، وذلك بأن تكون البيانات المقيدة في السجل التجاري متاحة للاطلاع، بما يكفل سهولة البحث عنها والحصول عليها.\n\n • الموثوقية، وذلك بأن تكون البيانات المقيدة في السجل التجاري صحيحة ودقيقة، وأن تُحدث دوريًّا.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يهدف النظام إلى تيسير مزاولة الأعمال التجارية في المملكة، بتنظيم إجراءات القيد في السجل التجاري، مع ضمان تحقيق الآتي:",
+          "text_for_index": "يهدف النظام إلى تيسير مزاولة الأعمال التجارية في المملكة، بتنظيم إجراءات القيد في السجل التجاري، مع ضمان تحقيق الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الشفافية، وذلك بأن تكون البيانات المقيدة في السجل التجاري متاحة للاطلاع، بما يكفل سهولة البحث عنها والحصول عليها.",
+          "text_for_index": "• الشفافية، وذلك بأن تكون البيانات المقيدة في السجل التجاري متاحة للاطلاع، بما يكفل سهولة البحث عنها والحصول عليها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الموثوقية، وذلك بأن تكون البيانات المقيدة في السجل التجاري صحيحة ودقيقة، وأن تُحدث دوريًّا.",
+          "text_for_index": "• الموثوقية، وذلك بأن تكون البيانات المقيدة في السجل التجاري صحيحة ودقيقة، وأن تُحدث دوريًّا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة: السجل التجاري",
+      "article_label_raw": "الثالثة: السجل التجاري",
+      "article_heading": "الثالثة: السجل التجاري",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثالثة: السجل التجاري",
+      "text_verbatim": "تنشئ الوزارة السجل التجاري، وتقيد فيه البيانات التي يحددها النظام واللائحة والأنظمة ذات العلاقة، وكل تحديث يطرأ عليها.",
+      "text_for_index": "تنشئ الوزارة السجل التجاري، وتقيد فيه البيانات التي يحددها النظام واللائحة والأنظمة ذات العلاقة، وكل تحديث يطرأ عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تنشئ الوزارة السجل التجاري، وتقيد فيه البيانات التي يحددها النظام واللائحة والأنظمة ذات العلاقة، وكل تحديث يطرأ عليها.",
+          "text_for_index": "تنشئ الوزارة السجل التجاري، وتقيد فيه البيانات التي يحددها النظام واللائحة والأنظمة ذات العلاقة، وكل تحديث يطرأ عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة: اختصاصات المسجل ومهماته",
+      "article_label_raw": "الرابعة: اختصاصات المسجل ومهماته",
+      "article_heading": "الرابعة: اختصاصات المسجل ومهماته",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الرابعة: اختصاصات المسجل ومهماته",
+      "text_verbatim": "يتولى المسجل الاختصاصات والمهمات الآتية:\n\n\t• قيد الأسماء التجارية وبيانات التجار، وإصدار شهادات القيد.\n\n\t• تقديم التوصيات، بشأن المسائل المتعلقة بالسجل التجاري، للجهات ذات العلاقة.\n\n\t• تطوير إجراءات القيد في السجل التجاري بالاستفادة من الممارسات المثلى.\n\n\t• التوعية والتثقيف بأحكام النظام.\n\n\t• إجراء أي تصحيح لازم للبيانات المقيدة في السجل التجاري وفقًا للمادة (التاسعة عشرة) من النظام.\n\n\t• طلب البيانات، المتعلقة بالتجار المقيدين في السجل التجاري، من الجهات ذات العلاقة؛ للاستفادة منها فيما يعزز تطوير قطاع الأعمال في المملكة.\n\n\t• أي اختصاصات أو مهمات أخرى تنص عليها اللائحة بما يحقق أهداف النظام.",
+      "text_for_index": "يتولى المسجل الاختصاصات والمهمات الآتية:\n\n • قيد الأسماء التجارية وبيانات التجار، وإصدار شهادات القيد.\n\n • تقديم التوصيات، بشأن المسائل المتعلقة بالسجل التجاري، للجهات ذات العلاقة.\n\n • تطوير إجراءات القيد في السجل التجاري بالاستفادة من الممارسات المثلى.\n\n • التوعية والتثقيف بأحكام النظام.\n\n • إجراء أي تصحيح لازم للبيانات المقيدة في السجل التجاري وفقًا للمادة (التاسعة عشرة) من النظام.\n\n • طلب البيانات، المتعلقة بالتجار المقيدين في السجل التجاري، من الجهات ذات العلاقة؛ للاستفادة منها فيما يعزز تطوير قطاع الأعمال في المملكة.\n\n • أي اختصاصات أو مهمات أخرى تنص عليها اللائحة بما يحقق أهداف النظام.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "يتولى المسجل الاختصاصات والمهمات الآتية:",
+          "text_for_index": "يتولى المسجل الاختصاصات والمهمات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• قيد الأسماء التجارية وبيانات التجار، وإصدار شهادات القيد.",
+          "text_for_index": "• قيد الأسماء التجارية وبيانات التجار، وإصدار شهادات القيد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• تقديم التوصيات، بشأن المسائل المتعلقة بالسجل التجاري، للجهات ذات العلاقة.",
+          "text_for_index": "• تقديم التوصيات، بشأن المسائل المتعلقة بالسجل التجاري، للجهات ذات العلاقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• تطوير إجراءات القيد في السجل التجاري بالاستفادة من الممارسات المثلى.",
+          "text_for_index": "• تطوير إجراءات القيد في السجل التجاري بالاستفادة من الممارسات المثلى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• التوعية والتثقيف بأحكام النظام.",
+          "text_for_index": "• التوعية والتثقيف بأحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء"
+          ],
+          "text_verbatim": "• إجراء أي تصحيح لازم للبيانات المقيدة في السجل التجاري وفقًا للمادة (التاسعة عشرة) من النظام.",
+          "text_for_index": "• إجراء أي تصحيح لازم للبيانات المقيدة في السجل التجاري وفقًا للمادة (التاسعة عشرة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• طلب البيانات، المتعلقة بالتجار المقيدين في السجل التجاري، من الجهات ذات العلاقة؛ للاستفادة منها فيما يعزز تطوير قطاع الأعمال في المملكة.",
+          "text_for_index": "• طلب البيانات، المتعلقة بالتجار المقيدين في السجل التجاري، من الجهات ذات العلاقة؛ للاستفادة منها فيما يعزز تطوير قطاع الأعمال في المملكة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-4::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• أي اختصاصات أو مهمات أخرى تنص عليها اللائحة بما يحقق أهداف النظام.",
+          "text_for_index": "• أي اختصاصات أو مهمات أخرى تنص عليها اللائحة بما يحقق أهداف النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة: الالتزام بالقيد",
+      "article_label_raw": "الخامسة: الالتزام بالقيد",
+      "article_heading": "الخامسة: الالتزام بالقيد",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الخامسة: الالتزام بالقيد",
+      "text_verbatim": "• يجب على كل تاجر القيد في السجل التجاري.\n\n\t• للوزارة -بناءً على ضوابط تحدد في اللائحة- استثناء بعض فئات التجار من القيد في السجل التجاري وتحديد الآثار المترتبة على ذلك.",
+      "text_for_index": "• يجب على كل تاجر القيد في السجل التجاري.\n\n • للوزارة -بناءً على ضوابط تحدد في اللائحة- استثناء بعض فئات التجار من القيد في السجل التجاري وتحديد الآثار المترتبة على ذلك.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• يجب على كل تاجر القيد في السجل التجاري.",
+          "text_for_index": "• يجب على كل تاجر القيد في السجل التجاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء"
+          ],
+          "text_verbatim": "• للوزارة -بناءً على ضوابط تحدد في اللائحة- استثناء بعض فئات التجار من القيد في السجل التجاري وتحديد الآثار المترتبة على ذلك.",
+          "text_for_index": "• للوزارة -بناءً على ضوابط تحدد في اللائحة- استثناء بعض فئات التجار من القيد في السجل التجاري وتحديد الآثار المترتبة على ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة: البيانات الواجب تضمينها في طلب القيد في السجل التجاري",
+      "article_label_raw": "السادسة: البيانات الواجب تضمينها في طلب القيد في السجل التجاري",
+      "article_heading": "السادسة: البيانات الواجب تضمينها في طلب القيد في السجل التجاري",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة السادسة: البيانات الواجب تضمينها في طلب القيد في السجل التجاري",
+      "text_verbatim": "• مع مراعاة الأنظمة ذات العلاقة، يجب أن يشتمل طلب القيد على البيانات الآتية:\n\n\tأ- اسم طالب القيد وعنوانه، ورقم هويته.\n\n\tب- الاسم التجاري الذي يرغب التاجر في مزاولة النشاط التجاري من خلاله.\n\n\tج- الشكل النظامي للتاجر.\n\n\tد- مقدار رأس مال التاجر.\n\n\tهـ- اسم المدير أو المديرين أو أعضاء مجلس الإدارة وصلاحياتهم.\n\n\tو- عنوان المركز الرئيس لمزاولة التاجر أعماله.\n\n\tز- أي بيانات أخرى وفقاً لما تحدده اللائحة.\n\n\t• للوزارة أن تحدد في اللائحة الأحكام المتعلقة ببيانات الحساب البنكي والبيانات الأخرى الواجب تقديمها بعد القيد في السجل التجاري.",
+      "text_for_index": "• مع مراعاة الأنظمة ذات العلاقة، يجب أن يشتمل طلب القيد على البيانات الآتية:\n\n أ- اسم طالب القيد وعنوانه، ورقم هويته.\n\n ب- الاسم التجاري الذي يرغب التاجر في مزاولة النشاط التجاري من خلاله.\n\n ج- الشكل النظامي للتاجر.\n\n د- مقدار رأس مال التاجر.\n\n هـ- اسم المدير أو المديرين أو أعضاء مجلس الإدارة وصلاحياتهم.\n\n و- عنوان المركز الرئيس لمزاولة التاجر أعماله.\n\n ز- أي بيانات أخرى وفقاً لما تحدده اللائحة.\n\n • للوزارة أن تحدد في اللائحة الأحكام المتعلقة ببيانات الحساب البنكي والبيانات الأخرى الواجب تقديمها بعد القيد في السجل التجاري.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• مع مراعاة الأنظمة ذات العلاقة، يجب أن يشتمل طلب القيد على البيانات الآتية:",
+          "text_for_index": "• مع مراعاة الأنظمة ذات العلاقة، يجب أن يشتمل طلب القيد على البيانات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "أ- اسم طالب القيد وعنوانه، ورقم هويته.",
+          "text_for_index": "أ- اسم طالب القيد وعنوانه، ورقم هويته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ب- الاسم التجاري الذي يرغب التاجر في مزاولة النشاط التجاري من خلاله.",
+          "text_for_index": "ب- الاسم التجاري الذي يرغب التاجر في مزاولة النشاط التجاري من خلاله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ج- الشكل النظامي للتاجر.",
+          "text_for_index": "ج- الشكل النظامي للتاجر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "د- مقدار رأس مال التاجر.",
+          "text_for_index": "د- مقدار رأس مال التاجر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "هـ- اسم المدير أو المديرين أو أعضاء مجلس الإدارة وصلاحياتهم.",
+          "text_for_index": "هـ- اسم المدير أو المديرين أو أعضاء مجلس الإدارة وصلاحياتهم.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "و- عنوان المركز الرئيس لمزاولة التاجر أعماله.",
+          "text_for_index": "و- عنوان المركز الرئيس لمزاولة التاجر أعماله.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ز- أي بيانات أخرى وفقاً لما تحدده اللائحة.",
+          "text_for_index": "ز- أي بيانات أخرى وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-6::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• للوزارة أن تحدد في اللائحة الأحكام المتعلقة ببيانات الحساب البنكي والبيانات الأخرى الواجب تقديمها بعد القيد في السجل التجاري.",
+          "text_for_index": "• للوزارة أن تحدد في اللائحة الأحكام المتعلقة ببيانات الحساب البنكي والبيانات الأخرى الواجب تقديمها بعد القيد في السجل التجاري.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة: إجراءات تقديم الطلب",
+      "article_label_raw": "السابعة: إجراءات تقديم الطلب",
+      "article_heading": "السابعة: إجراءات تقديم الطلب",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline",
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية",
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة السابعة: إجراءات تقديم الطلب",
+      "text_verbatim": "• يقدم طلب القيد في السجل التجاري إلى المسجل.\n\n\t• يبتّ المسجل في الطلب المستوفي البيانات المطلوبة خلال (عشرة) أيام من تاريخ تقديمه. وللمسجل في حالات تحددها اللائحة تمديد تلك المدة.\n\n\t• يجوز لطالب القيد، في حال رفض الطلب لوجود خطأ أو نقص، تصحيح الطلب أو استكماله خلال المدة التي تحددها اللائحة، وإلا أُلغي الطلب، وله تقديم طلب جديد.\n\n\t• في حال رفض الطلب، يجب أن يكون القرار مسببًا، ويُبلغ به طالب القيد وفقًا لما تحدده اللائحة، ويحق له التظلم أمام الوزارة خلال (ستين) يومًا من تاريخ إبلاغه برفضه.\n\n\t• يحدد المسجل النماذج المتعلقة بطلبات القيد والتحديث والتأكيد السنوي والشطب والمستخرجات وصور الشهادات والوثائق المطلوبة للقيد وأي نموذج آخر ذي علاقة، وذلك وفقًا للنظام والأنظمة الأخرى ذات العلاقة.",
+      "text_for_index": "• يقدم طلب القيد في السجل التجاري إلى المسجل.\n\n • يبتّ المسجل في الطلب المستوفي البيانات المطلوبة خلال (عشرة) أيام من تاريخ تقديمه. وللمسجل في حالات تحددها اللائحة تمديد تلك المدة.\n\n • يجوز لطالب القيد، في حال رفض الطلب لوجود خطأ أو نقص، تصحيح الطلب أو استكماله خلال المدة التي تحددها اللائحة، وإلا أُلغي الطلب، وله تقديم طلب جديد.\n\n • في حال رفض الطلب، يجب أن يكون القرار مسببًا، ويُبلغ به طالب القيد وفقًا لما تحدده اللائحة، ويحق له التظلم أمام الوزارة خلال (ستين) يومًا من تاريخ إبلاغه برفضه.\n\n • يحدد المسجل النماذج المتعلقة بطلبات القيد والتحديث والتأكيد السنوي والشطب والمستخرجات وصور الشهادات والوثائق المطلوبة للقيد وأي نموذج آخر ذي علاقة، وذلك وفقًا للنظام والأنظمة الأخرى ذات العلاقة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• يقدم طلب القيد في السجل التجاري إلى المسجل.",
+          "text_for_index": "• يقدم طلب القيد في السجل التجاري إلى المسجل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يبتّ المسجل في الطلب المستوفي البيانات المطلوبة خلال (عشرة) أيام من تاريخ تقديمه. وللمسجل في حالات تحددها اللائحة تمديد تلك المدة.",
+          "text_for_index": "• يبتّ المسجل في الطلب المستوفي البيانات المطلوبة خلال (عشرة) أيام من تاريخ تقديمه. وللمسجل في حالات تحددها اللائحة تمديد تلك المدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجوز لطالب القيد، في حال رفض الطلب لوجود خطأ أو نقص، تصحيح الطلب أو استكماله خلال المدة التي تحددها اللائحة، وإلا أُلغي الطلب، وله تقديم طلب جديد.",
+          "text_for_index": "• يجوز لطالب القيد، في حال رفض الطلب لوجود خطأ أو نقص، تصحيح الطلب أو استكماله خلال المدة التي تحددها اللائحة، وإلا أُلغي الطلب، وله تقديم طلب جديد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline",
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية",
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• في حال رفض الطلب، يجب أن يكون القرار مسببًا، ويُبلغ به طالب القيد وفقًا لما تحدده اللائحة، ويحق له التظلم أمام الوزارة خلال (ستين) يومًا من تاريخ إبلاغه برفضه.",
+          "text_for_index": "• في حال رفض الطلب، يجب أن يكون القرار مسببًا، ويُبلغ به طالب القيد وفقًا لما تحدده اللائحة، ويحق له التظلم أمام الوزارة خلال (ستين) يومًا من تاريخ إبلاغه برفضه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-7::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• يحدد المسجل النماذج المتعلقة بطلبات القيد والتحديث والتأكيد السنوي والشطب والمستخرجات وصور الشهادات والوثائق المطلوبة للقيد وأي نموذج آخر ذي علاقة، وذلك وفقًا للنظام والأنظمة الأخرى ذات العلاقة.",
+          "text_for_index": "• يحدد المسجل النماذج المتعلقة بطلبات القيد والتحديث والتأكيد السنوي والشطب والمستخرجات وصور الشهادات والوثائق المطلوبة للقيد وأي نموذج آخر ذي علاقة، وذلك وفقًا للنظام والأنظمة الأخرى ذات العلاقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة: طريقة تقديم الطلب",
+      "article_label_raw": "الثامنة: طريقة تقديم الطلب",
+      "article_heading": "الثامنة: طريقة تقديم الطلب",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثامنة: طريقة تقديم الطلب",
+      "text_verbatim": "يكون تقديم جميع الطلبات واتخاذ الإجراءات في السجل التجاري إلكترونيًّا. وتبين اللائحة الأحكام اللازمة لذلك ووسيلة تقديم الطلب عند تعذر تقديمه إلكترونيًّا.",
+      "text_for_index": "يكون تقديم جميع الطلبات واتخاذ الإجراءات في السجل التجاري إلكترونيًّا. وتبين اللائحة الأحكام اللازمة لذلك ووسيلة تقديم الطلب عند تعذر تقديمه إلكترونيًّا.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يكون تقديم جميع الطلبات واتخاذ الإجراءات في السجل التجاري إلكترونيًّا. وتبين اللائحة الأحكام اللازمة لذلك ووسيلة تقديم الطلب عند تعذر تقديمه إلكترونيًّا.",
+          "text_for_index": "يكون تقديم جميع الطلبات واتخاذ الإجراءات في السجل التجاري إلكترونيًّا. وتبين اللائحة الأحكام اللازمة لذلك ووسيلة تقديم الطلب عند تعذر تقديمه إلكترونيًّا.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة: قيد أنشطة مختلفة",
+      "article_label_raw": "التاسعة: قيد أنشطة مختلفة",
+      "article_heading": "التاسعة: قيد أنشطة مختلفة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة التاسعة: قيد أنشطة مختلفة",
+      "text_verbatim": "يجوز للتاجر قيد أنشطة مختلفة في السجل التجاري، ولا يشترط التجانس بينها، وذلك دون إخلال بأحكام الأنظمة الأخرى ذات العلاقة.",
+      "text_for_index": "يجوز للتاجر قيد أنشطة مختلفة في السجل التجاري، ولا يشترط التجانس بينها، وذلك دون إخلال بأحكام الأنظمة الأخرى ذات العلاقة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز للتاجر قيد أنشطة مختلفة في السجل التجاري، ولا يشترط التجانس بينها، وذلك دون إخلال بأحكام الأنظمة الأخرى ذات العلاقة.",
+          "text_for_index": "يجوز للتاجر قيد أنشطة مختلفة في السجل التجاري، ولا يشترط التجانس بينها، وذلك دون إخلال بأحكام الأنظمة الأخرى ذات العلاقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة: التحديث في السجل التجاري",
+      "article_label_raw": "العاشرة: التحديث في السجل التجاري",
+      "article_heading": "العاشرة: التحديث في السجل التجاري",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة العاشرة: التحديث في السجل التجاري",
+      "text_verbatim": "يجب على التاجر، عند حدوث أي تغيير أو تعديل على البيانات المقيدة في السجل التجاري، أن يحدّثها خلال (خمسة عشر) يومًا من حدوث ذلك التغيير أو التعديل.",
+      "text_for_index": "يجب على التاجر، عند حدوث أي تغيير أو تعديل على البيانات المقيدة في السجل التجاري، أن يحدّثها خلال (خمسة عشر) يومًا من حدوث ذلك التغيير أو التعديل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على التاجر، عند حدوث أي تغيير أو تعديل على البيانات المقيدة في السجل التجاري، أن يحدّثها خلال (خمسة عشر) يومًا من حدوث ذلك التغيير أو التعديل.",
+          "text_for_index": "يجب على التاجر، عند حدوث أي تغيير أو تعديل على البيانات المقيدة في السجل التجاري، أن يحدّثها خلال (خمسة عشر) يومًا من حدوث ذلك التغيير أو التعديل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة: التأكيد السنوي",
+      "article_label_raw": "الحادية عشرة: التأكيد السنوي",
+      "article_heading": "الحادية عشرة: التأكيد السنوي",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الحادية عشرة: التأكيد السنوي",
+      "text_verbatim": "يجب على التاجر أن يقدم سنويًّا إلى المسجل تأكيدًا للبيانات المقيدة في السجل التجاري، وذلك وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يجب على التاجر أن يقدم سنويًّا إلى المسجل تأكيدًا للبيانات المقيدة في السجل التجاري، وذلك وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على التاجر أن يقدم سنويًّا إلى المسجل تأكيدًا للبيانات المقيدة في السجل التجاري، وذلك وفقًا لما تحدده اللائحة.",
+          "text_for_index": "يجب على التاجر أن يقدم سنويًّا إلى المسجل تأكيدًا للبيانات المقيدة في السجل التجاري، وذلك وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة: المسؤولية عن صحة البيانات",
+      "article_label_raw": "الثانية عشرة: المسؤولية عن صحة البيانات",
+      "article_heading": "الثانية عشرة: المسؤولية عن صحة البيانات",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثانية عشرة: المسؤولية عن صحة البيانات",
+      "text_verbatim": "لا يتحمل المسجل المسؤولية عن صحة ودقة البيانات المقدمة من التاجر بشأن أي من خدمات السجل التجاري.",
+      "text_for_index": "لا يتحمل المسجل المسؤولية عن صحة ودقة البيانات المقدمة من التاجر بشأن أي من خدمات السجل التجاري.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "لا يتحمل المسجل المسؤولية عن صحة ودقة البيانات المقدمة من التاجر بشأن أي من خدمات السجل التجاري.",
+          "text_for_index": "لا يتحمل المسجل المسؤولية عن صحة ودقة البيانات المقدمة من التاجر بشأن أي من خدمات السجل التجاري.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة: الشطب الاختياري",
+      "article_label_raw": "الثالثة عشرة: الشطب الاختياري",
+      "article_heading": "الثالثة عشرة: الشطب الاختياري",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثالثة عشرة: الشطب الاختياري",
+      "text_verbatim": "مع مراعاة أحكام نظام الشركات والأنظمة الأخرى ذات العلاقة، للتاجر التقدم بطلب شطب قيده في السجل التجاري اختياريًّا إذا توقف عن مزاولة نشاطه التجاري، وذلك وفقًا لما تحدده اللائحة.",
+      "text_for_index": "مع مراعاة أحكام نظام الشركات والأنظمة الأخرى ذات العلاقة، للتاجر التقدم بطلب شطب قيده في السجل التجاري اختياريًّا إذا توقف عن مزاولة نشاطه التجاري، وذلك وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "مع مراعاة أحكام نظام الشركات والأنظمة الأخرى ذات العلاقة، للتاجر التقدم بطلب شطب قيده في السجل التجاري اختياريًّا إذا توقف عن مزاولة نشاطه التجاري، وذلك وفقًا لما تحدده اللائحة.",
+          "text_for_index": "مع مراعاة أحكام نظام الشركات والأنظمة الأخرى ذات العلاقة، للتاجر التقدم بطلب شطب قيده في السجل التجاري اختياريًّا إذا توقف عن مزاولة نشاطه التجاري، وذلك وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة: الشطب الوجوبي",
+      "article_label_raw": "الرابعة عشرة: الشطب الوجوبي",
+      "article_heading": "الرابعة عشرة: الشطب الوجوبي",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الرابعة عشرة: الشطب الوجوبي",
+      "text_verbatim": "يجب على المسجل شطب قيد التاجر في السجل التجاري في الحالات الآتية:\n\n\t• صدور حكم قضائي نهائي بشطب القيد من السجل التجاري.\n\n\t• انتهاء التصفية بناءً على نظام الشركات أو نظام الإفلاس.\n\n\t• وفاة التاجر، ما لم يطلب ورثته تعديل القيد. ويتعين على المسجل قبل إجراء الشطب إشعارهم، وذلك وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يجب على المسجل شطب قيد التاجر في السجل التجاري في الحالات الآتية:\n\n • صدور حكم قضائي نهائي بشطب القيد من السجل التجاري.\n\n • انتهاء التصفية بناءً على نظام الشركات أو نظام الإفلاس.\n\n • وفاة التاجر، ما لم يطلب ورثته تعديل القيد. ويتعين على المسجل قبل إجراء الشطب إشعارهم، وذلك وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على المسجل شطب قيد التاجر في السجل التجاري في الحالات الآتية:",
+          "text_for_index": "يجب على المسجل شطب قيد التاجر في السجل التجاري في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• صدور حكم قضائي نهائي بشطب القيد من السجل التجاري.",
+          "text_for_index": "• صدور حكم قضائي نهائي بشطب القيد من السجل التجاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-14::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• انتهاء التصفية بناءً على نظام الشركات أو نظام الإفلاس.",
+          "text_for_index": "• انتهاء التصفية بناءً على نظام الشركات أو نظام الإفلاس.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-14::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "• وفاة التاجر، ما لم يطلب ورثته تعديل القيد. ويتعين على المسجل قبل إجراء الشطب إشعارهم، وذلك وفقًا لما تحدده اللائحة.",
+          "text_for_index": "• وفاة التاجر، ما لم يطلب ورثته تعديل القيد. ويتعين على المسجل قبل إجراء الشطب إشعارهم، وذلك وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة: تعليق القيد في السجل التجاري",
+      "article_label_raw": "الخامسة عشرة: تعليق القيد في السجل التجاري",
+      "article_heading": "الخامسة عشرة: تعليق القيد في السجل التجاري",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "obligation",
+        "prohibition",
+        "procedure",
+        "deadline",
+        "claimant_right"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "التزام",
+        "منع",
+        "إجراء",
+        "مهلة زمنية",
+        "حق لصاحب الطلب"
+      ],
+      "topic_tags": [
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الخامسة عشرة: تعليق القيد في السجل التجاري",
+      "text_verbatim": "• يُعلق المسجل قيد التاجر إذا لم يقدم التأكيد السنوي خلال (تسعين) يومًا من تاريخ استحقاقه.\n\n\t• يتعين على المسجل، قبل إجراء التعليق وفقًا للفقرة (1) من هذه المادة، إنذار التاجر بأنه سيُعلَّق قيده بعد (أربعة عشر) يومًا من تاريخ الإنذار. وفي حال انقضت المدة دون تقديم التاجر التأكيد السنوي، يُشعر التاجر بقرار تعليق قيده.\n\n\t• يقيد المسجل قرار تعليق القيد في السجل التجاري، ويترتب على ذلك تعليق جميع التراخيص الصادرة للقيد المعلق، وتبين اللائحة الآثار الأخرى المترتبة على قرار تعليق القيد.يُعلق القيد في السجل التجاري لمدة (سنة). وعلى المسجل رفع التعليق عن قيد التاجر إذا تقدم خلال هذه المدة بطلب رفعه مع تقديم التأكيد السنوي وأداء المقابل المالي المقرر مضافًا إليه الغرامة المالية المقررة بناءً على المادة (الحادية والعشرين) من النظام.\n\n\t• فيما عدا الشركة وفرع الشركة الأجنبية، إذا لم يتخذ التاجر ما يلزم وفق الفقرة (4) من هذه المادة، يشطب المسجل قيده.\n\n\t• إذا لم تتخذ الشركة أو فرع الشركة الأجنبية ما يلزم وفق الفقرة (4) من هذه المادة، فلا يحق لها طلب رفع التعليق. وللوزارة، عند انتهاء المدة المشار إليها في الفقرة (4) من هذه المادة، مطالبة الشركاء أو المساهمين بحل الشركة أو طلب حل الشركة من المحكمة المختصة.",
+      "text_for_index": "• يُعلق المسجل قيد التاجر إذا لم يقدم التأكيد السنوي خلال (تسعين) يومًا من تاريخ استحقاقه.\n\n • يتعين على المسجل، قبل إجراء التعليق وفقًا للفقرة (1) من هذه المادة، إنذار التاجر بأنه سيُعلَّق قيده بعد (أربعة عشر) يومًا من تاريخ الإنذار. وفي حال انقضت المدة دون تقديم التاجر التأكيد السنوي، يُشعر التاجر بقرار تعليق قيده.\n\n • يقيد المسجل قرار تعليق القيد في السجل التجاري، ويترتب على ذلك تعليق جميع التراخيص الصادرة للقيد المعلق، وتبين اللائحة الآثار الأخرى المترتبة على قرار تعليق القيد.يُعلق القيد في السجل التجاري لمدة (سنة). وعلى المسجل رفع التعليق عن قيد التاجر إذا تقدم خلال هذه المدة بطلب رفعه مع تقديم التأكيد السنوي وأداء المقابل المالي المقرر مضافًا إليه الغرامة المالية المقررة بناءً على المادة (الحادية والعشرين) من النظام.\n\n • فيما عدا الشركة وفرع الشركة الأجنبية، إذا لم يتخذ التاجر ما يلزم وفق الفقرة (4) من هذه المادة، يشطب المسجل قيده.\n\n • إذا لم تتخذ الشركة أو فرع الشركة الأجنبية ما يلزم وفق الفقرة (4) من هذه المادة، فلا يحق لها طلب رفع التعليق. وللوزارة، عند انتهاء المدة المشار إليها في الفقرة (4) من هذه المادة، مطالبة الشركاء أو المساهمين بحل الشركة أو طلب حل الشركة من المحكمة المختصة.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يُعلق المسجل قيد التاجر إذا لم يقدم التأكيد السنوي خلال (تسعين) يومًا من تاريخ استحقاقه.",
+          "text_for_index": "• يُعلق المسجل قيد التاجر إذا لم يقدم التأكيد السنوي خلال (تسعين) يومًا من تاريخ استحقاقه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-15::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يتعين على المسجل، قبل إجراء التعليق وفقًا للفقرة (1) من هذه المادة، إنذار التاجر بأنه سيُعلَّق قيده بعد (أربعة عشر) يومًا من تاريخ الإنذار. وفي حال انقضت المدة دون تقديم التاجر التأكيد السنوي، يُشعر التاجر بقرار تعليق قيده.",
+          "text_for_index": "• يتعين على المسجل، قبل إجراء التعليق وفقًا للفقرة (1) من هذه المادة، إنذار التاجر بأنه سيُعلَّق قيده بعد (أربعة عشر) يومًا من تاريخ الإنذار. وفي حال انقضت المدة دون تقديم التاجر التأكيد السنوي، يُشعر التاجر بقرار تعليق قيده.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-15::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يقيد المسجل قرار تعليق القيد في السجل التجاري، ويترتب على ذلك تعليق جميع التراخيص الصادرة للقيد المعلق، وتبين اللائحة الآثار الأخرى المترتبة على قرار تعليق القيد.يُعلق القيد في السجل التجاري لمدة (سنة). وعلى المسجل رفع التعليق عن قيد التاجر إذا تقدم خلال هذه المدة بطلب رفعه مع تقديم التأكيد السنوي وأداء المقابل المالي المقرر مضافًا إليه الغرامة المالية المقررة بناءً على المادة (الحادية والعشرين) من النظام.",
+          "text_for_index": "• يقيد المسجل قرار تعليق القيد في السجل التجاري، ويترتب على ذلك تعليق جميع التراخيص الصادرة للقيد المعلق، وتبين اللائحة الآثار الأخرى المترتبة على قرار تعليق القيد.يُعلق القيد في السجل التجاري لمدة (سنة). وعلى المسجل رفع التعليق عن قيد التاجر إذا تقدم خلال هذه المدة بطلب رفعه مع تقديم التأكيد السنوي وأداء المقابل المالي المقرر مضافًا إليه الغرامة المالية المقررة بناءً على المادة (الحادية والعشرين) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-15::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• فيما عدا الشركة وفرع الشركة الأجنبية، إذا لم يتخذ التاجر ما يلزم وفق الفقرة (4) من هذه المادة، يشطب المسجل قيده.",
+          "text_for_index": "• فيما عدا الشركة وفرع الشركة الأجنبية، إذا لم يتخذ التاجر ما يلزم وفق الفقرة (4) من هذه المادة، يشطب المسجل قيده.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-15::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation",
+            "prohibition",
+            "deadline",
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام",
+            "منع",
+            "مهلة زمنية",
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "• إذا لم تتخذ الشركة أو فرع الشركة الأجنبية ما يلزم وفق الفقرة (4) من هذه المادة، فلا يحق لها طلب رفع التعليق. وللوزارة، عند انتهاء المدة المشار إليها في الفقرة (4) من هذه المادة، مطالبة الشركاء أو المساهمين بحل الشركة أو طلب حل الشركة من المحكمة المختصة.",
+          "text_for_index": "• إذا لم تتخذ الشركة أو فرع الشركة الأجنبية ما يلزم وفق الفقرة (4) من هذه المادة، فلا يحق لها طلب رفع التعليق. وللوزارة، عند انتهاء المدة المشار إليها في الفقرة (4) من هذه المادة، مطالبة الشركاء أو المساهمين بحل الشركة أو طلب حل الشركة من المحكمة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة: عرض بيانات القيد",
+      "article_label_raw": "السادسة عشرة: عرض بيانات القيد",
+      "article_heading": "السادسة عشرة: عرض بيانات القيد",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة السادسة عشرة: عرض بيانات القيد",
+      "text_verbatim": "يجب على التاجر عرض بيانات القيد في السجل التجاري في مكان واضح في المتجر الذي يزاول فيه أعماله، وذلك وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يجب على التاجر عرض بيانات القيد في السجل التجاري في مكان واضح في المتجر الذي يزاول فيه أعماله، وذلك وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على التاجر عرض بيانات القيد في السجل التجاري في مكان واضح في المتجر الذي يزاول فيه أعماله، وذلك وفقًا لما تحدده اللائحة.",
+          "text_for_index": "يجب على التاجر عرض بيانات القيد في السجل التجاري في مكان واضح في المتجر الذي يزاول فيه أعماله، وذلك وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة: حجية بيانات القيد",
+      "article_label_raw": "السابعة عشرة: حجية بيانات القيد",
+      "article_heading": "السابعة عشرة: حجية بيانات القيد",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة السابعة عشرة: حجية بيانات القيد",
+      "text_verbatim": "تُعد البيانات المقيدة في السجل التجاري حجة للتاجر أو عليه من تاريخ قيدها، ولا يجوز الاحتجاج على الغير بأي بيان واجب قيده أو تحديثه ما لم يُقيد أو يُحدث. ومع ذلك، يجوز لذي المصلحة الاحتجاج بهذا البيان في مواجهة التاجر.",
+      "text_for_index": "تُعد البيانات المقيدة في السجل التجاري حجة للتاجر أو عليه من تاريخ قيدها، ولا يجوز الاحتجاج على الغير بأي بيان واجب قيده أو تحديثه ما لم يُقيد أو يُحدث. ومع ذلك، يجوز لذي المصلحة الاحتجاج بهذا البيان في مواجهة التاجر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "تُعد البيانات المقيدة في السجل التجاري حجة للتاجر أو عليه من تاريخ قيدها، ولا يجوز الاحتجاج على الغير بأي بيان واجب قيده أو تحديثه ما لم يُقيد أو يُحدث. ومع ذلك، يجوز لذي المصلحة الاحتجاج بهذا البيان في مواجهة التاجر.",
+          "text_for_index": "تُعد البيانات المقيدة في السجل التجاري حجة للتاجر أو عليه من تاريخ قيدها، ولا يجوز الاحتجاج على الغير بأي بيان واجب قيده أو تحديثه ما لم يُقيد أو يُحدث. ومع ذلك، يجوز لذي المصلحة الاحتجاج بهذا البيان في مواجهة التاجر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة: الاطلاع على بيانات القيد",
+      "article_label_raw": "الثامنة عشرة: الاطلاع على بيانات القيد",
+      "article_heading": "الثامنة عشرة: الاطلاع على بيانات القيد",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثامنة عشرة: الاطلاع على بيانات القيد",
+      "text_verbatim": "• يجوز لأي شخص الاطلاع على البيانات الأساسية المقيدة في السجل التجاري وفقًا لما تحدده اللائحة.\n\n\t• يجوز لأي شخص أن يطلب من المسجل مستخرج بيانات تفصيلية بالقيد في السجل التجاري أو أي بيانات أخرى محددة، وذلك وفقًا لما تحدده اللائحة. وفي حالة عدم وجود قيد، يُمنح طالب المستخرج شهادة بذلك.",
+      "text_for_index": "• يجوز لأي شخص الاطلاع على البيانات الأساسية المقيدة في السجل التجاري وفقًا لما تحدده اللائحة.\n\n • يجوز لأي شخص أن يطلب من المسجل مستخرج بيانات تفصيلية بالقيد في السجل التجاري أو أي بيانات أخرى محددة، وذلك وفقًا لما تحدده اللائحة. وفي حالة عدم وجود قيد، يُمنح طالب المستخرج شهادة بذلك.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• يجوز لأي شخص الاطلاع على البيانات الأساسية المقيدة في السجل التجاري وفقًا لما تحدده اللائحة.",
+          "text_for_index": "• يجوز لأي شخص الاطلاع على البيانات الأساسية المقيدة في السجل التجاري وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "• يجوز لأي شخص أن يطلب من المسجل مستخرج بيانات تفصيلية بالقيد في السجل التجاري أو أي بيانات أخرى محددة، وذلك وفقًا لما تحدده اللائحة. وفي حالة عدم وجود قيد، يُمنح طالب المستخرج شهادة بذلك.",
+          "text_for_index": "• يجوز لأي شخص أن يطلب من المسجل مستخرج بيانات تفصيلية بالقيد في السجل التجاري أو أي بيانات أخرى محددة، وذلك وفقًا لما تحدده اللائحة. وفي حالة عدم وجود قيد، يُمنح طالب المستخرج شهادة بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة: تصحيح الأخطاء",
+      "article_label_raw": "التاسعة عشرة: تصحيح الأخطاء",
+      "article_heading": "التاسعة عشرة: تصحيح الأخطاء",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة التاسعة عشرة: تصحيح الأخطاء",
+      "text_verbatim": "• إذا تبين للمسجل وقوع خطأ مادي -إملائي أو حسابي- أو إجرائي أثناء عملية القيد أو التعديل، فيتعين تصحيحه خلال (خمسة) أيام من تاريخ اكتشاف الخطأ أو من تاريخ تقديم طلب التصحيح من التاجر.\n\n\t• في حال قيام المسجل بالتصحيح من تلقاء نفسه، فيجب عليه إشعار التاجر بمضمون التصحيح خلال (خمسة) أيام من حدوث التصحيح.",
+      "text_for_index": "• إذا تبين للمسجل وقوع خطأ مادي -إملائي أو حسابي- أو إجرائي أثناء عملية القيد أو التعديل، فيتعين تصحيحه خلال (خمسة) أيام من تاريخ اكتشاف الخطأ أو من تاريخ تقديم طلب التصحيح من التاجر.\n\n • في حال قيام المسجل بالتصحيح من تلقاء نفسه، فيجب عليه إشعار التاجر بمضمون التصحيح خلال (خمسة) أيام من حدوث التصحيح.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• إذا تبين للمسجل وقوع خطأ مادي -إملائي أو حسابي- أو إجرائي أثناء عملية القيد أو التعديل، فيتعين تصحيحه خلال (خمسة) أيام من تاريخ اكتشاف الخطأ أو من تاريخ تقديم طلب التصحيح من التاجر.",
+          "text_for_index": "• إذا تبين للمسجل وقوع خطأ مادي -إملائي أو حسابي- أو إجرائي أثناء عملية القيد أو التعديل، فيتعين تصحيحه خلال (خمسة) أيام من تاريخ اكتشاف الخطأ أو من تاريخ تقديم طلب التصحيح من التاجر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• في حال قيام المسجل بالتصحيح من تلقاء نفسه، فيجب عليه إشعار التاجر بمضمون التصحيح خلال (خمسة) أيام من حدوث التصحيح.",
+          "text_for_index": "• في حال قيام المسجل بالتصحيح من تلقاء نفسه، فيجب عليه إشعار التاجر بمضمون التصحيح خلال (خمسة) أيام من حدوث التصحيح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون: قيد الأحكام النهائية",
+      "article_label_raw": "العشرون: قيد الأحكام النهائية",
+      "article_heading": "العشرون: قيد الأحكام النهائية",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "guardianship",
+        "company_management"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية",
+        "إدارة الشركات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة العشرون: قيد الأحكام النهائية",
+      "text_verbatim": "تشعر المحكمة المختصة المسجل بصدور أي من الأحكام والقرارات النهائية الآتية، وذلك خلال (ثلاثين) يومًا من تاريخ صدور أي منها:\n\n\t• أحكام أو قرارات قبول الإيداع القضائي بشأن افتتاح أي من إجراءات الإفلاس المنصوص عليها في نظام الإفلاس، أو إنهائها.\n\n\t• أحكام حل وتصفية الشركات أو بطلانها وتعيين المصفين أو عزلهم بناءً على نظام الشركات.\n\n\t• أحكام إنهاء وانتهاء التصفية بناءً على نظام الشركات.\n\n\t• أحكام رد الاعتبار للتجار.\n\n\t• الأحكام والقرارات الصادرة بإيقاع الحجر أو الولاية أو تعيين الوكلاء عن الغائبين أو عزلهم أو رفع الحجر.\n\n\t• الأحكام والقرارات الصادرة بمنح الإذن للقاصر أو نائبه بالتجارة أو بسحب الإذن أو تقييده.\n\n\t• الأحكام الصادرة بإيقاع عقوبات جزائية تمنع التاجر من مزاولة أعماله، واسم القيّم وتاريخ تعيينه.\n\n\t• أحكام إخراج الشركاء أو المساهمين أو عزل المديرين.\n\n\t• الأحكام الصادرة في شأن الحراسة القضائية وحصر الورثة للتاجر.\n\n\tويقيد في السجل التجاري مقتضى هذه الأحكام والقرارات بمجرد الإشعار بها.",
+      "text_for_index": "تشعر المحكمة المختصة المسجل بصدور أي من الأحكام والقرارات النهائية الآتية، وذلك خلال (ثلاثين) يومًا من تاريخ صدور أي منها:\n\n • أحكام أو قرارات قبول الإيداع القضائي بشأن افتتاح أي من إجراءات الإفلاس المنصوص عليها في نظام الإفلاس، أو إنهائها.\n\n • أحكام حل وتصفية الشركات أو بطلانها وتعيين المصفين أو عزلهم بناءً على نظام الشركات.\n\n • أحكام إنهاء وانتهاء التصفية بناءً على نظام الشركات.\n\n • أحكام رد الاعتبار للتجار.\n\n • الأحكام والقرارات الصادرة بإيقاع الحجر أو الولاية أو تعيين الوكلاء عن الغائبين أو عزلهم أو رفع الحجر.\n\n • الأحكام والقرارات الصادرة بمنح الإذن للقاصر أو نائبه بالتجارة أو بسحب الإذن أو تقييده.\n\n • الأحكام الصادرة بإيقاع عقوبات جزائية تمنع التاجر من مزاولة أعماله، واسم القيّم وتاريخ تعيينه.\n\n • أحكام إخراج الشركاء أو المساهمين أو عزل المديرين.\n\n • الأحكام الصادرة في شأن الحراسة القضائية وحصر الورثة للتاجر.\n\n ويقيد في السجل التجاري مقتضى هذه الأحكام والقرارات بمجرد الإشعار بها.",
+      "paragraph_count": 11,
+      "indexable_paragraph_count": 11,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تشعر المحكمة المختصة المسجل بصدور أي من الأحكام والقرارات النهائية الآتية، وذلك خلال (ثلاثين) يومًا من تاريخ صدور أي منها:",
+          "text_for_index": "تشعر المحكمة المختصة المسجل بصدور أي من الأحكام والقرارات النهائية الآتية، وذلك خلال (ثلاثين) يومًا من تاريخ صدور أي منها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• أحكام أو قرارات قبول الإيداع القضائي بشأن افتتاح أي من إجراءات الإفلاس المنصوص عليها في نظام الإفلاس، أو إنهائها.",
+          "text_for_index": "• أحكام أو قرارات قبول الإيداع القضائي بشأن افتتاح أي من إجراءات الإفلاس المنصوص عليها في نظام الإفلاس، أو إنهائها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• أحكام حل وتصفية الشركات أو بطلانها وتعيين المصفين أو عزلهم بناءً على نظام الشركات.",
+          "text_for_index": "• أحكام حل وتصفية الشركات أو بطلانها وتعيين المصفين أو عزلهم بناءً على نظام الشركات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• أحكام إنهاء وانتهاء التصفية بناءً على نظام الشركات.",
+          "text_for_index": "• أحكام إنهاء وانتهاء التصفية بناءً على نظام الشركات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• أحكام رد الاعتبار للتجار.",
+          "text_for_index": "• أحكام رد الاعتبار للتجار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الأحكام والقرارات الصادرة بإيقاع الحجر أو الولاية أو تعيين الوكلاء عن الغائبين أو عزلهم أو رفع الحجر.",
+          "text_for_index": "• الأحكام والقرارات الصادرة بإيقاع الحجر أو الولاية أو تعيين الوكلاء عن الغائبين أو عزلهم أو رفع الحجر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الأحكام والقرارات الصادرة بمنح الإذن للقاصر أو نائبه بالتجارة أو بسحب الإذن أو تقييده.",
+          "text_for_index": "• الأحكام والقرارات الصادرة بمنح الإذن للقاصر أو نائبه بالتجارة أو بسحب الإذن أو تقييده.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الأحكام الصادرة بإيقاع عقوبات جزائية تمنع التاجر من مزاولة أعماله، واسم القيّم وتاريخ تعيينه.",
+          "text_for_index": "• الأحكام الصادرة بإيقاع عقوبات جزائية تمنع التاجر من مزاولة أعماله، واسم القيّم وتاريخ تعيينه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• أحكام إخراج الشركاء أو المساهمين أو عزل المديرين.",
+          "text_for_index": "• أحكام إخراج الشركاء أو المساهمين أو عزل المديرين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• الأحكام الصادرة في شأن الحراسة القضائية وحصر الورثة للتاجر.",
+          "text_for_index": "• الأحكام الصادرة في شأن الحراسة القضائية وحصر الورثة للتاجر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-20::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ويقيد في السجل التجاري مقتضى هذه الأحكام والقرارات بمجرد الإشعار بها.",
+          "text_for_index": "ويقيد في السجل التجاري مقتضى هذه الأحكام والقرارات بمجرد الإشعار بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون: بيان المخالفات",
+      "article_label_raw": "الحادية والعشرون: بيان المخالفات",
+      "article_heading": "الحادية والعشرون: بيان المخالفات",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "penalty",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "جزاء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الحادية والعشرون: بيان المخالفات",
+      "text_verbatim": "• دون إخلال بأية عقوبة ينص عليها نظام آخر، يعاقب بغرامة لا تزيد على (خمسين) ألف ريال:\n\n\tأ- من قدم بيانات غير صحيحة لقيدها في السجل التجاري.\n\n\tب- التاجر الذي لم يلتزم بأحكام الفقرة (1) من المادة (الخامسة) والمواد: (العاشرة) و(الحادية عشرة) و(السادسة عشرة) من النظام.\n\n\tج- التاجر الذي لم يلتزم بالأحكام التي تحددها الوزارة بناءً على الفقرة (2) من المادة (السادسة) من النظام.\n\n\t• يجوز أن تضاعف الغرامة في حال التكرار. ويكون التكرار بارتكاب المخالفة نفسها الصادر بثبوتها قرار نهائي خلال (ثلاث) سنوات من تاريخ صدور القرار.\n\n\t• يراعى في تحديد الغرامة جسامة المخالفة وظروفها، وملابساتها، وآثارها، وحجم المنشأة. وتحدد اللائحة جدول تصنيف المخالفات.",
+      "text_for_index": "• دون إخلال بأية عقوبة ينص عليها نظام آخر، يعاقب بغرامة لا تزيد على (خمسين) ألف ريال:\n\n أ- من قدم بيانات غير صحيحة لقيدها في السجل التجاري.\n\n ب- التاجر الذي لم يلتزم بأحكام الفقرة (1) من المادة (الخامسة) والمواد: (العاشرة) و(الحادية عشرة) و(السادسة عشرة) من النظام.\n\n ج- التاجر الذي لم يلتزم بالأحكام التي تحددها الوزارة بناءً على الفقرة (2) من المادة (السادسة) من النظام.\n\n • يجوز أن تضاعف الغرامة في حال التكرار. ويكون التكرار بارتكاب المخالفة نفسها الصادر بثبوتها قرار نهائي خلال (ثلاث) سنوات من تاريخ صدور القرار.\n\n • يراعى في تحديد الغرامة جسامة المخالفة وظروفها، وملابساتها، وآثارها، وحجم المنشأة. وتحدد اللائحة جدول تصنيف المخالفات.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "penalty",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "جزاء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• دون إخلال بأية عقوبة ينص عليها نظام آخر، يعاقب بغرامة لا تزيد على (خمسين) ألف ريال:",
+          "text_for_index": "• دون إخلال بأية عقوبة ينص عليها نظام آخر، يعاقب بغرامة لا تزيد على (خمسين) ألف ريال:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-21::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "أ- من قدم بيانات غير صحيحة لقيدها في السجل التجاري.",
+          "text_for_index": "أ- من قدم بيانات غير صحيحة لقيدها في السجل التجاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-21::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "ب- التاجر الذي لم يلتزم بأحكام الفقرة (1) من المادة (الخامسة) والمواد: (العاشرة) و(الحادية عشرة) و(السادسة عشرة) من النظام.",
+          "text_for_index": "ب- التاجر الذي لم يلتزم بأحكام الفقرة (1) من المادة (الخامسة) والمواد: (العاشرة) و(الحادية عشرة) و(السادسة عشرة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-21::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام"
+          ],
+          "text_verbatim": "ج- التاجر الذي لم يلتزم بالأحكام التي تحددها الوزارة بناءً على الفقرة (2) من المادة (السادسة) من النظام.",
+          "text_for_index": "ج- التاجر الذي لم يلتزم بالأحكام التي تحددها الوزارة بناءً على الفقرة (2) من المادة (السادسة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-21::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجوز أن تضاعف الغرامة في حال التكرار. ويكون التكرار بارتكاب المخالفة نفسها الصادر بثبوتها قرار نهائي خلال (ثلاث) سنوات من تاريخ صدور القرار.",
+          "text_for_index": "• يجوز أن تضاعف الغرامة في حال التكرار. ويكون التكرار بارتكاب المخالفة نفسها الصادر بثبوتها قرار نهائي خلال (ثلاث) سنوات من تاريخ صدور القرار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-21::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "جزاء"
+          ],
+          "text_verbatim": "• يراعى في تحديد الغرامة جسامة المخالفة وظروفها، وملابساتها، وآثارها، وحجم المنشأة. وتحدد اللائحة جدول تصنيف المخالفات.",
+          "text_for_index": "• يراعى في تحديد الغرامة جسامة المخالفة وظروفها، وملابساتها، وآثارها، وحجم المنشأة. وتحدد اللائحة جدول تصنيف المخالفات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون: ضبط المخالفات",
+      "article_label_raw": "الثانية والعشرون: ضبط المخالفات",
+      "article_heading": "الثانية والعشرون: ضبط المخالفات",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثانية والعشرون: ضبط المخالفات",
+      "text_verbatim": "• يتولى ضبط ما يقع من مخالفات لأحكام النظام موظفون يصدر بتسميتهم قرار من الوزير، وتكون لهم صفة الضبط.\n\n\t• يصدر الوزير قواعد تنظم عمل ومهمات الموظفين المشار إليهم في الفقرة (1) من هذه المادة.\n\n\t• يصدر الوزير قواعد منح المكافآت المالية للعاملين على كشف المخالفات المنصوص عليها في النظام، وذلك بالاتفاق مع وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية.",
+      "text_for_index": "• يتولى ضبط ما يقع من مخالفات لأحكام النظام موظفون يصدر بتسميتهم قرار من الوزير، وتكون لهم صفة الضبط.\n\n • يصدر الوزير قواعد تنظم عمل ومهمات الموظفين المشار إليهم في الفقرة (1) من هذه المادة.\n\n • يصدر الوزير قواعد منح المكافآت المالية للعاملين على كشف المخالفات المنصوص عليها في النظام، وذلك بالاتفاق مع وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يتولى ضبط ما يقع من مخالفات لأحكام النظام موظفون يصدر بتسميتهم قرار من الوزير، وتكون لهم صفة الضبط.",
+          "text_for_index": "• يتولى ضبط ما يقع من مخالفات لأحكام النظام موظفون يصدر بتسميتهم قرار من الوزير، وتكون لهم صفة الضبط.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يصدر الوزير قواعد تنظم عمل ومهمات الموظفين المشار إليهم في الفقرة (1) من هذه المادة.",
+          "text_for_index": "• يصدر الوزير قواعد تنظم عمل ومهمات الموظفين المشار إليهم في الفقرة (1) من هذه المادة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-22::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يصدر الوزير قواعد منح المكافآت المالية للعاملين على كشف المخالفات المنصوص عليها في النظام، وذلك بالاتفاق مع وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية.",
+          "text_for_index": "• يصدر الوزير قواعد منح المكافآت المالية للعاملين على كشف المخالفات المنصوص عليها في النظام، وذلك بالاتفاق مع وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون: لجنة النظر في المخالفات",
+      "article_label_raw": "الثالثة والعشرون: لجنة النظر في المخالفات",
+      "article_heading": "الثالثة والعشرون: لجنة النظر في المخالفات",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "authority",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "اختصاص",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثالثة والعشرون: لجنة النظر في المخالفات",
+      "text_verbatim": "تكوّن بقرار من الوزير لجنة (أو أكثر) من أعضاء لا يقل عددهم عن (ثلاثة)، ويرأسها ذو تأهيل نظامي، وتختص بالنظر في المخالفات وإيقاع العقوبة المنصوص عليها في المادة (الحادية والعشرين) من النظام، ويكون للوزير تحديد المخالفات التي يجوز إيقاع العقوبات مباشرة بشأنها دون عرضها على اللجنة. وتصدر قواعد عمل اللجنة وتحدد مكافآت رئيسها وأعضائها وأمانتها، بقرار من الوزير.",
+      "text_for_index": "تكوّن بقرار من الوزير لجنة (أو أكثر) من أعضاء لا يقل عددهم عن (ثلاثة)، ويرأسها ذو تأهيل نظامي، وتختص بالنظر في المخالفات وإيقاع العقوبة المنصوص عليها في المادة (الحادية والعشرين) من النظام، ويكون للوزير تحديد المخالفات التي يجوز إيقاع العقوبات مباشرة بشأنها دون عرضها على اللجنة. وتصدر قواعد عمل اللجنة وتحدد مكافآت رئيسها وأعضائها وأمانتها، بقرار من الوزير.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "authority",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "اختصاص",
+            "جزاء"
+          ],
+          "text_verbatim": "تكوّن بقرار من الوزير لجنة (أو أكثر) من أعضاء لا يقل عددهم عن (ثلاثة)، ويرأسها ذو تأهيل نظامي، وتختص بالنظر في المخالفات وإيقاع العقوبة المنصوص عليها في المادة (الحادية والعشرين) من النظام، ويكون للوزير تحديد المخالفات التي يجوز إيقاع العقوبات مباشرة بشأنها دون عرضها على اللجنة. وتصدر قواعد عمل اللجنة وتحدد مكافآت رئيسها وأعضائها وأمانتها، بقرار من الوزير.",
+          "text_for_index": "تكوّن بقرار من الوزير لجنة (أو أكثر) من أعضاء لا يقل عددهم عن (ثلاثة)، ويرأسها ذو تأهيل نظامي، وتختص بالنظر في المخالفات وإيقاع العقوبة المنصوص عليها في المادة (الحادية والعشرين) من النظام، ويكون للوزير تحديد المخالفات التي يجوز إيقاع العقوبات مباشرة بشأنها دون عرضها على اللجنة. وتصدر قواعد عمل اللجنة وتحدد مكافآت رئيسها وأعضائها وأمانتها، بقرار من الوزير.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون: الإجراءات البديلة",
+      "article_label_raw": "الرابعة والعشرون: الإجراءات البديلة",
+      "article_heading": "الرابعة والعشرون: الإجراءات البديلة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام السجل التجاري، المادة الرابعة والعشرون: الإجراءات البديلة",
+      "text_verbatim": "إذا ثبت أن التاجر قد ارتكب أيًّا من المخالفات الواردة في المادة (الحادية والعشرين) من النظام، فيحق للجنة أن تتخذ -بالإضافة إلى العقوبة المقررة أو بدلًا عنها- أيًّا من الآتي:\n\n\t• إنذار التاجر.\n\n\t• إلزام التاجر باتخاذ الخطوات الضرورية لتجنب وقوع المخالفة مستقبلًا.\n\n\t• إلزام التاجر باتخاذ الخطوات التصحيحية اللازمة لمعالجة آثار المخالفة.\n\n\t• إصدار قرار بتصحيح البيانات المقيدة في السجل التجاري.",
+      "text_for_index": "إذا ثبت أن التاجر قد ارتكب أيًّا من المخالفات الواردة في المادة (الحادية والعشرين) من النظام، فيحق للجنة أن تتخذ -بالإضافة إلى العقوبة المقررة أو بدلًا عنها- أيًّا من الآتي:\n\n • إنذار التاجر.\n\n • إلزام التاجر باتخاذ الخطوات الضرورية لتجنب وقوع المخالفة مستقبلًا.\n\n • إلزام التاجر باتخاذ الخطوات التصحيحية اللازمة لمعالجة آثار المخالفة.\n\n • إصدار قرار بتصحيح البيانات المقيدة في السجل التجاري.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "جزاء"
+          ],
+          "text_verbatim": "إذا ثبت أن التاجر قد ارتكب أيًّا من المخالفات الواردة في المادة (الحادية والعشرين) من النظام، فيحق للجنة أن تتخذ -بالإضافة إلى العقوبة المقررة أو بدلًا عنها- أيًّا من الآتي:",
+          "text_for_index": "إذا ثبت أن التاجر قد ارتكب أيًّا من المخالفات الواردة في المادة (الحادية والعشرين) من النظام، فيحق للجنة أن تتخذ -بالإضافة إلى العقوبة المقررة أو بدلًا عنها- أيًّا من الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-24::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إنذار التاجر.",
+          "text_for_index": "• إنذار التاجر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-24::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إلزام التاجر باتخاذ الخطوات الضرورية لتجنب وقوع المخالفة مستقبلًا.",
+          "text_for_index": "• إلزام التاجر باتخاذ الخطوات الضرورية لتجنب وقوع المخالفة مستقبلًا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-24::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إلزام التاجر باتخاذ الخطوات التصحيحية اللازمة لمعالجة آثار المخالفة.",
+          "text_for_index": "• إلزام التاجر باتخاذ الخطوات التصحيحية اللازمة لمعالجة آثار المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-24::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• إصدار قرار بتصحيح البيانات المقيدة في السجل التجاري.",
+          "text_for_index": "• إصدار قرار بتصحيح البيانات المقيدة في السجل التجاري.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون: التظلم على القرارات",
+      "article_label_raw": "الخامسة والعشرون: التظلم على القرارات",
+      "article_heading": "الخامسة والعشرون: التظلم على القرارات",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الخامسة والعشرون: التظلم على القرارات",
+      "text_verbatim": "يحق لمن صدر ضده أي قرار بناءً على أحكام النظام التظلم منه أمام المحكمة المختصة خلال (ثلاثين) يومًا من تاريخ التبليغ به وفقًا لما تحدده اللائحة.",
+      "text_for_index": "يحق لمن صدر ضده أي قرار بناءً على أحكام النظام التظلم منه أمام المحكمة المختصة خلال (ثلاثين) يومًا من تاريخ التبليغ به وفقًا لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يحق لمن صدر ضده أي قرار بناءً على أحكام النظام التظلم منه أمام المحكمة المختصة خلال (ثلاثين) يومًا من تاريخ التبليغ به وفقًا لما تحدده اللائحة.",
+          "text_for_index": "يحق لمن صدر ضده أي قرار بناءً على أحكام النظام التظلم منه أمام المحكمة المختصة خلال (ثلاثين) يومًا من تاريخ التبليغ به وفقًا لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون: إسناد المهمات",
+      "article_label_raw": "السادسة والعشرون: إسناد المهمات",
+      "article_heading": "السادسة والعشرون: إسناد المهمات",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة السادسة والعشرون: إسناد المهمات",
+      "text_verbatim": "للوزير الاستعانة بالجهات العامة أو الخاصة للقيام بالمهمات المقررة للمسجل، وله إسناد بعضها إلى تلك الجهات.",
+      "text_for_index": "للوزير الاستعانة بالجهات العامة أو الخاصة للقيام بالمهمات المقررة للمسجل، وله إسناد بعضها إلى تلك الجهات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير الاستعانة بالجهات العامة أو الخاصة للقيام بالمهمات المقررة للمسجل، وله إسناد بعضها إلى تلك الجهات.",
+          "text_for_index": "للوزير الاستعانة بالجهات العامة أو الخاصة للقيام بالمهمات المقررة للمسجل، وله إسناد بعضها إلى تلك الجهات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون: المقابل المالي",
+      "article_label_raw": "السابعة والعشرون: المقابل المالي",
+      "article_heading": "السابعة والعشرون: المقابل المالي",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة السابعة والعشرون: المقابل المالي",
+      "text_verbatim": "تحدد اللائحة المقابل المالي للخدمات المقدمة من المسجل تنفيذًا لأحكام النظام.",
+      "text_for_index": "تحدد اللائحة المقابل المالي للخدمات المقدمة من المسجل تنفيذًا لأحكام النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تحدد اللائحة المقابل المالي للخدمات المقدمة من المسجل تنفيذًا لأحكام النظام.",
+          "text_for_index": "تحدد اللائحة المقابل المالي للخدمات المقدمة من المسجل تنفيذًا لأحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون: إصدار اللائحة",
+      "article_label_raw": "الثامنة والعشرون: إصدار اللائحة",
+      "article_heading": "الثامنة والعشرون: إصدار اللائحة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة الثامنة والعشرون: إصدار اللائحة",
+      "text_verbatim": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+      "text_for_index": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+          "text_for_index": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون: نفاذ النظام",
+      "article_label_raw": "التاسعة والعشرون: نفاذ النظام",
+      "article_heading": "التاسعة والعشرون: نفاذ النظام",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام السجل التجاري، المادة التاسعة والعشرون: نفاذ النظام",
+      "text_verbatim": "يحل النظام محل نظام السجل التجاري، الصادر بالمرسوم الملكي رقم (م / 1) وتاريخ 21 / 2 / 1416هــ، ويعمل به بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يحل النظام محل نظام السجل التجاري، الصادر بالمرسوم الملكي رقم (م / 1) وتاريخ 21 / 2 / 1416هــ، ويعمل به بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alsjl-altjary::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل النظام محل نظام السجل التجاري، الصادر بالمرسوم الملكي رقم (م / 1) وتاريخ 21 / 2 / 1416هــ، ويعمل به بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يحل النظام محل نظام السجل التجاري، الصادر بالمرسوم الملكي رقم (م / 1) وتاريخ 21 / 2 / 1416هــ، ويعمل به بعد (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

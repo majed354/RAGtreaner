@@ -1,0 +1,440 @@
+{
+  "round": 39,
+  "name": "collection_closure_gate",
+  "generated_at": "2026-05-15T13:27:22.970094+03:00",
+  "service_url": "http://127.0.0.1:8000",
+  "project_root": "/Users/majd/Desktop/codex/شات الاستشارات",
+  "retrieval_profile": "jamia_recall",
+  "configured_dense_weight": 0.7,
+  "configured_lexical_weight": 0.3,
+  "readiness": {
+    "health_status": "ok",
+    "configured_server_port": 8000,
+    "knowledge_base_chunks_before_round38": 19004,
+    "knowledge_base_chunks_start_round39": 22368,
+    "knowledge_base_chunks_after_procurement_ingestion": 22387,
+    "knowledge_base_chunks_final": 22612,
+    "chroma_actual_count_final": 22612,
+    "chroma_collection": "saudi_legal_consultations",
+    "chroma_metric": "cosine",
+    "admin_http_status": 200
+  },
+  "patches": [
+    {
+      "type": "corpus/package-support issue",
+      "description": "Added P0 selected-text anchors for government procurement implementing regulation and procurement conduct ethics regulation.",
+      "chunks": {
+        "government-procurement-implementing-regulation": 10,
+        "procurement-conduct-ethics-regulation": 9
+      },
+      "caveat": "Selected P0 materials from official sources; future hardening can replace with full clean official extraction."
+    },
+    {
+      "type": "corpus/package-support issue",
+      "description": "Forced Arabic OCR extraction for weak PDF source of execution implementing regulation so chunks are article-based and retrievable.",
+      "chunks_before": 125,
+      "chunks_after": 350,
+      "source": "documents/saudi_regulations/onboarded/execution-implementing-regulation.pdf",
+      "code_path": "scripts/build_structured_legal_corpus.py"
+    }
+  ],
+  "issue_classification": {
+    "operational_issue": [
+      "Shell DNS could not resolve official external sources during source lookup; not counted as RAG gap.",
+      "Python urllib local loopback was blocked by sandbox once; curl health/query remained the service path.",
+      "Transient connect refusal immediately after reindex was operational and resolved with stable /health."
+    ],
+    "retrieval_package_issue": [
+      "Pre-OCR manual electronic enforcement returned bundle_completeness 0.938 because execution-implementing-regulation was required but not selected; resolved after OCR/reindex."
+    ],
+    "answer_level_issue": [
+      "Not assessed in this round; benchmark mode measured collection/recall completeness only."
+    ]
+  },
+  "gates": {
+    "targeted_probe": {
+      "status": "ok",
+      "query": "منافسة حكومية تظلم اعتراض ترسية تقييم عروض تعارض مصالح عضو لجنة ديوان المظالم",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh",
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation",
+        "nzam-almrafaat-amam-dywan-almzalm",
+        "nzam-dywan-almzalm"
+      ],
+      "required_core_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "covered_core_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation",
+        "nzam-almrafaat-amam-dywan-almzalm",
+        "nzam-dywan-almzalm"
+      ],
+      "covered_companion_regulations": [
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation",
+        "nzam-almrafaat-amam-dywan-almzalm",
+        "nzam-dywan-almzalm"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "procurement_grievance_award_board_bundle",
+        "procurement_bid_rigging_conflict_bundle"
+      ]
+    },
+    "manual_slice": {
+      "cases": [
+        "manual_labor",
+        "manual_listed_company",
+        "manual_electronic_enforcement",
+        "targeted_procurement_grievance"
+      ],
+      "pass": true
+    },
+    "working_regression": {
+      "cases": [
+        "working_vat_einvoicing",
+        "working_ecommerce_pdpl"
+      ],
+      "pass": true
+    },
+    "held_out_check": {
+      "cases": [
+        "heldout_procurement_bidrigging"
+      ],
+      "pass": true
+    },
+    "all_pass": true
+  },
+  "case_summaries": {
+    "targeted_procurement_grievance": {
+      "status": "ok",
+      "query": "منافسة حكومية تظلم اعتراض ترسية تقييم عروض تعارض مصالح عضو لجنة ديوان المظالم",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh",
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation",
+        "nzam-almrafaat-amam-dywan-almzalm",
+        "nzam-dywan-almzalm"
+      ],
+      "required_core_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "covered_core_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation",
+        "nzam-almrafaat-amam-dywan-almzalm",
+        "nzam-dywan-almzalm"
+      ],
+      "covered_companion_regulations": [
+        "government-procurement-implementing-regulation",
+        "procurement-conflict-of-interest-regulation",
+        "procurement-conduct-ethics-regulation",
+        "nzam-almrafaat-amam-dywan-almzalm",
+        "nzam-dywan-almzalm"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "procurement_grievance_award_board_bundle",
+        "procurement_bid_rigging_conflict_bundle"
+      ]
+    },
+    "manual_labor": {
+      "status": "ok",
+      "query": "موظف شركة خاصة عقد عمل حسم من الأجر تأخر رواتب مكافأة نهاية الخدمة توثيق العقد حماية الأجور جدول المخالفات والعقوبات",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "labor-law",
+        "labor-implementing-regulation",
+        "labor-violations-penalties-table",
+        "wage-protection-rules",
+        "labor-contract-documentation-rules",
+        "nzam-alandbat-alwzyfy",
+        "nzam-alkhdmh-almdnyh",
+        "nzam-altqaad-almdny",
+        "zatca-vat-implementing-regulation",
+        "nzam-khdmh-alafrad"
+      ],
+      "required_core_regulations": [
+        "labor-law"
+      ],
+      "covered_core_regulations": [
+        "labor-law"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "labor-implementing-regulation",
+        "labor-violations-penalties-table",
+        "wage-protection-rules",
+        "labor-contract-documentation-rules"
+      ],
+      "covered_companion_regulations": [
+        "labor-implementing-regulation",
+        "labor-violations-penalties-table",
+        "wage-protection-rules",
+        "labor-contract-documentation-rules"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "labor_contract_wages_dues_compliance_bundle"
+      ]
+    },
+    "manual_listed_company": {
+      "status": "ok",
+      "query": "شركة مساهمة مدرجة جمعية عامة غير عادية زيادة رأس المال بمنح أسهم مجانية إفصاح للمساهمين سجل المساهمين حوكمة الشركات الالتزامات المستمرة هيئة السوق المالية",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh",
+        "companies-implementing-regulation",
+        "cma-corporate-governance-regulations",
+        "cma-continuing-obligations-rules",
+        "cma-securities-offering-rules"
+      ],
+      "required_core_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh"
+      ],
+      "covered_core_regulations": [
+        "companies-law",
+        "nzam-alswq-almalyh"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "companies-implementing-regulation",
+        "cma-corporate-governance-regulations",
+        "cma-continuing-obligations-rules",
+        "cma-securities-offering-rules"
+      ],
+      "covered_companion_regulations": [
+        "companies-implementing-regulation",
+        "cma-corporate-governance-regulations",
+        "cma-continuing-obligations-rules",
+        "cma-securities-offering-rules"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "listed_company_capital_increase_cma_bundle"
+      ]
+    },
+    "manual_electronic_enforcement": {
+      "status": "ok",
+      "query": "سند إلكتروني رسائل وفواتير إلكترونية موقعة مطالبة مالية تنفيذ سند تنفيذي محررات إلكترونية توقيع إلكتروني إثبات تكاليف قضائية",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "execution-law",
+        "law-of-evidence",
+        "electronic-transactions-law",
+        "execution-implementing-regulation",
+        "nzam-altkalyf-alqdayyh",
+        "law-of-sharia-procedure"
+      ],
+      "required_core_regulations": [
+        "execution-law",
+        "law-of-evidence",
+        "electronic-transactions-law"
+      ],
+      "covered_core_regulations": [
+        "execution-law",
+        "law-of-evidence",
+        "electronic-transactions-law"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "execution-implementing-regulation",
+        "nzam-altkalyf-alqdayyh",
+        "law-of-sharia-procedure",
+        "law-of-evidence"
+      ],
+      "covered_companion_regulations": [
+        "execution-implementing-regulation",
+        "nzam-altkalyf-alqdayyh",
+        "law-of-sharia-procedure",
+        "law-of-evidence"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "electronic_enforcement_evidence_costs_bundle",
+        "electronic_transactions_evidence_support_bundle"
+      ]
+    },
+    "working_vat_einvoicing": {
+      "status": "ok",
+      "query": "منشأة خاضعة لضريبة القيمة المضافة تصدر فواتير PDF عادية لا تتضمن الرقم الضريبي ولا حقول الفاتورة الإلكترونية وأصدرت إشعار خصم يدوي بعد إرجاع مبلغ للعميل",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "nzam-drybh-alqymh-almdafh",
+        "zatca-vat-implementing-regulation",
+        "zatca-e-invoicing-bylaw",
+        "zatca-e-invoicing-technical-controls"
+      ],
+      "required_core_regulations": [
+        "nzam-drybh-alqymh-almdafh"
+      ],
+      "covered_core_regulations": [
+        "nzam-drybh-alqymh-almdafh"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "zatca-vat-implementing-regulation",
+        "zatca-e-invoicing-bylaw",
+        "zatca-e-invoicing-technical-controls"
+      ],
+      "covered_companion_regulations": [
+        "zatca-vat-implementing-regulation",
+        "zatca-e-invoicing-bylaw",
+        "zatca-e-invoicing-technical-controls"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "vat_ecommerce_invoice_refund_bundle"
+      ]
+    },
+    "working_ecommerce_pdpl": {
+      "status": "ok",
+      "query": "مستهلك دفع قيمة دورة رقمية في متجر إلكتروني ولم يتم تفعيل الوصول بعد الدفع طلب إلغاء واسترجاع المبلغ استخدم المتجر رقم الجوال للتسويق وشارك بيانات التسجيل مع شريك إعلاني",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "personal-data-protection-law",
+        "pdpl-implementing-regulation",
+        "pdpl-transfer-regulation",
+        "e-commerce-law",
+        "anti-cybercrime-law",
+        "ecommerce-implementing-regulation",
+        "commercial-fraud-law"
+      ],
+      "required_core_regulations": [
+        "personal-data-protection-law",
+        "pdpl-implementing-regulation",
+        "pdpl-transfer-regulation",
+        "e-commerce-law"
+      ],
+      "covered_core_regulations": [
+        "personal-data-protection-law",
+        "pdpl-implementing-regulation",
+        "pdpl-transfer-regulation",
+        "e-commerce-law"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "anti-cybercrime-law",
+        "ecommerce-implementing-regulation",
+        "commercial-fraud-law"
+      ],
+      "covered_companion_regulations": [
+        "anti-cybercrime-law",
+        "ecommerce-implementing-regulation",
+        "commercial-fraud-law"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "pdpl_health_breach_transfer_marketing_bundle",
+        "ecommerce_delivery_ad_refund_disclosure_bundle"
+      ]
+    },
+    "heldout_procurement_bidrigging": {
+      "status": "ok",
+      "query": "جهة حكومية طرحت منافسة وتبين وجود قرابة بين عضو لجنة ومالك مورد كما اتفق موردان على رفع الأسعار وتقسيم العطاءات",
+      "retrieval_profile": "jamia_recall",
+      "dense_weight": 0.7,
+      "lexical_weight": 0.3,
+      "top_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh",
+        "procurement-conflict-of-interest-regulation"
+      ],
+      "required_core_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "covered_core_regulations": [
+        "government-tenders-and-procurement-law",
+        "nzam-almnafsh"
+      ],
+      "missing_core_regulations": [],
+      "core_doc_recall": 1.0,
+      "required_companion_regulations": [
+        "procurement-conflict-of-interest-regulation"
+      ],
+      "covered_companion_regulations": [
+        "procurement-conflict-of-interest-regulation"
+      ],
+      "missing_companion_regulations": [],
+      "companion_doc_recall": 1.0,
+      "bundle_completeness": 1.0,
+      "missing_issue_ids": [],
+      "matched_document_bundles": [
+        "procurement_bid_rigging_conflict_bundle"
+      ]
+    }
+  },
+  "highest_remaining_gap": {
+    "status": "no tested P0 collection gap remaining",
+    "residual_risk": "Long-tail corpus hardening: replace selected P0 procurement anchors and OCR-imperfect execution regulation with full clean official HTML/PDF extraction when available; this is not blocking for tested gold collection families."
+  },
+  "next_round_recommendation": "Move from recall-first collection to exclusion/cleaning and answer-level prioritization, while preserving jamia_recall as the wide collector."
+}

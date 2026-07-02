@@ -1,0 +1,2986 @@
+{
+  "metadata": {
+    "slug": "nzam-almtbwaat-walnshr",
+    "title_ar": "نظام المطبوعات والنشر",
+    "status": "ساري",
+    "issue_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+    "issue_date_gregorian": "2000-04-06",
+    "publish_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+    "publish_date_gregorian": "2000-04-06",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ecaaec43-8ff9-46b8-b269-a9a700f16e66/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-almtbwaat-walnshr.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-almtbwaat-walnshr.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1421/01/01 هـ الموافق : 06/04/2000 مـ",
+    "effective_date_gregorian": "2000-04-06",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 49,
+    "paragraph_count": 124,
+    "indexable_paragraph_count": 124,
+    "text_chars": 13726,
+    "verbatim_chars": 13779,
+    "citation_base_ar": "نظام المطبوعات والنشر",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ecaaec43-8ff9-46b8-b269-a9a700f16e66/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-almtbwaat-walnshr.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-almtbwaat-walnshr.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "rights",
+      "article_type_label_ar": "حق أو اختصاص",
+      "legal_function_tags": [
+        "claimant_right",
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "حق لصاحب الطلب",
+        "تعريف"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الأولى",
+      "text_verbatim": "تعريفات : تدل المصطلحات الآتية، حيثما وردت في هذا النظام، على المعاني المبينة قرينها.\n\n1 - التداول :جعل المطبوعة في متناول عدد من الأشخاص بتوزيعها مجانًا، أو عرضها للبيع، أو إلصاقها على الجدران، أو عرضها على واجهات المحلات، أو اللوحات الضوئية، أو لوحات الطرق، أو غير ذلك.\n\n2 - الصحافة : مهنة تحرير المطبوعات الصحفية أو إصدارها.\n\n3 - الصحفي : كل من اتخذ التحرير الصحفي مهنة له، سواء أكانت أصلية أم إضافية.\n\n4 - الصحيفة : كل مطبوعة ذات عنوان ثابت تصدر بصفة دورية أو في المناسبات في مواعيد منتظمة أو غير منتظمة، كالجرائد والمجلات والنشرات.\n\n5 - الطابع : المسئول عن المطبعة، سواء أكان صاحبها أم من يقوم مقامه.\n\n6 - المطبعة : كل منشأة أعدت لطبع الكلمات أو الأصوات أو الرسوم أو الصور بهدف تداولها.\n\n7 - المطبوعة : كل وسيلة للتعبير، مما يطبع للتداول، سواء أكان كلمة، أم رسمًا، أم صورة، أم صوتًا.\n\n8 - المكتبة : المحل المعد لعرض الكتب، أو الصحف، أو ما في حكمها للبيع أو للتأجير.\n\n9 - الموزع : الوسيط- فردًا أو شركة- بين المؤلف أو الناشر، ونقاط التوزيع، والمستفيد.\n\n10 - المؤلف : من يقوم بإعداد مادة علمية أو ثقافية أو فنية بهدف تداولها.\n\n11 - الناشر : من يتولى إصدار أي إنتاج علمي أو ثقافي أو فني بغرض التداول.\n\n12 - الوزارة :  وزارة الإعلام .\n\n13 - الوزير :  وزير الإعلام .",
+      "text_for_index": "تعريفات : تدل المصطلحات الآتية، حيثما وردت في هذا النظام، على المعاني المبينة قرينها.\n\n1 - التداول :جعل المطبوعة في متناول عدد من الأشخاص بتوزيعها مجانًا، أو عرضها للبيع، أو إلصاقها على الجدران، أو عرضها على واجهات المحلات، أو اللوحات الضوئية، أو لوحات الطرق، أو غير ذلك.\n\n2 - الصحافة : مهنة تحرير المطبوعات الصحفية أو إصدارها.\n\n3 - الصحفي : كل من اتخذ التحرير الصحفي مهنة له، سواء أكانت أصلية أم إضافية.\n\n4 - الصحيفة : كل مطبوعة ذات عنوان ثابت تصدر بصفة دورية أو في المناسبات في مواعيد منتظمة أو غير منتظمة، كالجرائد والمجلات والنشرات.\n\n5 - الطابع : المسئول عن المطبعة، سواء أكان صاحبها أم من يقوم مقامه.\n\n6 - المطبعة : كل منشأة أعدت لطبع الكلمات أو الأصوات أو الرسوم أو الصور بهدف تداولها.\n\n7 - المطبوعة : كل وسيلة للتعبير، مما يطبع للتداول، سواء أكان كلمة، أم رسمًا، أم صورة، أم صوتًا.\n\n8 - المكتبة : المحل المعد لعرض الكتب، أو الصحف، أو ما في حكمها للبيع أو للتأجير.\n\n9 - الموزع : الوسيط- فردًا أو شركة- بين المؤلف أو الناشر، ونقاط التوزيع، والمستفيد.\n\n10 - المؤلف : من يقوم بإعداد مادة علمية أو ثقافية أو فنية بهدف تداولها.\n\n11 - الناشر : من يتولى إصدار أي إنتاج علمي أو ثقافي أو فني بغرض التداول.\n\n12 - الوزارة : وزارة الإعلام .\n\n13 - الوزير : وزير الإعلام .",
+      "paragraph_count": 14,
+      "indexable_paragraph_count": 14,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "claimant_right",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب",
+            "تعريف"
+          ],
+          "text_verbatim": "تعريفات : تدل المصطلحات الآتية، حيثما وردت في هذا النظام، على المعاني المبينة قرينها.",
+          "text_for_index": "تعريفات : تدل المصطلحات الآتية، حيثما وردت في هذا النظام، على المعاني المبينة قرينها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "1 - التداول :جعل المطبوعة في متناول عدد من الأشخاص بتوزيعها مجانًا، أو عرضها للبيع، أو إلصاقها على الجدران، أو عرضها على واجهات المحلات، أو اللوحات الضوئية، أو لوحات الطرق، أو غير ذلك.",
+          "text_for_index": "1 - التداول :جعل المطبوعة في متناول عدد من الأشخاص بتوزيعها مجانًا، أو عرضها للبيع، أو إلصاقها على الجدران، أو عرضها على واجهات المحلات، أو اللوحات الضوئية، أو لوحات الطرق، أو غير ذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "2 - الصحافة : مهنة تحرير المطبوعات الصحفية أو إصدارها.",
+          "text_for_index": "2 - الصحافة : مهنة تحرير المطبوعات الصحفية أو إصدارها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "3 - الصحفي : كل من اتخذ التحرير الصحفي مهنة له، سواء أكانت أصلية أم إضافية.",
+          "text_for_index": "3 - الصحفي : كل من اتخذ التحرير الصحفي مهنة له، سواء أكانت أصلية أم إضافية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "4 - الصحيفة : كل مطبوعة ذات عنوان ثابت تصدر بصفة دورية أو في المناسبات في مواعيد منتظمة أو غير منتظمة، كالجرائد والمجلات والنشرات.",
+          "text_for_index": "4 - الصحيفة : كل مطبوعة ذات عنوان ثابت تصدر بصفة دورية أو في المناسبات في مواعيد منتظمة أو غير منتظمة، كالجرائد والمجلات والنشرات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "5 - الطابع : المسئول عن المطبعة، سواء أكان صاحبها أم من يقوم مقامه.",
+          "text_for_index": "5 - الطابع : المسئول عن المطبعة، سواء أكان صاحبها أم من يقوم مقامه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "6 - المطبعة : كل منشأة أعدت لطبع الكلمات أو الأصوات أو الرسوم أو الصور بهدف تداولها.",
+          "text_for_index": "6 - المطبعة : كل منشأة أعدت لطبع الكلمات أو الأصوات أو الرسوم أو الصور بهدف تداولها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "7 - المطبوعة : كل وسيلة للتعبير، مما يطبع للتداول، سواء أكان كلمة، أم رسمًا، أم صورة، أم صوتًا.",
+          "text_for_index": "7 - المطبوعة : كل وسيلة للتعبير، مما يطبع للتداول، سواء أكان كلمة، أم رسمًا، أم صورة، أم صوتًا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "8 - المكتبة : المحل المعد لعرض الكتب، أو الصحف، أو ما في حكمها للبيع أو للتأجير.",
+          "text_for_index": "8 - المكتبة : المحل المعد لعرض الكتب، أو الصحف، أو ما في حكمها للبيع أو للتأجير.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "9 - الموزع : الوسيط- فردًا أو شركة- بين المؤلف أو الناشر، ونقاط التوزيع، والمستفيد.",
+          "text_for_index": "9 - الموزع : الوسيط- فردًا أو شركة- بين المؤلف أو الناشر، ونقاط التوزيع، والمستفيد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "10 - المؤلف : من يقوم بإعداد مادة علمية أو ثقافية أو فنية بهدف تداولها.",
+          "text_for_index": "10 - المؤلف : من يقوم بإعداد مادة علمية أو ثقافية أو فنية بهدف تداولها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "11 - الناشر : من يتولى إصدار أي إنتاج علمي أو ثقافي أو فني بغرض التداول.",
+          "text_for_index": "11 - الناشر : من يتولى إصدار أي إنتاج علمي أو ثقافي أو فني بغرض التداول.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "12 - الوزارة :  وزارة الإعلام .",
+          "text_for_index": "12 - الوزارة : وزارة الإعلام .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "claimant_right"
+          ],
+          "legal_function_tags_ar": [
+            "حق لصاحب الطلب"
+          ],
+          "text_verbatim": "13 - الوزير :  وزير الإعلام .",
+          "text_for_index": "13 - الوزير : وزير الإعلام .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثانية",
+      "text_verbatim": "تخضع لأحكام هذا النظام النشاطات الآتية :\n\n1 - المطبوعات.\n\n2 - خدمات الإعداد لما قبل الطباعة.\n\n3 - المطابع.\n\n4 - المكتبات.\n\n5 - الرسم والخط.\n\n6 - التصوير الفوتوغرافي.\n\n7 - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.\n\n8 - التسجيلات الصوتية والأسطوانات.\n\n9 - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي أو المسرحي.\n\n10 - الاستوديوهات التلفزيونية والإذاعية.\n\n11 - مكاتب وسائل الإعلام الأجنبية ومراسلوها.\n\n12 - الدعاية والإعلان.\n\n13 - العلاقات العامة.\n\n14 - النشر.\n\n15 - التوزيع.\n\n16 - الخدمات الصحفية.\n\n17 - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.\n\n18 - الدراسات والاستشارات الإعلامية.\n\n19 - النسخ والاستنساخ.\n\n20 - أي نشاط تقترح الوزارة إضافته ويقره رئيس مجلس الوزراء.",
+      "text_for_index": "تخضع لأحكام هذا النظام النشاطات الآتية :\n\n1 - المطبوعات.\n\n2 - خدمات الإعداد لما قبل الطباعة.\n\n3 - المطابع.\n\n4 - المكتبات.\n\n5 - الرسم والخط.\n\n6 - التصوير الفوتوغرافي.\n\n7 - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.\n\n8 - التسجيلات الصوتية والأسطوانات.\n\n9 - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي أو المسرحي.\n\n10 - الاستوديوهات التلفزيونية والإذاعية.\n\n11 - مكاتب وسائل الإعلام الأجنبية ومراسلوها.\n\n12 - الدعاية والإعلان.\n\n13 - العلاقات العامة.\n\n14 - النشر.\n\n15 - التوزيع.\n\n16 - الخدمات الصحفية.\n\n17 - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.\n\n18 - الدراسات والاستشارات الإعلامية.\n\n19 - النسخ والاستنساخ.\n\n20 - أي نشاط تقترح الوزارة إضافته ويقره رئيس مجلس الوزراء.",
+      "paragraph_count": 21,
+      "indexable_paragraph_count": 21,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تخضع لأحكام هذا النظام النشاطات الآتية :",
+          "text_for_index": "تخضع لأحكام هذا النظام النشاطات الآتية :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - المطبوعات.",
+          "text_for_index": "1 - المطبوعات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "2 - خدمات الإعداد لما قبل الطباعة.",
+          "text_for_index": "2 - خدمات الإعداد لما قبل الطباعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "3 - المطابع.",
+          "text_for_index": "3 - المطابع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "4 - المكتبات.",
+          "text_for_index": "4 - المكتبات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "5 - الرسم والخط.",
+          "text_for_index": "5 - الرسم والخط.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "6 - التصوير الفوتوغرافي.",
+          "text_for_index": "6 - التصوير الفوتوغرافي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "7 - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.",
+          "text_for_index": "7 - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "8 - التسجيلات الصوتية والأسطوانات.",
+          "text_for_index": "8 - التسجيلات الصوتية والأسطوانات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "9 - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي أو المسرحي.",
+          "text_for_index": "9 - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي أو المسرحي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "10 - الاستوديوهات التلفزيونية والإذاعية.",
+          "text_for_index": "10 - الاستوديوهات التلفزيونية والإذاعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "11 - مكاتب وسائل الإعلام الأجنبية ومراسلوها.",
+          "text_for_index": "11 - مكاتب وسائل الإعلام الأجنبية ومراسلوها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "12 - الدعاية والإعلان.",
+          "text_for_index": "12 - الدعاية والإعلان.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "13 - العلاقات العامة.",
+          "text_for_index": "13 - العلاقات العامة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "14 - النشر.",
+          "text_for_index": "14 - النشر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "15 - التوزيع.",
+          "text_for_index": "15 - التوزيع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "16 - الخدمات الصحفية.",
+          "text_for_index": "16 - الخدمات الصحفية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-18",
+          "paragraph_index": 18,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "17 - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.",
+          "text_for_index": "17 - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-19",
+          "paragraph_index": 19,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "18 - الدراسات والاستشارات الإعلامية.",
+          "text_for_index": "18 - الدراسات والاستشارات الإعلامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-20",
+          "paragraph_index": 20,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "19 - النسخ والاستنساخ.",
+          "text_for_index": "19 - النسخ والاستنساخ.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-2::paragraph-21",
+          "paragraph_index": 21,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "20 - أي نشاط تقترح الوزارة إضافته ويقره رئيس مجلس الوزراء.",
+          "text_for_index": "20 - أي نشاط تقترح الوزارة إضافته ويقره رئيس مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثالثة",
+      "text_verbatim": "يكون من أهداف المطبوعات والنشر الدعوة إلى الدين الحنيف ومكارم الأخلاق، والإرشاد إلى كل ما فيه الخير والصلاح، ونشر الثقافة والمعرفة.",
+      "text_for_index": "يكون من أهداف المطبوعات والنشر الدعوة إلى الدين الحنيف ومكارم الأخلاق، والإرشاد إلى كل ما فيه الخير والصلاح، ونشر الثقافة والمعرفة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يكون من أهداف المطبوعات والنشر الدعوة إلى الدين الحنيف ومكارم الأخلاق، والإرشاد إلى كل ما فيه الخير والصلاح، ونشر الثقافة والمعرفة.",
+          "text_for_index": "يكون من أهداف المطبوعات والنشر الدعوة إلى الدين الحنيف ومكارم الأخلاق، والإرشاد إلى كل ما فيه الخير والصلاح، ونشر الثقافة والمعرفة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الرابعة",
+      "text_verbatim": "1- لا يجوز مزاولة أي نشاط مما ذكر في المادة الثانية، إلا بترخيص من الوزارة، ولا يعفي هذا من الحصول على أي ترخيص توجبه الأنظمة الأخرى.\n\n2- تحدد اللائحة التنفيذية مدة الترخيص لكل نشاط، كما تحدد المهلة المناسبة لتجديد الترخيص قبل انتهائه بعد التأكد من مزاولة المهنة.",
+      "text_for_index": "1- لا يجوز مزاولة أي نشاط مما ذكر في المادة الثانية، إلا بترخيص من الوزارة، ولا يعفي هذا من الحصول على أي ترخيص توجبه الأنظمة الأخرى.\n\n2- تحدد اللائحة التنفيذية مدة الترخيص لكل نشاط، كما تحدد المهلة المناسبة لتجديد الترخيص قبل انتهائه بعد التأكد من مزاولة المهنة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "1- لا يجوز مزاولة أي نشاط مما ذكر في المادة الثانية، إلا بترخيص من الوزارة، ولا يعفي هذا من الحصول على أي ترخيص توجبه الأنظمة الأخرى.",
+          "text_for_index": "1- لا يجوز مزاولة أي نشاط مما ذكر في المادة الثانية، إلا بترخيص من الوزارة، ولا يعفي هذا من الحصول على أي ترخيص توجبه الأنظمة الأخرى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2- تحدد اللائحة التنفيذية مدة الترخيص لكل نشاط، كما تحدد المهلة المناسبة لتجديد الترخيص قبل انتهائه بعد التأكد من مزاولة المهنة.",
+          "text_for_index": "2- تحدد اللائحة التنفيذية مدة الترخيص لكل نشاط، كما تحدد المهلة المناسبة لتجديد الترخيص قبل انتهائه بعد التأكد من مزاولة المهنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الخامسة",
+      "text_verbatim": "1 - مع مراعاة ما تقضي به الأنظمة والاتفاقيات يشترط فيمن يعطى الترخيص الآتي :\n أ - أن يكون سعودي الجنسية.\nب - ألا يقل عمره عن خمس وعشرين سنة، وللوزير الاستثناء من هذه السن لمسوغات يراها.\nج - أن يكون من المشهود لهم بحسن السيرة والسلوك لممارسة هذا النشاط.\nد - أن يكون حاصلًا على مؤهل مناسب، وفق ما تحدده اللائحة التنفيذية.",
+      "text_for_index": "1 - مع مراعاة ما تقضي به الأنظمة والاتفاقيات يشترط فيمن يعطى الترخيص الآتي :\n أ - أن يكون سعودي الجنسية.\nب - ألا يقل عمره عن خمس وعشرين سنة، وللوزير الاستثناء من هذه السن لمسوغات يراها.\nج - أن يكون من المشهود لهم بحسن السيرة والسلوك لممارسة هذا النشاط.\nد - أن يكون حاصلًا على مؤهل مناسب، وفق ما تحدده اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "1 - مع مراعاة ما تقضي به الأنظمة والاتفاقيات يشترط فيمن يعطى الترخيص الآتي :\n أ - أن يكون سعودي الجنسية.\nب - ألا يقل عمره عن خمس وعشرين سنة، وللوزير الاستثناء من هذه السن لمسوغات يراها.\nج - أن يكون من المشهود لهم بحسن السيرة والسلوك لممارسة هذا النشاط.\nد - أن يكون حاصلًا على مؤهل مناسب، وفق ما تحدده اللائحة التنفيذية.",
+          "text_for_index": "1 - مع مراعاة ما تقضي به الأنظمة والاتفاقيات يشترط فيمن يعطى الترخيص الآتي :\n أ - أن يكون سعودي الجنسية.\nب - ألا يقل عمره عن خمس وعشرين سنة، وللوزير الاستثناء من هذه السن لمسوغات يراها.\nج - أن يكون من المشهود لهم بحسن السيرة والسلوك لممارسة هذا النشاط.\nد - أن يكون حاصلًا على مؤهل مناسب، وفق ما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السادسة",
+      "text_verbatim": "للجهات الحكومية، والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية، والمؤسسات الصحفية الأهلية إصدار مطبوعات غير دورية في مجال اختصاصها وتحت مسئوليتها.",
+      "text_for_index": "للجهات الحكومية، والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية، والمؤسسات الصحفية الأهلية إصدار مطبوعات غير دورية في مجال اختصاصها وتحت مسئوليتها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للجهات الحكومية، والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية، والمؤسسات الصحفية الأهلية إصدار مطبوعات غير دورية في مجال اختصاصها وتحت مسئوليتها.",
+          "text_for_index": "للجهات الحكومية، والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية، والمؤسسات الصحفية الأهلية إصدار مطبوعات غير دورية في مجال اختصاصها وتحت مسئوليتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السابعة",
+      "text_verbatim": "يحدد مقدار رسم الترخيص أو تجديده، للمقر الرئيسي أو الفرع وفق الآتي :\n\n1 - ألفا ريال (2.000) لكل من النشاطات الآتية:\n\nأ - المطابع.\n\nب - خدمات الإعداد لما قبل الطباعة.\n\nج - النشر.\n\nد - التوزيع.\n\nهـ - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي.\n\nو - الاستوديوهات التلفزيونية والإذاعية.\n\nز- الدراسات والاستشارات الإعلامية.\n\nح - الخدمات الصحفية.\n\nط - الدعاية والإعلان.\n\nي - العلاقات العامة.\n\nك - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.\n\nل - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.",
+      "text_for_index": "يحدد مقدار رسم الترخيص أو تجديده، للمقر الرئيسي أو الفرع وفق الآتي :\n\n1 - ألفا ريال (2.000) لكل من النشاطات الآتية:\n\nأ - المطابع.\n\nب - خدمات الإعداد لما قبل الطباعة.\n\nج - النشر.\n\nد - التوزيع.\n\nهـ - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي.\n\nو - الاستوديوهات التلفزيونية والإذاعية.\n\nز- الدراسات والاستشارات الإعلامية.\n\nح - الخدمات الصحفية.\n\nط - الدعاية والإعلان.\n\nي - العلاقات العامة.\n\nك - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.\n\nل - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.",
+      "paragraph_count": 14,
+      "indexable_paragraph_count": 14,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يحدد مقدار رسم الترخيص أو تجديده، للمقر الرئيسي أو الفرع وفق الآتي :",
+          "text_for_index": "يحدد مقدار رسم الترخيص أو تجديده، للمقر الرئيسي أو الفرع وفق الآتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - ألفا ريال (2.000) لكل من النشاطات الآتية:",
+          "text_for_index": "1 - ألفا ريال (2.000) لكل من النشاطات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "أ - المطابع.",
+          "text_for_index": "أ - المطابع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ب - خدمات الإعداد لما قبل الطباعة.",
+          "text_for_index": "ب - خدمات الإعداد لما قبل الطباعة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ج - النشر.",
+          "text_for_index": "ج - النشر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "د - التوزيع.",
+          "text_for_index": "د - التوزيع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "هـ - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي.",
+          "text_for_index": "هـ - الإنتاج الفني الإذاعي أو التلفزيوني أو السينمائي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "و - الاستوديوهات التلفزيونية والإذاعية.",
+          "text_for_index": "و - الاستوديوهات التلفزيونية والإذاعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ز- الدراسات والاستشارات الإعلامية.",
+          "text_for_index": "ز- الدراسات والاستشارات الإعلامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ح - الخدمات الصحفية.",
+          "text_for_index": "ح - الخدمات الصحفية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ط - الدعاية والإعلان.",
+          "text_for_index": "ط - الدعاية والإعلان.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ي - العلاقات العامة.",
+          "text_for_index": "ي - العلاقات العامة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "ك - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.",
+          "text_for_index": "ك - استيراد الأفلام وأشرطة الفيديو، أو بيعها، أو تأجيرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-7::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ل - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.",
+          "text_for_index": "ل - إنتاج برامج الحاسب الآلي أو بيعها أو تأجيرها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثامنة",
+      "text_verbatim": "حرية التعبير عن الرأي مكفولة بمختلف وسائل النشر في نطاق الأحكام الشرعية والنظامية.",
+      "text_for_index": "حرية التعبير عن الرأي مكفولة بمختلف وسائل النشر في نطاق الأحكام الشرعية والنظامية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "حرية التعبير عن الرأي مكفولة بمختلف وسائل النشر في نطاق الأحكام الشرعية والنظامية.",
+          "text_for_index": "حرية التعبير عن الرأي مكفولة بمختلف وسائل النشر في نطاق الأحكام الشرعية والنظامية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "property_neighbors"
+      ],
+      "topic_tags_ar": [
+        "الجوار والبناء"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة التاسعة",
+      "text_verbatim": "يراعى عند إجازة المطبوعة ما يلي :\n\n1 - ألا تخالف أحكام الشريعة الإسلامية.\n\n2 - ألا تفضي إلى ما يخل بأمن البلاد، أو نظامها العام، أو ما يخدم مصالح أجنبية تتعارض مع المصلحة الوطنية.\n\n3 - ألا تؤدي إلى إثارة النعرات وبث الفرقة بين المواطنين.\n\n4 - ألا تؤدي إلى المساس بكرامة الأشخاص وحرياتهم، أو إلى ابتزازهم، أو إلى الإضرار بسمعتهم، أو أسمائهم التجارية.\n\n5 - ألا تؤدي إلى تحبيذ الإجرام أو الحث عليه.\n\n6 - ألا تضر بالوضع الاقتصادي، أو الصحي في البلاد.\n\n7 - ألا تفشي وقائع التحقيقات أو المحاكمات، إلا بعد الحصول على إذن من الجهة المختصة.\n\n8 - أن تلتزم بالنقد الموضوعي البناء الهادف إلى المصلحة العامة، والمستند إلى وقائع وشواهد صحيحة.",
+      "text_for_index": "يراعى عند إجازة المطبوعة ما يلي :\n\n1 - ألا تخالف أحكام الشريعة الإسلامية.\n\n2 - ألا تفضي إلى ما يخل بأمن البلاد، أو نظامها العام، أو ما يخدم مصالح أجنبية تتعارض مع المصلحة الوطنية.\n\n3 - ألا تؤدي إلى إثارة النعرات وبث الفرقة بين المواطنين.\n\n4 - ألا تؤدي إلى المساس بكرامة الأشخاص وحرياتهم، أو إلى ابتزازهم، أو إلى الإضرار بسمعتهم، أو أسمائهم التجارية.\n\n5 - ألا تؤدي إلى تحبيذ الإجرام أو الحث عليه.\n\n6 - ألا تضر بالوضع الاقتصادي، أو الصحي في البلاد.\n\n7 - ألا تفشي وقائع التحقيقات أو المحاكمات، إلا بعد الحصول على إذن من الجهة المختصة.\n\n8 - أن تلتزم بالنقد الموضوعي البناء الهادف إلى المصلحة العامة، والمستند إلى وقائع وشواهد صحيحة.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يراعى عند إجازة المطبوعة ما يلي :",
+          "text_for_index": "يراعى عند إجازة المطبوعة ما يلي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - ألا تخالف أحكام الشريعة الإسلامية.",
+          "text_for_index": "1 - ألا تخالف أحكام الشريعة الإسلامية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "2 - ألا تفضي إلى ما يخل بأمن البلاد، أو نظامها العام، أو ما يخدم مصالح أجنبية تتعارض مع المصلحة الوطنية.",
+          "text_for_index": "2 - ألا تفضي إلى ما يخل بأمن البلاد، أو نظامها العام، أو ما يخدم مصالح أجنبية تتعارض مع المصلحة الوطنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "3 - ألا تؤدي إلى إثارة النعرات وبث الفرقة بين المواطنين.",
+          "text_for_index": "3 - ألا تؤدي إلى إثارة النعرات وبث الفرقة بين المواطنين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "4 - ألا تؤدي إلى المساس بكرامة الأشخاص وحرياتهم، أو إلى ابتزازهم، أو إلى الإضرار بسمعتهم، أو أسمائهم التجارية.",
+          "text_for_index": "4 - ألا تؤدي إلى المساس بكرامة الأشخاص وحرياتهم، أو إلى ابتزازهم، أو إلى الإضرار بسمعتهم، أو أسمائهم التجارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "5 - ألا تؤدي إلى تحبيذ الإجرام أو الحث عليه.",
+          "text_for_index": "5 - ألا تؤدي إلى تحبيذ الإجرام أو الحث عليه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "6 - ألا تضر بالوضع الاقتصادي، أو الصحي في البلاد.",
+          "text_for_index": "6 - ألا تضر بالوضع الاقتصادي، أو الصحي في البلاد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "7 - ألا تفشي وقائع التحقيقات أو المحاكمات، إلا بعد الحصول على إذن من الجهة المختصة.",
+          "text_for_index": "7 - ألا تفشي وقائع التحقيقات أو المحاكمات، إلا بعد الحصول على إذن من الجهة المختصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-9::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "التزام"
+          ],
+          "text_verbatim": "8 - أن تلتزم بالنقد الموضوعي البناء الهادف إلى المصلحة العامة، والمستند إلى وقائع وشواهد صحيحة.",
+          "text_for_index": "8 - أن تلتزم بالنقد الموضوعي البناء الهادف إلى المصلحة العامة، والمستند إلى وقائع وشواهد صحيحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة العاشرة",
+      "text_verbatim": "يجب أن تدون على كل مطبوعة تطبع داخل المملكة البيانات الورقية الضرورية بحسب ما تقرره اللائحة التنفيذية.",
+      "text_for_index": "يجب أن تدون على كل مطبوعة تطبع داخل المملكة البيانات الورقية الضرورية بحسب ما تقرره اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب أن تدون على كل مطبوعة تطبع داخل المملكة البيانات الورقية الضرورية بحسب ما تقرره اللائحة التنفيذية.",
+          "text_for_index": "يجب أن تدون على كل مطبوعة تطبع داخل المملكة البيانات الورقية الضرورية بحسب ما تقرره اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الحادية عشرة",
+      "text_verbatim": "يجوز التنازل عن الترخيص للغير، أو تأجيره، أو إشراك آخرين فيه بعد موافقة الوزارة وبما يتفق مع أحكام هذا النظام.",
+      "text_for_index": "يجوز التنازل عن الترخيص للغير، أو تأجيره، أو إشراك آخرين فيه بعد موافقة الوزارة وبما يتفق مع أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز التنازل عن الترخيص للغير، أو تأجيره، أو إشراك آخرين فيه بعد موافقة الوزارة وبما يتفق مع أحكام هذا النظام.",
+          "text_for_index": "يجوز التنازل عن الترخيص للغير، أو تأجيره، أو إشراك آخرين فيه بعد موافقة الوزارة وبما يتفق مع أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثانية عشرة",
+      "text_verbatim": "إذا توفي صاحب الترخيص، فإن على الورثة إشعار الوزارة بذلك خلال شهرين من تاريخ الوفاة، ولهم الحق في استمرار النشاط بعد موافقة الوزارة، وبما يتفق مع أحكام هذا النظام.",
+      "text_for_index": "إذا توفي صاحب الترخيص، فإن على الورثة إشعار الوزارة بذلك خلال شهرين من تاريخ الوفاة، ولهم الحق في استمرار النشاط بعد موافقة الوزارة، وبما يتفق مع أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "إذا توفي صاحب الترخيص، فإن على الورثة إشعار الوزارة بذلك خلال شهرين من تاريخ الوفاة، ولهم الحق في استمرار النشاط بعد موافقة الوزارة، وبما يتفق مع أحكام هذا النظام.",
+          "text_for_index": "إذا توفي صاحب الترخيص، فإن على الورثة إشعار الوزارة بذلك خلال شهرين من تاريخ الوفاة، ولهم الحق في استمرار النشاط بعد موافقة الوزارة، وبما يتفق مع أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثالثة عشرة",
+      "text_verbatim": "على كل مؤلف أو ناشر أو طابع أو موزع يرغب في طباعة أي مطبوعة أو توزيعها أن يقدم نسختين منها إلى  الوزارة  لإجازتها قبل طبعها أو عرضها للتداول، وعلى الوزارة  إجازة المطبوعة  أو رفضها مع بيان الأسباب خلال ثلاثين يومًا، ولصاحب الشأن التظلم من قرار الرفض لدى  الوزير .",
+      "text_for_index": "على كل مؤلف أو ناشر أو طابع أو موزع يرغب في طباعة أي مطبوعة أو توزيعها أن يقدم نسختين منها إلى الوزارة لإجازتها قبل طبعها أو عرضها للتداول، وعلى الوزارة إجازة المطبوعة أو رفضها مع بيان الأسباب خلال ثلاثين يومًا، ولصاحب الشأن التظلم من قرار الرفض لدى الوزير .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على كل مؤلف أو ناشر أو طابع أو موزع يرغب في طباعة أي مطبوعة أو توزيعها أن يقدم نسختين منها إلى  الوزارة  لإجازتها قبل طبعها أو عرضها للتداول، وعلى الوزارة  إجازة المطبوعة  أو رفضها مع بيان الأسباب خلال ثلاثين يومًا، ولصاحب الشأن التظلم من قرار الرفض لدى  الوزير .",
+          "text_for_index": "على كل مؤلف أو ناشر أو طابع أو موزع يرغب في طباعة أي مطبوعة أو توزيعها أن يقدم نسختين منها إلى الوزارة لإجازتها قبل طبعها أو عرضها للتداول، وعلى الوزارة إجازة المطبوعة أو رفضها مع بيان الأسباب خلال ثلاثين يومًا، ولصاحب الشأن التظلم من قرار الرفض لدى الوزير .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الرابعة عشرة",
+      "text_verbatim": "على كل مطبوعة أن تحتفظ بسجل للمطبوعات التي تطبع فيها يبرز للمختصين عند الطلب، وللوزارة في اللائحة التنفيذية أن تستثني من شرط التسجيل ما تراه من مطبوعات.",
+      "text_for_index": "على كل مطبوعة أن تحتفظ بسجل للمطبوعات التي تطبع فيها يبرز للمختصين عند الطلب، وللوزارة في اللائحة التنفيذية أن تستثني من شرط التسجيل ما تراه من مطبوعات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "على كل مطبوعة أن تحتفظ بسجل للمطبوعات التي تطبع فيها يبرز للمختصين عند الطلب، وللوزارة في اللائحة التنفيذية أن تستثني من شرط التسجيل ما تراه من مطبوعات.",
+          "text_for_index": "على كل مطبوعة أن تحتفظ بسجل للمطبوعات التي تطبع فيها يبرز للمختصين عند الطلب، وللوزارة في اللائحة التنفيذية أن تستثني من شرط التسجيل ما تراه من مطبوعات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الخامسة عشرة",
+      "text_verbatim": "المؤلف   و  الناشر    و  الطابع   مسئولون عما يرد في المطبوعة   من مخالفات إذا طبعت أو وضعت للتداول دون إجازتها، فإذا تعذرت معرفة أي منهم أصبح   الموزع    هو المسئول، وإلا فتقع المسئولية على البائع.",
+      "text_for_index": "المؤلف و الناشر و الطابع مسئولون عما يرد في المطبوعة من مخالفات إذا طبعت أو وضعت للتداول دون إجازتها، فإذا تعذرت معرفة أي منهم أصبح الموزع هو المسئول، وإلا فتقع المسئولية على البائع.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "المؤلف   و  الناشر    و  الطابع   مسئولون عما يرد في المطبوعة   من مخالفات إذا طبعت أو وضعت للتداول دون إجازتها، فإذا تعذرت معرفة أي منهم أصبح   الموزع    هو المسئول، وإلا فتقع المسئولية على البائع.",
+          "text_for_index": "المؤلف و الناشر و الطابع مسئولون عما يرد في المطبوعة من مخالفات إذا طبعت أو وضعت للتداول دون إجازتها، فإذا تعذرت معرفة أي منهم أصبح الموزع هو المسئول، وإلا فتقع المسئولية على البائع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السادسة عشرة",
+      "text_verbatim": "تكلف الوزارة المؤلف أو الناشر أن يقدم وفق نظام الإيداع، النسخ المطلوبة منه للإيداع، مما يطبع داخل المملكة.",
+      "text_for_index": "تكلف الوزارة المؤلف أو الناشر أن يقدم وفق نظام الإيداع، النسخ المطلوبة منه للإيداع، مما يطبع داخل المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تكلف الوزارة المؤلف أو الناشر أن يقدم وفق نظام الإيداع، النسخ المطلوبة منه للإيداع، مما يطبع داخل المملكة.",
+          "text_for_index": "تكلف الوزارة المؤلف أو الناشر أن يقدم وفق نظام الإيداع، النسخ المطلوبة منه للإيداع، مما يطبع داخل المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السابعة عشرة",
+      "text_verbatim": "لا تجوز إضافة مواد الدعاية والإعلان إلى الأفلام، أو الأشرطة أو نحوها المسجلة عليها مواد فنية أو رياضية أو غيرها، التي يتعاقد على استغلالها في المملكة، إلا عن طريق مؤسسات أو شركات دعاية وإعلان محلية، وبعد إجازتها من الوزارة، وتحدد اللائحة التنفيذية المدة الزمنية للإعلانات في كل عمل.",
+      "text_for_index": "لا تجوز إضافة مواد الدعاية والإعلان إلى الأفلام، أو الأشرطة أو نحوها المسجلة عليها مواد فنية أو رياضية أو غيرها، التي يتعاقد على استغلالها في المملكة، إلا عن طريق مؤسسات أو شركات دعاية وإعلان محلية، وبعد إجازتها من الوزارة، وتحدد اللائحة التنفيذية المدة الزمنية للإعلانات في كل عمل.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "لا تجوز إضافة مواد الدعاية والإعلان إلى الأفلام، أو الأشرطة أو نحوها المسجلة عليها مواد فنية أو رياضية أو غيرها، التي يتعاقد على استغلالها في المملكة، إلا عن طريق مؤسسات أو شركات دعاية وإعلان محلية، وبعد إجازتها من الوزارة، وتحدد اللائحة التنفيذية المدة الزمنية للإعلانات في كل عمل.",
+          "text_for_index": "لا تجوز إضافة مواد الدعاية والإعلان إلى الأفلام، أو الأشرطة أو نحوها المسجلة عليها مواد فنية أو رياضية أو غيرها، التي يتعاقد على استغلالها في المملكة، إلا عن طريق مؤسسات أو شركات دعاية وإعلان محلية، وبعد إجازتها من الوزارة، وتحدد اللائحة التنفيذية المدة الزمنية للإعلانات في كل عمل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثامنة عشرة",
+      "text_verbatim": "تجاز المطبوعات الخارجية، إذا خلت من كل ما يسيء إلى الإسلام، أو نظام الحكم، أو يضر بالمصلحة العليا للدولة، أو يخدش الآداب العامة وينافي الأخلاق.",
+      "text_for_index": "تجاز المطبوعات الخارجية، إذا خلت من كل ما يسيء إلى الإسلام، أو نظام الحكم، أو يضر بالمصلحة العليا للدولة، أو يخدش الآداب العامة وينافي الأخلاق.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "تجاز المطبوعات الخارجية، إذا خلت من كل ما يسيء إلى الإسلام، أو نظام الحكم، أو يضر بالمصلحة العليا للدولة، أو يخدش الآداب العامة وينافي الأخلاق.",
+          "text_for_index": "تجاز المطبوعات الخارجية، إذا خلت من كل ما يسيء إلى الإسلام، أو نظام الحكم، أو يضر بالمصلحة العليا للدولة، أو يخدش الآداب العامة وينافي الأخلاق.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة التاسعة عشرة",
+      "text_verbatim": "تجاز المطبوعات الخارجية، أو ترفض مع بيان الأسباب خلال ثلاثين يومًا من تاريخ تسلم الطلب، أما الصحف فتعامل وفقًا لما تحدده اللائحة التنفيذية.",
+      "text_for_index": "تجاز المطبوعات الخارجية، أو ترفض مع بيان الأسباب خلال ثلاثين يومًا من تاريخ تسلم الطلب، أما الصحف فتعامل وفقًا لما تحدده اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تجاز المطبوعات الخارجية، أو ترفض مع بيان الأسباب خلال ثلاثين يومًا من تاريخ تسلم الطلب، أما الصحف فتعامل وفقًا لما تحدده اللائحة التنفيذية.",
+          "text_for_index": "تجاز المطبوعات الخارجية، أو ترفض مع بيان الأسباب خلال ثلاثين يومًا من تاريخ تسلم الطلب، أما الصحف فتعامل وفقًا لما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "obligation",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "التزام",
+        "عبء إثبات"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة العشرون",
+      "text_verbatim": "على كل سعودي يصدر مطبوعة غير دورية خارج المملكة، ويتقدم للوزارة بطلب إجازتها أن يرفق بطلبه ما يثبت إيداع النسخ المطلوبة، وفق نظام الإيداع.",
+      "text_for_index": "على كل سعودي يصدر مطبوعة غير دورية خارج المملكة، ويتقدم للوزارة بطلب إجازتها أن يرفق بطلبه ما يثبت إيداع النسخ المطلوبة، وفق نظام الإيداع.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "obligation",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "التزام",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "على كل سعودي يصدر مطبوعة غير دورية خارج المملكة، ويتقدم للوزارة بطلب إجازتها أن يرفق بطلبه ما يثبت إيداع النسخ المطلوبة، وفق نظام الإيداع.",
+          "text_for_index": "على كل سعودي يصدر مطبوعة غير دورية خارج المملكة، ويتقدم للوزارة بطلب إجازتها أن يرفق بطلبه ما يثبت إيداع النسخ المطلوبة، وفق نظام الإيداع.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الحادية والعشرون",
+      "text_verbatim": "لا تسري رقابة الوزارة على ما تستورده الجهات الحكومية والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية والمؤسسات الصحفية الأهلية من مطبوعات لأغراضها.",
+      "text_for_index": "لا تسري رقابة الوزارة على ما تستورده الجهات الحكومية والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية والمؤسسات الصحفية الأهلية من مطبوعات لأغراضها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا تسري رقابة الوزارة على ما تستورده الجهات الحكومية والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية والمؤسسات الصحفية الأهلية من مطبوعات لأغراضها.",
+          "text_for_index": "لا تسري رقابة الوزارة على ما تستورده الجهات الحكومية والمؤسسات التعليمية والبحثية، والجمعيات العلمية، والأندية الأدبية والثقافية والمؤسسات الصحفية الأهلية من مطبوعات لأغراضها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثانية والعشرون",
+      "text_verbatim": "تحدد اللائحة التنفيذية- في حدود أحكام هذا النظام- تنظيم استيراد المطبوعات الخارجية وتوزيعها.\n\nكما تحدد الإجراءات اللازمة لتسهيل اصطحاب الكتب والمطبوعات الأخرى، والاشتراك بها من قبل الباحثين والمفكرين، لأغراضهم العلمية وفي حدود حيازتهم الشخصية.",
+      "text_for_index": "تحدد اللائحة التنفيذية- في حدود أحكام هذا النظام- تنظيم استيراد المطبوعات الخارجية وتوزيعها.\n\nكما تحدد الإجراءات اللازمة لتسهيل اصطحاب الكتب والمطبوعات الأخرى، والاشتراك بها من قبل الباحثين والمفكرين، لأغراضهم العلمية وفي حدود حيازتهم الشخصية.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تحدد اللائحة التنفيذية- في حدود أحكام هذا النظام- تنظيم استيراد المطبوعات الخارجية وتوزيعها.",
+          "text_for_index": "تحدد اللائحة التنفيذية- في حدود أحكام هذا النظام- تنظيم استيراد المطبوعات الخارجية وتوزيعها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-22::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "كما تحدد الإجراءات اللازمة لتسهيل اصطحاب الكتب والمطبوعات الأخرى، والاشتراك بها من قبل الباحثين والمفكرين، لأغراضهم العلمية وفي حدود حيازتهم الشخصية.",
+          "text_for_index": "كما تحدد الإجراءات اللازمة لتسهيل اصطحاب الكتب والمطبوعات الأخرى، والاشتراك بها من قبل الباحثين والمفكرين، لأغراضهم العلمية وفي حدود حيازتهم الشخصية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثالثة والعشرون",
+      "text_verbatim": "يجوز بعد موافقة رئيس مجلس الوزراء أن تطبع صحف أجنبية في المملكة وفقًا لما تحدده اللائحة التنفيذية، وبما يتفق مع أحكام هذا النظام.",
+      "text_for_index": "يجوز بعد موافقة رئيس مجلس الوزراء أن تطبع صحف أجنبية في المملكة وفقًا لما تحدده اللائحة التنفيذية، وبما يتفق مع أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "يجوز بعد موافقة رئيس مجلس الوزراء أن تطبع صحف أجنبية في المملكة وفقًا لما تحدده اللائحة التنفيذية، وبما يتفق مع أحكام هذا النظام.",
+          "text_for_index": "يجوز بعد موافقة رئيس مجلس الوزراء أن تطبع صحف أجنبية في المملكة وفقًا لما تحدده اللائحة التنفيذية، وبما يتفق مع أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الرابعة والعشرون",
+      "text_verbatim": "لا تخضع الصحف المحلية للرقابة، إلا في الظروف الاستثنائية التي يقرها رئيس مجلس الوزراء.",
+      "text_for_index": "لا تخضع الصحف المحلية للرقابة، إلا في الظروف الاستثنائية التي يقرها رئيس مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لا تخضع الصحف المحلية للرقابة، إلا في الظروف الاستثنائية التي يقرها رئيس مجلس الوزراء.",
+          "text_for_index": "لا تخضع الصحف المحلية للرقابة، إلا في الظروف الاستثنائية التي يقرها رئيس مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الخامسة والعشرون",
+      "text_verbatim": "1 - يجوز- خارج نطاق المؤسسات الصحفية الأهلية- إصدار الصحف من قبل الجهات الأهلية أو الأفراد بترخيص من الوزارة بعد موافقة رئيس مجلس الوزراء .\n\n2 - يكتفى بموافقة الوزارة لإصدار ما يأتي :\n\nأ - النشرات محدودة التداول، ولغير أغراض البيع، مما تصدره الجهات الأهلية، على أن تقتصر هذه النشرات على ما يخدم نشاط الجهة التي تصدرها.\n\nب - المجلات العلمية والمهنية المتخصصة، التي تصدرها جهات أهلية أو أفراد.",
+      "text_for_index": "1 - يجوز- خارج نطاق المؤسسات الصحفية الأهلية- إصدار الصحف من قبل الجهات الأهلية أو الأفراد بترخيص من الوزارة بعد موافقة رئيس مجلس الوزراء .\n\n2 - يكتفى بموافقة الوزارة لإصدار ما يأتي :\n\nأ - النشرات محدودة التداول، ولغير أغراض البيع، مما تصدره الجهات الأهلية، على أن تقتصر هذه النشرات على ما يخدم نشاط الجهة التي تصدرها.\n\nب - المجلات العلمية والمهنية المتخصصة، التي تصدرها جهات أهلية أو أفراد.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1 - يجوز- خارج نطاق المؤسسات الصحفية الأهلية- إصدار الصحف من قبل الجهات الأهلية أو الأفراد بترخيص من الوزارة بعد موافقة رئيس مجلس الوزراء .",
+          "text_for_index": "1 - يجوز- خارج نطاق المؤسسات الصحفية الأهلية- إصدار الصحف من قبل الجهات الأهلية أو الأفراد بترخيص من الوزارة بعد موافقة رئيس مجلس الوزراء .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-25::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "2 - يكتفى بموافقة الوزارة لإصدار ما يأتي :",
+          "text_for_index": "2 - يكتفى بموافقة الوزارة لإصدار ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-25::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "أ - النشرات محدودة التداول، ولغير أغراض البيع، مما تصدره الجهات الأهلية، على أن تقتصر هذه النشرات على ما يخدم نشاط الجهة التي تصدرها.",
+          "text_for_index": "أ - النشرات محدودة التداول، ولغير أغراض البيع، مما تصدره الجهات الأهلية، على أن تقتصر هذه النشرات على ما يخدم نشاط الجهة التي تصدرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-25::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "ب - المجلات العلمية والمهنية المتخصصة، التي تصدرها جهات أهلية أو أفراد.",
+          "text_for_index": "ب - المجلات العلمية والمهنية المتخصصة، التي تصدرها جهات أهلية أو أفراد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السادسة والعشرون",
+      "text_verbatim": "يوضع في مكان بارز من الصحيفة اسم صاحب الترخيص واسم رئيس التحرير، ورقم العدد، ومكان الصدو،ر وتاريخه، والسعر، واسم المطبعة.",
+      "text_for_index": "يوضع في مكان بارز من الصحيفة اسم صاحب الترخيص واسم رئيس التحرير، ورقم العدد، ومكان الصدو،ر وتاريخه، والسعر، واسم المطبعة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يوضع في مكان بارز من الصحيفة اسم صاحب الترخيص واسم رئيس التحرير، ورقم العدد، ومكان الصدو،ر وتاريخه، والسعر، واسم المطبعة.",
+          "text_for_index": "يوضع في مكان بارز من الصحيفة اسم صاحب الترخيص واسم رئيس التحرير، ورقم العدد، ومكان الصدو،ر وتاريخه، والسعر، واسم المطبعة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "obligation",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "التزام",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السابعة والعشرون",
+      "text_verbatim": "1- لا يجوز استعمال اسم صحيفة سبق صدورها ثم احتجبت، إلا بعد انقضاء عشرة أعوام على احتجابها، ما لم يتنازل أصحاب الشأن عن الاسم قبل انقضاء هذه المدة.\n2- لا يجوز اتخاذ اسم لصحيفة يؤدي إلى الالتباس مع اسم غيرها.",
+      "text_for_index": "1- لا يجوز استعمال اسم صحيفة سبق صدورها ثم احتجبت، إلا بعد انقضاء عشرة أعوام على احتجابها، ما لم يتنازل أصحاب الشأن عن الاسم قبل انقضاء هذه المدة.\n2- لا يجوز اتخاذ اسم لصحيفة يؤدي إلى الالتباس مع اسم غيرها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- لا يجوز استعمال اسم صحيفة سبق صدورها ثم احتجبت، إلا بعد انقضاء عشرة أعوام على احتجابها، ما لم يتنازل أصحاب الشأن عن الاسم قبل انقضاء هذه المدة.\n2- لا يجوز اتخاذ اسم لصحيفة يؤدي إلى الالتباس مع اسم غيرها.",
+          "text_for_index": "1- لا يجوز استعمال اسم صحيفة سبق صدورها ثم احتجبت، إلا بعد انقضاء عشرة أعوام على احتجابها، ما لم يتنازل أصحاب الشأن عن الاسم قبل انقضاء هذه المدة.\n2- لا يجوز اتخاذ اسم لصحيفة يؤدي إلى الالتباس مع اسم غيرها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثامنة والعشرون",
+      "text_verbatim": "تحدد اللائحة التنفيذية القواعد المنظمة لبدل الاشتراك السنوي في الصحف وقيمة النسخة الواحدة، وشؤون الإعلانات.",
+      "text_for_index": "تحدد اللائحة التنفيذية القواعد المنظمة لبدل الاشتراك السنوي في الصحف وقيمة النسخة الواحدة، وشؤون الإعلانات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "تحدد اللائحة التنفيذية القواعد المنظمة لبدل الاشتراك السنوي في الصحف وقيمة النسخة الواحدة، وشؤون الإعلانات.",
+          "text_for_index": "تحدد اللائحة التنفيذية القواعد المنظمة لبدل الاشتراك السنوي في الصحف وقيمة النسخة الواحدة، وشؤون الإعلانات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة التاسعة والعشرون",
+      "text_verbatim": "للوزارة سحب الترخيص أو إلغاء الموافقة على إصدار الصحيفة   في إحدى الحالتين الآتيتين:\n\n1 - إذا لم يتم الإصدار خلال مدة أقصاها سنتان من الإبلاغ بالترخيص.\n2 - إذا توقف الإصدار مدة متصلة تزيد على سنة.",
+      "text_for_index": "للوزارة سحب الترخيص أو إلغاء الموافقة على إصدار الصحيفة في إحدى الحالتين الآتيتين:\n\n1 - إذا لم يتم الإصدار خلال مدة أقصاها سنتان من الإبلاغ بالترخيص.\n2 - إذا توقف الإصدار مدة متصلة تزيد على سنة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزارة سحب الترخيص أو إلغاء الموافقة على إصدار الصحيفة   في إحدى الحالتين الآتيتين:",
+          "text_for_index": "للوزارة سحب الترخيص أو إلغاء الموافقة على إصدار الصحيفة في إحدى الحالتين الآتيتين:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-29::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - إذا لم يتم الإصدار خلال مدة أقصاها سنتان من الإبلاغ بالترخيص.\n2 - إذا توقف الإصدار مدة متصلة تزيد على سنة.",
+          "text_for_index": "1 - إذا لم يتم الإصدار خلال مدة أقصاها سنتان من الإبلاغ بالترخيص.\n2 - إذا توقف الإصدار مدة متصلة تزيد على سنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثلاثون",
+      "text_verbatim": "يحظر على الصحف وعلى العاملين فيها قبول أي منفعة، من هبات أو إعانات أو غيرها، من جهات داخلية أو خارجية؛ إلا بعد موافقة الوزارة.",
+      "text_for_index": "يحظر على الصحف وعلى العاملين فيها قبول أي منفعة، من هبات أو إعانات أو غيرها، من جهات داخلية أو خارجية؛ إلا بعد موافقة الوزارة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "يحظر على الصحف وعلى العاملين فيها قبول أي منفعة، من هبات أو إعانات أو غيرها، من جهات داخلية أو خارجية؛ إلا بعد موافقة الوزارة.",
+          "text_for_index": "يحظر على الصحف وعلى العاملين فيها قبول أي منفعة، من هبات أو إعانات أو غيرها، من جهات داخلية أو خارجية؛ إلا بعد موافقة الوزارة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الحادية والثلاثون",
+      "text_verbatim": "لا تمنع الصحيفة عن الصدور إلا في الظروف الاستثنائية، وبعد موافقة رئيس مجلس الوزراء.",
+      "text_for_index": "لا تمنع الصحيفة عن الصدور إلا في الظروف الاستثنائية، وبعد موافقة رئيس مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "لا تمنع الصحيفة عن الصدور إلا في الظروف الاستثنائية، وبعد موافقة رئيس مجلس الوزراء.",
+          "text_for_index": "لا تمنع الصحيفة عن الصدور إلا في الظروف الاستثنائية، وبعد موافقة رئيس مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثانية والثلاثون",
+      "text_verbatim": "أ - يجوز نشر الإعلانات التحريرية للمؤسسات والأفراد، بشرط الإشارة إلى أنها مادة إعلانية.\nب  - يجوز نشر الإعلانات التحريرية للدول بعد موافقة  الوزارة  مع الإشارة إلى أنها مادة إعلانية.",
+      "text_for_index": "أ - يجوز نشر الإعلانات التحريرية للمؤسسات والأفراد، بشرط الإشارة إلى أنها مادة إعلانية.\nب - يجوز نشر الإعلانات التحريرية للدول بعد موافقة الوزارة مع الإشارة إلى أنها مادة إعلانية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "أ - يجوز نشر الإعلانات التحريرية للمؤسسات والأفراد، بشرط الإشارة إلى أنها مادة إعلانية.\nب  - يجوز نشر الإعلانات التحريرية للدول بعد موافقة  الوزارة  مع الإشارة إلى أنها مادة إعلانية.",
+          "text_for_index": "أ - يجوز نشر الإعلانات التحريرية للمؤسسات والأفراد، بشرط الإشارة إلى أنها مادة إعلانية.\nب - يجوز نشر الإعلانات التحريرية للدول بعد موافقة الوزارة مع الإشارة إلى أنها مادة إعلانية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثالثة والثلاثون",
+      "text_verbatim": "1- رئيس تحرير الصحيفة أو من يقوم مقامه في حالة غيابه، مسئول عما ينشر فيها.\n\n2 - مع عدم الإخلال بمسئولية رئيس التحرير أو من يقوم مقامه يكون كاتب النص مسئولًا عما يرد فيه.",
+      "text_for_index": "1- رئيس تحرير الصحيفة أو من يقوم مقامه في حالة غيابه، مسئول عما ينشر فيها.\n\n2 - مع عدم الإخلال بمسئولية رئيس التحرير أو من يقوم مقامه يكون كاتب النص مسئولًا عما يرد فيه.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "1- رئيس تحرير الصحيفة أو من يقوم مقامه في حالة غيابه، مسئول عما ينشر فيها.",
+          "text_for_index": "1- رئيس تحرير الصحيفة أو من يقوم مقامه في حالة غيابه، مسئول عما ينشر فيها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-33::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2 - مع عدم الإخلال بمسئولية رئيس التحرير أو من يقوم مقامه يكون كاتب النص مسئولًا عما يرد فيه.",
+          "text_for_index": "2 - مع عدم الإخلال بمسئولية رئيس التحرير أو من يقوم مقامه يكون كاتب النص مسئولًا عما يرد فيه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الرابعة والثلاثون",
+      "text_verbatim": "جريدة أم القرى هي   الصحيفة    الرسمية للدولة.",
+      "text_for_index": "جريدة أم القرى هي الصحيفة الرسمية للدولة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "جريدة أم القرى هي   الصحيفة    الرسمية للدولة.",
+          "text_for_index": "جريدة أم القرى هي الصحيفة الرسمية للدولة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الخامسة والثلاثون",
+      "text_verbatim": "على كل صحيفة نسبت إلى الغير تصريحًا غير صحيح، أو نشرت خبرًا خاطئًا، أن تصحح ذلك بنشره مجانًا، بناء على طلب صاحب الشأن، في أول عدد يصدر بعد طلب التصحيح، ويكون ذلك في المكان الذي سبق أن نشر الخبر أو التصريح فيه، أو في مكان بارز منها، ولمن أصابه ضرر حق المطالبة بالتعويض.",
+      "text_for_index": "على كل صحيفة نسبت إلى الغير تصريحًا غير صحيح، أو نشرت خبرًا خاطئًا، أن تصحح ذلك بنشره مجانًا، بناء على طلب صاحب الشأن، في أول عدد يصدر بعد طلب التصحيح، ويكون ذلك في المكان الذي سبق أن نشر الخبر أو التصريح فيه، أو في مكان بارز منها، ولمن أصابه ضرر حق المطالبة بالتعويض.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "التزام"
+          ],
+          "text_verbatim": "على كل صحيفة نسبت إلى الغير تصريحًا غير صحيح، أو نشرت خبرًا خاطئًا، أن تصحح ذلك بنشره مجانًا، بناء على طلب صاحب الشأن، في أول عدد يصدر بعد طلب التصحيح، ويكون ذلك في المكان الذي سبق أن نشر الخبر أو التصريح فيه، أو في مكان بارز منها، ولمن أصابه ضرر حق المطالبة بالتعويض.",
+          "text_for_index": "على كل صحيفة نسبت إلى الغير تصريحًا غير صحيح، أو نشرت خبرًا خاطئًا، أن تصحح ذلك بنشره مجانًا، بناء على طلب صاحب الشأن، في أول عدد يصدر بعد طلب التصحيح، ويكون ذلك في المكان الذي سبق أن نشر الخبر أو التصريح فيه، أو في مكان بارز منها، ولمن أصابه ضرر حق المطالبة بالتعويض.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السادسة والثلاثون",
+      "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم ( م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :\n\n\" للوزارة - عند الاقتضاء - سحب أي مطبوعة دون تعويض، إذا تضمنت أيًا من الأمور المحظور نشرها، المنصوص عليها في المادة (التاسعة) من هذا النظام\".",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم ( م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :\n\n\" للوزارة - عند الاقتضاء - سحب أي مطبوعة دون تعويض، إذا تضمنت أيًا من الأمور المحظور نشرها، المنصوص عليها في المادة (التاسعة) من هذا النظام\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم ( م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم ( م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-36::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "\" للوزارة - عند الاقتضاء - سحب أي مطبوعة دون تعويض، إذا تضمنت أيًا من الأمور المحظور نشرها، المنصوص عليها في المادة (التاسعة) من هذا النظام\".",
+          "text_for_index": "\" للوزارة - عند الاقتضاء - سحب أي مطبوعة دون تعويض، إذا تضمنت أيًا من الأمور المحظور نشرها، المنصوص عليها في المادة (التاسعة) من هذا النظام\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السابعة والثلاثون",
+      "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :\n\n\" 1  - \tتشكل لجنة ابتدائية - أو أكثر - برئاسة من تتوافر فيه خبرة في الأعمال القضائية، وعضوية مستشار نظامي وأحد المختصين في الإعلام، للنظر في مخالفات أحكام هذا النظام وتطبيق العقوبات الواردة فيه.\n\n2   -  لا تنظر اللجنة إلا في الشكاوي التي يرفعها أي شخص ممن له صفة ومصلحة مباشرة، أو ما يحال إليها من الوزير.\n\n3   -  تصدر قرارات اللجنة الابتدائية بالإجماع أو بالأغلبية بعد دعوة المخالف أو من يمثله، وسماع أقواله، ويجوز لها دعوة من ترى الاستماع إلى أقواله.\"",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :\n\n\" 1 - تشكل لجنة ابتدائية - أو أكثر - برئاسة من تتوافر فيه خبرة في الأعمال القضائية، وعضوية مستشار نظامي وأحد المختصين في الإعلام، للنظر في مخالفات أحكام هذا النظام وتطبيق العقوبات الواردة فيه.\n\n2 - لا تنظر اللجنة إلا في الشكاوي التي يرفعها أي شخص ممن له صفة ومصلحة مباشرة، أو ما يحال إليها من الوزير.\n\n3 - تصدر قرارات اللجنة الابتدائية بالإجماع أو بالأغلبية بعد دعوة المخالف أو من يمثله، وسماع أقواله، ويجوز لها دعوة من ترى الاستماع إلى أقواله.\"",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433 هـ، لتصبح كما يلى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-37::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "\" 1  - \tتشكل لجنة ابتدائية - أو أكثر - برئاسة من تتوافر فيه خبرة في الأعمال القضائية، وعضوية مستشار نظامي وأحد المختصين في الإعلام، للنظر في مخالفات أحكام هذا النظام وتطبيق العقوبات الواردة فيه.",
+          "text_for_index": "\" 1 - تشكل لجنة ابتدائية - أو أكثر - برئاسة من تتوافر فيه خبرة في الأعمال القضائية، وعضوية مستشار نظامي وأحد المختصين في الإعلام، للنظر في مخالفات أحكام هذا النظام وتطبيق العقوبات الواردة فيه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-37::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "2   -  لا تنظر اللجنة إلا في الشكاوي التي يرفعها أي شخص ممن له صفة ومصلحة مباشرة، أو ما يحال إليها من الوزير.",
+          "text_for_index": "2 - لا تنظر اللجنة إلا في الشكاوي التي يرفعها أي شخص ممن له صفة ومصلحة مباشرة، أو ما يحال إليها من الوزير.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-37::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "3   -  تصدر قرارات اللجنة الابتدائية بالإجماع أو بالأغلبية بعد دعوة المخالف أو من يمثله، وسماع أقواله، ويجوز لها دعوة من ترى الاستماع إلى أقواله.\"",
+          "text_for_index": "3 - تصدر قرارات اللجنة الابتدائية بالإجماع أو بالأغلبية بعد دعوة المخالف أو من يمثله، وسماع أقواله، ويجوز لها دعوة من ترى الاستماع إلى أقواله.\"",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثامنة والثلاثون",
+      "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :\n\n\" مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام هذا النظام بواحدة أو أكثر من العقوبات التالية :\n\n1 - غرامة لا تزيد على (500) خمسمائة ألف ريال، وتضاعف الغرامة إذا تكررت المخالفة.\n\n2 - إيقاف المخالف عن الكتابة في جميع الصحف والمطبوعات، أو عن المشاركة الإعلامية من خلال القنوات الفضائية، أو عنهما معًا.\n\n3 - إغلاق أو حجب محل المخالفة مؤقتًا أو نهائيًا، فإن كان محل المخالفة صحيفة فيكون تنفيذ قرار الإغلاق بموافقة رئيس مجلس الوزراء، وإن كان محلها صحيفة إلكترونية أو موقعًا ونحو ذلك فيكون تنفيذ قرار الإغلاق أو الحجب من صلاحية الوزير.\n\n4 - نشر إعتذار من المخالف في المطبوعة - إذا كانت مخالفته نشر معلومات مغلوطة أو اتهامات تجاه المذكورين في الفقرة (3) من المادة (التاسعة) من هذا النظام - وفق الصيغة التي تراها اللجنة وعلى نفقته الخاصة وفي المكان نفسه الذي نشرت فيه المخالفة.\n\nوإذا كانت المخالفة تمثل إساءة إلى الدين الإسلامي، أو المساس بمصالح الدولة العليا أو بعقوبات يختص بنظرها القضاء، فعلى اللجنة إحالتها - بقرار مسبب - إلى الوزير لرفعها إلى الملك للنظر في اتخاذ الإجراءات النظامية لإقامة الدعوى أمام المحكمة المختصة، أو اتخاذ ما يراه محققًا للمصلحة العامة \".",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :\n\n\" مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام هذا النظام بواحدة أو أكثر من العقوبات التالية :\n\n1 - غرامة لا تزيد على (500) خمسمائة ألف ريال، وتضاعف الغرامة إذا تكررت المخالفة.\n\n2 - إيقاف المخالف عن الكتابة في جميع الصحف والمطبوعات، أو عن المشاركة الإعلامية من خلال القنوات الفضائية، أو عنهما معًا.\n\n3 - إغلاق أو حجب محل المخالفة مؤقتًا أو نهائيًا، فإن كان محل المخالفة صحيفة فيكون تنفيذ قرار الإغلاق بموافقة رئيس مجلس الوزراء، وإن كان محلها صحيفة إلكترونية أو موقعًا ونحو ذلك فيكون تنفيذ قرار الإغلاق أو الحجب من صلاحية الوزير.\n\n4 - نشر إعتذار من المخالف في المطبوعة - إذا كانت مخالفته نشر معلومات مغلوطة أو اتهامات تجاه المذكورين في الفقرة (3) من المادة (التاسعة) من هذا النظام - وفق الصيغة التي تراها اللجنة وعلى نفقته الخاصة وفي المكان نفسه الذي نشرت فيه المخالفة.\n\nوإذا كانت المخالفة تمثل إساءة إلى الدين الإسلامي، أو المساس بمصالح الدولة العليا أو بعقوبات يختص بنظرها القضاء، فعلى اللجنة إحالتها - بقرار مسبب - إلى الوزير لرفعها إلى الملك للنظر في اتخاذ الإجراءات النظامية لإقامة الدعوى أمام المحكمة المختصة، أو اتخاذ ما يراه محققًا للمصلحة العامة \".",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "\" مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام هذا النظام بواحدة أو أكثر من العقوبات التالية :",
+          "text_for_index": "\" مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام هذا النظام بواحدة أو أكثر من العقوبات التالية :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "1 - غرامة لا تزيد على (500) خمسمائة ألف ريال، وتضاعف الغرامة إذا تكررت المخالفة.",
+          "text_for_index": "1 - غرامة لا تزيد على (500) خمسمائة ألف ريال، وتضاعف الغرامة إذا تكررت المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2 - إيقاف المخالف عن الكتابة في جميع الصحف والمطبوعات، أو عن المشاركة الإعلامية من خلال القنوات الفضائية، أو عنهما معًا.",
+          "text_for_index": "2 - إيقاف المخالف عن الكتابة في جميع الصحف والمطبوعات، أو عن المشاركة الإعلامية من خلال القنوات الفضائية، أو عنهما معًا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "3 - إغلاق أو حجب محل المخالفة مؤقتًا أو نهائيًا، فإن كان محل المخالفة صحيفة فيكون تنفيذ قرار الإغلاق بموافقة رئيس مجلس الوزراء، وإن كان محلها صحيفة إلكترونية أو موقعًا ونحو ذلك فيكون تنفيذ قرار الإغلاق أو الحجب من صلاحية الوزير.",
+          "text_for_index": "3 - إغلاق أو حجب محل المخالفة مؤقتًا أو نهائيًا، فإن كان محل المخالفة صحيفة فيكون تنفيذ قرار الإغلاق بموافقة رئيس مجلس الوزراء، وإن كان محلها صحيفة إلكترونية أو موقعًا ونحو ذلك فيكون تنفيذ قرار الإغلاق أو الحجب من صلاحية الوزير.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "4 - نشر إعتذار من المخالف في المطبوعة - إذا كانت مخالفته نشر معلومات مغلوطة أو اتهامات تجاه المذكورين في الفقرة (3) من المادة (التاسعة) من هذا النظام - وفق الصيغة التي تراها اللجنة وعلى نفقته الخاصة وفي المكان نفسه الذي نشرت فيه المخالفة.",
+          "text_for_index": "4 - نشر إعتذار من المخالف في المطبوعة - إذا كانت مخالفته نشر معلومات مغلوطة أو اتهامات تجاه المذكورين في الفقرة (3) من المادة (التاسعة) من هذا النظام - وفق الصيغة التي تراها اللجنة وعلى نفقته الخاصة وفي المكان نفسه الذي نشرت فيه المخالفة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-38::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "وإذا كانت المخالفة تمثل إساءة إلى الدين الإسلامي، أو المساس بمصالح الدولة العليا أو بعقوبات يختص بنظرها القضاء، فعلى اللجنة إحالتها - بقرار مسبب - إلى الوزير لرفعها إلى الملك للنظر في اتخاذ الإجراءات النظامية لإقامة الدعوى أمام المحكمة المختصة، أو اتخاذ ما يراه محققًا للمصلحة العامة \".",
+          "text_for_index": "وإذا كانت المخالفة تمثل إساءة إلى الدين الإسلامي، أو المساس بمصالح الدولة العليا أو بعقوبات يختص بنظرها القضاء، فعلى اللجنة إحالتها - بقرار مسبب - إلى الوزير لرفعها إلى الملك للنظر في اتخاذ الإجراءات النظامية لإقامة الدعوى أمام المحكمة المختصة، أو اتخاذ ما يراه محققًا للمصلحة العامة \".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة التاسعة والثلاثون",
+      "text_verbatim": "للوزارة سحب المطبوعات المعروضة للتداول داخلية كانت أو خارجية، في الحالتين الآتيتين :\n\n1 - عندما تكون محظورة التداول.\n\n2 - عندما تكون غير مجازة، وتكون مشتملة على بعض المحظورات المنصوص عليها في المادة التاسعة أو المادة الثامنة عشرة.\n\nوتكون الجهة المخولة بالنظر في ذلك اللجنة المنصوص عليها في المادة السابعة والثلاثين، وهي التي تقرر ما تراه مناسبًا، بإتلافها دون تعويض أو تكليف صاحب العلاقة بإعادتها إلى خارج المملكة على نفقته إن كانت خارجية.",
+      "text_for_index": "للوزارة سحب المطبوعات المعروضة للتداول داخلية كانت أو خارجية، في الحالتين الآتيتين :\n\n1 - عندما تكون محظورة التداول.\n\n2 - عندما تكون غير مجازة، وتكون مشتملة على بعض المحظورات المنصوص عليها في المادة التاسعة أو المادة الثامنة عشرة.\n\nوتكون الجهة المخولة بالنظر في ذلك اللجنة المنصوص عليها في المادة السابعة والثلاثين، وهي التي تقرر ما تراه مناسبًا، بإتلافها دون تعويض أو تكليف صاحب العلاقة بإعادتها إلى خارج المملكة على نفقته إن كانت خارجية.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "للوزارة سحب المطبوعات المعروضة للتداول داخلية كانت أو خارجية، في الحالتين الآتيتين :",
+          "text_for_index": "للوزارة سحب المطبوعات المعروضة للتداول داخلية كانت أو خارجية، في الحالتين الآتيتين :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-39::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "1 - عندما تكون محظورة التداول.",
+          "text_for_index": "1 - عندما تكون محظورة التداول.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-39::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "2 - عندما تكون غير مجازة، وتكون مشتملة على بعض المحظورات المنصوص عليها في المادة التاسعة أو المادة الثامنة عشرة.",
+          "text_for_index": "2 - عندما تكون غير مجازة، وتكون مشتملة على بعض المحظورات المنصوص عليها في المادة التاسعة أو المادة الثامنة عشرة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-39::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "وتكون الجهة المخولة بالنظر في ذلك اللجنة المنصوص عليها في المادة السابعة والثلاثين، وهي التي تقرر ما تراه مناسبًا، بإتلافها دون تعويض أو تكليف صاحب العلاقة بإعادتها إلى خارج المملكة على نفقته إن كانت خارجية.",
+          "text_for_index": "وتكون الجهة المخولة بالنظر في ذلك اللجنة المنصوص عليها في المادة السابعة والثلاثين، وهي التي تقرر ما تراه مناسبًا، بإتلافها دون تعويض أو تكليف صاحب العلاقة بإعادتها إلى خارج المملكة على نفقته إن كانت خارجية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون",
+      "article_heading": "الأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الأربعون",
+      "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :\n\n\"1 -  تشكل لجنة استئنافية برئاسة من تتوافر فيه خبرة الأعمال القضائية وعضوية مستشار نظامي وأحد المختصين في الإعلام لا تقل الخبرة العملية لأي مهنهم عن خمس وعشرين سنة؛ للنظر في التظلمات المقدمة من ذوي الشأن على قرارات اللجنة الابتدائية المشار إليها في المادة (السابعة والثلاثين) من هذا النظام، وتصدر قراراتها بالإجماع أو بالأغلبية، وتكون نهائية غير قابلة للطعن أمام أي جهة أخرى.\n2 -  يصدر الوزير القواعد المنظمة لعمل اللجنتين الابتدائية والاستئنافية وبيان اختصاصاتهما وفق ما هو وارد في هذا النظام.\n3 -  يصدر أمر ملكي بتأليف اللجنتين الابتدائية والاستئنافية وتسمية رئيسيهما وأعضائهما، وتحدد في الأمر مكافآتهم. وتكون مدة العضوية في اللجنتين ثلاث سنوات قابلة للتجديد\".",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :\n\n\"1 - تشكل لجنة استئنافية برئاسة من تتوافر فيه خبرة الأعمال القضائية وعضوية مستشار نظامي وأحد المختصين في الإعلام لا تقل الخبرة العملية لأي مهنهم عن خمس وعشرين سنة؛ للنظر في التظلمات المقدمة من ذوي الشأن على قرارات اللجنة الابتدائية المشار إليها في المادة (السابعة والثلاثين) من هذا النظام، وتصدر قراراتها بالإجماع أو بالأغلبية، وتكون نهائية غير قابلة للطعن أمام أي جهة أخرى.\n2 - يصدر الوزير القواعد المنظمة لعمل اللجنتين الابتدائية والاستئنافية وبيان اختصاصاتهما وفق ما هو وارد في هذا النظام.\n3 - يصدر أمر ملكي بتأليف اللجنتين الابتدائية والاستئنافية وتسمية رئيسيهما وأعضائهما، وتحدد في الأمر مكافآتهم. وتكون مدة العضوية في اللجنتين ثلاث سنوات قابلة للتجديد\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/20 ) وتاريخ 11 / 4 / 1433هـ، لتصبح كما يلى :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-40::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "\"1 -  تشكل لجنة استئنافية برئاسة من تتوافر فيه خبرة الأعمال القضائية وعضوية مستشار نظامي وأحد المختصين في الإعلام لا تقل الخبرة العملية لأي مهنهم عن خمس وعشرين سنة؛ للنظر في التظلمات المقدمة من ذوي الشأن على قرارات اللجنة الابتدائية المشار إليها في المادة (السابعة والثلاثين) من هذا النظام، وتصدر قراراتها بالإجماع أو بالأغلبية، وتكون نهائية غير قابلة للطعن أمام أي جهة أخرى.\n2 -  يصدر الوزير القواعد المنظمة لعمل اللجنتين الابتدائية والاستئنافية وبيان اختصاصاتهما وفق ما هو وارد في هذا النظام.\n3 -  يصدر أمر ملكي بتأليف اللجنتين الابتدائية والاستئنافية وتسمية رئيسيهما وأعضائهما، وتحدد في الأمر مكافآتهم. وتكون مدة العضوية في اللجنتين ثلاث سنوات قابلة للتجديد\".",
+          "text_for_index": "\"1 - تشكل لجنة استئنافية برئاسة من تتوافر فيه خبرة الأعمال القضائية وعضوية مستشار نظامي وأحد المختصين في الإعلام لا تقل الخبرة العملية لأي مهنهم عن خمس وعشرين سنة؛ للنظر في التظلمات المقدمة من ذوي الشأن على قرارات اللجنة الابتدائية المشار إليها في المادة (السابعة والثلاثين) من هذا النظام، وتصدر قراراتها بالإجماع أو بالأغلبية، وتكون نهائية غير قابلة للطعن أمام أي جهة أخرى.\n2 - يصدر الوزير القواعد المنظمة لعمل اللجنتين الابتدائية والاستئنافية وبيان اختصاصاتهما وفق ما هو وارد في هذا النظام.\n3 - يصدر أمر ملكي بتأليف اللجنتين الابتدائية والاستئنافية وتسمية رئيسيهما وأعضائهما، وتحدد في الأمر مكافآتهم. وتكون مدة العضوية في اللجنتين ثلاث سنوات قابلة للتجديد\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الحادية والأربعون",
+      "text_verbatim": "إذا أجازت الوزارة المطبوعة ثم طرأ ما يوجب سحبها، فعليها تعويض صاحب الشأن عن قيمة تكلفة النسخ المسحوبة.",
+      "text_for_index": "إذا أجازت الوزارة المطبوعة ثم طرأ ما يوجب سحبها، فعليها تعويض صاحب الشأن عن قيمة تكلفة النسخ المسحوبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "إذا أجازت الوزارة المطبوعة ثم طرأ ما يوجب سحبها، فعليها تعويض صاحب الشأن عن قيمة تكلفة النسخ المسحوبة.",
+          "text_for_index": "إذا أجازت الوزارة المطبوعة ثم طرأ ما يوجب سحبها، فعليها تعويض صاحب الشأن عن قيمة تكلفة النسخ المسحوبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثانية والأربعون",
+      "text_verbatim": "على الوزارة أن تكلف لإجازة الأعمال العلمية والفكرية، من تتوافر فيهم الأهلية لذلك من ذوي الكفاية والتخصص، والإلمام بالأنظمة، وتعليمات النشر، ولها أن تستعين في ذلك بمن تراه من غير المتفرغين من خارجها.",
+      "text_for_index": "على الوزارة أن تكلف لإجازة الأعمال العلمية والفكرية، من تتوافر فيهم الأهلية لذلك من ذوي الكفاية والتخصص، والإلمام بالأنظمة، وتعليمات النشر، ولها أن تستعين في ذلك بمن تراه من غير المتفرغين من خارجها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على الوزارة أن تكلف لإجازة الأعمال العلمية والفكرية، من تتوافر فيهم الأهلية لذلك من ذوي الكفاية والتخصص، والإلمام بالأنظمة، وتعليمات النشر، ولها أن تستعين في ذلك بمن تراه من غير المتفرغين من خارجها.",
+          "text_for_index": "على الوزارة أن تكلف لإجازة الأعمال العلمية والفكرية، من تتوافر فيهم الأهلية لذلك من ذوي الكفاية والتخصص، والإلمام بالأنظمة، وتعليمات النشر، ولها أن تستعين في ذلك بمن تراه من غير المتفرغين من خارجها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثالثة والأربعون",
+      "text_verbatim": "تضع الوزارة بالتنسيق مع الجهات ذات العلاقة، القواعد المنظمة لإقامة معارض الكتب من قبل دور النشر والتوزيع الأهلية وتشرف عليها.",
+      "text_for_index": "تضع الوزارة بالتنسيق مع الجهات ذات العلاقة، القواعد المنظمة لإقامة معارض الكتب من قبل دور النشر والتوزيع الأهلية وتشرف عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تضع الوزارة بالتنسيق مع الجهات ذات العلاقة، القواعد المنظمة لإقامة معارض الكتب من قبل دور النشر والتوزيع الأهلية وتشرف عليها.",
+          "text_for_index": "تضع الوزارة بالتنسيق مع الجهات ذات العلاقة، القواعد المنظمة لإقامة معارض الكتب من قبل دور النشر والتوزيع الأهلية وتشرف عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الرابعة والأربعون",
+      "text_verbatim": "يجوز بقرار من الوزير إنشاء جمعيات لنشاطات مما هو منصوص عليه في المادة الثانية، لمعالجة مشكلاتها، وتنسيق مهماتها، وعلى كل جمعية أن تضع لائحة يعتمدها الوزير، توضح أهدافها، وتنظم عملها.",
+      "text_for_index": "يجوز بقرار من الوزير إنشاء جمعيات لنشاطات مما هو منصوص عليه في المادة الثانية، لمعالجة مشكلاتها، وتنسيق مهماتها، وعلى كل جمعية أن تضع لائحة يعتمدها الوزير، توضح أهدافها، وتنظم عملها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجوز بقرار من الوزير إنشاء جمعيات لنشاطات مما هو منصوص عليه في المادة الثانية، لمعالجة مشكلاتها، وتنسيق مهماتها، وعلى كل جمعية أن تضع لائحة يعتمدها الوزير، توضح أهدافها، وتنظم عملها.",
+          "text_for_index": "يجوز بقرار من الوزير إنشاء جمعيات لنشاطات مما هو منصوص عليه في المادة الثانية، لمعالجة مشكلاتها، وتنسيق مهماتها، وعلى كل جمعية أن تضع لائحة يعتمدها الوزير، توضح أهدافها، وتنظم عملها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الخامسة والأربعون",
+      "text_verbatim": "الوزارة هي الجهة المنوط بها متابعة تنفيذ هذا النظام، ومساءلة من يخالفه وفقًا لأحكامه.",
+      "text_for_index": "الوزارة هي الجهة المنوط بها متابعة تنفيذ هذا النظام، ومساءلة من يخالفه وفقًا لأحكامه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء"
+          ],
+          "text_verbatim": "الوزارة هي الجهة المنوط بها متابعة تنفيذ هذا النظام، ومساءلة من يخالفه وفقًا لأحكامه.",
+          "text_for_index": "الوزارة هي الجهة المنوط بها متابعة تنفيذ هذا النظام، ومساءلة من يخالفه وفقًا لأحكامه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السادسة والأربعون",
+      "text_verbatim": "يصدر الوزير اللائحة التنفيذية لهذا النظام، في مدة أقصاها ثمانية عشر شهرًا من تاريخ نشره، وتنشر في الجريدة الرسمية.",
+      "text_for_index": "يصدر الوزير اللائحة التنفيذية لهذا النظام، في مدة أقصاها ثمانية عشر شهرًا من تاريخ نشره، وتنشر في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير اللائحة التنفيذية لهذا النظام، في مدة أقصاها ثمانية عشر شهرًا من تاريخ نشره، وتنشر في الجريدة الرسمية.",
+          "text_for_index": "يصدر الوزير اللائحة التنفيذية لهذا النظام، في مدة أقصاها ثمانية عشر شهرًا من تاريخ نشره، وتنشر في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة السابعة والأربعون",
+      "text_verbatim": "على من يمارس أي نشاط من النشاطات التي يحكمها هذا النظام أن يقوم بتصحيح أوضاعه طبقًا للأحكام الواردة فيه، وذلك خلال سنتين من تاريخ نفاذه.",
+      "text_for_index": "على من يمارس أي نشاط من النشاطات التي يحكمها هذا النظام أن يقوم بتصحيح أوضاعه طبقًا للأحكام الواردة فيه، وذلك خلال سنتين من تاريخ نفاذه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على من يمارس أي نشاط من النشاطات التي يحكمها هذا النظام أن يقوم بتصحيح أوضاعه طبقًا للأحكام الواردة فيه، وذلك خلال سنتين من تاريخ نفاذه.",
+          "text_for_index": "على من يمارس أي نشاط من النشاطات التي يحكمها هذا النظام أن يقوم بتصحيح أوضاعه طبقًا للأحكام الواردة فيه، وذلك خلال سنتين من تاريخ نفاذه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 48,
+      "article_label": "الثامنة والأربعون",
+      "article_label_raw": "الثامنة والأربعون",
+      "article_heading": "الثامنة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة الثامنة والأربعون",
+      "text_verbatim": "يحل هذا النظام محل   نظام المطبوعات والنشر    الصادر  بالمرسوم الملكي    ذي الرقم (م/17) والتاريخ 13/ 4/ 1402هـ، ويلغي ما يتعارض معه من أحكام.",
+      "text_for_index": "يحل هذا النظام محل نظام المطبوعات والنشر الصادر بالمرسوم الملكي ذي الرقم (م/17) والتاريخ 13/ 4/ 1402هـ، ويلغي ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-48::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل هذا النظام محل   نظام المطبوعات والنشر    الصادر  بالمرسوم الملكي    ذي الرقم (م/17) والتاريخ 13/ 4/ 1402هـ، ويلغي ما يتعارض معه من أحكام.",
+          "text_for_index": "يحل هذا النظام محل نظام المطبوعات والنشر الصادر بالمرسوم الملكي ذي الرقم (م/17) والتاريخ 13/ 4/ 1402هـ، ويلغي ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 49,
+      "article_label": "التاسعة والأربعون",
+      "article_label_raw": "التاسعة والأربعون",
+      "article_heading": "التاسعة والأربعون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام المطبوعات والنشر، المادة التاسعة والأربعون",
+      "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يومًا من تاريخ نشره.",
+      "text_for_index": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يومًا من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-almtbwaat-walnshr::article-49::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يومًا من تاريخ نشره.",
+          "text_for_index": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يومًا من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

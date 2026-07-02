@@ -1,0 +1,985 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "0898c27bcf84e0002599a54bdffecdcb77400bdc31009b09b5037c17251b7453bdd40bad12f2bea2a443528de3ab4a1212b034d0458af80daa288940b7e5d74ff4070ecdd48a8cc4554a8008f62c21cdce7a78ef3206a2cd4529bb7b84ae7e7593f3552e00c394ae437453bd701e9b330f38fc897ab912a926d7a08e58741ba26dc242b6c0afa6289bc39655a769f714db28240767d3c9cde34548f638bb0df30ac378974d98586dca034adf90b573058da60b41094ccadc2b03e779896eb6fa0937f50fff509db85fb8240c0b6a1e8a1d5032acd91f3137cd000c1cb316a033c47361c5db8ab4e1";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab20007276be85ccd1c6c269f5fb900baa5e4d8e2cb7aa9d1abaa92c954c81f50dcdc6?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام محاكمة الوزراء
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام محاكمة الوزراء</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">السلطة القضائية وحقوق الإنسان</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام محاكمة الوزراء</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام محاكمة الوزراء</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>120650</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="e143d9d5-1889-45d8-8d99-a9a700f263cd">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <big> يتضمن النظام ما يلي: </big><br>
+بيان الجرائم التي تستدعي محاكمة الوزراء وتحديد عقوباتها، أحكام التحقيق والإحالة، هيئة المحاكمة وإجراءاتها، الطعن في الحكم وتنزيل العقوبة والعفو.  
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام محاكمة الوزراء</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1380/01/01 هـ  الموافق : 25/06/1960 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1380/01/01  هـ الموافق : 25/06/1960 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/bf97aa05-3497-450c-a8a3-166d8adce150?lawId=e143d9d5-1889-45d8-8d99-a9a700f263cd">مرسوم ملكي رقم 88 بتاريخ 22 / 9 / 1380</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/c0d060c6-8332-40aa-9a4a-57791183272d?lawId=e143d9d5-1889-45d8-8d99-a9a700f263cd">قرار مجلس الوزراء رقم 508 بتاريخ 21 / 9 / 1380</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="e143d9d5-1889-45d8-8d99-a9a700f263cd" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/812641fc-dc08-4f79-bb99-dc2d0a5b92e8?lawId=e143d9d5-1889-45d8-8d99-a9a700f263cd" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="e143d9d5-1889-45d8-8d99-a9a700f263cd">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="e143d9d5-1889-45d8-8d99-a9a700f263cd" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+<option value="2">الإنجليزية  (English)</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام محاكمة الوزراء</h3>
+        <h3 class="center">1380 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم 88 بتاريخ 22 / 9 / 1380</h4>
+            <div class="HTMLContainer">
+                <p><p>بعون الله تعالى<br />
+نحن سعود بن عبد العزيز آل سعود<br />
+ملك المملكة العربية السعودية&nbsp;<br />
+بعد الاطلاع على المادتين التاسعة عشر والثامنة والأربعين من نظام مجلس الوزراء الصادر بالمرسوم الملكي رقم (٣٨) وتاريخ ٢٢ / ١٠ / ١٣٧٧ هـ.<br />
+وبناء على قرار مجلس الوزراء رقم (٥٠٨) وتاريخ ٢١ / ٩ / ١٣٨٠ هـ.<br />
+وبناء على ما عرضه علينا رئيس مجلس الوزراء.<br />
+<strong>نرسم بما هو آت</strong><br />
+أولاً - نصادق على نظام محاكمة الوزراء بصيغته المرافقة لهذا.<br />
+ثانياً - على رئيس مجلس الوزراء والوزراء تنفيذ مرسومنا هذا من تاريخ نشره.</p>
+
+<p style="text-align:left"><strong>التوقيع الملكي الكريم</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم 508 بتاريخ 21 / 9 / 1380</h4>
+            <p><p>إن مجلس الوزراء&nbsp;<br />
+بعد اطلاعه على مشروع نظام محاكمة الوزراء.<br />
+وبعد اطلاعه على قرار اللجنة التحضيرية رقم (١٣٥) وتاريخ ١٨ / ٩ / ١٣٨٠ هـ.<br />
+<strong>يُقرِّر ما يأتي</strong><br />
+١ - الموافقة على نظام محاكمة الوزراء بصيغته المرافقة لهذا.<br />
+٢ - وقد نظم مشروع مرسوم ملكي بالتصديق على النظام المذكور صورته مرافقة لهذا.<br />
+ولما ذكر حرر ، ، ،</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام محاكمة الوزراء</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 1 -</h3>
+                <div class="HTMLContainer">
+                    تسري أحكام هذا النظام على أعضاء  مجلس الوزراء والموظفين المعينين بمرتبة وزير، إذا ارتكبوا أثناء تأدية وظيفتهم أي الجرائم المنصوص عنها في هذا النظام.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 2-</h3>
+                <div class="HTMLContainer">
+                    <big>مع عدم الإخلال بما ينص عليه أي نظام آخر، يعاقب المحكوم عليهم وفقًا لهذا النظام بالسجن 25 عاما أو بالقتل، إذا ارتكبوا جريمة من الجرائم الآتية:</big><BR>
+<big> أولاً : </big> الأفعال المقصود بها محاولة تغيير النظام الملكي.<BR>
+<big> ثانياً : </big> جرائم الخيانة العظمى.<BR>
+<big> ثالثاً : </big> تعريض أمن الدولة الداخلي وسلامتها ووحدتها للخطر.<BR>
+<big> رابعاً : </big> زعزعة ولاء أفراد القوى المسلحة للملك.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 3-</h3>
+                <div class="HTMLContainer">
+                    <big> تعتبر الأفعال الآتية الذكر خيانة عظمى :</big>
+<BR>أ - حمل السلاح ضد الدولة.<BR>ب - معاونة دولة أخرى في أعمال عدوانية ضد الدولة.<BR>ج - تسهيل دخول العدو إلى البلاد.<BR>د - تسليم المدن والحصون والمنشآت والمواقع والمواني والمصانع والسفن والطائرات والأدوات والذخائر والمؤن وطرق المواصلات إلى العدو.<BR>هـ - تحريض الجنود أو المدنيين على الانضمام للعدو.<BR>و - مساعدة تقدم العدو، بإثارة الفتن وإلقاء الذعر بمختلف الوسائل.<BR>ز- إفشاء أسرار الدفاع عن البلاد وتسليمها إلى دولة أجنبية بالذات أو بالواسطة.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 4-</h3>
+                <div class="HTMLContainer">
+                    <big> مع عدم الإخلال بما ينص عليه أي نظام آخر، يعاقب بالسجن من 5 - 10 سنوات من ارتكب إحدى الجرائم الآتية:</big>
+<BR>أ - دس الدسائس لدى دولة أجنبية أو الاتصال بها لدفعها إلى مباشرة العدوان على أراضي الدولة.<BR>ب - القيام بأعمال أو خطب أو كتابات أو غير ذلك، بقصد اقتطاع جزء من أراضي الدولة لضمه إلى دولة أجنبية أو بقصد تمليكها حقا أو امتيازا فيها.<BR>جـ - تقديم السكن أو الطعام أو اللباس لجندي من جنود الأعداء أو لأحد جواسيسه، أو تسهيل فرار أسير حرب أو أحد رعايا العدو المعتقلين.<BR>د - سرقة أشياء أو وثائق أو معلومات تتعلق بسلامة الدولة لمنفعة دولة أجنبية.<BR>وفي حالة الحرب تعتبر هذه الأفعال من ضمن الفقرة (ب) من المادة الثالثة من هذا النظام.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 5-</h3>
+                <div class="HTMLContainer">
+                    <big>مع عدم الإخلال بما ينص عليه أي نظام آخر، يعاقب بالسجن لمدة تتراوح من 3 - 10سنوات المتهم بموجب أحكام هذا النظام، إذا ارتكب إحدى الجرائم الآتية:</big>
+<BR>أ - التصرفات أو الأفعال التي من شأنها التأثير بالزيادة أو النقص في أثمان البضائع والعقارات أو العملة أو الأوراق المالية، للحصول على فائدة شخصية له أو لغيره.<BR>ب - قبول فائدة - أيا كان نوعها - لنفسه أو لغيره، لقضاء عمل رسمي أو الامتناع عن عمل رسمي.<BR>جـ - استغلال النفوذ ولو بطريق الإيهام للحصول على فائدة أو ميزة لنفسه أو لغيره من أية هيئة أو شركة أو مؤسسة أو مصلحة من مصالح الدولة.<BR>د - تعمد مخالفة النظم واللوائح والأوامر التي يترتب عليها ضياع حقوق الدولة المالية، أو حقوق الأفراد الثابتة شرعا أو نظاما.<BR>هـ - إفشاء قرارات ومداولات  مجلس الوزراء التي تتعلق بأمن الدولة الداخلي وبسلامتها الخارجية، وبالشئون المالية والاقتصادية، وبمحاكمة الوزراء.<BR>و - التدخل الشخصي في شئون القضاء والهيئات والدوائر الحكومية.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 6-</h3>
+                <div class="HTMLContainer">
+                    يترتب حتما على الحكم بإدانة الوزير أو من في مرتبته، عزله من منصبه وحرمانه من تولي الوظائف العامة ومن عضوية مجالس إدارة الهيئات والشركات والمؤسسات، ومن أية وظيفة فيها.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 7-</h3>
+                <div class="HTMLContainer">
+                    يترتب على الحكم بإدانة المتهم وفقا لهذا النظام، الحكم عليه من قبل الهيئة الحاكمة برد ما أفاده من جريمته. ويجوز لهيئة المحاكمة أن تحكم بتعويض ما حدث من ضرر لأي شخص، سواء كان طبيعيا أو اعتباريا.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 8-</h3>
+                <div class="HTMLContainer">
+                    لا تنفذ عقوبة القتل إلا إذا كان الحكم صادرًا بالإجماع. أما إذا صدر الحكم المذكور بالأغلبية فتحال القضية إلى القضاء للبت فيها.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 9-</h3>
+                <div class="HTMLContainer">
+                    الإجراءات المنصوص عليها في هذا النظام واجبة الاتباع في جميع أدوار التحقيق والمحاكمة، وأي إخلال بها يجعل الحكم باطلا.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 10-</h3>
+                <div class="HTMLContainer">
+                    يقوم رئيس  مجلس الوزراء بمجرد قيام دلائل جدية على اقتراف الوزير أو من في مرتبته إحدى الجرائم المنصوص عليها في هذا النظام، بتأليف لجنة تحقيق من وزيرين أو من في مرتبتهما وعضو شرعي برتبة  رئيس محكمة كبرى على الأقل. تتولى هذه الهيئة دراسة الموضوع والتحقيق فيه، وترفع تقريرا بنتيجة ذلك إلى  رئيس مجلس الوزراء خلال ثلاثين يوما من تاريخ تكليفها ببحث الموضوع.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 11-</h3>
+                <div class="HTMLContainer">
+                    يحدد  رئيس مجلس الوزراء جلسة  لمجلس الوزراء لمناقشة تقرير اللجنة خلال خمسة عشر يوما من تاريخ رفع التقرير إليه، وتكون المناقشة في غيبة المتهم.<BR>يتخذ  مجلس الوزراء قراره في الموضوع، فإذا قرر الاتهام عمد إلى تشكيل هيئة المحاكمة المنصوص عنها في المادة (15) من هذا النظام.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 12-</h3>
+                <div class="HTMLContainer">
+                    في حالة الاتهام يأمر  رئيس مجلس الوزراء بإبلاغ المتهم بصورة من قرار الإحالة إلى المحاكمة، ويجري تبليغ المتهم وفقا لما هو وارد في المادة (20) من هذا النظام.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 13-</h3>
+                <div class="HTMLContainer">
+                    لمجلس الوزراء عند إقراره إحالة المتهم إلى المحاكمة، أن يقرر حبسه احتياطيا لحين انعقاد أول جلسة من جلسات هيئة المحاكمة، ولهيئة المحاكمة بعد ذلك أن تجدد حبس المتهم إذا اقتضت الضرورة.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 14-</h3>
+                <div class="HTMLContainer">
+                    يصدر  رئيس مجلس الوزراء قرارا بكف يد المتهم عن العمل إلى أن يفصل في أمره، ويوقف صرف رواتبه منذ صدور القرار بكف اليد.<BR>ولا يحيل إنهاء خدمة الوزير دون إقامة الدعوى عليه أو الاستمرار فيها.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 15-</h3>
+                <div class="HTMLContainer">
+                    تتولى محاكمة الوزراء أو من في مرتبتهم وفقا لهذا النظام، هيئة تشكل من "ثلاثة وزراء" يختارهم  مجلس الوزراء بطريق (القرعة) وعضوين شرعيين برتبة  رئيس محكمة كبرى، على الأقل. ولا يكون من بينهم من يمت للمتهم بالقرابة. ويكون أكبر الوزراء سنا هو  رئيس هيئة المحاكمة .
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 16-</h3>
+                <div class="HTMLContainer">
+                    يقوم بواجب الادعاء العام من يختاره  رئيس مجلس الوزراء .
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 17-</h3>
+                <div class="HTMLContainer">
+                    يختار  رئيس هيئة المحاكمة أمين سر لضبط محاضر الجلسات وتدوينها.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 18-</h3>
+                <div class="HTMLContainer">
+                    لهيئة المحاكمة إذا رأت نقصا في التحقيق أن تستكمله بنفسها أو بمن تنتدبه من أعضائها لهذا الغرض.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 19-</h3>
+                <div class="HTMLContainer">
+                    يعين   رئيس هيئة المحاكمة     موعد انعقادها للنظر في الموضوع خلال مدة لا تزيد عن ثلاثين يوما من تاريخ إعلان المتهم بصورة من قرار إحالته إلى المحاكمة. وعلى   رئيس هيئة المحاكمة     تكليف المدعي العام بإعلان المتهم بموعد المحاكمة ومكان انعقادها، وأسماء شهود الإثبات قبل موعد المحاكمة بثمانية أيام على الأقل.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 20-</h3>
+                <div class="HTMLContainer">
+                    تعقد هيئة المحاكمة جلساتها بحضور المتهم، فإذا تغيب المتهم عن الحضور تؤجل الجلسة إلى موعد آخر لا يتجاوز سبعة أيام من تاريخ التأجيل. وعلى المدعي العام إعلان المتهم في آخر محل إقامة له داخل المملكة عن الموعد الجديد، فإذا لم يعلم له محل إقامة ثابتة جاز تبليغه في مقر  وزارة الداخلية ، وتجري محاكمة المتهم غيابيا بعد ذلك ، وللمتهم أن يستحضر معه وكيلا له خبرة في الشئون النظامية لحضور جلسات المحاكمة والدفاع عنه .
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 21-</h3>
+                <div class="HTMLContainer">
+                    يصدر قرار هيئة المحاكمة بأغلبية الأصوات. ولا تصح اجتماعات الهيئة إلا إذا حضرها جميع الأعضاء. فإذا قام عذر لدى أحد أعضاء الهيئة اختار  مجلس الوزراء فورا عضوا آخر يحل محله.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 22-</h3>
+                <div class="HTMLContainer">
+                    لا يجوز معاقبة المتهم عن واقعة لم ترد في قرار إحالته إلى المحاكمة ولا الحكم عليه بغير الجزاءات الواردة في هذا النظام، أو بغير العقوبات الواردة فيه.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 23-</h3>
+                <div class="HTMLContainer">
+                    في حالة صدور حكم غيابي بالإدانة، تعاد المحاكمة عند حضور المحكوم عليه أو ضبطه، وتعاد المحاكمة خلال ثلاثين يوما من تاريخ الحضور أو الضبط، فإذا فر المحكوم عليه أو امتنع عن حضور جلسات إعادة المحاكمة، يعتبر الحكم الصادر بمثابة الحكم الحضوري.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 24-</h3>
+                <div class="HTMLContainer">
+                    تختص هيئة المحاكمة بالنظر في جميع الجرائم المرتبطة بجريمة من تقوم بمحاكمته، كما تختص بمحاكمة الفاعلين الأصليين والشركاء، وتطبق عليهم العقوبات المقررة في هذا النظام.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 25-</h3>
+                <div class="HTMLContainer">
+                    باستثناء ما ورد في المواد: (8، 26 ،27) من هذا النظام، تكون قرارات هيئة المحاكمة نهائية من حين صدورها، ولا يجوز الاعتراض عليها وتكون نافذة.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 26-</h3>
+                <div class="HTMLContainer">
+                    للمحكوم عليه أن يتظلم إلى جلالة الملك استنادا إلى المواد: (9، 19، 20، 22) من هذا النظام، ببطلان الحكم الصادر. ولجلالة الملك قبول الطعن أو رده، فإذا قبل الطعن بالبطلان وجبت إعادة المحاكمة.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة 27-</h3>
+                <div class="HTMLContainer">
+                    لجلالة الملك في جميع الأحوال إصدار الأمر بالعفو الخاص عن المحكومين وفقا لهذا النظام، أو تخفيف العقوبة عنهم إلى الحد الذي يقرره أمر العفو.
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="e143d9d5-1889-45d8-8d99-a9a700f263cd" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="945b9b10-2ab7-491d-bd86-a9a700f26483">المادة 1 - </option>
+<option value="ac3ff9f8-9ff1-4410-ada0-a9a700f26483">المادة 2- </option>
+<option value="1d1e6422-60be-465e-965d-a9a700f26483">المادة 3- </option>
+<option value="4f7640e7-5e4d-44a1-a3e0-a9a700f26483">المادة 4- </option>
+<option value="19f474ca-1a27-4586-bdaa-a9a700f26483">المادة 5- </option>
+<option value="4df92dc6-f797-44a1-85bf-a9a700f26483">المادة 6- </option>
+<option value="068185f2-d5f8-4a0a-9618-a9a700f26484">المادة 7- </option>
+<option value="28415059-9c16-4661-baaf-a9a700f26484">المادة 8- </option>
+<option value="afa4cae3-0bb7-4bf0-b6b4-a9a700f26484">المادة 9- </option>
+<option value="68a0b15b-9ae0-439b-8097-a9a700f26484">المادة 10- </option>
+<option value="bbc2d0db-835e-44b3-bd8c-a9a700f26484">المادة 11- </option>
+<option value="b72642c4-dfea-4783-a635-a9a700f26484">المادة 12- </option>
+<option value="9e8ff934-aca3-438d-b138-a9a700f26484">المادة 13- </option>
+<option value="ad3c0905-41bf-429b-a08d-a9a700f26484">المادة 14- </option>
+<option value="e0e51712-8238-4b9f-8baa-a9a700f26484">المادة 15- </option>
+<option value="1a9324f3-2763-4f20-9232-a9a700f26484">المادة 16- </option>
+<option value="354a454a-d4ad-444e-a610-a9a700f26484">المادة 17- </option>
+<option value="f6d9e60a-3c76-4634-af07-a9a700f26484">المادة 18- </option>
+<option value="bfacd638-ca51-4718-a9b9-a9a700f26484">المادة 19- </option>
+<option value="1a6557dc-ece1-4397-a530-a9a700f26484">المادة 20- </option>
+<option value="263d2008-0bee-4987-98d4-a9a700f26484">المادة 21- </option>
+<option value="9bcf99a2-1360-4e3f-958f-a9a700f26484">المادة 22- </option>
+<option value="782f85b2-9f88-4306-b603-a9a700f26484">المادة 23- </option>
+<option value="faf384f3-6035-42ba-a8f2-a9a700f26484">المادة 24- </option>
+<option value="00f315a3-50ed-4846-9bcf-a9a700f26484">المادة 25- </option>
+<option value="76a160cc-91c0-44af-a027-a9a700f26484">المادة 26- </option>
+<option value="c03ad749-d343-4176-b823-a9a700f26485">المادة 27- </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaRR0L' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaRR0L' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaRR0L = new CaptchaWidget('divCaptchaContainer_captchaRR0L', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaRR0L.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptione143d9d5-1889-45d8-8d99-a9a700f263cd" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="e143d9d5-1889-45d8-8d99-a9a700f263cd" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaTFVC' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaTFVC' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-e143d9d5-1889-45d8-8d99-a9a700f263cd">
+                    <input type="checkbox" id="agreement-e143d9d5-1889-45d8-8d99-a9a700f263cd" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='e143d9d5-1889-45d8-8d99-a9a700f263cd' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-e143d9d5-1889-45d8-8d99-a9a700f263cd"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-e143d9d5-1889-45d8-8d99-a9a700f263cd"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaRR0L = new CaptchaWidget('divCaptchaContainer_captchaRR0L', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaRR0L.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaTFVC = new CaptchaWidget('divCaptchaContainer_captchaTFVC', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaTFVC.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="e143d9d5-1889-45d8-8d99-a9a700f263cd">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaRR0L = new CaptchaWidget('divCaptchaContainer_captchaRR0L', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaRR0L.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaTFVC = new CaptchaWidget('divCaptchaContainer_captchaTFVC', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaTFVC.load(); 
+                    }); </script>
+</body>
+
+</html>

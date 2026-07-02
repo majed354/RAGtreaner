@@ -1,0 +1,837 @@
+{
+  "metadata": {
+    "slug": "nzam-wzayf-mbashrh-alamwal-alaamh",
+    "title_ar": "نظام وظائف مباشرة الأموال العامة",
+    "status": "ساري",
+    "issue_date_hijri": "1436/02/23 هـ الموافق : 15/12/2014 مـ",
+    "issue_date_gregorian": "2014-12-15",
+    "publish_date_hijri": "1436/03/18 هـ الموافق : 09/01/2015 مـ",
+    "publish_date_gregorian": "2015-01-09",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fd30f9c7-8606-4367-bb22-a9a700f2d952/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-wzayf-mbashrh-alamwal-alaamh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-wzayf-mbashrh-alamwal-alaamh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1436/03/18 هـ الموافق : 09/01/2015 مـ",
+    "effective_date_gregorian": "2015-01-09",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 15,
+    "paragraph_count": 29,
+    "indexable_paragraph_count": 29,
+    "text_chars": 4214,
+    "verbatim_chars": 4265,
+    "citation_base_ar": "نظام وظائف مباشرة الأموال العامة",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/fd30f9c7-8606-4367-bb22-a9a700f2d952/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-wzayf-mbashrh-alamwal-alaamh.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-wzayf-mbashrh-alamwal-alaamh.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:\n\n الأموال العامة :  أموال الدولة (النقدية، والعينية) التي في عهدة الموظفين المشمولين بأحكام هذا النظام.\n\n الجرد :  التحقق من تطابق ما تظهره السجلات والأرصدة والنظم الآلية مع ما في الصناديق، والمستودعات، وما تبقى من عهد.\n\n لائحة الجرد والمحاسبة :  لائحة تحدد إجراءات الجرد والمحاسبة والنماذج اللازمة لذلك.\n\n الوزارة :  وزارة المالية.\n\n الوزير :  وزير المالية.\n\n اللائحة :  اللائحة التنفيذية لهذا النظام.\n\n السنة :  السنة الهجرية.\n\n الجهة :  كل وزارة، أو مصلحة عامة، أو مؤسسة عامة، أو هيئة عامة، أو ما في حكمها.",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:\n\n الأموال العامة : أموال الدولة (النقدية، والعينية) التي في عهدة الموظفين المشمولين بأحكام هذا النظام.\n\n الجرد : التحقق من تطابق ما تظهره السجلات والأرصدة والنظم الآلية مع ما في الصناديق، والمستودعات، وما تبقى من عهد.\n\n لائحة الجرد والمحاسبة : لائحة تحدد إجراءات الجرد والمحاسبة والنماذج اللازمة لذلك.\n\n الوزارة : وزارة المالية.\n\n الوزير : وزير المالية.\n\n اللائحة : اللائحة التنفيذية لهذا النظام.\n\n السنة : السنة الهجرية.\n\n الجهة : كل وزارة، أو مصلحة عامة، أو مؤسسة عامة، أو هيئة عامة، أو ما في حكمها.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف",
+            "استثناء"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الأموال العامة :  أموال الدولة (النقدية، والعينية) التي في عهدة الموظفين المشمولين بأحكام هذا النظام.",
+          "text_for_index": "الأموال العامة : أموال الدولة (النقدية، والعينية) التي في عهدة الموظفين المشمولين بأحكام هذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجرد :  التحقق من تطابق ما تظهره السجلات والأرصدة والنظم الآلية مع ما في الصناديق، والمستودعات، وما تبقى من عهد.",
+          "text_for_index": "الجرد : التحقق من تطابق ما تظهره السجلات والأرصدة والنظم الآلية مع ما في الصناديق، والمستودعات، وما تبقى من عهد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "لائحة الجرد والمحاسبة :  لائحة تحدد إجراءات الجرد والمحاسبة والنماذج اللازمة لذلك.",
+          "text_for_index": "لائحة الجرد والمحاسبة : لائحة تحدد إجراءات الجرد والمحاسبة والنماذج اللازمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الوزارة :  وزارة المالية.",
+          "text_for_index": "الوزارة : وزارة المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الوزير :  وزير المالية.",
+          "text_for_index": "الوزير : وزير المالية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة :  اللائحة التنفيذية لهذا النظام.",
+          "text_for_index": "اللائحة : اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "السنة :  السنة الهجرية.",
+          "text_for_index": "السنة : السنة الهجرية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجهة :  كل وزارة، أو مصلحة عامة، أو مؤسسة عامة، أو هيئة عامة، أو ما في حكمها.",
+          "text_for_index": "الجهة : كل وزارة، أو مصلحة عامة، أو مؤسسة عامة، أو هيئة عامة، أو ما في حكمها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الثانية",
+      "text_verbatim": "1 -  \t   تسري أحكام هذا النظام على من يمارس مباشرة الأموال العامة وحفظها من منسوبي الجهة المنصوص عليها في هذا النظام.\n\n2    -\t   تحدد اللائحة أسماء الوظائف الخاضعة لنظام الخدمة المدنية المشمولة بأحكام هذا النظام، وذلك بالتنسيق بين الوزارة ووزارة الخدمة المدنية.\n\n3   -\t    تحدد المؤسسات والهيئات العامة وما في حكمها (التي لا يخضع منسوبوها لنظام الخدمة المدنية) أسماء الوظائف ذات الصلة بمباشرة الأموال العامة وحفظها، وتدرج تلك الأسماء - بعد أن تعتمدها مجالس إداراتها أو ما في حكمها - في لوائحها ذات الصلة.",
+      "text_for_index": "1 - تسري أحكام هذا النظام على من يمارس مباشرة الأموال العامة وحفظها من منسوبي الجهة المنصوص عليها في هذا النظام.\n\n2 - تحدد اللائحة أسماء الوظائف الخاضعة لنظام الخدمة المدنية المشمولة بأحكام هذا النظام، وذلك بالتنسيق بين الوزارة ووزارة الخدمة المدنية.\n\n3 - تحدد المؤسسات والهيئات العامة وما في حكمها (التي لا يخضع منسوبوها لنظام الخدمة المدنية) أسماء الوظائف ذات الصلة بمباشرة الأموال العامة وحفظها، وتدرج تلك الأسماء - بعد أن تعتمدها مجالس إداراتها أو ما في حكمها - في لوائحها ذات الصلة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 -  \t   تسري أحكام هذا النظام على من يمارس مباشرة الأموال العامة وحفظها من منسوبي الجهة المنصوص عليها في هذا النظام.",
+          "text_for_index": "1 - تسري أحكام هذا النظام على من يمارس مباشرة الأموال العامة وحفظها من منسوبي الجهة المنصوص عليها في هذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "2    -\t   تحدد اللائحة أسماء الوظائف الخاضعة لنظام الخدمة المدنية المشمولة بأحكام هذا النظام، وذلك بالتنسيق بين الوزارة ووزارة الخدمة المدنية.",
+          "text_for_index": "2 - تحدد اللائحة أسماء الوظائف الخاضعة لنظام الخدمة المدنية المشمولة بأحكام هذا النظام، وذلك بالتنسيق بين الوزارة ووزارة الخدمة المدنية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "3   -\t    تحدد المؤسسات والهيئات العامة وما في حكمها (التي لا يخضع منسوبوها لنظام الخدمة المدنية) أسماء الوظائف ذات الصلة بمباشرة الأموال العامة وحفظها، وتدرج تلك الأسماء - بعد أن تعتمدها مجالس إداراتها أو ما في حكمها - في لوائحها ذات الصلة.",
+          "text_for_index": "3 - تحدد المؤسسات والهيئات العامة وما في حكمها (التي لا يخضع منسوبوها لنظام الخدمة المدنية) أسماء الوظائف ذات الصلة بمباشرة الأموال العامة وحفظها، وتدرج تلك الأسماء - بعد أن تعتمدها مجالس إداراتها أو ما في حكمها - في لوائحها ذات الصلة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الثالثة",
+      "text_verbatim": "على الجهة جرد موجودات الصندوق مرة كل ثلاثة أشهر، وجرد المستودع والعهدة العينية مرة كل سنة؛ وفقًا للإجراءات والضوابط التي تحددها لائحة الجرد والمحاسبة.",
+      "text_for_index": "على الجهة جرد موجودات الصندوق مرة كل ثلاثة أشهر، وجرد المستودع والعهدة العينية مرة كل سنة؛ وفقًا للإجراءات والضوابط التي تحددها لائحة الجرد والمحاسبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "على الجهة جرد موجودات الصندوق مرة كل ثلاثة أشهر، وجرد المستودع والعهدة العينية مرة كل سنة؛ وفقًا للإجراءات والضوابط التي تحددها لائحة الجرد والمحاسبة.",
+          "text_for_index": "على الجهة جرد موجودات الصندوق مرة كل ثلاثة أشهر، وجرد المستودع والعهدة العينية مرة كل سنة؛ وفقًا للإجراءات والضوابط التي تحددها لائحة الجرد والمحاسبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الرابعة",
+      "text_verbatim": "على الجهة استخدام الوسائل الإلكترونية التي تضبط مدخلات الصناديق والمستودعات، ومخرجاتها.",
+      "text_for_index": "على الجهة استخدام الوسائل الإلكترونية التي تضبط مدخلات الصناديق والمستودعات، ومخرجاتها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على الجهة استخدام الوسائل الإلكترونية التي تضبط مدخلات الصناديق والمستودعات، ومخرجاتها.",
+          "text_for_index": "على الجهة استخدام الوسائل الإلكترونية التي تضبط مدخلات الصناديق والمستودعات، ومخرجاتها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الخامسة",
+      "text_verbatim": "مع مراعاة ما تقضي به الشروط المقررة نظامًا، يشترط فيمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام ما يأتي:\n\n1  -  \tأن يكون سعودي الجنسية.\n\n2  -\t  ألا يقل عمره عن إحدى وعشرين سنة.\n3  -  \tألا يكون قد صدر في حقه حكم نهائي بالإدانة في جريمة مُخلة بالأمانة أو الشرف.",
+      "text_for_index": "مع مراعاة ما تقضي به الشروط المقررة نظامًا، يشترط فيمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام ما يأتي:\n\n1 - أن يكون سعودي الجنسية.\n\n2 - ألا يقل عمره عن إحدى وعشرين سنة.\n3 - ألا يكون قد صدر في حقه حكم نهائي بالإدانة في جريمة مُخلة بالأمانة أو الشرف.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "مع مراعاة ما تقضي به الشروط المقررة نظامًا، يشترط فيمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام ما يأتي:",
+          "text_for_index": "مع مراعاة ما تقضي به الشروط المقررة نظامًا، يشترط فيمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "1  -  \tأن يكون سعودي الجنسية.",
+          "text_for_index": "1 - أن يكون سعودي الجنسية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "2  -\t  ألا يقل عمره عن إحدى وعشرين سنة.\n3  -  \tألا يكون قد صدر في حقه حكم نهائي بالإدانة في جريمة مُخلة بالأمانة أو الشرف.",
+          "text_for_index": "2 - ألا يقل عمره عن إحدى وعشرين سنة.\n3 - ألا يكون قد صدر في حقه حكم نهائي بالإدانة في جريمة مُخلة بالأمانة أو الشرف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة السادسة",
+      "text_verbatim": "تصرف الجهة لمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام؛ مكافأة سنوية تعادل راتب شهرين من راتبه الأساس وفق الدرجة والمرتبة التي يشغلها؛ إذا تحققت الشروط الآتية:\n\n1  - \t إكمال الموظف سنة متصلة في الوظيفة.\n2  -  \tإتمام إجراءات الجرد والمحاسبة النظامية.\n3  - \t الحصول على شهادة تبرئة ذمة من الجهة التي يعمل فيها، مصدقة من ديوان المراقبة العامة، وهيئة الرقابة والتحقيق. وتحدد لائحة الجرد والمحاسبة النماذج اللازمة لذلك.",
+      "text_for_index": "تصرف الجهة لمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام؛ مكافأة سنوية تعادل راتب شهرين من راتبه الأساس وفق الدرجة والمرتبة التي يشغلها؛ إذا تحققت الشروط الآتية:\n\n1 - إكمال الموظف سنة متصلة في الوظيفة.\n2 - إتمام إجراءات الجرد والمحاسبة النظامية.\n3 - الحصول على شهادة تبرئة ذمة من الجهة التي يعمل فيها، مصدقة من ديوان المراقبة العامة، وهيئة الرقابة والتحقيق. وتحدد لائحة الجرد والمحاسبة النماذج اللازمة لذلك.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تصرف الجهة لمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام؛ مكافأة سنوية تعادل راتب شهرين من راتبه الأساس وفق الدرجة والمرتبة التي يشغلها؛ إذا تحققت الشروط الآتية:",
+          "text_for_index": "تصرف الجهة لمن يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام؛ مكافأة سنوية تعادل راتب شهرين من راتبه الأساس وفق الدرجة والمرتبة التي يشغلها؛ إذا تحققت الشروط الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "1  - \t إكمال الموظف سنة متصلة في الوظيفة.\n2  -  \tإتمام إجراءات الجرد والمحاسبة النظامية.\n3  - \t الحصول على شهادة تبرئة ذمة من الجهة التي يعمل فيها، مصدقة من ديوان المراقبة العامة، وهيئة الرقابة والتحقيق. وتحدد لائحة الجرد والمحاسبة النماذج اللازمة لذلك.",
+          "text_for_index": "1 - إكمال الموظف سنة متصلة في الوظيفة.\n2 - إتمام إجراءات الجرد والمحاسبة النظامية.\n3 - الحصول على شهادة تبرئة ذمة من الجهة التي يعمل فيها، مصدقة من ديوان المراقبة العامة، وهيئة الرقابة والتحقيق. وتحدد لائحة الجرد والمحاسبة النماذج اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة السابعة",
+      "text_verbatim": "استثناءً من حكم الفقرة (1) من المادة (السادسة) من هذا النظام، تصرف الجهة لمن مارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام المكافأة كاملة عن السنة - ولو انقضى جزء منها - في الحالات الآتية:\n\n1  -  \tالوفاة.\n2  -\t  العجز الكلي أو الجزئي الذي يحول بصفة دائمة دون مباشرة أعمال الوظيفة؛ بعد ثبوت هذا العجز وفقًا للإجراءات النظامية.\n3  -  النقل من الوظيفة دون طلب الموظف ودون ارتكابه مخالفة، أو لترقيته إلى وظيفة أخرى.\nوتحدد اللائحة الضوابط والإجراءات اللازمة لذلك.",
+      "text_for_index": "استثناءً من حكم الفقرة (1) من المادة (السادسة) من هذا النظام، تصرف الجهة لمن مارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام المكافأة كاملة عن السنة - ولو انقضى جزء منها - في الحالات الآتية:\n\n1 - الوفاة.\n2 - العجز الكلي أو الجزئي الذي يحول بصفة دائمة دون مباشرة أعمال الوظيفة؛ بعد ثبوت هذا العجز وفقًا للإجراءات النظامية.\n3 - النقل من الوظيفة دون طلب الموظف ودون ارتكابه مخالفة، أو لترقيته إلى وظيفة أخرى.\nوتحدد اللائحة الضوابط والإجراءات اللازمة لذلك.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "استثناءً من حكم الفقرة (1) من المادة (السادسة) من هذا النظام، تصرف الجهة لمن مارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام المكافأة كاملة عن السنة - ولو انقضى جزء منها - في الحالات الآتية:",
+          "text_for_index": "استثناءً من حكم الفقرة (1) من المادة (السادسة) من هذا النظام، تصرف الجهة لمن مارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام المكافأة كاملة عن السنة - ولو انقضى جزء منها - في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "1  -  \tالوفاة.\n2  -\t  العجز الكلي أو الجزئي الذي يحول بصفة دائمة دون مباشرة أعمال الوظيفة؛ بعد ثبوت هذا العجز وفقًا للإجراءات النظامية.\n3  -  النقل من الوظيفة دون طلب الموظف ودون ارتكابه مخالفة، أو لترقيته إلى وظيفة أخرى.\nوتحدد اللائحة الضوابط والإجراءات اللازمة لذلك.",
+          "text_for_index": "1 - الوفاة.\n2 - العجز الكلي أو الجزئي الذي يحول بصفة دائمة دون مباشرة أعمال الوظيفة؛ بعد ثبوت هذا العجز وفقًا للإجراءات النظامية.\n3 - النقل من الوظيفة دون طلب الموظف ودون ارتكابه مخالفة، أو لترقيته إلى وظيفة أخرى.\nوتحدد اللائحة الضوابط والإجراءات اللازمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الثامنة",
+      "text_verbatim": "يعد عدم إجراء الجرد والمحاسبة في المواعيد المقررة في المادة (الثالثة) من هذا النظام، أو إجراؤه بطريقة غير نظامية؛ مخالفة إدارية، وتقع مسؤولية ذلك على المسؤول الإداري المباشر عن إجراء الجرد - أو من يقوم مقامه، أو يمارس اختصاصاته - في الجهة التي يتبع لها الصندوق، أو المستودع، أو العهد العينية.",
+      "text_for_index": "يعد عدم إجراء الجرد والمحاسبة في المواعيد المقررة في المادة (الثالثة) من هذا النظام، أو إجراؤه بطريقة غير نظامية؛ مخالفة إدارية، وتقع مسؤولية ذلك على المسؤول الإداري المباشر عن إجراء الجرد - أو من يقوم مقامه، أو يمارس اختصاصاته - في الجهة التي يتبع لها الصندوق، أو المستودع، أو العهد العينية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "يعد عدم إجراء الجرد والمحاسبة في المواعيد المقررة في المادة (الثالثة) من هذا النظام، أو إجراؤه بطريقة غير نظامية؛ مخالفة إدارية، وتقع مسؤولية ذلك على المسؤول الإداري المباشر عن إجراء الجرد - أو من يقوم مقامه، أو يمارس اختصاصاته - في الجهة التي يتبع لها الصندوق، أو المستودع، أو العهد العينية.",
+          "text_for_index": "يعد عدم إجراء الجرد والمحاسبة في المواعيد المقررة في المادة (الثالثة) من هذا النظام، أو إجراؤه بطريقة غير نظامية؛ مخالفة إدارية، وتقع مسؤولية ذلك على المسؤول الإداري المباشر عن إجراء الجرد - أو من يقوم مقامه، أو يمارس اختصاصاته - في الجهة التي يتبع لها الصندوق، أو المستودع، أو العهد العينية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة التاسعة",
+      "text_verbatim": "يعد عدم توافر المستندات اللازمة لإجراء الجرد والمحاسبة مخالفة إدارية، تقع مسؤوليتها على من يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام.",
+      "text_for_index": "يعد عدم توافر المستندات اللازمة لإجراء الجرد والمحاسبة مخالفة إدارية، تقع مسؤوليتها على من يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "يعد عدم توافر المستندات اللازمة لإجراء الجرد والمحاسبة مخالفة إدارية، تقع مسؤوليتها على من يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام.",
+          "text_for_index": "يعد عدم توافر المستندات اللازمة لإجراء الجرد والمحاسبة مخالفة إدارية، تقع مسؤوليتها على من يمارس مهمات إحدى الوظائف المشمولة بأحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة العاشرة",
+      "text_verbatim": "دون إخلال بما يقضي به أي نظام آخر من إجراءات أو جزاءات، إذا ثبت أن هناك عجزًا مقصودًا، أو ناتجًا من إهمال عند الجرد والمحاسبة؛ يمنع الموظف المشمولة وظيفته بأحكام هذا النظام من تولي أي وظيفة مشمولة بأحكامه، وتحدد اللائحة الأحكام الخاصة بذلك.",
+      "text_for_index": "دون إخلال بما يقضي به أي نظام آخر من إجراءات أو جزاءات، إذا ثبت أن هناك عجزًا مقصودًا، أو ناتجًا من إهمال عند الجرد والمحاسبة؛ يمنع الموظف المشمولة وظيفته بأحكام هذا النظام من تولي أي وظيفة مشمولة بأحكامه، وتحدد اللائحة الأحكام الخاصة بذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "دون إخلال بما يقضي به أي نظام آخر من إجراءات أو جزاءات، إذا ثبت أن هناك عجزًا مقصودًا، أو ناتجًا من إهمال عند الجرد والمحاسبة؛ يمنع الموظف المشمولة وظيفته بأحكام هذا النظام من تولي أي وظيفة مشمولة بأحكامه، وتحدد اللائحة الأحكام الخاصة بذلك.",
+          "text_for_index": "دون إخلال بما يقضي به أي نظام آخر من إجراءات أو جزاءات، إذا ثبت أن هناك عجزًا مقصودًا، أو ناتجًا من إهمال عند الجرد والمحاسبة؛ يمنع الموظف المشمولة وظيفته بأحكام هذا النظام من تولي أي وظيفة مشمولة بأحكامه، وتحدد اللائحة الأحكام الخاصة بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الحادية عشرة",
+      "text_verbatim": "يجوز للوزير المختص أو رئيس الجهة المستقلة أن يكلف موظفًا - ممن تكون له خبرة سابقة في الأعمال المالية لا تقل عن سنتين - بالقيام بأعمال أي من الوظائف المشمولة بهذا النظام، على أن يكون ذلك لمدة مؤقتة لا تزيد على سنة.",
+      "text_for_index": "يجوز للوزير المختص أو رئيس الجهة المستقلة أن يكلف موظفًا - ممن تكون له خبرة سابقة في الأعمال المالية لا تقل عن سنتين - بالقيام بأعمال أي من الوظائف المشمولة بهذا النظام، على أن يكون ذلك لمدة مؤقتة لا تزيد على سنة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز للوزير المختص أو رئيس الجهة المستقلة أن يكلف موظفًا - ممن تكون له خبرة سابقة في الأعمال المالية لا تقل عن سنتين - بالقيام بأعمال أي من الوظائف المشمولة بهذا النظام، على أن يكون ذلك لمدة مؤقتة لا تزيد على سنة.",
+          "text_for_index": "يجوز للوزير المختص أو رئيس الجهة المستقلة أن يكلف موظفًا - ممن تكون له خبرة سابقة في الأعمال المالية لا تقل عن سنتين - بالقيام بأعمال أي من الوظائف المشمولة بهذا النظام، على أن يكون ذلك لمدة مؤقتة لا تزيد على سنة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الثانية عشرة",
+      "text_verbatim": "يجوز - بقرار من الوزير المختص أو رئيس الجهة المستقلة - صرف عهدة (نقدية، أو عينية) للموظف المعين على وظيفة غير مشمولة بأحكام هذا النظام، وتحدد اللائحة قيمة العهدة، وضوابط صرفها.",
+      "text_for_index": "يجوز - بقرار من الوزير المختص أو رئيس الجهة المستقلة - صرف عهدة (نقدية، أو عينية) للموظف المعين على وظيفة غير مشمولة بأحكام هذا النظام، وتحدد اللائحة قيمة العهدة، وضوابط صرفها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز - بقرار من الوزير المختص أو رئيس الجهة المستقلة - صرف عهدة (نقدية، أو عينية) للموظف المعين على وظيفة غير مشمولة بأحكام هذا النظام، وتحدد اللائحة قيمة العهدة، وضوابط صرفها.",
+          "text_for_index": "يجوز - بقرار من الوزير المختص أو رئيس الجهة المستقلة - صرف عهدة (نقدية، أو عينية) للموظف المعين على وظيفة غير مشمولة بأحكام هذا النظام، وتحدد اللائحة قيمة العهدة، وضوابط صرفها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الثالثة عشرة",
+      "text_verbatim": "يصدر الوزير اللائحة التنفيذية لهذا النظام، ويصدر رئيس ديوان المراقبة العامة لائحة الجرد والمحاسبة، وذلك خلال مدة لا تتجاوز (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يصدر الوزير اللائحة التنفيذية لهذا النظام، ويصدر رئيس ديوان المراقبة العامة لائحة الجرد والمحاسبة، وذلك خلال مدة لا تتجاوز (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر الوزير اللائحة التنفيذية لهذا النظام، ويصدر رئيس ديوان المراقبة العامة لائحة الجرد والمحاسبة، وذلك خلال مدة لا تتجاوز (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يصدر الوزير اللائحة التنفيذية لهذا النظام، ويصدر رئيس ديوان المراقبة العامة لائحة الجرد والمحاسبة، وذلك خلال مدة لا تتجاوز (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الرابعة عشرة",
+      "text_verbatim": "يحل هذا النظام محل نظام وظائف مباشرة الأموال العامة، الصادر بالمرسوم الملكي رقم (م/77) وتاريخ 23 / 10 / 1395هـ.",
+      "text_for_index": "يحل هذا النظام محل نظام وظائف مباشرة الأموال العامة، الصادر بالمرسوم الملكي رقم (م/77) وتاريخ 23 / 10 / 1395هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل هذا النظام محل نظام وظائف مباشرة الأموال العامة، الصادر بالمرسوم الملكي رقم (م/77) وتاريخ 23 / 10 / 1395هـ.",
+          "text_for_index": "يحل هذا النظام محل نظام وظائف مباشرة الأموال العامة، الصادر بالمرسوم الملكي رقم (م/77) وتاريخ 23 / 10 / 1395هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة:",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام وظائف مباشرة الأموال العامة، المادة الخامسة عشرة",
+      "text_verbatim": "يعمل بهذا النظام بعد مضي (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام بعد مضي (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-wzayf-mbashrh-alamwal-alaamh::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بهذا النظام بعد مضي (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام بعد مضي (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,979 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "084c217fb484e00052c20c0ae00539cc1ac7b82e82c6cf39160f79e968e2608e94d9fad0f49a0f391ee7292313e3c050ee2764939cecebb5bfdbe5f8e35adc5f89c04af386802abb00972ecec49e191050d167bfd6460e1cee31d46587104736e6865cbe8f73d36c5af528de657c13325931ed9a58f275af88b81c66b401784f611f17aeb609cec819cb8fafd7e811388a5d0dab9efc39b557c6b680b39fd164553f8501ac7e02ae231b6c5d3e99763df87a74483f13bc709a37ac933a25a6e5aafe544adaba2c441cc001ce8189272cdfd11b78cd5db8bab1e30a35fce77d46e88849a62514a29c";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام المدفوعات وخدماتها
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام المدفوعات وخدماتها</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">التجارة والاقتصاد والاستثمار</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام المدفوعات وخدماتها</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام المدفوعات وخدماتها</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>93053</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="c4af9503-d0f4-4d07-a7c3-add500a67d0c">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong>تضمن النظام: </strong>تعريفات، هدف النظام، السريان والتطبيق، الترخيص، مقدم خدمات المدفوعات المقيم خارج المملكة، إشراف ورقابة البنك المركزي، التزامات مشغلي نظم المدفوعات ومقدمي الخدمات، القواعد الخاصة بنظام المدفوعات المهم وما يجب أن تشتمل عليه، التزامات العضو في نظام المدفوعات المهم، المخالفات والعقوبات، تسوية المنازعات، الجهة القضائية المختصة، المفتشون، الكشف عن المعلومات، الاستثناء من الاشتراطات، النشر والنفاذ.</p>
+                    </div>
+                    <br />
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام المدفوعات وخدماتها</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1443/03/22 هـ  الموافق : 28/10/2021 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1443/03/30  هـ الموافق : 05/11/2021 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/69a19ee3-346a-482b-89f0-add500a67d16?lawId=c4af9503-d0f4-4d07-a7c3-add500a67d0c">مرسوم ملكي رقم (م/26) وتاريخ 1443/3/22هـ</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/2f7b87a6-4756-4f77-986f-add500a67d37?lawId=c4af9503-d0f4-4d07-a7c3-add500a67d0c">قرار مجلس الوزراء رقم (171) وتاريخ 1443/3/20هـ</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="c4af9503-d0f4-4d07-a7c3-add500a67d0c" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/afbb6d54-b810-41ec-83c9-add500a67d5c?lawId=c4af9503-d0f4-4d07-a7c3-add500a67d0c" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="c4af9503-d0f4-4d07-a7c3-add500a67d0c">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="c4af9503-d0f4-4d07-a7c3-add500a67d0c" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام المدفوعات وخدماتها</h3>
+        <h3 class="center">1443 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم (م/26) وتاريخ 1443/3/22هـ</h4>
+            <div class="HTMLContainer">
+                <p><p><strong>بعون الله تعالى<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;نحن سلمان بن عبدالعزيز آل سعود<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ملك المملكة العربية السعودية</strong><br />
+بناءً على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ / 90) بتاريخ 27 / 8 / 1412هـ.<br />
+وبناءً على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ / 13) بتاريخ 3 / 3 / 1414هـ.<br />
+وبناءً على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ / 91) بتاريخ 27 / 8 / 1412هـ.<br />
+وبعد الاطلاع على قرار مجلس الشورى رقم (175 / 34) بتاريخ 11 / 11 / 1442هـ.<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (171) بتاريخ 20 / 3 / 1443هـ..</p>
+
+<p style="text-align:center"><strong>رسمنا بما هو آت:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً: </strong>الموافقة على نظام المدفوعات وخدماتها، بالصيغة المرافقة.<br />
+<strong>ثانياً:</strong> تتولى لجنة المنازعات المصرفية وفقاً لقواعد عملها &ndash; ومن خلال دائرة خاصة (أو أكثر) تشكل لهذا الغرض &ndash; صلاحية الجهة القضائية المختصة المشار إليها في المادة (الرابعة عشرة) من النظام المشار إليه في البند (أولاً) من هذا المرسوم.<br />
+<strong>ثالثاً: </strong>على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة -كل فيما يخصُّه- تنفيذ مرسومنا هذا.&nbsp;</p>
+
+<p style="text-align:left"><strong>سلمان بن عبدالعزيز آل سعود</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم (171) وتاريخ 1443/3/20هـ</h4>
+            <p><p><strong>إن مجلس الوزراء</strong><br />
+<strong>بعد الاطلاع </strong>على المعاملة الواردة من الديوان الملكي برقم 67170 وتاريخ 20 / 11 / 1442هـ، المشتملة على برقية معالي وزير المالية رئيس لجنة برنامج تطوير القطاع المالي رقم 6831 وتاريخ 3 / 7 / 1441هـ، في شأن مشروع نظام المدفوعات وخدماتها.<br />
+<strong>وبعد الاطلاع</strong> على مشروع النظام المشار اليه.<br />
+<strong>وبعد الاطلاع</strong> على نظام الافلاس، الصادر بالمرسوم الملكي رقم (م / 50) وتاريخ 28 / 5 / 1439هـ.<br />
+<strong>وبعد الاطلاع</strong> على اللائحة التنفيذية لنظام الإفلاس، الصادرة بقرار مجلس الوزراء رقم (622) وتاريخ 24 / 12 / 1439هـ.<br />
+<strong>وبعد الاطلاع </strong>على المحضرين رقم (373) وتاريخ 13 / 6 / 1442هـ، ورقم (536) وتاريخ 29 / 8 / 1442هـ، والمذكرتين رقم (1740) وتاريخ 11 / 10 / 1442هـ، ورقم (178) وتاريخ 18 / 1 / 1443هـ، المعدة في هيئة الخبراء بمجلس الوزراء.<br />
+<strong>وبعد الاطلاع </strong>على المحضر المعد في مجلس الشؤون الاقتصادية والتنمية رقم (83 / 43 / م) وتاريخ 13 / 2 / 1443هـ.<br />
+<strong>وبعد النظر</strong> في قرار مجلس الشورى رقم (175 / 34) وتاريخ 11 / 11 / 1442هـ.<br />
+<strong>وبعد الاطلاع </strong>على توصية اللجنة العامة لمجلس الوزراء رقم (2109) وتاريخ 11 / 3 / 1443هـ.</p>
+
+<p style="text-align:center"><strong>يقرر ما يلي:</strong></p>
+
+<p style="text-align:justify"><strong>أولاً: </strong>الموافقة على نظام المدفوعات وخدماتها، بالصيغة المرافقة.<br />
+<strong>ثانياً:</strong> تتولى لجنة المنازعات المصرفية وفقاً لقواعد عملها -ومن خلال دائرة خاصة<br />
+&nbsp;(أو أكثر) تشكل لهذا الغرض- صلاحية الجهة القضائية المختصة المشار إليها في المادة (الرابعة عشرة) من النظام المشار إليه في البند (أولاً) من هذا القرار.<br />
+وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.<br />
+<strong>ثالثاً: </strong>إضافة فقرة فرعية إلى الفقرة (1) من المادة (الثانية) من اللائحة التنفيذية لنظام الإفلاس -الصادرة بقرار مجلس الوزراء رقم (622) وتاريخ 24 / 12 / 1439ه- بالنص الآتي: &quot;ج- نظم المدفوعات ومشغلوها ومقدمو خدماتها&quot;.</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء&nbsp;</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام المدفوعات وخدماتها</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الأولى</h3>
+                <div class="HTMLContainer">
+                    <p style="text-align:justify"><strong>يقصد بالكلمات والمصطلحات الآتية -أينما وردت في هذا النظام- المعاني الموضحة أمام كل منها، ما لم يقتضِ السياق غير ذلك:</strong><br />
+<strong>النظام: </strong>نظام المدفوعات وخدماتها.<br />
+<strong>البنك المركزي: </strong>البنك المركزي السعودي.<br />
+<strong>المجلس: </strong>مجلس إدارة البنك المركزي.<br />
+<strong>اللوائح: </strong>اللائحة التنفيذية، وغيرها من اللوائح التي يصدرها البنك المركزي وفقاً للنظام.<br />
+<strong>الشخص: </strong>أي شخص ذي صفة طبيعية أو اعتبارية.<br />
+<strong>نظم المدفوعات: </strong>مجموعة الأدوات والإجراءات والقواعد الخاصة بمعالجة وتسوية أوامر المدفوعات وعمليات المقاصة المرتبطة بها داخل المملكة أو خارجها. &nbsp;<br />
+<strong>خدمات المدفوعات: </strong>الخدمات ذات العلاقة بتنفيذ عمليات دفع الأموال وأدوات المدفوعات أو تحويلها أو معالجتها، وإدارة عمليات التحويلات ومدفوعات النقد الإلكتروني عبر منصّات أو أدوات المدفوعات، ومحافظ المدفوعات المتخذة هيئة حسابات أو سجلات إلكترونية، وتقديم خدمات معلومات وحسابات المدفوعات، وما تحدده اللوائح من خدمات أخرى ذات علاقة.<br />
+<strong>أمر المدفوعات:</strong> أمر أو تعليمات يصدرها أحد الأعضاء بطلب تحويل أموال (على هيئة مطالبة نقدية في صيغة قيد دفتري) لأمر مستفيد يكون عضواً في أي من نظم المدفوعات، لإيداعها في حسابه. ويشمل ذلك الأوامر أو التعليمات المتعلقة بتحويل مبالغ إلى حساب أو بالسحب منه.<br />
+<strong>العضو:</strong> أي شخص لديه حساب في نظم مدفوعات ويمكن من خلاله إصدار أوامر مدفوعات أو أن يكون الطرف المستفيد منها.<br />
+<strong>العميل:</strong> الشخص الحاصل على خدمات مدفوعات أو المستخدم لنظم مدفوعات.<br />
+<strong>المستهلك:</strong> الشخص الذي توجه له الاستفادة النهائية من خدمات المدفوعات.<br />
+<strong>الأموال: </strong>النقود الورقية أو المعدنية من أي عُملة كانت مما يُحتفظ به فعليّاً أو إلكترونيّاً، ومن أي عُملة أخرى تحدّدها اللوائح.<br />
+<strong>نظام المدفوعات المهم:</strong> نظام المدفوعات الذي يصنفه البنك المركزي بأنه مهم، وفق المعايير التي يحددها، وذلك بالنظر لحجم وقيمة وطبيعة العمليات التي تتم من خلاله، وارتباطه بنظم التسوية والمقاصة داخل المملكة وخارجها.<br />
+<strong>الضمان:</strong> النقود، أو أي أصول قابلة للتحويل إلى نقد؛ التي تقدم بناء على رهن أو أي اتفاقية أخرى مماثلة لغرض ضمان الحقوق والالتزامات التي قد تنشأ بناء على نظم المدفوعات المهمة لمصلحة الأعضاء.<br />
+<strong>ترتيبات المقاصة:</strong> ترتيبات تتمّ بين الأطراف المتعاملة لاحتساب صافي الالتزامات الناشئة فيما بينها، وذلك بحسب ما تحدده قواعد نظم المدفوعات ذات الصلة.<br />
+<strong>ترتيبات إدارة التعثر: </strong>ترتيبات المقاصة أو أي ترتيبات أخرى متعلقة بتسوية المراكز المالية الناتجة عن العمليات المتصلة بنظم وخدمات المدفوعات من أجل الحدّ أو التخفيف من المخاطر التي تنشأ في حال عجز أو احتمالية عجز عضو نظم المدفوعات، أو مقدم خدمات المدفوعات، عن الوفاء بالتزاماته عند استحقاقها، بما يشمل التنفيذ على الضمانات أو نقلها.&nbsp;<br />
+<strong>نهائية التسوية:</strong> الوقت الذي يعتبر فيه أمر المدفوعات أنه تم بشكل صحيح في نظم المدفوعات وفقاً لقواعد نظام المدفوعات المعني، وأنه ملزِم ونافذ وغير قابل للإلغاء أو السحب أو التعديل من العضو الذي أصدره أو من ينوب عنه، وذلك وفقاً لقواعد نظم المدفوعات المهمة ذات الصلة.<br />
+<strong>أمر المدفوعات النهائي: </strong>أمر مدفوعات يخضع لنهائية التسوية بناء على قواعد نظم المدفوعات المهمة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يهدف النظام إلى ما يلي:&nbsp;</strong></p>
+
+<ol>
+	<li>تعزيز سلامة وكفاية البُنى التحتية لنظم المدفوعات وخدماتها في المملكة.</li>
+	<li>تعزيز حماية حقوق الأطراف المتعاملة مع نظم المدفوعات وخدماتها.</li>
+	<li>تحفيز الابتكار والمنافسة في مجال تشغيل نظم المدفوعات وتقديم خدماتها في المملكة.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة</h3>
+                <div class="HTMLContainer">
+                    <p>يسري النظام على نُظم المدفوعات ومشغليها، وخدمات المدفوعات ومقدميها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة</h3>
+                <div class="HTMLContainer">
+                    <p>يُحظر على أي شخص تشغيل نظم مدفوعات أو تقديم خدمات المدفوعات في المملكة؛ دون الحصول على ترخيص من البنك المركزي.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة</h3>
+                <div class="HTMLContainer">
+                    <p>يحدد البنك المركزي الحالات والمعايير التي يُعدّ بناء عليها الشخص المقيم خارج المملكة في حكم المشغل لنظم المدفوعات أو المقدم لخدمات المدفوعات داخل المملكة، لغرض تطبيق أحكام النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة</h3>
+                <div class="HTMLContainer">
+                    <p>تعد أوامر المدفوعات النهائية وعمليات التسوية وترتيبات المقاصة وترتيبات إدارة التعثر والضمان؛ ملزمة،ً ونافذة، وغير قابلة للتعديل أو الإلغاء أو الإبطال.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يتولى البنك المركزي التنظيم والإشراف والرقابة على نظم المدفوعات ومشغليها، وخدمات المدفوعات ومقدميها، وفقاً لأحكام النظام وما تحدده اللوائح. وله على وجه خاص الآتي:</strong></p>
+
+<ol>
+	<li>تحديد شروط وضوابط إصدار التراخيص والشكل النظامي لمشغلي نظم المدفوعات ومقدمي خدمات المدفوعات.</li>
+	<li>تحديد متطلبات رأس المال لمشغلي نظم المدفوعات ومقدمي خدمات المدفوعات وملاءتهم المالية.</li>
+	<li>إصدار التراخيص لنظم المدفوعات ومشغليها وخدمات المدفوعات ومقدميها، وتجديدها، وإلغاؤها.</li>
+	<li>الموافقة على ما يقدمه مشغلو نظم المدفوعات ومقدمو خدمات المدفوعات من خدمات ومنتجات، وتنظيمها.</li>
+	<li>تحديد ضوابط إسناد المهمات والاستعانة بالغير لتشغيل نظم المدفوعات أو تقديم خدمات المدفوعات.</li>
+	<li>وضع تصانيف وضوابط خاصة لنظم المدفوعات بحسب درجة أهميتها. وله في ذلك تصنيف أي من نظم المدفوعات بأنه &quot;نظام مدفوعات مهم&quot;.</li>
+	<li>وضع الأُطر والضوابط المتصلة بترابط نظم المدفوعات المختلفة داخل المملكة وخارجها.</li>
+	<li>وضع الإجراءات والتدابير اللازمة لحماية أموال وبيانات العملاء والمستهلكين والأعضاء، المتصلة بنظم المدفوعات وخدمات المدفوعات، واتخاذ ما يلزم لحماية حقوقهم ذات الصلة.</li>
+	<li>وضع الخطط والتدابير الواجب على الأشخاص الخاضعين للنظام اتخاذها لاستعادة وتحسين مراكزهم المالية، وذلك في حال اضطراب أوضاعهم المالية اضطراباً جسيماً، أو لتمكينهم من إنهاء أنشطتهم في الوقت المناسب وفق آلية منظمة بما في ذلك التصفية، مع مراعاة الأنظمة ذات العلاقة.</li>
+	<li>تحديد المقابل المالي لإصدار التراخيص وتجديدها.</li>
+	<li>وضع ضوابط الحوكمة والرقابة الداخلية، لمشغلي نظم المدفوعات ومقدمي خدمات المدفوعات.</li>
+	<li>وضع القواعد التي يجب على مشغلي نظم المدفوعات مراعاتها عند إصدارهم لتنظيمات عملياتهم وعضوياتهم.</li>
+	<li>وضع معايير الكفاية والصلاحية للعاملين لدى مشغلي نظم المدفوعات ومقدمي خدمات المدفوعات، بمن في ذلك شاغلو الوظائف القيادية فيها.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يلتزم مشغلو نظم المدفوعات ومقدمو خدمات المدفوعات -وفقاً لما تفصله اللوائح- بالآتي:</strong></p>
+
+<ol>
+	<li>إتاحة الاستفادة من النظم والخدمات على أسس تجارية مناسبة وعادلة.</li>
+	<li>فصل الأموال العابرة من خلالهم -لمصلحة الأعضاء والعملاء والمستهلكين- عن أموالهم.</li>
+	<li>المحافظة على سرية معلومات وبيانات الأعضاء والعملاء والمستهلكين.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة</h3>
+                <div class="HTMLContainer">
+                    <p>يلتزم مشغل نظام المدفوعات الذي يصنف بأنه نظام مدفوعات مهم، من تاريخ إشعاره بذلك؛ بالعمل وفق قواعد خاصة بـ (نظام المدفوعات المهم) يضعها لهذا الغرض، بحسب ما تحدده اللوائح.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العاشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يجب أن تشتمل القواعد الخاصة بــنظام المدفوعات المهم على الآتي:</strong></p>
+
+<ol>
+	<li>الوقت الذي يصبح فيه أمر المدفوعات الذي أنشأه عضو معين نهائيّاً، والوقت الذي يخضع فيه لنهائية التسوية، بما في ذلك الحالات التي يكون فيها تنفيذ أمر المدفوعات من خلال عدة نظم.&nbsp;</li>
+	<li>القواعد التي تحدد الإجراءات اللازمة لضمان حماية ترتيبات المقاصة وسريانها وإلزاميتها في الحالات التي يتعثر فيها مشغل نظام المدفوعات المهم أو أحد الأعضاء فيه.</li>
+	<li>القواعد الخاصة بالتنفيذ على الضمانات من قِبَل مشغل نظام المدفوعات المهم أو العضو.</li>
+	<li>القواعد التي تسمح لنظام المدفوعات المهم بإدارة تعثر الأعضاء، وأن تشمل -على سبيل المثال لا الحصر- الحالات التي يُعّد فيها العضو متعثراً سواءٌ ماليّاً أو تشغيليّاً، والإجراءات التي يمكن لمشغل نظام المدفوعات المهم اتخاذها عند تعثر أحد الأعضاء.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الحادية عشرة</h3>
+                <div class="HTMLContainer">
+                    <p><strong>يلتزم أي عضو في نظام مدفوعات مهم بالآتي:</strong></p>
+
+<ol>
+	<li>الإفصاح للبنك ولمشغل نظام المدفوعات عن أي نظم مدفوعات مهمة يكون عضواً فيها، وذلك عند قيد أو افتتاح أي من إجراءات الإفلاس أو الإيداع القضائي له، بناء على نظام الإفلاس. &nbsp;</li>
+	<li>إشعار مشغل نظام المدفوعات المهم بقيد أو افتتاح أي من إجراءات الإفلاس أو الإيداع القضائي -بناء على نظام الإفلاس- لأي عضو آخر في النظام نفسه عند علمه بذلك، وفقاً للضوابط التي تحددها اللوائح.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثانية عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أيّاً من أحكام النظام أو اللوائح بعقوبة أو أكثر من العقوبات التالية:<br />
+	<strong>أ-</strong> الإنذار.<br />
+	<strong>ب-</strong> تعليق الترخيص مؤقتاً.<br />
+	<strong>ج-</strong> غرامة لا تتجاوز خمسة وعشرين مليوناً (25،000،000) ريال.&nbsp;<br />
+	<strong>د- </strong>إلغاء الترخيص.</li>
+	<li>يصدر المجلس -بقرار منه- جدولاً لتصنيف المخالفات ولتحديد العقوبات ضمن حدها المنصوص عليه في الفقرة (1) من هذه المادة، مراعياً في ذلك طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.</li>
+	<li>يختص البنك المركزي بالنظر في مخالفات أحكام النظام واللوائح، وفي إيقاع العقوبات، وفقاً للجدول المشار إليه في الفقرة (2) من هذه المادة.</li>
+	<li>يكون لكل ذي مصلحة التظلم من قرارات البنك المركزي ذات الصلة خلال (ستين) يوماً من تاريخ التبليغ بالقرار.&nbsp;</li>
+	<li>يجوز تضمين القرار القضائي الصادر من الجهة القضائية المختصة أو القرار الصادر من البنك المركزي بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته أو مقر ممارسته للنشاط، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب القرار الصادر من الجهة القضائية المختصة الصفة القطعية أو تحصن القرار الصادر من البنك المركزي بفوات ميعاد التظلم عليه أو بتأييد الجهة القضائية المختصة له.</li>
+	<li>تطبيق العقوبة على الشخص ذي الصفة الاعتبارية لا يعفي الشخص ذا الصفة الطبيعية -سواء كان عضو مجلس إدارة أو مديراً أو أي مسؤول لدى ذلك الشخص ذي الصفة الاعتبارية- من المسؤولية والعقوبة المستحقة إذا ثبت أن المخالفة أو الجريمة تمت بموافقته أو بإهمال منه أو تغاضٍ.</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثالثة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تخضع المنازعات الناشئة بين أطراف نظم المدفوعات ومقدمي خدمات المدفوعات قبل رفعها أمام الجهة القضائية المختصة، لإجراءات التسوية الودية التي تحددها اللوائح، على ألا تتجاوز مدة إجراءات التسوية (30) يوماً من تاريخ تسجيلها، ما لم يتفق أطراف النزاع -كتابةً- على تمديد المدة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الرابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>مع مراعاة ما نصت عليه المادة (الثالثة عشرة)، تتولى الجهة القضائية المختصة الفصل في المنازعات الناشئة بين أطراف نظم المدفوعات ومقدمي خدماتها، والفصل في تظلمات ذوي المصلحة من قرارات البنك المركزي ذات الصلة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الخامسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <ol>
+	<li>يتولى مفتشون -يصدر بتعيينهم قرار من محافظ البنك المركزي- أعمال الرقابة والتفتيش، وضبط مخالفات النظام واللوائح، ولهم الاطلاع على السجلات وتلقي الشكاوى واستجواب العاملين لدى الأشخاص الخاضعين للنظام والحصول على المعلومات التي يطلبونها، ولهم في ذلك صفة الضبط.</li>
+	<li>يحظر منع المفتشين من أداء مهماتهم المنصوص عليها في هذه المادة. وعلى الأشخاص الخاضعين للتفتيش التعاون معهم وتقديم التسهيلات لهم.&nbsp;</li>
+</ol>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السادسة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز للبنك المركزي الكشف عن أي معلومة تتعلق بأي شخص خاضع للنظام إلى أي طرف ثالث، إذا كان الكشف عنها ضروريًّا لتنفيذ النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة السابعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يجوز للبنك المركزي -وفقاً لما تحدده اللوائح- استثناء شخص أو مجموعة من الأشخاص من بعض الاشتراطات الخاصة بالتراخيص؛ من أجل تحفيز الابتكار والتطوير في تقديم خدمات المدفوعات وتشغيل نظم المدفوعات في المملكة، مراعياً في ذلك الشفافية والعدالة، وعدم التأثير سلباً على الهدف العام من النظام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>تصدر اللوائح بقرار من المجلس.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة عشرة</h3>
+                <div class="HTMLContainer">
+                    <p>يلغي النظام كل ما يتعارض معه من أحكام.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة العشرون</h3>
+                <div class="HTMLContainer">
+                    <p>ينشر النظام في الجريدة الرسمية ويعمل به بعد (مائة وثمانين) يوماً من تاريخ نشره.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="c4af9503-d0f4-4d07-a7c3-add500a67d0c" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="02dfc690-b2c0-4812-b0d0-add500a722e7">المادة الأولى </option>
+<option value="04702583-7c7d-40cf-9694-add500a74a2f">المادة الثانية </option>
+<option value="c48b092f-e9a3-43de-b64f-add500a75fa7">المادة الثالثة </option>
+<option value="8c7fec8c-8ac5-480d-83ad-add500a779fb">المادة الرابعة </option>
+<option value="7ca0bcec-551e-41d4-b649-add500a7940e">المادة الخامسة </option>
+<option value="e94b4f7f-35cc-430c-96d9-add500a7a99b">المادة السادسة </option>
+<option value="86bcdbf4-abc1-4949-8319-add500a7f400">المادة السابعة </option>
+<option value="c4c77b22-6199-4bee-8d2e-add500a8163b">المادة الثامنة </option>
+<option value="db1b010c-aebf-47e1-ac59-add500a82b04">المادة التاسعة </option>
+<option value="f9ff585d-80fb-4526-ab31-add500a8524e">المادة العاشرة </option>
+<option value="72eefcb6-4901-4561-87fb-add500a871eb">المادة الحادية عشرة </option>
+<option value="cd2a3ae7-c740-41e2-98d4-add500a8f3aa">المادة الثانية عشرة </option>
+<option value="fa311d37-5a50-46a4-96a2-add500a91018">المادة الثالثة عشرة </option>
+<option value="3d4057c9-0edd-4e4e-99ec-add500a932e5">المادة الرابعة عشرة </option>
+<option value="0c1ea5b7-1998-4e80-9346-add500a95e91">المادة الخامسة عشرة </option>
+<option value="3d4d4d3a-7c43-43ed-be57-add500a97906">المادة السادسة عشرة </option>
+<option value="3161bde3-70a4-48f2-98b3-add500a99197">المادة السابعة عشرة </option>
+<option value="fab73029-8a59-4416-991a-add500a9b010">المادة الثامنة عشرة </option>
+<option value="7e617dcb-4177-43f9-afd7-add500a9c0a3">المادة التاسعة عشرة </option>
+<option value="009aaab2-abfa-4aec-856d-add500a9db59">المادة العشرون </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaATBW' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaATBW' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaATBW = new CaptchaWidget('divCaptchaContainer_captchaATBW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaATBW.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscriptionc4af9503-d0f4-4d07-a7c3-add500a67d0c" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="c4af9503-d0f4-4d07-a7c3-add500a67d0c" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaBAUP' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaBAUP' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-c4af9503-d0f4-4d07-a7c3-add500a67d0c">
+                    <input type="checkbox" id="agreement-c4af9503-d0f4-4d07-a7c3-add500a67d0c" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='c4af9503-d0f4-4d07-a7c3-add500a67d0c' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-c4af9503-d0f4-4d07-a7c3-add500a67d0c"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-c4af9503-d0f4-4d07-a7c3-add500a67d0c"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaATBW = new CaptchaWidget('divCaptchaContainer_captchaATBW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaATBW.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaBAUP = new CaptchaWidget('divCaptchaContainer_captchaBAUP', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaBAUP.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="c4af9503-d0f4-4d07-a7c3-add500a67d0c">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaATBW = new CaptchaWidget('divCaptchaContainer_captchaATBW', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaATBW.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaBAUP = new CaptchaWidget('divCaptchaContainer_captchaBAUP', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaBAUP.load(); 
+                    }); </script>
+</body>
+
+</html>

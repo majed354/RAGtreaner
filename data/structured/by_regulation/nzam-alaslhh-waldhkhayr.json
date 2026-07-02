@@ -1,0 +1,3603 @@
+{
+  "metadata": {
+    "slug": "nzam-alaslhh-waldhkhayr",
+    "title_ar": "نظام الأسلحة والذخائر",
+    "status": "ساري",
+    "issue_date_hijri": "1426/07/25 هـ الموافق : 30/08/2005 مـ",
+    "issue_date_gregorian": "2005-08-30",
+    "publish_date_hijri": "1426/09/18 هـ الموافق : 21/10/2005 مـ",
+    "publish_date_gregorian": "2005-10-21",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a445af93-671f-496b-818a-a9a700f19150/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alaslhh-waldhkhayr.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alaslhh-waldhkhayr.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1426/09/18 هـ الموافق : 21/10/2005 مـ",
+    "effective_date_gregorian": "2005-10-21",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 63,
+    "paragraph_count": 123,
+    "indexable_paragraph_count": 123,
+    "text_chars": 17510,
+    "verbatim_chars": 17769,
+    "citation_base_ar": "نظام الأسلحة والذخائر",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/a445af93-671f-496b-818a-a9a700f19150/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-alaslhh-waldhkhayr.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-alaslhh-waldhkhayr.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "definition",
+        "procedure",
+        "authority",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "تعريف",
+        "إجراء",
+        "اختصاص",
+        "عبء إثبات"
+      ],
+      "topic_tags": [
+        "labor",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك :\n\n الأسلحة الحربية  :  الأسلحة النارية والذخائر والتجهيزات التي صممت بشكل خاص للاستعمال في العمليات الحربية، كالرشاشات والمدافع والصواريخ وغيرها. ويدخل في حكم   الأسلحة الحربية    الأسلحة التي تستخدم الأشعة، والغازات، والسموم، وأي سلاح عدا الأسلحة النارية الفردية والأسلحة المشار إليها في بقية فقرات هذه المادة.\n\n الأسلحة النارية الفردية  :  الأسلحة النارية المعدة لاستعمال شخص واحد، كالمسدسات، والبنادق، وفقا لما تحدده اللائحة التنفيذية.\n\n أسلحة الصيد  :  الأسلحة النارية ذات السبطانة الملساء، التي صممت أصلا لأغراض الصيد.\n\n أسلحة التمرين والبنادق الهوائية  :  أسلحة رماية دون بارود وينطلق مقذوفها بوساطة ضغط الهواء أو دفع نابض.\n\n السلاح الأبيض  :  كل أداة قاطعة أو ثاقبة أو مهشمة أو راضة، كالسيوف والخناجر والمدى والنبال والحراب والعصي ذات الحربة والقبضات وما في حكمها.\n\n الذخيرة  :  المقذوفات التي تنطلق من الأسلحة نتيجة الدفع الانفجاري أو الهوائي أو الدفع بالنابضات.\n\n الأسلحة الأثرية  :  الأسلحة القديمة ذات القيمة التاريخية التي يثبت بعد فحصها ومعاينتها عدم إمكانية استخدامها.\n\n اللائحة  :   اللائحة التنفيذية لهذا النظام.\n\n الوزير  :  وزير الداخلية  .\n\n الجهة المختصة  :   وزارة الداخلية  .",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك :\n\n الأسلحة الحربية : الأسلحة النارية والذخائر والتجهيزات التي صممت بشكل خاص للاستعمال في العمليات الحربية، كالرشاشات والمدافع والصواريخ وغيرها. ويدخل في حكم الأسلحة الحربية الأسلحة التي تستخدم الأشعة، والغازات، والسموم، وأي سلاح عدا الأسلحة النارية الفردية والأسلحة المشار إليها في بقية فقرات هذه المادة.\n\n الأسلحة النارية الفردية : الأسلحة النارية المعدة لاستعمال شخص واحد، كالمسدسات، والبنادق، وفقا لما تحدده اللائحة التنفيذية.\n\n أسلحة الصيد : الأسلحة النارية ذات السبطانة الملساء، التي صممت أصلا لأغراض الصيد.\n\n أسلحة التمرين والبنادق الهوائية : أسلحة رماية دون بارود وينطلق مقذوفها بوساطة ضغط الهواء أو دفع نابض.\n\n السلاح الأبيض : كل أداة قاطعة أو ثاقبة أو مهشمة أو راضة، كالسيوف والخناجر والمدى والنبال والحراب والعصي ذات الحربة والقبضات وما في حكمها.\n\n الذخيرة : المقذوفات التي تنطلق من الأسلحة نتيجة الدفع الانفجاري أو الهوائي أو الدفع بالنابضات.\n\n الأسلحة الأثرية : الأسلحة القديمة ذات القيمة التاريخية التي يثبت بعد فحصها ومعاينتها عدم إمكانية استخدامها.\n\n اللائحة : اللائحة التنفيذية لهذا النظام.\n\n الوزير : وزير الداخلية .\n\n الجهة المختصة : وزارة الداخلية .",
+      "paragraph_count": 11,
+      "indexable_paragraph_count": 11,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك :",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الأسلحة الحربية  :  الأسلحة النارية والذخائر والتجهيزات التي صممت بشكل خاص للاستعمال في العمليات الحربية، كالرشاشات والمدافع والصواريخ وغيرها. ويدخل في حكم   الأسلحة الحربية    الأسلحة التي تستخدم الأشعة، والغازات، والسموم، وأي سلاح عدا الأسلحة النارية الفردية والأسلحة المشار إليها في بقية فقرات هذه المادة.",
+          "text_for_index": "الأسلحة الحربية : الأسلحة النارية والذخائر والتجهيزات التي صممت بشكل خاص للاستعمال في العمليات الحربية، كالرشاشات والمدافع والصواريخ وغيرها. ويدخل في حكم الأسلحة الحربية الأسلحة التي تستخدم الأشعة، والغازات، والسموم، وأي سلاح عدا الأسلحة النارية الفردية والأسلحة المشار إليها في بقية فقرات هذه المادة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "الأسلحة النارية الفردية  :  الأسلحة النارية المعدة لاستعمال شخص واحد، كالمسدسات، والبنادق، وفقا لما تحدده اللائحة التنفيذية.",
+          "text_for_index": "الأسلحة النارية الفردية : الأسلحة النارية المعدة لاستعمال شخص واحد، كالمسدسات، والبنادق، وفقا لما تحدده اللائحة التنفيذية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "أسلحة الصيد  :  الأسلحة النارية ذات السبطانة الملساء، التي صممت أصلا لأغراض الصيد.",
+          "text_for_index": "أسلحة الصيد : الأسلحة النارية ذات السبطانة الملساء، التي صممت أصلا لأغراض الصيد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "أسلحة التمرين والبنادق الهوائية  :  أسلحة رماية دون بارود وينطلق مقذوفها بوساطة ضغط الهواء أو دفع نابض.",
+          "text_for_index": "أسلحة التمرين والبنادق الهوائية : أسلحة رماية دون بارود وينطلق مقذوفها بوساطة ضغط الهواء أو دفع نابض.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "السلاح الأبيض  :  كل أداة قاطعة أو ثاقبة أو مهشمة أو راضة، كالسيوف والخناجر والمدى والنبال والحراب والعصي ذات الحربة والقبضات وما في حكمها.",
+          "text_for_index": "السلاح الأبيض : كل أداة قاطعة أو ثاقبة أو مهشمة أو راضة، كالسيوف والخناجر والمدى والنبال والحراب والعصي ذات الحربة والقبضات وما في حكمها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الذخيرة  :  المقذوفات التي تنطلق من الأسلحة نتيجة الدفع الانفجاري أو الهوائي أو الدفع بالنابضات.",
+          "text_for_index": "الذخيرة : المقذوفات التي تنطلق من الأسلحة نتيجة الدفع الانفجاري أو الهوائي أو الدفع بالنابضات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "exception",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "الأسلحة الأثرية  :  الأسلحة القديمة ذات القيمة التاريخية التي يثبت بعد فحصها ومعاينتها عدم إمكانية استخدامها.",
+          "text_for_index": "الأسلحة الأثرية : الأسلحة القديمة ذات القيمة التاريخية التي يثبت بعد فحصها ومعاينتها عدم إمكانية استخدامها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "exception",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة  :   اللائحة التنفيذية لهذا النظام.",
+          "text_for_index": "اللائحة : اللائحة التنفيذية لهذا النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "الوزير  :  وزير الداخلية  .",
+          "text_for_index": "الوزير : وزير الداخلية .",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "exception",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجهة المختصة  :   وزارة الداخلية  .",
+          "text_for_index": "الجهة المختصة : وزارة الداخلية .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية",
+      "text_verbatim": "يسمح بحمل الأسلحة الحربية والفردية الحكومية وذخائرها واستخدامها وفق الأنظمة والأوامر الخاصة بحملها واستخدامها لكل من:\n\n1- العسكريين العاملين في:\n\nأ - الحرس الوطني.\n\nب - وزارة الدفاع والطيران.\n\nج - وزارة الداخلية.\n\nد - الاستخبارات العامة.\n\nهـ- رئاسة أمن الدولة.\n\n2 - موظفي الحكومة المدنيين الذين ينص نظام الجهة التابعين لها على جواز حملهم أسلحة حكومية.",
+      "text_for_index": "يسمح بحمل الأسلحة الحربية والفردية الحكومية وذخائرها واستخدامها وفق الأنظمة والأوامر الخاصة بحملها واستخدامها لكل من:\n\n1- العسكريين العاملين في:\n\nأ - الحرس الوطني.\n\nب - وزارة الدفاع والطيران.\n\nج - وزارة الداخلية.\n\nد - الاستخبارات العامة.\n\nهـ- رئاسة أمن الدولة.\n\n2 - موظفي الحكومة المدنيين الذين ينص نظام الجهة التابعين لها على جواز حملهم أسلحة حكومية.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يسمح بحمل الأسلحة الحربية والفردية الحكومية وذخائرها واستخدامها وفق الأنظمة والأوامر الخاصة بحملها واستخدامها لكل من:",
+          "text_for_index": "يسمح بحمل الأسلحة الحربية والفردية الحكومية وذخائرها واستخدامها وفق الأنظمة والأوامر الخاصة بحملها واستخدامها لكل من:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1- العسكريين العاملين في:",
+          "text_for_index": "1- العسكريين العاملين في:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "أ - الحرس الوطني.",
+          "text_for_index": "أ - الحرس الوطني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ب - وزارة الدفاع والطيران.",
+          "text_for_index": "ب - وزارة الدفاع والطيران.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "ج - وزارة الداخلية.",
+          "text_for_index": "ج - وزارة الداخلية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "د - الاستخبارات العامة.",
+          "text_for_index": "د - الاستخبارات العامة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "هـ- رئاسة أمن الدولة.",
+          "text_for_index": "هـ- رئاسة أمن الدولة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-2::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "2 - موظفي الحكومة المدنيين الذين ينص نظام الجهة التابعين لها على جواز حملهم أسلحة حكومية.",
+          "text_for_index": "2 - موظفي الحكومة المدنيين الذين ينص نظام الجهة التابعين لها على جواز حملهم أسلحة حكومية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة",
+      "text_verbatim": "يقصر استيراد   الأسلحة النارية الفردية    والبنادق الهوائية و  أسلحة الصيد    المعرفة في هذا النظام ولوازمها وقطع غيارها وذخائرها، وبيعها وشراؤها على السعوديين المرخص لهم، وفقا للإجراءات والشروط التي تحددها   اللائحة  .",
+      "text_for_index": "يقصر استيراد الأسلحة النارية الفردية والبنادق الهوائية و أسلحة الصيد المعرفة في هذا النظام ولوازمها وقطع غيارها وذخائرها، وبيعها وشراؤها على السعوديين المرخص لهم، وفقا للإجراءات والشروط التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يقصر استيراد   الأسلحة النارية الفردية    والبنادق الهوائية و  أسلحة الصيد    المعرفة في هذا النظام ولوازمها وقطع غيارها وذخائرها، وبيعها وشراؤها على السعوديين المرخص لهم، وفقا للإجراءات والشروط التي تحددها   اللائحة  .",
+          "text_for_index": "يقصر استيراد الأسلحة النارية الفردية والبنادق الهوائية و أسلحة الصيد المعرفة في هذا النظام ولوازمها وقطع غيارها وذخائرها، وبيعها وشراؤها على السعوديين المرخص لهم، وفقا للإجراءات والشروط التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الرابعة",
+      "text_verbatim": "يحظر على غير الجهات الحكومية المختصة ما يأتي:\n\n أ - صنع   الأسلحة الحربية    وذخائرها ومستلزماتها أو قطع غيارها، و استيرادها، أو حيازتها، أو تداولها، أو اقتناؤها، أو إصلاحها.\n ب - صنع   الأسلحة النارية الفردية    ومستلزماتها وقطع غيارها وذخائرها، أو إجراء أي تعديل عليها.\nج - استيراد   الأسلحة النارية الفردية    أو   أسلحة الصيد    وقطع غيارها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها إلا بترخيص من   الوزير.\n د - صنع   أسلحة التمرين والبنادق الهوائية    وقطع غيارها وذخائرها ومستلزماتها، أو استيراد أي من ذلك إلا بترخيص من   الوزير  .\n هـ - جلب أسلحة أو ذخائر أو قطع غيارها ومستلزماتها، وكذلك اصطحابها دون إذن من   الوزير  .\nو - استيراد أسلحة من غير ما ورد ذكره في هذا النظام، وكذلك جلبها دون إذن من   الوزير .",
+      "text_for_index": "يحظر على غير الجهات الحكومية المختصة ما يأتي:\n\n أ - صنع الأسلحة الحربية وذخائرها ومستلزماتها أو قطع غيارها، و استيرادها، أو حيازتها، أو تداولها، أو اقتناؤها، أو إصلاحها.\n ب - صنع الأسلحة النارية الفردية ومستلزماتها وقطع غيارها وذخائرها، أو إجراء أي تعديل عليها.\nج - استيراد الأسلحة النارية الفردية أو أسلحة الصيد وقطع غيارها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها إلا بترخيص من الوزير.\n د - صنع أسلحة التمرين والبنادق الهوائية وقطع غيارها وذخائرها ومستلزماتها، أو استيراد أي من ذلك إلا بترخيص من الوزير .\n هـ - جلب أسلحة أو ذخائر أو قطع غيارها ومستلزماتها، وكذلك اصطحابها دون إذن من الوزير .\nو - استيراد أسلحة من غير ما ورد ذكره في هذا النظام، وكذلك جلبها دون إذن من الوزير .",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يحظر على غير الجهات الحكومية المختصة ما يأتي:",
+          "text_for_index": "يحظر على غير الجهات الحكومية المختصة ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "أ - صنع   الأسلحة الحربية    وذخائرها ومستلزماتها أو قطع غيارها، و استيرادها، أو حيازتها، أو تداولها، أو اقتناؤها، أو إصلاحها.\n ب - صنع   الأسلحة النارية الفردية    ومستلزماتها وقطع غيارها وذخائرها، أو إجراء أي تعديل عليها.\nج - استيراد   الأسلحة النارية الفردية    أو   أسلحة الصيد    وقطع غيارها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها إلا بترخيص من   الوزير.\n د - صنع   أسلحة التمرين والبنادق الهوائية    وقطع غيارها وذخائرها ومستلزماتها، أو استيراد أي من ذلك إلا بترخيص من   الوزير  .\n هـ - جلب أسلحة أو ذخائر أو قطع غيارها ومستلزماتها، وكذلك اصطحابها دون إذن من   الوزير  .\nو - استيراد أسلحة من غير ما ورد ذكره في هذا النظام، وكذلك جلبها دون إذن من   الوزير .",
+          "text_for_index": "أ - صنع الأسلحة الحربية وذخائرها ومستلزماتها أو قطع غيارها، و استيرادها، أو حيازتها، أو تداولها، أو اقتناؤها، أو إصلاحها.\n ب - صنع الأسلحة النارية الفردية ومستلزماتها وقطع غيارها وذخائرها، أو إجراء أي تعديل عليها.\nج - استيراد الأسلحة النارية الفردية أو أسلحة الصيد وقطع غيارها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها إلا بترخيص من الوزير.\n د - صنع أسلحة التمرين والبنادق الهوائية وقطع غيارها وذخائرها ومستلزماتها، أو استيراد أي من ذلك إلا بترخيص من الوزير .\n هـ - جلب أسلحة أو ذخائر أو قطع غيارها ومستلزماتها، وكذلك اصطحابها دون إذن من الوزير .\nو - استيراد أسلحة من غير ما ورد ذكره في هذا النظام، وكذلك جلبها دون إذن من الوزير .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخامسة",
+      "text_verbatim": "أ - لا يجوز استيراد   الأسلحة الأثرية    وتداولها بقصد الاتجار إلا بترخيص من   الوزير  .\nب - يجوز جلب   الأسلحة الأثرية    أو اصطحابها بقصد الاقتناء.\nج - تحدد   اللائحة    شروط وإجراءات ما ورد في الفقرتين (أ) و(ب) من هذه المادة.",
+      "text_for_index": "أ - لا يجوز استيراد الأسلحة الأثرية وتداولها بقصد الاتجار إلا بترخيص من الوزير .\nب - يجوز جلب الأسلحة الأثرية أو اصطحابها بقصد الاقتناء.\nج - تحدد اللائحة شروط وإجراءات ما ورد في الفقرتين (أ) و(ب) من هذه المادة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "أ - لا يجوز استيراد   الأسلحة الأثرية    وتداولها بقصد الاتجار إلا بترخيص من   الوزير  .\nب - يجوز جلب   الأسلحة الأثرية    أو اصطحابها بقصد الاقتناء.\nج - تحدد   اللائحة    شروط وإجراءات ما ورد في الفقرتين (أ) و(ب) من هذه المادة.",
+          "text_for_index": "أ - لا يجوز استيراد الأسلحة الأثرية وتداولها بقصد الاتجار إلا بترخيص من الوزير .\nب - يجوز جلب الأسلحة الأثرية أو اصطحابها بقصد الاقتناء.\nج - تحدد اللائحة شروط وإجراءات ما ورد في الفقرتين (أ) و(ب) من هذه المادة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السادسة",
+      "text_verbatim": "يجب على من تئول إليه أسلحة أو قطع غيار أو ذخائر - بالإرث أو الوصية أو أي طريقة أخرى - إبلاغ الجهات المختصة عنها خلال ثلاثة أشهر من تاريخ مآلها إليه.",
+      "text_for_index": "يجب على من تئول إليه أسلحة أو قطع غيار أو ذخائر - بالإرث أو الوصية أو أي طريقة أخرى - إبلاغ الجهات المختصة عنها خلال ثلاثة أشهر من تاريخ مآلها إليه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على من تئول إليه أسلحة أو قطع غيار أو ذخائر - بالإرث أو الوصية أو أي طريقة أخرى - إبلاغ الجهات المختصة عنها خلال ثلاثة أشهر من تاريخ مآلها إليه.",
+          "text_for_index": "يجب على من تئول إليه أسلحة أو قطع غيار أو ذخائر - بالإرث أو الوصية أو أي طريقة أخرى - إبلاغ الجهات المختصة عنها خلال ثلاثة أشهر من تاريخ مآلها إليه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السابعة",
+      "text_verbatim": "يجب على من فقد سلاحه أو تلف إبلاغ الجهات المختصة خلال شهر من تاريخ العلم بالفقد أو التلف.",
+      "text_for_index": "يجب على من فقد سلاحه أو تلف إبلاغ الجهات المختصة خلال شهر من تاريخ العلم بالفقد أو التلف.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجب على من فقد سلاحه أو تلف إبلاغ الجهات المختصة خلال شهر من تاريخ العلم بالفقد أو التلف.",
+          "text_for_index": "يجب على من فقد سلاحه أو تلف إبلاغ الجهات المختصة خلال شهر من تاريخ العلم بالفقد أو التلف.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثامنة",
+      "text_verbatim": "يحدد   الوزير    الأماكن والأوقات التي يحظر فيها حمل السلاح المرخص بحمله.",
+      "text_for_index": "يحدد الوزير الأماكن والأوقات التي يحظر فيها حمل السلاح المرخص بحمله.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يحدد   الوزير    الأماكن والأوقات التي يحظر فيها حمل السلاح المرخص بحمله.",
+          "text_for_index": "يحدد الوزير الأماكن والأوقات التي يحظر فيها حمل السلاح المرخص بحمله.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة التاسعة",
+      "text_verbatim": "للوزير أن يرخص باستيراد   الأسلحة النارية الفردية    و  أسلحة الصيد    و  أسلحة التمرين والبنادق الهوائية    وقطع غيارها ولوازمها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها أو إصلاحها، وفقا للشروط التي تحددها   اللائحة  .",
+      "text_for_index": "للوزير أن يرخص باستيراد الأسلحة النارية الفردية و أسلحة الصيد و أسلحة التمرين والبنادق الهوائية وقطع غيارها ولوازمها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها أو إصلاحها، وفقا للشروط التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير أن يرخص باستيراد   الأسلحة النارية الفردية    و  أسلحة الصيد    و  أسلحة التمرين والبنادق الهوائية    وقطع غيارها ولوازمها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها أو إصلاحها، وفقا للشروط التي تحددها   اللائحة  .",
+          "text_for_index": "للوزير أن يرخص باستيراد الأسلحة النارية الفردية و أسلحة الصيد و أسلحة التمرين والبنادق الهوائية وقطع غيارها ولوازمها وذخائرها، وكذلك بيعها أو شراؤها أو حملها أو اقتناؤها أو إصلاحها، وفقا للشروط التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة العاشرة",
+      "text_verbatim": "للوزير الترخيص بحيازة أسلحة وذخائر نارية فردية لبعض المؤسسات والشركات السعودية التي تتطلب طبيعة عملها تسليح بعض منسوبيها، وفق الضوابط والشروط التي تحددها اللائحة.",
+      "text_for_index": "للوزير الترخيص بحيازة أسلحة وذخائر نارية فردية لبعض المؤسسات والشركات السعودية التي تتطلب طبيعة عملها تسليح بعض منسوبيها، وفق الضوابط والشروط التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "للوزير الترخيص بحيازة أسلحة وذخائر نارية فردية لبعض المؤسسات والشركات السعودية التي تتطلب طبيعة عملها تسليح بعض منسوبيها، وفق الضوابط والشروط التي تحددها اللائحة.",
+          "text_for_index": "للوزير الترخيص بحيازة أسلحة وذخائر نارية فردية لبعض المؤسسات والشركات السعودية التي تتطلب طبيعة عملها تسليح بعض منسوبيها، وفق الضوابط والشروط التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الحادية عشرة",
+      "text_verbatim": "للوزير -لاعتبارات خاصة يراها- الترخيص بشراء سلاح ناري فردي وحمله واقتنائه لشخص يقيم في المملكة.",
+      "text_for_index": "للوزير -لاعتبارات خاصة يراها- الترخيص بشراء سلاح ناري فردي وحمله واقتنائه لشخص يقيم في المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير -لاعتبارات خاصة يراها- الترخيص بشراء سلاح ناري فردي وحمله واقتنائه لشخص يقيم في المملكة.",
+          "text_for_index": "للوزير -لاعتبارات خاصة يراها- الترخيص بشراء سلاح ناري فردي وحمله واقتنائه لشخص يقيم في المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية عشرة",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:\n\n\" يجوز للوزير الترخيص بفتح نوادٍ للرماية، ويحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها،وهي:\n\n1- رسم رخصة نادي رماية فئة (أ).\n\n2- رسم رخصة نادي رماية فئة (ب).\n\n3- رسم رخصة نادي رماية فئة (ج).\n\n4- رسم التسجيل الأمني.\n\nوذلك وفق ما تحدده اللائحة من ضوابط وشروط.\n\nولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول الملحق بالنظام بناءً على اقتراح الوزير\".\n\n( الجدول الملحق مدرج في صيغة الPDF )",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:\n\n\" يجوز للوزير الترخيص بفتح نوادٍ للرماية، ويحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها،وهي:\n\n1- رسم رخصة نادي رماية فئة (أ).\n\n2- رسم رخصة نادي رماية فئة (ب).\n\n3- رسم رخصة نادي رماية فئة (ج).\n\n4- رسم التسجيل الأمني.\n\nوذلك وفق ما تحدده اللائحة من ضوابط وشروط.\n\nولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول الملحق بالنظام بناءً على اقتراح الوزير\".\n\n( الجدول الملحق مدرج في صيغة الPDF )",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "اختصاص"
+          ],
+          "text_verbatim": "\" يجوز للوزير الترخيص بفتح نوادٍ للرماية، ويحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها،وهي:",
+          "text_for_index": "\" يجوز للوزير الترخيص بفتح نوادٍ للرماية، ويحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها،وهي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "1- رسم رخصة نادي رماية فئة (أ).",
+          "text_for_index": "1- رسم رخصة نادي رماية فئة (أ).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "2- رسم رخصة نادي رماية فئة (ب).",
+          "text_for_index": "2- رسم رخصة نادي رماية فئة (ب).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "3- رسم رخصة نادي رماية فئة (ج).",
+          "text_for_index": "3- رسم رخصة نادي رماية فئة (ج).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "4- رسم التسجيل الأمني.",
+          "text_for_index": "4- رسم التسجيل الأمني.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "وذلك وفق ما تحدده اللائحة من ضوابط وشروط.",
+          "text_for_index": "وذلك وفق ما تحدده اللائحة من ضوابط وشروط.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول الملحق بالنظام بناءً على اقتراح الوزير\".",
+          "text_for_index": "ولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول الملحق بالنظام بناءً على اقتراح الوزير\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-12::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "( الجدول الملحق مدرج في صيغة الPDF )",
+          "text_for_index": "( الجدول الملحق مدرج في صيغة الPDF )",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة عشرة",
+      "text_verbatim": "يجوز للوزير السماح بعبور   أسلحة الصيد    وأسلحة الحماية الشخصية للأراضي السعودية، بما يتفق مع الأنظمة والأعراف الدولية المعمول بها وأنظمة الدولة المتجه إليها، وفي ضوء الإجراءات والشروط التي تحددها   اللائحة  .",
+      "text_for_index": "يجوز للوزير السماح بعبور أسلحة الصيد وأسلحة الحماية الشخصية للأراضي السعودية، بما يتفق مع الأنظمة والأعراف الدولية المعمول بها وأنظمة الدولة المتجه إليها، وفي ضوء الإجراءات والشروط التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يجوز للوزير السماح بعبور   أسلحة الصيد    وأسلحة الحماية الشخصية للأراضي السعودية، بما يتفق مع الأنظمة والأعراف الدولية المعمول بها وأنظمة الدولة المتجه إليها، وفي ضوء الإجراءات والشروط التي تحددها   اللائحة  .",
+          "text_for_index": "يجوز للوزير السماح بعبور أسلحة الصيد وأسلحة الحماية الشخصية للأراضي السعودية، بما يتفق مع الأنظمة والأعراف الدولية المعمول بها وأنظمة الدولة المتجه إليها، وفي ضوء الإجراءات والشروط التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الرابعة عشرة",
+      "text_verbatim": "يجب على المرخص له باستيراد   الأسلحة النارية الفردية    أو   أسلحة الصيد    ومستلزماتها وقطع غيارها وذخائرها، وكذلك المرخص له بشرائها وبيعها - اتخاذ جميع وسائل السلامة لنقلها وتخزينها وفق الشروط المنظمة لذلك.",
+      "text_for_index": "يجب على المرخص له باستيراد الأسلحة النارية الفردية أو أسلحة الصيد ومستلزماتها وقطع غيارها وذخائرها، وكذلك المرخص له بشرائها وبيعها - اتخاذ جميع وسائل السلامة لنقلها وتخزينها وفق الشروط المنظمة لذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على المرخص له باستيراد   الأسلحة النارية الفردية    أو   أسلحة الصيد    ومستلزماتها وقطع غيارها وذخائرها، وكذلك المرخص له بشرائها وبيعها - اتخاذ جميع وسائل السلامة لنقلها وتخزينها وفق الشروط المنظمة لذلك.",
+          "text_for_index": "يجب على المرخص له باستيراد الأسلحة النارية الفردية أو أسلحة الصيد ومستلزماتها وقطع غيارها وذخائرها، وكذلك المرخص له بشرائها وبيعها - اتخاذ جميع وسائل السلامة لنقلها وتخزينها وفق الشروط المنظمة لذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخامسة عشرة",
+      "text_verbatim": "يجب على المرخص له باستيراد الأسلحة بجميع أنواعها ومستلزماتها وذخائرها وقطع غيارها، وكذلك المرخص له بشرائها وبيعها، أن ينظم لها سجلات خاصة وفقا للنماذج والإجراءات التي تحددها   اللائحة  .",
+      "text_for_index": "يجب على المرخص له باستيراد الأسلحة بجميع أنواعها ومستلزماتها وذخائرها وقطع غيارها، وكذلك المرخص له بشرائها وبيعها، أن ينظم لها سجلات خاصة وفقا للنماذج والإجراءات التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب على المرخص له باستيراد الأسلحة بجميع أنواعها ومستلزماتها وذخائرها وقطع غيارها، وكذلك المرخص له بشرائها وبيعها، أن ينظم لها سجلات خاصة وفقا للنماذج والإجراءات التي تحددها   اللائحة  .",
+          "text_for_index": "يجب على المرخص له باستيراد الأسلحة بجميع أنواعها ومستلزماتها وذخائرها وقطع غيارها، وكذلك المرخص له بشرائها وبيعها، أن ينظم لها سجلات خاصة وفقا للنماذج والإجراءات التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السادسة عشرة",
+      "text_verbatim": "للوزير -بناء على مقتضيات المصلحة العامة - عدم الموافقة على طلب الترخيص، أو تقييد الترخيص القائم، أو إلغاؤه.",
+      "text_for_index": "للوزير -بناء على مقتضيات المصلحة العامة - عدم الموافقة على طلب الترخيص، أو تقييد الترخيص القائم، أو إلغاؤه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير -بناء على مقتضيات المصلحة العامة - عدم الموافقة على طلب الترخيص، أو تقييد الترخيص القائم، أو إلغاؤه.",
+          "text_for_index": "للوزير -بناء على مقتضيات المصلحة العامة - عدم الموافقة على طلب الترخيص، أو تقييد الترخيص القائم، أو إلغاؤه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السابعة عشرة",
+      "text_verbatim": "جميع الرخص الصادرة بموجب أحكام هذا النظام لا يستفيد منها إلا المرخص له نفسه.",
+      "text_for_index": "جميع الرخص الصادرة بموجب أحكام هذا النظام لا يستفيد منها إلا المرخص له نفسه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "جميع الرخص الصادرة بموجب أحكام هذا النظام لا يستفيد منها إلا المرخص له نفسه.",
+          "text_for_index": "جميع الرخص الصادرة بموجب أحكام هذا النظام لا يستفيد منها إلا المرخص له نفسه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثامنة عشرة",
+      "text_verbatim": "تلغى رخصة حمل السلاح أو اقتنائه في الأحوال الآتية:\n\nأ - إذا تقررت مصادرة السلاح وذخيرته.\nب - إذا فقد المرخص له شرطا من شروط منح الرخصة.\n ج - إذا توفي المرخص له أو فقد أهليته.\n د - إذا تقرر مغادرة المقيم المرخص له المملكة بصفة نهائية. ويتم التصرف في السلاح وذخيرته إذا كان الإلغاء بموجب الفقرات (ب، ج، د) من هذه المادة من قبل صاحب السلاح أو ورثة المتوفى أو وكيلهم الشرعي أو ولي القصر في ضوء ما تحدده   اللائحة  .",
+      "text_for_index": "تلغى رخصة حمل السلاح أو اقتنائه في الأحوال الآتية:\n\nأ - إذا تقررت مصادرة السلاح وذخيرته.\nب - إذا فقد المرخص له شرطا من شروط منح الرخصة.\n ج - إذا توفي المرخص له أو فقد أهليته.\n د - إذا تقرر مغادرة المقيم المرخص له المملكة بصفة نهائية. ويتم التصرف في السلاح وذخيرته إذا كان الإلغاء بموجب الفقرات (ب، ج، د) من هذه المادة من قبل صاحب السلاح أو ورثة المتوفى أو وكيلهم الشرعي أو ولي القصر في ضوء ما تحدده اللائحة .",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تلغى رخصة حمل السلاح أو اقتنائه في الأحوال الآتية:",
+          "text_for_index": "تلغى رخصة حمل السلاح أو اقتنائه في الأحوال الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "أ - إذا تقررت مصادرة السلاح وذخيرته.\nب - إذا فقد المرخص له شرطا من شروط منح الرخصة.\n ج - إذا توفي المرخص له أو فقد أهليته.\n د - إذا تقرر مغادرة المقيم المرخص له المملكة بصفة نهائية. ويتم التصرف في السلاح وذخيرته إذا كان الإلغاء بموجب الفقرات (ب، ج، د) من هذه المادة من قبل صاحب السلاح أو ورثة المتوفى أو وكيلهم الشرعي أو ولي القصر في ضوء ما تحدده   اللائحة  .",
+          "text_for_index": "أ - إذا تقررت مصادرة السلاح وذخيرته.\nب - إذا فقد المرخص له شرطا من شروط منح الرخصة.\n ج - إذا توفي المرخص له أو فقد أهليته.\n د - إذا تقرر مغادرة المقيم المرخص له المملكة بصفة نهائية. ويتم التصرف في السلاح وذخيرته إذا كان الإلغاء بموجب الفقرات (ب، ج، د) من هذه المادة من قبل صاحب السلاح أو ورثة المتوفى أو وكيلهم الشرعي أو ولي القصر في ضوء ما تحدده اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة التاسعة عشرة",
+      "text_verbatim": "تلغى رخصة استيراد   الأسلحة النارية الفردية    أو رخص بيعها وشرائها أو إصلاحها في الحالات الآتية:\n\n أ - وفاة صاحب الرخصة أو فقد أهليته.\n ب - فقدان شرط من شروط منح الرخصة. وتحدد   اللائحة    الشروط والإجراءات التي يجب الأخذ بها.",
+      "text_for_index": "تلغى رخصة استيراد الأسلحة النارية الفردية أو رخص بيعها وشرائها أو إصلاحها في الحالات الآتية:\n\n أ - وفاة صاحب الرخصة أو فقد أهليته.\n ب - فقدان شرط من شروط منح الرخصة. وتحدد اللائحة الشروط والإجراءات التي يجب الأخذ بها.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تلغى رخصة استيراد   الأسلحة النارية الفردية    أو رخص بيعها وشرائها أو إصلاحها في الحالات الآتية:",
+          "text_for_index": "تلغى رخصة استيراد الأسلحة النارية الفردية أو رخص بيعها وشرائها أو إصلاحها في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "أ - وفاة صاحب الرخصة أو فقد أهليته.\n ب - فقدان شرط من شروط منح الرخصة. وتحدد   اللائحة    الشروط والإجراءات التي يجب الأخذ بها.",
+          "text_for_index": "أ - وفاة صاحب الرخصة أو فقد أهليته.\n ب - فقدان شرط من شروط منح الرخصة. وتحدد اللائحة الشروط والإجراءات التي يجب الأخذ بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة العشرون",
+      "text_verbatim": "تحدد   اللائحة    الإجراءات والشروط الواجب اتباعها إذا رغب المرخص له باستيراد   الأسلحة النارية الفردية    وذخائرها، أو رغب المرخص له ببيعها أو شرائها، في تغيير النشاط أو التنازل عنه لغيره.",
+      "text_for_index": "تحدد اللائحة الإجراءات والشروط الواجب اتباعها إذا رغب المرخص له باستيراد الأسلحة النارية الفردية وذخائرها، أو رغب المرخص له ببيعها أو شرائها، في تغيير النشاط أو التنازل عنه لغيره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "تحدد   اللائحة    الإجراءات والشروط الواجب اتباعها إذا رغب المرخص له باستيراد   الأسلحة النارية الفردية    وذخائرها، أو رغب المرخص له ببيعها أو شرائها، في تغيير النشاط أو التنازل عنه لغيره.",
+          "text_for_index": "تحدد اللائحة الإجراءات والشروط الواجب اتباعها إذا رغب المرخص له باستيراد الأسلحة النارية الفردية وذخائرها، أو رغب المرخص له ببيعها أو شرائها، في تغيير النشاط أو التنازل عنه لغيره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الحادية والعشرون",
+      "text_verbatim": "لا يجوز إعطاء الشخص الملغى ترخيصه أي ترخيص جديد على أي سلاح آخر إلا في الحالات التي تحددها   اللائحة  .",
+      "text_for_index": "لا يجوز إعطاء الشخص الملغى ترخيصه أي ترخيص جديد على أي سلاح آخر إلا في الحالات التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يجوز إعطاء الشخص الملغى ترخيصه أي ترخيص جديد على أي سلاح آخر إلا في الحالات التي تحددها   اللائحة  .",
+          "text_for_index": "لا يجوز إعطاء الشخص الملغى ترخيصه أي ترخيص جديد على أي سلاح آخر إلا في الحالات التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية والعشرون",
+      "text_verbatim": "تحدد   اللائحة    الإجراءات الواجب اتخاذها في حال فقدان الرخصة أو تلفها.",
+      "text_for_index": "تحدد اللائحة الإجراءات الواجب اتخاذها في حال فقدان الرخصة أو تلفها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "تحدد   اللائحة    الإجراءات الواجب اتخاذها في حال فقدان الرخصة أو تلفها.",
+          "text_for_index": "تحدد اللائحة الإجراءات الواجب اتخاذها في حال فقدان الرخصة أو تلفها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة والعشرون",
+      "text_verbatim": "يجوز منح رخصة اقتناء لأكثر من سلاح ناري فردي، وفقا لما تحدده  اللائحة  .",
+      "text_for_index": "يجوز منح رخصة اقتناء لأكثر من سلاح ناري فردي، وفقا لما تحدده اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يجوز منح رخصة اقتناء لأكثر من سلاح ناري فردي، وفقا لما تحدده  اللائحة  .",
+          "text_for_index": "يجوز منح رخصة اقتناء لأكثر من سلاح ناري فردي، وفقا لما تحدده اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الرابعة والعشرون",
+      "text_verbatim": "لا يجوز منح رخصة حمل لأكثر من سلاح ناري فردي واحد، وتحدد   اللائحة    نوع هذا السلاح. وللوزير في حالات خاصة منح تراخيص بحمل أكثر من سلاح.",
+      "text_for_index": "لا يجوز منح رخصة حمل لأكثر من سلاح ناري فردي واحد، وتحدد اللائحة نوع هذا السلاح. وللوزير في حالات خاصة منح تراخيص بحمل أكثر من سلاح.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "اختصاص"
+          ],
+          "text_verbatim": "لا يجوز منح رخصة حمل لأكثر من سلاح ناري فردي واحد، وتحدد   اللائحة    نوع هذا السلاح. وللوزير في حالات خاصة منح تراخيص بحمل أكثر من سلاح.",
+          "text_for_index": "لا يجوز منح رخصة حمل لأكثر من سلاح ناري فردي واحد، وتحدد اللائحة نوع هذا السلاح. وللوزير في حالات خاصة منح تراخيص بحمل أكثر من سلاح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 25,
+      "article_label": "الخامسة والعشرون",
+      "article_label_raw": "الخامسة والعشرون",
+      "article_heading": "الخامسة والعشرون",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخامسة والعشرون",
+      "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:\n\n\" يحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها للرخص والتصريح الآتية:\n\n1- رخصة حمل سلاح ناري للأفراد.\n\n2- رخصة اقتناء سلاح ناري للأفراد.\n\n3- رخصة حيازة سلاح ناري للشركات والمؤسسات.\n\n4- رخصة حمل واقتناء سلاح هوائي.\n\n5- رخصة استيراد وبيع أسلحة هوائية.\n\n6- رخصة استيراد وبيع أسلحة أثرية.\n\n7- رخصة محل إصلاح وصيانة الأسلحة.\n\n8- رخصة مدرب رماية.\n\n9- تصريح نقل سلاح ناري مرخص باقتنائه.\n\n10- رخصة استيراد وبيع أسلحة نارية وذخائر.\n\n11- رخصة مأمور حفظ وتخزين أسلحة.\n\n12- رخصة فني صيانة أسلحة.\n\n13- رخصة حمل واستخدام سلاح وظيفي للعاملين في الشركات والمؤسسات المرخص لها بحيازة الأسلحة النارية.\n\nوتحدد اللائحة الإجراءات اللازمة لذلك.\n\nولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول - المشار إليه - بناءً على اقتراح من الوزير\".\n\n( الجدول الملحق مدرج في صيغة الـ PDF ).",
+      "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:\n\n\" يحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها للرخص والتصريح الآتية:\n\n1- رخصة حمل سلاح ناري للأفراد.\n\n2- رخصة اقتناء سلاح ناري للأفراد.\n\n3- رخصة حيازة سلاح ناري للشركات والمؤسسات.\n\n4- رخصة حمل واقتناء سلاح هوائي.\n\n5- رخصة استيراد وبيع أسلحة هوائية.\n\n6- رخصة استيراد وبيع أسلحة أثرية.\n\n7- رخصة محل إصلاح وصيانة الأسلحة.\n\n8- رخصة مدرب رماية.\n\n9- تصريح نقل سلاح ناري مرخص باقتنائه.\n\n10- رخصة استيراد وبيع أسلحة نارية وذخائر.\n\n11- رخصة مأمور حفظ وتخزين أسلحة.\n\n12- رخصة فني صيانة أسلحة.\n\n13- رخصة حمل واستخدام سلاح وظيفي للعاملين في الشركات والمؤسسات المرخص لها بحيازة الأسلحة النارية.\n\nوتحدد اللائحة الإجراءات اللازمة لذلك.\n\nولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول - المشار إليه - بناءً على اقتراح من الوزير\".\n\n( الجدول الملحق مدرج في صيغة الـ PDF ).",
+      "paragraph_count": 18,
+      "indexable_paragraph_count": 18,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:",
+          "text_for_index": "- عُدلت هذه المادة وذلك بموجب المرسوم الملكي رقم (م/71) وتاريخ 1444/6/1هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "\" يحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها للرخص والتصريح الآتية:",
+          "text_for_index": "\" يحدد الجدول الملحق بالنظام الرسوم التي يتعين دفعها للرخص والتصريح الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "1- رخصة حمل سلاح ناري للأفراد.",
+          "text_for_index": "1- رخصة حمل سلاح ناري للأفراد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "2- رخصة اقتناء سلاح ناري للأفراد.",
+          "text_for_index": "2- رخصة اقتناء سلاح ناري للأفراد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "3- رخصة حيازة سلاح ناري للشركات والمؤسسات.",
+          "text_for_index": "3- رخصة حيازة سلاح ناري للشركات والمؤسسات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "4- رخصة حمل واقتناء سلاح هوائي.",
+          "text_for_index": "4- رخصة حمل واقتناء سلاح هوائي.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "5- رخصة استيراد وبيع أسلحة هوائية.",
+          "text_for_index": "5- رخصة استيراد وبيع أسلحة هوائية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "6- رخصة استيراد وبيع أسلحة أثرية.",
+          "text_for_index": "6- رخصة استيراد وبيع أسلحة أثرية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "7- رخصة محل إصلاح وصيانة الأسلحة.",
+          "text_for_index": "7- رخصة محل إصلاح وصيانة الأسلحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "8- رخصة مدرب رماية.",
+          "text_for_index": "8- رخصة مدرب رماية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "9- تصريح نقل سلاح ناري مرخص باقتنائه.",
+          "text_for_index": "9- تصريح نقل سلاح ناري مرخص باقتنائه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "10- رخصة استيراد وبيع أسلحة نارية وذخائر.",
+          "text_for_index": "10- رخصة استيراد وبيع أسلحة نارية وذخائر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "11- رخصة مأمور حفظ وتخزين أسلحة.",
+          "text_for_index": "11- رخصة مأمور حفظ وتخزين أسلحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "12- رخصة فني صيانة أسلحة.",
+          "text_for_index": "12- رخصة فني صيانة أسلحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "13- رخصة حمل واستخدام سلاح وظيفي للعاملين في الشركات والمؤسسات المرخص لها بحيازة الأسلحة النارية.",
+          "text_for_index": "13- رخصة حمل واستخدام سلاح وظيفي للعاملين في الشركات والمؤسسات المرخص لها بحيازة الأسلحة النارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "وتحدد اللائحة الإجراءات اللازمة لذلك.",
+          "text_for_index": "وتحدد اللائحة الإجراءات اللازمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "ولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول - المشار إليه - بناءً على اقتراح من الوزير\".",
+          "text_for_index": "ولمجلس الوزراء تعديل أي من الرسوم الواردة في الجدول - المشار إليه - بناءً على اقتراح من الوزير\".",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-25::paragraph-18",
+          "paragraph_index": 18,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "( الجدول الملحق مدرج في صيغة الـ PDF ).",
+          "text_for_index": "( الجدول الملحق مدرج في صيغة الـ PDF ).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 26,
+      "article_label": "السادسة والعشرون",
+      "article_label_raw": "السادسة والعشرون",
+      "article_heading": "السادسة والعشرون",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition",
+        "condition",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف",
+        "شرط",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "travel"
+      ],
+      "topic_tags_ar": [
+        "سفر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السادسة والعشرون",
+      "text_verbatim": "للوزير أن يأذن لمن لديه سلاح مرخص بالسفر به إلى خارج المملكة، إذا أذنت له الدولة التي يقصدها والدول التي يمر بها.",
+      "text_for_index": "للوزير أن يأذن لمن لديه سلاح مرخص بالسفر به إلى خارج المملكة، إذا أذنت له الدولة التي يقصدها والدول التي يمر بها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-26::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition",
+            "condition",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف",
+            "شرط",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير أن يأذن لمن لديه سلاح مرخص بالسفر به إلى خارج المملكة، إذا أذنت له الدولة التي يقصدها والدول التي يمر بها.",
+          "text_for_index": "للوزير أن يأذن لمن لديه سلاح مرخص بالسفر به إلى خارج المملكة، إذا أذنت له الدولة التي يقصدها والدول التي يمر بها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 27,
+      "article_label": "السابعة والعشرون",
+      "article_label_raw": "السابعة والعشرون",
+      "article_heading": "السابعة والعشرون",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "شرط"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السابعة والعشرون",
+      "text_verbatim": "يجوز التعويض بما يعادل قيمة السلاح المرخص وذخيرته إذا تقرر تسليمه للدولة في الحالات التي توجب ذلك طبقا لما تحدده   اللائحة  .",
+      "text_for_index": "يجوز التعويض بما يعادل قيمة السلاح المرخص وذخيرته إذا تقرر تسليمه للدولة في الحالات التي توجب ذلك طبقا لما تحدده اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-27::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "شرط"
+          ],
+          "text_verbatim": "يجوز التعويض بما يعادل قيمة السلاح المرخص وذخيرته إذا تقرر تسليمه للدولة في الحالات التي توجب ذلك طبقا لما تحدده   اللائحة  .",
+          "text_for_index": "يجوز التعويض بما يعادل قيمة السلاح المرخص وذخيرته إذا تقرر تسليمه للدولة في الحالات التي توجب ذلك طبقا لما تحدده اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 28,
+      "article_label": "الثامنة والعشرون",
+      "article_label_raw": "الثامنة والعشرون",
+      "article_heading": "الثامنة والعشرون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثامنة والعشرون",
+      "text_verbatim": "تحظر ممارسة مهنة إصلاح الأسلحة النارية بجميع أنواعها إلا بترخيص من   الوزير  . وتحدد   اللائحة    شروط منح الترخيص وواجبات المرخص له.",
+      "text_for_index": "تحظر ممارسة مهنة إصلاح الأسلحة النارية بجميع أنواعها إلا بترخيص من الوزير . وتحدد اللائحة شروط منح الترخيص وواجبات المرخص له.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-28::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "تحظر ممارسة مهنة إصلاح الأسلحة النارية بجميع أنواعها إلا بترخيص من   الوزير  . وتحدد   اللائحة    شروط منح الترخيص وواجبات المرخص له.",
+          "text_for_index": "تحظر ممارسة مهنة إصلاح الأسلحة النارية بجميع أنواعها إلا بترخيص من الوزير . وتحدد اللائحة شروط منح الترخيص وواجبات المرخص له.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 29,
+      "article_label": "التاسعة والعشرون",
+      "article_label_raw": "التاسعة والعشرون",
+      "article_heading": "التاسعة والعشرون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة التاسعة والعشرون",
+      "text_verbatim": "يحظر إصلاح أي سلاح غير مرخص به وفق أحكام هذا النظام ولائحته.",
+      "text_for_index": "يحظر إصلاح أي سلاح غير مرخص به وفق أحكام هذا النظام ولائحته.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-29::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يحظر إصلاح أي سلاح غير مرخص به وفق أحكام هذا النظام ولائحته.",
+          "text_for_index": "يحظر إصلاح أي سلاح غير مرخص به وفق أحكام هذا النظام ولائحته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 30,
+      "article_label": "الثلاثون",
+      "article_label_raw": "الثلاثون",
+      "article_heading": "الثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثلاثون",
+      "text_verbatim": "يحظر إجراء أي تعديل على آلية الأسلحة أو طرق تذخيرها بما يجعلها أشد خطورة.",
+      "text_for_index": "يحظر إجراء أي تعديل على آلية الأسلحة أو طرق تذخيرها بما يجعلها أشد خطورة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-30::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "يحظر إجراء أي تعديل على آلية الأسلحة أو طرق تذخيرها بما يجعلها أشد خطورة.",
+          "text_for_index": "يحظر إجراء أي تعديل على آلية الأسلحة أو طرق تذخيرها بما يجعلها أشد خطورة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 31,
+      "article_label": "الحادية والثلاثون",
+      "article_label_raw": "الحادية والثلاثون",
+      "article_heading": "الحادية والثلاثون",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "authority",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "اختصاص",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الحادية والثلاثون",
+      "text_verbatim": "أ - يجوز لأعضاء السلكين الدبلوماسي والقنصلي المعتمدين لدى المملكة جلب الأسلحة الفردية المعتادة وحملها واقتناؤها وكذلك ذخيرتها، وذلك بعد الحصول على ترخيص أو الحصول على هذه الأسلحة من المحلات المرخص لها بالبيع داخل المملكة بشرط المعاملة بالمثل.\n ب - يصدر الترخيص المشار إليه في الفقرة ( أ ) من هذه المادة من   الجهة المختصة   بناء على طلب من وزارة الخارجية.\n ج - لا يجوز لأعضاء السلكين الدبلوماسي والقنصلي نقل ملكية السلاح المرخص به إلا إلى عضو من البعثة الدبلوماسية نفسها أو القنصلية المعتمدة لدى المملكة. وفي غير هذه الحالة يجب إثبات خروج السلاح من المملكة عند انتهاء إقامة المرخص له في المملكة أو عند زوال الصفة الدبلوماسية أو القنصلية عنه، إلا إذا كان مصدر الحصول عليه من الداخل في ضوء ما ذكر في الفقرة ( أ ) من هذه المادة فيجوز التصرف فيه وفقا لهذا النظام ولائحته.",
+      "text_for_index": "أ - يجوز لأعضاء السلكين الدبلوماسي والقنصلي المعتمدين لدى المملكة جلب الأسلحة الفردية المعتادة وحملها واقتناؤها وكذلك ذخيرتها، وذلك بعد الحصول على ترخيص أو الحصول على هذه الأسلحة من المحلات المرخص لها بالبيع داخل المملكة بشرط المعاملة بالمثل.\n ب - يصدر الترخيص المشار إليه في الفقرة ( أ ) من هذه المادة من الجهة المختصة بناء على طلب من وزارة الخارجية.\n ج - لا يجوز لأعضاء السلكين الدبلوماسي والقنصلي نقل ملكية السلاح المرخص به إلا إلى عضو من البعثة الدبلوماسية نفسها أو القنصلية المعتمدة لدى المملكة. وفي غير هذه الحالة يجب إثبات خروج السلاح من المملكة عند انتهاء إقامة المرخص له في المملكة أو عند زوال الصفة الدبلوماسية أو القنصلية عنه، إلا إذا كان مصدر الحصول عليه من الداخل في ضوء ما ذكر في الفقرة ( أ ) من هذه المادة فيجوز التصرف فيه وفقا لهذا النظام ولائحته.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-31::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "اختصاص"
+          ],
+          "text_verbatim": "أ - يجوز لأعضاء السلكين الدبلوماسي والقنصلي المعتمدين لدى المملكة جلب الأسلحة الفردية المعتادة وحملها واقتناؤها وكذلك ذخيرتها، وذلك بعد الحصول على ترخيص أو الحصول على هذه الأسلحة من المحلات المرخص لها بالبيع داخل المملكة بشرط المعاملة بالمثل.\n ب - يصدر الترخيص المشار إليه في الفقرة ( أ ) من هذه المادة من   الجهة المختصة   بناء على طلب من وزارة الخارجية.",
+          "text_for_index": "أ - يجوز لأعضاء السلكين الدبلوماسي والقنصلي المعتمدين لدى المملكة جلب الأسلحة الفردية المعتادة وحملها واقتناؤها وكذلك ذخيرتها، وذلك بعد الحصول على ترخيص أو الحصول على هذه الأسلحة من المحلات المرخص لها بالبيع داخل المملكة بشرط المعاملة بالمثل.\n ب - يصدر الترخيص المشار إليه في الفقرة ( أ ) من هذه المادة من الجهة المختصة بناء على طلب من وزارة الخارجية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-31::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ج - لا يجوز لأعضاء السلكين الدبلوماسي والقنصلي نقل ملكية السلاح المرخص به إلا إلى عضو من البعثة الدبلوماسية نفسها أو القنصلية المعتمدة لدى المملكة. وفي غير هذه الحالة يجب إثبات خروج السلاح من المملكة عند انتهاء إقامة المرخص له في المملكة أو عند زوال الصفة الدبلوماسية أو القنصلية عنه، إلا إذا كان مصدر الحصول عليه من الداخل في ضوء ما ذكر في الفقرة ( أ ) من هذه المادة فيجوز التصرف فيه وفقا لهذا النظام ولائحته.",
+          "text_for_index": "ج - لا يجوز لأعضاء السلكين الدبلوماسي والقنصلي نقل ملكية السلاح المرخص به إلا إلى عضو من البعثة الدبلوماسية نفسها أو القنصلية المعتمدة لدى المملكة. وفي غير هذه الحالة يجب إثبات خروج السلاح من المملكة عند انتهاء إقامة المرخص له في المملكة أو عند زوال الصفة الدبلوماسية أو القنصلية عنه، إلا إذا كان مصدر الحصول عليه من الداخل في ضوء ما ذكر في الفقرة ( أ ) من هذه المادة فيجوز التصرف فيه وفقا لهذا النظام ولائحته.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 32,
+      "article_label": "الثانية والثلاثون",
+      "article_label_raw": "الثانية والثلاثون",
+      "article_heading": "الثانية والثلاثون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "labor",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية والثلاثون",
+      "text_verbatim": "يجوز لأعضاء السلكين الدبلوماسي والقنصلي السعوديين العاملين في الخارج، جلب أسلحتهم الفردية إلى المملكة بعد انتهاء عملهم في الخارج بحسب التعليمات والإجراءات التي تحددها   اللائحة  .",
+      "text_for_index": "يجوز لأعضاء السلكين الدبلوماسي والقنصلي السعوديين العاملين في الخارج، جلب أسلحتهم الفردية إلى المملكة بعد انتهاء عملهم في الخارج بحسب التعليمات والإجراءات التي تحددها اللائحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-32::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز لأعضاء السلكين الدبلوماسي والقنصلي السعوديين العاملين في الخارج، جلب أسلحتهم الفردية إلى المملكة بعد انتهاء عملهم في الخارج بحسب التعليمات والإجراءات التي تحددها   اللائحة  .",
+          "text_for_index": "يجوز لأعضاء السلكين الدبلوماسي والقنصلي السعوديين العاملين في الخارج، جلب أسلحتهم الفردية إلى المملكة بعد انتهاء عملهم في الخارج بحسب التعليمات والإجراءات التي تحددها اللائحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 33,
+      "article_label": "الثالثة والثلاثون",
+      "article_label_raw": "الثالثة والثلاثون",
+      "article_heading": "الثالثة والثلاثون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة والثلاثون",
+      "text_verbatim": "يجوز لأعضاء الوفود الرسمية أو العسكرية أو الأشخاص المكلفين بمهمات رسمية اصطحاب أسلحتهم الفردية الرسمية المعتادة وحملها، وذلك وفقا للعرف الدولي وبشرط المعاملة بالمثل بحسب ما تتطلبه الظروف، على أن تشعر الوزارة قبل ذلك.",
+      "text_for_index": "يجوز لأعضاء الوفود الرسمية أو العسكرية أو الأشخاص المكلفين بمهمات رسمية اصطحاب أسلحتهم الفردية الرسمية المعتادة وحملها، وذلك وفقا للعرف الدولي وبشرط المعاملة بالمثل بحسب ما تتطلبه الظروف، على أن تشعر الوزارة قبل ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-33::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يجوز لأعضاء الوفود الرسمية أو العسكرية أو الأشخاص المكلفين بمهمات رسمية اصطحاب أسلحتهم الفردية الرسمية المعتادة وحملها، وذلك وفقا للعرف الدولي وبشرط المعاملة بالمثل بحسب ما تتطلبه الظروف، على أن تشعر الوزارة قبل ذلك.",
+          "text_for_index": "يجوز لأعضاء الوفود الرسمية أو العسكرية أو الأشخاص المكلفين بمهمات رسمية اصطحاب أسلحتهم الفردية الرسمية المعتادة وحملها، وذلك وفقا للعرف الدولي وبشرط المعاملة بالمثل بحسب ما تتطلبه الظروف، على أن تشعر الوزارة قبل ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 34,
+      "article_label": "الرابعة والثلاثون",
+      "article_label_raw": "الرابعة والثلاثون",
+      "article_heading": "الرابعة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الرابعة والثلاثون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز ثلاثين سنة وبغرامة لا تتجاوز ثلاثمائة ألف ريال كل من يثبت قيامه بأي مما يأتي:\n\n أ - تهريب أسلحة حربية أو فردية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الإخلال بالأمن الداخلي.\n ب - استعمال   الأسلحة الحربية    أو الفردية أو ذخائرها أو قطع منها، أو صنعها أو تجميعها أو بيعها أو شراؤها أو حيازتها، بقصد الإخلال بالأمن الداخلي.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز ثلاثين سنة وبغرامة لا تتجاوز ثلاثمائة ألف ريال كل من يثبت قيامه بأي مما يأتي:\n\n أ - تهريب أسلحة حربية أو فردية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الإخلال بالأمن الداخلي.\n ب - استعمال الأسلحة الحربية أو الفردية أو ذخائرها أو قطع منها، أو صنعها أو تجميعها أو بيعها أو شراؤها أو حيازتها، بقصد الإخلال بالأمن الداخلي.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-34::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز ثلاثين سنة وبغرامة لا تتجاوز ثلاثمائة ألف ريال كل من يثبت قيامه بأي مما يأتي:",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز ثلاثين سنة وبغرامة لا تتجاوز ثلاثمائة ألف ريال كل من يثبت قيامه بأي مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-34::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ - تهريب أسلحة حربية أو فردية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الإخلال بالأمن الداخلي.\n ب - استعمال   الأسلحة الحربية    أو الفردية أو ذخائرها أو قطع منها، أو صنعها أو تجميعها أو بيعها أو شراؤها أو حيازتها، بقصد الإخلال بالأمن الداخلي.",
+          "text_for_index": "أ - تهريب أسلحة حربية أو فردية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الإخلال بالأمن الداخلي.\n ب - استعمال الأسلحة الحربية أو الفردية أو ذخائرها أو قطع منها، أو صنعها أو تجميعها أو بيعها أو شراؤها أو حيازتها، بقصد الإخلال بالأمن الداخلي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 35,
+      "article_label": "الخامسة والثلاثون",
+      "article_label_raw": "الخامسة والثلاثون",
+      "article_heading": "الخامسة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخامسة والثلاثون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز عشرين سنة وبغرامة لا تتجاوز مائتي ألف ريال أو بإحدى هاتين العقوبتين كل من يثبت قيامه بأي مما يأتي :\n\nأ - تهريب أسلحة حربية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الاتجار.\nب - صنع   أسلحة حربية    أو ذخائرها أو قطع غيارها بقصد الاتجار.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز عشرين سنة وبغرامة لا تتجاوز مائتي ألف ريال أو بإحدى هاتين العقوبتين كل من يثبت قيامه بأي مما يأتي :\n\nأ - تهريب أسلحة حربية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الاتجار.\nب - صنع أسلحة حربية أو ذخائرها أو قطع غيارها بقصد الاتجار.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-35::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز عشرين سنة وبغرامة لا تتجاوز مائتي ألف ريال أو بإحدى هاتين العقوبتين كل من يثبت قيامه بأي مما يأتي :",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز عشرين سنة وبغرامة لا تتجاوز مائتي ألف ريال أو بإحدى هاتين العقوبتين كل من يثبت قيامه بأي مما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-35::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ - تهريب أسلحة حربية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الاتجار.\nب - صنع   أسلحة حربية    أو ذخائرها أو قطع غيارها بقصد الاتجار.",
+          "text_for_index": "أ - تهريب أسلحة حربية أو قطع منها أو ذخائرها إلى داخل المملكة بقصد الاتجار.\nب - صنع أسلحة حربية أو ذخائرها أو قطع غيارها بقصد الاتجار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 36,
+      "article_label": "السادسة والثلاثون",
+      "article_label_raw": "السادسة والثلاثون",
+      "article_heading": "السادسة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السادسة والثلاثون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز خمس عشرة سنة وبغرامة لا تتجاوز مائة وخمسين ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت حمله سلاحا حربيا أو ذخيرته أو اقتنى أيا من ذلك أو باعه أو اشتراه.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز خمس عشرة سنة وبغرامة لا تتجاوز مائة وخمسين ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت حمله سلاحا حربيا أو ذخيرته أو اقتنى أيا من ذلك أو باعه أو اشتراه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-36::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز خمس عشرة سنة وبغرامة لا تتجاوز مائة وخمسين ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت حمله سلاحا حربيا أو ذخيرته أو اقتنى أيا من ذلك أو باعه أو اشتراه.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز خمس عشرة سنة وبغرامة لا تتجاوز مائة وخمسين ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت حمله سلاحا حربيا أو ذخيرته أو اقتنى أيا من ذلك أو باعه أو اشتراه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 37,
+      "article_label": "السابعة والثلاثون",
+      "article_label_raw": "السابعة والثلاثون",
+      "article_heading": "السابعة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السابعة والثلاثون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز عشر سنوات وبغرامة لا تتجاوز مائة ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بصنع أسلحة فردية أو قطع منها أو ذخائرها، أو ثبت قيامه بتهريبها إلى داخل المملكة بقصد الاتجار.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز عشر سنوات وبغرامة لا تتجاوز مائة ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بصنع أسلحة فردية أو قطع منها أو ذخائرها، أو ثبت قيامه بتهريبها إلى داخل المملكة بقصد الاتجار.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-37::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز عشر سنوات وبغرامة لا تتجاوز مائة ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بصنع أسلحة فردية أو قطع منها أو ذخائرها، أو ثبت قيامه بتهريبها إلى داخل المملكة بقصد الاتجار.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز عشر سنوات وبغرامة لا تتجاوز مائة ألف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بصنع أسلحة فردية أو قطع منها أو ذخائرها، أو ثبت قيامه بتهريبها إلى داخل المملكة بقصد الاتجار.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 38,
+      "article_label": "الثامنة والثلاثون",
+      "article_label_raw": "الثامنة والثلاثون",
+      "article_heading": "الثامنة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثامنة والثلاثون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز خمس سنوات وبغرامة لا تتجاوز ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين كل من ثبت قيامه بأي مما يأتي:\n\n أ - تهريب أسلحة صيد أو قطع منها أو ذخائرها إلى المملكة بقصد الاتجار.\n ب - تهريب أسلحة نارية فردية أو قطع منها أو ذخيرتها إلى المملكة بقصد الاستعمال الشخصي.\n ج - صنع   أسلحة الصيد    أو قطع غيارها.\n د - إدخال تعديل على آلية   أسلحة الصيد    أو أسلحة التمرين أو   الأسلحة الأثرية    بقصد جعلها أسلحة أشد خطورة.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز خمس سنوات وبغرامة لا تتجاوز ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين كل من ثبت قيامه بأي مما يأتي:\n\n أ - تهريب أسلحة صيد أو قطع منها أو ذخائرها إلى المملكة بقصد الاتجار.\n ب - تهريب أسلحة نارية فردية أو قطع منها أو ذخيرتها إلى المملكة بقصد الاستعمال الشخصي.\n ج - صنع أسلحة الصيد أو قطع غيارها.\n د - إدخال تعديل على آلية أسلحة الصيد أو أسلحة التمرين أو الأسلحة الأثرية بقصد جعلها أسلحة أشد خطورة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-38::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز خمس سنوات وبغرامة لا تتجاوز ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين كل من ثبت قيامه بأي مما يأتي:",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز خمس سنوات وبغرامة لا تتجاوز ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين كل من ثبت قيامه بأي مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-38::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ - تهريب أسلحة صيد أو قطع منها أو ذخائرها إلى المملكة بقصد الاتجار.\n ب - تهريب أسلحة نارية فردية أو قطع منها أو ذخيرتها إلى المملكة بقصد الاستعمال الشخصي.\n ج - صنع   أسلحة الصيد    أو قطع غيارها.\n د - إدخال تعديل على آلية   أسلحة الصيد    أو أسلحة التمرين أو   الأسلحة الأثرية    بقصد جعلها أسلحة أشد خطورة.",
+          "text_for_index": "أ - تهريب أسلحة صيد أو قطع منها أو ذخائرها إلى المملكة بقصد الاتجار.\n ب - تهريب أسلحة نارية فردية أو قطع منها أو ذخيرتها إلى المملكة بقصد الاستعمال الشخصي.\n ج - صنع أسلحة الصيد أو قطع غيارها.\n د - إدخال تعديل على آلية أسلحة الصيد أو أسلحة التمرين أو الأسلحة الأثرية بقصد جعلها أسلحة أشد خطورة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 39,
+      "article_label": "التاسعة والثلاثون",
+      "article_label_raw": "التاسعة والثلاثون",
+      "article_heading": "التاسعة والثلاثون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة التاسعة والثلاثون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز سنتين وبغرامة لا تتجاوز سبعة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت شراؤه سلاحا ناريا فرديا أو ذخيرة دون ترخيص أو بيعه أيا من ذلك.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز سنتين وبغرامة لا تتجاوز سبعة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت شراؤه سلاحا ناريا فرديا أو ذخيرة دون ترخيص أو بيعه أيا من ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-39::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز سنتين وبغرامة لا تتجاوز سبعة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت شراؤه سلاحا ناريا فرديا أو ذخيرة دون ترخيص أو بيعه أيا من ذلك.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز سنتين وبغرامة لا تتجاوز سبعة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت شراؤه سلاحا ناريا فرديا أو ذخيرة دون ترخيص أو بيعه أيا من ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 40,
+      "article_label": "الأربعون",
+      "article_label_raw": "الأربعون",
+      "article_heading": "الأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الأربعون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز ثمانية عشر شهرا وبغرامة لا تزيد على ستة آلاف ريال، أو بإحدى هاتين العقوبتين كل من تثبت حيازته لسلاح ناري فردي أو ذخيرة دون ترخيص.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز ثمانية عشر شهرا وبغرامة لا تزيد على ستة آلاف ريال، أو بإحدى هاتين العقوبتين كل من تثبت حيازته لسلاح ناري فردي أو ذخيرة دون ترخيص.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-40::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز ثمانية عشر شهرا وبغرامة لا تزيد على ستة آلاف ريال، أو بإحدى هاتين العقوبتين كل من تثبت حيازته لسلاح ناري فردي أو ذخيرة دون ترخيص.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز ثمانية عشر شهرا وبغرامة لا تزيد على ستة آلاف ريال، أو بإحدى هاتين العقوبتين كل من تثبت حيازته لسلاح ناري فردي أو ذخيرة دون ترخيص.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 41,
+      "article_label": "الحادية والأربعون",
+      "article_label_raw": "الحادية والأربعون",
+      "article_heading": "الحادية والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الحادية والأربعون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على خمسة آلاف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بأي مما يأتي:\n\n أ - استعمال السلاح المرخص له بحمله واقتنائه في غير الغرض المرخص له به.\n ب - استعمال سلاح ناري للصيد ولو كان مرخصا.\n ج - حيازته سلاح صيد أو ذخيرته دون ترخيص.\n د - السماح لغيره باستعمال السلاح المرخص له به، أو استعمال غيره للسلاح نتيجة إهماله.\n هـ - نقل أسلحة أو ذخائر غير مرخصة، أو المساعدة في ذلك.\n و - فتح محل للتدريب على   أسلحة الصيد    أو التمرين دون الحصول على ترخيص بذلك.\nز - مزاولة مهنة إصلاح الأسلحة دون الحصول على ترخيص بذلك.\n ح - إصلاح الأسلحة غير المرخصة.\nط - صنع ذخيرة   أسلحة الصيد  .\n ي - تهريب أسلحة تمرين بالجملة إلى المملكة.\n ك - تهريب   أسلحة الصيد    إلى المملكة أو ذخيرتها بقصد الاستعمال الشخصي.\nل - تهريب   الأسلحة الأثرية    بقصد الاتجار.\n م - مخالفة أي شرط من شروط الترخيص بالاستيراد أو البيع أو الحيازة أو الإصلاح.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على خمسة آلاف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بأي مما يأتي:\n\n أ - استعمال السلاح المرخص له بحمله واقتنائه في غير الغرض المرخص له به.\n ب - استعمال سلاح ناري للصيد ولو كان مرخصا.\n ج - حيازته سلاح صيد أو ذخيرته دون ترخيص.\n د - السماح لغيره باستعمال السلاح المرخص له به، أو استعمال غيره للسلاح نتيجة إهماله.\n هـ - نقل أسلحة أو ذخائر غير مرخصة، أو المساعدة في ذلك.\n و - فتح محل للتدريب على أسلحة الصيد أو التمرين دون الحصول على ترخيص بذلك.\nز - مزاولة مهنة إصلاح الأسلحة دون الحصول على ترخيص بذلك.\n ح - إصلاح الأسلحة غير المرخصة.\nط - صنع ذخيرة أسلحة الصيد .\n ي - تهريب أسلحة تمرين بالجملة إلى المملكة.\n ك - تهريب أسلحة الصيد إلى المملكة أو ذخيرتها بقصد الاستعمال الشخصي.\nل - تهريب الأسلحة الأثرية بقصد الاتجار.\n م - مخالفة أي شرط من شروط الترخيص بالاستيراد أو البيع أو الحيازة أو الإصلاح.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-41::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على خمسة آلاف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بأي مما يأتي:",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز سنة وبغرامة لا تزيد على خمسة آلاف ريال، أو بإحدى هاتين العقوبتين، كل من ثبت قيامه بأي مما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-41::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ - استعمال السلاح المرخص له بحمله واقتنائه في غير الغرض المرخص له به.\n ب - استعمال سلاح ناري للصيد ولو كان مرخصا.\n ج - حيازته سلاح صيد أو ذخيرته دون ترخيص.\n د - السماح لغيره باستعمال السلاح المرخص له به، أو استعمال غيره للسلاح نتيجة إهماله.\n هـ - نقل أسلحة أو ذخائر غير مرخصة، أو المساعدة في ذلك.\n و - فتح محل للتدريب على   أسلحة الصيد    أو التمرين دون الحصول على ترخيص بذلك.\nز - مزاولة مهنة إصلاح الأسلحة دون الحصول على ترخيص بذلك.\n ح - إصلاح الأسلحة غير المرخصة.\nط - صنع ذخيرة   أسلحة الصيد  .\n ي - تهريب أسلحة تمرين بالجملة إلى المملكة.\n ك - تهريب   أسلحة الصيد    إلى المملكة أو ذخيرتها بقصد الاستعمال الشخصي.\nل - تهريب   الأسلحة الأثرية    بقصد الاتجار.",
+          "text_for_index": "أ - استعمال السلاح المرخص له بحمله واقتنائه في غير الغرض المرخص له به.\n ب - استعمال سلاح ناري للصيد ولو كان مرخصا.\n ج - حيازته سلاح صيد أو ذخيرته دون ترخيص.\n د - السماح لغيره باستعمال السلاح المرخص له به، أو استعمال غيره للسلاح نتيجة إهماله.\n هـ - نقل أسلحة أو ذخائر غير مرخصة، أو المساعدة في ذلك.\n و - فتح محل للتدريب على أسلحة الصيد أو التمرين دون الحصول على ترخيص بذلك.\nز - مزاولة مهنة إصلاح الأسلحة دون الحصول على ترخيص بذلك.\n ح - إصلاح الأسلحة غير المرخصة.\nط - صنع ذخيرة أسلحة الصيد .\n ي - تهريب أسلحة تمرين بالجملة إلى المملكة.\n ك - تهريب أسلحة الصيد إلى المملكة أو ذخيرتها بقصد الاستعمال الشخصي.\nل - تهريب الأسلحة الأثرية بقصد الاتجار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-41::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "م - مخالفة أي شرط من شروط الترخيص بالاستيراد أو البيع أو الحيازة أو الإصلاح.",
+          "text_for_index": "م - مخالفة أي شرط من شروط الترخيص بالاستيراد أو البيع أو الحيازة أو الإصلاح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 42,
+      "article_label": "الثانية والأربعون",
+      "article_label_raw": "الثانية والأربعون",
+      "article_heading": "الثانية والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية والأربعون",
+      "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ثلاثة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت أن لديه معلومات عن عمليات متاجرة بالأسلحة دون ترخيص أو عن عمليات تهريب لها ولم يعلم السلطات المختصة بذلك.",
+      "text_for_index": "يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ثلاثة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت أن لديه معلومات عن عمليات متاجرة بالأسلحة دون ترخيص أو عن عمليات تهريب لها ولم يعلم السلطات المختصة بذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-42::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ثلاثة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت أن لديه معلومات عن عمليات متاجرة بالأسلحة دون ترخيص أو عن عمليات تهريب لها ولم يعلم السلطات المختصة بذلك.",
+          "text_for_index": "يعاقب بالسجن مدة لا تتجاوز ستة أشهر وبغرامة لا تزيد على ثلاثة آلاف ريال، أو بإحدى هاتين العقوبتين كل من ثبت أن لديه معلومات عن عمليات متاجرة بالأسلحة دون ترخيص أو عن عمليات تهريب لها ولم يعلم السلطات المختصة بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 43,
+      "article_label": "الثالثة والأربعون",
+      "article_label_raw": "الثالثة والأربعون",
+      "article_heading": "الثالثة والأربعون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة والأربعون",
+      "text_verbatim": "تم تعديل الفقرة (ج) من هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ، لتكون بالنص الآتي:\n\n\"ج - كل من قام بتهريب أسلحة التمرين بقصد الاستعمال الشخصي أو حاز بندقية هوائية دون ترخيص\".",
+      "text_for_index": "تم تعديل الفقرة (ج) من هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ، لتكون بالنص الآتي:\n\n\"ج - كل من قام بتهريب أسلحة التمرين بقصد الاستعمال الشخصي أو حاز بندقية هوائية دون ترخيص\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-43::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تم تعديل الفقرة (ج) من هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ، لتكون بالنص الآتي:",
+          "text_for_index": "تم تعديل الفقرة (ج) من هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-43::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "\"ج - كل من قام بتهريب أسلحة التمرين بقصد الاستعمال الشخصي أو حاز بندقية هوائية دون ترخيص\".",
+          "text_for_index": "\"ج - كل من قام بتهريب أسلحة التمرين بقصد الاستعمال الشخصي أو حاز بندقية هوائية دون ترخيص\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 44,
+      "article_label": "الرابعة والأربعون",
+      "article_label_raw": "الرابعة والأربعون",
+      "article_heading": "الرابعة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الرابعة والأربعون",
+      "text_verbatim": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من حمل سلاحه المرخص في الأماكن والأوقات التي يحظر فيها حمل السلاح. وتحدد   اللائحة    الأماكن والأوقات التي يحظر فيها حمل السلاح.",
+      "text_for_index": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من حمل سلاحه المرخص في الأماكن والأوقات التي يحظر فيها حمل السلاح. وتحدد اللائحة الأماكن والأوقات التي يحظر فيها حمل السلاح.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-44::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "منع"
+          ],
+          "text_verbatim": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من حمل سلاحه المرخص في الأماكن والأوقات التي يحظر فيها حمل السلاح. وتحدد   اللائحة    الأماكن والأوقات التي يحظر فيها حمل السلاح.",
+          "text_for_index": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من حمل سلاحه المرخص في الأماكن والأوقات التي يحظر فيها حمل السلاح. وتحدد اللائحة الأماكن والأوقات التي يحظر فيها حمل السلاح.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 45,
+      "article_label": "الخامسة والأربعون",
+      "article_label_raw": "الخامسة والأربعون",
+      "article_heading": "الخامسة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [
+        "copyright"
+      ],
+      "topic_tags_ar": [
+        "حقوق المؤلف والنشر"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخامسة والأربعون",
+      "text_verbatim": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من يثبت فقدانه سلاحه بالسرقة أو الضياع نتيجة إهماله، مع حرمانه من الحصول على ترخيص جديد لأي سلاح مدة سنتين من تاريخ تنفيذ العقوبة.",
+      "text_for_index": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من يثبت فقدانه سلاحه بالسرقة أو الضياع نتيجة إهماله، مع حرمانه من الحصول على ترخيص جديد لأي سلاح مدة سنتين من تاريخ تنفيذ العقوبة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-45::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من يثبت فقدانه سلاحه بالسرقة أو الضياع نتيجة إهماله، مع حرمانه من الحصول على ترخيص جديد لأي سلاح مدة سنتين من تاريخ تنفيذ العقوبة.",
+          "text_for_index": "يعاقب بغرامة مالية لا تتجاوز ألف ريال كل من يثبت فقدانه سلاحه بالسرقة أو الضياع نتيجة إهماله، مع حرمانه من الحصول على ترخيص جديد لأي سلاح مدة سنتين من تاريخ تنفيذ العقوبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 46,
+      "article_label": "السادسة والأربعون",
+      "article_label_raw": "السادسة والأربعون",
+      "article_heading": "السادسة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "guardianship"
+      ],
+      "topic_tags_ar": [
+        "ولاية ووصاية"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السادسة والأربعون",
+      "text_verbatim": "يعاقب بغرامة مالية لا تقل عن مائة ريال ولا تتجاوز خمسمائة ريال عن كل سنة تأخير:\n\n أ - كل من انتهت مدة رخصة حمله للسلاح أو اقتنائه ولم يتقدم بطلب تجديدها خلال ثلاثة أشهر من تاريخ انتهائها.\n ب - كل من آل إليه بالإرث أو الوصية سلاح ناري مرخص به ولم يبلغ عنه الجهات المختصة خلال ثلاثة أشهر من تاريخ مآله إليه.",
+      "text_for_index": "يعاقب بغرامة مالية لا تقل عن مائة ريال ولا تتجاوز خمسمائة ريال عن كل سنة تأخير:\n\n أ - كل من انتهت مدة رخصة حمله للسلاح أو اقتنائه ولم يتقدم بطلب تجديدها خلال ثلاثة أشهر من تاريخ انتهائها.\n ب - كل من آل إليه بالإرث أو الوصية سلاح ناري مرخص به ولم يبلغ عنه الجهات المختصة خلال ثلاثة أشهر من تاريخ مآله إليه.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-46::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب بغرامة مالية لا تقل عن مائة ريال ولا تتجاوز خمسمائة ريال عن كل سنة تأخير:",
+          "text_for_index": "يعاقب بغرامة مالية لا تقل عن مائة ريال ولا تتجاوز خمسمائة ريال عن كل سنة تأخير:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-46::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "أ - كل من انتهت مدة رخصة حمله للسلاح أو اقتنائه ولم يتقدم بطلب تجديدها خلال ثلاثة أشهر من تاريخ انتهائها.\n ب - كل من آل إليه بالإرث أو الوصية سلاح ناري مرخص به ولم يبلغ عنه الجهات المختصة خلال ثلاثة أشهر من تاريخ مآله إليه.",
+          "text_for_index": "أ - كل من انتهت مدة رخصة حمله للسلاح أو اقتنائه ولم يتقدم بطلب تجديدها خلال ثلاثة أشهر من تاريخ انتهائها.\n ب - كل من آل إليه بالإرث أو الوصية سلاح ناري مرخص به ولم يبلغ عنه الجهات المختصة خلال ثلاثة أشهر من تاريخ مآله إليه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 47,
+      "article_label": "السابعة والأربعون",
+      "article_label_raw": "السابعة والأربعون",
+      "article_heading": "السابعة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السابعة والأربعون",
+      "text_verbatim": "يعاقب كل من يثبت تصرفه في الأسلحة والذخائر المصرح بعبورها أراضي المملكة بالبيع أو الإهداء داخل المملكة بالعقوبات الخاصة بمهربي الأسلحة بحسب نوعها.",
+      "text_for_index": "يعاقب كل من يثبت تصرفه في الأسلحة والذخائر المصرح بعبورها أراضي المملكة بالبيع أو الإهداء داخل المملكة بالعقوبات الخاصة بمهربي الأسلحة بحسب نوعها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-47::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "يعاقب كل من يثبت تصرفه في الأسلحة والذخائر المصرح بعبورها أراضي المملكة بالبيع أو الإهداء داخل المملكة بالعقوبات الخاصة بمهربي الأسلحة بحسب نوعها.",
+          "text_for_index": "يعاقب كل من يثبت تصرفه في الأسلحة والذخائر المصرح بعبورها أراضي المملكة بالبيع أو الإهداء داخل المملكة بالعقوبات الخاصة بمهربي الأسلحة بحسب نوعها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 48,
+      "article_label": "الثامنة والأربعون",
+      "article_label_raw": "الثامنة والأربعون",
+      "article_heading": "الثامنة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثامنة والأربعون",
+      "text_verbatim": "يعاقب بالعقوبة المقررة على المخالفة نفسها كل من تثبت مشاركته في ارتكاب أي مخالفة من المخالفات الواردة في هذا النظام.",
+      "text_for_index": "يعاقب بالعقوبة المقررة على المخالفة نفسها كل من تثبت مشاركته في ارتكاب أي مخالفة من المخالفات الواردة في هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-48::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب بالعقوبة المقررة على المخالفة نفسها كل من تثبت مشاركته في ارتكاب أي مخالفة من المخالفات الواردة في هذا النظام.",
+          "text_for_index": "يعاقب بالعقوبة المقررة على المخالفة نفسها كل من تثبت مشاركته في ارتكاب أي مخالفة من المخالفات الواردة في هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 49,
+      "article_label": "التاسعة والأربعون",
+      "article_label_raw": "التاسعة والأربعون",
+      "article_heading": "التاسعة والأربعون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة التاسعة والأربعون",
+      "text_verbatim": "تطبق العقوبات - عدا السجن - الواردة في هذا النظام على المؤسسات أو الشركات أو أي منشأة أخرى يثبت مخالفتها لما ورد به من أحكام.",
+      "text_for_index": "تطبق العقوبات - عدا السجن - الواردة في هذا النظام على المؤسسات أو الشركات أو أي منشأة أخرى يثبت مخالفتها لما ورد به من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-49::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "تطبق العقوبات - عدا السجن - الواردة في هذا النظام على المؤسسات أو الشركات أو أي منشأة أخرى يثبت مخالفتها لما ورد به من أحكام.",
+          "text_for_index": "تطبق العقوبات - عدا السجن - الواردة في هذا النظام على المؤسسات أو الشركات أو أي منشأة أخرى يثبت مخالفتها لما ورد به من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 50,
+      "article_label": "الخمسون",
+      "article_label_raw": "الخمسون",
+      "article_heading": "الخمسون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure",
+        "penalty",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء",
+        "جزاء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخمسون",
+      "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي :\n\n\"1- إضافة إلى العقوبات المنصوص عليها في هذا النظام، يصادر بحكم قضائي جميع ما يضبط من أسلحة وذخائر ومعدات متعلقة بها. وإذا كانت المخالفة تهريباً فتصادر وسيلة النقل المستخدمة في التهريب.\n\n2 - إذا تعذر على جهة التحقيق إقامة الدعوى الجزائية على حائز المضبوطات فتؤول تلك المضبوطات إلى الدولة، ما لم تكن هناك دلائل قوية على إمكان ظهور متهم بحيازتها، أو التوصل إليه، فتأمر قبل ذلك بالتحفظ عليها لمدة لا تزيد على ثلاث سنوات.\n\n3 - إذا حكمت المحكمة بعدم الإدانة لوجود مانع من موانع المسؤولية الجنائية، أو بانقضاء الدعوى الجزائية بصدور عفو أو وفاة المتهم، فتعامل المضبوطات غير المرخصة وفقاً للفقرة (2) من هذه المادة.\n\n4 - يصدر الوزير قراراً بالتصرف في المضبوطات المصادرة، أو التي آلت إلى الدولة بموجب هذه المادة\".",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي :\n\n\"1- إضافة إلى العقوبات المنصوص عليها في هذا النظام، يصادر بحكم قضائي جميع ما يضبط من أسلحة وذخائر ومعدات متعلقة بها. وإذا كانت المخالفة تهريباً فتصادر وسيلة النقل المستخدمة في التهريب.\n\n2 - إذا تعذر على جهة التحقيق إقامة الدعوى الجزائية على حائز المضبوطات فتؤول تلك المضبوطات إلى الدولة، ما لم تكن هناك دلائل قوية على إمكان ظهور متهم بحيازتها، أو التوصل إليه، فتأمر قبل ذلك بالتحفظ عليها لمدة لا تزيد على ثلاث سنوات.\n\n3 - إذا حكمت المحكمة بعدم الإدانة لوجود مانع من موانع المسؤولية الجنائية، أو بانقضاء الدعوى الجزائية بصدور عفو أو وفاة المتهم، فتعامل المضبوطات غير المرخصة وفقاً للفقرة (2) من هذه المادة.\n\n4 - يصدر الوزير قراراً بالتصرف في المضبوطات المصادرة، أو التي آلت إلى الدولة بموجب هذه المادة\".",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-50::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي :",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-50::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "جزاء"
+          ],
+          "text_verbatim": "\"1- إضافة إلى العقوبات المنصوص عليها في هذا النظام، يصادر بحكم قضائي جميع ما يضبط من أسلحة وذخائر ومعدات متعلقة بها. وإذا كانت المخالفة تهريباً فتصادر وسيلة النقل المستخدمة في التهريب.",
+          "text_for_index": "\"1- إضافة إلى العقوبات المنصوص عليها في هذا النظام، يصادر بحكم قضائي جميع ما يضبط من أسلحة وذخائر ومعدات متعلقة بها. وإذا كانت المخالفة تهريباً فتصادر وسيلة النقل المستخدمة في التهريب.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-50::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure",
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء",
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "2 - إذا تعذر على جهة التحقيق إقامة الدعوى الجزائية على حائز المضبوطات فتؤول تلك المضبوطات إلى الدولة، ما لم تكن هناك دلائل قوية على إمكان ظهور متهم بحيازتها، أو التوصل إليه، فتأمر قبل ذلك بالتحفظ عليها لمدة لا تزيد على ثلاث سنوات.",
+          "text_for_index": "2 - إذا تعذر على جهة التحقيق إقامة الدعوى الجزائية على حائز المضبوطات فتؤول تلك المضبوطات إلى الدولة، ما لم تكن هناك دلائل قوية على إمكان ظهور متهم بحيازتها، أو التوصل إليه، فتأمر قبل ذلك بالتحفظ عليها لمدة لا تزيد على ثلاث سنوات.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-50::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "إجراء"
+          ],
+          "text_verbatim": "3 - إذا حكمت المحكمة بعدم الإدانة لوجود مانع من موانع المسؤولية الجنائية، أو بانقضاء الدعوى الجزائية بصدور عفو أو وفاة المتهم، فتعامل المضبوطات غير المرخصة وفقاً للفقرة (2) من هذه المادة.",
+          "text_for_index": "3 - إذا حكمت المحكمة بعدم الإدانة لوجود مانع من موانع المسؤولية الجنائية، أو بانقضاء الدعوى الجزائية بصدور عفو أو وفاة المتهم، فتعامل المضبوطات غير المرخصة وفقاً للفقرة (2) من هذه المادة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-50::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "4 - يصدر الوزير قراراً بالتصرف في المضبوطات المصادرة، أو التي آلت إلى الدولة بموجب هذه المادة\".",
+          "text_for_index": "4 - يصدر الوزير قراراً بالتصرف في المضبوطات المصادرة، أو التي آلت إلى الدولة بموجب هذه المادة\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 51,
+      "article_label": "الحادية والخمسون",
+      "article_label_raw": "الحادية والخمسون",
+      "article_heading": "الحادية والخمسون",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الحادية والخمسون",
+      "text_verbatim": "يراعى تشديد العقوبات المقررة في المواد (الرابعة والثلاثين، والخامسة والثلاثين، والسادسة والثلاثين) من هذا النظام إذا كان مرتكب المخالفة أحد موظفي الجهات ذات العلاقة بتطبيق هذا النظام.",
+      "text_for_index": "يراعى تشديد العقوبات المقررة في المواد (الرابعة والثلاثين، والخامسة والثلاثين، والسادسة والثلاثين) من هذا النظام إذا كان مرتكب المخالفة أحد موظفي الجهات ذات العلاقة بتطبيق هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-51::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "جزاء"
+          ],
+          "text_verbatim": "يراعى تشديد العقوبات المقررة في المواد (الرابعة والثلاثين، والخامسة والثلاثين، والسادسة والثلاثين) من هذا النظام إذا كان مرتكب المخالفة أحد موظفي الجهات ذات العلاقة بتطبيق هذا النظام.",
+          "text_for_index": "يراعى تشديد العقوبات المقررة في المواد (الرابعة والثلاثين، والخامسة والثلاثين، والسادسة والثلاثين) من هذا النظام إذا كان مرتكب المخالفة أحد موظفي الجهات ذات العلاقة بتطبيق هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 52,
+      "article_label": "الثانية والخمسون",
+      "article_label_raw": "الثانية والخمسون",
+      "article_heading": "الثانية والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية والخمسون",
+      "text_verbatim": "تتولى هيئة التحقيق والادعاء العام التحقيق في مخالفات أحكام هذا النظام.",
+      "text_for_index": "تتولى هيئة التحقيق والادعاء العام التحقيق في مخالفات أحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-52::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تتولى هيئة التحقيق والادعاء العام التحقيق في مخالفات أحكام هذا النظام.",
+          "text_for_index": "تتولى هيئة التحقيق والادعاء العام التحقيق في مخالفات أحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 53,
+      "article_label": "الثالثة والخمسون",
+      "article_label_raw": "الثالثة والخمسون",
+      "article_heading": "الثالثة والخمسون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة والخمسون",
+      "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي:\n\n \"تكوّن – بقرار من الوزير – لجنة من ثلاثة أعضاء يكون من بينهم واحد من المؤهلين في العلوم الشرعية أو النظامية للنظر في توقيع العقوبات المنصوص عليها في المواد (الثالثة والأربعين عدا الفقرة (ج)، والرابعة والأربعين، والخامسة والأربعين، والسادسة والأربعين) من هذا النظام. ويعتمد قرارات هذه اللجنة الوزير أو من يفوضه. ويجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال ستين يوماً من تاريخ إبلاغه به\".",
+      "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي:\n\n \"تكوّن – بقرار من الوزير – لجنة من ثلاثة أعضاء يكون من بينهم واحد من المؤهلين في العلوم الشرعية أو النظامية للنظر في توقيع العقوبات المنصوص عليها في المواد (الثالثة والأربعين عدا الفقرة (ج)، والرابعة والأربعين، والخامسة والأربعين، والسادسة والأربعين) من هذا النظام. ويعتمد قرارات هذه اللجنة الوزير أو من يفوضه. ويجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال ستين يوماً من تاريخ إبلاغه به\".",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-53::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي:",
+          "text_for_index": "تم تعديل هذه المادة بموجب المرسوم الملكي رقم (م/ 17) بتاريخ 1 / 4 / 1437هـ ، لتكون بالنص الآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-53::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "\"تكوّن – بقرار من الوزير – لجنة من ثلاثة أعضاء يكون من بينهم واحد من المؤهلين في العلوم الشرعية أو النظامية للنظر في توقيع العقوبات المنصوص عليها في المواد (الثالثة والأربعين عدا الفقرة (ج)، والرابعة والأربعين، والخامسة والأربعين، والسادسة والأربعين) من هذا النظام. ويعتمد قرارات هذه اللجنة الوزير أو من يفوضه. ويجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال ستين يوماً من تاريخ إبلاغه به\".",
+          "text_for_index": "\"تكوّن – بقرار من الوزير – لجنة من ثلاثة أعضاء يكون من بينهم واحد من المؤهلين في العلوم الشرعية أو النظامية للنظر في توقيع العقوبات المنصوص عليها في المواد (الثالثة والأربعين عدا الفقرة (ج)، والرابعة والأربعين، والخامسة والأربعين، والسادسة والأربعين) من هذا النظام. ويعتمد قرارات هذه اللجنة الوزير أو من يفوضه. ويجوز لمن صدر ضده قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال ستين يوماً من تاريخ إبلاغه به\".",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 54,
+      "article_label": "الرابعة والخمسون",
+      "article_label_raw": "الرابعة والخمسون",
+      "article_heading": "الرابعة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الرابعة والخمسون",
+      "text_verbatim": "مع عدم الإخلال بما تقضي به المادة (الثالثة والخمسون) من هذا النظام، يختص ديوان المظالم بالنظر في قضايا المخالفين لأحكام هذا النظام، وتوقيع العقوبات الواردة فيه.",
+      "text_for_index": "مع عدم الإخلال بما تقضي به المادة (الثالثة والخمسون) من هذا النظام، يختص ديوان المظالم بالنظر في قضايا المخالفين لأحكام هذا النظام، وتوقيع العقوبات الواردة فيه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-54::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بما تقضي به المادة (الثالثة والخمسون) من هذا النظام، يختص ديوان المظالم بالنظر في قضايا المخالفين لأحكام هذا النظام، وتوقيع العقوبات الواردة فيه.",
+          "text_for_index": "مع عدم الإخلال بما تقضي به المادة (الثالثة والخمسون) من هذا النظام، يختص ديوان المظالم بالنظر في قضايا المخالفين لأحكام هذا النظام، وتوقيع العقوبات الواردة فيه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 55,
+      "article_label": "الخامسة والخمسون",
+      "article_label_raw": "الخامسة والخمسون",
+      "article_heading": "الخامسة والخمسون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الخامسة والخمسون",
+      "text_verbatim": "لا يخل تطبيق العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر.",
+      "text_for_index": "لا يخل تطبيق العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-55::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "لا يخل تطبيق العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر.",
+          "text_for_index": "لا يخل تطبيق العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 56,
+      "article_label": "السادسة والخمسون",
+      "article_label_raw": "السادسة والخمسون",
+      "article_heading": "السادسة والخمسون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السادسة والخمسون",
+      "text_verbatim": "يجوز للوزير إيقاف الإجراءات المتعلقة بمساءلة كل من يتطوع ويبادر بالإبلاغ عما لديه من أسلحة وذخائر غير مرخصة، ويبدي رغبته واستعداده لتسليمها قبل ضبطها لديه.",
+      "text_for_index": "يجوز للوزير إيقاف الإجراءات المتعلقة بمساءلة كل من يتطوع ويبادر بالإبلاغ عما لديه من أسلحة وذخائر غير مرخصة، ويبدي رغبته واستعداده لتسليمها قبل ضبطها لديه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-56::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز للوزير إيقاف الإجراءات المتعلقة بمساءلة كل من يتطوع ويبادر بالإبلاغ عما لديه من أسلحة وذخائر غير مرخصة، ويبدي رغبته واستعداده لتسليمها قبل ضبطها لديه.",
+          "text_for_index": "يجوز للوزير إيقاف الإجراءات المتعلقة بمساءلة كل من يتطوع ويبادر بالإبلاغ عما لديه من أسلحة وذخائر غير مرخصة، ويبدي رغبته واستعداده لتسليمها قبل ضبطها لديه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 57,
+      "article_label": "السابعة والخمسون",
+      "article_label_raw": "السابعة والخمسون",
+      "article_heading": "السابعة والخمسون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة السابعة والخمسون",
+      "text_verbatim": "أ - لديوان المظالم -ولأسباب معتبرة، أو إذا ظهر له من أخلاق المحكوم عليه أو ماضيه أو سنه أو ظروفه الشخصية أو الظروف التي ارتكبت فيها المخالفة أو غير ذلك مما يبعث على الاعتقاد بأن المتهم لن يعود إلى مخالفة أحكام هذا النظام- وقف تنفيذ عقوبة السجن المحكوم بها من العقوبات الواردة في هذا النظام ما لم يكن سبق أن حكم عليه وعاد إلى المخالفة نفسها. ويجب أن تبين الأسباب التي استند إليها الحكم في جميع الأحوال.\n\n ب - إذا عاد المحكوم عليه لارتكاب مخالفة من المخالفات المعاقب عليها بموجب هذا النظام خلال مدة ثلاث سنوات من تاريخ وقف تنفيذ العقوبة فلديوان المظالم إلغاء وقف التنفيذ والأمر بإنفاذ العقوبة دون الإخلال بالعقوبة المقررة عن المخالفة الجديدة.\n\nج - إذا انقضت مدة وقف تنفيذ العقوبة دون عودة المحكوم عليه لارتكاب إحدى المخالفات المعاقب عليها في هذا النظام، فإن الحكم الموقوف يعد كأن لم يكن وتنقضي كل آثاره.",
+      "text_for_index": "أ - لديوان المظالم -ولأسباب معتبرة، أو إذا ظهر له من أخلاق المحكوم عليه أو ماضيه أو سنه أو ظروفه الشخصية أو الظروف التي ارتكبت فيها المخالفة أو غير ذلك مما يبعث على الاعتقاد بأن المتهم لن يعود إلى مخالفة أحكام هذا النظام- وقف تنفيذ عقوبة السجن المحكوم بها من العقوبات الواردة في هذا النظام ما لم يكن سبق أن حكم عليه وعاد إلى المخالفة نفسها. ويجب أن تبين الأسباب التي استند إليها الحكم في جميع الأحوال.\n\n ب - إذا عاد المحكوم عليه لارتكاب مخالفة من المخالفات المعاقب عليها بموجب هذا النظام خلال مدة ثلاث سنوات من تاريخ وقف تنفيذ العقوبة فلديوان المظالم إلغاء وقف التنفيذ والأمر بإنفاذ العقوبة دون الإخلال بالعقوبة المقررة عن المخالفة الجديدة.\n\nج - إذا انقضت مدة وقف تنفيذ العقوبة دون عودة المحكوم عليه لارتكاب إحدى المخالفات المعاقب عليها في هذا النظام، فإن الحكم الموقوف يعد كأن لم يكن وتنقضي كل آثاره.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-57::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "obligation",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "أ - لديوان المظالم -ولأسباب معتبرة، أو إذا ظهر له من أخلاق المحكوم عليه أو ماضيه أو سنه أو ظروفه الشخصية أو الظروف التي ارتكبت فيها المخالفة أو غير ذلك مما يبعث على الاعتقاد بأن المتهم لن يعود إلى مخالفة أحكام هذا النظام- وقف تنفيذ عقوبة السجن المحكوم بها من العقوبات الواردة في هذا النظام ما لم يكن سبق أن حكم عليه وعاد إلى المخالفة نفسها. ويجب أن تبين الأسباب التي استند إليها الحكم في جميع الأحوال.",
+          "text_for_index": "أ - لديوان المظالم -ولأسباب معتبرة، أو إذا ظهر له من أخلاق المحكوم عليه أو ماضيه أو سنه أو ظروفه الشخصية أو الظروف التي ارتكبت فيها المخالفة أو غير ذلك مما يبعث على الاعتقاد بأن المتهم لن يعود إلى مخالفة أحكام هذا النظام- وقف تنفيذ عقوبة السجن المحكوم بها من العقوبات الواردة في هذا النظام ما لم يكن سبق أن حكم عليه وعاد إلى المخالفة نفسها. ويجب أن تبين الأسباب التي استند إليها الحكم في جميع الأحوال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-57::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ب - إذا عاد المحكوم عليه لارتكاب مخالفة من المخالفات المعاقب عليها بموجب هذا النظام خلال مدة ثلاث سنوات من تاريخ وقف تنفيذ العقوبة فلديوان المظالم إلغاء وقف التنفيذ والأمر بإنفاذ العقوبة دون الإخلال بالعقوبة المقررة عن المخالفة الجديدة.",
+          "text_for_index": "ب - إذا عاد المحكوم عليه لارتكاب مخالفة من المخالفات المعاقب عليها بموجب هذا النظام خلال مدة ثلاث سنوات من تاريخ وقف تنفيذ العقوبة فلديوان المظالم إلغاء وقف التنفيذ والأمر بإنفاذ العقوبة دون الإخلال بالعقوبة المقررة عن المخالفة الجديدة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-57::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ج - إذا انقضت مدة وقف تنفيذ العقوبة دون عودة المحكوم عليه لارتكاب إحدى المخالفات المعاقب عليها في هذا النظام، فإن الحكم الموقوف يعد كأن لم يكن وتنقضي كل آثاره.",
+          "text_for_index": "ج - إذا انقضت مدة وقف تنفيذ العقوبة دون عودة المحكوم عليه لارتكاب إحدى المخالفات المعاقب عليها في هذا النظام، فإن الحكم الموقوف يعد كأن لم يكن وتنقضي كل آثاره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 58,
+      "article_label": "الثامنة والخمسون",
+      "article_label_raw": "الثامنة والخمسون",
+      "article_heading": "الثامنة والخمسون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثامنة والخمسون",
+      "text_verbatim": "يجوز للوزير الإذن بإعادة تصدير الأسلحة أو الذخائر القادمة إلى المملكة عبر المنافذ الجمركية دون إذن سابق، إذا تم التقرير عنها قبل ضبطها، وذلك خلال مدة لا تتجاوز ستة أشهر وتصادر بحكم قضائي إذا لم يعد تصديرها.",
+      "text_for_index": "يجوز للوزير الإذن بإعادة تصدير الأسلحة أو الذخائر القادمة إلى المملكة عبر المنافذ الجمركية دون إذن سابق، إذا تم التقرير عنها قبل ضبطها، وذلك خلال مدة لا تتجاوز ستة أشهر وتصادر بحكم قضائي إذا لم يعد تصديرها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-58::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز للوزير الإذن بإعادة تصدير الأسلحة أو الذخائر القادمة إلى المملكة عبر المنافذ الجمركية دون إذن سابق، إذا تم التقرير عنها قبل ضبطها، وذلك خلال مدة لا تتجاوز ستة أشهر وتصادر بحكم قضائي إذا لم يعد تصديرها.",
+          "text_for_index": "يجوز للوزير الإذن بإعادة تصدير الأسلحة أو الذخائر القادمة إلى المملكة عبر المنافذ الجمركية دون إذن سابق، إذا تم التقرير عنها قبل ضبطها، وذلك خلال مدة لا تتجاوز ستة أشهر وتصادر بحكم قضائي إذا لم يعد تصديرها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 59,
+      "article_label": "التاسعة والخمسون",
+      "article_label_raw": "التاسعة والخمسون",
+      "article_heading": "التاسعة والخمسون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة التاسعة والخمسون",
+      "text_verbatim": "يجوز للوزير منح مكافأة لا تزيد على قيمة الغرامة المحكوم بها لمن يقوم بالإبلاغ عن مخالفات الاتجار بالأسلحة أو تهريبها إذا أدى بلاغه إلى ضبط الأسلحة وإدانة المخالفين.",
+      "text_for_index": "يجوز للوزير منح مكافأة لا تزيد على قيمة الغرامة المحكوم بها لمن يقوم بالإبلاغ عن مخالفات الاتجار بالأسلحة أو تهريبها إذا أدى بلاغه إلى ضبط الأسلحة وإدانة المخالفين.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-59::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز للوزير منح مكافأة لا تزيد على قيمة الغرامة المحكوم بها لمن يقوم بالإبلاغ عن مخالفات الاتجار بالأسلحة أو تهريبها إذا أدى بلاغه إلى ضبط الأسلحة وإدانة المخالفين.",
+          "text_for_index": "يجوز للوزير منح مكافأة لا تزيد على قيمة الغرامة المحكوم بها لمن يقوم بالإبلاغ عن مخالفات الاتجار بالأسلحة أو تهريبها إذا أدى بلاغه إلى ضبط الأسلحة وإدانة المخالفين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 60,
+      "article_label": "الستون",
+      "article_label_raw": "الستون",
+      "article_heading": "الستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الستون",
+      "text_verbatim": "للوزير تحديد الإدارات والفروع التي يعهد إليها تنفيذ أحكام هذا النظام ومناطق كل منها وصلاحياتها وفق مقتضيات المصلحة العامة.",
+      "text_for_index": "للوزير تحديد الإدارات والفروع التي يعهد إليها تنفيذ أحكام هذا النظام ومناطق كل منها وصلاحياتها وفق مقتضيات المصلحة العامة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-60::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "للوزير تحديد الإدارات والفروع التي يعهد إليها تنفيذ أحكام هذا النظام ومناطق كل منها وصلاحياتها وفق مقتضيات المصلحة العامة.",
+          "text_for_index": "للوزير تحديد الإدارات والفروع التي يعهد إليها تنفيذ أحكام هذا النظام ومناطق كل منها وصلاحياتها وفق مقتضيات المصلحة العامة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 61,
+      "article_label": "الحادية والستون",
+      "article_label_raw": "الحادية والستون",
+      "article_heading": "الحادية والستون",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الحادية والستون",
+      "text_verbatim": "يجوز  للوزير  تفويض بعض الصلاحيات المخولة له بموجب هذا النظام إلى من يراه.",
+      "text_for_index": "يجوز للوزير تفويض بعض الصلاحيات المخولة له بموجب هذا النظام إلى من يراه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-61::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يجوز  للوزير  تفويض بعض الصلاحيات المخولة له بموجب هذا النظام إلى من يراه.",
+          "text_for_index": "يجوز للوزير تفويض بعض الصلاحيات المخولة له بموجب هذا النظام إلى من يراه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 62,
+      "article_label": "الثانية والستون",
+      "article_label_raw": "الثانية والستون",
+      "article_heading": "الثانية والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثانية والستون",
+      "text_verbatim": "يحل هذا النظام محل   نظام الأسلحة والذخائر  ،  الصادر  بالمرسوم الملكي   ذي الرقم (م/8) وتاريخ 19/ 2/ 1402هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "text_for_index": "يحل هذا النظام محل نظام الأسلحة والذخائر ، الصادر بالمرسوم الملكي ذي الرقم (م/8) وتاريخ 19/ 2/ 1402هـ، ويلغي كل ما يتعارض معه من أحكام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-62::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يحل هذا النظام محل   نظام الأسلحة والذخائر  ،  الصادر  بالمرسوم الملكي   ذي الرقم (م/8) وتاريخ 19/ 2/ 1402هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "text_for_index": "يحل هذا النظام محل نظام الأسلحة والذخائر ، الصادر بالمرسوم الملكي ذي الرقم (م/8) وتاريخ 19/ 2/ 1402هـ، ويلغي كل ما يتعارض معه من أحكام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 63,
+      "article_label": "الثالثة والستون",
+      "article_label_raw": "الثالثة والستون",
+      "article_heading": "الثالثة والستون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الأسلحة والذخائر، المادة الثالثة والستون",
+      "text_verbatim": "يعمل بهذا النظام و اللائحة   بعد مائة وثمانين يوما من تاريخ نشره في الجريدة الرسمية، ويصدر   الوزير    اللائحة    لهذا النظام خلال هذه المدة .",
+      "text_for_index": "يعمل بهذا النظام و اللائحة بعد مائة وثمانين يوما من تاريخ نشره في الجريدة الرسمية، ويصدر الوزير اللائحة لهذا النظام خلال هذه المدة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-alaslhh-waldhkhayr::article-63::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بهذا النظام و اللائحة   بعد مائة وثمانين يوما من تاريخ نشره في الجريدة الرسمية، ويصدر   الوزير    اللائحة    لهذا النظام خلال هذه المدة .",
+          "text_for_index": "يعمل بهذا النظام و اللائحة بعد مائة وثمانين يوما من تاريخ نشره في الجريدة الرسمية، ويصدر الوزير اللائحة لهذا النظام خلال هذه المدة .",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

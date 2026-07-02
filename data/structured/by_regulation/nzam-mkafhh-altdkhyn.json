@@ -1,0 +1,895 @@
+{
+  "metadata": {
+    "slug": "nzam-mkafhh-altdkhyn",
+    "title_ar": "نظام مكافحة التدخين",
+    "status": "ساري",
+    "issue_date_hijri": "1436/07/28 هـ الموافق : 17/05/2015 مـ",
+    "issue_date_gregorian": "2015-05-17",
+    "publish_date_hijri": "1436/09/02 هـ الموافق : 19/06/2015 مـ",
+    "publish_date_gregorian": "2015-06-19",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93b6f7f3-1083-46e7-b30e-a9a700f291b0/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-mkafhh-altdkhyn.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-mkafhh-altdkhyn.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1436/09/02 هـ الموافق : 19/06/2015 مـ",
+    "effective_date_gregorian": "2015-06-19",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 20,
+    "paragraph_count": 24,
+    "indexable_paragraph_count": 24,
+    "text_chars": 4386,
+    "verbatim_chars": 4386,
+    "citation_base_ar": "نظام مكافحة التدخين",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/93b6f7f3-1083-46e7-b30e-a9a700f291b0/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-mkafhh-altdkhyn.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-mkafhh-altdkhyn.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى :",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الأولى",
+      "text_verbatim": "يهدف هذا النظام إلى مكافحة التدخين، باتخاذ جميع الإجراءات والخطوات اللازمة على مستوى الدولة والمجتمع والأفراد ؛ سعياً إلى الحد من عادة التدخين بجميع أنواعه عند الأفراد، وفي مراحل العمر المختلفة .",
+      "text_for_index": "يهدف هذا النظام إلى مكافحة التدخين، باتخاذ جميع الإجراءات والخطوات اللازمة على مستوى الدولة والمجتمع والأفراد ؛ سعياً إلى الحد من عادة التدخين بجميع أنواعه عند الأفراد، وفي مراحل العمر المختلفة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط"
+          ],
+          "text_verbatim": "يهدف هذا النظام إلى مكافحة التدخين، باتخاذ جميع الإجراءات والخطوات اللازمة على مستوى الدولة والمجتمع والأفراد ؛ سعياً إلى الحد من عادة التدخين بجميع أنواعه عند الأفراد، وفي مراحل العمر المختلفة .",
+          "text_for_index": "يهدف هذا النظام إلى مكافحة التدخين، باتخاذ جميع الإجراءات والخطوات اللازمة على مستوى الدولة والمجتمع والأفراد ؛ سعياً إلى الحد من عادة التدخين بجميع أنواعه عند الأفراد، وفي مراحل العمر المختلفة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية :",
+      "article_heading": "الثانية",
+      "article_type": "definition",
+      "article_type_label_ar": "تعريف",
+      "legal_function_tags": [
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "تعريف"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الثانية",
+      "text_verbatim": "يقصد بالتدخين تعاطي التبغ ومشتقاته، ويشمل ذلك السجائر والسيجار والجراك والتنباك والمعسل وأي منتج يدخل التبغ في مكوناته، سواء تم ذلك عن طريق السجائر أو السيجار أو الغليون أو النشوق أو الشيشة أو المضغ أو التخزين أو أي طريقة أخرى .",
+      "text_for_index": "يقصد بالتدخين تعاطي التبغ ومشتقاته، ويشمل ذلك السجائر والسيجار والجراك والتنباك والمعسل وأي منتج يدخل التبغ في مكوناته، سواء تم ذلك عن طريق السجائر أو السيجار أو الغليون أو النشوق أو الشيشة أو المضغ أو التخزين أو أي طريقة أخرى .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالتدخين تعاطي التبغ ومشتقاته، ويشمل ذلك السجائر والسيجار والجراك والتنباك والمعسل وأي منتج يدخل التبغ في مكوناته، سواء تم ذلك عن طريق السجائر أو السيجار أو الغليون أو النشوق أو الشيشة أو المضغ أو التخزين أو أي طريقة أخرى .",
+          "text_for_index": "يقصد بالتدخين تعاطي التبغ ومشتقاته، ويشمل ذلك السجائر والسيجار والجراك والتنباك والمعسل وأي منتج يدخل التبغ في مكوناته، سواء تم ذلك عن طريق السجائر أو السيجار أو الغليون أو النشوق أو الشيشة أو المضغ أو التخزين أو أي طريقة أخرى .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة :",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الثالثة",
+      "text_verbatim": "تحظر زراعة أو تصنيع التبغ ومشتقاته في المملكة.",
+      "text_for_index": "تحظر زراعة أو تصنيع التبغ ومشتقاته في المملكة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تحظر زراعة أو تصنيع التبغ ومشتقاته في المملكة.",
+          "text_for_index": "تحظر زراعة أو تصنيع التبغ ومشتقاته في المملكة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة :",
+      "article_heading": "الرابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الرابعة",
+      "text_verbatim": "تزاد الرسوم على التبغ ومشتقاته، بقرار من مجلس الوزراء.",
+      "text_for_index": "تزاد الرسوم على التبغ ومشتقاته، بقرار من مجلس الوزراء.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تزاد الرسوم على التبغ ومشتقاته، بقرار من مجلس الوزراء.",
+          "text_for_index": "تزاد الرسوم على التبغ ومشتقاته، بقرار من مجلس الوزراء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة :",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الخامسة",
+      "text_verbatim": "يجب أن يكون موضحاً على علبة التبغ ومشتقاته البيانات الإيضاحية والتحذيرية التي تحددها اللائحة التنفيذية.",
+      "text_for_index": "يجب أن يكون موضحاً على علبة التبغ ومشتقاته البيانات الإيضاحية والتحذيرية التي تحددها اللائحة التنفيذية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "يجب أن يكون موضحاً على علبة التبغ ومشتقاته البيانات الإيضاحية والتحذيرية التي تحددها اللائحة التنفيذية.",
+          "text_for_index": "يجب أن يكون موضحاً على علبة التبغ ومشتقاته البيانات الإيضاحية والتحذيرية التي تحددها اللائحة التنفيذية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة :",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "commercial_fraud",
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "غش تجاري",
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة السادسة",
+      "text_verbatim": "لا يفسح للتبغ ومشتقاته بشكل نهائي إلا بعد تحليل عينات منه في المختبرات التي تحددها اللائحة التنفيذية، للتأكد من مطابقتها للمواصفات التي تعدها الجهة المختصة بالتنسيق مع وزارة الصحة .",
+      "text_for_index": "لا يفسح للتبغ ومشتقاته بشكل نهائي إلا بعد تحليل عينات منه في المختبرات التي تحددها اللائحة التنفيذية، للتأكد من مطابقتها للمواصفات التي تعدها الجهة المختصة بالتنسيق مع وزارة الصحة .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "استثناء"
+          ],
+          "text_verbatim": "لا يفسح للتبغ ومشتقاته بشكل نهائي إلا بعد تحليل عينات منه في المختبرات التي تحددها اللائحة التنفيذية، للتأكد من مطابقتها للمواصفات التي تعدها الجهة المختصة بالتنسيق مع وزارة الصحة .",
+          "text_for_index": "لا يفسح للتبغ ومشتقاته بشكل نهائي إلا بعد تحليل عينات منه في المختبرات التي تحددها اللائحة التنفيذية، للتأكد من مطابقتها للمواصفات التي تعدها الجهة المختصة بالتنسيق مع وزارة الصحة .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة :",
+      "article_heading": "السابعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "enforcement",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تنفيذ",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة السابعة",
+      "text_verbatim": "يمنع التدخين في الأماكن الآتية:\n\n1 - الأماكن والساحات المحيطة بالمساجد.\n2 - الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة.\n3 - المؤسسات التعليمية والصحية والرياضية والثقافية، والاجتماعية والخيرية.\n4 - الأماكن المخصصة للعمل في الشركات والمؤسسات والهيئات والمصانع والبنوك وما في حكمها.\n5 - وسائل النقل العامة برية أو جوية أو بحرية، وفق ما تحدده اللائحة التنفيذية.\n6 - أماكن تصنيع الطعام والمواد الغذائية والمشروبات وتجهيزها وتعبئتها.\n7 - مواقع إنتاج البترول ومشتقاته ونقله وتوزيعه وتكريره ومحطات توزيع الوقود والغاز وبيعهما.\n8 - المستودعات والمصاعد ودورات المياه.\n9 - الأماكن العامة التي لم ترد في الفقرات السابقة، على أنه في حالة إيجاد مواقع للمدخنين في الأماكن التي تصنف ضمن هذه الفقرة، فيجب على الشخص المسؤول عنها مراعاة أن تكون معزولة وفي أضيق الحدود، ولا يدخلها من يقل عمره عن ثمانية عشر عاماً. وتحدد اللائحة التنفيذية معايير تطبيق هذه الفقرة.",
+      "text_for_index": "يمنع التدخين في الأماكن الآتية:\n\n1 - الأماكن والساحات المحيطة بالمساجد.\n2 - الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة.\n3 - المؤسسات التعليمية والصحية والرياضية والثقافية، والاجتماعية والخيرية.\n4 - الأماكن المخصصة للعمل في الشركات والمؤسسات والهيئات والمصانع والبنوك وما في حكمها.\n5 - وسائل النقل العامة برية أو جوية أو بحرية، وفق ما تحدده اللائحة التنفيذية.\n6 - أماكن تصنيع الطعام والمواد الغذائية والمشروبات وتجهيزها وتعبئتها.\n7 - مواقع إنتاج البترول ومشتقاته ونقله وتوزيعه وتكريره ومحطات توزيع الوقود والغاز وبيعهما.\n8 - المستودعات والمصاعد ودورات المياه.\n9 - الأماكن العامة التي لم ترد في الفقرات السابقة، على أنه في حالة إيجاد مواقع للمدخنين في الأماكن التي تصنف ضمن هذه الفقرة، فيجب على الشخص المسؤول عنها مراعاة أن تكون معزولة وفي أضيق الحدود، ولا يدخلها من يقل عمره عن ثمانية عشر عاماً. وتحدد اللائحة التنفيذية معايير تطبيق هذه الفقرة.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يمنع التدخين في الأماكن الآتية:",
+          "text_for_index": "يمنع التدخين في الأماكن الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "1 - الأماكن والساحات المحيطة بالمساجد.\n2 - الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة.\n3 - المؤسسات التعليمية والصحية والرياضية والثقافية، والاجتماعية والخيرية.\n4 - الأماكن المخصصة للعمل في الشركات والمؤسسات والهيئات والمصانع والبنوك وما في حكمها.\n5 - وسائل النقل العامة برية أو جوية أو بحرية، وفق ما تحدده اللائحة التنفيذية.\n6 - أماكن تصنيع الطعام والمواد الغذائية والمشروبات وتجهيزها وتعبئتها.\n7 - مواقع إنتاج البترول ومشتقاته ونقله وتوزيعه وتكريره ومحطات توزيع الوقود والغاز وبيعهما.\n8 - المستودعات والمصاعد ودورات المياه.",
+          "text_for_index": "1 - الأماكن والساحات المحيطة بالمساجد.\n2 - الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة.\n3 - المؤسسات التعليمية والصحية والرياضية والثقافية، والاجتماعية والخيرية.\n4 - الأماكن المخصصة للعمل في الشركات والمؤسسات والهيئات والمصانع والبنوك وما في حكمها.\n5 - وسائل النقل العامة برية أو جوية أو بحرية، وفق ما تحدده اللائحة التنفيذية.\n6 - أماكن تصنيع الطعام والمواد الغذائية والمشروبات وتجهيزها وتعبئتها.\n7 - مواقع إنتاج البترول ومشتقاته ونقله وتوزيعه وتكريره ومحطات توزيع الوقود والغاز وبيعهما.\n8 - المستودعات والمصاعد ودورات المياه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-7::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "9 - الأماكن العامة التي لم ترد في الفقرات السابقة، على أنه في حالة إيجاد مواقع للمدخنين في الأماكن التي تصنف ضمن هذه الفقرة، فيجب على الشخص المسؤول عنها مراعاة أن تكون معزولة وفي أضيق الحدود، ولا يدخلها من يقل عمره عن ثمانية عشر عاماً. وتحدد اللائحة التنفيذية معايير تطبيق هذه الفقرة.",
+          "text_for_index": "9 - الأماكن العامة التي لم ترد في الفقرات السابقة، على أنه في حالة إيجاد مواقع للمدخنين في الأماكن التي تصنف ضمن هذه الفقرة، فيجب على الشخص المسؤول عنها مراعاة أن تكون معزولة وفي أضيق الحدود، ولا يدخلها من يقل عمره عن ثمانية عشر عاماً. وتحدد اللائحة التنفيذية معايير تطبيق هذه الفقرة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة :",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الثامنة",
+      "text_verbatim": "للحد من بيع التبغ ومشتقاته يراعى ما يأتي :\n\n1 - ألَّا يباع إلا داخل عبوة مغلقة تحتوي على العدد أو الكمية التي تحددها اللائحة التنفيذية.\n2 - ألَّا يباع بآلات البيع الذاتي.\n3 - ألا يباع داخل وسائل النقل العامة.\n4 - ألَّا يباع لمن تقل أعمارهم عن ثمانية عشر عاماً.\n5 - ألا تسجل براءات الاختراع المتعلقة به.\n6 - ألَّا يخفض سعره، وألَّا يقدم على شكل عينات مجانية أو هدايا.\n7 - عدم استيراد أو بيع أو تقديم منتجات تحمل دعايةً للتبغ ومشتقاته.\n8 - وضع ملصق في مكان البيع يحوي تحذيراً صحياً بمضار التدخين.",
+      "text_for_index": "للحد من بيع التبغ ومشتقاته يراعى ما يأتي :\n\n1 - ألَّا يباع إلا داخل عبوة مغلقة تحتوي على العدد أو الكمية التي تحددها اللائحة التنفيذية.\n2 - ألَّا يباع بآلات البيع الذاتي.\n3 - ألا يباع داخل وسائل النقل العامة.\n4 - ألَّا يباع لمن تقل أعمارهم عن ثمانية عشر عاماً.\n5 - ألا تسجل براءات الاختراع المتعلقة به.\n6 - ألَّا يخفض سعره، وألَّا يقدم على شكل عينات مجانية أو هدايا.\n7 - عدم استيراد أو بيع أو تقديم منتجات تحمل دعايةً للتبغ ومشتقاته.\n8 - وضع ملصق في مكان البيع يحوي تحذيراً صحياً بمضار التدخين.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "للحد من بيع التبغ ومشتقاته يراعى ما يأتي :",
+          "text_for_index": "للحد من بيع التبغ ومشتقاته يراعى ما يأتي :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-8::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "1 - ألَّا يباع إلا داخل عبوة مغلقة تحتوي على العدد أو الكمية التي تحددها اللائحة التنفيذية.\n2 - ألَّا يباع بآلات البيع الذاتي.\n3 - ألا يباع داخل وسائل النقل العامة.\n4 - ألَّا يباع لمن تقل أعمارهم عن ثمانية عشر عاماً.\n5 - ألا تسجل براءات الاختراع المتعلقة به.\n6 - ألَّا يخفض سعره، وألَّا يقدم على شكل عينات مجانية أو هدايا.\n7 - عدم استيراد أو بيع أو تقديم منتجات تحمل دعايةً للتبغ ومشتقاته.\n8 - وضع ملصق في مكان البيع يحوي تحذيراً صحياً بمضار التدخين.",
+          "text_for_index": "1 - ألَّا يباع إلا داخل عبوة مغلقة تحتوي على العدد أو الكمية التي تحددها اللائحة التنفيذية.\n2 - ألَّا يباع بآلات البيع الذاتي.\n3 - ألا يباع داخل وسائل النقل العامة.\n4 - ألَّا يباع لمن تقل أعمارهم عن ثمانية عشر عاماً.\n5 - ألا تسجل براءات الاختراع المتعلقة به.\n6 - ألَّا يخفض سعره، وألَّا يقدم على شكل عينات مجانية أو هدايا.\n7 - عدم استيراد أو بيع أو تقديم منتجات تحمل دعايةً للتبغ ومشتقاته.\n8 - وضع ملصق في مكان البيع يحوي تحذيراً صحياً بمضار التدخين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة :",
+      "article_heading": "التاسعة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة التاسعة",
+      "text_verbatim": "يمنع استيراد وبيع ألعاب الأطفال والحلوى المصنعة على هيئة سجائر أو أي أداة من وسائل التدخين .",
+      "text_for_index": "يمنع استيراد وبيع ألعاب الأطفال والحلوى المصنعة على هيئة سجائر أو أي أداة من وسائل التدخين .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يمنع استيراد وبيع ألعاب الأطفال والحلوى المصنعة على هيئة سجائر أو أي أداة من وسائل التدخين .",
+          "text_for_index": "يمنع استيراد وبيع ألعاب الأطفال والحلوى المصنعة على هيئة سجائر أو أي أداة من وسائل التدخين .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة :",
+      "article_heading": "العاشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة العاشرة",
+      "text_verbatim": "1 - يمنع الإعلان والترويج للتبغ ومشتقاته بأي وسيلة من وسائل الإعلان أو الإعلام السعودية.\n\n2 - تحذف مشاهد تعاطي التبغ ومشتقاته من الأفلام والمسلسلات والبرامج والمطبوعات التي تعرض في السعودية، وكل ما يشجع على التدخين.",
+      "text_for_index": "1 - يمنع الإعلان والترويج للتبغ ومشتقاته بأي وسيلة من وسائل الإعلان أو الإعلام السعودية.\n\n2 - تحذف مشاهد تعاطي التبغ ومشتقاته من الأفلام والمسلسلات والبرامج والمطبوعات التي تعرض في السعودية، وكل ما يشجع على التدخين.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "1 - يمنع الإعلان والترويج للتبغ ومشتقاته بأي وسيلة من وسائل الإعلان أو الإعلام السعودية.",
+          "text_for_index": "1 - يمنع الإعلان والترويج للتبغ ومشتقاته بأي وسيلة من وسائل الإعلان أو الإعلام السعودية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "2 - تحذف مشاهد تعاطي التبغ ومشتقاته من الأفلام والمسلسلات والبرامج والمطبوعات التي تعرض في السعودية، وكل ما يشجع على التدخين.",
+          "text_for_index": "2 - تحذف مشاهد تعاطي التبغ ومشتقاته من الأفلام والمسلسلات والبرامج والمطبوعات التي تعرض في السعودية، وكل ما يشجع على التدخين.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة :",
+      "article_heading": "الحادية عشرة",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "التزام"
+      ],
+      "topic_tags": [
+        "liability",
+        "education"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الحادية عشرة",
+      "text_verbatim": "على كل الجهات الحكومية المسؤولة عن الشؤون الإسلامية، والتعليم، والإعلام، والرياضة، والصحة، والشؤون الاجتماعية، عمل برامج توعية لمكافحة التدخين بشكل مستمر وبطريقة فعالة ومبتكرة، وحث القطاع الأهلي للمشاركة في هذه البرامج.",
+      "text_for_index": "على كل الجهات الحكومية المسؤولة عن الشؤون الإسلامية، والتعليم، والإعلام، والرياضة، والصحة، والشؤون الاجتماعية، عمل برامج توعية لمكافحة التدخين بشكل مستمر وبطريقة فعالة ومبتكرة، وحث القطاع الأهلي للمشاركة في هذه البرامج.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "التزام"
+          ],
+          "text_verbatim": "على كل الجهات الحكومية المسؤولة عن الشؤون الإسلامية، والتعليم، والإعلام، والرياضة، والصحة، والشؤون الاجتماعية، عمل برامج توعية لمكافحة التدخين بشكل مستمر وبطريقة فعالة ومبتكرة، وحث القطاع الأهلي للمشاركة في هذه البرامج.",
+          "text_for_index": "على كل الجهات الحكومية المسؤولة عن الشؤون الإسلامية، والتعليم، والإعلام، والرياضة، والصحة، والشؤون الاجتماعية، عمل برامج توعية لمكافحة التدخين بشكل مستمر وبطريقة فعالة ومبتكرة، وحث القطاع الأهلي للمشاركة في هذه البرامج.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة :",
+      "article_heading": "الثانية عشرة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition"
+      ],
+      "legal_function_tags_ar": [
+        "منع"
+      ],
+      "topic_tags": [
+        "liability",
+        "education",
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تعليم",
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الثانية عشرة",
+      "text_verbatim": "تتولى الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة، والمؤسسات التعليمية والصحية والرياضية والثقافية والاجتماعية والخيرية، ومؤسسات ومنشآت القطاع الخاص وفروعها؛ مسؤولية ضبط وتحرير المخالفات وإيقاع الغرامات.",
+      "text_for_index": "تتولى الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة، والمؤسسات التعليمية والصحية والرياضية والثقافية والاجتماعية والخيرية، ومؤسسات ومنشآت القطاع الخاص وفروعها؛ مسؤولية ضبط وتحرير المخالفات وإيقاع الغرامات.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تتولى الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة، والمؤسسات التعليمية والصحية والرياضية والثقافية والاجتماعية والخيرية، ومؤسسات ومنشآت القطاع الخاص وفروعها؛ مسؤولية ضبط وتحرير المخالفات وإيقاع الغرامات.",
+          "text_for_index": "تتولى الوزارات والمصالح الحكومية والمؤسسات والهيئات العامة وفروعها، والجهات العامة الأخرى في الدولة، والمؤسسات التعليمية والصحية والرياضية والثقافية والاجتماعية والخيرية، ومؤسسات ومنشآت القطاع الخاص وفروعها؛ مسؤولية ضبط وتحرير المخالفات وإيقاع الغرامات.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة :",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الثالثة عشرة",
+      "text_verbatim": "يعاقب كل مخالف لأحكام المادة (الثالثة) من هذا النظام بغرامة مالية مقدارها (20.000) عشرون ألف ريال مع إزالة المخالفة على حسابه.",
+      "text_for_index": "يعاقب كل مخالف لأحكام المادة (الثالثة) من هذا النظام بغرامة مالية مقدارها (20.000) عشرون ألف ريال مع إزالة المخالفة على حسابه.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب كل مخالف لأحكام المادة (الثالثة) من هذا النظام بغرامة مالية مقدارها (20.000) عشرون ألف ريال مع إزالة المخالفة على حسابه.",
+          "text_for_index": "يعاقب كل مخالف لأحكام المادة (الثالثة) من هذا النظام بغرامة مالية مقدارها (20.000) عشرون ألف ريال مع إزالة المخالفة على حسابه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة :",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الرابعة عشرة",
+      "text_verbatim": "يعاقب كل من يتعاطى التدخين مخالفاً أحكام المادة (السابعة) من هذا النظام بغرامة مالية مقدارها (200) مائتا ريال.",
+      "text_for_index": "يعاقب كل من يتعاطى التدخين مخالفاً أحكام المادة (السابعة) من هذا النظام بغرامة مالية مقدارها (200) مائتا ريال.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "يعاقب كل من يتعاطى التدخين مخالفاً أحكام المادة (السابعة) من هذا النظام بغرامة مالية مقدارها (200) مائتا ريال.",
+          "text_for_index": "يعاقب كل من يتعاطى التدخين مخالفاً أحكام المادة (السابعة) من هذا النظام بغرامة مالية مقدارها (200) مائتا ريال.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة :",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الخامسة عشرة",
+      "text_verbatim": "فيما لم يرد في شأنه نص خاص بالعقوبة، يعاقب كل من يرتكب أي مخالفة لأي حكم من أحكام هذا النظام بغرامة لا تتجاوز (5000) خمسة آلاف ريال، وتضاعف العقوبة في حالة العَوْد.",
+      "text_for_index": "فيما لم يرد في شأنه نص خاص بالعقوبة، يعاقب كل من يرتكب أي مخالفة لأي حكم من أحكام هذا النظام بغرامة لا تتجاوز (5000) خمسة آلاف ريال، وتضاعف العقوبة في حالة العَوْد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "فيما لم يرد في شأنه نص خاص بالعقوبة، يعاقب كل من يرتكب أي مخالفة لأي حكم من أحكام هذا النظام بغرامة لا تتجاوز (5000) خمسة آلاف ريال، وتضاعف العقوبة في حالة العَوْد.",
+          "text_for_index": "فيما لم يرد في شأنه نص خاص بالعقوبة، يعاقب كل من يرتكب أي مخالفة لأي حكم من أحكام هذا النظام بغرامة لا تتجاوز (5000) خمسة آلاف ريال، وتضاعف العقوبة في حالة العَوْد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة :",
+      "article_heading": "السادسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة السادسة عشرة",
+      "text_verbatim": "يجوز لمن صدرت ضده عقوبة من العقوبات المنصوص عليها في هذا النظام، التظلم أمام الجهة المختصة، خلال المدة النظامية المقررة.",
+      "text_for_index": "يجوز لمن صدرت ضده عقوبة من العقوبات المنصوص عليها في هذا النظام، التظلم أمام الجهة المختصة، خلال المدة النظامية المقررة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يجوز لمن صدرت ضده عقوبة من العقوبات المنصوص عليها في هذا النظام، التظلم أمام الجهة المختصة، خلال المدة النظامية المقررة.",
+          "text_for_index": "يجوز لمن صدرت ضده عقوبة من العقوبات المنصوص عليها في هذا النظام، التظلم أمام الجهة المختصة، خلال المدة النظامية المقررة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة :",
+      "article_heading": "السابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة السابعة عشرة",
+      "text_verbatim": "لا تخل العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر .",
+      "text_for_index": "لا تخل العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر .",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "لا تخل العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر .",
+          "text_for_index": "لا تخل العقوبات المنصوص عليها في هذا النظام بأي عقوبة أشد ينص عليها نظام آخر .",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة :",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [
+        "education"
+      ],
+      "topic_tags_ar": [
+        "تعليم"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة الثامنة عشرة",
+      "text_verbatim": "تخصص جميع الغرامات المحصلة بموجب أحكام هذا النظام لدعم جهود التوعية وتشجيع الجمعيات الأهلية على مكافحة التدخين ونشرها على مستوى المملكة.\n\tوينشأ لهذا الغرض حساب بنكي يصرف منه بحسب التعليمات التي يصدرها وزير الصحة.",
+      "text_for_index": "تخصص جميع الغرامات المحصلة بموجب أحكام هذا النظام لدعم جهود التوعية وتشجيع الجمعيات الأهلية على مكافحة التدخين ونشرها على مستوى المملكة.\n وينشأ لهذا الغرض حساب بنكي يصرف منه بحسب التعليمات التي يصدرها وزير الصحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تخصص جميع الغرامات المحصلة بموجب أحكام هذا النظام لدعم جهود التوعية وتشجيع الجمعيات الأهلية على مكافحة التدخين ونشرها على مستوى المملكة.\n\tوينشأ لهذا الغرض حساب بنكي يصرف منه بحسب التعليمات التي يصدرها وزير الصحة.",
+          "text_for_index": "تخصص جميع الغرامات المحصلة بموجب أحكام هذا النظام لدعم جهود التوعية وتشجيع الجمعيات الأهلية على مكافحة التدخين ونشرها على مستوى المملكة.\n وينشأ لهذا الغرض حساب بنكي يصرف منه بحسب التعليمات التي يصدرها وزير الصحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة :",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة التاسعة عشرة",
+      "text_verbatim": "يصدر وزير الصحة اللائحة التنفيذية لهذا النظام بالتنسيق مع الجهات المعنية، خلال ستة أشهر من تاريخ نشره.",
+      "text_for_index": "يصدر وزير الصحة اللائحة التنفيذية لهذا النظام بالتنسيق مع الجهات المعنية، خلال ستة أشهر من تاريخ نشره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر وزير الصحة اللائحة التنفيذية لهذا النظام بالتنسيق مع الجهات المعنية، خلال ستة أشهر من تاريخ نشره.",
+          "text_for_index": "يصدر وزير الصحة اللائحة التنفيذية لهذا النظام بالتنسيق مع الجهات المعنية، خلال ستة أشهر من تاريخ نشره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون :",
+      "article_heading": "العشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام مكافحة التدخين، المادة العشرون",
+      "text_verbatim": "يعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-mkafhh-altdkhyn::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

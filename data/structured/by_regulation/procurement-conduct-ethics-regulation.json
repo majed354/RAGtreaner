@@ -1,0 +1,790 @@
+{
+  "metadata": {
+    "slug": "procurement-conduct-ethics-regulation",
+    "title_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية",
+    "status": "ساري",
+    "issue_date_hijri": "1441/08/21 هـ الموافق : 14/04/2020 مـ",
+    "issue_date_gregorian": "2020-04-14",
+    "publish_date_hijri": "1441/09/01 هـ الموافق : 24/04/2020 مـ",
+    "publish_date_gregorian": "2020-04-24",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/262382ab-7ff9-4e3a-9291-acbb01406f5e/1"
+    ],
+    "organized_source": "documents/saudi_regulations/onboarded/procurement-conduct-ethics-regulation.txt",
+    "knowledge_file": "documents/knowledge/saudi_regulations/procurement-conduct-ethics-regulation.txt",
+    "document_scope": "supplementary_regulation_selected",
+    "related_regulations": [
+      "government-tenders-and-procurement-law",
+      "government-procurement-implementing-regulation",
+      "procurement-conflict-of-interest-regulation"
+    ],
+    "catalog_source": "custom_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1441/09/01 هـ الموافق : 24/04/2020 مـ",
+    "effective_date_gregorian": "2020-04-24",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 8,
+    "paragraph_count": 33,
+    "indexable_paragraph_count": 33,
+    "text_chars": 3957,
+    "verbatim_chars": 3958,
+    "citation_base_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/262382ab-7ff9-4e3a-9291-acbb01406f5e/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/procurement-conduct-ethics-regulation.html",
+    "verbatim_file": "data/structured/verbatim_texts/procurement-conduct-ethics-regulation.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "definition"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "تعريف"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "procurement_ethics"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "نزاهة المنافسات والمشتريات"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة الأولى",
+      "text_verbatim": "يقصد بالعبارات والكلمات الآتية -أينما وردت في هذه اللائحة- المعاني الموضحة أمام كل منها:\n\nالنظام: نظام المنافسات والمشتريات الحكومية.\n\nاللائحة التنفيذية: اللائحة التنفيذية للنظام.\n\nاللائحة: لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق النظام واللائحة التنفيذية.\n\nالجهة الحكومية: الوزارات والأجهزة الحكومية والهيئات والمصالح والمؤسسات العامة والأجهزة ذات الشخصية المعنوية العامة المستقلة.\n\nالموظف: كل من يعمل في الجهة الحكومية أو كان متعاقداً أو متعاوناً معها، ويشارك في أي من إجراءات المنافسات والمشتريات الحكومية أو له تأثير، مباشر أو غير مباشر، في إجراءات المنافسات والمشتريات الحكومية في أي مرحلة من مراحلها.\n\nالمتعامل: كل مقاول أو مورد أو متعهد أو مقدم خدمات أو مقاول من الباطن؛ متعاقد أو متقدم للتعاقد مع الجهة الحكومية أيًّا كان موضوع العقد، سواء أكان ذلك باسمه أو كان وكيلاً أو ممثلاً للغير بشكل مباشر أو غير مباشر.\n\nالسلوكيات والأخلاقيات: مجموعة المبادئ والقيم والواجبات التي تهدف إلى ضمان النزاهة والشفافية والالتزام وضبط سلوك الموظف في جميع ما يتعلق بأعمال وإجراءت المنافسات والمشتريات الحكومية.",
+      "text_for_index": "يقصد بالعبارات والكلمات الآتية -أينما وردت في هذه اللائحة- المعاني الموضحة أمام كل منها:\n\nالنظام: نظام المنافسات والمشتريات الحكومية.\n\nاللائحة التنفيذية: اللائحة التنفيذية للنظام.\n\nاللائحة: لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق النظام واللائحة التنفيذية.\n\nالجهة الحكومية: الوزارات والأجهزة الحكومية والهيئات والمصالح والمؤسسات العامة والأجهزة ذات الشخصية المعنوية العامة المستقلة.\n\nالموظف: كل من يعمل في الجهة الحكومية أو كان متعاقداً أو متعاوناً معها، ويشارك في أي من إجراءات المنافسات والمشتريات الحكومية أو له تأثير، مباشر أو غير مباشر، في إجراءات المنافسات والمشتريات الحكومية في أي مرحلة من مراحلها.\n\nالمتعامل: كل مقاول أو مورد أو متعهد أو مقدم خدمات أو مقاول من الباطن؛ متعاقد أو متقدم للتعاقد مع الجهة الحكومية أيًّا كان موضوع العقد، سواء أكان ذلك باسمه أو كان وكيلاً أو ممثلاً للغير بشكل مباشر أو غير مباشر.\n\nالسلوكيات والأخلاقيات: مجموعة المبادئ والقيم والواجبات التي تهدف إلى ضمان النزاهة والشفافية والالتزام وضبط سلوك الموظف في جميع ما يتعلق بأعمال وإجراءت المنافسات والمشتريات الحكومية.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالعبارات والكلمات الآتية -أينما وردت في هذه اللائحة- المعاني الموضحة أمام كل منها:",
+          "text_for_index": "يقصد بالعبارات والكلمات الآتية -أينما وردت في هذه اللائحة- المعاني الموضحة أمام كل منها:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "النظام: نظام المنافسات والمشتريات الحكومية.",
+          "text_for_index": "النظام: نظام المنافسات والمشتريات الحكومية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة التنفيذية: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة التنفيذية: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "اللائحة: لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق النظام واللائحة التنفيذية.",
+          "text_for_index": "اللائحة: لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق النظام واللائحة التنفيذية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الجهة الحكومية: الوزارات والأجهزة الحكومية والهيئات والمصالح والمؤسسات العامة والأجهزة ذات الشخصية المعنوية العامة المستقلة.",
+          "text_for_index": "الجهة الحكومية: الوزارات والأجهزة الحكومية والهيئات والمصالح والمؤسسات العامة والأجهزة ذات الشخصية المعنوية العامة المستقلة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "الموظف: كل من يعمل في الجهة الحكومية أو كان متعاقداً أو متعاوناً معها، ويشارك في أي من إجراءات المنافسات والمشتريات الحكومية أو له تأثير، مباشر أو غير مباشر، في إجراءات المنافسات والمشتريات الحكومية في أي مرحلة من مراحلها.",
+          "text_for_index": "الموظف: كل من يعمل في الجهة الحكومية أو كان متعاقداً أو متعاوناً معها، ويشارك في أي من إجراءات المنافسات والمشتريات الحكومية أو له تأثير، مباشر أو غير مباشر، في إجراءات المنافسات والمشتريات الحكومية في أي مرحلة من مراحلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "المتعامل: كل مقاول أو مورد أو متعهد أو مقدم خدمات أو مقاول من الباطن؛ متعاقد أو متقدم للتعاقد مع الجهة الحكومية أيًّا كان موضوع العقد، سواء أكان ذلك باسمه أو كان وكيلاً أو ممثلاً للغير بشكل مباشر أو غير مباشر.",
+          "text_for_index": "المتعامل: كل مقاول أو مورد أو متعهد أو مقدم خدمات أو مقاول من الباطن؛ متعاقد أو متقدم للتعاقد مع الجهة الحكومية أيًّا كان موضوع العقد، سواء أكان ذلك باسمه أو كان وكيلاً أو ممثلاً للغير بشكل مباشر أو غير مباشر.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "السلوكيات والأخلاقيات: مجموعة المبادئ والقيم والواجبات التي تهدف إلى ضمان النزاهة والشفافية والالتزام وضبط سلوك الموظف في جميع ما يتعلق بأعمال وإجراءت المنافسات والمشتريات الحكومية.",
+          "text_for_index": "السلوكيات والأخلاقيات: مجموعة المبادئ والقيم والواجبات التي تهدف إلى ضمان النزاهة والشفافية والالتزام وضبط سلوك الموظف في جميع ما يتعلق بأعمال وإجراءت المنافسات والمشتريات الحكومية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "enforcement",
+        "procurement_ethics"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "تنفيذ",
+        "نزاهة المنافسات والمشتريات"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة الثانية",
+      "text_verbatim": "تهدف اللائحة إلى:\n\n\t• ترسيخ مبادئ الانضباط الوظيفي للموظف في التعامل والتصرف بمهنية ونزاهة وموضوعية في جميع مراحل تطبيق النظام واللائحة التنفيذية.\n\n\t• تحقيق الشفافية والنزاهة والموضوعية والحياد في تأدية الواجبات والمسؤوليات الوظيفية.\n\n\t• وضع القواعد اللازمة لضمان تنفيذ أعمال المنافسات والمشتريات الحكومية بعدالة وجودة وكفاية عالية.",
+      "text_for_index": "تهدف اللائحة إلى:\n\n • ترسيخ مبادئ الانضباط الوظيفي للموظف في التعامل والتصرف بمهنية ونزاهة وموضوعية في جميع مراحل تطبيق النظام واللائحة التنفيذية.\n\n • تحقيق الشفافية والنزاهة والموضوعية والحياد في تأدية الواجبات والمسؤوليات الوظيفية.\n\n • وضع القواعد اللازمة لضمان تنفيذ أعمال المنافسات والمشتريات الحكومية بعدالة وجودة وكفاية عالية.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "تهدف اللائحة إلى:",
+          "text_for_index": "تهدف اللائحة إلى:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-2::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "إجراء"
+          ],
+          "text_verbatim": "• ترسيخ مبادئ الانضباط الوظيفي للموظف في التعامل والتصرف بمهنية ونزاهة وموضوعية في جميع مراحل تطبيق النظام واللائحة التنفيذية.",
+          "text_for_index": "• ترسيخ مبادئ الانضباط الوظيفي للموظف في التعامل والتصرف بمهنية ونزاهة وموضوعية في جميع مراحل تطبيق النظام واللائحة التنفيذية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-2::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "• تحقيق الشفافية والنزاهة والموضوعية والحياد في تأدية الواجبات والمسؤوليات الوظيفية.",
+          "text_for_index": "• تحقيق الشفافية والنزاهة والموضوعية والحياد في تأدية الواجبات والمسؤوليات الوظيفية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-2::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "remedy",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "إجراء"
+          ],
+          "text_verbatim": "• وضع القواعد اللازمة لضمان تنفيذ أعمال المنافسات والمشتريات الحكومية بعدالة وجودة وكفاية عالية.",
+          "text_for_index": "• وضع القواعد اللازمة لضمان تنفيذ أعمال المنافسات والمشتريات الحكومية بعدالة وجودة وكفاية عالية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "التزام"
+      ],
+      "topic_tags": [
+        "procurement_ethics"
+      ],
+      "topic_tags_ar": [
+        "نزاهة المنافسات والمشتريات"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة الثالثة",
+      "text_verbatim": "• تسري أحكام اللائحة على كل من له علاقة مباشرة أو غير مباشرة بالمنافسات والمشتريات الحكومية من الموظفين.\n\n\t• تعد اللائحة جزءًا لا يتجزأ من العقود والقرارات التي تربط الجهة الحكومية بالموظف، سواء أكانت عقود عمل أو قرارات تعيين أو مستندات نظامية ذات علاقة.",
+      "text_for_index": "• تسري أحكام اللائحة على كل من له علاقة مباشرة أو غير مباشرة بالمنافسات والمشتريات الحكومية من الموظفين.\n\n • تعد اللائحة جزءًا لا يتجزأ من العقود والقرارات التي تربط الجهة الحكومية بالموظف، سواء أكانت عقود عمل أو قرارات تعيين أو مستندات نظامية ذات علاقة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "التزام"
+          ],
+          "text_verbatim": "• تسري أحكام اللائحة على كل من له علاقة مباشرة أو غير مباشرة بالمنافسات والمشتريات الحكومية من الموظفين.",
+          "text_for_index": "• تسري أحكام اللائحة على كل من له علاقة مباشرة أو غير مباشرة بالمنافسات والمشتريات الحكومية من الموظفين.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تعد اللائحة جزءًا لا يتجزأ من العقود والقرارات التي تربط الجهة الحكومية بالموظف، سواء أكانت عقود عمل أو قرارات تعيين أو مستندات نظامية ذات علاقة.",
+          "text_for_index": "• تعد اللائحة جزءًا لا يتجزأ من العقود والقرارات التي تربط الجهة الحكومية بالموظف، سواء أكانت عقود عمل أو قرارات تعيين أو مستندات نظامية ذات علاقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor",
+        "enforcement",
+        "procurement_ethics"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل",
+        "تنفيذ",
+        "نزاهة المنافسات والمشتريات"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة الرابعة",
+      "text_verbatim": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحه التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة والأنظمة ذات العلاقة، يجب على الموظف التقيد بما يأتي:\n\n\t•  أداء عمله في حدود الصلاحيات المخولة له نظاماً، وتوخي المصلحة العامة دون غيرها.\n\n\t• الالتزام بمبادئ الشفافية والمساواة والعدالة مع المتعاملين في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية.\n\n\t• التحلي بالأمانة والأخلاق الحميدة وأداء واجباته ومسؤولياته وفق أعلى معايير النزاهة والحياد والموضوعية.\n\n\t• الالتزام التام بأحكام النظام واللائحة التنفيذية والأنظمة ذات العلاقة والعقود والتأكد من تطبيقها بكفاية وفاعلية في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية بما يحقق أفضل عائد للمال العام.",
+      "text_for_index": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحه التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة والأنظمة ذات العلاقة، يجب على الموظف التقيد بما يأتي:\n\n • أداء عمله في حدود الصلاحيات المخولة له نظاماً، وتوخي المصلحة العامة دون غيرها.\n\n • الالتزام بمبادئ الشفافية والمساواة والعدالة مع المتعاملين في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية.\n\n • التحلي بالأمانة والأخلاق الحميدة وأداء واجباته ومسؤولياته وفق أعلى معايير النزاهة والحياد والموضوعية.\n\n • الالتزام التام بأحكام النظام واللائحة التنفيذية والأنظمة ذات العلاقة والعقود والتأكد من تطبيقها بكفاية وفاعلية في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية بما يحقق أفضل عائد للمال العام.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحه التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة والأنظمة ذات العلاقة، يجب على الموظف التقيد بما يأتي:",
+          "text_for_index": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحه التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة والأنظمة ذات العلاقة، يجب على الموظف التقيد بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "•  أداء عمله في حدود الصلاحيات المخولة له نظاماً، وتوخي المصلحة العامة دون غيرها.",
+          "text_for_index": "• أداء عمله في حدود الصلاحيات المخولة له نظاماً، وتوخي المصلحة العامة دون غيرها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-4::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• الالتزام بمبادئ الشفافية والمساواة والعدالة مع المتعاملين في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية.",
+          "text_for_index": "• الالتزام بمبادئ الشفافية والمساواة والعدالة مع المتعاملين في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-4::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• التحلي بالأمانة والأخلاق الحميدة وأداء واجباته ومسؤولياته وفق أعلى معايير النزاهة والحياد والموضوعية.",
+          "text_for_index": "• التحلي بالأمانة والأخلاق الحميدة وأداء واجباته ومسؤولياته وفق أعلى معايير النزاهة والحياد والموضوعية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-4::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• الالتزام التام بأحكام النظام واللائحة التنفيذية والأنظمة ذات العلاقة والعقود والتأكد من تطبيقها بكفاية وفاعلية في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية بما يحقق أفضل عائد للمال العام.",
+          "text_for_index": "• الالتزام التام بأحكام النظام واللائحة التنفيذية والأنظمة ذات العلاقة والعقود والتأكد من تطبيقها بكفاية وفاعلية في جميع إجراءات ومراحل المنافسات والمشتريات الحكومية بما يحقق أفضل عائد للمال العام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "labor",
+        "commercial_fraud",
+        "enforcement",
+        "procurement_ethics"
+      ],
+      "topic_tags_ar": [
+        "عمل",
+        "غش تجاري",
+        "تنفيذ",
+        "نزاهة المنافسات والمشتريات"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة الخامسة",
+      "text_verbatim": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحة التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل والأنظمة ذات العلاقة وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة، يحظر على الموظف ما يأتي:\n\n\t• استغلال الوظيفة في تحقيق أي مصلحة خاصة له أو لغيره.\n\n\t• إفشاء أي معلومة سرية أو ليست محل إعلان تتعلق بمنافسات ومشتريات الجهة الحكومية في أي من إجراءاتها وفي جميع مراحلها.\n\n\t• إخفاء أي معلومة عن المتعامل يتوجب عليه الإفصاح عنها.\n\n\t• طلب أو تشجيع تقديم الهدايا، أو قبولها، أو أية منفعة ذات قيمة مادية أو معنوية، مباشرة أو غير مباشرة، من المتعامل.\n\n\t• الامتناع عن إصدار قرار أو إجراء معين يجب عليه اتخاذه، أو تعطيله، بما في ذلك رفض تسلّم العينات المطابقة للشروط والمواصفات، أو تأخير اعتماد المخططات، أو إصدار الموافقات دون سبب مشروع.\n\n\t• تعطيل صرف مستحقات ومستخلصات المتعامل مع الجهة الحكومية دون مسوغ نظامي.",
+      "text_for_index": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحة التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل والأنظمة ذات العلاقة وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة، يحظر على الموظف ما يأتي:\n\n • استغلال الوظيفة في تحقيق أي مصلحة خاصة له أو لغيره.\n\n • إفشاء أي معلومة سرية أو ليست محل إعلان تتعلق بمنافسات ومشتريات الجهة الحكومية في أي من إجراءاتها وفي جميع مراحلها.\n\n • إخفاء أي معلومة عن المتعامل يتوجب عليه الإفصاح عنها.\n\n • طلب أو تشجيع تقديم الهدايا، أو قبولها، أو أية منفعة ذات قيمة مادية أو معنوية، مباشرة أو غير مباشرة، من المتعامل.\n\n • الامتناع عن إصدار قرار أو إجراء معين يجب عليه اتخاذه، أو تعطيله، بما في ذلك رفض تسلّم العينات المطابقة للشروط والمواصفات، أو تأخير اعتماد المخططات، أو إصدار الموافقات دون سبب مشروع.\n\n • تعطيل صرف مستحقات ومستخلصات المتعامل مع الجهة الحكومية دون مسوغ نظامي.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحة التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل والأنظمة ذات العلاقة وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة، يحظر على الموظف ما يأتي:",
+          "text_for_index": "مع مراعاة ما ورد في نظام الخدمة المدنية واللائحة التنفيذية للموارد البشرية في الخدمة المدنية ونظام العمل والأنظمة ذات العلاقة وما نصت عليه مدونة قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة، يحظر على الموظف ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• استغلال الوظيفة في تحقيق أي مصلحة خاصة له أو لغيره.",
+          "text_for_index": "• استغلال الوظيفة في تحقيق أي مصلحة خاصة له أو لغيره.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• إفشاء أي معلومة سرية أو ليست محل إعلان تتعلق بمنافسات ومشتريات الجهة الحكومية في أي من إجراءاتها وفي جميع مراحلها.",
+          "text_for_index": "• إفشاء أي معلومة سرية أو ليست محل إعلان تتعلق بمنافسات ومشتريات الجهة الحكومية في أي من إجراءاتها وفي جميع مراحلها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• إخفاء أي معلومة عن المتعامل يتوجب عليه الإفصاح عنها.",
+          "text_for_index": "• إخفاء أي معلومة عن المتعامل يتوجب عليه الإفصاح عنها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• طلب أو تشجيع تقديم الهدايا، أو قبولها، أو أية منفعة ذات قيمة مادية أو معنوية، مباشرة أو غير مباشرة، من المتعامل.",
+          "text_for_index": "• طلب أو تشجيع تقديم الهدايا، أو قبولها، أو أية منفعة ذات قيمة مادية أو معنوية، مباشرة أو غير مباشرة، من المتعامل.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• الامتناع عن إصدار قرار أو إجراء معين يجب عليه اتخاذه، أو تعطيله، بما في ذلك رفض تسلّم العينات المطابقة للشروط والمواصفات، أو تأخير اعتماد المخططات، أو إصدار الموافقات دون سبب مشروع.",
+          "text_for_index": "• الامتناع عن إصدار قرار أو إجراء معين يجب عليه اتخاذه، أو تعطيله، بما في ذلك رفض تسلّم العينات المطابقة للشروط والمواصفات، أو تأخير اعتماد المخططات، أو إصدار الموافقات دون سبب مشروع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-5::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تعطيل صرف مستحقات ومستخلصات المتعامل مع الجهة الحكومية دون مسوغ نظامي.",
+          "text_for_index": "• تعطيل صرف مستحقات ومستخلصات المتعامل مع الجهة الحكومية دون مسوغ نظامي.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement",
+        "abuse"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ",
+        "إيذاء وحماية"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة السادسة",
+      "text_verbatim": "يتعين على الجهة الحكومية ما يأتي:\n\n\t• اتخاذ ما يلزم من إجراءات تتيح للموظف والمتعامل إبلاغها عن أي موظف أو متعامل آخر يرتكب أعمالاً تخالف أحكام النظام واللائحة التنفيذية واللائحة والأنظمة واللوائح الأخرى ذات العلاقة.\n\n\t• توفير الحماية الكافية للموظف أو المتعامل بما يضمن عدم التعرض له وظيفيًّا أو المساس بمميزاته أو حقوقه.\n\n\t• تعيين موظف مختص باستقبال البلاغات والتعامل معها وحفظها.\n\n\t• التعامل مع أي بلاغ وفقاً للأنظمة واللوائح المراعاة لديها، والرفع فوراً إلى الجهات المختصة في شأن ذلك.",
+      "text_for_index": "يتعين على الجهة الحكومية ما يأتي:\n\n • اتخاذ ما يلزم من إجراءات تتيح للموظف والمتعامل إبلاغها عن أي موظف أو متعامل آخر يرتكب أعمالاً تخالف أحكام النظام واللائحة التنفيذية واللائحة والأنظمة واللوائح الأخرى ذات العلاقة.\n\n • توفير الحماية الكافية للموظف أو المتعامل بما يضمن عدم التعرض له وظيفيًّا أو المساس بمميزاته أو حقوقه.\n\n • تعيين موظف مختص باستقبال البلاغات والتعامل معها وحفظها.\n\n • التعامل مع أي بلاغ وفقاً للأنظمة واللوائح المراعاة لديها، والرفع فوراً إلى الجهات المختصة في شأن ذلك.",
+      "paragraph_count": 5,
+      "indexable_paragraph_count": 5,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يتعين على الجهة الحكومية ما يأتي:",
+          "text_for_index": "يتعين على الجهة الحكومية ما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• اتخاذ ما يلزم من إجراءات تتيح للموظف والمتعامل إبلاغها عن أي موظف أو متعامل آخر يرتكب أعمالاً تخالف أحكام النظام واللائحة التنفيذية واللائحة والأنظمة واللوائح الأخرى ذات العلاقة.",
+          "text_for_index": "• اتخاذ ما يلزم من إجراءات تتيح للموظف والمتعامل إبلاغها عن أي موظف أو متعامل آخر يرتكب أعمالاً تخالف أحكام النظام واللائحة التنفيذية واللائحة والأنظمة واللوائح الأخرى ذات العلاقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• توفير الحماية الكافية للموظف أو المتعامل بما يضمن عدم التعرض له وظيفيًّا أو المساس بمميزاته أو حقوقه.",
+          "text_for_index": "• توفير الحماية الكافية للموظف أو المتعامل بما يضمن عدم التعرض له وظيفيًّا أو المساس بمميزاته أو حقوقه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• تعيين موظف مختص باستقبال البلاغات والتعامل معها وحفظها.",
+          "text_for_index": "• تعيين موظف مختص باستقبال البلاغات والتعامل معها وحفظها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• التعامل مع أي بلاغ وفقاً للأنظمة واللوائح المراعاة لديها، والرفع فوراً إلى الجهات المختصة في شأن ذلك.",
+          "text_for_index": "• التعامل مع أي بلاغ وفقاً للأنظمة واللوائح المراعاة لديها، والرفع فوراً إلى الجهات المختصة في شأن ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "عمل"
+      ],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة السابعة",
+      "text_verbatim": "يساءل الموظف تأديبياً عند مخالفته أيّاً من أحكام اللائحة؛ وفق نظام تأديب الموظفين ونظام العمل والأنظمة الأخرى ذات العلاقة.",
+      "text_for_index": "يساءل الموظف تأديبياً عند مخالفته أيّاً من أحكام اللائحة؛ وفق نظام تأديب الموظفين ونظام العمل والأنظمة الأخرى ذات العلاقة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "يساءل الموظف تأديبياً عند مخالفته أيّاً من أحكام اللائحة؛ وفق نظام تأديب الموظفين ونظام العمل والأنظمة الأخرى ذات العلاقة.",
+          "text_for_index": "يساءل الموظف تأديبياً عند مخالفته أيّاً من أحكام اللائحة؛ وفق نظام تأديب الموظفين ونظام العمل والأنظمة الأخرى ذات العلاقة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "لائحة تنظيم سلوكيات وأخلاقيات القائمين على تطبيق نظام المنافسات والمشتريات الحكومية ولائحته التنفيذية، المادة الثامنة",
+      "text_verbatim": "يعمل باللائحة اعتباراً من تاريخ نشرها في الجريدة الرسمية.",
+      "text_for_index": "يعمل باللائحة اعتباراً من تاريخ نشرها في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "procurement-conduct-ethics-regulation::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يعمل باللائحة اعتباراً من تاريخ نشرها في الجريدة الرسمية.",
+          "text_for_index": "يعمل باللائحة اعتباراً من تاريخ نشرها في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

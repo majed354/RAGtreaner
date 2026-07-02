@@ -1,0 +1,981 @@
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=no">    
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/images/favicon.ico">
+    <link rel="icon" type="image/ico" href="/Content/images/favicon.ico" />
+
+    <link href='/Content/css/bootstrap-rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-grid.rtl.min.css' rel="stylesheet" type="text/css" />
+    <link href='/Content/new/css/bootstrap-utilities.rtl.min.css' rel="stylesheet" type="text/css" />
+
+    <link href="/Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/colorbox.css" rel="stylesheet" />
+    <link id="sitecss" href='/Content/css/main-rtl.css?d=06102025' rel="stylesheet" type="text/css" />
+    <link id="sitecss" href='/Content/new/css/forntend-rtl.css?d=07012025' rel="stylesheet" type="text/css" />
+    <!--<link href='~/Content/css/fonts-rtl.css' rel="stylesheet" type="text/css" />-->
+
+
+    <link href="/Content/new/css/styles.css" rel="stylesheet" />
+    <link href="/Content/new/css/app-styles.css?v=1" rel="stylesheet" />
+
+    <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08132b131784e000038ce545bbe08ba71ac7b82e82c6cf390158a8f3a87124c37524c05ea033bf59f4e577e0ee8ac7c4ce61c2b53569b73f90473968ba3d3288fe34aa28233da995401bd7dc118ec994f8d506dce5edf07db940cbb1f2fb2c5b1bd1c38ca07382a759408313e303f1c1345c8dbb66960dc750afd59149b03c9a7ae227a640ce8dcba36476210f314cb5c588b13228d60fa4addba13fe987c6d953782a15dd9c00f035e2c3bcfc7e2e7b9958bc6b1de285ce4cf90b05346144606fe1a7f33eb997df632e57f7db64ac48b51467bbb7f8bede223e3bcf9fa718f97dd469e7d803f94f";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081f4722beab200028985156fdc726f5075d21f9b8602e7393c95bb62dabe2e5147cbfeec931229e?type=2"></script><script src="/Scripts/jquery-3.4.1.min.js"></script>
+    <script>var ROOT_URL = '' || '';</script>
+    <title>
+        نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )
+    </title>
+    <script src="/Scripts/fontawesome-all.js"></script>
+</head>
+
+<body>
+    <main class="inner-page">
+        <header class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 d-flex align-items-center">
+                        <a href="http://www.boe.gov.sa" class="page-header__logo" title="الصفحة الرئيسية">
+                            <img alt="header-logo" src='/Content/new/images/logo.svg' />
+                        </a>
+                    </div>
+                    <div class="col-6 col-md-9 d-flex flex-column justify-content-center">
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end align-items-center gap-2 gap-lg-3 mb-3">
+                                <a href="/BoeLaws/Laws/Search" target="_blank" class="header-search-btn">
+                                    <img src="/Content/new/images/search-systems-icon.svg" alt="search-systems-icon" />
+                                    <span>البحث في الوثائق النظامية</span>
+                                </a>
+                                    <a href="https://laws.boe.gov.sa/Identity/Account/Login/" class="header-login-btn">
+                                        <img src="/Content/new/images/user-login-icon.svg" alt="user-login-icon" />
+                                        <span>تسجيل الدخول</span>
+                                    </a>
+                                <a class="language-switcher switch-lang" href="JavaScript:void(0);" id="lang-switcher" title="English">EN</a>
+
+                                <div class="page-settings-dropdown">
+                                    <a class="page-settings-dropdown__btn" href="#" title="اعدادات الصفحة"></a>
+                                    <div class="page-settings-dropdown__menu">
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">حجم الخط</h5>
+                                            <div class="font-resize-btns">
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--increaser" title="زيادة حجم الخط">+</button>
+                                                <button type="button" class="font-resize-btns__item font-resize-btns--decreaser" title="تقليل حجم الخط">-</button>
+                                            </div>
+                                        </div>
+                                        <div class="page-settings-dropdown__menu__item">
+                                            <h5 class="page-settings-dropdown__menu__title">اللون الرمادي</h5>
+                                            <a class="grayscale-switcher" href="#" title="التبديل إلى اللون الرمادي"></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 d-flex justify-content-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="title-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-6 d-flex flex-column mb-5 mb-md-0">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h1 class="page-title">نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )</h1>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+                        <div class="page-actions">
+                            <div class="share-page-dropdown">
+                                <a class="page-actions__btn page-actions__btn--share" href="#" title="نشر الصفحة"></a>
+                                <div class="share-page-dropdown__menu">
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="x_share" title="نشر الصفحة على منصة إكس">
+                                        <img src="/Content/new/images/social-media-icons/x.svg" alt="x" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="linkedin_share" title="نشر الصفحة على لينكدان">
+                                        <img src="/Content/new/images/social-media-icons/linkedin.svg" alt="linkedin" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="facebook_share" title="نشر الصفحة على فيسبوك">
+                                        <img src="/Content/new/images/social-media-icons/facebook.svg" alt="facebook" />
+                                    </a>
+                                    <a href="#!" class="share-page-dropdown__menu__item" target="_blank" id="whatsApp_share" title="نشر الصفحة على واتس اب">
+                                        <img src="/Content/new/images/social-media-icons/whatsapp.svg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <a class="page-actions__btn page-actions__btn--email" href="#!" title="إرسال لصديق" id="mail_share"></a>
+                            <a class="page-actions__btn page-actions__btn--print" href="javascript:void(0);" title="طباعة الصفحة" onclick="window.print();" id="page_print"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">الوثائق النظامية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">أنظمة عادية</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">التجارة والاقتصاد والاستثمار</a></li>
+    <li class="breadcrumb-item"><a href="/BoeLaws/Laws/Folders/1">نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )</a></li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="inner-page-content" id="wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="page-content-wrapper" class="col-12">
+                        
+
+<div id="CustomValidationSummary"></div>
+
+
+<input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" />
+
+<div class="app_inner_pages_bg" id="ele2">
+    <div class="app_inner_pages_container">
+            <h1 class="system_title mb-5">نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )</h1>
+            <div class="system_details_box mb-4">
+                <div class="browse_count">
+                    <span>عدد مرات التصفح</span><strong><span>124355</span></strong>
+                    <a href="#" id="LawsSubscription" class="ancReportIssue px-3" data-lawid="64aee787-4618-4979-b4d8-a9a700f1c647">
+                        <i class="fas fa-envelope-open"></i>
+                        <span>طلب اشعار</span>
+                    </a>
+                    
+                </div>
+                <div class="col system_brief">
+                    <h4 class="mb-4">نبذة عن النظام</h4>
+                    <div class="HTMLContainer">
+                        <p><strong><big>يتضمن النظام مايلى :</big></strong><br />
+المقصود بالعبارات والألفاظ الواردة بالنظام &ndash; الجهات المختصة بإصدار إذن إستيراد وفسح المواد الكيميائية &ndash; تراخيص نقل المواد الكيميائية - مهام وزارة الداخلية &ndash; مهام مصلحة الجمارك &ndash; مهام الرئاسة العامة للأرصاد وحماية البيئة &ndash; إلتزامات مستوردو المواد الكيميائية - عقوبات الإخلال بأحكام النظام &ndash; المواد الكيميائية التي لا يسري عليها النظام .</p>
+
+<p><strong>- عُدل اسم النظام ليكون ( نظام المواد الكيميائية ) وذلك بموجب المرسوم الملكي رقم (م/10) 1443/1/18هـ.</strong></p>
+                    </div>
+                    <br />
+                        <div dir="ltr">
+                            <h4>Law name</h4>
+                            <div dir="ltr" class="HTMLContainer">
+                                Law of Management of Chemical Substances
+                            </div>
+                        </div>
+                        <div dir="ltr">
+                            <h4>Law description</h4>
+
+
+                            <div dir="ltr" class="HTMLContainer">
+
+                                Law of Management of Chemical Substances
+                            </div>
+                        </div>
+                </div>
+
+                <div class="col system_info">
+                    <div>
+                        <label for="">الاسم</label> <span>نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ الإصدار</label>
+                        <span> 1427/06/16 هـ  الموافق : 12/07/2006 مـ</span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">تاريخ النشر</label>
+                        <span>
+                            1427/07/24  هـ الموافق : 18/08/2006 مـ
+                        </span>
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">الحالة</label>
+
+                                <span>ساري</span>
+                        
+                    </div>
+                    <span class="clr"></span>
+                    <div>
+                        <label for="">أدوات إصدار النظام</label>
+                        <ul>
+                                <li><a href="/BoeLaws/Laws/Viewer/165e20c8-d4e9-4561-a485-10df1fb0614a?lawId=64aee787-4618-4979-b4d8-a9a700f1c647">مرسوم ملكي رقم م/38 بتاريخ 16 / 6 / 1427</a></li>
+                                <li><a href="/BoeLaws/Laws/Viewer/49acce97-505d-49f0-b599-fdbace39b13b?lawId=64aee787-4618-4979-b4d8-a9a700f1c647">قرار مجلس الوزراء رقم 143 بتاريخ 14 / 6 / 1427</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+            <form id="frmSearch" action="/BoeLaws/Laws/SearchDetails/" method="get">
+                <link href="/Content/new/css/searchprint.css" rel="stylesheet" />
+                <div class="search_results_filter">
+                    <div class="row g-4">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <label for="">
+                                البحث في النظام
+                                <span data-toggle="tooltip" data-placement="top" title="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم">
+                                    <i class="fas fa-info-circle"></i>
+                                </span>
+                            </label>
+                            <input class="form_control" data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Query" data-val-regex-pattern="^[^&lt;>{}]+$" id="queryInput" name="Query" placeholder="بإمكانك البحث بأكثر من كلمة بإضافة فاصلة بينهم" type="text" value="" />
+                            <span class="field-validation-valid text-danger help-block" data-valmsg-for="Query" data-valmsg-replace="true"></span>
+                        </div>
+                        <div class="col-12 d-flex justify-content-end gap-3">
+                            <button class="btn btn-primary">تصفية النتائج</button>
+                            <button type="button" class="btn btn-outline-primary" id="clearResultBtn">مسح النتائج</button>
+                        </div>
+                    </div>
+                </div>
+                <input data-val="true" data-val-regex="لا يسمح بكتابة سكريبت في حقل Id" data-val-regex-pattern="^[^&lt;>{}]+$" id="Id" name="Id" type="hidden" value="64aee787-4618-4979-b4d8-a9a700f1c647" />
+            </form>
+            <h1 class="system_title system_terms_title">نـــص النظـــام</h1>
+            <div class="system_terms_tools">
+                <div class="legend">
+                    <span class="modified"><i></i>مادة معدلة</span>
+                    <span class="canceled"><i></i>مادة ملغية</span>
+                </div>
+                <a href="/BoeLaws/Laws/Viewer/84f8fe22-aa9f-40c0-aaa7-d6df37e76deb?lawId=64aee787-4618-4979-b4d8-a9a700f1c647" target="_blank">
+                    <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                    <span>اصل الوثيقة</span>
+                </a>
+                
+
+                    <a href="/Files/Download/?attId=1227cdaf-b505-4c5d-b6d4-b11600da34be" target="_blank">
+                        <img src='/Content/new/images/sys-icons/document-icon.svg' alt="document-icon" />
+                        <span>Translated document</span>
+                    </a>
+
+
+                <a href="#" id="ancPrintLaw">
+                    <img src='/Content/new/images/sys-icons/print-icon.svg' alt="print-icon" />
+                    <span>طباعة</span>
+                </a>
+                <a href="#" id="ancReportIssue" class="ancReportIssue" data-lawid="64aee787-4618-4979-b4d8-a9a700f1c647">
+                    <img src='/Content/new/images/sys-icons/report-icon.svg' alt="report-icon" />
+                    <span>الملاحظات والتعليقات</span>
+                </a>
+
+
+                <a id="ancLawPrevVersions" data-versions="0" href="#" class="inactive">
+                    <img src='/Content/new/images/sys-icons/versions-icon.svg' alt="versions-icon" />
+                    <span>الإصدارات</span>
+                </a>
+                <i class="fas fa-globe"></i>
+                <span>اللغات</span>
+                <select data-lawRelatedCode="64aee787-4618-4979-b4d8-a9a700f1c647" id="ddlLawLanguages" name="LanguageId"><option selected="selected" value="1">العربية</option>
+<option value="2">الإنجليزية  (English)</option>
+</select>
+
+            </div>
+
+<div class="system_terms_textbox" id="divLawText">
+    <div>
+        <h3 class="center">نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )</h3>
+        <h3 class="center">1427 هـ</h3>
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">مرسوم ملكي رقم م/38 بتاريخ 16 / 6 / 1427</h4>
+            <div class="HTMLContainer">
+                <p><p>بعون الله تعالى<br />
+نحن عبد الله بن عبد العزيز آل سعود&nbsp;<br />
+ملك المملكة العربية السعودية<br />
+بناء على المادة (السبعين) من النظام الأساسي للحكم، الصادر بالأمر الملكي رقم (أ/٩٠) وتاريخ ٢٧ /٨ /١٤١٢هـ<br />
+وبناء على المادة (العشرين) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ/١٣) وتاريخ ٣ /٣ /١٤١٤هـ<br />
+وبناء على المادة (الثامنة عشرة) من نظام مجلس الشورى، الصادر بالأمر الملكي رقم (أ/٩١) وتاريخ ٢٧ /٨ /١٤١٢هـ<br />
+وبعد الاطلاع على قرار مجلس الشورى رقم (٧٢ / ٥٣) وتاريخ ١٦ /١١ /١٤٢٦هـ<br />
+وبعد الاطلاع على قرار مجلس الوزراء رقم (١٤٣) وتاريخ ١٤ /٦ /١٤٢٧هـ<br />
+<strong>رسمنا بما هو آت :</strong><br />
+أولاً : الموافقة على نظام استيراد المواد الكيميائية وإدارتها، وذلك بالصيغة المرافقة.<br />
+ثانياً : على سمو نائب رئيس مجلس الوزراء والوزراء&ndash; كل فيما يخصه&ndash; تنفيذ مرسومنا هذا.</p>
+
+<p style="text-align:left"><strong>عبد الله بن عبد العزيز</strong></p></p>
+            </div>
+
+
+            <p class="center">بسم الله الرحمن الرحيم</p>
+            <h4 class="center">قرار مجلس الوزراء رقم 143 بتاريخ 14 / 6 / 1427</h4>
+            <p><p>إن مجلس الوزراء&nbsp;<br />
+بعد الاطلاع على المعاملة الواردة من ديوان رئاسة مجلس الوزراء برقم ٥٠٥٦٢/ب وتاريخ ٧ / ١٢ / ١٤٢٦هـ، المشتملة على برقية صاحب السمو الملكي وزير الداخلية بالنيابة رقم ٣ /٢ /١٠٨ /د ف وتاريخ ٣٠ /١ /١٤٢٣هـ، في شأن مشروع لائحة التنظيمات المستديمة الخاصة باستيراد وتداول المواد الكيميائية في المملكة.<br />
+وبعد الاطلاع على المحضرين رقم (٣٢٧) وتاريخ ١٢ /١٠ /١٤٢٤هـ، ورقم (٨٥) وتاريخ ١١ / ٣ / ١٤٢٧هـ، المعدين في هيئة الخبراء بمجلس الوزراء.<br />
+وبعد النظر في قرار مجلس الشورى رقم (٧٢ /٥٣) وتاريخ ١٦ /١١ /١٤٢٦هـ<br />
+وبعد الاطلاع على توصيتي اللجنة العامة لمجلس الوزراء رقم (١٤٨) وتاريخ ١٩/ ٣ /١٤٢٧هـ، ورقم (٢٨٢) وتاريخ ٣٠ /٥ /١٤٢٧هـ<br />
+<strong>يُقرِّر</strong><br />
+الموافقة على نظام استيراد المواد الكيميائية وإدارتها بالصيغة المرافقة.<br />
+وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.</p>
+
+<p style="text-align:left"><strong>رئيس مجلس الوزراء</strong></p></p>
+
+        <div style="text-align: center"> <h1 class="system_title">نظام استيراد المواد الكيميائية وإدارتها ( نظام إدارة المواد الكيميائية )</h1></div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الأولى: 
+</h3>
+                <div class="HTMLContainer">
+                    يقصد بالكلمات والعبارات الآتية– أينما وردت في هذا النظام– المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك :
+<br><big><SPAN ClusterID=1835>المواد الكيميائية</SPAN> : </big> أي مادة كيميائية بحالتها الغازية أو السائلة أو الصلبة، وتحدد اللائحة أسماءها وأنواعها.
+<br><big><SPAN ClusterID=1855>إدارة المواد الكيميائية</SPAN>  : </big> كل تعامل مع <SPAN ClusterID=1835>المواد الكيميائية </SPAN>بما في ذلك إنتاجها، وتصنيعها، وتداولها، ونقلها، وتخزينها، ومعالجتها، وإتلافها، والتخلص منها.
+<br><big> الجهة المختصة : </big> الجهة المخولة وفقًا لأحكام هذا النظام بإصدار إذن استيراد <SPAN ClusterID=1835>المواد الكيميائية </SPAN>وإذن فسحها.
+<br><big><SPAN ClusterID=1840>النفايات الكيميائية</SPAN></big> : <SPAN ClusterID=1844>المخلفات الكيميائية </SPAN>التي يرغب في التخلص منها، كالمواد الناتجة عن العمليات الصناعية والبحثية.
+<br><big><SPAN ClusterID=1835>المواد الكيميائية المتراكمة</SPAN></big> : <SPAN ClusterID=1835>مواد كيميائية </SPAN>موجودة منذ مدة طويلة في مخازن المستوردين لها أو المتعاملين معها وفق ما تحدده اللائحة.
+<br><big><SPAN ClusterID=1841>المواد الكيميائية الخطرة</SPAN> </big>: <SPAN ClusterID=1835>مواد كيميائية </SPAN>تتصف بسميتها أو قابليتها للانفجار، أو ذات خصائص أخرى يمكن أن ينجم عنها خطر على صحة الإنسان أو البيئة.
+<br><big><SPAN ClusterID=988>اللائحة</SPAN> : </big> اللائحة التنفيذية لأحكام هذا النظام. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الثانية: 
+</h3>
+                <div class="HTMLContainer">
+                    لا يجوز استيراد <SPAN ClusterID=1835>المواد الكيميائية </SPAN>إلا بعد الحصول على إذن باستيرادها، ولا تفسح من الجمارك إلا بعد تقديم إذن فسحها. وتحدد اللائحة إجراءات طلب إصدار الإذن والنماذج الخاصة به وشروطه ومدته وكيفية تجديده وإلغائه. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الثالثة: 
+</h3>
+                <div class="HTMLContainer">
+                    <big>1 - تختص الجهات الآتية بإصدار إذن استيراد <SPAN ClusterID=1849>وفسح&nbsp;</SPAN>المواد الكيميائية&nbsp;المبينة أمام كل منها :</big>
+ <div style="margin-right:15px;">
+أ - <SPAN ClusterID=84>وزارة الداخلية</SPAN>: <SPAN ClusterID=1835>المواد الكيميائية </SPAN>التي تدخل في تركيب <SPAN ClusterID=1845>المتفجرات</SPAN>.<BR>ب - <SPAN ClusterID=1827>وزارة التعليم العالي</SPAN>: <SPAN ClusterID=1835>المواد الكيميائية </SPAN>الخاصة بالمؤسسات التعليمية.<BR>ج - <SPAN ClusterID=136>وزارة الصحة</SPAN>: <SPAN ClusterID=1835>المواد الكيميائية </SPAN>التي تدخل في تحضير الأدوية وتركيبها، <SPAN ClusterID=1835>والمواد الكيميائية </SPAN>التي يحتاج إليها <SPAN ClusterID=1848>القطاع الصحي </SPAN>بما في ذلك <SPAN ClusterID=1847>الكواشف غير المشعة</SPAN>.<BR>د - <SPAN ClusterID=1016>وزارة الزراعة</SPAN>: <SPAN ClusterID=1835>المواد الكيميائية </SPAN>التي تدخل في تحضير أو تركيب <SPAN ClusterID=1846>المبيدات الزراعية </SPAN><SPAN ClusterID=1828>ومحسنات التربة </SPAN>والأسمدة والأدوية البيطرية، <SPAN ClusterID=1835>والمواد الكيميائية </SPAN>التي تحتاج إليها <SPAN ClusterID=1837>مراكز الأبحاث الزراعية</SPAN>.<BR>هـ - <SPAN ClusterID=1019>وزارة المياه والكهرباء</SPAN>: <SPAN ClusterID=1835>المواد الكيميائية </SPAN>التي تستخدم في <SPAN ClusterID=1836>معالجة المياه والصرف الصحي</SPAN>، والمحطات الخاصة بذلك، <SPAN ClusterID=1835>والمواد الكيميائية </SPAN>التي تحتاج إليها مختبرات ومراكز أبحاث المياه والصرف الصحي، وشركات الكهرباء.<BR>و - <SPAN ClusterID=917>وزارة التجارة والصناعة</SPAN>: <SPAN ClusterID=1835>المواد الكيميائية </SPAN>المتداولة في <SPAN ClusterID=1381>الأسواق المحلية </SPAN>التي تستوردها المؤسسات والشركات التجارية، <SPAN ClusterID=1835>والمواد الكيميائية </SPAN>الخاصة بالمصانع وشركات البترول والتعدين .</div>
+2 - لا تصدر الجهات المشار إليها في الفقرات (ج، د، هـ، و) <SPAN ClusterID=1853>إذن الاستيراد </SPAN>أو <SPAN ClusterID=1849>الفسح </SPAN>إلا بعد الاتفاق مع <SPAN ClusterID=84>وزارة الداخلية</SPAN>. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الرابعة : 
+</h3>
+                <div class="HTMLContainer">
+                    تزود الجهات المختصة <SPAN ClusterID=1831>الرئاسة العامة للأرصاد وحماية البيئة </SPAN>بنسخة من <SPAN ClusterID=1852>إذن الفسح </SPAN>الذي تصدره <SPAN ClusterID=1835>للمواد الكيميائية </SPAN>حال إصداره. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الخامسة : 
+</h3>
+                <div class="HTMLContainer">
+                     تضع <span ClusterID=1515> الهيئة العربية السعودية للمواصفات والمقاييس </span>   <span ClusterID=1540> المواصفات القياسية </span>   الخاصة  بعبوات المواد الكيميائية    ، من حيث نوعها، وحجمها، ولونها، والعلامات والتعليمات الواجب لصقها عليها. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة السادسة : 
+</h3>
+                <div class="HTMLContainer">
+                    تصدر <SPAN ClusterID=675>وزارة النقل </SPAN><SPAN ClusterID=664>والهيئة العامة للطيران المدني</SPAN>– كل جهة بحسب اختصاصها– تراخيص نقل المواد الكيميائية وفق الشروط والمواصفات التي تحددها اللائحة. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة السابعة : 
+</h3>
+                <div class="HTMLContainer">
+                    لا تجوز إدارة <SPAN ClusterID=1835>المواد الكيميائية </SPAN>إلا بعد الحصول على ترخيص بذلك، وتحدد اللائحة جهات الاختصاص، وإجراءات الحصول على الترخيص وشروطه. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة الثامنة :</h3>
+                <div class="HTMLContainer">
+                    <p><big>تتولى وزارة الداخلية المهمات الآتية : </big><br />
+1 - حصر ومراقبة جميع ما يستورد من مواد كيميائية تدخل في تركيب المتفجرات، والجهات المستوردة لها.<br />
+2 - مرافقة الشاحنات المحملة بالمواد الكيميائية الخطرة &ndash; التي تحددها اللائحة&ndash; لتأمين سلامتها على الطرق.<br />
+3 - وضع تدابير الحماية والوقاية من أخطار المواد الكيميائية، ومتابعة تنفيذها.<br />
+4 - إيجاد فرق للتدخل في الحوادث الكيميائية، والعمل على تهيئة هذه الفرق بالتدريب والتجهيزات اللازمة للقيام بأعمالها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center">المادة التاسعة :</h3>
+                <div class="HTMLContainer">
+                    <p><big>تتولى مصلحة الجمارك المهمات الآتية:</big><br />
+1 - إنهاء الإجراءات الجمركية اللازمة لأي إرسالية مواد كيميائية تصل إلى المملكة حال تقديم إذن فسحها .<br />
+2 - التنسيق مع الجهات المختصة لمعالجة أي مشكلة تعوق فسح المواد الكيميائية المستوردة أو تؤخره.<br />
+3 - إبلاغ الرئاسة العامة للأرصاد وحماية البيئة بالمواد الكيميائية المتروكة لديها.</p>
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة العاشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    <big>تتولى <SPAN ClusterID=1831>الرئاسة العامة للأرصاد وحماية البيئة </SPAN>المهمات الآتية :</big>
+<BR>1 - التنسيق مع الجهات المختصة لإنشاء قاعدة معلومات تشتمل على ما يأتي :
+<div style="margin-right:15px;"> أ – بيان <SPAN ClusterID=1835>بالمواد الكيميائية </SPAN>التي فسحت، والجهات التي استوردتها، وما أتلف منها.
+<BR>ب - بيان <SPAN ClusterID=1835>بالمواد الكيميائية </SPAN>المحظورة التي لا يسمح قطعيًّا بدخولها إلى المملكة، <SPAN ClusterID=1835>والمواد الكيميائية </SPAN>المقيدة التي لا يسمح بدخولها إلا وفق شروط وتعليمات خاصة، مع تزويد الجهات المختصة بنسخة من هذا البيان.<BR>ج - جميع ما يتعلق <SPAN ClusterID=1840>بالنفايات الكيميائية </SPAN>وخصائصها ودرجة خطورتها والظروف المناسبة لحفظها ونقلها وإعادة استخدامها وطرق تخزينها وكيفية التخلص منها.</div>
+2 - تنظيم وسائل الاستشعار والإنذار من أخطار <SPAN ClusterID=1850>الحوادث الكيميائية</SPAN>، وإعداد الخطط لمواجهة الحالات الطارئة المؤثرة على البيئة بالتنسيق مع الجهات ذات العلاقة.
+<BR>3 - إصدار تراخيص إنشاء محطات ومرافق معالجة <SPAN ClusterID=1840>النفايات الكيميائية </SPAN>وفق المعايير التي تحددها اللائحة، ومراقبة تلك المحطات والمرافق وما يتم التخلص منه فيها.
+<BR>4 -  إعداد القواعد والإجراءات للتحكم في <SPAN ClusterID=1838>عمليات الإتلاف </SPAN>والتخلص من <SPAN ClusterID=1840>النفايات الكيميائية</SPAN> ومراقبة تطبيقها، وذلك بما يتوافق مع الأنظمة والمعاهدات المتعلقة بهذا الشأن.<BR>5 - التنسيق مع الجهات ذات العلاقة لتأمين مواقع مناسبة لعمليات إتلاف المواد الكيميائية وردمها، والإشراف على إنشاء المرادم وعمليات الإتلاف والردم.<BR>6 - اتخاذ التدابير اللازمة في شأن <SPAN ClusterID=1835>المواد الكيميائية </SPAN>الموجودة لدى الجهات التي ترغب في التخلص منها، وذلك فور إبلاغ الرئاسة بذلك. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center"> المادة الحادية عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    <big>يلتزم مستوردو المواد الكيميائية والقائمون على إداراتها بما يأتي:</big>
+<BR>1 -  إنهاء إجراءات <SPAN ClusterID=1852>إذن الفسح </SPAN>قبل وصول <SPAN ClusterID=1835>المواد الكيميائية </SPAN>إلى المملكة أو حال وصولها.<BR>2 -  تسلم <SPAN ClusterID=1835>المواد الكيميائية </SPAN>المستوردة ونقلها خلال مدة لا تتجاوز ثلاثة أيام عمل من تاريخ فسحها من <SPAN ClusterID=1843>المنافذ الجمركية .</SPAN><BR>3 - نقل <SPAN ClusterID=1835>المواد الكيميائية </SPAN>بطريقة آمنة وبوساطة وسائل نقل مرخص لها.<BR>4 -  إبلاغ وزارة الداخلية قبل نقل المواد الكيميائية الخطرة.<BR>5 -  تخزين المواد الكيميائية في أماكن مخصصة لها، وفق الشروط والتعليمات التي تحددها اللائحة.<BR>6 - تطبيق التعليمات الخاصة بسلامة العاملين في المنشآت التي تتعامل مع <SPAN ClusterID=1835>المواد الكيميائية .</SPAN><BR>7 - تطبيق المواصفات القياسية الخاصة بعبوات <SPAN ClusterID=1835>المواد الكيميائية .</SPAN><BR>8 - عدم استخدام <SPAN ClusterID=1835>المواد الكيميائية </SPAN>المستوردة في غير المجال الذي طلبت من أجله إلا بعد موافقة الجهة المختصة.<BR>9 - عدم تداول <SPAN ClusterID=1835>المواد الكيميائية </SPAN>إلا في الأماكن المخصصة لذلك.<BR>10 - التعامل مع <SPAN ClusterID=1835>المواد الكيميائية </SPAN>بواسطة أشخاص مؤهلين في مجال السلامة والوقاية.<BR>11 - إبلاغ الجهة المختصة <SPAN ClusterID=1831>والرئاسة العامة للأرصاد وحماية البيئة </SPAN>بصفة دورية بما لديهم من <SPAN ClusterID=1835>مواد كيميائية </SPAN>متراكمة أو منتهية الصلاحية أو <SPAN ClusterID=1840>نفايات كيميائية .</SPAN><BR>12 - التخلص من <SPAN ClusterID=1840>النفايات الكيميائية </SPAN>بواسطة مرفق متخصص مرخص له، مع تزويد <SPAN ClusterID=1831>الرئاسة العامة للأرصاد وحماية البيئة </SPAN>بما يثبت ذلك. 
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="745a71b9-4a36-4ec8-a0c5-a9a700f1c705" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="745a71b9-4a36-4ec8-a0c5-a9a700f1c705 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3> المادة الحادية عشرة : 
+</h3>
+                                    <div class="HTMLContainer">
+                                        <p><strong>- تعديل الفقرة (12) من هذه المادة وذلك بموجب قرار مجلس الوزراء رقم (476) وتاريخ 1444/7/9هـ، لتصبح بالنص الآتي: &quot;التخلص من النفايات الكيميائية بواسطة مرفق متخصص مرخص له من المركز الوطني لإدارة النفايات، على أن تبلّغ وزارة البيئة والمياه والزراعة (المركز البيئي المختص) قبل التخلص من هذه النفايات وفقاً لما تحدده اللائحة&quot;.</strong></p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/8e4319b1-364d-4602-acb0-afa400a4b7e2?attachmentTitle= المادة الحادية عشرة : 
+" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الثانية عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    <big> تتولي الجهات المختصة– حسب اختصاصها– القيام بما يأتي:</big>
+<BR>1 - الرقابة والتفتيش على المنشآت والمرافق التي تتعامل مع <SPAN ClusterID=1835>المواد الكيميائية</SPAN>؛ للتأكد من الالتزام بأحكام هذا النظام ولائحته وما يصدر من تعليمات تتعلق <SPAN ClusterID=1835>بالمواد الكيميائية .</SPAN><BR>2 -  ضبط مخالفات أحكام هذا النظام وإثباتها، وتحرير محضر بذلك. وتحدد اللائحة إجراءات ضبط المخالفات وإثباتها. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate changed-article">
+                <h3 class="center">المادة الثالثة عشرة :</h3>
+                <div class="HTMLContainer">
+                    <p>1 - مع عدم الإخلال بما تقضي به الأنظمة الأخرى من عقوبات أشد، يعاقب كل من يخالف أي حكم من أحكام هذا النظام بواحدة أو أكثر من العقوبات الآتية:</p>
+
+<div style="margin-right:15px">أ - غرامة مالية لا تزيد على خمسمائة ألف ريال.<br />
+ب - السجن مدة لا تزيد على خمس سنوات.<br />
+ج - منع المخالف من استيراد المواد الكيميائية وإدارتها مدة لا تزيد على خمس سنوات.</div>
+
+<p>2 - يجوز &ndash; إضافة على العقوبات السابقة &ndash; الحكم بإعادة المواد الكيميائية المستوردة محل المخالفة&nbsp;إلى مصدرها، أو إتلافها، وذلك على نفقة المخالف.<br />
+3 - في جميع الأحوال يلزم المخالف بإزالة الآثار المترتبة على المخالفة.</p>
+                </div>
+                <div class="article_btns">
+
+
+                        <a href="#" data-articleid="45137f25-3525-4b4c-8524-a9a700f1c705" class="ancArticlePrevVersions hidden-print"><i class="fas fa-edit hidden-print"></i>تعديلات المادة</a>
+                        <div style="display: none;" class="45137f25-3525-4b4c-8524-a9a700f1c705 popup-list ">
+                                <div class="article_item_popup">
+                                    <h3>المادة الثالثة عشرة :</h3>
+                                    <div class="HTMLContainer">
+                                        <p>&bull;المادة الثالثة عشرة<br />
+-إضافة فقرة الى هذه المادة، يكون نصها الآتي:&nbsp;<br />
+&quot;4= يجوز تضمين الحكم الصادر بتحديد العقوبة النص على نشر ملخصه على نفقة المخالف في إحدى الصحف المحلية، أو في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة، وجسامتها، وتأثيرها على المجتمع، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية&quot;.</p>
+                                    </div>
+                                        <a href="/BoeLaws/Laws/Viewer/3273019a-c94c-464d-9ecb-aa7800dbb60c?attachmentTitle=المادة الثالثة عشرة :" target="_blank" class="hidden-print"></a>
+                                </div>
+                        </div>
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الرابعة عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    تختص <SPAN ClusterID=127>هيئة التحقيق والادعاء العام </SPAN>بالتحقيق والادعاء العام في مخالفات أحكام هذا النظام. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الخامسة عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    يختص <SPAN ClusterID=119>ديوان المظالم </SPAN>بالفصل في جميع المخالفات والمنازعات ودعاوى المطالبة بالتعويض الناشئة عن تطبيق أحكام هذا النظام. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة السادسة عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    <big> لا يسري هذا النظام على ما يأتي:</big>
+<BR>1 - الأدوية.<BR>2 - <SPAN ClusterID=1835>المواد الكيميائية </SPAN>ذات الاستعمال المنزلي التي تحددها اللائحة.<BR>3 -  <SPAN ClusterID=1835>المواد الكيميائية </SPAN>التي تستوردها القوات المسلحة مباشرة لأغراض عسكرية. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة السابعة عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    مع مراعاة ما تقضي به الأنظمة <SPAN ClusterID=1832>والاتفاقات الدولية</SPAN>، يصدر <SPAN ClusterID=35>وزير الداخلية </SPAN>اللائحة التنفيذية لهذا النظام خلال مائة وثمانين يومًا من تاريخ نشره، بناء على توصية من لجنة تكون من: <SPAN ClusterID=84>وزارة الداخلية</SPAN>، <SPAN ClusterID=136>ووزارة الصحة</SPAN>، <SPAN ClusterID=917>ووزارة التجارة والصناعة</SPAN>، <SPAN ClusterID=675>ووزارة النقل</SPAN>، <SPAN ClusterID=1016>ووزارة الزراعة</SPAN>، <SPAN ClusterID=1019>ووزارة المياه والكهرباء</SPAN>، <SPAN ClusterID=1827>ووزارة التعليم العالي</SPAN>، <SPAN ClusterID=105>ووزارة المالية </SPAN>(<SPAN ClusterID=1506>مصلحة الجمارك</SPAN>)، <SPAN ClusterID=1831>والرئاسة العامة للأرصاد وحماية البيئة</SPAN>، <SPAN ClusterID=125>ومدينة الملك عبد العزيز للعلوم والتقنية</SPAN>، <SPAN ClusterID=664>والهيئة العامة للطيران المدني</SPAN>، <SPAN ClusterID=986>والهيئة العامة للاستثمار</SPAN>. 
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+            <div class="article_item no_alternate ">
+                <h3 class="center"> المادة الثامنة عشرة : 
+</h3>
+                <div class="HTMLContainer">
+                    <P>يعمل بهذا النظام بعد مائة وثمانين يومًا من تاريخ نشره في <SPAN ClusterID=140>الجريدة الرسمية</SPAN>،
+                </div>
+                <div class="article_btns">
+
+
+                </div>
+
+            </div>
+
+    </div>
+</div>            <div class="d-flex justify-content-center">
+            </div>
+            <div class="white_gradient"></div>
+            <div style="display: none;" id="divReportIssueContainer">
+                
+
+
+
+
+<form action="/BoeLaws/Laws/ReportIssue" enctype="multipart/form-data" id="frmReportIssue" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="64aee787-4618-4979-b4d8-a9a700f1c647" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>        <div class="row g-2 mt-5">
+                <div class="col-12 col-md-6">
+                    <label for="SenderName">الإسم</label>
+                    <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="SenderName" name="SenderName" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="SenderName" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="Email">البريد الإلكتروني</label>
+                    <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                    <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                </div>
+            <div class="col-12 col-md-6">
+                <label for="Phone">رقم الجوال</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل رقم الجوال لا يجب ان يزيد عن 10" data-val-length-max="10" data-val-regex="رقم هاتف غير صحيح" data-val-regex-pattern="^(05)[0-9]{8}$" data-val-required="حقل رقم الجوال مطلوب" id="Phone" name="Phone" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Phone" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ReportIssueTypeId">النوع</label>
+                <select class="form_control ReportIssue" data-val="true" data-val-number="حقل النوع يجب أن يكون رقم." data-val-required="حقل النوع مطلوب" id="ddlReportIssueType" name="ReportIssueTypeId"><option value="">- اختر -</option>
+<option value="5">تعليق</option>
+<option value="1">خطأ لغوي </option>
+<option value="2">خطأ في مادة</option>
+<option value="3">خطأ في تاريخ </option>
+<option value="4">أخرى</option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ReportIssueTypeId" data-valmsg-replace="true"></span>
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label for="ArticleId">المادة</label>
+                <select class="form_control ReportIssue" id="ddlArticle" name="ArticleId"><option value="">- اختر -</option>
+<option value="25ba3d75-4509-418c-9ad6-a9a700f1c704"> المادة الأولى: 
+ </option>
+<option value="eab38ad7-5c34-4411-a9dc-a9a700f1c705"> المادة الثانية: 
+ </option>
+<option value="81dea736-2ab4-4136-ae84-a9a700f1c705"> المادة الثالثة: 
+ </option>
+<option value="d0ca8037-c006-4350-a69b-a9a700f1c705"> المادة الرابعة : 
+ </option>
+<option value="d99ec01b-113e-4462-9b3a-a9a700f1c705"> المادة الخامسة : 
+ </option>
+<option value="763ca061-1a50-4a87-8a43-a9a700f1c705"> المادة السادسة : 
+ </option>
+<option value="530dad30-bc60-449d-9bb3-a9a700f1c705"> المادة السابعة : 
+ </option>
+<option value="ccc0d52c-5a00-4e86-8f92-a9a700f1c705">المادة الثامنة : </option>
+<option value="77e8186f-a473-4395-a9fc-a9a700f1c705">المادة التاسعة : </option>
+<option value="7440e3bf-be16-4f39-a6f3-a9a700f1c705"> المادة العاشرة : 
+ </option>
+<option value="745a71b9-4a36-4ec8-a0c5-a9a700f1c705"> المادة الحادية عشرة : 
+ </option>
+<option value="be7a442f-d8d3-4a1a-b330-a9a700f1c705"> المادة الثانية عشرة : 
+ </option>
+<option value="45137f25-3525-4b4c-8524-a9a700f1c705">المادة الثالثة عشرة : </option>
+<option value="885356a8-0087-4c50-a9be-a9a700f1c705"> المادة الرابعة عشرة : 
+ </option>
+<option value="7f6d46a0-941a-4358-b5de-a9a700f1c705"> المادة الخامسة عشرة : 
+ </option>
+<option value="65d9447f-d1ae-42d2-bd64-a9a700f1c705"> المادة السادسة عشرة : 
+ </option>
+<option value="3e2e5112-2674-4f71-b55c-a9a700f1c705"> المادة السابعة عشرة : 
+ </option>
+<option value="5da59f8e-50b3-48af-b3af-a9a700f1c706"> المادة الثامنة عشرة : 
+ </option>
+</select>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="ArticleId" data-valmsg-replace="true"></span>
+                <span id="lblArticlevalidation" style="display: none;color: red" class="text-danger help-block">حقل المادة مطلوب</span>
+            </div>
+
+            <div class="col-12">
+                <label for="Description">الوصف</label>
+                <textarea class="form_control" cols="20" data-val="true" data-val-length="حجم النص لحقل الوصف لا يجب ان يزيد عن 4000" data-val-length-max="4000" data-val-regex="لا يسمح بكتابة سكريبت في حقل الوصف" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الوصف مطلوب" id="Description" name="Description" rows="2">
+</textarea>
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captchaHDVK' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captchaHDVK' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                
+                <input class="btn btn-primary" id="btnSaveReportIssue" type="submit" value="إرسال" />
+            </div>
+        </div>
+</form>
+
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaHDVK = new CaptchaWidget('divCaptchaContainer_captchaHDVK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaHDVK.load(); 
+                    }); </script>
+ 
+            </div>
+            <div style="display: none;" id="divSubscripeContainer">
+                
+
+
+<div>
+
+<form action="/BoeLaws/Laws/LawsSubscription" enctype="multipart/form-data" id="frmSubscription64aee787-4618-4979-b4d8-a9a700f1c647" method="post"><div id="CustomValidationSummary"></div><input data-val="true" data-val-required="حقل النظام/اللائحة مطلوب" id="LawId" name="LawId" type="hidden" value="64aee787-4618-4979-b4d8-a9a700f1c647" /><input data-val="true" data-val-number="حقل LanguageId يجب أن يكون رقم." id="LanguageId" name="LanguageId" type="hidden" value="1" /><div id="CustomValidationSummary"></div>    <div class="row g-2 mt-5">
+
+            <div class="col-12 col-md-6">
+                <label for="Name">الإسم</label>
+                <input class="form_control" data-val="true" data-val-length="حجم النص لحقل الإسم لا يجب ان يزيد عن 250" data-val-length-max="250" data-val-regex="لا يسمح بكتابة سكريبت في حقل الإسم" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل الإسم مطلوب" id="Name" name="Name" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+            </div>
+            <div class="col-12 col-md-6">
+                <label for="Email">البريد الإلكتروني</label>
+                <input class="form_control" data-val="true" data-val-email="صيغة البريد الإلكتروني غير صحيحة" data-val-length="حجم النص لحقل البريد الإلكتروني لا يجب ان يزيد عن 50" data-val-length-max="50" data-val-regex="لا يسمح بكتابة سكريبت في حقل البريد الإلكتروني" data-val-regex-pattern="^[^&lt;>{}]+$" id="Email" name="Email" type="text" value="" />
+                <span class="field-validation-valid text-danger help-block" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            </div>
+        <div class="col-12">
+            <label for="LogNotificationIdTypes">يرجى اختيار الحدث ليصلكم اشعار بذلك على البريد الإلكتروني</label>
+            <div><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="2" />اضافة</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="3" />تعديل</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="4" />حذف</label><label class="checkbox-inline"><input name="PostedTypes" type="checkbox" value="5" />أبلغني حين توافر النظام باللغة الإنجليزية</label></div>
+            <span class="field-validation-valid text-danger help-block" data-valmsg-for="PostedTypes" data-valmsg-replace="true"></span>
+        </div>
+            <div class="col-12 app_captcha">
+                <div id='divCaptchaContainer_captcha36IA' class='captcha-box'>
+	                <div class='col-md-6'>
+		                <div class='form-group form-group-lg'>
+                            <label class='control-label' for='Captcha'>رمز التحقق</label>
+			                <input autocomplete="off" class="input-validation-error form-control captcha-input" data-val="true" data-val-length="حجم النص لحقل رمز التحقق لا يجب ان يزيد عن 6" data-val-length-max="6" data-val-regex="لا يسمح بكتابة سكريبت في حقل رمز التحقق" data-val-regex-pattern="^[^&lt;>{}]+$" data-val-required="حقل رمز التحقق مطلوب" id="Captcha" name="Captcha" placeholder="" type="text"></input>
+		                </div>
+		                <div class='form-group'>
+			                <div class='captcha-img'>
+				                <img class='img-captcha' src='/EmbeddedResources/Captcha/Image/captcha36IA' alt='captcha-image'>
+			                </div>
+			                <a href='#' class='captcha-refresh img-captcha-reload'><i class='fas fa-sync'></i></a>
+                        </div>
+<span class="field-validation-valid text-danger help-block captcha-danger" data-valmsg-for="Captcha" data-valmsg-replace="true"></span>
+	                </div>
+                </div>
+                <span id="lblCaptchavalidation" style="display: none;color: red" class="text-danger help-block">قيمة الرمز المدخل غير صحيح</span>
+            </div>
+                    <div class="col-12">
+                <label class="checkbox-inline" for="agreement-64aee787-4618-4979-b4d8-a9a700f1c647">
+                    <input type="checkbox" id="agreement-64aee787-4618-4979-b4d8-a9a700f1c647" class="chk-agreement" />
+                    إشعار إخلاء مسؤولية:
+الإخطارات المرسلة عبر خدمة الاشتراك قد تتأخر لأسباب فنية خارجة عن إرادتنا. الهيئة غير مسؤولة عن أي أضرار أو خسائر ناتجة عن التأخير أو عدم وصول الإخطارات، وكذلك عن دقة أو اكتمال محتواها.
+المستخدم مسؤول عن المتابعة والتحقق من المعلومات، ولا تعد الإخطارات بديلاً عن المتابعة الشخصية.
+باستخدام الخدمة، أنت توافق على شروط إخلاء المسؤولية وتدرك حدود الخدمة والمسؤوليات المتعلقة بها
+                </label>
+                <span class="text-danger help-block">يجب الموافقة على إشعار إخلاء المسؤولية لتتمكن من الاستمرار</span>
+            </div>
+            <div class="col-12 d-flex justify-content-end gap-3">
+                <input class="btn btn-primary btnSubscription" id="btnSubscription" type="submit" data-lawid='64aee787-4618-4979-b4d8-a9a700f1c647' disabled value="إرسال" />
+            </div>
+    </div>
+</form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('input[type="checkbox"][id="agreement-64aee787-4618-4979-b4d8-a9a700f1c647"]').change(function () {
+            var isChecked = $(this).is(':checked');
+            $('input[type="checkbox"][id="agreement-64aee787-4618-4979-b4d8-a9a700f1c647"]').prop('checked', isChecked);
+
+            if (this.checked) {
+                $('.modal .btnSubscription').prop('disabled', false);
+            } else {
+                $('.modal .btnSubscription').prop('disabled', true);
+            }
+        });
+    });
+</script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaHDVK = new CaptchaWidget('divCaptchaContainer_captchaHDVK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaHDVK.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha36IA = new CaptchaWidget('divCaptchaContainer_captcha36IA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha36IA.load(); 
+                    }); </script>
+ 
+            </div>
+            <div id="divAddReportIssueSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة البلاغ بنجاح. شكرا لمشاركتكم
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseReportIssue" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAddSubscriptionSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة الاشتراك بنجاح. شكرا لمشاركتكم 
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseSubscription" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div id="divAAddVisitorFavoriteSuccess" style="display: none;">
+                <h3 class="text-center mb-4">
+                    تم إضافة النظام للمفضلة بنجاح
+                </h3>
+                <div class="modal-footer text-center">
+                    <input class="app_btn" id="btnCloseAddToFavorite" type="submit" value="إغلاق" />
+                </div>
+            </div>
+            <div style="display: none;" id="divPrevVersionsContainer" class="popup-list">
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                الإصدار
+                            </th>
+                            <th>
+                                تاريخ النظام
+                            </th>
+
+                            <th>
+                                الحالة
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+    </div>
+</div>
+
+<a href="#" style="display:block" title="الملاحظات والتعليقات" class="ancReportIssue ancReportIssueTemp" data-lawid="64aee787-4618-4979-b4d8-a9a700f1c647">
+    <i class="fas fa-comments"></i>
+</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="divOverlay" class="loader-overlay">
+            <div class="loader-overlay-shape"></div>
+            <div class="loader-overlay-text" id="dvOverLayText"></div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer">
+            <div class="container">
+                <div class="page-footer__top">
+                    <div class="row justify-content-center">
+                        <a class="page-footer__logo" href="/" title="الرئيسية">
+                            <img src="/Content/new/images/logo-white.svg" alt="logo-white" />
+                        </a>
+                    </div>
+                </div>
+                <div class="page-footer__bottom">
+                    <div class="row">
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-start mb-3 mb-lg-0">
+                            <span class="copyrights">جميع الحقوق محفوظة © <span class="copyrights__year">2026 - 1448</span></span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end">
+                            <ul class="page-footer__bottom__links" id="footer-bottom-links">
+                                <li><a href='http://www.boe.gov.saar/Pages/Privacy.aspx' title="سياسة الخصوصية">سياسة الخصوصية</a></li>
+                                <li><a href='http://www.boe.gov.saar/Pages/TermsOfUse.aspx' title="شروط الاستخدام">شروط الاستخدام</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="scroll-to-top-btn" title="الصعود لأعلى الصفحة">
+                <img src="/Content/new/images/arrow-top-icon.svg" alt="go to top" />
+            </a>
+        </footer>
+
+    </main>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/fontawesome-all.js"></script>
+    <script src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/jquery.slicknav.js"></script>
+    <script src="/Scripts/slick.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/tabso.js"></script>
+
+    <script type="text/javascript" src="/EmbeddedResources/v1.0/Scripts/common.js"></script>
+
+    <script src="/Scripts/App/frontend-custom.js"></script>
+    <script src="/Scripts/App/frontend.js"></script>
+    <script src="/Scripts/jQuery.print.js"></script>
+    
+    <script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <link href="/Content/css/jquery.modal.min.css" rel="stylesheet" />
+    <script src="/Scripts/jquery.modal.min.js"></script>
+    <script src="/Scripts/App/app-frontend.lawdetails.js"></script>
+    <script type="text/javascript">
+
+        //$("img").hide();
+        //$("#imglogo").show();
+        //$(".img-captcha").show();
+
+        document.getElementById('clearResultBtn').addEventListener('click', function () {
+            document.getElementById('queryInput').value = '';
+            document.getElementById('frmSearch').action = '/BoeLaws/Laws/SearchDetails/?Query=';
+            document.getElementById('frmSearch').submit();
+        });
+
+        $(document).ready(function () {
+            $('[data-toggle="tooltip"]').tooltip();
+
+            var keywordsInput = $("#queryInput").val();
+            // Get keywords from the textbox separated by commas
+            var keywords = $.map(keywordsInput.split("،"), $.trim);
+            $(".search_result_item").each(function () {
+                var content = $(this).html();
+
+                keywords.forEach(function (keyword, index) {
+                    //    content = content.replace(new RegExp('(?<!\\p{L}\\p{M}*|[\\p{N}_])(?:' + keyword + ')(?![\\p{L}\\p{N}_])', 'igu'),
+                    //        '<span class="highlight key-background-color-' + index +'">$&</span>');
+                    content = content.replaceAll(keyword, '<span class="highlight key-background-color-' + index + '">' + keyword + '</span>')
+                });
+                $(this).html(content);
+            });
+        });
+
+    </script>
+
+
+    
+    <script src="/Content/new/js/scripts.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132578258-1"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#LawsNotifications').click(function (e) {
+                e.preventDefault();
+                $("#divNotificationContainer").modal({
+                    escapeClose: false,
+                    clickClose: false,
+                    showClose: true,
+                    closeText: ''
+                });
+            });
+        });
+		$('header img, footer img').removeAttr('style')
+		localStorage.setItem('portalUrl', 'http://www.boe.gov.sa');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-132578258-1');
+    </script>
+
+<script id="402511743" src="/EmbeddedResources/v1/Widgets/Captcha/CaptchaWidget.js"></script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captchaHDVK = new CaptchaWidget('divCaptchaContainer_captchaHDVK', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captchaHDVK.load(); 
+                    }); </script>
+<script type="text/javascript" language="javascript"> $(function () { 
+                        var captchaWidLoader_captcha36IA = new CaptchaWidget('divCaptchaContainer_captcha36IA', '/EmbeddedResources/Captcha/Image/');
+                        captchaWidLoader_captcha36IA.load(); 
+                    }); </script>
+</body>
+
+</html>

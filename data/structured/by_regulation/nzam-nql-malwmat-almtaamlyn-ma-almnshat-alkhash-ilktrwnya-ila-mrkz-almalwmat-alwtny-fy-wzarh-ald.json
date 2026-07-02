@@ -1,0 +1,655 @@
+{
+  "metadata": {
+    "slug": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald",
+    "title_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)",
+    "status": "ساري",
+    "issue_date_hijri": "1435/06/21 هـ الموافق : 21/04/2014 مـ",
+    "issue_date_gregorian": "2014-04-21",
+    "publish_date_hijri": "1435/07/17 هـ الموافق : 16/05/2014 مـ",
+    "publish_date_gregorian": "2014-05-16",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ad0354f7-9756-4a4e-8948-a9a700f19705/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text",
+    "version_status_label_ar": "النص الرسمي الحالي",
+    "effective_date_hijri": "1435/07/17 هـ الموافق : 16/05/2014 مـ",
+    "effective_date_gregorian": "2014-05-16",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 14,
+    "paragraph_count": 18,
+    "indexable_paragraph_count": 18,
+    "text_chars": 3950,
+    "verbatim_chars": 3960,
+    "citation_base_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/ad0354f7-9756-4a4e-8948-a9a700f19705/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald.html",
+    "verbatim_file": "data/structured/verbatim_texts/nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى:",
+      "article_heading": "الأولى",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception",
+        "definition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء",
+        "تعريف",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الأولى",
+      "text_verbatim": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك :\n\n1- \tنظام شموس: نظام آلي مركزي لشبكة المعلومات الوطنية، تُنقل من خلاله المعلومات إلى مركز المعلومات الوطني بوزارة الداخلية عبر الشبكات المرخص لها من هيئة الاتصالات وتقنية المعلومات.\n2- \tالوزارة : وزارة الداخلية.\n3- \tالجهات الحكومية:  الجهات المعنية بمنح تراخيص للمنشآت الخاصة بمزاولة الأنشطة الواردة في هذا النظام.\n4-\t المعلومات: معلومات وبيانات المتعاملين مع المنشآت الخاصة، المطلوب تسجيلها وإرسالها عبر نظام شموس إلى مركز المعلومات الوطني بالوزارة.\n5- \tالمنشآت الخاصة: الشركات والمؤسسات والمكاتب والمحلات في القطاع الخاص، الملزمة بالاشتراك في نظام شموس وفق هذا النظام.\n6- \tالمتعامل: الشخص ذو الصفة الطبيعية المستفيد من الخدمات التي تقدمها المنشآت الخاصة.",
+      "text_for_index": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك :\n\n1- نظام شموس: نظام آلي مركزي لشبكة المعلومات الوطنية، تُنقل من خلاله المعلومات إلى مركز المعلومات الوطني بوزارة الداخلية عبر الشبكات المرخص لها من هيئة الاتصالات وتقنية المعلومات.\n2- الوزارة : وزارة الداخلية.\n3- الجهات الحكومية: الجهات المعنية بمنح تراخيص للمنشآت الخاصة بمزاولة الأنشطة الواردة في هذا النظام.\n4- المعلومات: معلومات وبيانات المتعاملين مع المنشآت الخاصة، المطلوب تسجيلها وإرسالها عبر نظام شموس إلى مركز المعلومات الوطني بالوزارة.\n5- المنشآت الخاصة: الشركات والمؤسسات والمكاتب والمحلات في القطاع الخاص، الملزمة بالاشتراك في نظام شموس وفق هذا النظام.\n6- المتعامل: الشخص ذو الصفة الطبيعية المستفيد من الخدمات التي تقدمها المنشآت الخاصة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception",
+            "definition"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "تعريف"
+          ],
+          "text_verbatim": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك :",
+          "text_for_index": "يقصد بالألفاظ والعبارات الآتية - أينما وردت في هذا النظام - المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك :",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "exception",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1- \tنظام شموس: نظام آلي مركزي لشبكة المعلومات الوطنية، تُنقل من خلاله المعلومات إلى مركز المعلومات الوطني بوزارة الداخلية عبر الشبكات المرخص لها من هيئة الاتصالات وتقنية المعلومات.\n2- \tالوزارة : وزارة الداخلية.\n3- \tالجهات الحكومية:  الجهات المعنية بمنح تراخيص للمنشآت الخاصة بمزاولة الأنشطة الواردة في هذا النظام.\n4-\t المعلومات: معلومات وبيانات المتعاملين مع المنشآت الخاصة، المطلوب تسجيلها وإرسالها عبر نظام شموس إلى مركز المعلومات الوطني بالوزارة.\n5- \tالمنشآت الخاصة: الشركات والمؤسسات والمكاتب والمحلات في القطاع الخاص، الملزمة بالاشتراك في نظام شموس وفق هذا النظام.\n6- \tالمتعامل: الشخص ذو الصفة الطبيعية المستفيد من الخدمات التي تقدمها المنشآت الخاصة.",
+          "text_for_index": "1- نظام شموس: نظام آلي مركزي لشبكة المعلومات الوطنية، تُنقل من خلاله المعلومات إلى مركز المعلومات الوطني بوزارة الداخلية عبر الشبكات المرخص لها من هيئة الاتصالات وتقنية المعلومات.\n2- الوزارة : وزارة الداخلية.\n3- الجهات الحكومية: الجهات المعنية بمنح تراخيص للمنشآت الخاصة بمزاولة الأنشطة الواردة في هذا النظام.\n4- المعلومات: معلومات وبيانات المتعاملين مع المنشآت الخاصة، المطلوب تسجيلها وإرسالها عبر نظام شموس إلى مركز المعلومات الوطني بالوزارة.\n5- المنشآت الخاصة: الشركات والمؤسسات والمكاتب والمحلات في القطاع الخاص، الملزمة بالاشتراك في نظام شموس وفق هذا النظام.\n6- المتعامل: الشخص ذو الصفة الطبيعية المستفيد من الخدمات التي تقدمها المنشآت الخاصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية:",
+      "article_heading": "الثانية",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الثانية",
+      "text_verbatim": "يهدف هذا النظام إلى وضع القواعد العامة لنقل معلومات المتعاملين مع المنشآت الخاصة إلى مركز المعلومات الوطني في وزارة الداخلية إلكترونيًّا عبر نظام شموس، وتحديد آلية ضبط المخالفات والعقوبات المترتبة عليها.",
+      "text_for_index": "يهدف هذا النظام إلى وضع القواعد العامة لنقل معلومات المتعاملين مع المنشآت الخاصة إلى مركز المعلومات الوطني في وزارة الداخلية إلكترونيًّا عبر نظام شموس، وتحديد آلية ضبط المخالفات والعقوبات المترتبة عليها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "جزاء"
+          ],
+          "text_verbatim": "يهدف هذا النظام إلى وضع القواعد العامة لنقل معلومات المتعاملين مع المنشآت الخاصة إلى مركز المعلومات الوطني في وزارة الداخلية إلكترونيًّا عبر نظام شموس، وتحديد آلية ضبط المخالفات والعقوبات المترتبة عليها.",
+          "text_for_index": "يهدف هذا النظام إلى وضع القواعد العامة لنقل معلومات المتعاملين مع المنشآت الخاصة إلى مركز المعلومات الوطني في وزارة الداخلية إلكترونيًّا عبر نظام شموس، وتحديد آلية ضبط المخالفات والعقوبات المترتبة عليها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة:",
+      "article_heading": "الثالثة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الثالثة",
+      "text_verbatim": "يسري هذا النظام على المنشآت الخاصة التي تمارس الأنشطة الآتية:\n\n1 - مرافق الإيواء السياحي، وتأجير الاستراحات.\n2 - تأجير السيارات.\n3 - شراء الذهب والمجوهرات من المتعامل.\n4 - نقل الركاب بين المدن داخل المملكة، أو إلى خارجها.\n5 - نقل المركبات.\n6 - تأجير العقار.\n7 - المراكز الرياضية.\n8 - بيع المركبات الملغى تسجيلها (محلات التشليح).",
+      "text_for_index": "يسري هذا النظام على المنشآت الخاصة التي تمارس الأنشطة الآتية:\n\n1 - مرافق الإيواء السياحي، وتأجير الاستراحات.\n2 - تأجير السيارات.\n3 - شراء الذهب والمجوهرات من المتعامل.\n4 - نقل الركاب بين المدن داخل المملكة، أو إلى خارجها.\n5 - نقل المركبات.\n6 - تأجير العقار.\n7 - المراكز الرياضية.\n8 - بيع المركبات الملغى تسجيلها (محلات التشليح).",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يسري هذا النظام على المنشآت الخاصة التي تمارس الأنشطة الآتية:",
+          "text_for_index": "يسري هذا النظام على المنشآت الخاصة التي تمارس الأنشطة الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-3::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "1 - مرافق الإيواء السياحي، وتأجير الاستراحات.\n2 - تأجير السيارات.\n3 - شراء الذهب والمجوهرات من المتعامل.\n4 - نقل الركاب بين المدن داخل المملكة، أو إلى خارجها.\n5 - نقل المركبات.\n6 - تأجير العقار.\n7 - المراكز الرياضية.\n8 - بيع المركبات الملغى تسجيلها (محلات التشليح).",
+          "text_for_index": "1 - مرافق الإيواء السياحي، وتأجير الاستراحات.\n2 - تأجير السيارات.\n3 - شراء الذهب والمجوهرات من المتعامل.\n4 - نقل الركاب بين المدن داخل المملكة، أو إلى خارجها.\n5 - نقل المركبات.\n6 - تأجير العقار.\n7 - المراكز الرياضية.\n8 - بيع المركبات الملغى تسجيلها (محلات التشليح).",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة:",
+      "article_heading": "الرابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الرابعة",
+      "text_verbatim": "تتولى الوزارة مسؤولية تشغيل نظام شموس، والإشراف على تطبيقه، وتطويره، واتخاذ الإجراءات اللازمة لتحقيق ذلك.",
+      "text_for_index": "تتولى الوزارة مسؤولية تشغيل نظام شموس، والإشراف على تطبيقه، وتطويره، واتخاذ الإجراءات اللازمة لتحقيق ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تتولى الوزارة مسؤولية تشغيل نظام شموس، والإشراف على تطبيقه، وتطويره، واتخاذ الإجراءات اللازمة لتحقيق ذلك.",
+          "text_for_index": "تتولى الوزارة مسؤولية تشغيل نظام شموس، والإشراف على تطبيقه، وتطويره، واتخاذ الإجراءات اللازمة لتحقيق ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة:",
+      "article_heading": "الخامسة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الخامسة",
+      "text_verbatim": "تتولى الوزارة التنسيق مع الجهات الحكومية لضمان ربطها بنظام شموس، وتحديد نوعية المعلومات التي يجب إدخالها في النظام، بما فيها الإبلاغ عن مخالفات أحكام هذا النظام، وتحديد آلية تبادل تلك المعلومات وكيفية استفادة الجهات الحكومية منها.",
+      "text_for_index": "تتولى الوزارة التنسيق مع الجهات الحكومية لضمان ربطها بنظام شموس، وتحديد نوعية المعلومات التي يجب إدخالها في النظام، بما فيها الإبلاغ عن مخالفات أحكام هذا النظام، وتحديد آلية تبادل تلك المعلومات وكيفية استفادة الجهات الحكومية منها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "تتولى الوزارة التنسيق مع الجهات الحكومية لضمان ربطها بنظام شموس، وتحديد نوعية المعلومات التي يجب إدخالها في النظام، بما فيها الإبلاغ عن مخالفات أحكام هذا النظام، وتحديد آلية تبادل تلك المعلومات وكيفية استفادة الجهات الحكومية منها.",
+          "text_for_index": "تتولى الوزارة التنسيق مع الجهات الحكومية لضمان ربطها بنظام شموس، وتحديد نوعية المعلومات التي يجب إدخالها في النظام، بما فيها الإبلاغ عن مخالفات أحكام هذا النظام، وتحديد آلية تبادل تلك المعلومات وكيفية استفادة الجهات الحكومية منها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة:",
+      "article_heading": "السادسة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة السادسة",
+      "text_verbatim": "تقوم الوزارة - بالتنسيق مع الجهات الحكومية - بوضع آلية للتأكد من اشتراك المنشآت الخاصة في نظام شموس قبل إصدار رخصة مزاولة النشاط أو تجديدها.",
+      "text_for_index": "تقوم الوزارة - بالتنسيق مع الجهات الحكومية - بوضع آلية للتأكد من اشتراك المنشآت الخاصة في نظام شموس قبل إصدار رخصة مزاولة النشاط أو تجديدها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "تقوم الوزارة - بالتنسيق مع الجهات الحكومية - بوضع آلية للتأكد من اشتراك المنشآت الخاصة في نظام شموس قبل إصدار رخصة مزاولة النشاط أو تجديدها.",
+          "text_for_index": "تقوم الوزارة - بالتنسيق مع الجهات الحكومية - بوضع آلية للتأكد من اشتراك المنشآت الخاصة في نظام شموس قبل إصدار رخصة مزاولة النشاط أو تجديدها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة:",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة السابعة",
+      "text_verbatim": "يجب على المنشآت الخاصة الالتزام بما يأتي:\n\n1 - الاشتراك في نظام شموس.\n2 - تسجيل المعلومات بشكل كامل.\n3 - تسجيل المعلومات بشكل صحيح.\n4 -  تسجيل المعلومات بشكل فوري منذُ بدء التعامل مع المتعامل.",
+      "text_for_index": "يجب على المنشآت الخاصة الالتزام بما يأتي:\n\n1 - الاشتراك في نظام شموس.\n2 - تسجيل المعلومات بشكل كامل.\n3 - تسجيل المعلومات بشكل صحيح.\n4 - تسجيل المعلومات بشكل فوري منذُ بدء التعامل مع المتعامل.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يجب على المنشآت الخاصة الالتزام بما يأتي:",
+          "text_for_index": "يجب على المنشآت الخاصة الالتزام بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1 - الاشتراك في نظام شموس.\n2 - تسجيل المعلومات بشكل كامل.\n3 - تسجيل المعلومات بشكل صحيح.\n4 -  تسجيل المعلومات بشكل فوري منذُ بدء التعامل مع المتعامل.",
+          "text_for_index": "1 - الاشتراك في نظام شموس.\n2 - تسجيل المعلومات بشكل كامل.\n3 - تسجيل المعلومات بشكل صحيح.\n4 - تسجيل المعلومات بشكل فوري منذُ بدء التعامل مع المتعامل.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة:",
+      "article_heading": "الثامنة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure",
+        "penalty"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء",
+        "جزاء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الثامنة",
+      "text_verbatim": "1- تتولى الوزارة التأكد من تطبيق المنشآت الخاصة لأحكام هذا النظام، وضبط المخالفات، وتطبيق العقوبات المقررة.\n2- تتولى الوزارة - بالتنسيق مع الجهات الحكومية - وضع الإجراءات اللازمة لقيام تلك الجهات (وفق اختصاصاتها) بإبلاغ الوزارة عن المنشآت الخاصة المخالفة لأحكام هذا النظام.",
+      "text_for_index": "1- تتولى الوزارة التأكد من تطبيق المنشآت الخاصة لأحكام هذا النظام، وضبط المخالفات، وتطبيق العقوبات المقررة.\n2- تتولى الوزارة - بالتنسيق مع الجهات الحكومية - وضع الإجراءات اللازمة لقيام تلك الجهات (وفق اختصاصاتها) بإبلاغ الوزارة عن المنشآت الخاصة المخالفة لأحكام هذا النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure",
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء",
+            "جزاء"
+          ],
+          "text_verbatim": "1- تتولى الوزارة التأكد من تطبيق المنشآت الخاصة لأحكام هذا النظام، وضبط المخالفات، وتطبيق العقوبات المقررة.\n2- تتولى الوزارة - بالتنسيق مع الجهات الحكومية - وضع الإجراءات اللازمة لقيام تلك الجهات (وفق اختصاصاتها) بإبلاغ الوزارة عن المنشآت الخاصة المخالفة لأحكام هذا النظام.",
+          "text_for_index": "1- تتولى الوزارة التأكد من تطبيق المنشآت الخاصة لأحكام هذا النظام، وضبط المخالفات، وتطبيق العقوبات المقررة.\n2- تتولى الوزارة - بالتنسيق مع الجهات الحكومية - وضع الإجراءات اللازمة لقيام تلك الجهات (وفق اختصاصاتها) بإبلاغ الوزارة عن المنشآت الخاصة المخالفة لأحكام هذا النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة:",
+      "article_heading": "التاسعة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "liability",
+        "labor"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض",
+        "عمل"
+      ],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة التاسعة",
+      "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر؛ تعاقب المنشأة الخاصة التي تخالف أحكام هذا النظام، بالآتي:\n\n1  -\t عند مخالفتها للفقرة (1) من المادة (السابعة) من هذا النظام؛ تكون العقوبة بالترتيب الآتي: أ - الإنذار.\nب - غرامة قدرها (10.000) عشرة آلاف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بالإنذار.\nج - غرامة قدرها (25.000) خمسة وعشرون ألف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليها في الفقرة (ب) من الفقرة (1) من هذه المادة.\nد - إيقاف النشاط إلى حين اشتراكها، وذلك إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليه في الفقرة (ج) من الفقرة (1) من هذه المادة، على أن يكون ذلك بعد التنسيق مع الجهات الحكومية ذات العلاقة، مع مراعاة عدم إلحاق الضرر بالمتعاملين مع المنشأة.",
+      "text_for_index": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر؛ تعاقب المنشأة الخاصة التي تخالف أحكام هذا النظام، بالآتي:\n\n1 - عند مخالفتها للفقرة (1) من المادة (السابعة) من هذا النظام؛ تكون العقوبة بالترتيب الآتي: أ - الإنذار.\nب - غرامة قدرها (10.000) عشرة آلاف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بالإنذار.\nج - غرامة قدرها (25.000) خمسة وعشرون ألف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليها في الفقرة (ب) من الفقرة (1) من هذه المادة.\nد - إيقاف النشاط إلى حين اشتراكها، وذلك إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليه في الفقرة (ج) من الفقرة (1) من هذه المادة، على أن يكون ذلك بعد التنسيق مع الجهات الحكومية ذات العلاقة، مع مراعاة عدم إلحاق الضرر بالمتعاملين مع المنشأة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر؛ تعاقب المنشأة الخاصة التي تخالف أحكام هذا النظام، بالآتي:",
+          "text_for_index": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر؛ تعاقب المنشأة الخاصة التي تخالف أحكام هذا النظام، بالآتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-9::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "1  -\t عند مخالفتها للفقرة (1) من المادة (السابعة) من هذا النظام؛ تكون العقوبة بالترتيب الآتي: أ - الإنذار.\nب - غرامة قدرها (10.000) عشرة آلاف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بالإنذار.\nج - غرامة قدرها (25.000) خمسة وعشرون ألف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليها في الفقرة (ب) من الفقرة (1) من هذه المادة.\nد - إيقاف النشاط إلى حين اشتراكها، وذلك إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليه في الفقرة (ج) من الفقرة (1) من هذه المادة، على أن يكون ذلك بعد التنسيق مع الجهات الحكومية ذات العلاقة، مع مراعاة عدم إلحاق الضرر بالمتعاملين مع المنشأة.",
+          "text_for_index": "1 - عند مخالفتها للفقرة (1) من المادة (السابعة) من هذا النظام؛ تكون العقوبة بالترتيب الآتي: أ - الإنذار.\nب - غرامة قدرها (10.000) عشرة آلاف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بالإنذار.\nج - غرامة قدرها (25.000) خمسة وعشرون ألف ريـال إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليها في الفقرة (ب) من الفقرة (1) من هذه المادة.\nد - إيقاف النشاط إلى حين اشتراكها، وذلك إذا لم تشترك خلال ثلاثين يوماً من تاريخ تبليغها بقرار فرض الغرامة المشار إليه في الفقرة (ج) من الفقرة (1) من هذه المادة، على أن يكون ذلك بعد التنسيق مع الجهات الحكومية ذات العلاقة، مع مراعاة عدم إلحاق الضرر بالمتعاملين مع المنشأة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة:",
+      "article_heading": "العاشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "penalty",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "جزاء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة العاشرة",
+      "text_verbatim": "تصدر العقوبات المنصوص عليها في المادة (التاسعة) من هذا النظام؛ بقرار من وزير الداخلية أو من يفوضه، ويجوز لمن صدر في حقه قرار بإحدى العقوبات الاعتراض عليه أمام المحكمة الإدارية خلال ستين يوما من تاريخ العلم بالقرار الصادر من الوزارة برفض التظلم, أو مضي ستين يوما دون البت فيه, وفقا لأحكام نظام المرافعات أمام ديوان المظالم.",
+      "text_for_index": "تصدر العقوبات المنصوص عليها في المادة (التاسعة) من هذا النظام؛ بقرار من وزير الداخلية أو من يفوضه، ويجوز لمن صدر في حقه قرار بإحدى العقوبات الاعتراض عليه أمام المحكمة الإدارية خلال ستين يوما من تاريخ العلم بالقرار الصادر من الوزارة برفض التظلم, أو مضي ستين يوما دون البت فيه, وفقا لأحكام نظام المرافعات أمام ديوان المظالم.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "تصدر العقوبات المنصوص عليها في المادة (التاسعة) من هذا النظام؛ بقرار من وزير الداخلية أو من يفوضه، ويجوز لمن صدر في حقه قرار بإحدى العقوبات الاعتراض عليه أمام المحكمة الإدارية خلال ستين يوما من تاريخ العلم بالقرار الصادر من الوزارة برفض التظلم, أو مضي ستين يوما دون البت فيه, وفقا لأحكام نظام المرافعات أمام ديوان المظالم.",
+          "text_for_index": "تصدر العقوبات المنصوص عليها في المادة (التاسعة) من هذا النظام؛ بقرار من وزير الداخلية أو من يفوضه، ويجوز لمن صدر في حقه قرار بإحدى العقوبات الاعتراض عليه أمام المحكمة الإدارية خلال ستين يوما من تاريخ العلم بالقرار الصادر من الوزارة برفض التظلم, أو مضي ستين يوما دون البت فيه, وفقا لأحكام نظام المرافعات أمام ديوان المظالم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة:",
+      "article_heading": "الحادية عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الحادية عشرة",
+      "text_verbatim": "تقوم الوزارة باتخاذ جميع الإجراءات الفنية والتقنية التي تضمن خصوصية المنشآت الخاصة، وسرية المعلومات، وضمان عدم استخدامها للأغراض غير المعدة لها.",
+      "text_for_index": "تقوم الوزارة باتخاذ جميع الإجراءات الفنية والتقنية التي تضمن خصوصية المنشآت الخاصة، وسرية المعلومات، وضمان عدم استخدامها للأغراض غير المعدة لها.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "تقوم الوزارة باتخاذ جميع الإجراءات الفنية والتقنية التي تضمن خصوصية المنشآت الخاصة، وسرية المعلومات، وضمان عدم استخدامها للأغراض غير المعدة لها.",
+          "text_for_index": "تقوم الوزارة باتخاذ جميع الإجراءات الفنية والتقنية التي تضمن خصوصية المنشآت الخاصة، وسرية المعلومات، وضمان عدم استخدامها للأغراض غير المعدة لها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة:",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الثانية عشرة",
+      "text_verbatim": "لا تتحمل المنشآت الخاصة تكاليف مالية مقابل اشتراكها في نظام شموس.",
+      "text_for_index": "لا تتحمل المنشآت الخاصة تكاليف مالية مقابل اشتراكها في نظام شموس.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "لا تتحمل المنشآت الخاصة تكاليف مالية مقابل اشتراكها في نظام شموس.",
+          "text_for_index": "لا تتحمل المنشآت الخاصة تكاليف مالية مقابل اشتراكها في نظام شموس.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة:",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "enforcement"
+      ],
+      "topic_tags_ar": [
+        "تنفيذ"
+      ],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الثالثة عشرة",
+      "text_verbatim": "يصدر وزير الداخلية اللائحة التنفيذية لهذا النظام خلال تسعين يوماً من تاريخ صدوره.",
+      "text_for_index": "يصدر وزير الداخلية اللائحة التنفيذية لهذا النظام خلال تسعين يوماً من تاريخ صدوره.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر وزير الداخلية اللائحة التنفيذية لهذا النظام خلال تسعين يوماً من تاريخ صدوره.",
+          "text_for_index": "يصدر وزير الداخلية اللائحة التنفيذية لهذا النظام خلال تسعين يوماً من تاريخ صدوره.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة:",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام نقل معلومات المتعاملين مع المنشآت الخاصة إلكترونياً إلى مركز المعلومات الوطني في وزارة الداخلية (نظام شموس الأمني)، المادة الرابعة عشرة",
+      "text_verbatim": "يعمل بهذا النظام بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بهذا النظام بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "nzam-nql-malwmat-almtaamlyn-ma-almnshat-alkhash-ilktrwnya-ila-mrkz-almalwmat-alwtny-fy-wzarh-ald::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بهذا النظام بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بهذا النظام بعد تسعين يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}

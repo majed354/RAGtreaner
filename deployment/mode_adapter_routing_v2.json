@@ -1,0 +1,33 @@
+{
+  "version": "mode_adapter_routing_v2",
+  "created_at": "2026-04-18",
+  "purpose": "Stage-two routing after v5 opinion recovery. Use the best adapter per legal mode under the corrected generation budget.",
+  "default_strategy": "per_mode",
+  "adapters": {
+    "v4_general_stage_two": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost",
+    "v5_opinion_recovery": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v5-opinion-recovery"
+  },
+  "routing": {
+    "legal_opinion": {
+      "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v5-opinion-recovery",
+      "reason": "Best current answer-only quality and citation clarity on the opinion path with zero thought leakage."
+    },
+    "legal_memo": {
+      "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost",
+      "reason": "Best current memo structure and completion rate after the corrected-budget evaluation."
+    },
+    "legal_analysis": {
+      "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost",
+      "reason": "Best current analysis answer-only quality and citation clarity without structural regressions."
+    }
+  },
+  "fallback": {
+    "adapter": "/Users/majd/Desktop/codex/qlora-m3-ultra/adapters/gemma4-e2b-legal-modes-v4-memo-boost",
+    "reason": "Best general fallback if per-mode routing is unavailable."
+  },
+  "notes": [
+    "v5 is a successful opinion-specialist refinement, not the best single general adapter.",
+    "Keep the benchmark generation budget policy aligned with this routing decision.",
+    "All v4/v5 benchmark outputs in this decision were verified to have zero thought leakage."
+  ]
+}

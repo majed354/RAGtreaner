@@ -1,0 +1,1847 @@
+{
+  "metadata": {
+    "slug": "real-estate-brokerage-law",
+    "title_ar": "نظام الوساطة العقارية",
+    "status": "ساري",
+    "issue_date_hijri": "1443/11/30 هـ الموافق : 29/06/2022 مـ",
+    "issue_date_gregorian": "2022-06-29",
+    "publish_date_hijri": "1443/12/23 هـ الموافق : 22/07/2022 مـ",
+    "publish_date_gregorian": "2022-07-22",
+    "official_source_urls": [
+      "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f1bfd1f1-0c50-468e-b9a5-aeee008e493a/1"
+    ],
+    "organized_source": "documents/saudi_regulations/official_latest/nzam-alwsath-alaqaryh.pdf",
+    "knowledge_file": "documents/knowledge/saudi_regulations/nzam-alwsath-alaqaryh.txt",
+    "document_scope": "system_only",
+    "related_regulations": [],
+    "catalog_source": "official_catalog",
+    "version_status": "current_official_text_with_embedded_amendment_notes",
+    "version_status_label_ar": "النص الحالي مع إشارات تعديل",
+    "effective_date_hijri": "1443/12/23 هـ الموافق : 22/07/2022 مـ",
+    "effective_date_gregorian": "2022-07-22",
+    "historical_versions_available": false,
+    "recent_update_note": "",
+    "article_count": 24,
+    "paragraph_count": 84,
+    "indexable_paragraph_count": 84,
+    "text_chars": 9526,
+    "verbatim_chars": 9526,
+    "citation_base_ar": "نظام الوساطة العقارية",
+    "official_source_url_primary": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/f1bfd1f1-0c50-468e-b9a5-aeee008e493a/1",
+    "extraction_source": "official_boe_html",
+    "official_snapshot": "data/structured/official_snapshots/real-estate-brokerage-law.html",
+    "verbatim_file": "data/structured/verbatim_texts/real-estate-brokerage-law.txt"
+  },
+  "articles": [
+    {
+      "article_index": 1,
+      "article_label": "الأولى",
+      "article_label_raw": "الأولى",
+      "article_heading": "الأولى",
+      "article_type": "liability",
+      "article_type_label_ar": "مسؤولية أو تعويض",
+      "legal_function_tags": [
+        "remedy",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الأولى",
+      "text_verbatim": "لغرض تطبيق أحكام النظام، يكون للألفاظ والعبارات الآتية المعاني المبيّنة أمام كل منها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام الوساطة العقارية.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالهيئة: الهيئة العامة للعقار.\n\nالمجلس: مجلس إدارة الهيئة.\n\nالوساطة العقارية: ممارسة نشاط التوسط في إتمام صفقة عقارية بين أطرافها؛ وذلك مقابل الحصول على عمولة. ويشمل ذلك الوساطة الإلكترونية من خلال وسائل التقنية؛ كالمواقع الإلكترونية ومنصات التواصل الاجتماعي ونحوها.\n\nالخدمات العقارية: الأنشطة المتعلقة بالعقار والتسويق له وإدارته وبيعه وبيع منفعته وتأجيره، ومن ذلك: التسويق العقاري، وإدارة الأملاك، وإدارة المرافق، والمزادات العقارية، والإعلانات العقارية، والاستشارات والتحليلات العقارية.\n\nالخدمات العقارية المكملة: أنشطة يرخص لها وفق أنظمة خاصة.\n\nالصفقة العقارية: بيع أو شراء أو تأجير العقار أو منفعته.\n\nعقد الوساطة: اتفاق بين الوسيط العقاري والطرف المستفيد من الوساطة العقارية؛ لإتمام صفقة عقارية أو تقديم خدمة عقارية.\n\nالوسيط العقاري: شخص طبيعي أو اعتباري، مرخص له بممارسة الوساطة العقارية أو تقديم الخدمات العقارية وفقاً لأحكام النظام.\n\nالعمولة: مبلغ يستحقه الوسيط العقاري مقابل الوساطة العقارية.\n\nالتسويق العقاري: ترويج منتج عقاري باستخدام الوسائل الدعائية والإعلانية.\n\nإدارة الأملاك: تولي الشؤون المالية والإدارية للعقار نيابة عن مالكه أو مالك منفعته.\n\nإدارة المرافق: تولي الشؤون الفنية للعقار نيابة عن مالكه أو مالك منفعته، مثل إدارة الشبكات الداخلية كالمياه والغاز والكهرباء وتكييف الهواء والهاتف وشبكات الكمبيوتر والتلفاز والصرف الصحي وتصريف مياه الأمطار والتخلص من النفايات والمخلفات وتسليم البريد أو الطرود أو البضائع ونحوها.\n\nالمزادات العقارية: نشاط المزايدة العلنية على عقار من أجل بيعه أو بيع منفعته أو تأجيره؛ للوصول بثمنه إلى أعلى قدر. ويشمل ذلك المزادات الإلكترونية.\n\nالضمان: مبلغ يدفعه المستأجر على سبيل الأمانة؛ لتعويض مالك العقار أو المنفعة عن أي ضرر داخل في ضمانة المستأجر وواقع بسببه.",
+      "text_for_index": "لغرض تطبيق أحكام النظام، يكون للألفاظ والعبارات الآتية المعاني المبيّنة أمام كل منها، ما لم يقتض السياق غير ذلك:\n\nالنظام: نظام الوساطة العقارية.\n\nاللائحة: اللائحة التنفيذية للنظام.\n\nالهيئة: الهيئة العامة للعقار.\n\nالمجلس: مجلس إدارة الهيئة.\n\nالوساطة العقارية: ممارسة نشاط التوسط في إتمام صفقة عقارية بين أطرافها؛ وذلك مقابل الحصول على عمولة. ويشمل ذلك الوساطة الإلكترونية من خلال وسائل التقنية؛ كالمواقع الإلكترونية ومنصات التواصل الاجتماعي ونحوها.\n\nالخدمات العقارية: الأنشطة المتعلقة بالعقار والتسويق له وإدارته وبيعه وبيع منفعته وتأجيره، ومن ذلك: التسويق العقاري، وإدارة الأملاك، وإدارة المرافق، والمزادات العقارية، والإعلانات العقارية، والاستشارات والتحليلات العقارية.\n\nالخدمات العقارية المكملة: أنشطة يرخص لها وفق أنظمة خاصة.\n\nالصفقة العقارية: بيع أو شراء أو تأجير العقار أو منفعته.\n\nعقد الوساطة: اتفاق بين الوسيط العقاري والطرف المستفيد من الوساطة العقارية؛ لإتمام صفقة عقارية أو تقديم خدمة عقارية.\n\nالوسيط العقاري: شخص طبيعي أو اعتباري، مرخص له بممارسة الوساطة العقارية أو تقديم الخدمات العقارية وفقاً لأحكام النظام.\n\nالعمولة: مبلغ يستحقه الوسيط العقاري مقابل الوساطة العقارية.\n\nالتسويق العقاري: ترويج منتج عقاري باستخدام الوسائل الدعائية والإعلانية.\n\nإدارة الأملاك: تولي الشؤون المالية والإدارية للعقار نيابة عن مالكه أو مالك منفعته.\n\nإدارة المرافق: تولي الشؤون الفنية للعقار نيابة عن مالكه أو مالك منفعته، مثل إدارة الشبكات الداخلية كالمياه والغاز والكهرباء وتكييف الهواء والهاتف وشبكات الكمبيوتر والتلفاز والصرف الصحي وتصريف مياه الأمطار والتخلص من النفايات والمخلفات وتسليم البريد أو الطرود أو البضائع ونحوها.\n\nالمزادات العقارية: نشاط المزايدة العلنية على عقار من أجل بيعه أو بيع منفعته أو تأجيره؛ للوصول بثمنه إلى أعلى قدر. ويشمل ذلك المزادات الإلكترونية.\n\nالضمان: مبلغ يدفعه المستأجر على سبيل الأمانة؛ لتعويض مالك العقار أو المنفعة عن أي ضرر داخل في ضمانة المستأجر وواقع بسببه.",
+      "paragraph_count": 17,
+      "indexable_paragraph_count": 17,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "استثناء"
+          ],
+          "text_verbatim": "لغرض تطبيق أحكام النظام، يكون للألفاظ والعبارات الآتية المعاني المبيّنة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+          "text_for_index": "لغرض تطبيق أحكام النظام، يكون للألفاظ والعبارات الآتية المعاني المبيّنة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "النظام: نظام الوساطة العقارية.",
+          "text_for_index": "النظام: نظام الوساطة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "remedy",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "إجراء"
+          ],
+          "text_verbatim": "اللائحة: اللائحة التنفيذية للنظام.",
+          "text_for_index": "اللائحة: اللائحة التنفيذية للنظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "الهيئة: الهيئة العامة للعقار.",
+          "text_for_index": "الهيئة: الهيئة العامة للعقار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "المجلس: مجلس إدارة الهيئة.",
+          "text_for_index": "المجلس: مجلس إدارة الهيئة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "remedy",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "الوساطة العقارية: ممارسة نشاط التوسط في إتمام صفقة عقارية بين أطرافها؛ وذلك مقابل الحصول على عمولة. ويشمل ذلك الوساطة الإلكترونية من خلال وسائل التقنية؛ كالمواقع الإلكترونية ومنصات التواصل الاجتماعي ونحوها.",
+          "text_for_index": "الوساطة العقارية: ممارسة نشاط التوسط في إتمام صفقة عقارية بين أطرافها؛ وذلك مقابل الحصول على عمولة. ويشمل ذلك الوساطة الإلكترونية من خلال وسائل التقنية؛ كالمواقع الإلكترونية ومنصات التواصل الاجتماعي ونحوها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "الخدمات العقارية: الأنشطة المتعلقة بالعقار والتسويق له وإدارته وبيعه وبيع منفعته وتأجيره، ومن ذلك: التسويق العقاري، وإدارة الأملاك، وإدارة المرافق، والمزادات العقارية، والإعلانات العقارية، والاستشارات والتحليلات العقارية.",
+          "text_for_index": "الخدمات العقارية: الأنشطة المتعلقة بالعقار والتسويق له وإدارته وبيعه وبيع منفعته وتأجيره، ومن ذلك: التسويق العقاري، وإدارة الأملاك، وإدارة المرافق، والمزادات العقارية، والإعلانات العقارية، والاستشارات والتحليلات العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "الخدمات العقارية المكملة: أنشطة يرخص لها وفق أنظمة خاصة.",
+          "text_for_index": "الخدمات العقارية المكملة: أنشطة يرخص لها وفق أنظمة خاصة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "الصفقة العقارية: بيع أو شراء أو تأجير العقار أو منفعته.",
+          "text_for_index": "الصفقة العقارية: بيع أو شراء أو تأجير العقار أو منفعته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-10",
+          "paragraph_index": 10,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "عقد الوساطة: اتفاق بين الوسيط العقاري والطرف المستفيد من الوساطة العقارية؛ لإتمام صفقة عقارية أو تقديم خدمة عقارية.",
+          "text_for_index": "عقد الوساطة: اتفاق بين الوسيط العقاري والطرف المستفيد من الوساطة العقارية؛ لإتمام صفقة عقارية أو تقديم خدمة عقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-11",
+          "paragraph_index": 11,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "الوسيط العقاري: شخص طبيعي أو اعتباري، مرخص له بممارسة الوساطة العقارية أو تقديم الخدمات العقارية وفقاً لأحكام النظام.",
+          "text_for_index": "الوسيط العقاري: شخص طبيعي أو اعتباري، مرخص له بممارسة الوساطة العقارية أو تقديم الخدمات العقارية وفقاً لأحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-12",
+          "paragraph_index": 12,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "العمولة: مبلغ يستحقه الوسيط العقاري مقابل الوساطة العقارية.",
+          "text_for_index": "العمولة: مبلغ يستحقه الوسيط العقاري مقابل الوساطة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-13",
+          "paragraph_index": 13,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "التسويق العقاري: ترويج منتج عقاري باستخدام الوسائل الدعائية والإعلانية.",
+          "text_for_index": "التسويق العقاري: ترويج منتج عقاري باستخدام الوسائل الدعائية والإعلانية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-14",
+          "paragraph_index": 14,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "إدارة الأملاك: تولي الشؤون المالية والإدارية للعقار نيابة عن مالكه أو مالك منفعته.",
+          "text_for_index": "إدارة الأملاك: تولي الشؤون المالية والإدارية للعقار نيابة عن مالكه أو مالك منفعته.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-15",
+          "paragraph_index": 15,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "إدارة المرافق: تولي الشؤون الفنية للعقار نيابة عن مالكه أو مالك منفعته، مثل إدارة الشبكات الداخلية كالمياه والغاز والكهرباء وتكييف الهواء والهاتف وشبكات الكمبيوتر والتلفاز والصرف الصحي وتصريف مياه الأمطار والتخلص من النفايات والمخلفات وتسليم البريد أو الطرود أو البضائع ونحوها.",
+          "text_for_index": "إدارة المرافق: تولي الشؤون الفنية للعقار نيابة عن مالكه أو مالك منفعته، مثل إدارة الشبكات الداخلية كالمياه والغاز والكهرباء وتكييف الهواء والهاتف وشبكات الكمبيوتر والتلفاز والصرف الصحي وتصريف مياه الأمطار والتخلص من النفايات والمخلفات وتسليم البريد أو الطرود أو البضائع ونحوها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-16",
+          "paragraph_index": 16,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "المزادات العقارية: نشاط المزايدة العلنية على عقار من أجل بيعه أو بيع منفعته أو تأجيره؛ للوصول بثمنه إلى أعلى قدر. ويشمل ذلك المزادات الإلكترونية.",
+          "text_for_index": "المزادات العقارية: نشاط المزايدة العلنية على عقار من أجل بيعه أو بيع منفعته أو تأجيره؛ للوصول بثمنه إلى أعلى قدر. ويشمل ذلك المزادات الإلكترونية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-1::paragraph-17",
+          "paragraph_index": 17,
+          "legal_function_tags": [
+            "remedy",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض",
+            "التزام"
+          ],
+          "text_verbatim": "الضمان: مبلغ يدفعه المستأجر على سبيل الأمانة؛ لتعويض مالك العقار أو المنفعة عن أي ضرر داخل في ضمانة المستأجر وواقع بسببه.",
+          "text_for_index": "الضمان: مبلغ يدفعه المستأجر على سبيل الأمانة؛ لتعويض مالك العقار أو المنفعة عن أي ضرر داخل في ضمانة المستأجر وواقع بسببه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 2,
+      "article_label": "الثانية",
+      "article_label_raw": "الثانية",
+      "article_heading": "الثانية",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثانية",
+      "text_verbatim": "يهدف النظام إلى تنظيم الوساطة العقارية والخدمات العقارية.",
+      "text_for_index": "يهدف النظام إلى تنظيم الوساطة العقارية والخدمات العقارية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-2::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يهدف النظام إلى تنظيم الوساطة العقارية والخدمات العقارية.",
+          "text_for_index": "يهدف النظام إلى تنظيم الوساطة العقارية والخدمات العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 3,
+      "article_label": "الثالثة",
+      "article_label_raw": "الثالثة",
+      "article_heading": "الثالثة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثالثة",
+      "text_verbatim": "تسري أحكام النظام على كل من يمارس الوساطة العقارية أو الخدمات العقارية، أو يتعامل بهما، أو يستفيد منهما.",
+      "text_for_index": "تسري أحكام النظام على كل من يمارس الوساطة العقارية أو الخدمات العقارية، أو يتعامل بهما، أو يستفيد منهما.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-3::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "تسري أحكام النظام على كل من يمارس الوساطة العقارية أو الخدمات العقارية، أو يتعامل بهما، أو يستفيد منهما.",
+          "text_for_index": "تسري أحكام النظام على كل من يمارس الوساطة العقارية أو الخدمات العقارية، أو يتعامل بهما، أو يستفيد منهما.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 4,
+      "article_label": "الرابعة",
+      "article_label_raw": "الرابعة",
+      "article_heading": "الرابعة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الرابعة",
+      "text_verbatim": "• لا تجوز ممارسة الوساطة العقارية ولا تقديم الخدمات العقارية إلا بعد الحصول على ترخيص من الهيئة. وتحدد اللائحة أحكامه، وشروطه، وإجراءاته، ومدته، وتجديده.\n\n\t• للوسيط العقاري تقديم خدمات عقارية مكملة، وفقاً للفقرة (6) من المادة (السادسة) من النظام، وذلك بعد الحصول على ترخيص من الجهة المختصة، ووفقاً لما تحدده اللائحة من ضوابط.",
+      "text_for_index": "• لا تجوز ممارسة الوساطة العقارية ولا تقديم الخدمات العقارية إلا بعد الحصول على ترخيص من الهيئة. وتحدد اللائحة أحكامه، وشروطه، وإجراءاته، ومدته، وتجديده.\n\n • للوسيط العقاري تقديم خدمات عقارية مكملة، وفقاً للفقرة (6) من المادة (السادسة) من النظام، وذلك بعد الحصول على ترخيص من الجهة المختصة، ووفقاً لما تحدده اللائحة من ضوابط.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-4::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "• لا تجوز ممارسة الوساطة العقارية ولا تقديم الخدمات العقارية إلا بعد الحصول على ترخيص من الهيئة. وتحدد اللائحة أحكامه، وشروطه، وإجراءاته، ومدته، وتجديده.",
+          "text_for_index": "• لا تجوز ممارسة الوساطة العقارية ولا تقديم الخدمات العقارية إلا بعد الحصول على ترخيص من الهيئة. وتحدد اللائحة أحكامه، وشروطه، وإجراءاته، ومدته، وتجديده.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-4::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• للوسيط العقاري تقديم خدمات عقارية مكملة، وفقاً للفقرة (6) من المادة (السادسة) من النظام، وذلك بعد الحصول على ترخيص من الجهة المختصة، ووفقاً لما تحدده اللائحة من ضوابط.",
+          "text_for_index": "• للوسيط العقاري تقديم خدمات عقارية مكملة، وفقاً للفقرة (6) من المادة (السادسة) من النظام، وذلك بعد الحصول على ترخيص من الجهة المختصة، ووفقاً لما تحدده اللائحة من ضوابط.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 5,
+      "article_label": "الخامسة",
+      "article_label_raw": "الخامسة",
+      "article_heading": "الخامسة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الخامسة",
+      "text_verbatim": "تتولى الهيئة ما يلي:\n\n\t• إعداد نماذج العقود الإلزامية والاسترشادية الواردة في النظام.\n\n\t• إعداد برامج وآليات للتحفيز على ممارسة الوساطة العقارية والخدمات العقارية المشمولة بأحكام النظام.\n\n\t• تحديد الاشتراطات والمواصفات لوسائل التسويق العقاري.\n\n\t• إعداد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.\n\n\t• إعداد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.",
+      "text_for_index": "تتولى الهيئة ما يلي:\n\n • إعداد نماذج العقود الإلزامية والاسترشادية الواردة في النظام.\n\n • إعداد برامج وآليات للتحفيز على ممارسة الوساطة العقارية والخدمات العقارية المشمولة بأحكام النظام.\n\n • تحديد الاشتراطات والمواصفات لوسائل التسويق العقاري.\n\n • إعداد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.\n\n • إعداد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.",
+      "paragraph_count": 6,
+      "indexable_paragraph_count": 6,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-5::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "تتولى الهيئة ما يلي:",
+          "text_for_index": "تتولى الهيئة ما يلي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-5::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• إعداد نماذج العقود الإلزامية والاسترشادية الواردة في النظام.",
+          "text_for_index": "• إعداد نماذج العقود الإلزامية والاسترشادية الواردة في النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-5::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• إعداد برامج وآليات للتحفيز على ممارسة الوساطة العقارية والخدمات العقارية المشمولة بأحكام النظام.",
+          "text_for_index": "• إعداد برامج وآليات للتحفيز على ممارسة الوساطة العقارية والخدمات العقارية المشمولة بأحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-5::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تحديد الاشتراطات والمواصفات لوسائل التسويق العقاري.",
+          "text_for_index": "• تحديد الاشتراطات والمواصفات لوسائل التسويق العقاري.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-5::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• إعداد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.",
+          "text_for_index": "• إعداد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-5::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• إعداد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.",
+          "text_for_index": "• إعداد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 6,
+      "article_label": "السادسة",
+      "article_label_raw": "السادسة",
+      "article_heading": "السادسة",
+      "article_type": "violation",
+      "article_type_label_ar": "مخالفة أو تعدٍ",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة السادسة",
+      "text_verbatim": "يتولى المجلس المهمات الآتية:\n\n\t• اعتماد اللوائح التنظيمية للنشاطات والخدمات المشمولة باختصاصات الهيئة، وفقاً لأحكام النظام.\n\n\t• اعتماد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.\n\n\t• تحديد المقابل المالي للتراخيص التي تصدرها الهيئة بناءً على النظام وتجديدِها.\n\n\t• اعتماد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.\n\n\t• تحديد الخدمات العقارية التي يمكن للوسيط العقاري تقديمها، وضوابط ذلك وشروطه.\n\n\t• تحديد الخدمات العقارية المكملة التي يمكن للوسيط العقاري تقديمها، وذلك بالاتفاق مع الجهات المرخصة لها.",
+      "text_for_index": "يتولى المجلس المهمات الآتية:\n\n • اعتماد اللوائح التنظيمية للنشاطات والخدمات المشمولة باختصاصات الهيئة، وفقاً لأحكام النظام.\n\n • اعتماد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.\n\n • تحديد المقابل المالي للتراخيص التي تصدرها الهيئة بناءً على النظام وتجديدِها.\n\n • اعتماد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.\n\n • تحديد الخدمات العقارية التي يمكن للوسيط العقاري تقديمها، وضوابط ذلك وشروطه.\n\n • تحديد الخدمات العقارية المكملة التي يمكن للوسيط العقاري تقديمها، وذلك بالاتفاق مع الجهات المرخصة لها.",
+      "paragraph_count": 7,
+      "indexable_paragraph_count": 7,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "يتولى المجلس المهمات الآتية:",
+          "text_for_index": "يتولى المجلس المهمات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• اعتماد اللوائح التنظيمية للنشاطات والخدمات المشمولة باختصاصات الهيئة، وفقاً لأحكام النظام.",
+          "text_for_index": "• اعتماد اللوائح التنظيمية للنشاطات والخدمات المشمولة باختصاصات الهيئة، وفقاً لأحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• اعتماد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.",
+          "text_for_index": "• اعتماد المعايير والضوابط اللازمة لممارسة الوساطة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تحديد المقابل المالي للتراخيص التي تصدرها الهيئة بناءً على النظام وتجديدِها.",
+          "text_for_index": "• تحديد المقابل المالي للتراخيص التي تصدرها الهيئة بناءً على النظام وتجديدِها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "prohibition",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "إجراء"
+          ],
+          "text_verbatim": "• اعتماد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.",
+          "text_for_index": "• اعتماد إجراءات ضبط المخالفات، وتلقي البلاغات والشكاوى.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• تحديد الخدمات العقارية التي يمكن للوسيط العقاري تقديمها، وضوابط ذلك وشروطه.",
+          "text_for_index": "• تحديد الخدمات العقارية التي يمكن للوسيط العقاري تقديمها، وضوابط ذلك وشروطه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-6::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تحديد الخدمات العقارية المكملة التي يمكن للوسيط العقاري تقديمها، وذلك بالاتفاق مع الجهات المرخصة لها.",
+          "text_for_index": "• تحديد الخدمات العقارية المكملة التي يمكن للوسيط العقاري تقديمها، وذلك بالاتفاق مع الجهات المرخصة لها.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 7,
+      "article_label": "السابعة",
+      "article_label_raw": "السابعة",
+      "article_heading": "السابعة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure",
+        "exception",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء",
+        "استثناء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة السابعة",
+      "text_verbatim": "• يجب أن يكون عقد الوساطة مكتوباً، وأن يودع الوسيط نسخة من العقد لدى الهيئة، ولا يُحتج به إلا بذلك، وتحدد اللائحة إجراءات الإيداع.\n\n\t• يجب أن يكون عقد الوساطة محدد المدة، وإذا لم يُتفق عليها في العقد فتكون (تسعين) يوماً من تاريخ إبرامه.",
+      "text_for_index": "• يجب أن يكون عقد الوساطة مكتوباً، وأن يودع الوسيط نسخة من العقد لدى الهيئة، ولا يُحتج به إلا بذلك، وتحدد اللائحة إجراءات الإيداع.\n\n • يجب أن يكون عقد الوساطة محدد المدة، وإذا لم يُتفق عليها في العقد فتكون (تسعين) يوماً من تاريخ إبرامه.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-7::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء",
+            "استثناء"
+          ],
+          "text_verbatim": "• يجب أن يكون عقد الوساطة مكتوباً، وأن يودع الوسيط نسخة من العقد لدى الهيئة، ولا يُحتج به إلا بذلك، وتحدد اللائحة إجراءات الإيداع.",
+          "text_for_index": "• يجب أن يكون عقد الوساطة مكتوباً، وأن يودع الوسيط نسخة من العقد لدى الهيئة، ولا يُحتج به إلا بذلك، وتحدد اللائحة إجراءات الإيداع.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-7::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجب أن يكون عقد الوساطة محدد المدة، وإذا لم يُتفق عليها في العقد فتكون (تسعين) يوماً من تاريخ إبرامه.",
+          "text_for_index": "• يجب أن يكون عقد الوساطة محدد المدة، وإذا لم يُتفق عليها في العقد فتكون (تسعين) يوماً من تاريخ إبرامه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 8,
+      "article_label": "الثامنة",
+      "article_label_raw": "الثامنة",
+      "article_heading": "الثامنة",
+      "article_type": "exception",
+      "article_type_label_ar": "استثناء أو قيد",
+      "legal_function_tags": [
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثامنة",
+      "text_verbatim": "للوسيط العقاري التعاقد مع وسيط عقاري آخر أو أكثر؛ للتوسط في العقار محل عقد الوساطة وفقاً لأحكامه، ما لم ينص في العقد على غير ذلك.",
+      "text_for_index": "للوسيط العقاري التعاقد مع وسيط عقاري آخر أو أكثر؛ للتوسط في العقار محل عقد الوساطة وفقاً لأحكامه، ما لم ينص في العقد على غير ذلك.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-8::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "استثناء"
+          ],
+          "text_verbatim": "للوسيط العقاري التعاقد مع وسيط عقاري آخر أو أكثر؛ للتوسط في العقار محل عقد الوساطة وفقاً لأحكامه، ما لم ينص في العقد على غير ذلك.",
+          "text_for_index": "للوسيط العقاري التعاقد مع وسيط عقاري آخر أو أكثر؛ للتوسط في العقار محل عقد الوساطة وفقاً لأحكامه، ما لم ينص في العقد على غير ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 9,
+      "article_label": "التاسعة",
+      "article_label_raw": "التاسعة",
+      "article_heading": "التاسعة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "شرط"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة التاسعة",
+      "text_verbatim": "على الوسيط العقاري عند إبرام عقد الوساطة مع مالك العقار أو مالك المنفعة الحصول على صورة من إثبات ملكية العقار أو ملكية المنفعة، والمعلومات، والوثائق التي تحددها اللائحة.",
+      "text_for_index": "على الوسيط العقاري عند إبرام عقد الوساطة مع مالك العقار أو مالك المنفعة الحصول على صورة من إثبات ملكية العقار أو ملكية المنفعة، والمعلومات، والوثائق التي تحددها اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-9::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "شرط"
+          ],
+          "text_verbatim": "على الوسيط العقاري عند إبرام عقد الوساطة مع مالك العقار أو مالك المنفعة الحصول على صورة من إثبات ملكية العقار أو ملكية المنفعة، والمعلومات، والوثائق التي تحددها اللائحة.",
+          "text_for_index": "على الوسيط العقاري عند إبرام عقد الوساطة مع مالك العقار أو مالك المنفعة الحصول على صورة من إثبات ملكية العقار أو ملكية المنفعة، والمعلومات، والوثائق التي تحددها اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 10,
+      "article_label": "العاشرة",
+      "article_label_raw": "العاشرة",
+      "article_heading": "العاشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [
+        "liability"
+      ],
+      "topic_tags_ar": [
+        "مسؤولية وتعويض"
+      ],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة العاشرة",
+      "text_verbatim": "يلتزم الوسيط العقاري بما يأتي:\n\n\t• ممارسة نشاط الوساطة العقارية بنفسه إذا كان شخصا طبيعيًّا، أو بوساطة المدير المسؤول أو أحد تابعيه المرخص له إذا كان شخصا معنويًّا.\n\n\t• عدم القيام بأي فعل أو الامتناع عن أي فعل، يكون من شأنه الإضرار بمصالح المتعاملين معه، أو يتعارض مع أحكام النظام.\n\n\t• إبلاغ الهيئة عن أي تعديل أو تغيير متعلق بممارسة نشاط الوساطة العقارية.\n\n\t• عدم إفشاء سرٍّ من أسرار الصفقات محل الوساطة.\n\n\t• أن يبذل العناية اللازمة للتحقق من صحة المعلومات التي يحصل عليها بناءً على المادة (التاسعة) من النظام.\n\n\t• الإفصاح -عند عرضه للعقار- عن المعلومات التي حصل عليها بناءً على المادة (التاسعة) من النظام، وعدم تقديم أي معلومة مضللة بشأن العقار.\n\n\t• بيان اسمه ورقم الترخيص، في أي إعلان، أو منشور متعلق بالعقار.\n\n\t• ممارسة نشاطه بشفافية ومصداقية، وتقديم الخدمات بجودة وكفاية.",
+      "text_for_index": "يلتزم الوسيط العقاري بما يأتي:\n\n • ممارسة نشاط الوساطة العقارية بنفسه إذا كان شخصا طبيعيًّا، أو بوساطة المدير المسؤول أو أحد تابعيه المرخص له إذا كان شخصا معنويًّا.\n\n • عدم القيام بأي فعل أو الامتناع عن أي فعل، يكون من شأنه الإضرار بمصالح المتعاملين معه، أو يتعارض مع أحكام النظام.\n\n • إبلاغ الهيئة عن أي تعديل أو تغيير متعلق بممارسة نشاط الوساطة العقارية.\n\n • عدم إفشاء سرٍّ من أسرار الصفقات محل الوساطة.\n\n • أن يبذل العناية اللازمة للتحقق من صحة المعلومات التي يحصل عليها بناءً على المادة (التاسعة) من النظام.\n\n • الإفصاح -عند عرضه للعقار- عن المعلومات التي حصل عليها بناءً على المادة (التاسعة) من النظام، وعدم تقديم أي معلومة مضللة بشأن العقار.\n\n • بيان اسمه ورقم الترخيص، في أي إعلان، أو منشور متعلق بالعقار.\n\n • ممارسة نشاطه بشفافية ومصداقية، وتقديم الخدمات بجودة وكفاية.",
+      "paragraph_count": 9,
+      "indexable_paragraph_count": 9,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "يلتزم الوسيط العقاري بما يأتي:",
+          "text_for_index": "يلتزم الوسيط العقاري بما يأتي:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ممارسة نشاط الوساطة العقارية بنفسه إذا كان شخصا طبيعيًّا، أو بوساطة المدير المسؤول أو أحد تابعيه المرخص له إذا كان شخصا معنويًّا.",
+          "text_for_index": "• ممارسة نشاط الوساطة العقارية بنفسه إذا كان شخصا طبيعيًّا، أو بوساطة المدير المسؤول أو أحد تابعيه المرخص له إذا كان شخصا معنويًّا.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• عدم القيام بأي فعل أو الامتناع عن أي فعل، يكون من شأنه الإضرار بمصالح المتعاملين معه، أو يتعارض مع أحكام النظام.",
+          "text_for_index": "• عدم القيام بأي فعل أو الامتناع عن أي فعل، يكون من شأنه الإضرار بمصالح المتعاملين معه، أو يتعارض مع أحكام النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• إبلاغ الهيئة عن أي تعديل أو تغيير متعلق بممارسة نشاط الوساطة العقارية.",
+          "text_for_index": "• إبلاغ الهيئة عن أي تعديل أو تغيير متعلق بممارسة نشاط الوساطة العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• عدم إفشاء سرٍّ من أسرار الصفقات محل الوساطة.",
+          "text_for_index": "• عدم إفشاء سرٍّ من أسرار الصفقات محل الوساطة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• أن يبذل العناية اللازمة للتحقق من صحة المعلومات التي يحصل عليها بناءً على المادة (التاسعة) من النظام.",
+          "text_for_index": "• أن يبذل العناية اللازمة للتحقق من صحة المعلومات التي يحصل عليها بناءً على المادة (التاسعة) من النظام.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• الإفصاح -عند عرضه للعقار- عن المعلومات التي حصل عليها بناءً على المادة (التاسعة) من النظام، وعدم تقديم أي معلومة مضللة بشأن العقار.",
+          "text_for_index": "• الإفصاح -عند عرضه للعقار- عن المعلومات التي حصل عليها بناءً على المادة (التاسعة) من النظام، وعدم تقديم أي معلومة مضللة بشأن العقار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• بيان اسمه ورقم الترخيص، في أي إعلان، أو منشور متعلق بالعقار.",
+          "text_for_index": "• بيان اسمه ورقم الترخيص، في أي إعلان، أو منشور متعلق بالعقار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-10::paragraph-9",
+          "paragraph_index": 9,
+          "legal_function_tags": [
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• ممارسة نشاطه بشفافية ومصداقية، وتقديم الخدمات بجودة وكفاية.",
+          "text_for_index": "• ممارسة نشاطه بشفافية ومصداقية، وتقديم الخدمات بجودة وكفاية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 11,
+      "article_label": "الحادية عشرة",
+      "article_label_raw": "الحادية عشرة",
+      "article_heading": "الحادية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الحادية عشرة",
+      "text_verbatim": "على الوسيط العقاري تسجيل جميع عقود الوساطة التي يبرمها، وجميع الصفقات العقارية التي يتمها، في المنصة الإلكترونية الخاصة بها؛ وفقاً لما تحدده اللائحة.",
+      "text_for_index": "على الوسيط العقاري تسجيل جميع عقود الوساطة التي يبرمها، وجميع الصفقات العقارية التي يتمها، في المنصة الإلكترونية الخاصة بها؛ وفقاً لما تحدده اللائحة.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-11::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "على الوسيط العقاري تسجيل جميع عقود الوساطة التي يبرمها، وجميع الصفقات العقارية التي يتمها، في المنصة الإلكترونية الخاصة بها؛ وفقاً لما تحدده اللائحة.",
+          "text_for_index": "على الوسيط العقاري تسجيل جميع عقود الوساطة التي يبرمها، وجميع الصفقات العقارية التي يتمها، في المنصة الإلكترونية الخاصة بها؛ وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 12,
+      "article_label": "الثانية عشرة",
+      "article_label_raw": "الثانية عشرة",
+      "article_heading": "الثانية عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثانية عشرة",
+      "text_verbatim": "• يتسلّم الوسيط العقاري الضمان -إن وجد- ويسلمه للهيئة أو من تخوله، ويحفظ لديها إلى حين إعادة تسليم العقار دون أضرار، ويعاد الضمان -أو ما تبقى منه بعد اقتطاع قيمة الأضرار- إلى المستأجر، وتحدد اللائحة ما يتعلق بذلك.\\\n\n\t• كل خلاف ينشأ بين المؤجر والمستأجر في شأن الضمان وتقدير الأضرار التي يشملها؛ يحل ابتداءً عن طريق خبراء متخصصين -تحددهم الهيئة- بموافقة الطرفين على ذلك، ويتحمل الطرفان أتعابهم مناصفة، فإن لم يتفق الطرفان على قبول حل الخبراء فإن لهما الحق في اللجوء إلى المحكمة المختصة.",
+      "text_for_index": "• يتسلّم الوسيط العقاري الضمان -إن وجد- ويسلمه للهيئة أو من تخوله، ويحفظ لديها إلى حين إعادة تسليم العقار دون أضرار، ويعاد الضمان -أو ما تبقى منه بعد اقتطاع قيمة الأضرار- إلى المستأجر، وتحدد اللائحة ما يتعلق بذلك.\\\n\n • كل خلاف ينشأ بين المؤجر والمستأجر في شأن الضمان وتقدير الأضرار التي يشملها؛ يحل ابتداءً عن طريق خبراء متخصصين -تحددهم الهيئة- بموافقة الطرفين على ذلك، ويتحمل الطرفان أتعابهم مناصفة، فإن لم يتفق الطرفان على قبول حل الخبراء فإن لهما الحق في اللجوء إلى المحكمة المختصة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-12::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• يتسلّم الوسيط العقاري الضمان -إن وجد- ويسلمه للهيئة أو من تخوله، ويحفظ لديها إلى حين إعادة تسليم العقار دون أضرار، ويعاد الضمان -أو ما تبقى منه بعد اقتطاع قيمة الأضرار- إلى المستأجر، وتحدد اللائحة ما يتعلق بذلك.\\",
+          "text_for_index": "• يتسلّم الوسيط العقاري الضمان -إن وجد- ويسلمه للهيئة أو من تخوله، ويحفظ لديها إلى حين إعادة تسليم العقار دون أضرار، ويعاد الضمان -أو ما تبقى منه بعد اقتطاع قيمة الأضرار- إلى المستأجر، وتحدد اللائحة ما يتعلق بذلك.\\",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-12::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• كل خلاف ينشأ بين المؤجر والمستأجر في شأن الضمان وتقدير الأضرار التي يشملها؛ يحل ابتداءً عن طريق خبراء متخصصين -تحددهم الهيئة- بموافقة الطرفين على ذلك، ويتحمل الطرفان أتعابهم مناصفة، فإن لم يتفق الطرفان على قبول حل الخبراء فإن لهما الحق في اللجوء إلى المحكمة المختصة.",
+          "text_for_index": "• كل خلاف ينشأ بين المؤجر والمستأجر في شأن الضمان وتقدير الأضرار التي يشملها؛ يحل ابتداءً عن طريق خبراء متخصصين -تحددهم الهيئة- بموافقة الطرفين على ذلك، ويتحمل الطرفان أتعابهم مناصفة، فإن لم يتفق الطرفان على قبول حل الخبراء فإن لهما الحق في اللجوء إلى المحكمة المختصة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 13,
+      "article_label": "الثالثة عشرة",
+      "article_label_raw": "الثالثة عشرة",
+      "article_heading": "الثالثة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "obligation",
+        "remedy",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "التزام",
+        "علاج أو تعويض",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثالثة عشرة",
+      "text_verbatim": "• يحدد مبلغ عربون الصفقة العقارية التي تتم عن طريق الوسيط العقاري، بالاتفاق بين أطرافها؛ بما لا يتجاوز (5%) من قيمتها، وفي حال تجاوز هذه النسبة عُدَّ المبلغ مقدم ثمن للصفقة.\n\n\t• لا يعد المبلغ الذي دفعه المشتري أو المستأجر عربوناً إلا إذا نُصّ على ذلك كتابة، وإلّا فهو مقدم ثمن لا يستحقه البائع أو المؤجر إذا فُسخ العقد.\n\n\t• على البائع أو المؤجر حال تسلم العربون إتمام الصفقة، وإذا تعثر إتمامها بسبب من المشتري أو المستأجر دون وجود عيب في العقار؛ فلا يعاد العربون، وإن كان سبب التعثر لا يعود إلى أي منهما، فيلزم إعادة العربون إلى من دفعه.\n\n\t• لا يجوز للوسيط العقاري الاحتفاظ بالعربون ضماناً لحقه.",
+      "text_for_index": "• يحدد مبلغ عربون الصفقة العقارية التي تتم عن طريق الوسيط العقاري، بالاتفاق بين أطرافها؛ بما لا يتجاوز (5%) من قيمتها، وفي حال تجاوز هذه النسبة عُدَّ المبلغ مقدم ثمن للصفقة.\n\n • لا يعد المبلغ الذي دفعه المشتري أو المستأجر عربوناً إلا إذا نُصّ على ذلك كتابة، وإلّا فهو مقدم ثمن لا يستحقه البائع أو المؤجر إذا فُسخ العقد.\n\n • على البائع أو المؤجر حال تسلم العربون إتمام الصفقة، وإذا تعثر إتمامها بسبب من المشتري أو المستأجر دون وجود عيب في العقار؛ فلا يعاد العربون، وإن كان سبب التعثر لا يعود إلى أي منهما، فيلزم إعادة العربون إلى من دفعه.\n\n • لا يجوز للوسيط العقاري الاحتفاظ بالعربون ضماناً لحقه.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-13::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط"
+          ],
+          "text_verbatim": "• يحدد مبلغ عربون الصفقة العقارية التي تتم عن طريق الوسيط العقاري، بالاتفاق بين أطرافها؛ بما لا يتجاوز (5%) من قيمتها، وفي حال تجاوز هذه النسبة عُدَّ المبلغ مقدم ثمن للصفقة.",
+          "text_for_index": "• يحدد مبلغ عربون الصفقة العقارية التي تتم عن طريق الوسيط العقاري، بالاتفاق بين أطرافها؛ بما لا يتجاوز (5%) من قيمتها، وفي حال تجاوز هذه النسبة عُدَّ المبلغ مقدم ثمن للصفقة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-13::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "remedy",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "علاج أو تعويض",
+            "استثناء"
+          ],
+          "text_verbatim": "• لا يعد المبلغ الذي دفعه المشتري أو المستأجر عربوناً إلا إذا نُصّ على ذلك كتابة، وإلّا فهو مقدم ثمن لا يستحقه البائع أو المؤجر إذا فُسخ العقد.",
+          "text_for_index": "• لا يعد المبلغ الذي دفعه المشتري أو المستأجر عربوناً إلا إذا نُصّ على ذلك كتابة، وإلّا فهو مقدم ثمن لا يستحقه البائع أو المؤجر إذا فُسخ العقد.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-13::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "obligation"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "التزام"
+          ],
+          "text_verbatim": "• على البائع أو المؤجر حال تسلم العربون إتمام الصفقة، وإذا تعثر إتمامها بسبب من المشتري أو المستأجر دون وجود عيب في العقار؛ فلا يعاد العربون، وإن كان سبب التعثر لا يعود إلى أي منهما، فيلزم إعادة العربون إلى من دفعه.",
+          "text_for_index": "• على البائع أو المؤجر حال تسلم العربون إتمام الصفقة، وإذا تعثر إتمامها بسبب من المشتري أو المستأجر دون وجود عيب في العقار؛ فلا يعاد العربون، وإن كان سبب التعثر لا يعود إلى أي منهما، فيلزم إعادة العربون إلى من دفعه.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-13::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• لا يجوز للوسيط العقاري الاحتفاظ بالعربون ضماناً لحقه.",
+          "text_for_index": "• لا يجوز للوسيط العقاري الاحتفاظ بالعربون ضماناً لحقه.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 14,
+      "article_label": "الرابعة عشرة",
+      "article_label_raw": "الرابعة عشرة",
+      "article_heading": "الرابعة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "condition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "شرط",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الرابعة عشرة",
+      "text_verbatim": "• تتحدد عمولة الوساطة العقارية بنسبة (2.5%) من قيمة الصفقة إن كانت بيعاً، ومن قيمة إيجار السنة الأولى فقط إن كانت إيجاراً، ما لم يتفق أطراف عقد الوساطة -كتابةً- على غير ذلك.\n\n\t• يتحمل دفع العمولة الطرف المتعاقد مع الوسيط العقاري في عقد الوساطة.\n\n\t• في حال أبرم الوسيط العقاري عقد وساطة مع أكثر من طرف من أطراف الصفقة العقارية الواحدة؛ فلا يجوز أن يتجاوز مجموع ما يتقاضاه من عمولة النسبة المحددة للعمولة في الفقرة (1) من هذه المادة، وتحدد اللائحة طريقة تحمل الأطراف العمولة في هذه الحالة، ما لم ينص في العقد على غير ذلك.",
+      "text_for_index": "• تتحدد عمولة الوساطة العقارية بنسبة (2.5%) من قيمة الصفقة إن كانت بيعاً، ومن قيمة إيجار السنة الأولى فقط إن كانت إيجاراً، ما لم يتفق أطراف عقد الوساطة -كتابةً- على غير ذلك.\n\n • يتحمل دفع العمولة الطرف المتعاقد مع الوسيط العقاري في عقد الوساطة.\n\n • في حال أبرم الوسيط العقاري عقد وساطة مع أكثر من طرف من أطراف الصفقة العقارية الواحدة؛ فلا يجوز أن يتجاوز مجموع ما يتقاضاه من عمولة النسبة المحددة للعمولة في الفقرة (1) من هذه المادة، وتحدد اللائحة طريقة تحمل الأطراف العمولة في هذه الحالة، ما لم ينص في العقد على غير ذلك.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-14::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• تتحدد عمولة الوساطة العقارية بنسبة (2.5%) من قيمة الصفقة إن كانت بيعاً، ومن قيمة إيجار السنة الأولى فقط إن كانت إيجاراً، ما لم يتفق أطراف عقد الوساطة -كتابةً- على غير ذلك.",
+          "text_for_index": "• تتحدد عمولة الوساطة العقارية بنسبة (2.5%) من قيمة الصفقة إن كانت بيعاً، ومن قيمة إيجار السنة الأولى فقط إن كانت إيجاراً، ما لم يتفق أطراف عقد الوساطة -كتابةً- على غير ذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-14::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• يتحمل دفع العمولة الطرف المتعاقد مع الوسيط العقاري في عقد الوساطة.",
+          "text_for_index": "• يتحمل دفع العمولة الطرف المتعاقد مع الوسيط العقاري في عقد الوساطة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-14::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition",
+            "condition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "شرط",
+            "استثناء"
+          ],
+          "text_verbatim": "• في حال أبرم الوسيط العقاري عقد وساطة مع أكثر من طرف من أطراف الصفقة العقارية الواحدة؛ فلا يجوز أن يتجاوز مجموع ما يتقاضاه من عمولة النسبة المحددة للعمولة في الفقرة (1) من هذه المادة، وتحدد اللائحة طريقة تحمل الأطراف العمولة في هذه الحالة، ما لم ينص في العقد على غير ذلك.",
+          "text_for_index": "• في حال أبرم الوسيط العقاري عقد وساطة مع أكثر من طرف من أطراف الصفقة العقارية الواحدة؛ فلا يجوز أن يتجاوز مجموع ما يتقاضاه من عمولة النسبة المحددة للعمولة في الفقرة (1) من هذه المادة، وتحدد اللائحة طريقة تحمل الأطراف العمولة في هذه الحالة، ما لم ينص في العقد على غير ذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 15,
+      "article_label": "الخامسة عشرة",
+      "article_label_raw": "الخامسة عشرة",
+      "article_heading": "الخامسة عشرة",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "remedy",
+        "deadline",
+        "burden_of_proof"
+      ],
+      "legal_function_tags_ar": [
+        "علاج أو تعويض",
+        "مهلة زمنية",
+        "عبء إثبات"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الخامسة عشرة",
+      "text_verbatim": "يستحق الوسيط العقاري العمولة في الحالات الآتية:\n\n\t• إتمام الصفقة العقارية التي توسط بها، وفقاً لعقد الوساطة، أثناء مدة سريانه، أو خلال مدة لا تتجاوز (شهرين) من انتهاء العقد، على أن يثبت وساطته في هذه الحالة.\n\n\t• عدم إتمام الصفقة العقارية، واستحقاق البائع أو المؤجر للعربون، وتحدد اللائحة النسبة والضوابط المتعلقة بذلك.",
+      "text_for_index": "يستحق الوسيط العقاري العمولة في الحالات الآتية:\n\n • إتمام الصفقة العقارية التي توسط بها، وفقاً لعقد الوساطة، أثناء مدة سريانه، أو خلال مدة لا تتجاوز (شهرين) من انتهاء العقد، على أن يثبت وساطته في هذه الحالة.\n\n • عدم إتمام الصفقة العقارية، واستحقاق البائع أو المؤجر للعربون، وتحدد اللائحة النسبة والضوابط المتعلقة بذلك.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-15::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "remedy"
+          ],
+          "legal_function_tags_ar": [
+            "علاج أو تعويض"
+          ],
+          "text_verbatim": "يستحق الوسيط العقاري العمولة في الحالات الآتية:",
+          "text_for_index": "يستحق الوسيط العقاري العمولة في الحالات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-15::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "deadline",
+            "burden_of_proof"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية",
+            "عبء إثبات"
+          ],
+          "text_verbatim": "• إتمام الصفقة العقارية التي توسط بها، وفقاً لعقد الوساطة، أثناء مدة سريانه، أو خلال مدة لا تتجاوز (شهرين) من انتهاء العقد، على أن يثبت وساطته في هذه الحالة.",
+          "text_for_index": "• إتمام الصفقة العقارية التي توسط بها، وفقاً لعقد الوساطة، أثناء مدة سريانه، أو خلال مدة لا تتجاوز (شهرين) من انتهاء العقد، على أن يثبت وساطته في هذه الحالة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-15::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "• عدم إتمام الصفقة العقارية، واستحقاق البائع أو المؤجر للعربون، وتحدد اللائحة النسبة والضوابط المتعلقة بذلك.",
+          "text_for_index": "• عدم إتمام الصفقة العقارية، واستحقاق البائع أو المؤجر للعربون، وتحدد اللائحة النسبة والضوابط المتعلقة بذلك.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 16,
+      "article_label": "السادسة عشرة",
+      "article_label_raw": "السادسة عشرة",
+      "article_heading": "السادسة عشرة",
+      "article_type": "prohibition",
+      "article_type_label_ar": "منع أو حظر",
+      "legal_function_tags": [
+        "prohibition",
+        "exception"
+      ],
+      "legal_function_tags_ar": [
+        "منع",
+        "استثناء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة السادسة عشرة",
+      "text_verbatim": "• لا يجوز للوسيط العقاري تسلم أي مبلغ من أي من الأطراف المتعاقد معهم لمصلحة أي منهم إلا بالقدر الذي يتطلبه القيام بعمله، وفقاً لما تحدده اللائحة.\n\n\t• لا يجوز للوسيط العقاري التصرف في أي مبلغ تسلّمه وفقاً للفقرة (1) من هذه المادة إلا في الأغراض المخصصة له.\n\n\t• تضع الهيئة ضوابط لتعامل الوسيط العقاري مع المبالغ التي يتسلّمها من أي من الأطراف المتعاقد معهم.",
+      "text_for_index": "• لا يجوز للوسيط العقاري تسلم أي مبلغ من أي من الأطراف المتعاقد معهم لمصلحة أي منهم إلا بالقدر الذي يتطلبه القيام بعمله، وفقاً لما تحدده اللائحة.\n\n • لا يجوز للوسيط العقاري التصرف في أي مبلغ تسلّمه وفقاً للفقرة (1) من هذه المادة إلا في الأغراض المخصصة له.\n\n • تضع الهيئة ضوابط لتعامل الوسيط العقاري مع المبالغ التي يتسلّمها من أي من الأطراف المتعاقد معهم.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-16::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• لا يجوز للوسيط العقاري تسلم أي مبلغ من أي من الأطراف المتعاقد معهم لمصلحة أي منهم إلا بالقدر الذي يتطلبه القيام بعمله، وفقاً لما تحدده اللائحة.",
+          "text_for_index": "• لا يجوز للوسيط العقاري تسلم أي مبلغ من أي من الأطراف المتعاقد معهم لمصلحة أي منهم إلا بالقدر الذي يتطلبه القيام بعمله، وفقاً لما تحدده اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-16::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "prohibition",
+            "exception"
+          ],
+          "legal_function_tags_ar": [
+            "منع",
+            "استثناء"
+          ],
+          "text_verbatim": "• لا يجوز للوسيط العقاري التصرف في أي مبلغ تسلّمه وفقاً للفقرة (1) من هذه المادة إلا في الأغراض المخصصة له.",
+          "text_for_index": "• لا يجوز للوسيط العقاري التصرف في أي مبلغ تسلّمه وفقاً للفقرة (1) من هذه المادة إلا في الأغراض المخصصة له.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-16::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "prohibition"
+          ],
+          "legal_function_tags_ar": [
+            "منع"
+          ],
+          "text_verbatim": "• تضع الهيئة ضوابط لتعامل الوسيط العقاري مع المبالغ التي يتسلّمها من أي من الأطراف المتعاقد معهم.",
+          "text_for_index": "• تضع الهيئة ضوابط لتعامل الوسيط العقاري مع المبالغ التي يتسلّمها من أي من الأطراف المتعاقد معهم.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 17,
+      "article_label": "السابعة عشرة",
+      "article_label_raw": "السابعة عشرة",
+      "article_heading": "السابعة عشرة",
+      "article_type": "condition",
+      "article_type_label_ar": "شروط أو التزامات",
+      "legal_function_tags": [
+        "condition",
+        "obligation",
+        "procedure"
+      ],
+      "legal_function_tags_ar": [
+        "شرط",
+        "التزام",
+        "إجراء"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة السابعة عشرة",
+      "text_verbatim": "• تباشر الهيئة مهمات الرقابة والتفتيش والضبط لتنفيذ أحكام النظام، ويجوز لها أن تستعين بمن تراه من الجهات العامة أو الخاصة لتأدية هذه المهمات، وتحدد اللائحة الإجراءات اللازمة لذلك.\n\n\t• يتولى المكلف بالرقابة والتفتيش والضبط ضبط ما يقع من مخالفات لأحكام النظام، وفقاً لإجراءات الضبط التي تحددها اللائحة.\n\n\t• يلتزم كل من يمارس نشاط الوساطة العقارية أو الخدمات العقارية بتمكين المكلف بالرقابة والتفتيش والضبط من أداء أعماله وتسهيل مهماته، ويشمل ذلك دخول مقر عمله، وتزويده بما يطلب من مستندات أو معلومات متصلة بأحكام النظام.",
+      "text_for_index": "• تباشر الهيئة مهمات الرقابة والتفتيش والضبط لتنفيذ أحكام النظام، ويجوز لها أن تستعين بمن تراه من الجهات العامة أو الخاصة لتأدية هذه المهمات، وتحدد اللائحة الإجراءات اللازمة لذلك.\n\n • يتولى المكلف بالرقابة والتفتيش والضبط ضبط ما يقع من مخالفات لأحكام النظام، وفقاً لإجراءات الضبط التي تحددها اللائحة.\n\n • يلتزم كل من يمارس نشاط الوساطة العقارية أو الخدمات العقارية بتمكين المكلف بالرقابة والتفتيش والضبط من أداء أعماله وتسهيل مهماته، ويشمل ذلك دخول مقر عمله، وتزويده بما يطلب من مستندات أو معلومات متصلة بأحكام النظام.",
+      "paragraph_count": 3,
+      "indexable_paragraph_count": 3,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-17::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• تباشر الهيئة مهمات الرقابة والتفتيش والضبط لتنفيذ أحكام النظام، ويجوز لها أن تستعين بمن تراه من الجهات العامة أو الخاصة لتأدية هذه المهمات، وتحدد اللائحة الإجراءات اللازمة لذلك.",
+          "text_for_index": "• تباشر الهيئة مهمات الرقابة والتفتيش والضبط لتنفيذ أحكام النظام، ويجوز لها أن تستعين بمن تراه من الجهات العامة أو الخاصة لتأدية هذه المهمات، وتحدد اللائحة الإجراءات اللازمة لذلك.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-17::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• يتولى المكلف بالرقابة والتفتيش والضبط ضبط ما يقع من مخالفات لأحكام النظام، وفقاً لإجراءات الضبط التي تحددها اللائحة.",
+          "text_for_index": "• يتولى المكلف بالرقابة والتفتيش والضبط ضبط ما يقع من مخالفات لأحكام النظام، وفقاً لإجراءات الضبط التي تحددها اللائحة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-17::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "condition",
+            "obligation",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "شرط",
+            "التزام",
+            "إجراء"
+          ],
+          "text_verbatim": "• يلتزم كل من يمارس نشاط الوساطة العقارية أو الخدمات العقارية بتمكين المكلف بالرقابة والتفتيش والضبط من أداء أعماله وتسهيل مهماته، ويشمل ذلك دخول مقر عمله، وتزويده بما يطلب من مستندات أو معلومات متصلة بأحكام النظام.",
+          "text_for_index": "• يلتزم كل من يمارس نشاط الوساطة العقارية أو الخدمات العقارية بتمكين المكلف بالرقابة والتفتيش والضبط من أداء أعماله وتسهيل مهماته، ويشمل ذلك دخول مقر عمله، وتزويده بما يطلب من مستندات أو معلومات متصلة بأحكام النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 18,
+      "article_label": "الثامنة عشرة",
+      "article_label_raw": "الثامنة عشرة",
+      "article_heading": "الثامنة عشرة",
+      "article_type": "procedure",
+      "article_type_label_ar": "إجراء أو سلطة قضائية",
+      "legal_function_tags": [
+        "procedure",
+        "authority"
+      ],
+      "legal_function_tags_ar": [
+        "إجراء",
+        "اختصاص"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثامنة عشرة",
+      "text_verbatim": "يُعد من مخالفات أحكام النظام ارتكاب أي من الأفعال الآتية:\n\n\t• ممارسة نشاط الوساطة العقارية والخدمات العقارية دون ترخيص.\n\n\t• تقديم معلومات غير صحيحة للحصول على ترخيص لممارسة نشاط الوساطة العقارية والخدمات العقارية.\n\n\t• تقديم معلومات مضللة أو إخفاء معلومات جوهرية في شأن العقار محل الوساطة أو الخدمة العقارية.",
+      "text_for_index": "يُعد من مخالفات أحكام النظام ارتكاب أي من الأفعال الآتية:\n\n • ممارسة نشاط الوساطة العقارية والخدمات العقارية دون ترخيص.\n\n • تقديم معلومات غير صحيحة للحصول على ترخيص لممارسة نشاط الوساطة العقارية والخدمات العقارية.\n\n • تقديم معلومات مضللة أو إخفاء معلومات جوهرية في شأن العقار محل الوساطة أو الخدمة العقارية.",
+      "paragraph_count": 4,
+      "indexable_paragraph_count": 4,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-18::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "يُعد من مخالفات أحكام النظام ارتكاب أي من الأفعال الآتية:",
+          "text_for_index": "يُعد من مخالفات أحكام النظام ارتكاب أي من الأفعال الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-18::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• ممارسة نشاط الوساطة العقارية والخدمات العقارية دون ترخيص.",
+          "text_for_index": "• ممارسة نشاط الوساطة العقارية والخدمات العقارية دون ترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-18::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تقديم معلومات غير صحيحة للحصول على ترخيص لممارسة نشاط الوساطة العقارية والخدمات العقارية.",
+          "text_for_index": "• تقديم معلومات غير صحيحة للحصول على ترخيص لممارسة نشاط الوساطة العقارية والخدمات العقارية.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-18::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "procedure",
+            "authority"
+          ],
+          "legal_function_tags_ar": [
+            "إجراء",
+            "اختصاص"
+          ],
+          "text_verbatim": "• تقديم معلومات مضللة أو إخفاء معلومات جوهرية في شأن العقار محل الوساطة أو الخدمة العقارية.",
+          "text_for_index": "• تقديم معلومات مضللة أو إخفاء معلومات جوهرية في شأن العقار محل الوساطة أو الخدمة العقارية.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 19,
+      "article_label": "التاسعة عشرة",
+      "article_label_raw": "التاسعة عشرة",
+      "article_heading": "التاسعة عشرة",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة التاسعة عشرة",
+      "text_verbatim": "• يعاقب كل من يخالف أي حكم من أحكام النظام، بعقوبة أو أكثر من العقوبات الآتية:\n\n\tأ- الإنذار.\n\n\tب- تعليق الترخيص لمدة لا تتجاوز (سنة).\n\n\tج- إلغاء الترخيص.\n\n\tد- غرامة لا تتجاوز (200,000) مائتي ألف ريال.\n\n\t• تجوز مضاعفة الغرامة المحكوم بها في حال تكرار المخالفة خلال (ثلاث) سنوات من ارتكابها.\n\n\t• تحدد اللائحة تصنيف المخالفات والعقوبات المقررة لها بناءً على الفقرة (1) من هذه المادة.\n\n\t• يحق لمن أُلغي ترخيصه التقدم بطلب ترخيص جديد وفق الإجراءات النظامية بعد مضي (ثلاث) سنوات من تاريخ الإلغاء.",
+      "text_for_index": "• يعاقب كل من يخالف أي حكم من أحكام النظام، بعقوبة أو أكثر من العقوبات الآتية:\n\n أ- الإنذار.\n\n ب- تعليق الترخيص لمدة لا تتجاوز (سنة).\n\n ج- إلغاء الترخيص.\n\n د- غرامة لا تتجاوز (200,000) مائتي ألف ريال.\n\n • تجوز مضاعفة الغرامة المحكوم بها في حال تكرار المخالفة خلال (ثلاث) سنوات من ارتكابها.\n\n • تحدد اللائحة تصنيف المخالفات والعقوبات المقررة لها بناءً على الفقرة (1) من هذه المادة.\n\n • يحق لمن أُلغي ترخيصه التقدم بطلب ترخيص جديد وفق الإجراءات النظامية بعد مضي (ثلاث) سنوات من تاريخ الإلغاء.",
+      "paragraph_count": 8,
+      "indexable_paragraph_count": 8,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• يعاقب كل من يخالف أي حكم من أحكام النظام، بعقوبة أو أكثر من العقوبات الآتية:",
+          "text_for_index": "• يعاقب كل من يخالف أي حكم من أحكام النظام، بعقوبة أو أكثر من العقوبات الآتية:",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "أ- الإنذار.",
+          "text_for_index": "أ- الإنذار.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-3",
+          "paragraph_index": 3,
+          "legal_function_tags": [
+            "penalty",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "ب- تعليق الترخيص لمدة لا تتجاوز (سنة).",
+          "text_for_index": "ب- تعليق الترخيص لمدة لا تتجاوز (سنة).",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-4",
+          "paragraph_index": 4,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "ج- إلغاء الترخيص.",
+          "text_for_index": "ج- إلغاء الترخيص.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-5",
+          "paragraph_index": 5,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "د- غرامة لا تتجاوز (200,000) مائتي ألف ريال.",
+          "text_for_index": "د- غرامة لا تتجاوز (200,000) مائتي ألف ريال.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-6",
+          "paragraph_index": 6,
+          "legal_function_tags": [
+            "penalty",
+            "condition",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• تجوز مضاعفة الغرامة المحكوم بها في حال تكرار المخالفة خلال (ثلاث) سنوات من ارتكابها.",
+          "text_for_index": "• تجوز مضاعفة الغرامة المحكوم بها في حال تكرار المخالفة خلال (ثلاث) سنوات من ارتكابها.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-7",
+          "paragraph_index": 7,
+          "legal_function_tags": [
+            "penalty"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء"
+          ],
+          "text_verbatim": "• تحدد اللائحة تصنيف المخالفات والعقوبات المقررة لها بناءً على الفقرة (1) من هذه المادة.",
+          "text_for_index": "• تحدد اللائحة تصنيف المخالفات والعقوبات المقررة لها بناءً على الفقرة (1) من هذه المادة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-19::paragraph-8",
+          "paragraph_index": 8,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "• يحق لمن أُلغي ترخيصه التقدم بطلب ترخيص جديد وفق الإجراءات النظامية بعد مضي (ثلاث) سنوات من تاريخ الإلغاء.",
+          "text_for_index": "• يحق لمن أُلغي ترخيصه التقدم بطلب ترخيص جديد وفق الإجراءات النظامية بعد مضي (ثلاث) سنوات من تاريخ الإلغاء.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 20,
+      "article_label": "العشرون",
+      "article_label_raw": "العشرون",
+      "article_heading": "العشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "procedure",
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "إجراء",
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة العشرون",
+      "text_verbatim": "• تكوَّن بقرار من رئيس المجلس لجنة (أو أكثر) من ثلاثة أعضاء -على الأقل- يكون أحدهم من المختصين في الشريعة أو الأنظمة؛ تتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في المادة (التاسعة عشرة) من النظام، وتصدر قراراتها بالأغلبية، ويعتمدها الرئيس التنفيذي للهيئة. وتحدد اللائحة إجراءات عمل اللجنة.\n\n\t• يجوز لمن صدر بحقه قرار العقوبة التظلم منه لدى الجهة القضائية المختصة خلال (ثلاثين) يوماً من إبلاغه بقرار العقوبة.",
+      "text_for_index": "• تكوَّن بقرار من رئيس المجلس لجنة (أو أكثر) من ثلاثة أعضاء -على الأقل- يكون أحدهم من المختصين في الشريعة أو الأنظمة؛ تتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في المادة (التاسعة عشرة) من النظام، وتصدر قراراتها بالأغلبية، ويعتمدها الرئيس التنفيذي للهيئة. وتحدد اللائحة إجراءات عمل اللجنة.\n\n • يجوز لمن صدر بحقه قرار العقوبة التظلم منه لدى الجهة القضائية المختصة خلال (ثلاثين) يوماً من إبلاغه بقرار العقوبة.",
+      "paragraph_count": 2,
+      "indexable_paragraph_count": 2,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-20::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "procedure"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء"
+          ],
+          "text_verbatim": "• تكوَّن بقرار من رئيس المجلس لجنة (أو أكثر) من ثلاثة أعضاء -على الأقل- يكون أحدهم من المختصين في الشريعة أو الأنظمة؛ تتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في المادة (التاسعة عشرة) من النظام، وتصدر قراراتها بالأغلبية، ويعتمدها الرئيس التنفيذي للهيئة. وتحدد اللائحة إجراءات عمل اللجنة.",
+          "text_for_index": "• تكوَّن بقرار من رئيس المجلس لجنة (أو أكثر) من ثلاثة أعضاء -على الأقل- يكون أحدهم من المختصين في الشريعة أو الأنظمة؛ تتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في المادة (التاسعة عشرة) من النظام، وتصدر قراراتها بالأغلبية، ويعتمدها الرئيس التنفيذي للهيئة. وتحدد اللائحة إجراءات عمل اللجنة.",
+          "indexable": true
+        },
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-20::paragraph-2",
+          "paragraph_index": 2,
+          "legal_function_tags": [
+            "penalty",
+            "procedure",
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "إجراء",
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "• يجوز لمن صدر بحقه قرار العقوبة التظلم منه لدى الجهة القضائية المختصة خلال (ثلاثين) يوماً من إبلاغه بقرار العقوبة.",
+          "text_for_index": "• يجوز لمن صدر بحقه قرار العقوبة التظلم منه لدى الجهة القضائية المختصة خلال (ثلاثين) يوماً من إبلاغه بقرار العقوبة.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 21,
+      "article_label": "الحادية والعشرون",
+      "article_label_raw": "الحادية والعشرون",
+      "article_heading": "الحادية والعشرون",
+      "article_type": "penalty",
+      "article_type_label_ar": "عقوبة",
+      "legal_function_tags": [
+        "penalty",
+        "condition"
+      ],
+      "legal_function_tags_ar": [
+        "جزاء",
+        "شرط"
+      ],
+      "topic_tags": [
+        "violations"
+      ],
+      "topic_tags_ar": [
+        "مخالفات وتعديات"
+      ],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الحادية والعشرون",
+      "text_verbatim": "إذا شكل ارتكاب أي مخالفة لأحكام النظام مخالفةً أخرى يعاقب عليها نظام آخر؛ فتطبق العقوبة الأشد.",
+      "text_for_index": "إذا شكل ارتكاب أي مخالفة لأحكام النظام مخالفةً أخرى يعاقب عليها نظام آخر؛ فتطبق العقوبة الأشد.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-21::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "penalty",
+            "condition"
+          ],
+          "legal_function_tags_ar": [
+            "جزاء",
+            "شرط"
+          ],
+          "text_verbatim": "إذا شكل ارتكاب أي مخالفة لأحكام النظام مخالفةً أخرى يعاقب عليها نظام آخر؛ فتطبق العقوبة الأشد.",
+          "text_for_index": "إذا شكل ارتكاب أي مخالفة لأحكام النظام مخالفةً أخرى يعاقب عليها نظام آخر؛ فتطبق العقوبة الأشد.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 22,
+      "article_label": "الثانية والعشرون",
+      "article_label_raw": "الثانية والعشرون",
+      "article_heading": "الثانية والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [],
+      "legal_function_tags_ar": [],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثانية والعشرون",
+      "text_verbatim": "يلغي النظام لائحة تنظيم المكاتب العقارية، الصادرة بقرار مجلس الوزراء رقم (334) وتاريخ 7 / 3 / 1398هـ.",
+      "text_for_index": "يلغي النظام لائحة تنظيم المكاتب العقارية، الصادرة بقرار مجلس الوزراء رقم (334) وتاريخ 7 / 3 / 1398هـ.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-22::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [],
+          "legal_function_tags_ar": [],
+          "text_verbatim": "يلغي النظام لائحة تنظيم المكاتب العقارية، الصادرة بقرار مجلس الوزراء رقم (334) وتاريخ 7 / 3 / 1398هـ.",
+          "text_for_index": "يلغي النظام لائحة تنظيم المكاتب العقارية، الصادرة بقرار مجلس الوزراء رقم (334) وتاريخ 7 / 3 / 1398هـ.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 23,
+      "article_label": "الثالثة والعشرون",
+      "article_label_raw": "الثالثة والعشرون",
+      "article_heading": "الثالثة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الثالثة والعشرون",
+      "text_verbatim": "يصدر المجلس اللائحة خلال (مائة وثمانين) يوماً من تاريخ صدور النظام، وتنشر في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+      "text_for_index": "يصدر المجلس اللائحة خلال (مائة وثمانين) يوماً من تاريخ صدور النظام، وتنشر في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-23::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يصدر المجلس اللائحة خلال (مائة وثمانين) يوماً من تاريخ صدور النظام، وتنشر في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+          "text_for_index": "يصدر المجلس اللائحة خلال (مائة وثمانين) يوماً من تاريخ صدور النظام، وتنشر في الجريدة الرسمية، ويعمل بها من تاريخ نفاذ النظام.",
+          "indexable": true
+        }
+      ]
+    },
+    {
+      "article_index": 24,
+      "article_label": "الرابعة والعشرون",
+      "article_label_raw": "الرابعة والعشرون",
+      "article_heading": "الرابعة والعشرون",
+      "article_type": "general",
+      "article_type_label_ar": "حكم عام",
+      "legal_function_tags": [
+        "deadline"
+      ],
+      "legal_function_tags_ar": [
+        "مهلة زمنية"
+      ],
+      "topic_tags": [],
+      "topic_tags_ar": [],
+      "citation_short_ar": "نظام الوساطة العقارية، المادة الرابعة والعشرون",
+      "text_verbatim": "يعمل بالنظام بعد (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "text_for_index": "يعمل بالنظام بعد (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+      "paragraph_count": 1,
+      "indexable_paragraph_count": 1,
+      "paragraphs": [
+        {
+          "paragraph_id": "real-estate-brokerage-law::article-24::paragraph-1",
+          "paragraph_index": 1,
+          "legal_function_tags": [
+            "deadline"
+          ],
+          "legal_function_tags_ar": [
+            "مهلة زمنية"
+          ],
+          "text_verbatim": "يعمل بالنظام بعد (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "text_for_index": "يعمل بالنظام بعد (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+          "indexable": true
+        }
+      ]
+    }
+  ]
+}
